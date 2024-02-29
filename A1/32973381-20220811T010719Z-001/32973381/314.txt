@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1551664461 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Book </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Greta follow up to Sense & Sensibility. Follows Margaret's quest for love. Also hints of Eleanor & Mariannes happiness in married life. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mediocre book </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-09-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was an okay novel, though too inspid for my taste. The plot was transparent and had all the complexity of a Barbara Cartland novel. I checked out two others by her at the same time I got this one, but they've gone back unread. I love Austen's characters, and love to speculate on what might have happened to them after the end of the novels. I've read every continuation I can get my hands on, and this one was the most disappointing. Read as a Regency novel, it wouldn't have been so bad, but it was simply not satisfying as an Austen continuation. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Barely worth to be read... </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-03-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> "The Third Sister", a Sense & Sensibility sequel, treads shallow waters, compromising between the two Barret `extremes' by being sufficiently plotted, but dull and predictable. Margaret, miraculously transformed into a fine, intelligent young lady (one has the impression that Barret watched Emma Thompson's film, which included a lively, appealing child Margaret) has to choose between two young men, one resembling Edward Ferrars in his reserve and quiet demeanor, the other resembling Willoughby in his good looks and `liveliness'. Unpredictably-or is it with complete predictability?- they are neither what Margaret thinks they are. And they are both shallow characters, very much like Margaret. There is very little emotional development and resonance between either and Margaret.The language is just barely adequate, the events so unmemorable that I can just recall the skeleton of the plot relating to Margaret after 2 years of reading the book. If you must read something else by Barret, read "Presumption". If you wish for an excellent Austen sequel, read "Sanditon", completed by Marie Dobbs. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Up, up and sputter, clunk. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> For the best part of 25 chapters I would probably have concurred with the writer of the blurb who said: &#34;The Third Sister is an imaginative, inventive continuation of Sense and Sensibility&#34;, then it suddenly crashed. The last four chapters read like a hasty, glib, facile escape by the authors. What happened? Did they look at the word count after 25 chapters, then look at each other and say: &#34;This is about as long as we planned the whole book to be, let's get it over with and go drink the cheque&#34; ? The wrap-up takes the whole thing too close to melodrama and pantomime. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Almost Austen </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-25-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a fun read for Austen fans who are drawn to the mood and social nuance of Austen's work.  'The Third Sister' is the continuation of 'Sense and Sensibility.'  We get glimpses into how Eleanor and Marriane are doing  in their new lives and marriages, but the true focus of the story is  Margaret Dashwood, the youngest sister, who has now grown into a beautiful  young woman.  Margaret, it seems, took Marianne's traumatic lessons in love  much more to heart than any of the others.  She's girded herself against  flirtacious rogues like Willoughby, and is prepared to resist their wiles  staunchly.  'The Third Sister' is the tale of Margaret's coming of age, her  adventures in romance, and her mastery of both sense and sensiblity.This  book is well-written in faux-Austenesque prose, and the story is engaging.  But, it's a case of so close, and yet so far for me.  I found it difficult  to overlook the repeated un-Austen-like moments, which kept grounding me in  the counterfeit nature of the work.  Plus, the story itself, while very  like an Austen tale in so many ways, wasn't nearly as gripping, or  tension-filled, as Austen's own novels.Margaret's character, and that  of Lady Clara, was well-developed.  But her romantic interests were not  given the same amount of attention and motivation, which left their  relationships with Margaret rather pale and unsubstantial.So, I  recommend this book to Austen fanatics for the little bit of escapism it  provides--for those moments when I was able to forget that this book wasn't  written by Austen.  But, be prepared for those moments to be repeatedly  burst by the frequent flaws that continue to announce it an imitation. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An enjoyable book and outstanding &quot;sequel&quot; to S&amp;S </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-25-1999  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a faithful sequel to Sense and Sensibility and reacquaints us to most of the characters from the original.  Imaginative and yet staying true to Ms. Austen's characterizations, Jane Barrett has proven herself (with  this and &quot;Persuasion&quot;) as one of the better novelists who have  dared to follow in Ms. Austen's shoes. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Enjoyable follow up to Sense and Sensibility </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-03-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nothing can come close to Austen.  Having said that, I found The Third Sister quite enjoyable in its own right.Margaret Dashwood, the youngest Dashwood girl, has to choose between two suitors.  Who will she choose, the gentleman or the rake?  Will she remember what happened to older sister  Marianne?If you're into Austen, give this one a try. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ummm, okay. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-12-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> Of the relatively few sequels written to Sense and Sensibility, this would have to be one of the better ones.  It is entertaining, though not very accurate to Austen or S&amp;S.  As a sequel, it is horrible while as  regular book, it's okay.  It would have been really nice to see a greater  focus on Elinor and Marianne, who, after all, were the characters we fell  in love with.  Poor Margaret was always ignored by Austen, and it is nice  that someone rembered her, but she wasn't the sister that we cried for or  the one that we laughed with.  Barret does a commendable job in writing an  interesting book, but deserves nothing in writing an Austen sequel. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Disappointed </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-19-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I did not like the old english (which was sometimes confusing) and it talked more about everybody else than the third sister. Didn't work for me. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Two Beaus for Margaret </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-25-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really enjoyed this book. Sense and sensibility isn't even my favorite Austen novel but I loved this sequel. It addresses Marianne's marriage, Elinor and Edward's relationship, the ferrar's bunch, some of the Dashwoods, all our familiar characters. Margaret's character is really developed and intriguing. I loved the two beaus interested in Margaret....they had me fooled for a few minutes. I really was just unsure which one was going to be the rogue. I twisted and turned directions a few times.. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

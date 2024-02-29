@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1560257482 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Thick as a Brick, But Full of Fascination </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-19-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This starts out as a very intimidating book, mainly because of it's width. Once you enter it, though, it's very readable. This is a story of the toiler's side of science & technology-how many of the heroes of science whom we're taught to admire based their hypotheses on the experiences of people who worked forges, sailed ships, mixed herbal concoctions, & dug mines. It's also a study of how the current practice of science developed-& how it's often turned out to be anything but the politically neutral activity that many spokespeople for current science claim it is. I've been interested in the history of astronomy & navigation for more than 20 years, & in the last several years added an interest in American science policy. I recommend it highly. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Post Modernist silliness </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-05-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> When a writer takes on their task of presenting a subject like history with the ideology of a leftist post modernist the result is a book like "A People's History of Science". This ideology is one of missing important facts, ignoring others that may impact the quest and constant repetition of verbiage and terminology.The author likes to speak for the "little guy" who toiled in the galleys and decks and sheds to come up with the "empirical" data that the "Theoretical" and "elite" scientists merely transcribed and became famous for. Mr. Conner it just aint that simple. As a post modernist, the author disdains al forms of elitism, hierarchy and authority. As an author however he makes himself elite; he speaks as an authority, what would be the point of writing a book otherwise?The book is less to extol the "little guy" as it is an attack on science. In this regard the author joins ranks with the religious right. His intention is to redirect people's thinking from rational and reasoned thinking and towards throwing out scientific findings with the bath water.The book describes people and events that may take the logical thinker in research directions. There are a lot of interesting stories to pursue for more information but all told the premise is sophomoric and in a few years will be forgotten. It is a puerile book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Overcompensation </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-10-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Howard Zinn's People's History of the U.S. has reached new levels of popularity in recent years, and left wing capitalists everyone seem to want to cash in. This is a rather poor effort--his technique seems to consist of gathering together any leftist study of the past few decades "deconstructing" science and throwing them all together. Merely agreeing with his viewpoint is enough to merit inclusion--thus the insights range from brilliant to comical and unsupported by actual evidence.The weakness in a "people's" history of science is that the central premise falls apart in modern times. Information age science and technological developments may highlight the wrong person (Alexander Graham Bell instead of Elisha Gray for the telephone, Apple Computers for the personal computer graphical user interface instead of Xerox PARC) but in virtual all these modern misattributions the wronged party was of the same nationality, socioeconomic and ethnic group as the generally recognized inventor.Finally "multicultural" world histories make very selective use of the rich resource of pre-modern, non-Western narrative history to come to their conclusions. Sentences are cherry-picked out to support the cause, and everything inconvenient is discarded. One of a hundred examples I could name is the degree of credit classical Greek civilization deserves. There are well over a thousand years of the finest scholars of the North African and Middle Eastern Islamic world paying tribute to Greek science and philosophy. At a time when Western Europe cared NOTHING for Greek though, a diverse group of scholars, made of individuals of different socioeconomic/ethic/national origins analyzed and appreciated those texts. From Morocco and Muslim Spain to Persia, the pagan Greeks were the most appreciated "foreign" civilization (by that I mean non-Muslim and non-Arabic speaking.) Exposure to the great civilizations of China, India and Africa didn't change this opinion. See, amongst other realist multicultural histories, The Classical Heritage in Islam by Franz Rosenthal. I personally wouldn't put Greece's contributions anywhere near China's, but Greece was the key non-Arabic, pagan society to generations of African & Middle Eastern scholars. Only in recent years, with the influence of left-wing Westernism, has that changed. So much for the West being the one to artificially prop up Greek accomplishments! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fair enough </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-27-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I would want to give a 5-star rating to this book, but considering the unbearably boring and report-like last chapter of this book, I give a 4-star instead. Although lack of technological details which abounds in other books on the history of sciences and focuses are not broad, this book affects me in some general aspects: I was a believer in the Great Man Theory and science elitism, since I live in a place where most people doing scientific works despise anything which claims itself scientific but has little math or physics in it. I am about to choose my major but I'm wavering between theoretical physics and chemistry & chemical engineering. Now this book helps me to make a decision, which is to devote myself to engineering fields. I was first interested and then dazzled by the descriptive narrative of lives and achievements of goldsmiths, blacksmiths, low mechanicks and Renaissance workers in chapter 3 to chapter 6. The other 4 chapters are, in my personal opinion, quite terribly written, dry, and bookish. I highly recommend a complete revision of those 4 chapters in the second edition, if possible.I recommend this book to anyone who's interested in science but is afraid that himself/herself cannot be a great man of science. This book has successfully convinced me that even if I do not have quick mind, or innate scientific genius, I can still make even major contributions to science. Science is not exclusive to those smart people, those who were dabbed 'great men of science'. However some foibles of this book are to be noticed: there is, essentially, no significant original idea from the author, and this book has taken a rather literary approach, containing few details about those major scientific contributions. In fact, I would claim that the approach taken by the author is so literal that this book should better be classified as a history book or literature book, rather than science book.(It belongs to the science books category in my local library) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Interesting - lots of detail and information </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-23-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> In its essence science is the story of great ideas and finding ways of discovering them and in that pursuit men have toiled long and hard in every imaginable way. In this book Weiner describes the work of the common man throughout the history of science. The book is fascinating in its descriptions of early science and technical work (fascinating in a way that makes me glad I live in this century.)I also found it interesting how he outlines the rise of the scientist as a cultural elite. Beginning in earliest times scientists (except for engineers and mathematicians) lived on the outskirts of society. Thought to be odd and possibly wicked they were routinely shunned. With the demise of the church and the subsequent elevation of natural philosophy scientists gained standing and recognition. When, in the mid-eighteen hundreds people saw that science was actually useful to save lives (namely their own) scientists of all kinds became members of the elite.The book is very readable and thou rough. An excellent book for anyone interested in history or science. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> PC Baloney </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-29-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Clifford D. Conner has a viewpoint on the history of science that is downright wrong.  His thesis is that there is "a much, much greater contribution to the production and propagation of scientific knowledge on the part of anonymous masses of humble people--the common people--than is generally recognized or acknowledged."  That Newton didn't sit on the shoulder of giants, but rather "stood on the backs of untold thousands of illiterate artisans."  To arrive at this rather startling picture, he starts by defining science extremely broadly as "knowledge of nature and the associated knowledge-producing activities."About the first half of the book is about the pre-scientific revolution, and covers in detail all of the "scientific knowledge" attained by hunter-gatherers, early agriculturalists, polynesian navigators, that Sub-Saharan rulers of Egypt, the polynesian navigators,  and so on.  No doubt these people acquired much "knowledge of nature"  and therefore had among them anonymous, illiterate masses of scientists, he argues.One problem here is that he uses "science" in a way that makes his case so obvious it borders on the tautological.  Most people today when the refer to "science" means something scientists do:  it involves systematic collection of data, measurements and quantification, tables, charts, graphs, equations, models, laws, and generalizations; controlled experiments and observations with complex scientific instruments;  and publications in peer reviewed scientific journals.  It is done by known, highly educated individuals, who publish their results--an elite.What he is really trying to do, he freely admits, is to show that the great elite heroes of science, tike Newton and Galileo, were actually not so great.  Did you know, he winks,  that Boyle, who supposedly discovered Boyle's Law, actually had a technician!  And that Henry the Navigator was not only not a navigator, he rarely set foot on a ship!  Gee, even Tycho Brahe's observatory was actually built by artisans and craftsmen, now lost to history!Then we get down to Conner's real problem: his account of the scientific revolution reveals that the elite "great" men are not only men, but they are white Western men!  And therefore they are not only sexist, they are racists to boot.  And not only that, the exist as at the peak of a hierarchy who exploit the real producers of progress for their own, dubious glory.  And not only that, much of the science they produce makes for a society that is unequal, destructive, and even pollutes the environment.This is just so much boring, politically correct, baloney, told mostly in a sophomoric impenetrable "academic" style so turgid only dead Marxists could appreciate it.  Pass it by. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A fair introduction </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-30-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> To say that the scientific profession is removed from the "common" elements of society in that they are more intelligent, insightful, dispassionate, objective, and trustworthy is perhaps one of the most inaccurate historical (and scientific) myths that have permeated Western society. And to say that scientific or technological progress is due to a small number of "great" individuals (mostly men) throughout history is also completely unsubstantiated scientifically. It would take an enormous amount of research to substantiate either of these two beliefs, which, anecdotally speaking, seem to be held by a vast amount of people. Hero worship, the great men theory of history, and false imputations of genius occur in the scientific profession as they do in any others. For those interested in an accurate view of the history of science, these beliefs must be subjected to severe scrutiny. Intuitively, it would seem more accurate to believe that scientific ideas or even revolutions find their origins in many different people, some of who have chosen to not engage in scholarship, but have instead used these ideas because of their value in practical application.But if some ideas, or indeed most, are the result of anonymous individuals, this would be of course be difficult to prove, because of the lack of historical records. The author of this book therefore has a difficult job, for he wants to show that it was the common people, the `miners, midwives, and low mechanicks' that were primarily responsible for scientific advances. But `the people' did not write down their contributions, and so any credit to be granted to them will have to find its origin in the statements and writings of those who interacted with them.The author has done a fair job in his attempt to substantiate this claim, but there are many places in the book where he displays an anger that is best left out of an objective, professional study. His politics is definitely to the left end of the spectrum, and he interjects various politically charged statements at various places in the book. In addition, he has a somewhat bizarre condemnation of the profit motive, considering this book itself would not have appeared in print if it were not for those who are motivated by profits.Readers will be exposed to assertions that are very different from the ones they perhaps grew up with. Even if these assertions are not factual, they could still encourage critical thinking on the part of these readers. There is some very interesting content in the book, with appropriate references given. One will learn for example that the first oil well was drilled using techniques that were imported from China. Indeed, the author spends an entire section on the contributions to modern science from `Chinese artisans.' In addition, the author asserts that "Henry the Navigator" did not in fact arrive at any knowledge of navigation by himself but merely purchased it. Many, many other interesting discussions can be found in the book, some of which are "radical." Those who do not wish their cognitive equilibrium disturbed should avoid reading this book.The author also wants to fast forward to the current situation in scientific research circles. When reading this part of the book one can perhaps take a more relaxed notion of evidence and argue that there is plenty of anecdotal evidence to suggest that there are severe problems in the halls of academia, that the predominant emotion there is envy, that there is more joules of energy expended on infighting than there is on research, that patronage and favoritism governs promotions rather than competence, that thesis advisors take credit for the ideas of their students, and that many of its members are so hypersensitive to criticism that reviews of their work must be done anonymously lest the reviewer be subjected to unrelenting criticism and pressure. But this reviewer knows of no scientific study that would corroborate this (anecdotal) evidence. Such a study would be of great interest to those interested in the sociology and psychology of scientific research, and to those young people who are interested in entering the scientific profession. But even if these attitudes were shown to be characteristic of the majority of academia, the fact remains that some individuals, be they famous or completely unknown, be they in academia or industry or in a garage, are responsible for the incredible rate of scientific and technological advance in the twenty-first century. These individuals whether they be `scholars' or `craftsman', and whether they documented their efforts or not, are certainly greatly appreciated, and they have left an immutable mark on history, whether this was their intent or not. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ignorant and self-contradictory </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-23-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book purports to simultaneously correct the mainstream history of science, highlighting the contribution of unlettered craftsmen, sailors, folk healers and non-Westerners to its development, and criticize science for being subservient to the interests of the ruling classes and complicit in their crimes. There is an inherent contradiction between these goals, which Conner does not notice. If medicine is forever tainted by the infection of Chinese and Allied POWs with lethal bacteria done by the Japanese doctors, then who cares if folk healers contributed to its development? If labor-saving devices saved the employers' labor expenses rather than the employees' labor, who cares if they were invented by illiterate mechanics?Conner does not seem to know mathematics, given that he does not understand the difference between Babylonian and Egyptian mathematics and Greek mathematics, claiming that the "Greek miracle" is an artifact of racist scholars who did not want to give due credit to non-"Aryan" peoples. Nor does he seem to know medicine, given that he praises homeopathy and hydropathy, which challenged medical orthodoxy, which in turn dismissed them as unscientific. He also criticizes the French academicians who dismissed Mesmerism as a fraud, and notes that psychoanalysts trace modern psychotherapy back to Mesmer. What does this guy know? An Internet search shows that he is a dilettante. Or is it elitist of me to label him as such, as the doctors were elitist to dismiss the folk healers? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For the stupid "people"? </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This author knows little science and less history. I'm not even sure Conner himself knows what he means when he uses the word &#34;people.&#34;Are rich people people? Yes, they're rich and this, that, but aren't they people too?And aren't white people people? Sure, they're white and this, that, but aren't they people too?This book is more an experimental fiction book than a book of history or science or math.He makes careless accusations toward &#34;scholars,&#34; saying they (as if they're all in on it) are racists, and that they sought to distort history to keep the &#34;people&#34; down.Worse still, the title seems to have been selected for commercial reasons, riding the coattails like a leech unto Zinn's title.For whom is this book written? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Long, but interesting. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-19-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is long, perhaps unnecessarily so, and at times I was skeptical of the organizational strategy.  That said, Conner makes some important points.  Considering the heavy impact of science on social policy, it is critical that science be accessible to the masses and that the general public have a say in the direction and priorities of scientific research. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Close but no cigar </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-08-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Being of a generally socialist bent, I am very sympathetic to the project of "people's histories", ever since it was conceived by A.L. Morton's excellent A people's history of England, but that does not mean that we should be uncritical towards what is actually written. Not just Howard Zinn's prototype book (People's History of the United States: 1492 to Present) in the modern series should be evaluated with care, but this goes as well for other books in this series, including this one, the "People's History of Science" by Clifford Conner.Conner's thesis is that although the history of science has often been portrayed in the usual "Great Men" style as the work of a privileged few brilliant men (and yes, almost only men) seeing further than anyone elses and inventing wondrous new sciences and technologies, in reality most of established academia during the ages was of no value whatever, and real scientific progress resulted through the experiments and practice of artisans, painters, miners, etc., not through the academic thinking of the learned.Tracing a chronology of technological development, Conner gives a convincing if not entirely open-and-shut case for this thesis, in particular when it comes to demonstrating the great advances in science made by the lowly and unacademic during the ancient periods as well as the Middle Ages and the Renaissance. Equally, Conner gives women and non-Europeans their due, quite correctly emphasizing the large advances in technology made by the Chinese, the Native American societies, the Arabs, and so on, often ages before any European ever conceived of the thought. Conner does this quite well, in the process also repudiating the popular view of the natives as the "noble savages living in communion with nature"; in reality the various Indian tribes were masters at the manipulation of nature to their advantage, such as forestry and the genetic selection of edible plants to improve agriculture.However, this book also has clear and evident downsides. Conner's own specialization seems to be in the history of science during the period of the Renaissance through the 18th-19th Centuries, for it is the chapters on this that are by far the best part of the book and particularly worth reading. On other subjects, however, he is much less informed. Especially the chapter on science in ancient Greece is woefully erroneous: Conner has bought completely into the oft-refuted theories of Martin Bernal, including even the slanderous commentary on Karl Otfried M&uuml;ller, which even Bernal himself has since withdrawn. The entire "out of Africa" tendency of this chapter is as wrong and unscientific as that idea itself. But that's not all, since Conner's understanding of Plato is also horribly mangled, leading him to either ignore or completely misunderstand the possibly progressive elements in Plato's "Republic". For example, when discussing Plato's political views, Conner at no point even deems it worth mentioning that in Plato's ideal society men and women would have an equal opportunity to lead if worthy, surely a very revolutionary view in his time (compare it to Aristoteles!). He also does not understand Plato's conception of the various classes in his society, which are explicitly opposed to the idea of castes one are born into, unlike what Conner seems to assume. Conner even quotes Marx who refutes the point he is trying to make in that context.I do not know enough about most of the other subjects Conner writes on without being specialized in them, like classical China, prehistoric societies, and so on, to judge whether that suffers from similar flaws, but at least if he gets these things that I do happen to know so horribly wrong, that bodes ill for the trustworthiness of the entire book. So do take his analysis with a grain of salt at all times, and check the sources elsewhere. Additionally, the book contains many minor spelling errors and wrong expressions in foreign languages cited; not a big deal, but something a competent editor should have caught and removed.On the whole, the book's chapters on the so-called Scientific Revolution are very good, and his commentaries on other historians of science are worth reading. His thesis is also sufficiently proven to be convincing, if not enough to be certain; it may be added though that he does not establish very well that the Great Men theory of the history of science is actually still supported by contemporary historians, making his case seem a bit obsolete. And his use of sources is very narrow and occasionally wholly incorrect at times, so be skeptical when reading. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One of the best books I've read </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-18-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> An absolutely stunning history of science from hunter-gatherers to office workers. In the great tradition of popular history, Mr. Connor argues that it was the common people, not the elites, who have been the developing force behind a great portion of science. Taking the view that the deed comes before the word (in biblical terms), Mr. Connor shows that it was the DIY spirit common to all people low and high that explains much of the technological development, whilst scientific methods arose from people's daily experience of trying to make a living.In contradiction to the bollocks in our history and science books, science is not just the realm of elite Heroes of Science but is the empirical experiences of working people grappling with the worlds. Empirical trial-by-error experience comes before theoretical pondering, no matter what our ivory tower intellectual elite may like us to believe.Again, great book. Buy it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Book </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-01-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the first book in a new series of books that was inspired by Howard Zinn's 'People's History of the United States' which is a great book as well.  The author is clearly very knowledgable about the subject, the prose is easy to follow, and the content is very interesting. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> keep the baby--throw out the bath water </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-28-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> There is much good in this book that should not be ignored just because some reviewers correctly raise questions about the author's wide ranging ideas on subordinate topics. His overarching point is both provocative and essential to know what made the West supreme: the ordinary people were allowed the freedom of action and thought to innovate, tinker, and create labor saving devices. And the related fact is that the academics, intellectual elites, thinkers and philosophers contributed much less than the lowly mechanics and engineers who, by getting their hands dirty, actually developed useful practical innovations that worked!Conner shows the reader how, since the earliest civilizations, the elites at the top have suppressed lower class innovators while adopting their discoveries and calling them their own. As Conner notes, many of the "Great Man" myths about learned thinkers who are supposed to have dreamed up science out of their own genius have been debunked. He rightly points out that as Newton said, I have only seen far because I have stood on the shoulders of the great inventors that preceded me. Progress proceeded by small steps, built on prior "baby" steps, and each step was fashioned by those who actually built the machines or innovated the processes that added to efficiency and power.While it is not totally clear in his book, the author implies that "Great Men" were less helpful, but he fails to distinguish between the lowly inventor who labored unrecognized as compared to the ones that became famous because their innovations were so numerous or significant that they became "great" in reputation. It is not reasonable to write off some just because their names became legendary. Farraday for example, like most of the important innovators, came from a poor farm family, had little education, was mostly self-taught, and worked hard at his electrical discoveries. He exemplifies a worthy ordinary individual who justifiably became "great." The important point to me is that he came from the bottom up, like the unheralded tinkerers the author celebrates, and that distinguished him from academics and theorists who created no actual machines or processes. That distinction reveals an important point about the source of genius--it is the practical mind over the abstract thinker that created progress. My own analysis of history shows this has always been the foundation of progress. The Industrial Revolution was powered by practical engineers and mechanics--not academics and philosophers.Thomas Sowell has made a useful example of the point this author aims at--there is a difference between "hard-scientists" and "soft-scientists." The hard, practical, and useful sciences are the physical sciences, and it is the engineers, chemists, mechanics, and such working people that create progress, not to mention the actual production of goods. "Soft-scientists," as Sowell observes, gravitate to the easier subjects, where they can pontificate on more esoteric subjects, keep their hands neat and clean, and critique or summarize what the common people have done. And, frequently, the academic elites will ignore, ridicule, and suppress the innovative ideas emerging from those less educated but more experienced individuals who fashion improvements for all our benefit. Conner presents that story very well and his story includes many fascinating examples to support his theory.It is true that some aspects of this book must be taken with a grain of salt, and the alleged leftist leaning and denigration of the Greeks, are among such faults. However, my understanding of the Greeks, like Conner's, may be more subtle than some reviewers who may have an oversimplified idea of Greek history. The fabled and heroic Greek tradition to which western civilization owes so much extended over at least five centuries. The earliest segment, from 800 to 450 BC., evidenced much of the extraordinasry science, theater, and literature we praise. Pythagorus, Homer, Hesiod, Lycurgus, Thales, Solon, Anaximander, and Aeschylus all typified pre 450BC Greece. That was long before the glory days of Socrates and Plato whose generalized philosophizing did little to help maintain the Periclean Age, and much to undetrmine it! The cycles of history are long and the rise and fall of nations are explainable. Intellectuals love to praise and defend Plato, and ignore the predecessors who built the posh Greek Civilization that supported the aristocrat Plato who was distinguished primarily by a high IQ which was undermined by a very low level of practical common sense. So, it may pay to look more carefully about what Connor writes about the Greeks. In any case, his book is thoroughly informative and full of thought provoking  facts and ideas. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

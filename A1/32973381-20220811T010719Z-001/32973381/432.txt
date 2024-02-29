@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B008251LE4 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-04-2014  
+<h2> review.text </h2>
+
+ <p> Once again this author does not disappoint. Patti has become one of my favorite authors. This series will keep you riveted. Don't miss out on all the excitement. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome </p>
+
+
+<h2> review.date </h2>
+  09-22-2012  
+<h2> review.text </h2>
+
+ <p> "The Long Lost", book five in the Hayle Coven Series, is definite proof that the series is getting better with each book.  Syd, now with her demon and a sidhe princess Shaylee inside her to strengthen her magically, is trying to enjoy the summer holidays which is proving to be anything but a holiday.  Several of her friends are leaving town, an evil grudge bearing coven arrives and, as usual, her friends and family are being targeted.  Assisted by her family and her pets/friends, Galleytrot, hound of the wild hunt, and her demon cat, Sassafras, she once again has to kick butt to save and protect those who are dear to her.  Of course the cheer squad - never her friends - has to complicate matters.Sydlynn Hayle is one of the most realistic main characters I have ever met in the numerous books I have read.  A very normal rebellious teenager, she has moments of self pity, self doubt and a fierce protectiveness toward her friends and family.  Her thoughts and inner dialogue are extremely natural but most of the time also hilariously funny.  The author allows her characters to grow throughout the series thus keeping it fresh and believable within the paranormal setting.  The witty dialogue, and especially Syd's smart mouth, had me smiling despite the nonstop action and suspense.The title of the book is highly appropriate as old grudges from the Hayle coven's past surface and enemies thought to be dead, gone or powerless, reappear.  With every new book in the series the author finds a new and refreshing story to tell. "The Long Lost" has a tender, bitter-sweet romantic twist for those who like a bit of romance in a story.I won't hesitate to recommend this book as an absolute must-read for readers of all ages.  I would, however, advise that you read the first four books in the Hayle Coven series before you read this one. Believe me, you'll love them all!  Thumbs up, five stars and many cheers for an excellent book and a wonderful author! (Ellen Fritz) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A DEFINITE MUST-READ!!! </p>
+
+
+<h2> review.date </h2>
+  02-16-2014  
+<h2> review.text </h2>
+
+ <p> Each book in The Hayle Coven Novels just keep getting better & better!  Miriam Hayle is the leader of the Hayle witch coven, her husband Harry is a demon Lord, daughter Sydlynn is part witch, part demon & so is youngest daughter Meira.  Not only does  the author spark your imagination with the lives of this coven but she also includes vampires & werewolves which keeps the reader craving more!  Highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great read! </p>
+
+
+<h2> review.date </h2>
+  09-30-2013  
+<h2> review.text </h2>
+
+ <p> Book 5 and I'm still enjoying the stories. Great characters that make you want to keep reading and a great story being told. Each one adds layers to the world Ms Larsen has created. Onto book 6 .... Happy reading </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm hooked </p>
+
+
+<h2> review.date </h2>
+  04-28-2013  
+<h2> review.text </h2>
+
+ <p> Finished, The Long Lost, Book Five in Patti Larsen's The Hayle Coven series, last night. Yes, I stayed up late to finish it, I couldn't sleep not knowing how Syd was going to get herself out of this latest mess and if she and Quaid were going to get back together again. The drama of it all, but seriously, this Young Adult Paranormal series is amazing, captivating and a total roller coaster ride from page one to finish! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Win for Patti Larsen </p>
+
+
+<h2> review.date </h2>
+  07-29-2012  
+<h2> review.text </h2>
+
+ <p> This is another great book by the wonderful Patti Larsen! This book is well worth it, and if you haven't started this series I recommend you do!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great one! </p>
+
+
+<h2> review.date </h2>
+  05-13-2012  
+<h2> review.text </h2>
+
+ <p> In this fifth installment into the Hayle Coven series, Patti Larsen has truly outdone herself. The Long Lost is my absolute favorite so far. Right from the first page I felt like I was settling in with old friends. I love to see how far Syd has come, and how much she has grown. I am also loving her grandmother, who lost her crazy in the previous book, The Wild. She is funny and spunky and feisty, and bold. The only character missing is Meira, Syd's little sis, who is also a fav of mine.The Long Lost picks up where The Wild left off, with Quaid off searching for his real family. His return is not at all what Syd had ever imagined. Standoffish and short, Quaid has found his family and has made the choice to join them. My heart was breaking for Syd. We girls remember that first breakup with the first love, and Syd's feelings and thoughts were so relatable.  Being the fighter she is, Syd uses those feelings of hurt and anger to only make her stronger.  As it turns out, Quaid's new family, the Dumonts, are long time Hayle enemies and the past is about to meet the present head on. As in true Patti Larsen style, the show down will be intense!And we can't forget Syd's dad, who is still trying to find a way back to Demonicon  and his frustration is taking its toll on the family. He plays a small role in The Long Lost and I am still hoping to learn more about his past and how he and Syd's mom found each other.On top of the family feud with the Dumonts, feelings of betrayal by Quaid, and her dad about blowing the neighborhood to smithereens, Syd's friends are falling apart. Blood is moving to Europe with his family, Simon's parents are making him go to college,  Alison is dealing with her drunk mother and new demons of her own, and Pain...well let's just say a huge secret is about to be blown wide open!If you have not read any of the Hayle Coven series, you are truly missing out. The characters are interested, the plots exciting, and the writing descriptive. You will not be disappointed! Try them! Get hooked!! Then share the goodness with your book loving friends! Patti Larsen will quickly be one of your new favorite authors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVE this series!!! </p>
+
+
+<h2> review.date </h2>
+  12-20-2012  
+<h2> review.text </h2>
+
+ <p> I can't wait to read the next installment. What a witch in the family and I don't mean the magic kind! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun, Fun and more fun </p>
+
+
+<h2> review.date </h2>
+  05-11-2012  
+<h2> review.text </h2>
+
+ <p> Poor Syd just cannot get a break, especially when it comes to love. Quaid is back, and she can feel their bond, but can he? It looks like finding his birth family has changed Quaid, and Syd's not happy with those changes. Syd's not happy with any of the changes taking place in her life. Her friends are leaving or choosing her enemies over her, her family reveals secrets that rock Syd's world and through it all Syd has to figure out how to make all three strands of her magic play nice together. What's a witch/demon girl to do?I love Syd. She's strong, spunky, fun, relatable and sympathetic. I feel her plight as her world unravels and she looses everyone she loves. The Dumonts are a fantastically villainous family that give Syd something to fight against, but will her powers and her coven's powers be enough to win?Read The Long Lost and find out! Patti Larsen is one of the most prolific authors out there and her books just keep getting better!If you enjoy this series, I also suggest readingSmoke and Magic (Blood and Gold)This is a YA paranormal steam punk type series that gives you a glimpse of the original Hayle Coven leaders. If you love Syd, you'll also love Aberdeen! Check it out! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This series keeps getting better! </p>
+
+
+<h2> review.date </h2>
+  06-10-2012  
+<h2> review.text </h2>
+
+ <p> this book kind of reminds me of the TV show "The Secret Circle" which is about a family of witches and their interactions with dark magic, demons and the daughter has dark and light inside her. Syd is unique as she has Sidhe, Demon and Witch personalities and they make her life very interesting. The story continues where Quaid has left to find his birth family and Syd is dealing with her best friend Allison who is still not talking to her, evil cheerleaders doing their best to make others feel miserable and of course trying not to get killed every other day. Syd has mother issues too as well as pining for her boyfriend who then turns up out of the blue and said he has found his family and they are coming to visit. Little did Syd know that the in laws are alittle on the dark side of magic and all is not what it seems. There is a secret agenda and everyone is keeping secrets from her and if she lives long enough, she may even find out what they are. A fun light hearted story that is pretty PG and would be okay for younger readers to follow. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a light hearted family affair </p>
+
+
+<h2> review.date </h2>
+  05-21-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed the writing and the characters I could not wait to finish and had to quickly purchase the rest of the books! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great story! </p>
+
+
+<h2> review.date </h2>
+  06-22-2014  
+<h2> review.text </h2>
+
+ <p> Soooooo well written. The character outlines are vast, clever and always surprising. There is just so much to this series and I feel so much more coming. Enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  03-10-2014  
+<h2> review.text </h2>
+
+ <p> I highly recommend all the the Hayle Coven Novels! They are even better that Twilight! You get sucked in and can't stop reading them. I hope they never end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book! </p>
+
+
+<h2> review.date </h2>
+  11-05-2013  
+<h2> review.text </h2>
+
+ <p> Oh...my...swearword! The tension in this one was unbreakable! Syd goes head on with a rival coven- The Dumonts- and I mean all out. The coven's leader is known to be the sister of the coven leader of the Purity coven, who we know from previous books, challenged Syd's Grandmother Ethpeal eighteen years ago. Purity coven lost, but so did Eptheal, by losing her mind and ending up in crazy land. It comes full circle when the Dumonts pay a visit, and it's not a friendly one.We get to see Quaid again (Yaay!) but, it's not in the best of circumstances. I literally was hating on him from the way he treated Syd like she didn't even exist. It was heartbreaking! Syd's circle of friends is falling apart too, something that I felt was coming, but was hard to see play out. We see different sides of Pain, Allison, Page and Syd's Uncle Frank. The havoc that the Dumonts cause while they are in town is devastating and I completely disliked each and every one of them to the core. One particular Dumont seems to have it in for Syd really bad and I hope she gets her just desserts for doing what she did to the Hayle coven.I really liked the werewolves and I wonder if we'll be getting more of them in future books. I hope so, it would be awesome! They were intriguing, mysterious and chock full of secrets.It's one of the darkest books of the series and I really enjoyed the way the characters have matured and changed...some for the better, some for way worse indeed. As always I can't wait to read the next book in the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Oh my swearword. Revving up the darkness here! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

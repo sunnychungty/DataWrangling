@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00BIPDA9O <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Disjointed unbelievable pirate story </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I found this book too disjointed, jumping backwards and forwards in time with gay abandon. Consequently I did not enjoy the read as much as I had hoped and been led to believe from previous reviews. It does come together in the end but l felt unconvinced by the content and alleged time span. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good story </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It was a good story, as I am a science fiction fan and haven't as of yet read to many pirate books, to me it seemed great </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Loved it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really loved this book! It is clean, It has adventure, suspense, romance, and a bit of a &#34;Count of Monte Cristo&#34; moment!  Fun easy read! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a good story, but..... </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really enjoyed this story and would have given it a 4 1/2 star rating but I had trouble following along because it bounced back and forth.  I'm a chronological person and would have enjoyed much more if I read the story as it played out.  I've read books that refer back to something, but this one started a new chapter several months later and then a few chapters later would start a new chapter a few months before. More than once I had to go back to beginning of the chapter to see the date and then back to where I left off to see where the story was. Overall: a good story. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Book </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I thought this book was amazing. Adventure, love, and deception. It was a fantastic read! I finished rather quickly because I couldn't put it down. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Who is Sam Bellamy? </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you've traveled the roads of lower Cape Cod, then you are familiar with Black Sam Bellamy and the Whydah.  This book, though fact-based fiction, provides an interesting story behind the man.  I really enjoyed it.  If you're familiar with that area of Cape Cod, I think you'll enjoy the local flavor, too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pirates </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Black Sam,  Prince of pirates was fun read that gave me a taste of sea and real comparison of pirates vs Brits.  And whom were more evil. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great historical fiction! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really enjoyed this book. A wittily written adventure, with a bit of romance. It brings to life the story of actual pirate Sam Bellamy. I liked the characters and the awesome plot twist! Get this book! Looking forward to more from this author. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Loved it </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Story starts a little slow but stick with it.  MOST IMPORTANT pay attention to the dates at the beginning of the chapters!  This story is well told with many twists, I couldn't put it down and the ending lets just say is satisfying as the people stay true to their values and beliefs.  Much entertainment from a Kindle free read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great pirate story </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love mysteries that keep me guessing. I didn't figure this out until 2/3 or 3/4 of the book was done. Black San: Prince of Pirates is a couple of afternoons under a tree kind of book. The love story is well done and the action is exciting. I liked the historical parts, as well. Lately, I read several pirate adventures. I am beginning to think that that time in history was remarkable. Facing the vast ocean, with its storms and predators on a ship with nothing but sail power had to be a daunting challenge. When books both entertain and educate its a double win. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A great pirate story with a twist at the end </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Even if you think you know the story of Sam Bellamy and his cast of shady pirate friends, you'll see a whole new side to this legendary character in Lewis' book.The story is easy to read. It has some humor, lots of action, and a great romance. (sigh) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> OK </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Black Sam was an easy read romance. It was fine for a rainy day with nothing better to do, but would not call it great literature. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Chick book not for guys </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The title of this should be changed to &#34;Hey guys this isn't for you&#34; as it is the title is just false advertising. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I enjoyed this tale </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a fairly good  book it was gripping in parts but the biggest drawback was on my kindle when I would bookmark a page I would get thrown back several chapters.. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000FC1TG2 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-11-2013  
+<h2> review.text </h2>
+
+ <p> The hero in this story has been living in NYC and working for a sort of Crime boss.  Beaten up and tossed in an empty train car by the competition, he ends up out west and, by a series of flukes, becomes the sheriff of a small western town that is in serious trouble.  While it is not one of my L'Amour favorites, he tells it with his usual flair and attention to detail and it's well worth reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unlikely, but possible, story, very well told </p>
+
+
+<h2> review.date </h2>
+  10-25-2012  
+<h2> review.text </h2>
+
+ <p> Well, this fellow sure had a hard time at the start of his life, but Louis L'Amour helps him out. Glad the good guy always wins. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Follow along </p>
+
+
+<h2> review.date </h2>
+  03-28-2014  
+<h2> review.text </h2>
+
+ <p> The Iron Marshall, by Louie L`Amour is one of his best. Of course all of his are the best.Louie is a man who knew the west. His books make it possible to really feel how it was. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gail </p>
+
+
+<h2> review.date </h2>
+  07-29-2013  
+<h2> review.text </h2>
+
+ <p> I love Louis L'Amour as an author. This is about my favorite book that he has written. It's a good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Have read before </p>
+
+
+<h2> review.date </h2>
+  12-07-2013  
+<h2> review.text </h2>
+
+ <p> This is yet another  L'Amour winner. I have yet to read a book of his that was less than great. He has the ability to keep you enthalled enough in the story to make you not want to put the book down until it is finished. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Read </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> Louis L'Amour blind sided me with this one.  Typical of his novels, there is always a girl for the hero to get, but this time there were 3 women, two of which are cold blooded murderers, and one is not 'gotten' by the hero.  The book does not start in the west, it starts in NYC with an orphan just off the boat from Ireland.  Louis L'Amour was great at developing characters quickly in his stories, and developing the story line quickly as well.  L'Amour will always remain my favorite western author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> blind sided this time </p>
+
+
+<h2> review.date </h2>
+  06-18-2013  
+<h2> review.text </h2>
+
+ <p> I almost didn't get this book because of the cover but since it was double 'LL  I did.  As always the author came through.  Good book and characters.  The plot was interesting </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Irish luck </p>
+
+
+<h2> review.date </h2>
+  07-25-2009  
+<h2> review.text </h2>
+
+ <p> This story by Louis L'Amour was the very first of his novels that I ever read.  Novels with a western theme were not my thing when I was growning up, so imagine my surprise when I just sort of drifted into this book one rainy afternoon.  I guess I was attracted to it by the fact that it opens in New York City, not the deserts of New Mexico.Anyway, I soon found that L'Amour has a writing style just as smooth as silk, and I found myself sliding into this book as easily as if he took me by the hand and led me to an alter.  Since then I have read several more of L'Amour's books and have enjoyed all of them.  I will review them here over the next few weeks, time permitting.This book tells the story of how a young man from New York City ends up in a small Kansas town and picks up the job of being the Sheriff one day before all hell is scheduled to break loose.  Others have outlined the text already, so I won't bore you with yet another outline.  I'll just say that if you have not read any of Louis L'Amour in the past, this would be a really great place to start, or even to get reacquainted.  While you do that, I'm gonna find another L'Amour book to read.:) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Good Afternoon Read </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> This is how it was in the big gambling and corrupt cities of the eastern seaboard.  Then go out west and become a real hero.  Again, the video was also good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow what a transition! </p>
+
+
+<h2> review.date </h2>
+  02-14-2014  
+<h2> review.text </h2>
+
+ <p> This was well written with good descriptions of the surrounding areas. It was quite different in the way the plot of the story was laid out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A strange type of western </p>
+
+
+<h2> review.date </h2>
+  07-10-2013  
+<h2> review.text </h2>
+
+ <p> If you like going back to the old west you'll like this book. It feels like you're watching the whole thing as it happens. very good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great book by Louis L'amour. I never get tired of his books. </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> It has a good plot and is well written! I enjoyed reading it an would read more like it,if I can find them! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good reading </p>
+
+
+<h2> review.date </h2>
+  12-18-2011  
+<h2> review.text </h2>
+
+ <p> Not your usual Western. Louis L'Amour deftly combined genres: Western and crime. And along the way added some American history tidbits. Thoroughly enjoyed reading this book. I have read it once before several years ago. It was even better the second time around. I got more out of it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Iron Marshall </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

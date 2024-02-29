@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B007W2E05U <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-20-2013  
+<h2> review.text </h2>
+
+ <p> The title for my review is not for the obvious reasons even though the book is a wonderful read.  Be sure to read the Foreward to the book and you will learn that the author, Dr. Katherine Ramsland, is professionally qualified to tell this story as it should be told.  Her writing style will hold your interest. This is the second book I have read by this author and they just keep getting better and better.  You will be guided through the mind of a serial killer.  She will entertain you and you will learn.  Why is this a must read?  You will learn never to accept a ride from a stranger. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Must Read! </p>
+
+
+<h2> review.date </h2>
+  09-08-2012  
+<h2> review.text </h2>
+
+ <p> Interesting and informative from a different perspective than most things you read. You see the criminal in a different light, from his view and that of the victim. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> hotwheels </p>
+
+
+<h2> review.date </h2>
+  12-20-2012  
+<h2> review.text </h2>
+
+ <p> Absolutely forgettable due to the author's style of delivery.  Would not recommend this book to fans of the true crime genre. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Ivy League Killer </p>
+
+
+<h2> review.date </h2>
+  09-29-2013  
+<h2> review.text </h2>
+
+ <p> Very boring attempt at analysis of a killer. I can not think of twelve more words to say about it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A non-mystery </p>
+
+
+<h2> review.date </h2>
+  08-11-2012  
+<h2> review.text </h2>
+
+ <p> This short single takes about an hour to read and is interesting but not spectacular.  It chronicles the crimes and punishments of Michael Ross who raped and killed a number of women in New England.  It's too short to be any kind of deep psychological profile or to do much of anything but describes the crimes and punishment of Ross.  There is nothing wrong with this single and considering it costs a mere $0.99, it's worth a read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick Interesting Read </p>
+
+
+<h2> review.date </h2>
+  05-02-2012  
+<h2> review.text </h2>
+
+ <p> This is more than just a crime story; it's also an in-depth analysis of a self-reflective serial killer who played a game with the system to get more publicity. Adds a new layer to serial killer lore. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Insightful </p>
+
+
+<h2> review.date </h2>
+  04-24-2012  
+<h2> review.text </h2>
+
+ <p> This killer is really unique. He was smart, calculating, articulate, and highly narcissistic. He's like Bundy - a stalker who found vulnerable girls to rape and strangle just to appease his appetite. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Serial Killer fans must read </p>
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> Good short story about a serial killer who was quite bold in committing his crimes. Not too long, but covers the pertinent facts. Good book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good short story. </p>
+
+
+<h2> review.date </h2>
+  09-27-2013  
+<h2> review.text </h2>
+
+ <p> I ENJOYED THE BOOK. I FOUND IT VERY INTERESTING GETTING INTO THE MIND OF A KILLER.  iT HELD MY INTEREST ALL THE WAY THROUGH </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> Usually i read for the causality to thinking behind the criminal act; while this book did present these things,  it was forced and simply , &#34; here are the facts&#34; type of reporting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> easy fact read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

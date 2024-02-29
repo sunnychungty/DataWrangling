@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1869504917 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-23-2004  
+<h2> review.text </h2>
+
+ <p> With something approaching 100,000 copies in print this is one of the all time best-selling NZ books.  Probably the publisher didn't expect it to be the sales success it has been otherwise more money would have been spent on it.  The pictures are all there but they are are small.  A bigger page format would have done them and the beatiful scenery justice.  It's nice to know where the scenes were filmed, but don't expect to recognise the settings in the film instantly as there was a heap of digital manipulation done and a standard requirement of their getting permission to use the locations was that everything look the same after they had finished.  I haven't been on one of the guided tours but I think that would be the best way to go, rather than use this book as a self guide. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good but could have been better </p>
+
+
+<h2> review.date </h2>
+  03-25-2005  
+<h2> review.text </h2>
+
+ <p> I went to New Zealand with the book, hoping to see as many sites as I could.  Everyone has the book, and everyone has the same comment - it gets you almost there.  Almost just isn't good enough.  But my first complaint is the scattered writing. Stick to the subject - the sites.  One site is mentioned.  Then a bunch of drivel, and suddenly you're reading about that site again, and this time it's different information.  The book could have so much better organized.  Why not put decent maps in a location guidebook?  One example: we followed the written directions exactly and found ourselves at the park off Gemstone.  Okay.  So, where exactly along this park is the site?  I searched for an hour for rock formations that matched the picture in the book and never found them.  Same thing at "Rivendell".  Got there, but what good is it if the exact sites are not given?  We ended up going out again the next day on a tour, and told the tour guide about our trouble with the book.  "Everyone says that," she said.  "I see people out walking around with the book, trying to figure out the exact site.  Finally they ask if they can follow me."  Ian, you present this as being a location guide, and you got everyone to buy one.  But I didn't go halfway around the world to get "almost" there.  It needs better pictures, real maps, and better organization.  Keep ALL the information about one site together, not spread here and there over several pages.Give directions from the major city, not from the previous site.  And I am still steaming over Legolas's rock at Deerpark Heights.  The picture shows the VIEW from the rock instead of the rock itself.  You know how many rocks are at the location?  Why is the world didn't you put a picture of the rock in there so we could tell when we were in the right place?  I appreciate the fact that someone even wrote a guidebook.  That said, it should have been done 100%.  I paid 100% of the price for it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> That extra 10% would have made all the difference </p>
+
+
+<h2> review.date </h2>
+  05-24-2005  
+<h2> review.text </h2>
+
+ <p> I've been on two trips to New Zealand and used the first guidebook on the first trip and the revised edition (after Two Towers) on the second trip.  The revised edition was much improved over the original one.  I visited probably 80%+ of the sites in the book between the two trips.  The guidebooks give a lot of interesting trivia about filming LOTR and can certainly help you decide what to visit, how accessible it is and how to plan a route.  As all have stated, the problem is that the directions get you sort of there, within a hundred meters if you're lucky, and the pictures are marginally helpful. On the second trip I brought a portable DVD player with the LOTR DVDs and I found the relevant scene in the film while I was at the location, so I could make a positive identification and not have to wonder if I was at the right rock or tree. It was particularly useful at Mavora Lakes, Poolburn and Whakapapa, for example, where so much of the scenery looks the same throughout the whole site.  Otherwise, without the DVD, about the only thing to do when you get to Whakapapa using the guidebook is to just look around and know that it was used for the Mordor locations.  With the DVD you can identify the exact spot where the opening title for Two Towers was filmed, among other venues.  If you don't want to drag a DVD player with you, another option I would recommend is to print out screen caps from the films of those locations you really want to identify and take along a notebook filled with them.  Either option is a must for identifying, for example, the Legolas rock at Deer Park Heights, particularly since the rock was flipped 180 in the film.  Ian's book is a good start, but its utility will vary for each person depending on just how precise you want to be in saying "I was there." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How I Found This Guidebook Useful </p>
+
+
+<h2> review.date </h2>
+  07-15-2013  
+<h2> review.text </h2>
+
+ <p> This is a great book for the Tolkien fan to see the locations that the movie was set.  If one cannot make it onto the set, one can live vicariously through this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I would be lost without it. </p>
+
+
+<h2> review.date </h2>
+  01-11-2004  
+<h2> review.text </h2>
+
+ <p> I found this guidebook lacking. The pictures are tiny, it's weak on details and every other location mentioned seems to have the caveat &quot;closed to public&quot; tacked on. If you want to go to New Zealand, have a lovely time. If you are expecting to see actually places from the movie you'll be disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> so so </p>
+
+
+<h2> review.date </h2>
+  12-10-2013  
+<h2> review.text </h2>
+
+ <p> Was fantastic.We have just returned from The South Island and found lots of location sights.I reckon it saved us money on some tours that don't take you to the spots mentioned anyway. Wil use it when we go to North Island Can't wait </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Buy before you go </p>
+
+
+<h2> review.date </h2>
+  04-02-2004  
+<h2> review.text </h2>
+
+ <p> This excellent and indispensable guide is thoroughly researched, richly illustrated with photographs, and well written. But while it is an essential book for anyone planning a visit to Middle Earth, it is handicapped by one glaring omission: though several maps are provided, none adequately indicate the locations of Middle Earth's features. This is frustrating for anyone who wishes to use the book as a travel guide (though it is always possible to sort out locations by using the text and the limited maps provided) and a serious drawback for the armchair traveler who just wants to get a sense of how Middle Earth maps onto New Zealand.Be sure to get the &quot;Revised Edition&quot;. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Essential, Though Better Maps Would Be Nice </p>
+
+
+<h2> review.date </h2>
+  02-06-2010  
+<h2> review.text </h2>
+
+ <p> One of the reasons my wife and I recently visited New Zealand was because of the great scenery we'd seen in the Lord of the Rings films. We had this book when we went to many of the locations of the movies, and it help enormously to be able to see stills from the movies in the book while looking at the actual forest or mountains, etc. It also allowed me to give better descriptions to the photo album I put together when we got home. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enhance your trip to NZ </p>
+
+
+<h2> review.date </h2>
+  05-17-2007  
+<h2> review.text </h2>
+
+ <p> I bought this while in New Zealand, in Mt Cook Village.Though My wife and I hadn't planned a "Lord of the Rings Tour", we did enjoy noting when our current stop was used as filming location.I sympathize with both Mr Brodie and the reviewers wanting more maps.While it may not have been his intent, it is called a "guidebook", and even a casual reader like myself would have appreciated more maps. But it doesn't detract from the fact that this is a fun book, with lots of vignettes and pictures. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice, concise picture book </p>
+
+
+<h2> review.date </h2>
+  11-29-2004  
+<h2> review.text </h2>
+
+ <p> This really is the only way to ever hope to find any of the film locations in NZ. Other guides & websites mention a few of the places, but this is the only book to collect all the info. in one place, & in a handy, travel-size book too.However, Brodie's directions are often vague & incomplete. Maps would help, but simply including specifics like "drive 15km up the mountain & look for the DoC sign that says XYZ" would be just as useful. The current directions only say "drive up the road to the film location" or somesuch. This book really seems geared to people using GPS.In NZ last week, I purchased the 'extended' version of this book, but I haven't had time to compare the text to see if it's been improved. However, the new version is a larger format, more of a coffee-table book, so it wouldn't be suitable to carrying on the road. Perhaps you could photocopy pages for traveling. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> the only way to find the LotR sites, but vague in places </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

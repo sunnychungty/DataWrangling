@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0070HPQ28 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-27-2012  
+<h2> review.text </h2>
+
+ <p> I ordered this and couldn't be happier, build quality is fantastic and it worked just as expected. The shipping was much faster than the ones that are coming from overseas, for obvious reasons, but I have been very pleased with my purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for the Nexus 7 </p>
+
+
+<h2> review.date </h2>
+  12-27-2012  
+<h2> review.text </h2>
+
+ <p> I use this cable for both connecting a ps3 and connecting a USB stick so my daughter can watch movies.  It works perfectly for both when using my Nexus 7. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great Nexus 7 </p>
+
+
+<h2> review.date </h2>
+  06-21-2013  
+<h2> review.text </h2>
+
+ <p> It is simply a cable that works.  It does what it is intended to do and it is a quality cable.  Very handy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CONVENIENT </p>
+
+
+<h2> review.date </h2>
+  06-19-2013  
+<h2> review.text </h2>
+
+ <p> I bought this OTG cable for my nexus 7 and my Xbox 360 wired controller for my games that where supported for the controller.However, when I plugged in a thumb drive to test the cable, Nothing was working. I had checked to make sure it hadn't been the thumb drive, so i plugged it into my computer (worked effortlessly), so it wasn't the thumb drive itself, so i tried to plug in my XBOX 360 controller. Again it hadn't responded, so the cable itself was faulty.I would stay clear not because of the service or the company, just cause this cable didn't work at all for me and had been broken before I was able to fully test it out (and no it wasn't an operator malfunction, the connector for the female part of the OTG cable was broken, which upon removal of the Xbox 360 controller, the connector from the OTG cable stayed with the thumb drive, exposing the wires and the soldering points of the wires to the connector).Save yourself a little extra money and try to find yourself a cable that seems to look like it's fairly well built. Otherwise you'll get what you've paid for. I gave it at least a 2 star because the company shipped the cable in a fairly fast time frame, and arrived long before the initial time of estimated arrival. But they cable itself isn't worth 1 star in my opinion. It's really not worth the hassle of returning something that didn't cost me no more than $5 which had been a gift anyways.To the company of which I purchased this cable:You really ought to test these cables before you ship them out, or find yourself another drop shipper than guarantees each cable has been tested for durability. As this will ensure you're sending a product that isn't faulty. Or perhaps a return policy for a replacement rather a refund. Just a few suggestions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cable was rendered useless before I was capable of using it for it's intended useage.. </p>
+
+
+<h2> review.date </h2>
+  05-08-2013  
+<h2> review.text </h2>
+
+ <p> I've tried using it with Nexus Media Importer and it simply does not work. The USB drives that I'm using are not being detected despite being formatted correctly.  I'd return it but it's not worth the hassle as the cable itself was fairly cheap. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not work with Nexus 7 </p>
+
+
+<h2> review.date </h2>
+  05-01-2013  
+<h2> review.text </h2>
+
+ <p> Bought this to use for my Asus Nexus 7 tablet. What can I say about it other than it works? I did drop a star because of the end price- nearly $16 taxed and shipped. However, it still gets 4 stars overall. I mainly bought it for 2 reasons- the straight male connector (instead of angled) and the length (12inches, instead of the usual 6inch.)I wouldn't pay that much again if I could help it, but I would recommend the product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> $15 taxed and shipped... but does what I need </p>
+
+
+<h2> review.date </h2>
+  03-09-2013  
+<h2> review.text </h2>
+
+ <p> I can now download photos from my SDLR camera's SD card directly to my Nexus 7 tablet.  It works perfectly with Nexus Media Importer software from the Google Play store. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great For Nexus 7 </p>
+
+
+<h2> review.date </h2>
+  07-09-2013  
+<h2> review.text </h2>
+
+ <p> Sent this one back and got the different cheaper one on here with the much higher feedback.  That one worked perfectly with the Media Importer app. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DID NOT WORK WITH MY NEXUS 7 </p>
+
+
+<h2> review.date </h2>
+  12-07-2013  
+<h2> review.text </h2>
+
+ <p> It worked to connect a portable Western Digital hard drive to my Nexus 7 which isn't saying much since this is nothing more than a M-F micro USB cable. I only used it a couple of times and then put it away because the limitations of Android made what I wanted to do impossible without hack software. Pulled it out some months later to try again and the female end pulled right out of the rubber, all the wires broke of the solder joints. I cut open the rubber jacket to repair it and found that the soldering was minimal and there was nothing holding the USB port in besides the friction from the rubber. In other words, VERY poorly constructed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Poor construction. Don't waste your money. </p>
+
+
+<h2> review.date </h2>
+  11-20-2012  
+<h2> review.text </h2>
+
+ <p> This cable works fine on my Verizon Galaxy Nexus. I am using it to link to a Canon EOS camera, and I am using DSLR Controller (available on Google Play) as the control software. The entire setup works like a champ! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine on my Verizon Galaxy Nexus </p>
+
+
+<h2> review.date </h2>
+  08-26-2013  
+<h2> review.text </h2>
+
+ <p> The female connection point pulled apart on the first plug/unplug.  Maybe just a fluke, I've never had another cable pull apart in such a manner, even the cheapest of Chinese sourced low end cables.But I paid a premium price, not bargain basement.Promptly returned. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Defective </p>
+
+
+<h2> review.date </h2>
+  01-03-2013  
+<h2> review.text </h2>
+
+ <p> Have a bunch of document and movie files that I want to carry with my new Nexus 7 without filling it up. This cord -- with the Nexus Media Importer and without having to root the device!  -- lets me carry an unlimited number of thumb drives and 'stream' the movies to the Nexus.  Great thing! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  10-19-2013  
+<h2> review.text </h2>
+
+ <p> it's a cable to be used when you want to plug in a usb device (some, look it up) to your phone.  Maybe for backup or something.blah blah blah blah blah </p>
+
+
+<h2> review.summary </h2>
+
+ <p> it's a cable, it worked </p>
+
+
+<h2> review.date </h2>
+  01-04-2013  
+<h2> review.text </h2>
+
+ <p> Works with media app to stream music off of a USB key, pictures, but its read only, no write to USB,with un rooted Nexus 7 with Jelly Bean 4.2. Cord is about 8 inchs long. I like that less, chance offorcing usb socket. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nexus 7 OTB </p>
+
+
+<h2> review.date </h2>
+  02-09-2014  
+<h2> review.text </h2>
+
+ <p> Description states it works for a Nokia Lumia. It does not. Further research has found that that phone does not allow video out like an iPhone does.  It may work for another phone but Lumia needs to be removed from description. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Did not work for me </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> The cable works fine with my Nexus 7 Tablet,a 64GB flash drive, and the Nexus Media Importer app.  I am able to watch movies from the flash drive on the tablet.  The connection is recognized immedately with the use of the Nexus Media Importer app. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great on Nexus 7 Tablet </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> Quality and fit of the cable are very nice. Works well with all my USB sticks. I would buy this same cable again! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works perfectly on my Nexus 7 </p>
+
+
+<h2> review.date </h2>
+  03-05-2013  
+<h2> review.text </h2>
+
+ <p> Works great and was a cheap price.  I have not used it much yet but will do so in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works </p>
+
+
+<h2> review.date </h2>
+  12-14-2012  
+<h2> review.text </h2>
+
+ <p> There isn't much to say about this product. It fits my galaxy nexus, it sits in the USB port solidly, and it allows me to do what I want with it... I use this to connect flash drives and my DSLR to my phone. It performs both tasks very well. I've had it for a little over a month now and it's still holding up fine... So it seems very well made. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good USB OTG cable. Works fine. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 630580396X <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-16-2001  
+<h2> review.text </h2>
+
+ <p> Long live Distort-O! What a fun concept. Turn off the lights, it's easy to picture yourself in a drive-in.  In addition to the &quot;low-fi&quot; sound of the movie, you also get ambient noises like cars coming &amp; going, people talking, etc.  As for the movies, they're standard drive-in flicks.  Low budget, bad acting, cheesy effects...the works.  But you already know what you're getting into if you pay to see a movie called &quot;Attack of the Giant Leeches.&quot;  No fan of 50's cheese can do without this technically impressive double feature. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Closest thing to a real drive-in experience </p>
+
+
+<h2> review.date </h2>
+  03-27-2001  
+<h2> review.text </h2>
+
+ <p> First off, any videophile or Home Theater enthusiast knows how fairly difficult and/or expensive it is to find genuine Filmack stuff; the hotdog ad, the &quot;Chilly Willy&quot; ad, the &quot;Hey, Mom!&quot; ad.  Just for this content alone the disc is worth the asking price.  The movies themselves are entertaining if only for the sheer cheesiness of them...BUT DON'T EXPECT GLADIATOR! It disappoints me to read such purist comments complaining about the letterboxing (which looked all right on my display, previous reviewer.  Might want to check yours), and the &quot;Distorto&quot; sound, which I found pretty novel and engaging.  Such negative snobbery pretty much ensures people like Elite Entertainment won't be as bold to try something different in the future.  We'll be left to the whims of the major studios to put out great LETTERBOXED stuff like the Special Edition of &quot;American Pie.&quot;  Congrats! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT disc if you have the right attitude!!!!!!!!!!!!! </p>
+
+
+<h2> review.date </h2>
+  10-04-2008  
+<h2> review.text </h2>
+
+ <p> This is really a cool way to experience those cheesy, 'so bad they're good' b-movies of yesteryear. It's the next best thing to using a time machine to go back to the old drive-in movies.At the main menu of the dvd you can go to the ticket booth icon, and this starts the show. (You can jump to any of the features if you like, but this Ticket Booth option is the best way to do it.) Once you've started things via the ticket booth, you will then enjoy (among other things): The Star Spangled Banner, adverts for concession treats, a couple of old cartoons, reminders from theater management about not talking during the film, and a b-movie double feature.It gets better. The coolest part is that there's an alternate audio track you can select during the films that contain the 'speaker' sound of the film as if you were sitting in a car, plus sound effects of people walking past your car on the gravel, a little comment here and there by someone in the next car, crickets, and other 'natural' sounds. It is a hoot. (And you can always just change the sound to the regular movie audio without these extra effects.)The picture quality is mediocre at best, but the nostalgia makes it totally worthwhile. Yes, the whole experience is very kitsch and campy, but it's like capturing something from the past.  It's the next best thing to being there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Fun Trip Back to Drive-In Days </p>
+
+
+<h2> review.date </h2>
+  04-15-2012  
+<h2> review.text </h2>
+
+ <p> People are sulking aboutThis film is not worth the storage room. Everything is as transparent as her night attire. And the film makes no attempt to convolute what little plot there is.Eric Whitlock's (John Hudson) first wife dies and only leaves him the house. His second wife, Jenni (Peggy Webber) is a bit richer.  Unfortunately she is still alive; but not for long. You see Jenni is unstable and keeps seeing skulls. They like to scream at her. Now I wonder where the skulls are coming from.The Brain That Wouldn't Die--------------------------------That is an awful big sucker.The story takes place in a Florida swamp near Cape Canaveral where those atomic payloads keep falling. A swamp hunter comes back from the swamp with the tale of a strange creature that took four slugs from his mighty gun to dispatch. However he brings back no proof. That night wayward wife Liz (Yvette Vickers) just happens to be wandering around in the swamp when she spots is very same hunter that appears to have been leehcie- aided. Even though the Hunter really never touched a wayward wife the local authorities don't believe in giant leeches so they attributed his death to misadventure. It is not until several other people seem to be disappearing under the same mysterious circumstances that the authorities are finally starting to get curious.Fat slob Dave (Bruno VeSota) catches his wife Liz on the very edge of the swamp fooling around with his best friend Cal (Michael Emmet). So Dave scares them off into the swamp with a shotgun. And you guessed it. They too become leehcie- aided.Against the advice of the local game warden (Ken Clark) the local Doc Greyson (Tyler McVey) decides to use dynamite to sort this out. What will he find?Mean time through the whole movie Liz Walker (Yvette Vickers) keeps hanging around near the leeches and you just know she needs to be eaten or at least sucked.The Killer Shrews </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Screaming Skull/Attack of The Giant Leeches </p>
+
+
+<h2> review.date </h2>
+  02-27-2007  
+<h2> review.text </h2>
+
+ <p> The movies are good, but the picture-quality is poor on Leeches and average on Skull. When i changed the setting on my dvd-player from 4:3ps to 4:3lb, it got better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The poor picture-quality can be improved </p>
+
+
+<h2> review.date </h2>
+  11-12-2001  
+<h2> review.text </h2>
+
+ <p> I bought this DVD strictly for the classic Filmack intermission clock, which was hard-to-find on VHS.  It's the same one that is featured in the movie &quot;Grease&quot;, and it's always been my all-time fave intermission trailer.  The transfer is excellent, and the copy that Elite has used is in prestine condition.  The movies are interesting to watch with all the bad acting, and hokey special effects, but they are classic drive-in movie stuff.  I am glad that these discs are available, especially with all the intermission trailers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Who cares about the movies! </p>
+
+
+<h2> review.date </h2>
+  03-10-2008  
+<h2> review.text </h2>
+
+ <p> This would be a fun DVD for a group of friends with some alcohol involved. The drive-in features - adverts, trailers, cartoons, etc - are part of the fun. The Distort-o sound is mostly unobtrusive but nicely placed. The films themselves are B-movie bad - poor acting, terrible costumed monsters and the like - but, again, that's part of the appeal. I can't see myself watching this over & over, but it'll be a fun evening with mates. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun </p>
+
+
+<h2> review.date </h2>
+  03-10-2001  
+<h2> review.text </h2>
+
+ <p> To begin with-neither of these movies are especially good, although &quot;Giant Leeches&quot; is the more entertaining of the two.  The fun is found in the &quot;Drive-In&quot; experience.  The Distorto sound is a pretty good gimmick, and the videos themselves are reproduced in a fuzzy, slightly distorted manner, appearing on your tv pretty much the way they would at a drive in theater. I suppose nice crisp B&amp;W would be more appealing-but hey-this is supposed to be a drive in movie experience--and if you've ever seen a drive in movie with great sound or crisp video-I'd like to know where!!!The extras are all fun in a nostalgic way- but could easily become a bore if all movies were presented this way. So take this for what it's meant to be--two rather poor movies, presented with poor sound (optional) and poor video transfer-just like a real drive in without the dirty restrooms! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A &quot;Fun&quot; idea </p>
+
+
+<h2> review.date </h2>
+  05-09-2000  
+<h2> review.text </h2>
+
+ <p> &quot;The Screaming Skull&quot; is a ghost story that plays with the viewer's mind as much as with the frightened wife's sanity.  A newlywed couple named Eric and Jenni Whitlock move into the gloomy mansion formerly  inhabited by Eric and his first wife, Marion.  Marion died under peculiar  circumstances.  Jenni has a history of emotional instability, and she also  has money.  One terrible night, when Jenni is left alone in the house,  weird and terrifying things happen.  Screams are heard in the night.  Maybe  it's just a pair of peacocks crying to each other in the yard, or could it  be the agonized scream of Eric's first wife in her death throes?  A human  skull unaccountably appears in a cabinet in the same room as a  self-portrait of the dead Marion.  Overcoming her terror, Jenni hurls the  skull out of the window.  A short time later, a knocking that reverberates  through the house is heard at the front door.  Jenni timidly opens the door  and collapses, screaming at what she finds.  Is it horrifyingly real or  just hallucination?  The atmosphere and suspense of this little movie is  amazingly effective.  The old dark house, only illuminated by dim candles  and a flickering fireplace adds to Jenni's terror.  The tilted camera angle  as if the skull is viewing the house from outside raises the hackles.  There is a blend of ghost story elements and murder mystery that keeps the  first time viewer guessing.  What really happened to Marion, and what or  whom is tormenting Jenni?  Is the ghostly female figure that appears in the  greenhouse and bounds through the garden real or just more of Jenni's  tortured hallucinations?  And what are those screams that resound through  the night?Both of these films are low budget movies.  A typical drive-in  double feature from the late '50s and early '60s.  Schlock cinema rules!  &quot;The Screaming Skull,&quot; if viewed with the right mindset, rises  above its poverty level origins, and can be a very scary experience.  The  producers assure the viewer that funeral expenses will be paid for anyone  who dies from fright after viewing this movie.  The second feature,  &quot;Attack of the Giant Leeches&quot; is a wealth of unintentional humor.  It has been reviewed elsewhere in Amazon.Com, and hasn't improved.  This  DVD package is an excellent opportunity to indulge in thrills, chills,  groans, and chuckles.  Suspend disbelief and knock yourself out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jeepers Creepers!  Cheapie Creepies! </p>
+
+
+<h2> review.date </h2>
+  02-24-2001  
+<h2> review.text </h2>
+
+ <p> Well, I was extremely disappointed in this &quot;drive-in&quot; compilation. I own both Attack of the Giant Leeches and The Screaming Skull on video, and they're much better than what I found on this DVD. Perhaps I've become jaded, but I expect great digital work from Elite Entertainment, and I just didn't find it here. The &quot;extras&quot; are fun--all that schlocky drive-in stuff from the 50's. But my &quot;fun&quot; soon took a nose dive when I started watching the films themselves. Attack is muddy, blurry, and murky. Plus, where was the letter-boxing? The title card read &quot;ack of the ant Leeches!&quot; Very poorly done. As for Screaming Skull, well the print was terrible, just awful. And, as one reviewer said, there were huge chunks missing--bad enough the plot was crazy, but with these inexplicable cuts, how can anyone sane tell what's going on? Really, this has turned me off to getting any more Drive-In Classics from Elite.  The recently-remastered &quot;The Head That Would Not Die&quot; looks like Citizen Kane by comparison.  How would I rate this?  How about &quot;give me my money back?&quot; </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very poor transfers of classic 50's B-fliks! </p>
+
+
+<h2> review.date </h2>
+  05-17-2001  
+<h2> review.text </h2>
+
+ <p> My wife insisted we buy this, and I really had my doubts. I was, however, pleasantly surprised! This is one of the most enjoyable discs we've bought. While the movies are hardly the best, the overall experience makes this disc a great buy. The ads, intermission, and &quot;Let's All Go to the Lobby&quot; are worth the price of the DVD alone. Throw in the goofy movies, the Distort-O! Sound, and the drive-in background noise, and you've got yourself a great disc. This makes for a fun family night in front of the TV. While some of the content may be too much for younger kids, my ten year old son loved both movies and the extras. We're eagerly awaiting Volume 2! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprisingly worthwhile! </p>
+
+
+<h2> review.date </h2>
+  04-17-2009  
+<h2> review.text </h2>
+
+ <p> This is more of a praise of the DVD itself rather than of the two films contained within.  After all, nearly every household in America has copies of the Screaming Skull and Attack of the Giant Leeches, so reviews for those films would just be redundant and gauche.But this Drive-In Discs DVD package from Elite Entertainment is very good.  Obviously something put together by folks who love the old drive-in experience.  Once you start the program(or buy the ticket as it were), you're treated to vintage drive-in fun: concession stand ads, a "don't talk during the movie" spot, a "no public display of affection" spot(you'll be kicked out of the drive-in and permanently banned if you're caught getting too hot and heavy with your date), and other assorted product ads.  Plus there are coming attractions(The Wasp Woman and The Giant Gila Monster) and cartoons(a Betty Boop and a Popeye).All of this fun stuff is shown before each feature.  Also of interest is an audio track which allows you to hear through your speakers, a kind of drive-in environment.  A good sound system would be great with this feature.  There are sounds of people walking by, cars starting up and driving, and the occasional rare comment on the film.  None of it interferes with the films, and it really quite fun.  Silly for sure, but fun, dammit!The quality of the films is pretty lousy.  Both films have been released before on mediocre discs, and this is no exception.  I suppose that you can only clean these films up so much.  Either that or legions of film buffs aren't bothering to demand top drawer prints of Attack of the Giant Leeches.But regardless, for the price, this DVD is a good time, and I can only hope that Elite keeps em coming. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lets All Go To The Lobby!!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

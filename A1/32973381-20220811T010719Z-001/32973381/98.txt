@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004MME6SO <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-20-2013  
+<h2> review.text </h2>
+
+ <p> Looks good, sounds great. Has all the functions I want.Just plug in and listen.Its compact, can be put it anywhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> looks good, works fine. </p>
+
+
+<h2> review.date </h2>
+  06-03-2011  
+<h2> review.text </h2>
+
+ <p> I recieved it yesterday, after a two month wait from Amazon.  It replaced a six-year old Sony 'boombox' that lost several functions over time.  This one is smaller and sounds better. Unpacking and set up was fairly simple, even for an old non-geek. I use it to listen to radio and music CD's while working in my home office.  I am suspicious of the 'automatic' door that moves from side to side.  If that fails, it becomes a radio.  The antena is just a wire, separate for AM and FM, and each needs fiddling to function. Have not found the best place for the FM wire yet, and AM is a non-player for me. My wife asked "What are you gonna do with all your tapes?"  I have been looking around for about 6 months for a replacement for that boombox, and all my transcription tapes I took off the air may become just a memory--those tapes are just a forgotten technology that require big bucks to really enjoy now. Civilization moves on. I will give this one a month and come back here for more comments. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sounds nice to my old ears. </p>
+
+
+<h2> review.date </h2>
+  08-16-2012  
+<h2> review.text </h2>
+
+ <p> I bought this for background classical music while reading in bed. In addition to being compact and attractive, the sound and clarity of the system knocked my socks off. As folks say back where I come from, "it don't get no better than that." So good in fact that I'm going to order another one for my office. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pleasant Surprise </p>
+
+
+<h2> review.date </h2>
+  04-20-2012  
+<h2> review.text </h2>
+
+ <p> I have had this product for about a month now. It performs pretty well for it's price and size, but if your looking for a quality sound system look elsewhere.  I am particulary disappointed with the auxillary jack which I wanted to use with external speakers.  When I connected the speakers I could hear a loud hum when playing CD's.  It seemed to disappear when playing an I-Pod though, go figure. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> just don't expect too much. </p>
+
+
+<h2> review.date </h2>
+  04-29-2014  
+<h2> review.text </h2>
+
+ <p> I live in a small studio apartment and wanted something that was unobtrusive, but that had good sound.  It has great sound, has a port for earphones and play both cds and MP3s, which I wanted because I listen to lots of audiobooks.  It is easy to connect and set up.  I haven't hooked up the radio, as I never listen to radio, but it has a nice little instruction book that clearly gives instructions for hooking up the radio.  I'm very happy with this compact, streamlined stereo system. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect small sound system. </p>
+
+
+<h2> review.date </h2>
+  08-28-2012  
+<h2> review.text </h2>
+
+ <p> My old Panasonic CD/Receiver was failing so I replaced it with this unit. The new unit is sleeker looking but the sound isn't as good as the older unit that has better speakers. Still OK though for use as a kitchen unit.  Better speakers would earn the missing star. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sounds almost as good as my old one. </p>
+
+
+<h2> review.date </h2>
+  05-20-2011  
+<h2> review.text </h2>
+
+ <p> The SC-HC30 has great reviews on Amazon, so I figured that I would pick up the new SC-HC35 at Sears for $150. The unit looks great and has great functionality with pretty good sound for such a small unit. The downfall is a very high pitch hissing sound that is always produced except when a cd is spinning. It is similar to the noise that a tube tv makes when it is on, but a little lower frequency and much, much louder. I will be returning it today and looking for something else...perhaps the SC-HC30. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> High Pitch Hiss </p>
+
+
+<h2> review.date </h2>
+  08-20-2012  
+<h2> review.text </h2>
+
+ <p> This is the fourth cd player Ive ordered and the first one that works. I am disabled and unfortunately online doesnt tell the difficulty in using products. I would prefer everything to have a simple on/off button..that's it but its a more complicated world we live in now. that said..It looks good and, on my third day, it works. At first I was distressed with so many buttons, two antennas, etc. and buttons arent organized..i.e. all cd buttons together..or marked what they do for cd..and I found the directions in english as unintelligible to me as those written in spanish. However I managed by pushing and trying different things to find how to open the cd door and put in a cd and then eventually how to get it to play..and I was astounded..The sound was great. Now Im not fussy about sound..I always figured I just couldnt tell the difference between expensive and cheap stereos but this was VERY good. I eventually figured how to turn on the radio..only hooked up fm antenna..I try to reduce things to a simpler form..and managed to find a channel..again, very clear.I am sure the rest of you will find it much easier to understand...but for those whose disabilities interfere with hand motions and whose cataracts interfere with being able to see tiny..very tiny..words on a remote. and tons of tiny buttons.then you may want to find something simpler. I am tired of returning cd players..The other three brands and types didnt work..so I will keep this and hope in time to master more of it tho I won't ever need the blue tooth, ipod, etc functions. I would have given it five starts just for working and sounding so good but I am so tired of directions that confuse you so much that you have to just try to figure it out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> sounds great.. a little too techy for me but good </p>
+
+
+<h2> review.date </h2>
+  04-28-2012  
+<h2> review.text </h2>
+
+ <p> I bought this for my garage to mount on the wall and use for my iPod and for the FM stereo capabilities. Those things work well for me. The unit looks nice and the remote is convenient. Oh and by the way, they give you the mounts but not the screws to secure the mounts to the wall. Cheaped out a little bit there Panasonic.The thought of the sound quality wasn't something I had considered as most people who reviewed this unit seemed to think it was great. I have news for you.... It's not. Yes,the bass is decent considering it uses small full-range speakers and passive radiators.However, the treble quality, the sibilance...is not good. The vocals suffer big time because of the units lack of seperate tweeters, even with the treble turned all the way up. The upgrade model from this unit has that option and I would guess that it improves sound quality. Essentially, the HC-35 sound quality is lacking.If I hadn't gotten this unit at such an amazing price, I would return it today and get something else. But for now, it'll do I guess. I just have to get used to a very "flat" sound. Oh well, it's just for the garage.Update 5/20/12I tried to overlook the lack of definition in the sound quality, yet even for a garage unit it was just not going to satisfy my needs. It was almost irritatingly flat.So, I returned it and I'll drop down another hundred bucks to get something that I can really crank up. I'll forgo the small size and get something much bigger. I see an Altec Lansing 810 or Kicker 510 in my future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Everything works fine.... but the sound quality is average at best </p>
+
+
+<h2> review.date </h2>
+  07-18-2012  
+<h2> review.text </h2>
+
+ <p> I just bought this system on clearance from Sears, and I'm quite impressed with the quality especially for the price. I've used all of the functions on this thing and was pleased with the performance of all of them. The sound quality is loud and crisp, and there are even several EQ options and settings to adjust this to the best quality possible. Sounds excellent out of the box with my iPhone 4s, and even better once I adjusted some settings. I really like the remote, even though its not always 100% responsive. Pretty nifty how I can go from listening to my iPod to a CD with the click of a button from the other side of the room. Another feature I like is how compact this is, yet it can reproduce brilliant sound. They are about as loud as my computer speakers, but take up half the space. And, its all just one piece instead of 3. I now am considering selling my computer speakers and just using this through auxiliary. Overall, this is an excellent product and great value. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little system </p>
+
+
+<h2> review.date </h2>
+  01-25-2014  
+<h2> review.text </h2>
+
+ <p> It was so hard to find something simple, yet practical.  I use it mostly for a radio in my kitchen, but do have it plugged up to my computer with a long 25ft 3.5MM Stereo Male to Male Audio Patch Cord.  I hardly play a cd in it, but it's a good feature to have.  I-phone fits in perfect and is hidden with the sliding door.  It would be cool if they had a Bluetooth version. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoy it </p>
+
+
+<h2> review.date </h2>
+  02-21-2012  
+<h2> review.text </h2>
+
+ <p> only had this 1 day...nice out of the box, slick design, smaller than i anticipated (which is ok), nice remote, great features.... but after setting it all up (antennas, etc), the ipod dock didn't recognize my iphone 4s.  main purpose i got it was to play pandora off my iphone4s at my office (work computers no longer allowed to access pandora).  i'm sure it was a defect since others have had it work.  but my faith in it's reliability/durability was shaken so i ended buying a sony sphere usb speaker for $30 for my purposes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice looking, ok sound, ipod dock didn't work </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> Was looking for this exact model and style after I saw one of our patients bring this whenever he is admitted to the hospital. I love the sound coming from it considering its compact size. Finally found this item in Amazon in brand new/factory sealed box condition and was so happy. Got three of these then got rid of my enormous Sony 'Mini' Hi-Fi Shelf System (which stopped working after a year). Love this Panasonic unit! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome sound for a compact stereo system </p>
+
+
+<h2> review.date </h2>
+  03-30-2013  
+<h2> review.text </h2>
+
+ <p> Nice sound.  Compact and works well.  We haven't used the alarm clock part of the system, but that would be an extra attribute, I'm sure. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Panasonic stereo system </p>
+
+
+<h2> review.date </h2>
+  05-06-2011  
+<h2> review.text </h2>
+
+ <p> I paid full price for it at Best Buy and I won't return it: it works just great. I bought it for my love of audiobooks on CD. The remote does everything you can think of. The unit allows you to quickly back up for several seconds and by chapter. The display shows everything. I don't own an IPod but I do own a Sansa player. The unit has an audio input and my Sansa plays perfectly via a small connector cable (The unit will play anything that has a headphone output. To use it I bought a 3.5mm to 3.5mm male/male connector on the internet.) And of course it has all the usual FM, AM, clock stuff.Two weaknesses: if you pause the CD for a long time, it will "forget" your last heard chapter. So you need to remember where on CD you left off. Also it's not an easy to live with wake-up clock radio because its use requires too many buttons to press (use your old clock radio).But it' a keeper for sure. Looks great, sounds great, can do absolutely everything, and takes up no real shelf space. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does it all, and looks great too </p>
+
+
+<h2> review.date </h2>
+  12-05-2012  
+<h2> review.text </h2>
+
+ <p> I decided to buy this Panasonic product to replace my previous Sony who stopped working.Having other Panasonic products it was easy to choose.Quality sound, reads any CD's,I Pod's and the radio function is fine.There is a AUX. jack too.Get one and enjoy the quality sound. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW </p>
+
+
+<h2> review.date </h2>
+  08-04-2012  
+<h2> review.text </h2>
+
+ <p> The only reason I did not rate this product 5 stars is it's a little hard to learn to use all its many features. I don't know how this problem can be solved. If you have a dedicated switch for each feature, you'd have a zillion switches which require a huge remote control and is confusing. BTW, this model's remote control is a cheap black plastic thing. My previous fancy player (Nakamichi) has a beautiful little silver egg-shaped remote that fit in my palm. Using switches that perform more than one thing, or switch combinations ("press this, then that") make it cumbersome. I like features so I try to learn them, but the instructions can be better written.Manufacturers save cost by having one user manual for more than a single model, but a complex manual is hard to use. For example, the manual described a feature where you wave your hand over a sensor to open the door to the CD/iPod player. Well, this model doesn't do that, or maybe it does and I haven't figured it out? It also describes other cute features that this model doesn't seem to do.I still haven't found out how to get it to display the time of day, or maybe it doesn't do that? If not, why not? It must know the time to know when to switch on the wake-up alarm.It's hard to believe because the two features are so different, but I have mixed up more than once the way to set the 'alarm time' with the 'sleep timer.' I am not a dummie. I have successfully used the advanced features of many consumer electronics. I am very good with computers and software. So I blame the manual and the arrangement of keys on the remote control. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sound, good features, good price </p>
+
+
+<h2> review.date </h2>
+  10-29-2011  
+<h2> review.text </h2>
+
+ <p> Very sleek and stylish and the sound is great. This is wall-mounted in my partner's one-man hair salon and is perfect for that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great stereo system </p>
+
+
+<h2> review.date </h2>
+  10-07-2012  
+<h2> review.text </h2>
+
+ <p> Nice "Little" Music System for the price!! It is much smaller than I expected, but that is ok as I bought this for my Grandmother who just moved into her own apartment and asked for a Radio to listen to her Old Oldies! This is Perfect and I may just wall mount for her. I know the perfect place. She will never use the iPod/iPhone side of the unit, but hopefully all the CD's we have bought her over the years once in a while. What shocked me most when I opened the box was the size as mentioned, but the total height is not much taller than a CD Jewelcase!! I just wanted to make sure everything worked before I wrap it for her birthday present. Nice LITTLE unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice "Little" Music System for the price!! </p>
+
+
+<h2> review.date </h2>
+  12-04-2011  
+<h2> review.text </h2>
+
+ <p> This is one of those modern shelf systems that has more bass than it should, given its thickness.The front cover slides one way to expose the iPod dock, centered to cover them up, and the other way to expose the CD. It includes a loop antenna for AM, and a string antenna for FM. Also, a 1/8" mini phono input for other devices you may want to patch in.It comes with brackets for wall mounting, where it won't take up any space at all on shelves and such. It also includes a base, for traditional shelf-top usage.The sound is good, and it has some neat features, such as sleep timer.Having an iPod dock opens this up to internet radio with an iPod Touch or iPhone and the app for the station you want to listen to, or even streaming from the web. Also included is a nice little IR remote, so you can control this from your bed or couch.This is a nice product at a fair price. My wife is really happy with hers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great replacement for an old-school boombox </p>
+
+
+<h2> review.date </h2>
+  09-13-2011  
+<h2> review.text </h2>
+
+ <p> Overall, this stereo looks nice and has nice sound for a medium size room.  The feature is rich and easy to use.  I like the sliding door; however, my unit came with a large sticker on the iPod dock cover door.  When I peeled that sticker off the cover door, the cover door has some long scratch and sticky stuff.  I cleaned it up, but the scratch is permanent.  I am a bit upset to see a brand new unit already scratched because of the sticker.  I don't know why they put an ugly, useless sticker on the cover door. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice sound, but the unit arrived slightly scratched </p>
+
+
+<h2> review.date </h2>
+  03-13-2012  
+<h2> review.text </h2>
+
+ <p> The system had very good sound but my Ipod would not sync up with the system.  I called the help line but they were not very knowledgeable and could not offer much help.  My Ipod was a 2nd generation and the manual stated that this Ipod was compatiable with the system.  Beware before you purchase this system.  I would go to somewhere like Bestbuy and check my Ipod on a system in the store before I Purchased one of these. I eventually returned my system for a full refund. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ipod Dock Was Not Compatiable </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

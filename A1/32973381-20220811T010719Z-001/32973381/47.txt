@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B001S2RDA4 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-18-2010  
+<h2> review.text </h2>
+
+ <p> I'm not an audiophile, but enjoy watching movies with my family, listening to all kinds of music and playing both Xbox and Wii. I purchased theYamaha RX-V365BL 500 Watt 5-Channel Home Theater Receiverto upgrade my 8 year old Sony 'theater in a box' set-up, after reading several reviews on it.  I did note that the HDMI inputs on the receiver do not carry audio - only video.  Incorrectly thinking that this wouldn't really be an issue I bought it anyway and these are my impressions regarding that issue and a couple others.SETUPGetting it out of the box is easy, reading the manual and applying it to your set-up is the challenge! The manual that comes with the receiver (also available on the Yamaha website in a PDF file) was not terribly clear, at least not for me. I ended up on the Monster cables website where they have a home theater set-up helper (diagrams) that helped a lot to simply figure out what cables I needed to go buy to adjust for the lack of audio being filtered through the HDMI cables.To get my set-up working as I wanted it to, it literally took me 2 days of tweaking and changing wires around. Mind you I've done this before, and consider myself somewhat 'mechanical', having set-up many computers and other electronics previously. My electronic components I wanted to sync with the receiver included: an Xbox, Wii, plasma hdtv, upconverting dvd player, and a vhs player. It shouldn't have been tough, but it was because of the 'audio' inputs/outputs and HDMI issue.Before you begin your set-up I suggest you have on hand a flashlight and any cables you may need like aBelkin AV20000-06 PureAV Digital Optical Cable (6-Feet)or aBelkin PureAV AV20500-25 25-Foot Subwoofer Audio Cable, to save yourself some time and grief. I also found these to be very helpful in cable management:Belkin F8B024 8-Inch Velcro Cable Ties, and purchased aBelkin 12-Outlet Home/Office Surge Protector with Phone/Ethernet/Coaxial Protection and Extended Cordto plug in all the home theater components and protect them from surges in the power.I also suggest you evaluate each component you're going to be filtering through the Yamaha receiver and figure out where you'll be connecting them.  I found that one of my components worked better being hooked up and filtered through my hdtv versus the AV receiver.HEAT and WEIGHTThe receiver is a standard size and should fit easily into a home theater component rack, but the vents on the top are there for a reason - the receiver gives off a quite a bit of heat! You won't want to place another component on top of the receiver or have it in an enclosed space without proper ventilation. It's also quite weighty, so make sure it's on a surface that's built to support its weight.SHORTCOMINGSWhile this receiver is powerful and the price is right, there are some issues that may be a deal-breaker for some. These were the issues I had to weigh before making my purchase.1. The HDMI inputs on the back of the receiver only carry video, not audio signals. HDMI is known for its superior ability to carry both signals so this is a curiosity to me. I had to go buy two cables: a Belkin AV20000-06 PureAV Digital Optical Cable (6-Feet) and a Belkin PureAV RCA Audio Cable 6 ft to connect my dvd player and TV to the receiver AND get sound filtered through the receiver.2. Speaker connections on the back of the receiver do not all accept GLS Audio Black Chrome Series Gold Connector Banana Plugs - 20 Pack (10 Reds & 10 Blacks). Now this may seem a bit nit picky, but if you want the best, most secure connection for your speaker wire, this is the way to go. The receiver allows for the front 2 speakers to be connected this way and filtered through myKlipsch KSW-10 10-Inch 225 Watt Subwoofer (Black), but they are not available for all the speakers. On the higher end Yamaha receivers, all of the connections are banana plug compatible.3. Set-up was tough.  I found that the 'basic set-up' for the receiver (via the remote) would only take me so far and that troubleshooting was minimally helpful. This may be with all AV receiver set-ups, but it would have been helpful if this unit had shipped with a 1-2 page, easy-set-up guide and/or an online video.4. The remote has small buttons and would be tough to use if you have big fingers.  It also REALLY needs back-lighting!5. No hook-up for a turntable. You can buy a Pyle PP-999 Phono Turntable Pre-Amp and use the CD hook-ups though, and you can re-name inputs that appear on the screen. Hook-ups in general are limited, as is the speaker set-up with 5.1 versus 7.1, which simply means limited upgrade-ability to your system in the future.WHAT I LIKE ABOUT IT"The sound."  I feel like I'm hearing things I completely missed with the older set-up. The upgraded home theater experience I was looking for has been achieved! "Music Enhancer" mode seems to work the best for me in combination with the Dolby Digital sound.  Tweaking the speaker settings for the room was essential, but once I got the right blend - it was fantastic!  I paired this receiver with Klipsch's Quintet III speakers and their 10" subwoofer.  All of it for about $600, with a sound and power worth twice the price.Many 'tweaks' to the sound are possible via the settings on the receiver. READ the manual and refer to it as you make your settings. It is highly customizable with 4 buttons on the front of the receiver that you can set-up with whatever sound settings you like - for easy change overs.The remote is lightweight and works well. NOTE: You can also get a free app on iTunes that allows you to use your iPod Touch or iPhone as a remote!The receiver is Bluetooth ready and has an optional port for theYamaha YDS-11SL Universal iPod Dock for Select Yamaha Home Theater Receivers.  You will only get 2-channel sound when playing tunes from your iPod, but it's a great addition to the system.CONCLUSIONPrice, power, and Yamaha quality sell this AV receiver. The limited input options with the lack of HDMI audio out and the 5.1 versus 7.1 make this a lower end choice in a receiver, but for the money this receiver is a solid choice for a home theater AV receiver with great sound quality coming from a trusted brand. Isn't that the point?I'd recommend it to anyone wants a quality home theater experience for minimal cost, and who doesn't mind using other audio cables to offset the lack of audio signal through the HDMI ports. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Power at the right price for the budget-minded consumer </p>
+
+
+<h2> review.date </h2>
+  03-13-2010  
+<h2> review.text </h2>
+
+ <p> Very good performance and features for the price. Instructions could be clearer, but I didn't have problems with setup and use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Value </p>
+
+
+<h2> review.date </h2>
+  11-27-2009  
+<h2> review.text </h2>
+
+ <p> I generally like Yamaha products but this receiver has one huge flaw.  The HDMI outs do not support audio sound.  I ran separate optical audio outputs from cable box and CD player.  The one HDMI out on the reciever only worked with DVD not Cable box or DTV inputs.  So don't plan on running a separate TV from the HDMI out on the reciever. The sound quality is good and the functions are easy to learn with the exception of the scene feature. Really not that well explained.  I like the reciever and was able to work around the HDMI issue but think that this is a huge oversight on Yamaha's part.  I hope this review is helpful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> HDMI does not support audio </p>
+
+
+<h2> review.date </h2>
+  07-09-2009  
+<h2> review.text </h2>
+
+ <p> I was looking for a replacement for my old receiver that had optical input and this one fit the bill.  Has all the power I want/need and easy to set up and operate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Receiver </p>
+
+
+<h2> review.date </h2>
+  02-16-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this receiver with a dual purpose: 1. to serve as an audio amplifier and 2. to serve as a video switch so one can select a video source together with an audio source with only one click.While I am very happy with the audio amplifier part, I am not completely happy with the video switch part. Here is why...Note that the manual is not very clear but the tech support is knowledgeable and responsive. Anyway it is my belief that the best way to describe the product is as follow:The unit supports 3 audio only sources (CD, MD/CD-R, TUNER).The unit also supports 4 audio+video sources (DVD, DTV/CBL, DVR, V-AUX/DOCK)By the way the remote control has 7 dedicated/labeled buttons to control the said 3+4=7 sources so it's easy to remember which button maps to which source. Those buttons have a dual purpose: select a source, and control the source (this requires setting the proper remote codes). Also the remote has dedicated buttons to control a TV regardless of the selected source which I found extremely convenient.Sources map to physical inputs in a somewhat constrained manner.CD: optical digital audio IN3 or analog audioMD/CD-R: analog audioTUNER: N/ADVD: (coaxial digital audio IN1 or analog audio) and (HDMI video or component video or composite video)DTV/CBL: (optical digital audio IN2 or analog audio) and (HDMI video or component video or composite video)DVR: (analog audio) and (component video or composite video)V-AUX/DOCK (analog audio and composite video) or proprietary dockIt is possible to reassign IN1, IN2 and IN3 in case you need to swap a coaxial input for an optical input but you may end up wishing there was a third optical digital audio input. Also you may end up wishing there was a third HDMI video input.On the output side there is one HDMI, one component video output (MONITOR) as well as three composite outputs (MONITOR, DVR and MD/CD-R).The hitch is that the unit does not do any conversion whatsoever between the inputs and the outputs. So if you have one HDMI, one component and one composite video source, you have to attach one HDMI, one component, and one composite cable between the receiver and the TV... and you have to manually switch the inputs on the TV. There is a dedicated key on the remote to do this (TV INPUT)... but what is the point of offering a switching video feature if you end up having to switch again on the TV? I realize that the switching feature is actually nice if you have only HDMI sources or only component sources or a non-HD TV which you can only feed with composite but this is a little bit disappointing in my opinion.Another not very useful feature is the "SCENE"s. It enables you to pick a source and a sound setting with one click... but it's easier to remember to press CD to play a CD rather than click SCENE 2 to play a CD... I guess it's useful when you get a higher end model that does not have dedicated source buttons on the remote.To summarize:Very good audio amplifier.Supports 6 or 8 ohms speakers.Remote is great. Only button missing is a "-"/"." to directly select OTA sub-channels on the TVWould be better with a third HDMI inputWould be better with a third optical digital audio input (on top of the coaxial digital audio input).Would be nice if there was a straight way to use the TV as a digital audio source (with a dedicated key on the remote) for OTA HD channelsWould be really nice if the video inputs were upconverted to HDMI </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good audio receiver. Not so good video receiver </p>
+
+
+<h2> review.date </h2>
+  03-04-2010  
+<h2> review.text </h2>
+
+ <p> Yamaha is a good name, but this time I'm so disappointed. After my research under $200's receiver(most brand) are not support HDMI sound output. I've Xbox 360, Wii, and PS2, they all use component cable, plus DVD and VCR, there have not enough space for me. I need to input some direct to TV, and Xbox360 only can choice HDMI or component cable output, so it's not matching this receiver. The other problem is the sub woofer output only support powered sub,I have to buy a new powered subwoofer to complete the setting. You can't L & R connect to a non-power Sub, it will short down. Suck!! Also, it can't A & B speaker system in a same time. Remote control also little bit inconvenience, should make a easy control design. If you are not request so high, it's fit for some products before Five years ago. If you try to use it for updated tech, this model not suitable for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No good for Gamer </p>
+
+
+<h2> review.date </h2>
+  01-03-2010  
+<h2> review.text </h2>
+
+ <p> it's a very good receiver for the price you pay for it. It's better than my previous Pioneer VSX-519.The pure decoding mode is extremely clear. Good price and highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent receiver for the price. </p>
+
+
+<h2> review.date </h2>
+  03-06-2009  
+<h2> review.text </h2>
+
+ <p> I was looking for a lower end receiver that could use HDMI audio and according to the user manual for the RX-V365 it can't play HDMI audio through the speakers. You would have to connect separate optical cables to the source components.I have a HDMI DirecTV, HDMI computer, and a HDMI LCD TV. Some company must understand that it's a waste to put component and even composite video on a receiver. Actually, so is the FM (and AM?) receiver. This is for a second LCD screen in my home, so am looking for something optimized for modern equipment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No HDMI Audio </p>
+
+
+<h2> review.date </h2>
+  07-15-2010  
+<h2> review.text </h2>
+
+ <p> I use this to play music through my computer in my office. Yes, it's much more than a typical computer setup, but I'm tired of buying expensive computer speaker setups that perform poorly and break after a year.This is matched to a couple of decent speakers and a small sub and the sound is excellent! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for office use </p>
+
+
+<h2> review.date </h2>
+  07-26-2010  
+<h2> review.text </h2>
+
+ <p> Im not Luly thats my mom but im 15 and an audiophile.My setup: i got this reciever hooked to my Klipsch KG 4.2 floorstanding speakers. And my dad has the same receiver hooked up to his bose acoustimass 5 system.This receiver is awesome. Volume gets very loud without distortion which is good. I like the fact that it has a music enhancer and even works while the radio is on, it makes the radio sound so much better and clearer and you dont hear that "sshhh" noise anymore. Its the best 100watt per channel reciever out there under 200$! I also got this with the yamaha ipod dock and it terrific except i only wished yamaha made a remote for the dock to switch songs instead of getting up to switch the song. overall, sound is crystal clear without distortion, great price and a lot of features. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome reciever for the price!! </p>
+
+
+<h2> review.date </h2>
+  05-09-2010  
+<h2> review.text </h2>
+
+ <p> This Yamaha produces very high quality sound but it doesn't work and play well with other devices.  It's nearly impossible to find the remote control code.  My unit locked up every time I chose multi-channel output, which is the reason why I had to return it.  The interface was not very user friendly and everything felt very manual, meaning I had to manually program every function of this receiver.  I had difficulties setting up the wire configuration and there's no hdmi pass-through on the sound.Hint:  You can use your television speaker as your center channel, or with a center channel speaker to boost the output. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay but has some flaws... </p>
+
+
+<h2> review.date </h2>
+  01-22-2010  
+<h2> review.text </h2>
+
+ <p> Pros: works out of the box, xlnt THX audio, xlnt separation, xlnt surround.Cons: Setup sucks. The owners manual sucks as its hard to follow. Heck, I have reviewed and proofed hundreds of technical manuals over my career and this one really sucks. You get to step 6 out of 10 and the setting does not exist! Lots of fumbling around with hits & misses. Well step 6 in the last chapter is now step 3 two chapters following. By saying the rcvr is over engineered is stating it mildly. Everything is software adjusted. eg; to adjust my rear speaker volume levels, I have to wade through a gazillion steps in order to get there. And, if I miss a step I start over. Am I on the phone calling a company going through their phone tree nightmare??? Heck, you cannot make any adjustments on the fly, not even setting FM presets. This is a set it and forget it receiver!Has two THX inputs; one is DTV/CBL, the other CD. Huh? THX for CD and not DVD? Duh! So when I watch Blu-Ray THX DVD's, I push the CD button on the remote. How stupid is this?Would I buy Yamaha again? No way. Don't get me wrong, if you are the "set it and forget it" type you will be most happy with this receiver after you have spent hours setting it to your liking. Others, like me, who continually adjust to suite the input mode will hate it.=============================================I'm writing this follow-up 3 years down the road. The digital optical audio inputs have both failed - inputs from DirecTv and Blu-ray DVD player - Gone in 60 seconds, no laser beam. Not worth spending forty + dollars for an estimate then another hundred or so to replace the board. Also gone is stereo separation. Most times it seems like I'm listening to mono with any input.For a couple of hundred bucks consider this a throw away product </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Xlnt THX Sound for what it's worth </p>
+
+
+<h2> review.date </h2>
+  03-17-2010  
+<h2> review.text </h2>
+
+ <p> I shopped around a lot before settling on this one.  I was still skeptical, but this one rocks.  My tv does not have HDMI, so no issues there for me.  I hooked up a Harmon Kardon DVD50, a Panasonic EZ28 recorder and a Yamaha SL1800 Dvd player all through the 3 component videos and component video to the TV.  I used an optical digital audio for the Harmon Kardon and digital coax for the Yamaha dvd player. The sounds are great.  I bought this to replace a 30 year old Yamaha RX-930, which was superb.  Setup was very easy.  Oh, I am only using 2 channel speakers, Bose acoustimass which I bought with the RX-930.  I love Yamaha products.  My Sony TV is a 57" wide screen projection tv with component video inputs.  When it goes and I have to buy a new HD tv, then I can buy a higher up receiver to use the HDMI.  For the money, this is one great reciever. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great receiver. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

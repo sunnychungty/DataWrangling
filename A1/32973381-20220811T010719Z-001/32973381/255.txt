@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000WGZGOC <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> really really good crime drama with bad lighting... </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> i've seen The Mission and Full time Killer and have generally been pleased with Johnnie To's work.the acting was great, the story/writing/characters were good, but lighting some of the action sequences (the shootout in the restaurant, followed almost immediately by the shootout in the doctor's office) were almost impossible to follow because of his choice of angles and lighting.  now, i have a region 1 disc, so if there is a better version out there, get it.this was a really good movie that, in terms of acting, writing, and directing; is on par with anything that john Woo has done. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exiled </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Exiled the movie to me is an awesome little action thriller from Johnnie To that deserves at least four stars.However this instant video release comes in one form of Exiled, carrying an English dub which for a fan isn't satisfying especially as Amazon's description gives indication of this fact. Unless this doesn't bother you're better off tracking down a DVD of the movie instead.. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Why did the exiled return to Macau? </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> There must be a reason it's not ironic that Stanley Ho's daughter is cast as the helpless wife and mother of the exiled thug.  I think this should be seen with her performance in Dream House and with the other Macau-set film Longest Night which makes Macau look terrifyingly criminal and hints at some oldtimer looking to make his return.I think this had more to do with depicting remorselessness and implacability of underworld figures than any morality tale about fraternity.  It wasnt much of a movie in my opinion and I really didnt enjoy it.It was just so stupid and inexplicable that the ordinary audience member is left wondering why anyone would do this.  It's not like the amnesiac Johnny Halliday in Vengeance with a just cause or the blameless Tony Leung in Longest Night who just got caught up in other people's issues. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-02-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Step up from the dvd image quality.  That's really the only reason to go with blu-ray, aside from the scratch resistance.As with most movies, it's a matter of personal preference.  It's not as good as 'The Killer', but it's a respectible Hong Kong movie. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I thought this was ok </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This film was in my &#34;ok&#34; range. It was well enough done to make it somewhat interesting or entertaining but I would not have missed much if I never saw it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ex </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Couldn't quite make it through this one it started okay held my interest for about halfway then I realized I was watching the relentless repeats of Asian martial arts films. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exiled </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a waist I fallowed what was happening but the story was diffidently not &#34;American.&#34; Instead it was a slow movie designed to (plot Alert) kill everyone off. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Unified China: Colonial Heritage </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-04-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Gangsters of Hong Kong try to destroy gangsters of Macao for an unclear reason the gloomy future under oncoming gangsters of China unified to bring.Technically staged and involving handsome actors, this horror-police-drama-piff-puff movie of male bonds and their ascendants oncoming is easily followed by liking motion rather than elementary sense and context of the screened. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Jean-Pierre Melville re-incarnated in Macau. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The predecessor and complement to Vengeance (Johnny Hallyday) this 2007 movie shows that Johnny To is one of the most interesting directors around.If you want something a bit different with dark humour, style to burn and all the moral conundrums of Le Samauri or Bob le Flambeur, this is your cup of blood.Talent. The real thing . I know, I can't believe it either. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cool Flick... </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Really enjoyed it.  Tons of action, and a good story.  A dark "buddy" kinda flick.  No subtitles so it was easy to follow.  A Quention Tarantino esque movie no less... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Brilliantly Choreographed Gunfights </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a brilliantly filmed low budget Hong Kong action movie.The cinematography is fine.  Yes, the scenes are dark, but that's because it's, well, dark outside a lot of the time, and inside shots do tend to be underlit but for fine dramatic effect.  Though most scenes are underlit, this is done creatively, with key lights strategically placed and adding dramatic color to even the darkest settings.  The opening scene, in brilliant daylight, is one I use to show off my new plasma TV set. There is a middle sequence that has a strangely yellow pallet that I'm not pleased with, but the rest is fine.As some have noted, the action sequences are brilliant, particularly the scenes set at the underground doctor's third-floor flat. Shot in semi-slow motion, you have twelve characters, nine from two rival gangs, who are shooting at each other, and all moving in different directions at the same time, with racks of curtains rolling in different directions as the characters push or hide behind them.  Each character has a different shooting style and things are happening while everyone is moving quickly.  But the brilliant of the action choreography is such that by and large, the action makes perfect sense.  I would add the shootouts are enhanced by the device of using guns and ammunition that result in flashes of smoke from each shot.  It's a great visual effect.  In the second half of this gun battle, the camera is positioned outside the building so the POV shows the three floors at the same time, including an outside stair case.  So the viewer sees the one gang shooting from windows on the third floor, fleeing gang members coming down the stairs, and others shooting up from the yard below.  With a decent TV, you can see every detail of color and light, down to a tiny trickle of blood coursing down a crack in the cement.  I might add the action is also enhanced by a fine music soundtrack.  Wished to heck it was on CD!Yes, this is a low-budget film.  I believe that there is only one scene in a restaurant that has even just three to four extras who are not among the main characters.  In the neighborhood where one of the main characters lives, you'll see no one other than the six main actors on the street, no other cars, nothing.  It's as if the movie were filmed more like a stage production.I don't think anyone has yet commented on the acting.  The dialogue is not very extensive, and what little there might be is marred by badly translated subtitles.  But all the main characters are very charismatic, and they say all they need to by their deeply expressed attitudes.This is a unique movie, and to enjoy it you have accept the conventions of the Hong Kong gangster movie genre.  But if you do, you'll never see gunfight scenes that equal these, you'll enjoy the cinematography, and the actors are great fun.  This movie is not for everyone, but if you really focus on what's up there on the screen, as opposed to what your used to seeing, you'll be eager to have your friends discover it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great visuals overcome confused storyline </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-19-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> ***1/2Good luck trying to make any kind of sense out of "Exiled," a largely incoherent Chinese mob drama that at least boasts exquisite photography by Cheng Siu-Keung and uber-stylish direction by Johnnie To to hook and enthrall us.  In fact, so riveting are the movie's visuals that you won't even mind that you can't tell who's who without a program or figure out how any of the characters are related to one another in the context of the narrative.  It all has something to do with a gang of assassins trying to protect one of their own from the very mob boss who has sent them on a mission to take the man out - but I'll be damned if I can explain anything more that happens in the movie.Suffice it to say that with its meticulously composed, wide screen framing, its stylized action scenes - kind of a cross between Quentin Tarentino and Robert Rodriguez - its visual correlatives, and its dark, velvety colors, the movie makes it hard for us to tear our eyes off the screen even for a single second.Almost a textbook case of style triumphing over substance, "Exiled" is a true cineaste's delight.  And hang the story. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wow!  This is an amazing crime film. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was directed by Johnny To (as was PTU).  I'm going to look for more of his films.I've never seen a film start like this one or end like this one.  In between there are too many surprising happening to count.  There's a lot of gunplay and at least 4 blood baths (the shootout at the beginning of the film doesn't count because no-one really got hurt).  That, by the way, is not the amazing surprise at the beginning of the film.Outstanding performances all around with special kudos to Anthony Wong Chau-sang who plays 'Blaze'.A mind-breaking film and very recommended to those who can stomach the violence. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Johnny To riffs on The Wild Bunch in Macau </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-28-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Exiled isn't as good as Johnny To's previous effort, Election 2, although still stands head and shoulders among most recent action movies despite its flaws. The protracted opening sequence tends to feel a bit too much like posing until it really gets going and despite usually being at his best in To's films, unfortunately Simon Yam goes all Jack Nicholson this time out as the gang boss whose impatience causes all the problems. There are some nice moments of humanity, like the widow continually squeezing the trigger of a gun long after she's emptied it, but the riffing on The Wild Bunch starts to feel awfully self-conscious at times. Still, Red Bull must be pleased as punch to have the classiest bit of product placement in recent years, and "There's no furniture" may just be my favorite line of dialogue all year. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exiled: Guns and Friendship </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-03-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Though Johnnie To is often associated with Hong Kong gangster films, the prolific director has actually tried other genres of film like supernatural or romantic ones. Still, the fact remains that the respected veteran is at his best when making films about the underground world with stylish visuals, and "Exiled" once again proves his expertise with his great camera and skills to tell a powerful story of brotherhood.In the opening scene that reminds us of old Italian-made Western films, two gangsters visit an old house in Macau, where they think someone named Wo (Nick Cheung) is living. Wo's wife Jin (Josie Ho) answers the door and says no, shutting the door on their face. Then another two gangsters arrive, quietly asking the same question. Obviously those four men have some business to do, but their motives will not be revealed until one highly-stylized shoot-out begins."Exiled," which was filmed without script, is made of a series of set-pieces or vignettes mainly involving the friendship between the five male characters - Blaze (Anthony Wong), Tai (Francis Ng), Cat (Roy Cheung), Fat (Lam Suet) and Wo. There is a ruthless triad boss Fay (Simon Yam with over-the-top acting) who has unfinished business with Wo, whose only wish is to leave money to his wife and child.Johnnie To has shown his great talent as director here with his wonderful camera work in the several shoot-out scenes that are impressive. But as in some of his previous films (like fantastic "The Mission") "Exiled" is not just about actions, but is about camaraderie between these male characters. There isn't much dialogue because these men don't need them, and the chain of events in "Exiled" which includes incredible coincidences about robbery and subplots about Wo's strong-willed wife, always stresses their relationship. Those characters may look stereotyped, but with the terrific acting from the entire cast, their story of friendship is a genuine one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Johnnie To finally returns..."EXILED" has essence of all previous "JOHNNIE TO" films! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-02-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> EXILED is directed by Johnnie To (Full Time Killer, Election, Breaking News), one of the most acclaimed directors of Hong Kong. Johnnie To is the epitome of hard-boiled cool, his films are fresh, visually inventive and have that cinematic magic. The cast of Johnnie To's hit "The Mission" has been reunited for this film. No, this is not a sequel, although it does have very similar characters. Exiled won numerous awards in Hong Kong, including `Best Director'.PLOT synopsis loosely derived from the DVD back cover:The time is 1998. The setting is Macau. Every living soul jumps at every chance to make quick money before the Portuguese colony ushers in a new era under the Chinese rule. For the jaded hit men, they wonder where this journey will end.Against this background of fin-de-si&egrave;cle malaise come two hit men from Hong Kong sent to take out a renegade member trying to turn over a new leaf with his wife and newborn baby. They soon find themselves in the throes of a dilemma when two of their former associates also show up, intent on thwarting them at every cost. Once there, all 5 men must find a way to resolve the situation. But can they, without getting anyone killed in the process?At first look, one may take `Exiled' a buddy flick. But believe me; the movie succeeds in side-stepping that impression. Johnnie To is back! This is the type of film his fans loved him for, this is purely a testosterone-driven, bloody heroic violence. The term "epic violence" may apply to this film. This is a guy's film, not to say chicks won't dig it, but males will truly appreciate it more. This is not a sappy, funny comedy.One of the best things about "Exiled" is the INVENTIVE action sequences. Long distance gunfights are a bit low-key, subtle but extremely intense. Close quarters gun battles have the usual "BULLET BALLET" reminiscent of Chow Yun Fat. Johnnie To made the right decision dividing the segments of the stylized gun battles, low-key or "bullet ballet", To's talent shines through. The gun battles are very FRESH with his usual signature style.Another great thing with this film is the cast. Anthony Wong, Francis Ng, Lam Suet, Roy & Nick Cheung, Josie Ho, Richie Ren and Simon Yam, they are ALMOST in the majority of To's films. The chemistry of the cast meshes very well considering they worked together in most of Johnnie's films. That is one of the magic of To's film making, he always find the right actors for his films.Nice touches, such as two dueling hitmen having a drink and having friendly "small talk" , they know they will eventually end up trying to kill each other. The group enjoying a home-cooked meal (cooked by 2 of them) and reminiscing about their past after the gunfight in the 1st act of the film, adds depth to its characters in a subtle way, at the same time emphasizes a sense of `honor' while setting the film's moody, noirish atmosphere.I have the UNCUT 2-disc region-3 release from Megastar. (Hong Kong official release)Note: The MEGASTAR release has the triad handshake, which was cut from theaters to make it category II (rated-R). The uncut version restores the handshake that has a category III rating (NC-17). I'm not sure if Magnolia pictures didn't cut it out.VIDEO/AUDIO: 2.40 ANAMORPHIC WIDESCREEN. The transfer is excellent. Colors are vibrant but lean towards a darker contrast. Clean transfer with a few enhancements but not distracting. 6.1 Dolby Ex/6.1 DTS-ES IN Cantonese and Mandarin language. If you're equipped, utilize the DTS track since it is more powerful and crisp. The gunshots do come to life. English Subs are excellent.Final thoughts:Johnnie To deserves to continue making movies the way he likes to without any outside influence.  While "EXILED" did contain similarities to his previous film; The Mission...so what? "Exiled" is Johnnie's gift to all his fans and is a welcome return to the genre he excels in. Personally, I'm just happy he's back doing what he does best!HIGHLY RECOMMENDED! (4  stars) </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

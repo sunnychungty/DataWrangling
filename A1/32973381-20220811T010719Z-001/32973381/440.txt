@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B008YRVG6S <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-30-2012  
+<h2> review.text </h2>
+
+ <p> This is one easy read and very enjoyable.  It is the story of a girl who's boyfriend dies in a tragic accident and she has a hard time letting go.  She meets Eric who had recently had heart surgery and she believes he has her dead boyfriend's heart and they become really "close" friends. I really enjoyed the pace of the story and although very predictable it was still worth reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very cute </p>
+
+
+<h2> review.date </h2>
+  04-12-2013  
+<h2> review.text </h2>
+
+ <p> This was a different kind of romance. Its about losing it all, picking up the pieces, and being able to love again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A different kind of romance </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> It seems like an idea we have heard before. Maybe in a 1960s movie. But the author puts a new spin on the theme. Ren seems very real to me. She is someone I would like to meet (as my daughter's friend, I am not a lech.)The attraction seemed real. The conversations all seem very real. Kudos to the auth </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ren is very real to me </p>
+
+
+<h2> review.date </h2>
+  03-18-2013  
+<h2> review.text </h2>
+
+ <p> I knew I had to read this book by June Gray (Wilette Youkey) after I fell in love with her DISARM series and boy I was not disappointed! This book reminded me of one of my favorite movies (Return to Me), but this story did have a different spin for sure. There is something about the way June writes that makes me connect to her characters. Terrific read, I loved it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Taking Heart </p>
+
+
+<h2> review.date </h2>
+  09-11-2012  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this book. It had a mixture of emotions. As one of the previous reviews stated this book is bittersweet. This book will make you smile and tear up in the same chapter. Other times I wanted to reach in the book and slap them both, for being so pig headed!Read this book. You'll enjoy it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Splash of this and a pinch of that .. </p>
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> I rated this book four stars.  This is is the first book I have read by this author.It was a well written story that easily held my interest. I would like to read other books by this author.I guess the only criticism I would offer was the number of misunderstandings between hero and heroine was annoying. But the author worked it out in the ending. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Taking Heart </p>
+
+
+<h2> review.date </h2>
+  04-05-2013  
+<h2> review.text </h2>
+
+ <p> A good read.  These women show promise and I look forward to their next book and I hope it will be soon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Two new romance writers show promise </p>
+
+
+<h2> review.date </h2>
+  09-22-2012  
+<h2> review.text </h2>
+
+ <p> A wonderful story of love, loss, discovery,and finding your feet again.  It is a good read and i hope you enjoy it as much as i did. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lovely </p>
+
+
+<h2> review.date </h2>
+  03-20-2013  
+<h2> review.text </h2>
+
+ <p> It is a difficult task to clean out a loved ones home after a death, and learning athings about them you didn't already know.Whoever thought a new love would evolve on a plane flite at this time.  A cross country romance evolves and happiness comes in the end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Taking Heart </p>
+
+
+<h2> review.date </h2>
+  04-04-2013  
+<h2> review.text </h2>
+
+ <p> A good beach novel! Would you fall in love with someone who you believed had received a heart transplant from your old fiance? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Summer Romance </p>
+
+
+<h2> review.date </h2>
+  10-23-2012  
+<h2> review.text </h2>
+
+ <p> This was a very interesting story.  I like the meet, friendship, develops into more story line.  I enjoyed Ren and Eric's relationships and the evolution they went through. I do wish the epilogue went a little further down the line in their relationship besides a few weeks but all in all I liked the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute friendship to more book! </p>
+
+
+<h2> review.date </h2>
+  09-05-2012  
+<h2> review.text </h2>
+
+ <p> I started reading this book around 1am and was done by 3:30am, despite the fact that I had to get up very early today. I couldn't put it down! It's a sweet story with two likable characters with chemistry. I found myself smiling and laughing out loud many times. Oh, and I cried a few times too. That's because the story is also believable. Ren and Eric have to work for it and it felt like 'real couple' problems. I also enjoyed that their romance was also built on friendship. With the right cast, this could definitely be a charming romantic comedy. If you're looking for a quick (don't want to stop reading), funny, feel good read, this is it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A book full of heart </p>
+
+
+<h2> review.date </h2>
+  03-01-2013  
+<h2> review.text </h2>
+
+ <p> I am an avid reader of romance novels. This is one of the best books i've read in quite some time. The characters have depth the story is compelling and emotionally lovely. I can't wait to read other books by this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> grab a box of tissues </p>
+
+
+<h2> review.date </h2>
+  09-22-2012  
+<h2> review.text </h2>
+
+ <p> I honestly did like the story and it did make me cry but the part in the middle where Eric took on a serious girlfriend did not sit well with me. The 2 main characters obviously had a connection and he said she was his soulmate so why would he get involved in such a serious romance with another woman? It didn't work for me and spoilt things a bit. It wasn't well handled or ended either for my liking. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A nice story but... </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> Enjoyed this book.  It was a fast read, but interesting.  Good story and a few surprises.  Really kept me reading and into the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just finished </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B009LIPHNC <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-11-2013  
+<h2> review.text </h2>
+
+ <p> I tried using this controller to expand the capacity of my Windows 8 Pro Storage Spaces based home server and could not get it to work consistently.  It would seem to be OK immediately following a system re-boot but once a large transfer was started, the system would freeze after a short period, requiring another re-boot.  I have since found another inexpensive controller (Vantec UGT-ST622) that works well with both Windows 8 and multiple large (3 TB) drives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Problems with Windows 8 </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> I am using the Syba HyperDuo in an older PC (Motherboard: Asus A6T Deluxe V2) that I built about 5 years ago. The motherboard chipset does not support SATA III natively. I got the Syba HyperDuo to get the optimal performance out of my new OCZ Tech Vertex 4 256 GB Drive.While the Syba HyperDuo won't get you the full SATA III speeds you can get from an embedded chipset on your motherboard, the results are still very good and get about a 50% speed increase over SATA II speeds. An embedded chipset can probably get you another 30% more speed beyond that.I'm very happy with the Syba HyperDuo - Very good "bang for the buck".Here are the results of my tests on Win7x64, where the only thing changed was running my SSD from an embedded SATA II port to a running from a SATA III port:SSD (SATA II):-----------------------------------------------------------------------CrystalDiskMark 3.0.2 Shizuku Edition x64 (C) 2007-2012 hiyohiyoCrystal Dew World : [...]-----------------------------------------------------------------------* MB/s = 1,000,000 byte/s [SATA/300 = 300,000,000 byte/s]Sequential Read :  279.136 MB/sSequential Write :  268.315 MB/sRandom Read 512KB :  236.416 MB/sRandom Write 512KB :  265.639 MB/sRandom Read 4KB (QD=1) :  31.762 MB/s [  7754.4 IOPS]Random Write 4KB (QD=1) :  86.864 MB/s [ 21207.1 IOPS]Random Read 4KB (QD=32) :  206.833 MB/s [ 50496.4 IOPS]Random Write 4KB (QD=32) :  197.599 MB/s [ 48242.0 IOPS]Test : 1000 MB [C: 78.0% (186.0/238.4 GB)] (x5)Date : 2012/12/14 10:22:38OS : Windows 7 Professional [6.1 Build 7600] (x64)SSD (using the SATA III PCI card):-----------------------------------------------------------------------CrystalDiskMark 3.0.2 Shizuku Edition x64 (C) 2007-2012 hiyohiyoCrystal Dew World : [...]-----------------------------------------------------------------------* MB/s = 1,000,000 byte/s [SATA/300 = 300,000,000 byte/s]Sequential Read :  381.809 MB/sSequential Write :  427.583 MB/sRandom Read 512KB :  335.098 MB/sRandom Write 512KB :  426.888 MB/sRandom Read 4KB (QD=1) :  29.556 MB/s [  7215.8 IOPS]Random Write 4KB (QD=1) :  70.661 MB/s [ 17251.2 IOPS]Random Read 4KB (QD=32) :  330.678 MB/s [ 80731.9 IOPS]Random Write 4KB (QD=32) :  350.399 MB/s [ 85546.7 IOPS]Test : 1000 MB [C: 78.6% (187.4/238.4 GB)] (x5)Date : 2012/12/15 6:14:07OS : Windows 7 Professional [6.1 Build 7600] (x64) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Installed easily, and definitely faster for me </p>
+
+
+<h2> review.date </h2>
+  11-16-2012  
+<h2> review.text </h2>
+
+ <p> I did not bother to test this with conventional HDDs so bear with me.  IMO, there is only one reason to pay the premium for this PCIe x4 (2 lane) card, and that is to use with SATA6 SSDs.  As stated, this card uses the latest Marvell 92xx generation controller (a 88SE9230).  Architecturally, it appears identical to the HighPoint Rocket/RAID 640L card which costs fifteen bucks more and has no eSATA ports.  So, go for the cheaper one, right?No.  This one, although using an identical chip and drivers as the HighPoint controller card, has issues.  See my customer images.  This card stutters and stops.  I have not seen this behavior (and not this bad) since the earliest SSDs on the market.  It will freeze I/O for 5 seconds or more (maybe even 15 seconds) randomly.  I don't know what's going on.  Spent many hours shaking my head.  This occurs with both the Microsoft AHCI and the Marvel SATA-as-SCSI drivers (much worse with the latter).Don't waste your time and just get the HighPoint controller.  It has zero stuttering.  A final ding is that although it has eSATA and a cute little heatsink on the controller chip, it has those cheap SATA connectors out the back that don't have a locking tab.  Also, if you need angled cables for your drives, good luck because the two top SATA connectors (which do have lock tabs) require angled connectors, and double-angled SATA cables are next to impossible to find.  BTW, the top connectors are also the ones that are shared with the rear eSATA ports. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Messed up implementation </p>
+
+
+<h2> review.date </h2>
+  07-03-2013  
+<h2> review.text </h2>
+
+ <p> I needed this in a Windows 2013 Essentials server for a mirrored RAID, on a EVGA X58 system board that only did SATA II.  The RAID gets an average of 92MB/s, which is fine. A mirror will always be slow. It's been in service for about a month now and all is well.  Using a pair of WD5003AZEX.  As far as I recall, no additional drivers were required. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine. </p>
+
+
+<h2> review.date </h2>
+  12-23-2012  
+<h2> review.text </h2>
+
+ <p> I was using this on a NAS (network attached storage) build that uses FreeNAS.  It was not supported.  I tried contacting the company through their website and got no info back.It did look like the bios detected it, so perhaps it would work in another operating system.  Do not count on vendor support though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Did not work with FreeNAS and no vendor support </p>
+
+
+<h2> review.date </h2>
+  11-05-2013  
+<h2> review.text </h2>
+
+ <p> I bought this to add 2 more internal drives to my computer- it replaced a Silicon Image 3132 based board that supports port-multiplier mode had 2 external Thermalright BlacX Duet hard drive docking stations (each supporting 2 SATA drives) attached- total of 4 drives through 2 ports. I thought it would be pretty much plug and play after I installed the drivers for the Syba HyperDuo, but it would only recognize 1 drive in each docking station. I double checked Win 7 to make sure drivers had been installed and Device Manager showed them installed and working. The board is an old Intel DH57JG, I don't think that matters but adding this for completeness. I emailed Syba support a couple of weeks ago but never received any reply. All the above (Silicon Image 3132 based card, Syba HyperDuo Marvell 88SE9230 chipset-based board, and BlacX Duet docking stations are supposed to support  both FIS-based Port Multiplier and NCQ Native Command Queing. I also tried a SIIG SC-SA0R11-S1 board that is based on the same Marvell 88SE9230 chipset without success. Internal drives work fine.It would be nice if Syba support had responded. Had to give it 1 star because of that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Couldn't get Port Multiplier mode working with this board </p>
+
+
+<h2> review.date </h2>
+  12-01-2012  
+<h2> review.text </h2>
+
+ <p> This is a great way to add super fast sata ports to your computer or server.I built a new Windows Home Server back when WHS 2011 came out. I did not buy a new controller card at that time instead choosing to transfer over my Promise TX4 4 port card over from my old server.That Promise card served me well for years but it was only sata 2 and was SSSLLOOWWW! when I say slow I mean SLOW it would take 3 days to backup huge 2tb drives.This card allows me to backup a 2tb drive in under a couple of hours that means less wear and tear on the drives.Overall I couldn't be happier its fast and it was half as much as many of the other sata 3 cards out there </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very fast easy way to expand your storage. </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> I've had an enclosure with a DATOptic 5X1 eSATA 5 x Serial ATA (SATA) Port Multiplier base on SiI-3726 SPM3726 since the spring.  I wanted to add a card that had a couple internal SATA ports on it to use with it.  The new card (Marvel 88SE9230 based) would only show 4 drives connected, even though the port multiplier has 5 drives.  I put the old Sil-3132 based card back in, and it shows all 5 drives.  Swapped this card back in and hooked up an LG Bluray Burner, and it still only showed 4 of the 5 hard drives and no burner.  Once in Windows 7 (x64 Pro), only 3 of the 4 drives it detected still were available. After a few hours, I gave up.The startup BIOS does not display on my ASUS P8Z77-V motherboard (screen is momentarily turned off), so no idea if any messages are displayed.  I'll try another Silicon Image based card with more ports. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Difficulty using external storage with port multiplier </p>
+
+
+<h2> review.date </h2>
+  06-08-2013  
+<h2> review.text </h2>
+
+ <p> I recently upgraded to this card over the IO Crest 2 Port SATA III PCI-Express x1 Card (SY-PEX40039). I knew my SSD could run faster than what the other card was providing, and the SATA connections on the other card suck. I bought this one to resolve both issues. I haven't had it very long, so I can't speak to the connector issue (although it does employ clips), but I can say that the speed increase is phenomenal. With my OCZ Agility 3, I get over 500 MBps max read and write (see attached image). The old card gave me less than 350 MBps write and about 400 MBps read, so if you're trying to decide between a 1 or 2 lane PCI-e card then I'd definitely recommend this one (2 lane). Just make sure you have an available x4 (or higher) pci-e 2.0 slot, and make sure your SSD can run fast enough to be worth it. This card is about 3 times the price as the IO Crest (still not that expensive though).PROS:-Built in utility for creating hybrid drives (SSD + HDD). This is what they mean by "hyperduo".-Built in utility for creating RAID 0,1,1+0-Manage drives from special screen during bootup or from windows-Nice selection of ports: vertical SATA (with clips), horizontal SATA, eSATA-Worked well out of the box. Plugged it in and it worked perfectly on the first boot. (my drives were already configured as IDE instead of AHCI or RAID)CONS:-Jumper configuration is a little weird-Metal slot filler comes slightly warped (make sure to first stick the motherboard end in snug) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great card, a little more than I need even </p>
+
+
+<h2> review.date </h2>
+  09-20-2013  
+<h2> review.text </h2>
+
+ <p> So far so good.Pros - Price for feature set & performance. HyperDuo works well. Easy(ish) setup.Cons - Jumpers to set ports. Runs extremely hot despite of in spite of the completely ludicrous heatsink. User manual. Default blksize too small in hyperduo mode.Setup - shifted jumpers in order to engage 2 internal, two external ports. External ports drive 2 X Sans Digital 4 drive enclosures, both configured for JBOD 1 with encrypted drive. Internal ports drive HyperDuo 120GB Samsung SSD + Seagate 500GB hybrid holding drive with all Virtual Images. This thing blows away the  2 x Raptors in RAID 0. Would buy again (but replace the heatsink) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Working as Designed </p>
+
+
+<h2> review.date </h2>
+  03-18-2013  
+<h2> review.text </h2>
+
+ <p> This is the 3rd card I have bought.  Some of the others required me to use a floppy to insert the RAID drivers during the boot process.  Do you have a floppy anymore?  Even if I used a memory stick, etc., it is just too much trouble.  So, I bought this card hoping it would be different.  Yes.  Install went quickly.  Attached 3 drives.  4GB Seagate, 2 WD Black drives.  All installed and were recognized (although I had to use the Seagate software for spanning a large drive).  I just want these kinds of addons to work easily and quickly.  I did not do any speed test, or run RAID, etc.  I just wanted more disks (I have 9 overall) and I had run out of SATA ports on my motherboard.  This did the trick. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy install, setup was easy </p>
+
+
+<h2> review.date </h2>
+  05-18-2014  
+<h2> review.text </h2>
+
+ <p> Need lots of storage, but want SSD performance, at low cost? This does the trick. Works as advertised and fairly simple to install. I tried it with a cheap 30GB SSD as the cache drive and a 1TB HDD with satisfactory success. The added bonus is you can improve reliability by using RAID1, or a bit more performance with RAID 0 on the HDD side. You are limited to 4 total ports, so if you use one or both of the external ports, then you lose 1 or 2 internal ports accordingly. For most, that should not be an issue.The card also works well as a straight up SATA III controller and basic RAID card if all you need are more ports or RAID 0/1. The hot swapping works perfectly as well, just make sure to use Windows Drive Manager to take the drive offline first before removal to prevent possible data loss/corruption.Keep in mind that because the card uses the PCIe 2x slot, you will not see full SATA III performance, up to 5Gbps is max, but it's still far faster and more responsive than SATA II just the same, so it's worth it. So it's a great option if your MB doesn't support SATA III.  If you insist on full on 6Gbps, then you'll need a card on the PCIe x8 or x16 slot, but you'll pay more too.5 Stars because this card performs and functions as advertised, and at a great price point, and it works without great complexity. It's a great option to achieve:1. A hybrid solution in any system.2. Upgrade SATA performance on an older system.3. Add more SATA ports on any system.4. Add or expand RAID 0/1 capability on any system. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easiest and most cost effective hybrid soltuion! </p>
+
+
+<h2> review.date </h2>
+  02-25-2014  
+<h2> review.text </h2>
+
+ <p> The two SATA connectors on the edge of the card furthest from the bracket do not support locking cables and the fit is very loose. If a cable were to fall off at the wrong time, there is a high chance of data loss.I have never seen SATA connectors as bad as these. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dangerous to your data </p>
+
+
+<h2> review.date </h2>
+  06-25-2014  
+<h2> review.text </h2>
+
+ <p> My Samsung EVO 1 TB SSD was reading 100-120MB's per second on the SATA II port of Asus P5ND motherboard as reported by the Samsung &#34;Magician&#34; benchmark software included with the drive. Now Magician is reporting 500+MBs read/write speeds after connecting the card to a PCI Express 2.0 slot.Amazing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tremendous Improvement In Speed </p>
+
+
+<h2> review.date </h2>
+  05-12-2014  
+<h2> review.text </h2>
+
+ <p> I needed a sata 3 card so that my SSD would run at it's advertised speed. This card was easy to install and Windows loaded the drivers automatically. My SSD exceeds the rated speed slightly. Very happy customer! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sata 6.0 Gbps </p>
+
+
+<h2> review.date </h2>
+  06-04-2013  
+<h2> review.text </h2>
+
+ <p> PRO:Has 2 lanes of bandwidth for real SATA III speed on SSD.Can create hybrid drive if you wish (SSD + HDD).Also does RAID.Inexpensive way to add full-speed SATA III ports to older motherboards.CON:Install may require an extra step.Tab at bottom of mounting bracket may require slight bending outward so it can slot in fully.Use of this card adds an extra 10 - 15 seconds to bootup time.The tab on the bottom end of the mounting bracket should slide down into the narrow gap between the edge of the motherboard and the rear panel of the computer case. I got the card to plug into the PCI-e x4 slot no problem, but that little tab on the card's bracket wouldn't slide all the way down so that I could attach the usual retaining screw. So, I slid a slim screwdriver down by the tab and pushed/nudged it toward the rear of the case while pressing down gently with my other hand on the top of the bracket. It popped into place for a nice snug fit, no problem.The instructions say plug in the card, connect SSD or hard drive and boot up the computer. If you intend to run your Windows boot drive (C: drive) on this card then don't connect it to this card until after you install drivers for the card. After installing drivers, reboot and check in Device Manager that the card is installed correctly. Then shut down the computer, remove the power cord, and connect your Windows boot drive to one of the SATA ports at the rear edge of the SYBA card. Reconnect the power cord, power up and go immediately into the BIOS setup screen (usually by holding down the Delete key or F2 key). In the BIOS under the BOOT section make sure that your Windows boot drive is still selected as "1st hard drive". Save and exit from the BIOS. The computer should now boot normally .... except the controller card adds a 10 or 15 second delay to your boot time while it searches for any connected drives, beer in the fridge and a date for the prom.Performance results for max. Sequential Read / Write:Drive: Sandisk Extreme SSD SATA III 240GB, 1 year old, 52% fullManufacturer's specs are.: Read 550MB  Write 530MBSpeeds on SYBA SD-PEX40054: Read 538MB  Write 534MBRemember, the SSD is 52% full and still the speeds are close to as-new.Clearly, when using a single SSD this inexpensive SYBA card produces solid results.If you've already been using your SSD on a SATA II port or on a PCI-e x1 controller card you're not likely to notice much difference, simply because most computer work involves small size files which already work great on your SATA II port. Still, for fastest 3D game loading, Photoshop, and video editing this SYBA card will get you close to heaven.My rating: It's a High-Performance BARGAIN !!P.S. Haven't tried setting up Hyper-Duo feature, but it looks promising for combining the SSD speed with big capacity of a regular HDD. Basically, use any SSD of, say, 64GB or larger and the Hyper-Duo thing will "cache" (pre-load) all of your frequently-used programs, games, internet browser, photos, documenrts, etc. on the SSD for really fast access, and still keep the originals of all that stuff on the regular hard drive. The only drawback is you have to make a full backup copy of everything before you start because setting up the Hyper-Duo will, according to the instructions, wipe off everything currently on the drives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Full SATA III Speed at a Bargain Price </p>
+
+
+<h2> review.date </h2>
+  01-16-2014  
+<h2> review.text </h2>
+
+ <p> Bought 2 of these to install on an old X58 Xeon mobo that did not like SSD's and a Dell P-490 Xeon workstation.  I had purchased a Crucial m500 240GB SSD for my old X58 Xeon mobo but it would not let me install Win7, installation crashed about half way thru.  Installed this controller with the hope that it would work with the SSD and it works like a charm.  Controller is installed in PCIe X8 slot, read: 478, write: 432, boot times about 18 seconds to login screen.  The second controller was installed in a Dell P-490 Xeon workstation which only had 3 SATA2 ports and took forever to boot (48-52 seconds) while reading SSD drives connected with AHCI enabled.  With controller installed the system boots in 17seconds to login screen with Kingston V300 SSD.  I also recommend this controller to a friend who had an older Asus mobo with only SATA2 ports but has a Samsung Evo SSD and she said it made her system fly.  Said that now she understood the speed of an SSD and is planning to get another SSD for her laptop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good SATA3 Controller </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

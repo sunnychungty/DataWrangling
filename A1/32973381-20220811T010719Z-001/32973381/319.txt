@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1561893749 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This book is not what I thought it would be </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-18-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I looked at the number of pages and it said that it contain 556 pages.  This book is a thin workbook that will not be of help at all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A great Resource </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-15-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a huge book.  A great resource for parents wanting to keep their child interested in learning.  I got this book to reinforce skills learned in my 3 yo twins preschool.  A lot of activites. Bright colors.  You won't be disappointed!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantastic! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-16-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased this book to work with my 3 year old on preparing her for preschool and it's really great, we go over the alphabet, shapes, colors and tracing letters daily, also opposites and other writing development activities, in just a few lessons I noticed she was already making strides in recognizing the letters, picking out opposites and ryming words. Excellent and well worth the money if you are a stay at home Mom like me, (or even if you aren't) it's a great activity to work on daily with your child. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great worksheets for Pre-K </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> My daughter loves it. I like that the pages are perforated, so I can take out a few for her to work on at a time. Definitely would recommend it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I wish learning was this easy when I grew up </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-23-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought several of those  books &lt; different grade levels> just so I am prepared for the next few years.Education of our children has changed in so many ways it's just amazing. When my son started showing signs of wanting to learn I bought a whole bunch of different Basic Skills Books and found this one to be the best one.Why? Because of all its activities. From coloring to learning the alphabet its all in here. Cutting activities teach your child motorskills. My son loves learning numbers and even though he cannot read yet he loves writing the color, number and shape words &lt; which are pre- printed>. I sometimes have to stop him or he would try to finish the entire book in one day lol.I also like the assessment pages in the beginning of this book, that way you can keep track of your childs progress.All in all this is a great way to get your childs education started. Its fun and even if you only sit down with your child for 10 min a day you will be amazed how fast they pick up on things. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great book - but not the same item that Amazon is displaying </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-01-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased this book from Amazon on 4/24/05.  I had read the reviews and looked closer at the item and "inside the book".  Just wanted others to be aware that this is not a book with Sesame Street Characters in it.  From a previous reviewer years ago it's apparent that Sesame was involved then. Anyway....This book is excellent! It is 544 pages which are all VERY colorful with lively characters and good detailed objects.  My 2 year old has had no trouble identifying what the illustrator is displaying in each picture. All pages are perforated to pull out.  My only gripe is that the publisher should have put more thought into the ordering of the pages and activities.  For example - if we are working on the color RED today, the book was printed so that the color Red starts on the back page of another color and continues to the following page.  So you can never tear out just one page per color for your child to work on.I love the Introduction section for the parents on what to expect from your 3 yr old and another page for age 4. There is also a personal checklist where you can record the dates your child mastered certain developmental skills (basic skills, reading readiness skills, mathematics skills, fine (small) motor skills and gross (large) motor skills).From the Table of Contents page...Basic Concepts and Skills (Colors, Shapes, Sizes, Opposites, Go-Togethers, Same and Different)Writing Readiness (Tracing dotted lines... Left to Right, Top to Bottom, Slanted & Curved Lines, & Forward and Backward circles)Reading Readiness (Letters and Letter Sounds, Beginning Sounds, Rhyming Pictures)Mathematics Readiness (Numbers and Counting 1-10, Next... First, Next, Last, Ordinal Numbers, One to One Correspondence, More and Fewer, Patterns)Appendix (Manuscript Alphabet & Teaching Skills)My 2 year old is loving this book! (She was aching to do "homework" like her big sister).  This book is really increasing her vocabulary and she is identifying objects and shapes while we are out in public now.  Money well spent! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> American Education books aren't as good as this one </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-29-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The book had a lot of preschool curriculum in it. (see first review about the details). It was a great purchase for my children. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Colorful and Educational </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-30-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a highly detailed and very colorful educational book. It is a workbook where children can better develop their skills including shape recognition, color recognition, bigger/smaller recognition, etc. We started using this book when my daughter was 2 years old. It's fun to see her progressively become more aware of shapes, numbers and other elements that this book teaches. At 2 years old, you cannot expect them to be able to do everything in this book but it was still fun to point out some elements (like "what's this?" and point to a dog, a circle, etc). It is a very hands on book, so a child would probably need to be preschool age to fully access all parts of this book on their own. We love it and are excited to watch our daughter be able to do more and more of the workbook on her own. I would definitely recommend this book. The pictures are very accurately conveyed and the pages are colorful and appealing to children and adults. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great book, but seems like it should go after the K book </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-16-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great book, but because there are alot of pages that include tracing of words I am personally using this book after I have gone through the Kumon workbooks about upper and lowercase letters.  The Kindergarten book in this series has more content and at a higher level, but it does not contain any tracing of words.  This seems strange to me, because in Kindergarten is when kids really start learning how to read.  Overall the books (Pre-K and K) are definitely worth the investment, I just question the order of the content between the two books and within each book.  I ended up going with the School Zone books first and I will do these books afterwards.  The School Zone books are definitely at a lower level than these books. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for homeschooling! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-10-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have been using the Comprehensive Curriculum of Basic Skills books to homeschool my older children for a while.  I will be using the Preschool book to begin homeschooling my three-year-old next month.  She has already tried a few pages from the book, and begs to "do school" with her brother and sister, so we are anxious to get started in earnest.I am impressed by how quickly and thoroughly my twins have learned, using the Comprehensive Curriculum books as a backbone of their elementary education. I compared these books to Saxon math and phonics, which were used at the public school my twins attended, and to our state's curriculum standards, and they definitely stand up.  And, at a cost of less than $15 per student, I can definitely recommend these books to others!If you are teaching more than one student, I would definitely suggest getting each student their OWN copy of this book. I would also suggest tearing out pages as needed, hole-punching, and placing them in a 2-inch binder rather than working directly from the book, because there are SO MANY PAGES you will wear the binding out if you try to work directly from the book! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

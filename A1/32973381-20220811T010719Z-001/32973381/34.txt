@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000WY77VE <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Went on a road trip, they survived. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-07-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Went on a road trip with these...Range was not so good.In the city (light urban environment), we got about half a city block of range.Even on the freeway (albeit in the mountains), they'd be out of range by 500 ft.On the open water though, we did get some decent range in there (needless to say, because it was flat, and line of sight).Anyway, these worked and didn't fail. :)The battery life wasn't so hot, though we did get about 8-9 hours of standby time on the internal battery, which was close to what was advertised. Did not get a chance to stick some AA batteries in there to test that out. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent product </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-29-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> These work so much better than the regular type radios you can get at your local walmart or sporting goods store.  The privacy is a huge thing, especially if in a busy area on a holiday weekend it's nice to know you aren't being heard by other people.  The only thing that caused it not to get a 5 star review is they could be a little more durable or less plastic, but for the price it's what you would expect.  The range is great, similar to other handheld radios. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good for the money </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-18-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Not truly Digital like Motorola, but for the price they are ok. Great for short range communications, 1/4 mile. Sound is like FM, not like digital, some white noise. Good battery life, private conversations, you don't hear other radios or transmitters around you. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Product Design Done Right </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-03-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nobody seems to mention these radios can use AA batteries which is a big plus. High capacity AA batteries can easily double the capacity of the supplied battery packs, and primary cells can be used when you are away from the recharger. This is great for travel.The "roger beep" feature has an interesting twist. Usually, such a feature is controlled by the sending unit, not the receiver. In this case, it's controlled by the receiving unit. For these radios it is almost a necessity, as there is almost no audible indication of the end of transmission, because there is no squelch tail or other giveaway that analog radios have.These are the only "digital" radios I could find on the market for home use. The "privacy" feature is not so much strong privacy, due to there only being 1000 possible channels, as it is freedom from interference and use by others. And that's a huge advantage in any crowded situation. If you want some privacy, make sure to hide the "channel" you're using, as this is all anyone needs to receive your transmissions.The number of buttons is just right. Most such products strive to minimize buttons, which makes them hard to use. Others have too many unnecessary ones for what seem to be cosmetic reasons. This model has it just right. Enough to make use easy and few enough to make use easy to remember.If you need short range commo protected from interference, these are going to be hard to beat.Update 2010-0205I wanted to add that the radios are protected from interference but not immune to it nor encrypted to be immune from eavesdropping. These are by no means to be considered "private" or "secure" radios.  Consumer radios give you a great choice of bands, 900 ISM, 462/7 GMRS/FRS, 151/4 MURS and 27 CB. Which band and which equipment you use will greatly depend on what kind of situation you have. These radios are likely to be best in crowded areas where other users in the other bands are likely to be present and for short ranges.If you really want a more detailed look at the privacy and interception issue, refer to the following link which describes how eXRS radios can be received on conventional scanners.[...] </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A little shy on range, sometimes </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-08-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought a pair of TSX-100's after reading a review of TriSquare's upmarket but similiar TSX-300 900mHz radios in a radio hobby magazine. My intent was to use them to keep track of my bike riding buddy on longer road trips. They more or less work in this application but I have found them much more useful for staying in contact with my wife when out for extended walks or while shopping in malls & power centers.The range is highly variable (sometimes several miles) and it seems to have gotten better in the 8 months I've had them. The batteries will hold a charge all day (8 hours anyway) after a full overnight session in the charger. While we're carrying them, my wife & I never power 'em off until we get home.The advantage (maybe the only one) over FRS radios in the same price range is that you never get interference from other users on "your" channel 'cause you got 999 channels to pick from. This is especially useful on cruise ships where many passengers are using FRS radios to keep track of their family members on board while at sea because they can't use their cell phones. 900mHz radios like this avoid the crowded FRS frequencies. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Much better than grms/rms!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-22-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I previously purchased Midland LXT340 with the AVHP3 headsets from Amazon. First, they are garbage. They (midlands) don't go 1/4 mile much less than the 30 miles they boast. Second, the radios (midlands) do not have a VOX option, but are being sold with the VOX headsets.I was looking at the Trisquare 300's but chose the 100's because they were cheaper, have the same radio function, and I do not text message. So, I bought the TSX-100-2vp with the TSX-10A headsets for VOX capability. Awesome!! I tried them out today while paintballing in Fredricksburg, VA. My partner in some cases was around 1000 yards away and through brush and overgrowth. Heard everything. NO STATIC!! None. It has 3 sensitivity levels, so put it on "3" when you are talking very quite so no one can shoot you. I would recommend that while walking quick to set up the game, put it on PTT because the crinkling leaves will kick the level 3 VOX on. The battery packs that came with the radio last for around 3 hours of constant use at long distance. Luckily, two batt packs and a second charger come with the accessory pack. 4 batt packs, 2 chargers, 2 kick-butt radios, and 2 headsets for under 80 bucks? Yeah. They really are that much better than ANY GRMS, or RMS type radio. I admit I have never tried the cobra ones, but I have at one time or another tryed the majority of the others. Garbage. 12, 18, 20, 30 mile?  BS.  Trisquare exrs are where the perfomance is at. And so clear, I am buying 4 more for my other team mates. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very Good </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> These are every bit as good as their big brother TSX300, but with fewer &#34;channels&#34; and no text messaging.  The text messaging was pretty much worthless anyway, and 1,000 channels is PLENTY.  Range-wise these perform exactly like the TSX300 and sound just as good, but they are nice because they are smaller.  Besides, it appears you can't get the TSX300 anymore, as Trisquare went out of business.  So, get these while you can. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> simple needs, work as advertised </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-08-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought a pair of these, and they work perfect for the kids outside the house.No interference, they work great.  No issues so far. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Brilliant concept, great value, but beware flaws </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-16-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This radio has amazing interference rejection and privacy capabilities.  You won't be hearing unwanted signals, even on a mountaintop overlooking a city of one million where FRS/GMRS radios would succumb to total chaos.  (Yes, I have tried this!)  Likewise, your average punk with a police scanner won't be able to eavesdrop on your conversations.  Privacy on FRS/GMRS is zero in most cases (so-called "privacy codes" only prevent you from hearing other people's signals, but do nothing at all to prevent them from listening to yours -- "privacy" is a grossly misleading name for an interference rejection feature which actually provides no privacy at all.)  Last, unlike the "blister pack" combination FRS/GMRS radios, you are not required to spend $85 for an FCC license before you may transmit to avoid being a federal criminal.  Yes, ALL of those blister pack combo FRS/GMRS radios require an $85 GMRS license, though this fact is often buried in fine print inside the box.  These are all significant advantages over rival FRS/GMRS technology.The minuses are that to my ears, the audio quality is somewhat inferior (thin, slightly metallic) to the analog FM you find with FRS/GMRS.  Also, there are reports that you may encounter "sync" issues and that the supplied battery pack is of inferior quality.  I have not experienced either of those, but... the capacity of the pack is only rated at 750 mA/hrs, which is not terrible but far from impressive.  Bring some alkaline "AA" batteries and a coin for prying because the built-in pack is just not up to serious radio standards IMHO.  However, considering the low price of this radio, carrying a good number of "AA" alkaline throw-aways and a coin to pry the impossibly tight spent "AA"s from the case along, or at least a spare pre-charged accessory rechargeable pack, and you will have no battery problems at all.The problem with these radios is the same ugly truth you'll encounter with FRS/GMRS hand-held radios.  While they are likely to work well inside a large building or outdoors where there are no obstacles between sender and receiver, under more typical conditions with obstacles or trees in the way, expect a mile or less of usable range unless one of the stations is elevated.  That's why nearly 100% of all radio communications at UHF work through repeaters situated high above the coverage area, to repeat the signal from that superior visibility vantage point.I would say if you don't expect the impossible from these radios, you'll find they are pretty nifty.  But if you want to talk over more than a mile, you're probably better off getting with your buddy and studying for an amateur Technician license, or find a local GMRS repeater system in the areas you need that are open to public use, secure permission from the owners to use it, and get a GMRS/FRS radio like the Motorola MR356R which has repeater capability (most don't.)  Then you might get 30 miles.Or have one of your party stand on a tall hill.  From there, she will hear everything any person below transmits on-channel, and everyone will hear her, even though it may be that many people below can't hear each other.  For team games, the recipient of each message acknowledges it.  If the person on the hill doesn't hear the acknowledge following a message, she repeats the original message so the recipient and sender can both hear.  In this case, she also repeats the acknowledgement back.  I call this the "parrot" repeater system.  ;)  Silly, but for team games this may work :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Neat little radios. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I picked these little guys up as they promised total privacy in use. And realistically they do just that. Compared to GMRS/FRS these will not have interference from other users unless they are within range AND on the happen to use the same channel (1000 choices)! And, yes I suppose someone with REALLY specialized equipment could listen in but the reality is that these are about as private as you can get.In the field they work well. They have about the same range as FRS type radios (also licence free), but the big plus is NO interference. Additionally you can use these commercially also, not so with GMRS/FRS.My radios arrive very quickly and worked out of the box, but after a few days of playing with them I noticed one battery had some charging issues, A letter to Trisquare with some other questions and remarks went unanswered, so manufacturers support is nil. Too bad this is a great product. I ended up ordering a spare battery. Oddly these look like a standard 3 cell Nimh AA pack (and are labelled HiMh) but provide 4.8 volts. I'll have to do surgery on the bad pack when the good one arrives.The other issue was that on some occasions they seem to loose sync. Turning the radio off and back on seems to solve that problem. The build quality is adequate for personal use, they are not commercial quality but they don't cost like one either. Motorola has a similar system that runs around $260 a radio! Now you have commercial quality!A few weeks later I scored a set of TSX300 radios at a local sports store and now my family can go to the Bronx Zoo and keep in touch without interference or noise from kids screaming on their FRS radios.A really great idea, to bad Trisquare is no longer making these.Only four stars due to poor response from the manufacturer and the occasional glitch.Rudi </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> review </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> arrived on time and in excellent shape, These are very good radios with no interference like with CB's. You dont get the advertised range but they ar better then the CB type with a clearer channel </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> tsx-100 fantastic short range radio </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-26-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> The TSX-100 radio is simply one of the best short range 2-way radios available.  It uses the 900Mhz ISM band (902-928Mhz range).  And is full 1-watt.  Uses spread spectrum technology (similar to CDMA Cell Phones:  Sprint, Verizon Wireless, US Cellular, Cricket) which makes it JAM-PROOF and highly unlikely that anyone can monitor while using the best scanner radios.  900Mhz band means easy penetration thru thick walls and buildings with dense materials concreate and metal.  It is simply the best for Indoor-to-Outdoor or vice-versa comms.  And has identical coverage with VHF when used for Outdoor-to-outdoor use.The TSX-100 does not have all of the exra bells and whistles of the TSX-300 radio:- 1,000 virtual channels (using FHSS)- is compatible with all TSX-100 radios- is compatible with all TSX-300 radios (below channel 1,000 ;channels 0-999 allows interopability to any Trisquare radio)(See my review of the TSX-300 for a list of some of the bonusfeatures on the TSX-300)With the PRO features, there is one notable CON:- Do NOT place the TSX-300s or TSX-100s too close to each other.- They sometimes experience De-Sync issue when a unit nearbytransmits too close.  So keep them 4 or more feet apart fromeach other.  This only occurs when too close to other Trisquareradios.  This does not seem to occur when other nearby radiosor cell phones are placed too close.  So no need to worry aboutMURS, FRS, GMRS or HAM radios are under 3 feet away.At least 95-100% of all of the bad reviews or complaints about this radio is over this single flaw in the radio.  Rule of thumb, keep theTSX-300s and TSX-100s a minimum of 4 feet apart from each other at all times, and you will never have any problems at all.  Simple right?Even the TSX-100 is so much better than any MURS, FRS or GMRS radio.900Mhz just has superior radio properties over all VHF and the restof the UHF band.  900Mhz penetrates and bounces around inside buildingsbetter then any other UHF service.  And certainly superior over VHF as VHF does NOT bounce well inside any buildings.  Instead VHF gets knocked out of phase, and its wavelength mostly gets cancelled-out or worse yet ABSORBED into the building's materials:  concrete, wood & metal. VHF is an OUTSIDE only band.  UHF is a good inside and outside band.  900Mhz has the best properties.  FRS/GMRS operates at 462 & 467Mhz.  Take 462 x 2 and that equals:  924Mhz, which means that 900Mhz has a wavelength that is HALF that of FRS/GMRS.  Which means none of the wavelength phase interference of VHF or even of the low-UHF at 462Mhz.  Again, it boils down to superior in-building penetration.  Thru Concrete, Wood & bouncing off of Metal.Enjoy your TSX-100, enjoy the superior 900Mhz properties for indoor-to-indoor or indoor-to-outdoor (also vice-versa), or even outdoor-to-outdoor comms.  Its FHSS full 1-watt of power will show its superior ability over all MURS, FRS & GMRS radios.- MURS - VHF 2-watts ERP (Poor Indoor properties - not recommended forany indoors use at all ; Any scanner can receive, no privacy)- FRS  - UHF 1/2-watt  (Good Indoor properties - 1/2 watt max power)Any scanner can recieve, no privacy ; some HTs have limited voicescramble function)- GMRS - UHF 50-watt  (Good Indoor properties - 5-watt HTs are hardto find ; Any scanner can recieve, no privacy ; some HTs have a limited voice scramble function)- EXRS - 900Mhz 1-watt  (Superior Indoor properties - full 1-watt HTs)FHSS assures no scanner can monitor, wonderful privacy feature) </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

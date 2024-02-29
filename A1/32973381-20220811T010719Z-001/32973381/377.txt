@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1893858235 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-26-2005  
+<h2> review.text </h2>
+
+ <p> Examkrackers is an excellent tool to prepare for the MCAT exam. The material is presented in a lively, informative, engaging, and creative manner. I would definitely recommend it.-Rivka Edery, L.M.S.WWebsite:  [...]Author of:  "Trauma and Transformation: A 12-Step Guide".Available from:TRAUMA AND TRANSFORMATION 12 Step Guide </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome tool for Audio Learners! </p>
+
+
+<h2> review.date </h2>
+  05-24-2008  
+<h2> review.text </h2>
+
+ <p> These guys did a great job at covering every topic on the MCAT in a fun way. This is a great way to study while driving or playing video games or just laying around. You don't have to open a book or use a muscle, all you do is just stay awake, and they do a good job helping you to do that.Jordan and Jon are not annoying at all, unless you are easily annoyed. Don't believe these disgruntled reviewers who say there is too much comedy. There is actually very little comedy. There is the occasional bad joke, and they'll make fun of it with sound effects for being a bad joke. Besides, when you're studying for the MCAT, ALL jokes, good or bad, are a welcome relief. So it's all in good fun, and it's only a nuisance if you are no fun, which I suppose is true of a lot of premeds. Jon is the know-it-all, and Jordan is the confused guy you can relate to. Jon has the dry, genius voice, Jordan has the young, animated voice. It works.You won't ace the MCAT just by listening to this, but what I recommend is first studying the lecture from the book, then listening to the lecture on Audio Osmosis before you go to sleep. It's a very effective combination. I hesitate to even call these lectures because they're more like a summary of all of the important topics in each chapter. Jordan asks a question about the lecture, Jon gives him part of the answer, Jordan says "oh yeah!" and starts figuring out the rest of the answer for himself, Jon helps him along, then Jordan asks another question that takes the topic into further detail. That's the formula, and it's a good one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  06-13-2011  
+<h2> review.text </h2>
+
+ <p> make sure to check the exam krackers website to see if you can gain access to the list of errata in the audio CDs. Other than the few errors in these CDs (which you should check), these were an excellent review. I recommend them to students a couple months out of their MCAT date and to listen to them, the biology is particularly helpful. The thing about it though is you have to pay attention. Passive listening didn't cut it for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> pretty good </p>
+
+
+<h2> review.date </h2>
+  07-26-2002  
+<h2> review.text </h2>
+
+ <p> While we are not generally big fans of audio sets, we do like several rather unique characteristics of the Examkrackers audio package. It is a CD set so it is much easier to &quot;rewind&quot; to the beginning of the different topics, it is a dialog between 2 people as opposed to 1 narrator reading script, humor is interspersed throughout the CDs (which we were told didn't detract from it for the ultra-serious types), and sound effects are used to hold your attention as well as to facilitate your memorization of the material.The set's title is very appropriate and if you are a commuter, this can add many hours to your MCAT preparation that otherwise would have been wasted in the car. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent MCAT Review Material </p>
+
+
+<h2> review.date </h2>
+  12-13-2007  
+<h2> review.text </h2>
+
+ <p> The Exam Krackers Audio Osmosis series is by far the most excellent resource I had for preparing for the MCAT. Jordan and Jon break-down and simplify not only every concept on the test, but also the test itself. They have each taken the test numerous times and score very highly, and you can tell they really understand the ins-and-outs of the MCAT.This series is also surprisingly entertaining in it's corniness and you actually begin enjoying listening to the CD's right off the bat.I can't really say much here that hasn't already been said before by others.There are a couple of small errors they made and you can find them on their website. They should probably come out with a newer version that corrects those and talks a little about the computer-based MCAT, which is whi I give this a 4-star instead of 5-star rating. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An MCAT Must-Have! </p>
+
+
+<h2> review.date </h2>
+  10-25-2012  
+<h2> review.text </h2>
+
+ <p> My daughter needed This Examkrackers to pass the MCAT. It was Just what My Daughter needed!!! Also the Delivery was very, very Quick. Thanks! Oh, she did well on her MCAT. Thanks Again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great MCAT Study Program. </p>
+
+
+<h2> review.date </h2>
+  02-24-2006  
+<h2> review.text </h2>
+
+ <p> This seems like a good way to review. I have taken the mcat once (w/o audio osmosis) and am studying to take it again. So far, I've listened to the discs once through, and I think that being able to hear concepts while at work or on the train to/from work will help cement them in addition to reading, reviewing, and taking practice tests. DO NOT think you'll ace the mcat w/o practice tests, but it's an amusing set of discs with some good sound effects, asides, and mnemonics to help commit concepts to memory. I'm pretty confident it should help. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> extra help for mcat prep </p>
+
+
+<h2> review.date </h2>
+  06-23-2012  
+<h2> review.text </h2>
+
+ <p> I uesd these CDs anytime i was running or driving or doing anything outside of studying.  I wouldn't say they were a game maker but they were fun and easy to listen to, it was like college lecture but interesting and moved through material quickly.  they also used puns and wordplay everywhere which i think made the content a little more "sticky."  It was like that personal note that you see again and again and it finally starts sticking. Jordan and Jon seemed like friends after listening through the whole program. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Helpful reminders </p>
+
+
+<h2> review.date </h2>
+  09-07-2002  
+<h2> review.text </h2>
+
+ <p> I would not recommend &quot;studying&quot; straight from these audio CD's, though it can be done.  Instead, it is very helpful to REVIEW the topics you're uncomfortable with.  I listened to them in the car, in my lab job, before bed.  They offer great flexibility to one's studying and the jokes help you relax a bit and not be so tense.  The topics are covered with depth and help you become more INTUITIVE with the science.Because the audio CD's go closely with the Examcrackers books, it feels like you can supplement a &quot;lecture&quot; with the great books.  These guys are the best hands down on MCAT materials and have an online message board to answer any questions (very quickly too). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great way to SUPPLEMENT your studying! </p>
+
+
+<h2> review.date </h2>
+  09-10-2008  
+<h2> review.text </h2>
+
+ <p> These are great to listen too.  However, they do get old fast.  There are lots of quirky sounds and really bad jokes that are amusing the first time you listen to the lecture but after a few listens they become very old.  I really think listening to these helped alot, so I highly recommend them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Silly, but good </p>
+
+
+<h2> review.date </h2>
+  03-26-2005  
+<h2> review.text </h2>
+
+ <p> If you are so sensitive that these tasteless jokes bother you that much......you are not going to make it in medical school.  Lighten up people.Yeah the jokes are bad, but the material is good.I took Gen Chem and Bio over 15 years ago, returned to school to gain pre-reqs for med school by taking Org and Physics.  These CDs and the Examkrackers book set are all I studied for those long-forgotten subjects.  Excellent, to-the-point format gave me exactly what I needed to know on each section, refreshed my memory with good visuals and the audio topped it off.  As I am more of a visual learner, I was really surprised how much the audio helped.Worked for me as I am busy packing to enter Medical School in my first choice school for Fall, 05 matriculation.Good luck to all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked for me. </p>
+
+
+<h2> review.date </h2>
+  03-24-2009  
+<h2> review.text </h2>
+
+ <p> I appreciated these CDs for being a place I could get "lectures", without paying for a full MCAT review course.  The sound effects and silly dialogue can get annoying, but they do give you a little mental break from paying attention, and refocus you.  Overall, I'm glad I bought it.  I agree with other reviewers that it should be used as a supplement to other study materials. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good extra resource </p>
+
+
+<h2> review.date </h2>
+  05-15-2002  
+<h2> review.text </h2>
+
+ <p> They talk fast so you should definitely plan on reviewing writtne material beforehand. Preferably sitting down and taking notes on your first listen through as they recommend. After that, use repitition on commutes to drill the basics.Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A GREAT way to make use of your driving time </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

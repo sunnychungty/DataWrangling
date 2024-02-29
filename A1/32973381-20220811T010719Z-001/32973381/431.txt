@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0081C1LPM <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-23-2012  
+<h2> review.text </h2>
+
+ <p> I'm always looking for great ways to do a quick workout when there is lots of obligation on my plate. This is the perfect quick instructional guide that will allow me to change up my workout routine each week. The warm-up section was especially appreciated as it gave great tips on what is needed before starting a workout. Grab this book if you are short on time, but ready for a serious workout. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick workouts I can do as a busy husband, dad, & business owner </p>
+
+
+<h2> review.date </h2>
+  03-04-2013  
+<h2> review.text </h2>
+
+ <p> I had no idea what a tabata was when I saw this book on Kindle. But the subtitle: 4 minute workouts that improve performance - that made me immediately think "interval training" maybe? So I downloaded it, and of course that's what it is.For someone not exposed to it before, it's a good introduction. Could use a little proofreading, and the pictures weren't fabulous quality. I was wondering where the pictures were in the earlier "warm up" section. Because it would have been niceto see how to do some of the foam rolling stuff. And if you're not sure what a burpee or mountain climber is, you mightor might not get it from the description or pics. Yes, there was a link to a video, but at the time I was reading it, I didn't have access to internet connection.Definitely not bad...but could be better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Would have liked better pics </p>
+
+
+<h2> review.date </h2>
+  07-12-2012  
+<h2> review.text </h2>
+
+ <p> This book contained little detail of several of the exercises.  It merely lists them but does not have pictures of how to do them or in some cases adequate descriptions of how to do them.  Plus the ones they do list are not very innovative or original.  I have gotten much better information on Tabata examples off of YouTube than from this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lacking Detail -- Nothing Special </p>
+
+
+<h2> review.date </h2>
+  08-24-2012  
+<h2> review.text </h2>
+
+ <p> I really can't recommend this book.The photographs are small and dingy. The book uses terms like "lunge" and "burpee" without explanation: meaningless unless you are an American Keep fit fanatic which I am not. There are links through to videos which you cannot see (I think) unless you have a Kindle Fire, and if you haven't got a kindle fire, it causes problems which look as though Amazon has a serious software bug. There should be warnings about not attempting the videos except with a Kindle Fire - and there weren't either in the description of the book, or in the book itself.I think also that the precautions and instructions are not very safe. Its reasonable to say that you should "listen to your body" but it doesn't always give warnings of heart attacks (it didn't in my case) and its very very easy to push yourself too hard. I got into this HIIT thing a long time after my heart attack, after my cardiologist sanctioned any exercise up to a pulse rate limit (150BPM), and after I bought a heart rate monitor. I would not feel safe without one and I don't think anyone is, unless he is already very fit.On the plus side the writer seems genuine and honest enough and I will hang on to the book because I intend to look at the videos on my Pc.Why he should tell us that he is not Bulgarian beats me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> He's not Bulgarian </p>
+
+
+<h2> review.date </h2>
+  11-21-2012  
+<h2> review.text </h2>
+
+ <p> The guy is so full of bs.  Yeah he lives in colorado at 7000 ft.  So what?  Most of the state lives higher than that. Big whup.  Sure it's free.  But it's a waste of your time.  Anyone can find better information on tabata than he gives just by googling it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't get this </p>
+
+
+<h2> review.date </h2>
+  02-13-2013  
+<h2> review.text </h2>
+
+ <p> I liked having three ways to learn the tabatas, with written instruction, pictures and video. These are not for beginners (AKA couch potatoes). Loved the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth the effort </p>
+
+
+<h2> review.date </h2>
+  11-14-2013  
+<h2> review.text </h2>
+
+ <p> Fairly basic book. Gives some routines for fast paced workouts, which to some extent I've already been doing pretty much the same way before this book. Not really good at explaining for beginners. But does help if you've seen some of these work outs in some form. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the best but, it does explain the work out </p>
+
+
+<h2> review.date </h2>
+  02-14-2014  
+<h2> review.text </h2>
+
+ <p> Some of these workouts may not be the best for myself and my injured lower back, but they'll definitely provide a much more exciting way to do cardio! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great workouts </p>
+
+
+<h2> review.date </h2>
+  11-07-2013  
+<h2> review.text </h2>
+
+ <p> This book would be a great introduction for someone who has no idea what a "tabata" is, but I think that most people picking up this book are already past that basic level if they are interested enough to buy this book. The exercises are good, just not groundbreaking. Most of the book is spent on the details of what a "tabata" is. There are adequate photos and links to videos. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simple, But Good Information </p>
+
+
+<h2> review.date </h2>
+  02-11-2013  
+<h2> review.text </h2>
+
+ <p> Although i have been working out for many years i had never heard of Tabatas regarding fitness training. It's always a pleasure to learn new terms and new techniques and this book has provided me with both. I discovered that i have probably been spending too much time in the gym for too few results.I can't wait to try these techniques and see if i can spend less time in that smelly gym-lolYou should definitely give this book a read if you're serious about getting in shape without wasting hours in the gym. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Information </p>
+
+
+<h2> review.date </h2>
+  06-21-2013  
+<h2> review.text </h2>
+
+ <p> Love that you can get a free Tabata timer on your smartphone then download this book and have a great workout anywhere! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great workout </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

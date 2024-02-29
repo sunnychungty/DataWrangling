@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1581603673 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-26-2008  
+<h2> review.text </h2>
+
+ <p> The author attempts to cover too many pistols in too little pages.  He provides a generalized over view of a great number of pistols -- concentrating primarily on larger caliber handguns (9 mm Para and up).  He raises issues regarding conceal carry which provides the reader things to think about.  However, he doesn't really provide enough comparison between the various pistols nor a detailed enough explanation to aid the reader in making an acutal selection.  He does provide a useful top picks list, but without little to no explanation on how those picks are better than the other guns described. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent overview of conceal carry pistols </p>
+
+
+<h2> review.date </h2>
+  08-21-2009  
+<h2> review.text </h2>
+
+ <p> Quite disappointing.  I guess someone who knows nothing at all about firearms would get something out of it but for anyone with the least bit of experience in using guns this is not worth the effort.  I thought some of the information was off target (pun intended).  Photos did not match captions in some instances.  The same old dogma about .45 caliber being the best choice.  And, yes, the photo on the cover is Wiley Clapp's favorite snubnose revolver--despite the vast number of other reviewers who report you risk nerve damage in your hand by shooting magnum loads in such a lightweight handgun.Oh, well.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not so great </p>
+
+
+<h2> review.date </h2>
+  06-14-2008  
+<h2> review.text </h2>
+
+ <p> This might have been a good book in 1999, when the author wrote it. Despite its 2002 copyright date, the original printing was 2000, and most of it was written in the 1990s and not updated. So, if you want a detailed look at what guns were available almost 10 years ago, this is it. If you want up-to-date information on CC handguns, this is a waste of money. The other is highly opinionated, and won't even discuss smaller caliber guns, so it's 9mm Luger and up only, folks. Also, many of the models he discusses in detail are no longer made (or are made by other manufacturers now) and many of the very best, most advanced and up-to-date guns aren't covered here because they didn't exist. Overall, this is a historical piece only. It is badly in need of a new edition, and not a quick makeover, but a ground-up rewrite. $16.50 for what you get is too much. There are far better, more up-to-date books out there on the subject. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Badly Dated: a voice out of 1999 </p>
+
+
+<h2> review.date </h2>
+  04-10-2008  
+<h2> review.text </h2>
+
+ <p> The book covers the hand gun aspect very well, but I thought that Concealed carry should also cover holsters. There wasn't much about holsters.I will say that there was much detail about the choices of hand guns.Overall it is a good informative book. I would recommend purchasing this book if you want to know about all the options for concealed carry hand guns. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Concealed Carry: The Shooter's Guide to Selecting Handguns </p>
+
+
+<h2> review.date </h2>
+  02-09-2003  
+<h2> review.text </h2>
+
+ <p> Concealed Carry: The Shooter's Guide To Selecting Handguns by firearms authority Wiley Clapp is a straightforward, accurate, no-nonsense guide to the practical matter of choosing and legally carrying a concealed handgun. Discussing the various attributes of handguns ranging from small automatics to large revolvers, and enhanced throughout with black-and-white photographs, Concealed Carry is a highly practical and methodical guide which is especially recommended to the non-specialist general reader with an interest in lawfully acquiring a handgun for personal protection and/or recreation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A highly practical and methodical guide </p>
+
+
+<h2> review.date </h2>
+  07-12-2007  
+<h2> review.text </h2>
+
+ <p> Very good, and written by an old hand at this.  Expert advice, given clearly.  I would highly recommend this one to any person that carries a self-defense firearm. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Should be in your library </p>
+
+
+<h2> review.date </h2>
+  01-14-2008  
+<h2> review.text </h2>
+
+ <p> Wiley Clapp is very experienced with firearms, as he has a military and law enforcement background; he's also been a 'gunwriter' for several major firearms magazines for many years, and he writes better than most.Overall this is a very good book on the subject of choosing handguns for concealed carry duty, but its helpfulness depends on the reader's prior knowledge.  This book seems mostly aimed at those who are new to firearms in general or concealable handguns in particular.  If you fall into one of those categories, you'll probably learn some valuable things and get good food for thought for your firearm selection process.  If, on the other hand, you're reasonably familiar with handguns, you won't learn very much.  (About the only thing I really took away from this book that was new for me was Clapp's argument that a compact revolver often conceals better than a similarly compact automatic, because the revolver, despite its greater girth, has an irregular profile/outline, whereas the auto is blocky and generally has a lot of straight lines and right angles that can show more through clothing.  I'd never thought of it that way before, but it makes sense and practical experimentation bears it out.)One more weakness with the book:  Because he focuses a lot on specific models, rather than just on general types and characteristics, the book runs the risk of becoming dated within a few more years.  (The book's already 5 years old, and gun companies discontinue old models and add new ones every year -- often excessively so.)  Still, on balance, this is a good book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for people new to the subject </p>
+
+
+<h2> review.date </h2>
+  04-25-2009  
+<h2> review.text </h2>
+
+ <p> Our Son has become concerned with both local/State/Federal Govt. review and involvement in gun ownership....we thought this could help us understand "how to do it right". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent...but.. </p>
+
+
+<h2> review.date </h2>
+  04-13-2009  
+<h2> review.text </h2>
+
+ <p> I have read the writting of Mr. Clapp for years. This book is well written and contains alot of good details on ammo and handguns. And also the use use of each in self defense. Another good work by Mr. Clapp. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Concealed Carry </p>
+
+
+<h2> review.date </h2>
+  04-24-2011  
+<h2> review.text </h2>
+
+ <p> Many people have asked me, "What type of handgun should I get for defense?".The answer: Get the pistol that works for you.I used to live in a rural area, but that was long ago. I've lived in various urban environments for over 20 years. In that time, I've seen the crime-threat drastically increase EVERYWHERE. Its not just an inner-city factor now. Even small towns and rural areas have seen a significant increase in the presence of the wrong kind of people, and all the unpleasant things that they do.Thankfully, the good citizens have had a drastic increase in recognition of their right to personal defense. Concealed-carry permits were once reserved for a small group of selected "elitists". There was no real logic or fairness to this previous state of affairs, but that time is over.Mr. Clapp is a veteran Marine Corps officer and policeman. I recommend this book to those seeking an informed opinion on selecting the right handgun. Everyone is going to recommend one gun or another, ...find something that you feel comfortable with, and hone your skills!Some things to consider:-Get a pistol that has enough stopping-power (thats the most important factor emphasized in this book).-Be aware that even a powerful handgun DOES NOT guarantee results.Read as many actual accounts of military and police gun-fights as you can. Read as many accounts as you can of citizens defending themselves and others from criminal assaults.There are plenty of examples of incidents where the entire pistol was emptied into the bad-guy, ...and he was STILL ABLE TO ATTACK OR RUN, ...even though he was hit with .45 ACP, .357 Magnum, or .44 Magnum rounds. Most of the accounts I have read end with police chasing the criminal several blocks, until the found him dead or bleeding to death somewhere in a back alley. Some of the accounts described bad results for the good-guys, when the criminal (or enemy soldier) decided to go down fighting, even though gravely wounded.Theres an endless number of factors to consider, and we never really know whats going to happen, but fate favors the prepared individual! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A pistol guidebook for everyone </p>
+
+
+<h2> review.date </h2>
+  06-04-2005  
+<h2> review.text </h2>
+
+ <p> The book's title is exactly what it is a review of different gun types.  It is not a guide for usage or concealed carry. However,  how appropriate a particular gun is for concealed carry is covered. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good review of different firearms </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

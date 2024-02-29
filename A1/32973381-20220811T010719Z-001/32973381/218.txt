@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0002W4UXE <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-29-2014  
+<h2> review.text </h2>
+
+ <p> If you are a fan of the 1960's Batman series, this (overpriced) DVD is a blast to watch. Lots of info and behind-the-scenes videos. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great video commentaries </p>
+
+
+<h2> review.date </h2>
+  01-14-2013  
+<h2> review.text </h2>
+
+ <p> You can also go to E_ ay and get one of the Better sets I have seen it has The JOKER on the cover holiding a playing card of , that's right Batman you can't miss it ! , it was done in a Purple theme I love my set I purchased one . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth the Purchase </p>
+
+
+<h2> review.date </h2>
+  09-21-2005  
+<h2> review.text </h2>
+
+ <p> This is a Batman's fan dream! Never mind that the documentaries have some footage in common. And yes, they could have included more. But with four documentaries plus an extra DVD full of TV spots and tidbits that only a real fan could appreciate, who's complaining? This is a 5-in-1 package no fan of the television series should be without, with three specific documentaries about the actors (Adam West, Julie Newmar and Cesar Romero), one about the series as a whole and a second disc full of extras.Of all the documentaries, the one I liked best was the Julie Newmar one. Even if her parents were home movie buffs (something I can only assume), it is still hard to believe that there exists so much footage of Julie from her childhood to her twenties! She seems to have as much footage of her early years as any celebrity child, except, to my knowledge, she wasn't one. It is great to be able to see little Julie in the swimming pool, in her dance classes, then again as a teenager, and even the aspiring actress starting a new life in a new town.All the documentaries include excerpts from other movies and projects the actors were involved in before and after "Batman". Cesar Romero was the only one of the three who had long made a name for himself prior to the television series and had already secured a place in movie history. Relatives and acquaintances are interviewed and it is touching to hear Adam's children speak fondly of their father.The real treat on DVD 2 are the screen tests of Adam West, Burt Ward (who got the parts), Lyle Waggoner and Peter Deyell. Both the Batman costume and the sets were different from the ones they would eventually use in the series. The Batcave looks darker and smaller, being more reminiscent of the 40's serials and comic books. I'm glad they chose Adam and Burt instead of Lyle and Peter, though their tests are interesting to watch. This is a must for Batman fans. I just hope they don't take too long to release what we are all waiting for: the series, of course! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Holy documentaries! </p>
+
+
+<h2> review.date </h2>
+  08-08-2005  
+<h2> review.text </h2>
+
+ <p> I've wanted this DVD ever since I heard about it! It is well worth your time! Screen tests, promos, wrap arounds and trivia and great documentaries on the show, Ceasar Romero, Adam West, and Julie Newmar, (though they kind of play down her Catwoman role) Gret fun and informative though! Well worth any price! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Fun!!! </p>
+
+
+<h2> review.date </h2>
+  08-19-2012  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this 2-disc "Holy Batmania" DVD set. It was especially fun because I purchased the 2008 "Batman: The Movie (Special Edition)at the same time, and watched the movie first. Someday the TV series will be released on DVD, and I'll be buying that, too!DISC ONEDisc 1 has the main TV special, called "Holy Batmania" plus 3 special features. Some of the interviewees/commentators in the main documentary also appear in the special features, but in addition, each has its own commentators.1. "Holy Batmania" This TV special is like a 109 minute documentary. Really a lot of fun, with a large number of participants, stills and outtakes from the TV show and the movie, plus rehearsals and promotional appearances. Most of the interviews are from 1989. Commentators include: Adam West (Batman/Bruce Wayne), Burt Ward (Robin/Dick Grayson), Julie Newmar (the 1st and BEST Catwoman), William Dozier (executive producer), Charles Fitzsimons (associate producer), Ralph Garman (radio personality/Batman expert), George Barris (car customizer), Frank Gorshin (The Riddler), Cesar Romero (The Joker), Stanley Ralph Ross (writer for Batman TV show), Vincent Price (Egghead) and Matt Groening (creator of "The Simpsons").Fitzsimons talks about casting the TV show: "It was a tough search because you've got to find an actor who was prepared to play Alice in Wonderland as if it were Hamlet."The show was an instant hit. Romero says: "Batman became such a popular, tremendously popular show, that it became a thing to be a villain in "Batman". And everyone was anxious to do it." Not just as villains, but guest stars as the people who pop open the window as Batman and Robin are walking up the wall.The joke didn't last, and "Batman" was cancelled after 3 seasons. When Michael Keaton's "Batman" movie came out in 1989, Adam West and Burt Ward enjoyed a resurgence in popularity.Trivia: Adam West mentions that Robin/Dick Grayson says "Holy" 370 times in 120 episodes of "Batman".Holy Amazing, Batman!2. "Adam West: Behind the Cowl" This is a 90 minute in-depth biography of Adam West, who started life as William West Anderson. Adam was 37 when he signed up for "Batman". How he was typecast afterwards was a horrifying surprise to him. As the narrator starts the special: "It would take 2 painful decades for West to make the transition from prime time superhero to pop culture icon."New commentors include: Bill Maher (TV host/comic), Nina West (daughter, 3rd wife), Fred Wostbrock (current manager), Hunter Anderson (son, 2nd wife), Hal Lifson (special events publicist), Yvonne Craig (played Batgirl in the TV show).3. "Julie Newmar: The Cat's Meow", an 85 minute biography. Newmar is certainly my favorite Catwoman - ever. She was 6 ft tall, absolutely gorgeous, lithe and graceful, not to mention brainy. Ruta Lee, who first met Newman when they both played kidnapped brides-to-be in "Seven Brides for Seven Brothers", says, "Julie was a flower child before we knew what flower children were." This bio really shows what a big-hearted focused woman and mother Julie is, born in 1933, so she's now 79 years old. I really think she didn't have a bigger film career because people were just intimidated by her.Commentors include: John Newmeyer (brother), Faith Flam (friend), Ruta Lee (actor), John Epperson (drag performer), Ronald L. Smith (writer), Joel Gray (actor), Ted Guefen (publicist) and Thierry Mugler (fashion designer).4. "Cesar Romero: In a Class By Himself", a 45 minute biography. Two characteristics stand out about Romero. 1. He was a man to whom family was everything, 2. He was the consummate acting professional. Commentators include: Eduardo Romero (brother), Marcy Vosburgh (friend), James Parish (film historian), Jane Wyman (actress), Alice Faye (actress), Evie Wynn Johnson (friend), Anne Jeffreys (actress) and Marti Romero (niece).Romero was 58 years old when he took the part of The Joker. Watch his acting - there's more life and action in him than men 20 years younger! He died January 1, 1994, from heart failure.DISC TWO1. "Batman" screen tests2. Presentations & Promos3. "Batman" Spots4. "Batman: The Movie" teasers, trailers & spots5. Batmania wrap-arounds6. Bat Trivia. Presented by Adam West and Burt Ward, here's 16 trivia questions about the TV show and movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Enjoyable, Great Extras, Watch the Movie First! </p>
+
+
+<h2> review.date </h2>
+  09-06-2010  
+<h2> review.text </h2>
+
+ <p> This release of the Biography channel's look at the Batman TV series is excellent, especially for someone who grew up on the Series, like yours truly. It features clips from interviews with the series creator/narrator, the writers, and the actors involved.Highlights include Frank Gorshin (the Riddler) pointing out how Adam West (Batman) made one of my favorite lines from the '66 movie work and a few of the cameos (e.g. Lurch from the Addams Family TV series; fitting, since both Addams and Batman were light-hearted '66 series based on darker comic strips).Allow me to compare this with "Return To The Batcave". This features documentaries from the original, including several scenes from the series, while "Batcave" used actors playing the younger versions of the series actors. The atmosphere of this documentary is also more wholesome, showing some of the flaws in the people involved but still very upbeat and suitable for the family; "Batcave" seemed aimed for the not-as-wholesome mindset we have today. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Holy Nostalgia! Worth Climbing A Wall For! </p>
+
+
+<h2> review.date </h2>
+  07-23-2006  
+<h2> review.text </h2>
+
+ <p> This series was like Haley's Comet. It would air every five years or so. I was too young to catch its original ABC run. But jumped on the BATWAGON when it ran in syndication on WPIX New York on channel 11. So if your somewhere in your mid 40s like I am, or even early fifties then you might relate to what I'm about to say. When I was 8-10 years old, BATMAN was a serious crime drama. When I was a teenager, BATMAN was a silly embarrassment that if I wasn't making fun of it, my peers would surely put me in a bat-trap that not even Batman himself could escape. When I was in my mid 20s, BATMAN was the most innovative sit-com ever creative. When I reached my 30s, BATMAN was what it alway has been... THE GREATEST AND MOST BRILLIANT TV SHOW EVER. I'm also a fan of the comic books and this series mirrored the comic book very closely during the 1960s. It wasn't until the 1980's that the comic books started to re-emphasize Batman's origin, the painful memories of his parents' murder, his determination to protect the helpless at all costs. The knowing his next nightly patrol could be his last. But that's no reason to hate this show. Adam West and Burt Ward were on the now defunct David Lee Roth radio show earlier this year and said they were finishing up work on the Batman DVD, so there is still hope for the series to be released. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> THE SHOW THAT KEEPS CHANGING, YET STAYS THE SAME </p>
+
+
+<h2> review.date </h2>
+  09-28-2012  
+<h2> review.text </h2>
+
+ <p> Good documentary, but I'd rather have the tv series with it. This was originally made to be released as special features on the tv series DVD release, but due to annoying copywrite issues, they were unable to release the tv series so I guess we true bat fans will just have to suffer with the excellent 1966 movie and this good documentary about the tv show.First, I love all forms of Batman from the serious to the not so serious. The tv series was campy as hell, but boy was it fun to watch... and still is. The thing that made it great was that it was a great action adventure for the kids and a witty comedy-action for adults. Along with great writing and great humor you also get impressive sets, one of the best Batmobiles ever, and some really great acting by a really great cast. This documentary takes you on a journey of the making of the tv show from seasons one through three and the 1966 feature film with some great clips from the tv show included in the documentary. It includes a documentary on Batman actor Adam West, one on Joker actor Cesar Romero, and one on actress Julie Newmar who played Catwoman in seasons one and two. It also includes trailers (one of which includes many scenes from the first two episodes "Hi Diddle Riddler" and "Smack in the Middle" including the famous Batusi dance from Batman) as well as some humorous promotion clips from Adam West and Burd Ward in 1989 when the series started airing reruns again and some fun trivia.All in all, I would love it if they would released the Batman tv series on DVD, but since that's not going to happen any time soon, we bat fans will just have to settle with this great documentary DVD which would be great to have in any bat collection.Highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Holy Batmania, Bat Fans! </p>
+
+
+<h2> review.date </h2>
+  03-27-2010  
+<h2> review.text </h2>
+
+ <p> Holy Batmania! is a 2-DVD set of documentaries about the iconic ABC television show and its actors.  This famous series ran from January 1966 to March 1968.  With this set you get to see and hear how this series was conceived through interviews with some of the cast members, creators, including Executive Producer William Dozier, some of the writers, screen tests from 1965, network promos, syndication promos, theatrical trailers, TV spots, a trivia game, the Batman craze, and much more.  I found the stories that were shared were very interesting and fascinating.The two DVDs are broken down this way:Disc 1 contains four 44-minute documentaries:1. Batman: Holy Batmania! - a documentary about the series itself2. Adam West: Behind The Cowl - a documentary about the career of Adam West3. Cesar Romero: In A Class By Himself - a documentary about the long career of Cesar Romero, who played The Joker on the series.4. Julie Newmar: The Cat's Meow - a documentary about the long career of Julie Newmar, who played The Catwoman for the first two seasons of the series.Disc 2 contains screen tests of Adam West and Burt Ward and also of Lyle Waggoner and Peter Deyell, who were the runners-up for the roles of Batman and Robin.  This disc also contains the Network Presentation from 1966, network promos for all three seasons, syndication promos from 1983 and 1989, theatrical teasers and trailers for Batman: The Movie (1966), TV spots from 1989, a Bat-Marathon and Bat-Trivia (1989).I found the documentary about Julie Newmar to be probably the most interesting (not by much, though), but all of them are excellent and very well done.  I think viewers will gain a new appreciation for Cesar Romero as The Joker.  In the last twenty years or so he's sort of been forgotten about when it comes to actors over the years who have played The Joker.  It seems like when people compare who's the best movie Joker of all time, they always compare Jack Nicholson and Heath Ledger and forget about Cesar Romero and the fact that he was in Batman: The Movie (1966).  Either they forget about him or they've never heard of him or they just dismiss him as campy.  Sometimes animated Jokers and the men who have voiced them get thrown into the contest, such as Larry Storch, Kevin Michael Richardson, and Mark Hamill.  Personally, Cesar Romero is my favorite Joker of all time.  He was 58, 59, 60, and 61 years old when he played him.  Amazing.  He was the most animated, lively and energetic Joker and had by far the best laugh, in my opinion.All in all I feel this set is worth purchasing even though it doesn't contain any of the actual episodes from the series.  For those of you who are waiting for the entire 120-episode series to be released on DVD, there is some squabbling going on between several parties as far as rights and legal issues are concerned.  But this set will quench your thirst for the classic '60s TV series for the time being.  Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting and very well done set of documentaries </p>
+
+
+<h2> review.date </h2>
+  10-25-2004  
+<h2> review.text </h2>
+
+ <p> Kevin Burns has done excellent research work on the scifi fantasy shows on the sixties. His previous project has involved "The Fantastic Worlds of Irwin Allen," and now he turns his attention to the Bat-Craze of the sixties.I have to confess that when I heard about this DVD, I thought I finally could get read of those "Holy Batmania" videos I purchased ten years ago, that had qreat deal of Bat "odds and ends" from over the year.Burns calls in Bill Mumy to be the narrator for the Batmania special, and Mr. Mumy proves to be a great commentator for this documentary, and again Burn proves his that he knows his Batstuff.While many wonderful extras are here. Including the screen tests for Adam West and Burt Ward, the alternate ones with Lyle Waggoner, the bumper bits for the Batmania wrap arounds in the late eighties (and all of this is great), I found myself noticing a few absentee spots such as the Batgirl Yvonne Craig ad for equal opportunity pay that was done in the early seventies, the ABC 1967 tv special, which had Adam West and Burt Ward discussing the new fall lineup, and the Yvonne Craig/Ambush Bug screen test,which shows up in the old videos.Than it dawned on me, it seems that there's been a kabash on most of the Batgirl stuff, probably due to legal situations, we can only guess at.Maybe there can be a Batmania 2 DVD, in a few years to come.But as someone else pointed out, this DVD will have to do, until Fox and Warners can hammer out a deal to release the Adam West series out on DVD. And it is well done, with three other full length documentaries on Adam West, Cesar Romaro, and Julie Newmar. Who's left? Burt WardHopefully, Mr. Burns (not the Ken one), can do research on some other sixties and seventies programs that haven't had their specials of documentaries yet. But, it's hard to beat the sixties for their pure campiness and fun. Mind you, this was before tv and pop culture turned dark in the eighties.So go ahead and get this BatDVD, add it to your Batcollection, and remember back when the Caped Crusader was fun, fun, and more fun.Sincerely,JThreecarolyn@dia.net </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great research </p>
+
+
+<h2> review.date </h2>
+  11-27-2004  
+<h2> review.text </h2>
+
+ <p> A fun DVD to watch, but I was hoping for more footage of the bad guys. Contains 3 great documentaries...Cesar Romero, Adam West & Julie Newmar. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MORE! MORE! </p>
+
+
+<h2> review.date </h2>
+  08-17-2013  
+<h2> review.text </h2>
+
+ <p> I didn't grow up with this, but my tastes are older than me. Now-a-days, there aren't too many shows or movies that catch my attention. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Entertainment </p>
+
+
+<h2> review.date </h2>
+  10-27-2008  
+<h2> review.text </h2>
+
+ <p> I don't want to bash this DVD, but it seems to me all the material on these discs should be included on the Batman TV series DVD release. Although it's not set for release at this time, I can't help , but feel this DVD has all the available footage they're allowed to use. The Batman Documentary here is interesting enough as well as each of the star's documentaries (West,Romero and Newmar), but in each Documentary when they get to the Batman years, it's the same footage! To make matters worse the bonus features on disc two, seem like they could have fit on the first disc, making the two disc set a ploy to squeeze more money from fans of the series. If you own the movie, you already have a good portion of the Batman stuff. It's cool, but I could have waited for the series with this material added as extras. Holy Bat-poop! I've been scalped again! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> COOL, BUT OVER PRICED! IT WILL HELP KEEP FANS HAPPY UNTIL THE SERIES IS RELEASED! OR WILL IT? </p>
+
+
+<h2> review.date </h2>
+  11-02-2011  
+<h2> review.text </h2>
+
+ <p> Grew up watching this movie loved it great quality people a steal ,came home after school everyday what was on Batman loved it ! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I was a kid to once lol </p>
+
+
+<h2> review.date </h2>
+  03-28-2007  
+<h2> review.text </h2>
+
+ <p> It really doesn't make any difference how one percieves the quality of the television series Batman back in the 60's. The bottom line is that it was there for all to enjoy in all it's colorful jest and superhero humor! People who insist on seeing seasoned actors with deep meanings behind character are in for a real jolt with off the wall campiness that this series meant to project. Batman Begins was hailed as an extreme Batman movie because it was "deep", and the leading actor presented his problems, like the other Batman movies tried before previously, but failed with undeciding paths to seriousness, and campy humor. This Batman version shows no such struggle, but relishes in it's campiness with humor, costumes galore, camera angles, and added animation imagery. The villains in this series have become legendary, even if one doesn't side with the superheroes. I liked it, as well as the continued cliffhangers from the great television era long past us. So glad it's now available on dvd, for those hooked on superhero campy humor. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Same Bat time. . . .same Bat channel" </p>
+
+
+<h2> review.date </h2>
+  02-05-2014  
+<h2> review.text </h2>
+
+ <p> this  really  bring me  back  when I was a kids, your  kids  will love  this  show also I remember  runing  home  form school  to  watch this  show </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love it </p>
+
+
+<h2> review.date </h2>
+  10-31-2004  
+<h2> review.text </h2>
+
+ <p> This is a pretty decent documentary on the much beloved T.V. show that so many of us enjoyed as youngsters way back when. It covers all of the often repeated, better known anecdotes from behind the scenes as well as some more obscure tidbits and information about the show and the lives and careers of some the principal actors. The liberal doses of archival footage, like the screen tests and convention videos, are simply fascinating! Thanks to what looks like a great deal of time and effort put into the research and production value, there's definitely a lot on this DVD for us Batfans to discover and enjoy.The DVD is split up into four different documentaries whose subjects are: The Show, Adam West, Cesar Romero and Julie Newmar (where's Burt and Yvonne??). I don't know why they did this as it just allows for a certain amount of repetition and makes it seem like the producers are artificially padding the overall runtime. On the other hand, it's not too bad and there must have been a reason for it, I suppose, like perhaps they were originally made to be broadcast on television. Overall, it is very enjoyable and I definitely got my money's worth! The real problem is that the original T.V. series is not available on DVD yet!  What's up with that? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Job! Now let's get the TV series on DVD already!! </p>
+
+
+<h2> review.date </h2>
+  09-03-2011  
+<h2> review.text </h2>
+
+ <p> Very disappointed this was not the original series. Returned it. Should have read the description more closely. Unfortunately I sent this as a surprise gift to a young nephew who is very enthusiastic about the original series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't bother </p>
+
+
+<h2> review.date </h2>
+  11-26-2008  
+<h2> review.text </h2>
+
+ <p> If you enjoyed Adam West and Burt Ward's campy portrayal of the dynamic duo, then you will enjoy this retrospective look at the whole Batman craze sparked by them.Especially interesting are the looks at Cesar Romero's and Julie Newmar's lives.  If you enjoy this, you may wish to consider "The misadventures of Adam and Burt: Return to the Batcave" as well.Now if only they would release the series and movie in a boxset. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An interesting look at the Adam West Batman phenomenon </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

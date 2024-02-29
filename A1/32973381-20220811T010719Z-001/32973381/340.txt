@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1592642551 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very different and entertaining! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-17-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I found this book by accident and was intrigued having lived in New Orleans off and on most of my life and being interested in most things New Orleans.  I was drawn to the fact that it was the writer's first book and that he had no training.  This was one of the most entertaining books I've read in a long time.  It has a great imaginative story, and the writing was quite frankly, a lot of fun.  It's written in a way that sometimes leaves you wondering and guessing what exactly is going on (at least it did me), but this makes it all the more entertaining.  It has all kinds of characters, some that you will love, and some you'd just like to punch.  It's got voodoo and Christianity all in one and it deals with death and the life after in a very interesting and creative way.  I highly recommend it anyone looking for a good story that will truly entertain and stimulate your imagination. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Really, Really Good Book </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-28-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is sometimes sad and sometimes happy.  The characters here do things that you disapprove of.  Sometimes you forgive them and sometimes you don't.  But the one thing this book does do is have a profound emotiontial effect on the reader.  And that's the way it should be.  Anyone who's ever been to New Orleans knows that it's a town that has a profound emotional effect on it's visitors. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Could not even finish it. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-01-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I tried very hard to read this book because the history of New Orleans fascinates me, but I just didn't get it.  The author describes events and emotions using music notes. What exactly does a perfect &#34;A&#34; feel like? I was very disappointed with this whole book. I guess if you relate notes to feelings, and you can tolerate a lot of confusion, then you might want to give this a try, but I suggest you keep looking. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> New Orleans, Voodou, Excorism, and the Nature of Evil </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-24-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wierd, man, wierd...but also interesting and intriguing (like all thigns evil should be!!)Generally speaking, this book is about voodou, about evil being released unchecked and its effect on people related by blood, proximity and association.Not exactly a "can't-put-it-down" novel, but the author, Louis Maistros, does a good job of moving from story to story--and there are several story lines here, all devoted to voodou and the sins of one generation being visited upon the next generation.The lingering question after reading this bookis one of evil, the nature of evil...is it a real existent force in our world, in active opposition to good?  Or is evil, as moderate Christians, might say, "missing the mark" or the "absence of good?"This book takes "The Exorcist" approach.  That it is set in New Orleans makes it all the more interesting and intriguing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very dark </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The story is dark and very creepy. Not like the historical fiction I usually read. More paranormal and fantastical. I love New Orleans but prefer a more realistic story. Still, I was compelled to finish it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Brilliant mystical novel richly soaked in old New Orleans ambiance </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-27-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wonderful magical-realist novel set in New Orleans just before and after 1900. Captures the city's intense atmosphere of beauty and decay, sensuality and menace, joie de vivre and intimacy with death. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A beautiful, eerie book </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-02-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> An absolutely beautiful book in a spooky, eerie, magical realism way. It's just full of the flavor of New Orleans (or at least, how I think of New Orleans) with Hoodoo women, ghosts, magical catfish, and the birth of Jazz. Most of the characters have a dark side, which they show frequently, but even so, most of the characters are quite likable. Even those not likable are interesting. The story twists and turns around itself, much like the eddies in the swamps and bayous, and ends up in a place quite different from where it started. I quite enjoyed it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Curious </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Sutree visits New Orleans a ling time ago....has adventures.  Dark writing with characters more than plot,  and characters just a shading for mood. Because, nothing really happens to any of us anyhow now does it ? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wierd and wonderful </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-14-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Many reviewers have written about Maistro's lyrical language or about his strange spirituality or about his aggressively depressing plot or his beyond-quirky characters so why should I repeat those reviews?  What I do wish to say is that Southern Gothic is back and well just as the author's characters rise to new life out of the river mud.I can't think of scenes in a novel which will live in my poor brain for longer than many of the scenes in The Sound of Building Coffins.  I believe that only Cormac McCarthy affects me so much with his nihilistic and somber tales that fascinate and repel; it's the mix of emotions that drive the reader on.  As with No Country for Old Men and All the Pretty Horses, I found myself constantly sorting my feelings as I watched the whole house burn down around the characters.  Who is good and who is evil and do these terms even apply when life is constrained by chance events that lead to inevitable tragedy?A Voodoo priestess calls up a spell and that event takes whole families and another generation to doom.  Or is death and murder really tragedy?  Perhaps it is the way toward rebirth and salvation.  I don't know but I do know that these questions will haunt me for a long time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Macabre Masterpiece of Magical Realism </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-21-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Louis Maistros has written a whale of a tale with "The Sound of Building Coffins." Amazingly, it is his debut novel. This is a macabre masterpiece of magical realism, filled with the author's obvious love for New Orleans, where he makes his home in the 8th Ward neighborhood. His deep feelings for the Mighty Mississippi, whose mouth is just a bit downstream of the Mardi Gras City, are also evident.The novel opens in 1891, a period near the end of the Creole-age with its wonderful music, a combination of elements of West African work songs, slave spirituals, minstrel shows, and rural blues expression with European brass band instruments. A recurrent theme throughout this novel is death and rebirth. Now, in its death throes, this music gives birth to her natural heir - jazz and Ragtime. Music plays such an important role here - from the seductive sound of Buddy Bolden's cornet, (blasting out with the new jazz sound), to the strains of lapping river water, to the buzz of the locals, whispering their deepest secrets, to the roaring wind and waves of an enormous hurricane.The exotic and colorful cast of characters is large and lavish. Nine year-old Typhus Morningstar is the first person we meet. We find the young boy fulfilling his calling, tenderly rebirthing aborted fetuses in the waters of the Mississippi River under the light of the half-moon. He is almost always watched over by Mr. Marcus Nobody Special, who fishes nightly, looking for a particularly special catfish which he has yet to catch. All other fish are thrown back into the water, allowed to live and swim on.Typhus' father is an African American Baptist minister, Rev. Noonday Morningstar, who named his children for diseases: Malaria, Cholera, Diphtheria, Dropsy and Typhus. Morningstar, a widower for many years, doesn't care if folks mock his choice in names. "Morningstar saw life as a trial and death as a reward, a bridge to paradise - and he saw God's mysterious afflictions of the body as holy paths to that salvation." The Reverend, his children and Mr. Marcus all play an important role in the storyline.While Typhus performs his work by the river, across town a baby, born of Sicilian immigrants, is possessed by a terrible demon. The babe's father has just been lynched by a crowd of vigilantes. Doctors, priests and other well meaning do-gooders flee the humble home when faced with the demonic child. However, Rev. Morningstar is not one to be daunted. He and seven cohorts go to dispel the demon. Some of them never leave the house alive. However, dead or alive, these people will forever be effected by what happens that night.One of the characters who also plays a major role in "The Sound of Building Coffins," is Dropsy Morningstar. This innocent child-man's wide brown eyes continually examine the "journeys of ordinary threads through ordinary fabric, (be it shirt, rug or sock), for long minutes." It is as if he is searching "for hints of code, probing imagined or hidden meanings" within the warp and weft of woven cloth - "as if the fabric of an old shirt might also contain answers to the fabric of the universe itself." Dropsy's penchant for rug pondering is so symbolic of this tale. All the story's many threads, plots and personages, ultimately come together to form one glorious tapestry.Maistros has written a lyrical, complex work of historical  and magical fiction. I must admit, at first I put the novel down after reading two chapters. I was probably craving a lighter read, perhaps a police procedural. However, the next day I returned to "The Sound of Building Coffins" because I just couldn't get the characters and the beginning of the storyline out of my thoughts. I am so glad I gave the book another chance and did not relegate it to my TBR pile. This is a 5 star novel, sheer poetry at times, and a real keeper.Jana PerskieA Confederacy of Dunces (Penguin Modern Classics)Chasing the Devil's Tail: A Mystery of Storyville, New Orleans </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Maistros' book captures the sound and soul of New Orleans past </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-29-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> What a wondrous book, filled with music, magical realism, voodoo queens, and a wild cast of characters, dead, alive and halfway in between. These complicated people will live long in your memory, and in unexpected moments they will burst from the depths of the mind's river to sparkle briefly in the light. The Sound of Building Coffins offers a unique explanation for the wellsprings of the great streams of jazz and blues that make New Orleans, beginning with the title. The rhythms of the hammers and the soft, sad refrains of the hymns sung for the dead echo through the pages, building implacably into the more complex rhythms and refrains that eventually turn into blues and jazz. Anyone who loves New Orleans should read this boudin sausage of a book, which transforms the dirty underbelly of New Orleans into something delectable. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Southern Gothic </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-15-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Dark EntryIn 1891 New Orleans a Black preacher named Noonday Morningstar, with the help of his son Typhus, saves the infant child of a Sicilian immigrant from the clutches of a demonic demon. Or do they? Noonday dies in the heroic attempt and the lives of his son, as well as his other improbably named children--Diptheria, Malaria, and Dropsy--are forever changed. The "saved" baby becomes an evil teenager under the alias Jimmy Jam Jump, a young con man with a murderous streak.The novel follows the lives of the Morningstar children, notably Typhus, a midget who brings aborted fetuses to the river to be "rebirthed" as catfish, his sister Diptheria, a high-class whore, and their brother Dropsy, a kindly but slow-witted boy. The novel spans the time from 1891-1906 and a host of colorful characters reel through it, including an abortionist, a noseless gravedigger, a prison guard, whores, jazz musicians, grifters, ghosts, bogeymen, and voodoo queens. Each of them seems to be affected in various ways by the evil in Jimmy, although their individual stories do not always come together in a satisfying manner.Maistros' language is lyrical and rhythmic, an appropriate vehicle for this early jazz-age story, and he paints some lovely and mysterious images of a bygone New Orleans. He also has a great ear for the dialects of the time and place, bringing authenticity to the dialogue.Still, the novel reads like a Greek tragedy, with death and mayhem everywhere in abundance. Regretfully, there is so much going on in this ambitious novel that, by the time it concludes, the reader is uncertain as to what it was all about. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An astounding book, perhaps not for everybody </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's quite a novel, and difficult to describe in a short review.  Suggest getting a sample to explore.  The style is unusual, and I really became quite absorbed.  But others might find it not to their liking, sample first.  But do try it, you might be as impressed as I am. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Rough Start From a Writer With Promise </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-05-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> New Orleans in the early 20th century... voodoo, jazz, magical realism... Sounds good, right?  Well, not so fast.  While there are worthwhile themes here (love, hope, redemption, rebirth), and while the story is often interesting, I just kept stumbling over the occasional cliches and odd turns of phrase. I also kept thinking how obvious it was that this writer was influenced by Stephen King's manner of writing. I used to live in NOLA, but I just didn't really get a sense of place in this book. The writing did improve over the course of the book, though, and I hope the self-trained author keeps working at it, for he does show promise. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> (4.5 stars) "In this city there is a long and curious relationship with death." </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-26-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> From the beginning of this unusual novel set in 1891 New Orleans, when a demon is cast out from a one-year-old child, to the massive destruction of a hurricane in 1906, Maistros leads his characters through a merry chase between the real and the unknown in the murky world of the dead. From the moment a number of Sicilian prisoners are lynched by an angry mob and a prison guard takes home a grisly souvenir, to the exorcism of evil from the baby son of one of the Sicilians, it is clear that this novel will not be bound by ordinary constraints, that the world of the spirit will be just as critical to this tale as what can be viewed by the naked eye. From an ancient voudou mambo to Coco Robicheaux, who steals the souls of naughty children, the novel is filled with extraordinary people, equally righteous, well-meaning and fatally flawed. On the night of the exorcism, seven enter the house where the baby moves with otherworldly energy; not all will live through the experience.Poverty is familiar to Noonday Morningstar, a Baptist minister and his family- Typhus, Cholera, Diphtheria, Malaria and Dropsy- and there is something to be said for the power of naming. The unseen world is barely removed from such an existence: Typhus rebirths lost babies: his father hears God's clear commands; Diphtheria and Malaria tend to the physical needs of men in sporting houses, flirting with death. But what begins that night echoes through the years, as the characters struggle with their lives and choices, a ragged, malevolent spirit raising havoc once called from the infant. As a young man, Buddy Bolden, the great jazz innovator, plays his horn beside the baby's crib. Buddy's tortured career will be touched by genius and depravity, by secrets and grace. And Dr. Jack, another witness, instigates his own rendezvous with fate as surely as he delivers young women of their unwanted babies with his potions.In an intricate dance of death and destiny, Maistros' brilliantly constructed characters gradually expose their troubled souls, anxious hearts and weighty emotional burdens. Locked in low-lying fog and superstition, in this New Orleans spirits frolic among the living and tortured souls are released at last to the peace of the next world. Masterfully maneuvering his hapless cast, Maistros performs an amazing feat of spiritual and literary legerdemain. Luan Gaines/ 2009. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Written in a fine lyrical style </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-14-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> No city has a more individual culture than New Orleans, Louisiana. "The Sound of Building Coffins" is a magnificent novel from author Louis Maistros, as he crafts a novel that is distinctly New Orleans in origin. The story is of an infant supposedly possessed by the devil, and the community around him doing everything they can to save the child. Written in a fine lyrical style, "The Sound of Building Coffins" is a unique novel. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> too weird </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very weird&#8230;&#8230;way too weird for me.  I live a stone's throw from the story's location and even in New Orleans, the strangest place on the planet, this story is too weird.  Sorry, but the assumption of voodoo, catfish who were human babies, melting bodies and blood flowing in the bayou, was just too much. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Complex novel filled with funky soul </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-26-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> What a weird, wonderful, complex, and moving novel. The book opens with young Typhus Morningstar riding his bike while carrying a burlap sack of fetuses he's bringing to the river to be re-birthed. Typhus and others witness and participate in his father's (Noonday Morningstar) attempt at an exorcism, an attempt that affects the lives of everyone, even New Orleans herself. The novel picks up the characters' desperate pieces fifteen years later. Heartbreaking and challenging stuff. COFFINS is heavy (a good heavy) with the history of New Orleans and a riffin' jazz style that I could just hear when I read the book. And the last chapter of the book is just jaw-droppingly perfect. You have to read it, if for nothing else, to experience the last chapter. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Moody, depressing but interesting </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-20-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was very interestingly written.  It was totally different from what I would normally read and I'm still deciding if I liked it or not.  It is rich with metaphors and symbolism--so rich that sometimes I wondered if I got it.  But the characters were very interesting, and the interaction and interrelationships were created in a surprising and absorbing way.  But if you want an uplifting book, don't pick this one.  It is very dark and not the way to lift you up if you're feeling down. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> sound of building coffins </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-04-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> what a pile of garbage! to compare this to confederacy of dunces would make JK Toole commit suicide again! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

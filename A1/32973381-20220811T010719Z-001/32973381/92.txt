@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B004F9P2KU <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-24-2011  
+<h2> review.text </h2>
+
+ <p> May 30, 2011 UPDATE:My husband's laptop died a horrible death this morning (fried motherboard).  Now what?  Spend $1500 for a new laptop, or....brainstorm.  Thanks to the Powerline system, I was actually able to connect an ancient, unused, 2002 HP desktop computer in the front of the house to the router located in the back of the house & he was back online surfing the net and happy in less than 10 minutes.  Performance is terrific, installation's a snap, and it's helped us convert a hunk-o-junk computer into an awesome WIRELESS desktop.-------------Original Review:Logitech's Powerline is a quick and easy way to connect your video streaming (i.e. Netflix) devices to your router or Residential Gateway EVEN if your devices aren't in the same section of the house.  It's ideal for streaming situations when your streaming device is slightly out of range for reliable wireless reception due to distance or obstruction issues and for occasions when you don't want to use a 300 foot ethernet cable to connect to the router.This Starter Kit package comes with 2 Powerline devices, 2 ethernet cables, and 2 optional wall spacers.To successfully stream video, it's obvious that your streaming device (Roku, Wii, bluray, etc.) should already be connected to your TV, ideally with a high-speed HDMI cable like this:AmazonBasics High Speed HDMI Cable (6.5 Feet / 2.0 Meters) - Supports Ethernet, 3D, and Audio Return [NEW MODEL]].Here's a simple, step-by step explanation of how to use the Powerline system:1.  Simply take one of the Powerline units into the room where your router is (the box you use to access the internet).2.  Plug the supplied ethernet cable into the powerline unit.3.  Plug the other end of the ethernet cable into any open network port on your router or Residential Gateway (I use an AT&T; Uverse Internet Gateway w/ fiber optic service).  I randomly chose Port 4.4.  Now, just plug the Powerline unit into the closest electrical outlet.5.  Now, go into the room that houses your streaming device.  Plug one end of the ethernet cable into the ethernet port on your device (I tested this on 2 different Roku devices:  First this:Roku HD Streaming Playerand then this one:Roku XDS Streaming Player 1080p).6.  Next, plug the other end of the ethernet cable into the powerline device.7.  Now, plug the second Powerline unit into the nearest electrical wall socket.For the Roku device, the next step was to use the Roku remote control to access the Roku's Settings on my TV.  Then, I simply selected "Guided Setup," chose a "Wired Connection" and the Roku was quickly configured to use the Powerline's ethernet connection to access the internet.Within 8 minutes of opening the Powerline box, I was using a "wired" connection for Amazon Video on Demand, Neflix streaming, and Roku custom channel streaming.It was simple, easy, and quick.  In my experience, the Logitech Powerline speed was a little faster than my Roku's built-in wireless access to the Gateway, but your mileage may vary.  I have quite a distance to cover from the Gateway's connection to the location of my television & I prefer the performance of the Logitech system.The best part:  you don't have to be a networking genius to set it up--this really is a "Plug and Play" (NOT "Plug and Pray") system.  I set these systems up 5 different times and each time, the Logitech Powerline worked quickly and flawlessly.  My network recognized the setup immediately.No frustration, no engineering degree required. The system is also expandable; you can buy individual Powerline units to connect other devices (TiVo, Google TV, etc.) to your network as needed. Enthusiastically recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow!  EASY Ethernet in a Flash:  Netflix OR COMPUTERS! </p>
+
+
+<h2> review.date </h2>
+  06-22-2011  
+<h2> review.text </h2>
+
+ <p> Most products like this work exactly the same with the same results as the concept is simple - stream a Internet connection using the electrical wires in your house. As long as the product moves the data stream along, it functions. This is the second type of powerline product we have used, the other being NetGear. We had it up and running in about 3 minutes (the instructions are really almost unneeded) and streaming a movie from our PS3 in about 5 minutes. If you want to avoid wires to your tv or E center, this is a fine choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yes! </p>
+
+
+<h2> review.date </h2>
+  01-30-2011  
+<h2> review.text </h2>
+
+ <p> I've had Direct TV for almost two years, and never been able to use their On Demand service because I can't hook up the living room receiver to my bedroom wireless modem. This product is just what I needed. I plugged it in to the cable modem in my room, and the ethernet cable into the back of my Direct TV receiver, and I instantly had an internet connection that ran through my house's electricity. The ease of set up was amazing. As for the speed of the connection, it seems okay. The few movies I've downloaded have taken a bit, but they still look great on my 42" screen. This product is easy and it works. Just make sure you need it. I used it for Direct TV and it advertises itself as being compatible with things like Google TV as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you need a product like this, it works great </p>
+
+
+<h2> review.date </h2>
+  06-08-2011  
+<h2> review.text </h2>
+
+ <p> My house is fairly big, so one router just doesn't cut it.I have 2 more routers connected to a Logitech Powerline. The additional routers aren't the fastest, but I still get internet in places I didn't before.I also have 3 more connected to desktops for a fast wired connection.I absolutely love these and recommended them to everyone! Just plug it in wait 30 seconds-2 minutes and I'm ready to go! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for adding more routers in your house! </p>
+
+
+<h2> review.date </h2>
+  12-13-2011  
+<h2> review.text </h2>
+
+ <p> The reviews have been mostly great for this product that is supposed to extend the range of your wireless throughout your house. I was excited to get this as there are spots in our house that don't get the best signal when I use my wireless for my computer.The instructions were extremely simple to follow, even for someone like me (who is not very techy). The result for me was that the signal was not improved, and in some cases, it was worse. I kept thinking that I did something wrong, but it is so simple that I am pretty sure I did what I was supposed to do.I know there are variations with signal strength and interferences, but our house isn't that wide. Hopefully, it will work for you as it seems to be a great product. Perhaps it doesn't work for our specific circumstances. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I hope it works for you. </p>
+
+
+<h2> review.date </h2>
+  01-24-2011  
+<h2> review.text </h2>
+
+ <p> Convenient and definitely worth the purchasE!The Logitech HD200a Powerline Starter Kit is for people who need access to Internet and are in another room and have a device that is not WiFi but Ethernet-based but don't want to purchase a very long Ethernet cable to get an Internet connection.While many hardware are now WiFi, there are still things around my house that are not.  We have older laptops that use a PCMCIA Ethernet cards and can only connect to the Internet via Ethernet cable and my first generation X-Box 360 which didn't come with WiFi and requires an Ethernet cable.  Some people may have a Blu-ray player or some device that are not WiFi but yet need an Ethernet cable and this is where this hardware is useful.I.  WHAT COMES WITH THIS STARTER KIT:With the Logitech HD Powerline Starter Kit, you receive two network adapters (these are huge black connectors with an on/off switch on the right, LED lights on the front), Ethernet connector at the bottom and the back is the plugin to a wall outlet.You also get two slim Ethernet cables and 2 wall spacers.II.  INSTALLATION:About seven or eight years ago, I had to put a hole in the wall and connect a very long Ethernet cable which is connected to a router and have it go from my office through the wall to the living room and have it connected to the XB360.Now, years later...I have no need for that.  All I needed was this device and it was all ready to go.With one of the adapters.  You hook one adapter up to your router (using one of the Ethernet cables provided in this kit) and plug it into the wall (do not plug into a surge protector/power-strip or it will interfere with the network connection).With the other adapter, you can hook it up to anything that requires an Ethernet cable.  PC, laptop, Blu-ray player, video game console, etc.  I plugged the network adapter using the other Ethernet cable directly to my XB360.  Plugged the adapter to the wall (note: the adapter must be plugged closely to the device that will be utilizing the Internet) and that's it.I was able to connect to the Internet with my XB360 via this adapter connected to my outlet.  That's all it takes!  Very easy to use and very simple to get started!Also, there are LED indicators on the adapters that show if traffic and data is flowing (green), if it's connected to the Ethernet (yellow) and also if network traffic is flowing (blue) or if it's getting power.JUDGMENT CALL:I was actually impressed by this device.  Because for years, I was just making a hole through a wall, purchasing a long Ethernet cable (and these were not cheap then) and running it from one room out the other. I wish the Powerline was available years ago because it would have saved me money and so much hassle.Even my father has many PC's that he works on for work, another for my mother's work, another PC for only the grandkids to use, and another hooked up to his Ham radio use and aside from his one laptop with WiFi, all PC's and his older laptops all utilize Ethernet and because he doesn't want wires running through the floor (he has hardwood floors, no carpet) and doesn't want to make a hole, everything is hooked up in one room and we always talk about buying WiFi adapters or purchasing longer Ethernet cables, so he can move these other computers to different rooms.But now, all he needs the Logitech HD Powerline 200A and an outlet and he is set.So, I found a use, I'm going to have my father check this out for his home use and I definitely recommend for anyone who are running many Ethernet cables and would like to utilize their devices without having to purchase many long Ethernet cables, many wires or drilling holes in their wall.Once again, easy to use, very simple to get started.  It's just plug it in and turn everything on and that's it.  It's pretty awesome!Definitely recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Have devices in another room that uses only Ethernet...the Powerline 200A is worth the purchase! </p>
+
+
+<h2> review.date </h2>
+  07-05-2011  
+<h2> review.text </h2>
+
+ <p> One of the first times I looked into using your homes power lines to send network traffic there was no encryption. This pretty much made the idea not feasible in any sort of business environment where information was even the slight bit sensitive or confidential, which is just about 100% of all businesses and organizations.Fast forward 10 years or so and this technology has been improved a great deal and the ease of setup, costs and complexity have all moved it towards being a viable solution for at least the home. The costs for the actual plug in units, the constant power draw, and how most homes now have wireless routers and new TV's, computers, tablets, etc., all contain wireless cards takes away from the utility of something like this.Set up is easy. It is pretty much plug and play. This assumes you already have your high speed internet, router, etc., in place.In a larger home with thick walls or signal interference this setup could be a viable solution or an addition to an existing set up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent home office solution </p>
+
+
+<h2> review.date </h2>
+  01-26-2011  
+<h2> review.text </h2>
+
+ <p> Scenario 1:1) Item received yesterday2) 2 minutes to unpack and view the photo instruction manual on how to connect3) 5 minutes to plug everything in and double-check I had done it right4) 20 seconds for laptop to connect to the Internet (router in a different room) and run an online massive-multiplayer game without apparent lagScenario 2:1) Took unit over to TV2) 3 minutes to move my blu-ray around and get cable plugged in and everything back the way it was3) 5 minutes to boot up blu-ray, set up the network connection4) 10 seconds for blu-ray to find the internet and start streaming Netflix and playing YouTube videosBoth scenarios were easy and fast.In Scenario 2 I have a wireless blu-ray but have had iffy connectivity. I've considered spending about $60-$80 for a wireless access point to boost reception, but then found this item. Not as convenient as wireless but more easily set up and working.Though I have zero(0) knowledge of electrical and wiring, I can see how my own 25yr old house has some interesting electrical wiring throughout. I tried two very different outlets and the internet connection was just fine. I can assume that some weird setups may not have the signal on the correct "line of wires", so may have to use a different outlet than one nearest your equipment.Unlike wireless (I can see my neighbor's networks), this is a lot safer option as someone can't "snag" your data out of the air.The manual warns not to plug this into a surge protector, so don't!OVERALL:Instead of trying to wire the house with cable or deal with the inconsistencies of wireless this provides a safe, viable solution. Totally worth getting in my opinion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Home run product! </p>
+
+
+<h2> review.date </h2>
+  01-24-2011  
+<h2> review.text </h2>
+
+ <p> Update - on alot of the vine products I get from amazon to review, I end up giving them away to friends and family who can use them more than I can.  On this one, I kept it - it's so useful in my house not to stretch ethernet cat5 cable that it found a permanent home right here.  Now on to the review.How do you run ethernet over powerlines anyways?  Well remember DSL many years ago - they ran etherent over telephone lines for 15,000+ feet at 1.5 mbps.  Of course you don't have 15,000 feet of electrical wire inside your house, so just like the people who lived next door to the phone company you get to up your speed.  And Logitech's dsl-over-powerline extension is "up to" a whopping 200 mbps - twice a 100mbps connection (or realistically 100 mbps each way).  Basically the data is converted to radio frequencices and coupled onto the power lines inside your house then the process is reversed and the tuned data is converted back to ethernet.  This works both ways, but one "end" will be the end with the ethernet link to the public internet.  The other box will go where you need an ethernet device to work and you have no cable there.  Both boxes plug into the power outlet and use the power lines to couple the radio onto the power wires.SIMPLICITY.  Folks, it just doesnt get any easier than this.  There are two boxes - both are the same!  You plug one into an ethernet jack where the internet comes into your house (cable, dsl, uverse, fios, even dialup if you have a switch or router).  You take the other one to a house plug where you WANT an ethernet jack but DONT WANT to pay someone to crawl around and run the cable under the house or through the attic.  I ran mine to the back bedroom bluray player which has ethernet to play netflix on demand -- xbox and playstation can also use it.  Plug box #2 (again it doesnt matter which is which) into the wall and out comes high speed internet into your TV - I watched a movie on netflix with it.  Simple, no problems whatsoever.Gotchas:If you have a BIG house (over 2000 sq ft) or you have LOTS of electrical outlets, you may have some work to do to ensure that both the two logitech boxes are plugged into the same "half" of the powerline.  Let me explain what I mean by "half"In the united states you get 2 coppies of 117 VAC (on average - it ranges from 110-120 so we call it 117 nominal) - the two coppies are out of phase by 180 degrees so if you connect between the two of them you get 234 (on average at least - we call it 240 volts by convention but i've seen 230-242 volts) - it looks like this(wire 1) &lt;117 vac> (neutral/ground) &lt;117 vac> (wire 2)  (this is what comes in from the power company)These are the 3 wires you get from the power company - the neutral and ground are bonded together at your power panel.  These home power units work best when they are plugged into the same "HALF" of the power link (the same copy of 117 VAC) - nobody knows which "HALF" they are plugging into unless their house is VERY well wired (and very few electricians are that detailed or they can't make a profit) so you may need to check around.  You have a 50/50 chance of getting the same "half" of the 240 VAC delivered to your house (the same 117 VAC) One way to tell is to use a digital voltmeter - often the two halfs have different voltages by just a bit - one will be 115 and the other 118 vac - a good meter can tell you which you have.  This unit will work better with both the two boxes plugged into the same half if you can tell.  Other ways are to go to your electrical panel - it alternates halves every other breaker.  If you call one half A and the other B, then using full size breakers (not the doubled up breakers where you get 2 in one) will be layed out like this:ABABABAB(8 breakers in a panel)orA  BB  AA  BB  AA  BB  AA  BB  A(16 breakers in a panel).  Not all panels are made the same - but when you see the dryer breaker or electric stove breaker (the double wide ones) they sit on both A AND B - the rest get A OR B.A simple method is to find the breaker your internet side is connected to - figure out if its an A or B, then locate the nearest outlet that has the same code to plug into on the equipment side.  A little knowledge of electrical wiring goes a long ways, but do not open the electrical panel because hazardous voltages are all over the place without insulation - opening the cover to see the switches like when you blow a breaker won't hurt, but don't remove the screws that hold the safety cover in place over the breakers - that one should stay put.If you put both halfs of the transmitter/receiver set on the same half of the electrical panel you will get the FASTEST link speed and the longest distance.  If you connect them to opposite sides, they may still link up (but in order to get from B to A they would travel through a 240 VAC device such as the clothes dryer - its a longer path and the signal strength is not as good - sort of like being further from the phone company on dsl - and the distance will not be as great, so a little work to figure out which circuits you are plugging into will go a long ways to getting the most reliable and fast, longest connection.  Just remember that some "double" breakers do exist which only take one spot in the panel (an A or B) and have two half wide levers, and 2 wires leaving the single breaker - both wires are considered to be on the same circuit (A or B).If thise seems confusing, a good book isWiring Simplified: Based on the 2008 National Electrical Codeand will go a long way to explain how homes are wired in two halves of 117 VAC, each out of phase with the other.With a little work, the power line system can go thousands of feet - it's been tested between well pumping stations down a mountain road - all were on the same "A" circuit and sent their pump data back to a data logging system via tcp/ip.  The newer systems are faster and more reliable - and easier to use.  Logitech hit this product out of the park with a good design and LOTS of simplicity -there are 2 leds - blue means you have power, green means you have a link to the other end.  There's even a switch to turn off the LEDs when you are done futzing plugging it in and setting it up.Last note - do NOT plug this into a UPS or a power outlet strip with an attenuating "NOISE FILTER" - that "NOISE" is your DATA! - the last thing you want to do is filter it out!  Just use a simple household outlet - that will be the best link.  (you can still run the product on a UPS but it will loose the internet link upon power failure.)FINALLY THERE ARE PEOPLE WHO ASK "IS MY DATA SAFE" - yes - the power line devices stop at the transformer that services your house.  I tried an experiment and setup the transmitter on my house then went next door to my neighbor and could not get the green light to come on - just the blue power light.  Security is the last thing to worry about with this product.  Logitech isn't broadcasting to the world.This is a great way to run ethernet through your house to any outlet and very good for older homes that were not wired with cat-5 everywhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Need a really long ethernet cable through your house?  this is it </p>
+
+
+<h2> review.date </h2>
+  07-26-2011  
+<h2> review.text </h2>
+
+ <p> We purchased this duo set and a single for a total of three. All work beautifully and took less than 10 minutes to have everything up and running. The comparison of crawling through the attic in the midst of a Florida summer, squeezing through small spaces, trying to get cables run without snagging...suffice to say, this is worth every penny just for the ease and convenience!Have been using for several months, perform perfectly to date. Love the ability to simply unplug and relocate if/when needed but given the low price, just purchase another unit to add on.Absolute delight! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wish this had been around a few years ago! </p>
+
+
+<h2> review.date </h2>
+  05-19-2011  
+<h2> review.text </h2>
+
+ <p> I was skeptical about this kit going in. I remember when powerline kits were first released. Performance was horrible. They seem to have worked out most of the glitches now.Connection went off without a hitch and while I didn't go to extremes to test speed, it is faster than my G wireless devices.As someone who works for a big networking manufacturer, I'm probably not inclined to build my entire network out of these, I believe I could. I might just try to pick up another adapter or two just to see how it effects performance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Still serves a purpose </p>
+
+
+<h2> review.date </h2>
+  02-10-2011  
+<h2> review.text </h2>
+
+ <p> If you want to add an internet connection to a room of your house where wireless does not reach very well, or you want a hardwired connection for playing online games, or to stream content to an internet-ready TV or media box, but you don't want to bother with running Ethernet cables through your roof and walls, then powerline networking is a great alternative to consider.  There is, however, one catch, which I will discuss later.Setting up the Logitech HD Powerline 200a Starter Kit is as easy as plugging the little black boxes into your power outlets and connecting them to your devices with the supplied cables.  Example: First, plug one black boxes into the power outlet by your computer and connect the supplied cable to your PC's Ethernet card (assuming you have an Ethernet card (RJ-45) as well as a wireless card installed in your computer).  Next, go to the room where your wireless router is, plug the other black box into the power outlet there, and connect it to a port on the back of your router with the supplied cabled.  All being well, you should now have a fast and reliable hardwire internet connection, and you're done.But here's the catch I mentioned:  Since powerline networking uses your house's electrical wiring like traditional Ethernet cable, you must "complete the circuit" between the two black boxes for it to work.  If the electrical outlets you plug into are not on your house's same power circuit, then it just won't work.The little black boxes that make up this kit measure about 4" x 3" x 2".  They come with little stick-on foam buffers that help hold them steadily from the wall.  There is also a switch on the side that allows you to turn off the indicator lights, if desired (Note that this just stops the lights from flashing, it does not break your internet connection).  You get two black boxes, as well as two cables and two buffers, in the kit.  They must be plugged directly into the wall, not through a power strip.I am a gamer, and I personally prefer powerline networking over my wireless connection; I think it delivers faster content.  If you're after a quick and easy "hardwired" internet connection to a PC or an internet-ready TV or media box, and if your electrical circuit is suitable, then the Logitech HD Powerline 200a Starter Kit is worth a look. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to set up and use, with one catch </p>
+
+
+<h2> review.date </h2>
+  02-19-2011  
+<h2> review.text </h2>
+
+ <p> When I think back to the first time I added Ethernet ports to another floor in my house (feeding cable through heating vents in a 1920's home), I'm dazzled by the ease of the speedy setup of the Logitech Revue.If you've got a true Ethernet device (not wireless) far from your wireless router, this is the perfect way to set it up with great speed.  You simply plug the first one into your originating Ethernet port, and the other into an outlet where you'd like a new Ethernet port.  Connect your device, and voila!You've got your streaming video, security, Netflix box, DVR, whatever, up and running. I'm an Apple user, and I expect simplicity, and good design; Logitech delivered with this product.A few caveats - not for huge homes; if it doesn't work at first, you may need to try it in a different part of your home due to the wiring pattern.  Be sure to read all of the Amazon reviews, as some folks have written a virtual manual to help you with complex wiring issues and will save you hours of headaches! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Oh boy, oh boy, oh boy! </p>
+
+
+<h2> review.date </h2>
+  01-25-2011  
+<h2> review.text </h2>
+
+ <p> Original review. Jan 25 2011.Updated Sept 2011.Still works perfectly.  Never have had a problem. A great item.Received the box, opened it, and 10 minutes later was recording the Video On Demand, HD Smithsonian channel on my Direct TV HD DVR.Since my DVR is not a wireless device, and the Powerline is interpreted as a direct ethernet connection, I did not have to enter the long 20 digit Linksys passcode.  This means that those having problems with their wireless connection shouldn't have any problems with this device.  It's a wired device, without wires.  Nifty.Perfect picture.  I do have a good high speed cable service, and the download was very fast.There is a thin leaflet for directions, but it's self explanatory.  Plug the supplied ethernet cable into the Plug in unit, plug it into your outlet, and plug the other end  into your router.  Plug the other ethernet cable into your other plug in unit, plug it in to the power outlet, and connect the other end to your device (mine is my DVR).What's it for?  Although many devices are now wireless, a lot are not.  My 3 Direct TV DVRs are not. My Blue Ray Unit is not.  They are on the other side of the house from my router, and this gives me an instant connection.  Tremendous versatility.Things you should know.Can't be plugged into a surge protector or strip-not recommended anyway.The plug in units are large.  I plugged mine into a single prong extension-the liberator, that I just bought from Amazon.  So any two prong (no third grounding needed) extension should work.  That way, you still have one plug available.I'll be using this quite a bit, and will update this review as conditions warrant. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow.  5 minutes and it's a go.  Use on my Direct TV DVR. </p>
+
+
+<h2> review.date </h2>
+  01-26-2011  
+<h2> review.text </h2>
+
+ <p> I got this installed within 10 minutes. That says a lot about it for me. I am not very tech-savvy and normally cringe at the idea of wiring and installing new hardware in ANY capacity. This was super easy to get set up. The directions are very simple to follow and if you can READ, you can install this bad boy.I have only set this up to get wireless for my XBOX360 but it is working 100% perfectly through this connection. I am going to get it going for my bluray player in the living area too. It's simple to install and I am planning on using it for all my devices. Well worth the price! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fast and reliable! </p>
+
+
+<h2> review.date </h2>
+  01-26-2011  
+<h2> review.text </h2>
+
+ <p> This Powerline Starter Kit showed up at my front door at 6.00 p.m. yesterday evening and by 6:20 p.m. I had it up and running.  It is that simple to install.My initial test of the system was to connect my U-verse router and a laptop that I use on the other side of the house (the locations of the router and the table on which I use the laptop are about as far apart as any two points in the house).I am one who almost always follows step-by-step instructions as provided by manufactuers.  In this case, a small illustrated booklet is provided by Logitech, but this is one of the rare times I felt totally confident about hooking up the components without worrying much about the instructions.  I did flip through the booklet long enough to spot the warning about not plugging an adapter into a power outlet stip but that was about it.It was simply a matter of plugging an adapter into the wall outlet nearest my router and connecting the two with one of the Ethernet cables that came with the kit.  Next, I carried the remaining adapter and cable into the back bedroom where I performed the same operation between a wall outlet and my laptop.In a minute or two, I was connected to the internet with very comparable speeds to what I get on the desktop that is hooked up directly to the router.  No problems, no false starts, no regrets.  This is a great product.(I do have one minor concern with what happened to my U-verse television reception during the process.  The picture "froze" on two of the television sets that were on, but not on the third.  It is not unusual for me to have this problem with my U-verse DVR, but this is the first time that multiple sets have frozen at the same time.  Also, I was unable to get the DVR to properly re-set until I disconnected the adapter from the U-verse router.  At that point, I had to turn the power to the router off and let the router re-start, thus re-setting the DVR and television reception.I have no idea if the problem is actually related to installation of the adapters or not and would love to hear from others who have U-verse and this kit.  I have had some very strange, and unpredictable, problems with U-verse during the past year, so this is very possibly completely unrelated to my installation of the adapters.Regardless, the adapters work as advertised: simple set-up with excelllent connectivity to secondary devices.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Combination: Easy Set-Up and It Actually Works </p>
+
+
+<h2> review.date </h2>
+  02-03-2011  
+<h2> review.text </h2>
+
+ <p> Forgive me please for saying that I feel bad about not giving this product a full 5 stars as for many potential customers it may be just that, but bear with me in saying that the important little word that begins with a p and ends with a rice somewhat precludes that perfect rating.As a solution for those that are restricted from drilling holes and running Ethernet cables all over their home, this is a fine solution, though I would also recommend taking a look at MoCA technology (Actiontec Ethernet Over Coax MoCA Adapter - Twin Pack).  For example, a friend that is renting a home (townhome/condo type unit) from another friend of his is restricted in not being able to drill holes through floors and walls of the space he is renting (or at least he believes he is restricted from doing so).  Certainly there are some people, such as another friend of mine, that had owned a condo unit and was precluded from drilling holes in exterior walls and such that might need a solution like this.  For people like that a solution like this may be absolutely priceless.With that said, I'd ask persons that were interested in a solution like this to consider all of their options carefully.  In terms of extending network coverage there are usually multiple options available, each with advantages and disadvantages.  Network cables (such as these:AmazonBasics RJ45 Cat5e Ethernet Patch Cable (50 Feet / 15.2 Meters)) can be obtained relatively frugally but if you obtain cables and go to string them around your domicile, you need holes available to get the cables through walls.  Once you get the cable through the holes and make it available in the space you want it you may be left trying to come up with ways of hiding the cables to keep them from being unsightly, for example, some of these materials (Wiremold C210 White Cordmate II Kit) may come into play or, if you have carpet on floors you might be able to tuck the cable in along the wall edges.  If you do go with the Cordmate type materials your level of frugality may drop considerably.Next up on the frugality scale is the potential use of wireless networking, though performance may be an issue and range of coverage can also be a big issue.  Wireless can be subject to interference from some microwave ovens, some cordless phones and more.  For gamers and others that desire a true dedicated and stable connection, well the need to have a true wired solution becomes more apparent.Finally you get into the range of these Powerline network extenders and the previously mentioned MoCA solutions.  Both are similarly priced and both work very similarly, basically bridging (converting over to another type of media or cable type and using it to extend) your Ethernet network over to another transport media.  The advantage goes to MoCA adapters if you have cable TV connections available where you wish to extend your network to and a further advantage is gained if you are a customer of cable company that already uses MoCA with your equipment (for example some FiOS systems do this).  In such cases it may make more sense to use MoCA since you can just add a single adapter/converter to extend your network rather than needing to buy a complete kit (pair of adapters) of equipment at roughly twice the cost of the single adapter.If you don't already have cable TV connections where you would want to extend your network than a powerline solution would seem to be your best bet as you should have an electrical outlet available to you in either location you'd be trying to reach -- the location where your network originates and the one you intend to extend your network to.  Simply plug in an adapter on either end and then plug a cable in from your network switch/router on the source end to complete a connection back to your original network and similarly connect your computing device (or another network switch/hub/router) on the remote end into the other powerline adapter from the set.  Both ends bridge the two media types (powerline and Ethernet) and allow the network traffic to flow across both media types.  There's no setup required, no configuration required, simply plug in and go.  From there you could, if you wished, plug in another wireless router on the remote end so you could provide stronger wireless coverage to devices in that area, or simply plug in a single device or connect to a network switch so you can plug in several devices at the remote end.  It doesn't matter what you need as you have the option to connect whatever you wish.There may be some technical issues with using powerline adapters that could make them a less than ideal solution, but for most people they should work fine.  Admittedly, I started out somewhat concerned that plugging a device like this into the wall and then using it to extend my network could lead to shorting out some of my network equipment or other devices on the network, but in reality there is nothing to be concerned with.  These devices are safe, do function as they should, and are no threat to your other devices.So, in summary, a good solution for those that need one, though personally where possible I'd prefer to simply drill the holes and run the cables to where I need them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good solution for those with cabling restrictions </p>
+
+
+<h2> review.date </h2>
+  07-24-2012  
+<h2> review.text </h2>
+
+ <p> I can't say I've tested the far limits/range of this product.  However, I do know at short distances it works great.  I have an older computer that doesn't have WiFi or even bluetooth.  This system was absolutely perfect for my problem.  Plugged it into the ethernet port and, voila, I was online - and at a pretty good speed too.  It probably isn't the cheapest solution for my situation, however.  Nonetheless, if this is the kind thing you're looking for just know that it does indeed work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ditto.  It just works. </p>
+
+
+<h2> review.date </h2>
+  12-25-2012  
+<h2> review.text </h2>
+
+ <p> Plugged them in as instructed and they have worked fine for the past 4 days. My AV receiver needed a hardwired connection to access iTunes airplay, it has worked perfectly for this purpose. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works without much effort </p>
+
+
+<h2> review.date </h2>
+  01-28-2011  
+<h2> review.text </h2>
+
+ <p> It took me less than a half hour to set up the Logitech HD Powerline Starter Kit. This included reading the simple to understand instructions and  bending over to reach an electric outlet behind a chair.  At first I didn't see the value of a wired connection when my house is Internet connected via WiFi. Once connected, however, this is noticeably much faster, even to a layman such as myself.  I am planning to purchase an Internet enabled HD TV in the near future and using the Powerline to connect that TV would be an excellent solution. My first impression is that this is an excellent product. I will continue to update this review as my experience with the Logitech Powerline evolves. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as Promised! Painless Setup! </p>
+
+
+<h2> review.date </h2>
+  02-23-2011  
+<h2> review.text </h2>
+
+ <p> I was initially somewhat skeptical that this product would perform the way it was marketed, but, after a seamless and easy setup that only took a few minutes, I was hooked up and online.  Plus, the speed is noticeably faster than my current wifi setup around the house.  I tend to use my computer in my office, which is a few rooms away from our router, and while sufficient for day to day use, there was a significant pickup in my download speeds on larger files (200mb-2Gb) to be noticeable.  Big fan of this.I would highly recommend this product, especially to those who want an easy-to-implement solution for wiring their home.  This is a good one.  While the boxes are a little bulky, it's compromise I'm willing to make for the convenience of everything else.I recommend this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Super easy to use, and works just like it should! </p>
+
+
+<h2> review.date </h2>
+  01-26-2011  
+<h2> review.text </h2>
+
+ <p> QUICK SUMMARY:  This wonderfully simple, useful technology takes only a few minutes to setup and then IT WORKS!  It is a true "Plug-n-Play" experience.  Highly recommended!Background:  In my networked home, I use a four portCisco-Linksys  WRT320N Dual-Band Wireless-N Gigabit Routerand aD-Link DGS-2205 5-Port 10/100/1000 Desktop Switchbecause I ran out of ports on the router.  The idea of having an ethernet connection to my network away from my router is very appealing to me, because I can transfer large chunks of photo and video data more quickly than with my G-network wireless connection (although my router is N-network capable, my laptops mostly have G-network interface cards installed).NOTE:  You have to plug-in the network adapters directly into your wall socket, and and not into any surge protecting power strips or power supplies.*** WHAT I LIKE:- It is extremely easy to install, and after it's installed, IT WORKS!- Gives me new options to connect devices to my home network, like my home security system or myRoku XDS Streaming Player 1080p- It's expandable just by buying more Logitech network adapters- You can plug it in right-side up, upside-down (i.e., the two prongs are the same size)- The ethernet cable is surprisingly thin, like a thin telephone wire- Logitech's gone green, and so the non-retail packaging doesn't use plastic-coated boxes and everything is recyclable.- You can optionally turn-off all the LED indicator lights, if you wish.- The network adapters have built-in surge protection.*** What Could Be BETTER:- The network adapters are big, black, boxy and bulky, and they won't look great if they're not hidden behind some furniture.*** PERFORMANCE:The ethernet connection works well with 10/100 ethernet, but if you've got gigabit ethernet (1000), you won't get gigabit ethernet performance.  The Powerline adapters are rated up to 220Mbps, which is still plenty fast for nearly all applications in the home or office (think:  you can stream HD movies from Netflix on just a 3 or 6Mbps DSL connection).To test relative performance in my network, I tried copying a 500MB file from my server (connected to the router via gigabit ethernet) onto my laptop and netbook, using the Logitech Powerline ethernet adapter, G-network wireless (laptop) and N-network wireless (netbook).  Here are the results:** Logitech Powerline took 1.5 minutes to copy 500MB.** N-network wireless took 3 minutes -- twice as long as the Logitech Powerline!** G-network wireless took 9 minutes -- nearly 6x longer than the Logitech Powerline!CONCLUSION:  This is one of those pieces of technology that works just exactly the way you would want:  plug it in and start using it.  GREAT technology!  HIGHLY recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT technology that WORKS! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

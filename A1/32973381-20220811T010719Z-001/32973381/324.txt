@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1576857379 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-28-2013  
+<h2> review.text </h2>
+
+ <p> Has some editing errors. Needs some more detailed information in some chapters. I personally felt that they skimped on the drug class chapter. They need to put a index and a glossary in the back of the book. But overall okay book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> meh </p>
+
+
+<h2> review.date </h2>
+  06-27-2013  
+<h2> review.text </h2>
+
+ <p> It's definitely a helpful book and has most of what you need to know for the exam, but compared to the actual exam it felt as if the practice tests were way easier. There were some things not covered in the book that were on the test, but I can't say specifically what. Aside from actually pharmacy experience though, I'm not sure if there are better resources to get all the information you need. If you just use this book to study, you will probably pass the exam, but it is not a complete guide. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Definitely helpful, but practice tests seemed too easy </p>
+
+
+<h2> review.date </h2>
+  03-20-2013  
+<h2> review.text </h2>
+
+ <p> I bought several different products to prepare for the national exam, and this one was by far the most useful and best organized. The reading is all stuff you need to know, no fluffy extras. The questions and math are good practice.This plus a smartphone app for drug review, and I was good to go, passed exam first try. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Useful tool </p>
+
+
+<h2> review.date </h2>
+  08-19-2012  
+<h2> review.text </h2>
+
+ <p> Reading this now in preparation for the pharmacy exam.  Looks thorough.  I haven't accessed the online practice exams...but I will before actually signing up to take the exam.  I have found a few errors.  I am a retired RN so having a Drug Handbook available was an additional advantage in double checking medication.  The chapters have quizes with answers available.  Very helpful.  All the phone numbers one needs (i.e. the PTCB and ICPT), the Pharmacy Tech Association, etc are available online and listed in this book.  The "How to Prepare" is excellent...with a month by month timeline.  I hope I'll pass on my first try....this book is an inexpensive/effective way to begin versus an expensive and time consuming online/classroom course.  Wish me luck! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very good </p>
+
+
+<h2> review.date </h2>
+  07-18-2011  
+<h2> review.text </h2>
+
+ <p> I purchased this book about 6 weeks prior to taking the PTCE and was very pleased with the content.  Along with providing useful and up to date material to study, the author has provided excellent suggestions on How to study the material. The author has also provided helpful information about how to Mentally and Physically prepare for the exam.  The practice tests are Right On Target for providing the same types and variety of questions you will see on the PTCE.  I personally also studied from another popular Workbook and Practice Exam publication because I was so worried that I might miss something that I needed for the exam, but I now feel comfortable that this book will provide most everything you need to prepare for test day. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worthwhile Resource </p>
+
+
+<h2> review.date </h2>
+  04-11-2014  
+<h2> review.text </h2>
+
+ <p> This book is straight forward and will get you to where you can take the boards and pass the first time. Great buy and it even includes a section on pharmacy math. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> pharmacy </p>
+
+
+<h2> review.date </h2>
+  07-23-2013  
+<h2> review.text </h2>
+
+ <p> Couldn't have asked for any better in a review book for the PTCB. Helped me feel a lot more comfortable and prepared for the test. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Review Guide For The PTCB </p>
+
+
+<h2> review.date </h2>
+  09-26-2013  
+<h2> review.text </h2>
+
+ <p> Looks good and came on expected time frame. The book looks like new. It came in fast. Great working with you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Book </p>
+
+
+<h2> review.date </h2>
+  12-03-2013  
+<h2> review.text </h2>
+
+ <p> This preparation study book is good. The coverages over the laws and human physiology are clear and easy to follow. The only problem is the math portion practice questions. There are too many errors to overlook this oversight. I am strong at math so I was thinking of just glossing over the section, but decided to take the practice quizzes for the heck of it. And boy are there mathematical errors in the solutions section. The correct answer is within the multiple choice answers, but I guess the person writing the solutions didn't do a good job studying those math sections. The math is just middle school level so any high school graduate should be able to catch them. The sections teaching the math is correct, but there are some solution errors in the back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Study Book But With a Caveat </p>
+
+
+<h2> review.date </h2>
+  10-23-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this book in May 2011, read it cover to cover, did both of the included practice tests (at the back of the book) and the online practice test, and then took the Pharmacy Technician Certification Exam (PTCE) in June 2011 and passed it on my first try.  So, in my opinion, this book is excellent and well worth the money (which is much, much less than you would pay to take a class).You still have to pay to take the test, naturally, which costs $129, but with that and the $20 for this book and whatever licensing application fees your state charges you can be a PTCB Certified Pharmacy Technician and licensed to practice in your state (check your state's regulations to be sure, but I believe nearly all, if not all, states accept PTCB certification for licensing).  This book really does contain all of the information you need to pass the test. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Much Less Expensive Than A Class </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

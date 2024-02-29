@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B002Y26XYE <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-30-2010  
+<h2> review.text </h2>
+
+ <p> http://www.amazon.com/gp/product/B002Y26XYE/ref=cm_cr_rev_prod_imgIs this collection worth reading and worth buying for your children? Yes.Is it appropriate for home school as a textbook? No.Is it appropriate as supplemental reading? Yes.Are the Tom Swift, Jr., books that follow the main collection worth reading? No. No. Nonononono. I couldn't get through a single one of the books without dozing off. There is too much science--a very early use of computers, but Tom still uses a slide rule--too much bad science, and too little personality. The characters are totally wooden, and in the original series, although the characters tend to be repetitive, they are fairly realistic as characters.Would today's teenager, totally used to all the miracle inventions, be impressed by these books? Would he or she enjoy them? Maybe, but only if the teenager can accept last century's stereotypes without becoming offended.My husband is just enough younger than I am that he remembers enjoying the Tom Swift Jr. books. I never saw them. What I read was my father's original Tom Swift books, scrounged from my grandparents' attic. I remember having to explain word usage to my brother, when he was complaining that they blamed everything on the confederates, and had to be told the difference between Confederates and confederates.Not only did I thoroughly enjoy reading these books, which included a number of Tom Swift's I'd never seen before, but in fact--with 52 more years behind me and a Ph.D. in English--I found them much better than I had thought they were when I was in high school.There were at least two writers in the first series, with a third who showed up near the end. One of the writers never did any research, and invented entire cities in major countries out of his head. He had a fight between a lion and a tiger in India and had a fight between two tigers in Africa--in the SAME BOOK. The second did very heavy research and the difference shows; although at times he becomes rather pedantic, in general the research is well used.I can't possibly give this more than a 3 rating, largely because of those horrible Tom Swift Jr. books but partly because some of the plots were reused in a very short series, and one got very tired of childhood feuds being carried on into adulthood. Also, continuing to call Tom a "boy" when the chronology of the series makes it clear that he must by now be in his early twenties and being idiotically coy about Tom's courtship make for painful reading even for a teenager. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yes, No, Yes, No, Maybe </p>
+
+
+<h2> review.date </h2>
+  10-27-2011  
+<h2> review.text </h2>
+
+ <p> Fans of the juvenile fiction of the Golden Age of science fiction will find this series reminiscent of the more well-known authors of the times.Fans of steampunk might even find it interesting as our youthful hero (with a very tiny bit of help from a supporting cast of characters) finds a way to use the contemporary technology of his time to produce inventions that today's home-workshop hobbyists probably still envy.The stories are a bit dated--a contemporary author wouldn't write with such relish about the mass slaughter of elephants or describe some of the characters in such--racially insensitive terms, but overall they were very readable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> To Swift, Jr Had An Inventor For A Father </p>
+
+
+<h2> review.date </h2>
+  05-31-2014  
+<h2> review.text </h2>
+
+ <p> [...]Have a look at the link above and you'll see that you can legally download all of these titles for free. Volunteers worked hard to transcribe all of these and whoever put this "collection" together took advantage of their work and added nothing to it.Any book from before 1923 is probably on Project Gutenberg. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> All of these books may be had for free on Project Gutenberg </p>
+
+
+<h2> review.date </h2>
+  02-03-2014  
+<h2> review.text </h2>
+
+ <p> I am 62 yrs. old and I have long since lost my Tom Swift books, these are the books that brought me into the world of reading. I don't know how long they've been out,but I was 10 or under, so they have been around 50 yrs. Now that I'm retired I really want to go back and read them again, I don't remember the individual stories only that I loved them and Tom was the beginning of thousands of books I've  read since. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My start to the great world of reading, never stopped </p>
+
+
+<h2> review.date </h2>
+  03-10-2014  
+<h2> review.text </h2>
+
+ <p> I loved these books when I was growing up--both the Tom Swift (which is this collection) and the Tom Swift Jr. books.  And I am enjoying the re-read with this collection.  These are truly &#34;factory&#34; books, created by the &#34;Victor Appleton&#34; pseudonym for the Stratemeyer Syndicate that cranked out books for young readers by the hundreds.  But they are highly readable, with a good level of action and plotting and a tremendous cross-book consistency that the factory approach encouraged.  However, I cannot recommend these books to a modern juvenile audience.1)  Big problem # 1 is that the technology is really, really dated.  The first three volumes focus on a motorcycle, a motorboat, and an airship.  It's hard to imagine a modern young reader getting excited about that level of technology, or even about the core concept throughout the books of mechanical invention.2) Big problem # 2 is the social attitudes and norms conveyed in the series.  This is a white, male world.  The only non-white character is the old caricature of the &#34;black uncle,&#34; complete with a mule and dialect, consistently referred to in terms deprecated today. As for women--well, they just don't &#34;get&#34; technology and can't be expected to.  The racism and sexism are casual and taken for granted, rather than studied, but they leap out at a modern reader.3) A more minor problem, but still an issue, is the blandness of the characters and the lack of character development.  These are very, very simple characters, with none of the nuance that a reader of the Harry Potter series would come to expect.And so I find I can read these books for nostalgia, but that's about it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dated technology and social attitudes make it unacceptable for modern readers </p>
+
+
+<h2> review.date </h2>
+  03-16-2011  
+<h2> review.text </h2>
+
+ <p> I came across this collection when I was looking for the Tom Swift Jr. books that I discovered in late grade school - early high school days.  The Tom Swift Jr. books, years ago, were fascinating and absorbing, at least to my then-uncritical reading.  This older collection is set in the early days of automobiles and airplanes and electricity - my father's childhood, in fact.  The culture and feel of the era comes out in simple and clear writing, and the "science" is part of the setting rather than the purpose of the story.  Some flaws and weaknesses are there, of course; this is the true "pulp fiction" (i.e. inexpensive printing on newsprint) of bygone days. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A wonderful window into the early 20th century </p>
+
+
+<h2> review.date </h2>
+  07-15-2012  
+<h2> review.text </h2>
+
+ <p> This is the first set- for my father's generation.  What teenagers imagine very much affects their lives- one sees this graphicallyPearl Harbor (The Director's Cut) (Four-Disc Vista Series).  These books were the fantasies of teenaged boys, of their time.  These were true pulp fiction, formula fiction, and a fascinating commentary on their times, not so much of what was, but what people wanted to see- just as with Norman Rockwell'sBest of Norman Rockwellpaintings.  These are the stories that shaped the lives of their readers, just as Native American storiesWhispers of the Ancients: Native Tales for Teaching and Healing in Our TimeandOur Stories Remember: American Indian History, Culture, and Values through Storytellingdo. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> formula fiction at its finest, for teen boys </p>
+
+
+<h2> review.date </h2>
+  12-07-2013  
+<h2> review.text </h2>
+
+ <p> Great book it brought back the time I was reading as a young man. Now I can read these stories to my grandson. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> To be young again </p>
+
+
+<h2> review.date </h2>
+  12-14-2012  
+<h2> review.text </h2>
+
+ <p> I  read a few books in this series over 50 years ago.  We could only find a few in the local library.  I never thought that I might one day own the complete series.  Thanks so much for making these excellent books available.  Everett Runkle </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tom Swift Collection </p>
+
+
+<h2> review.date </h2>
+  12-18-2013  
+<h2> review.text </h2>
+
+ <p> I thoroughly enjoy this series - my only wish is that all of the books came as audio instead of just some </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good read </p>
+
+
+<h2> review.date </h2>
+  04-05-2013  
+<h2> review.text </h2>
+
+ <p> I picked up two books at a yard sale when I was a kid, and I've read them over and over again, because they were so intriguing and fun to read.  (I'm an engineer, so it'd be cool to have the resources that Tom has at my disposal...)I've looked around some for Tom Swift books, and haven't been able to find them, at least, not for any kind of reasonable price, and the libraries usually don't have them either, so when I saw this collection for a couple dollars, I jumped at the chance, and my boys are now reading and enjoying the stories as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I bought two Tom Swift books at a yard sale 20 years ago.... </p>
+
+
+<h2> review.date </h2>
+  01-06-2014  
+<h2> review.text </h2>
+
+ <p> I grew up reading the Tom Swift, Jr. adventures along with Hardy Boys.  It's a delight to read the early adventures of Tom Sr.  The stories reflect the time they were written, with a lot of things that would not be considered PC today, but keeping that in mind, the stories are a delight to read from a simpler time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Original Tom Swift, Sr. stories </p>
+
+
+<h2> review.date </h2>
+  04-05-2013  
+<h2> review.text </h2>
+
+ <p> The original series of books, which spawned the junior series and provides fertile imagination fodder for boys of all ages. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Classic stories of a bygone era, perfect for kids' imagination! </p>
+
+
+<h2> review.date </h2>
+  02-04-2011  
+<h2> review.text </h2>
+
+ <p> This is one of the best books ive ever read.Its written so well and has everything.Ive read almost all of the books and all of them were great.It is worth every penny. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great read </p>
+
+
+<h2> review.date </h2>
+  07-12-2013  
+<h2> review.text </h2>
+
+ <p> I am disappointed that none of the original illustrations and cover art are included. There is a table of contents that will get you to the start of a specific novel. Some readers will find the racial stereotyping and especially dialog offensive. Do not confuse this series from the early 20th century with the  mid-century Tom Swift, Jr. series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Original Tom Swift </p>
+
+
+<h2> review.date </h2>
+  04-08-2012  
+<h2> review.text </h2>
+
+ <p> While I would love to have all the Tom Swift books in one collection, I can not suggest this version at all. The problem is that no love was put into making this Kindle edition. Instead, somebody just took all the files, dumped them into another file, then posted it to Amazon.There are no chapter marks, everything runs together, and in places it is not even formatted correctly.Folks, spend the few weeks it would take to make a decent Kindle file if you are going to do something like this. It ain't that hard. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Low quality "shovelware" ebook </p>
+
+
+<h2> review.date </h2>
+  12-14-2013  
+<h2> review.text </h2>
+
+ <p> This series was written just about 100 years ago, but it is interesting to read about Tom Swift because while the language is somewhat stilted, the actions are interesting and something you do not think about in this day an age.  Fun and casual reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Books of the early 1900s </p>
+
+
+<h2> review.date </h2>
+  11-05-2011  
+<h2> review.text </h2>
+
+ <p> I bought this collection in order to have some light reading that could be entertaining as well.  I found it to be delightful reading.  This is how our great grandfathers whiled away their time, reading such fiction.  These stories are imaginative, cutting right to the chase, and use characters that are memorable.  I will be happy to continue reading the further adventures of Tom Swift in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Amazing Tom Swift to the rescue! </p>
+
+
+<h2> review.date </h2>
+  11-15-2011  
+<h2> review.text </h2>
+
+ <p> The title for this review reflects the considerable influence that the Tom Swift series has had on science and technology n America. Visionaries like Steve Wozniak and Issac Asimov have cited it as part of their inspiration, and it was certainly part of mine when I was growing up (I went into math and physics as fields).The series is regarded as "edisonade" in character, that is, using inventors like Thomas Edison as the basis for the fictional character. The books, at least in the initial series which began in 1910, featured inventions and technology that had been or was close to being realized. The later Tom Swift series became more fantastic in tone. Many of he books are now in the public domain, but the character is still continuing (owned by Simon and Schuster, I believe), and a feature film was announced in 2008.The Tom Swift books were written in four different series. The books ncluded in this collection (26 of them) were from the first series and appeared in 1910-1932 and 1939. The last two books shown appeared in 1962. Their author, Victor Appleton or Victor Appleton II, was actually the pseudonym for a variety of different authors.My rating reflects the reverence that I have for my own memories of reading these books as a boy. At the time, I enjoyed them immensely. However, that was many, many years ago.hen I perused this particular collection, it was clear that the Tom Swift series was not aging very gracefully, and the technology being described doesn't hold the interest as well as it once did. Still, the books serve as a good source for insight into the beginnings of American science fiction.Anyone purchasing this particular edition should also be prepared for some poor formatting. The text is run together without proper breaks, and headings are not centered. The overall effect was so distracting that I finally returned the content to Amazon for a refund. Please consider that many of the Tom Swift novels in this collection are available as free Kindle editions. Rather than spend your money on this edition, you might check out the free ones to make sure you really want to spend your money to get all these works at once. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great (but partial) set </p>
+
+
+<h2> review.date </h2>
+  12-07-2011  
+<h2> review.text </h2>
+
+ <p> This was an excellent collection to read. I enjoyed the timeline that it followed from the first book to the last. I had only read one Tom Swift story before this and liked it. All of the stories in this collection lived up to my expectations and it is a great read for young people and older fiction readers. All of the stories seem to have been really well researched and are quite believable. I had a really good time reading all of the books in this collection and look forward to reading the Tom Swift Jr. collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tom Swift Collection </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

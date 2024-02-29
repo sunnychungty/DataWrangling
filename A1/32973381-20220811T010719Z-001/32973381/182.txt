@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00004RFID <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-04-2008  
+<h2> review.text </h2>
+
+ <p> Being a big-time wrestling fan from the old-days, I really dugged the classic wrestling footage from the Mid-South Coliseum featuring Jerry "The King" Lawler's old wrestling territory in Memphis. Andy Kaufman was simply superb protraying a wrestling heel(bad guy). He knew how to piss the fans off. "I'm from Hollywood" is a nice little time capsule of pro wrestling and the antics of Andy Kaufman from the early 80's.Far as the second feature, I totally enjoyed the interaction between Kaufman and "Classy" Freddie Blassie. Their non-sensical ramblings were very amusing and had a natural flow to it between the comedian and wrestling manager. I liked the choice of location at a now-defunct restaurant in Los Angeles. It was also nice seeing scenes of the LA streets in the early 80's.Also included is the LA premiere of "My Breakfast With Blassie" with an altered looking Andy Kaufman. Overall a very entertaining package for fans of classic-wrestling and Andy Kaufman. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Mid-South Coliseum </p>
+
+
+<h2> review.date </h2>
+  06-27-2005  
+<h2> review.text </h2>
+
+ <p> Interesting, but more as a portrait of a performance artist than a comedy. Best for the kaufman completists. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay, but not comedy as you know it </p>
+
+
+<h2> review.date </h2>
+  09-15-2010  
+<h2> review.text </h2>
+
+ <p> This film is a fitting tribute to a comic genius.  It is well done.That's all that I have to say about it.Warm Regards,EdB </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Tribute To A Comic Genius </p>
+
+
+<h2> review.date </h2>
+  04-06-2010  
+<h2> review.text </h2>
+
+ <p> I love this DVD.One could make an arguement based on his ability to draw heat that Andy Kaufman was one of the greatest professional wrestlers of the modern era.Because in the modern era of pro wrestling it's more important to draw heat then it is to be a technically sound wrestler.Kurt Angle became a star in the pro ranks not because he was a two-time NCAA champion or an Olympic gold medallist,but because he could make the fans hate him.Kaufman was able to do this with the best of them.This DVD is a mockumentary of the actor/comedian/performance artist's entry into the world of pro wrestling,his matches against women and his legendary feud with Jerry "the King" Lawler.This special edition released by Johnny Legend and his sister Lynne(Kaufman's girl friend)features an audio commentary by Lynne and Kaufman's partner in insanity Bob Zmuda.It also features two matches in which Kaufman boxes Lawler and written challenges from women who wanted to take on Kaufman in the squared circle.If you like pro wrestling you'll enjoy this package. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Drawing Heat </p>
+
+
+<h2> review.date </h2>
+  06-20-2002  
+<h2> review.text </h2>
+
+ <p> On the My Breakfast with Blassie side, click on the Rhino logo. You will see an ad for Rhino videos accompanied with the sounds of one of Kaufman's shticks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hidden Rhino Add </p>
+
+
+<h2> review.date </h2>
+  04-04-2011  
+<h2> review.text </h2>
+
+ <p> "I'm From Hollywood" is just about as thorough a synopsis of Kaufman's wrestling career as a 60-minute mockumentary could ever hope to be. It begins on a huge high note, covering Andy's early career via a series of tongue in cheek interviews with big name co-stars and friends, stretching the truth with an anchor in reality a'l Spinal Tap. It's when the subject turns to his exploits in the Memphis wrestling scene, though, that the picture pulls a complete 180. Those celebrity chats quickly disappear, replaced with direct archival footage of the actual matches and promo segments that eventually built to Kaufman's long-term feud with a very young Jerry Lawler. It's great on a sheerly historical sense, but considering this rivalry lasted for well over a year (in regular once-a-week installments) there's a lot of redundancy in the material that could've been cut out. I would've rather seen a continuation of those interviews spliced in with the raw footage to keep the commentary fresh and the pace quick, because this catches a terrible case of the drags around the halfway point that it never quite manages to shake. It's a major disappointment that the producers couldn't secure the rights to Kaufman and Lawler's infamous fight on Letterman, too, which was the real hook of that storyline. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Subject Fails to Carry a Mediocre Documentary </p>
+
+
+<h2> review.date </h2>
+  05-24-2005  
+<h2> review.text </h2>
+
+ <p> this is a hilarious dvd, the movies are a hoot...you have to enjoy the Taxi days of Andy Kaufmans humor and the rest of his dilusional behavior to understand his great command of comedy, this is a great addition to my movie collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> hilarious </p>
+
+
+<h2> review.date </h2>
+  03-26-2005  
+<h2> review.text </h2>
+
+ <p> Although "I'm from Hollywood" gets top billing, this DVD is actually made up of two movies: "I'm from Hollywood," which chronicles Kaufman's pro-wrestling career (a career which saw him defeat numerous women and ended when, for the for the first time, he fought someone of his own gender); and "My Breakfast with Blassie," a hilarious spoof of the movie "My Dinner with Andre.""I'm from Hollywood" is a collage of scenes of Andy Kaufman's involvement in pro-wrestling, taken from television.  Kaufman plays a "bad guy" wrestler who taunts the viewing audience about how he is a famous Hollywood star who can beat up any woman who dares challenge him in the ring.  He goes to redneck country and insults the viewers, telling them that he is going to teach them about new things, like soap. After he finally meets a male (Jerry Lawlor) in the ring, he ends up in traction."My Breakfast with Blassie" is a parody of "My Dinner with Andre," a film that consisted almost entirely of two people having an intellectually stimulating conversation during dinner at an upscale restaurant on Manhattan's Upper West Side.  So here, Kaufman made a film about former wrestler/wrestling manager Freddie Blassie and himself having an anti-intellectual conversation during breakfast at a downscale Los Angeles pancake house. We see Kaufman and Blassie conversing about how they don't like shaking peoples' hands because "you never know where their hands could've been - They could have just wiped themselves and their finger could have gone through the toilet paper." In another scene, Blassie rubs the pregnant Thai waitress' belly for good luck, and then, after she walks away, comments, "That's another one we'll be feeding on welfare."These two films are highly recommended.  They're a real gas! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These Two Films are a Blast! </p>
+
+
+<h2> review.date </h2>
+  05-11-2003  
+<h2> review.text </h2>
+
+ <p> I owned this particular title on VHS and I was so excited to see it make it's way to DVD.I can't think of a better film to show this period in Kaufman's career.  The focus of this particular title is his many exploits into the world of Professional Wrestling.  It shows you not only the in-ring/on-stage antics, but a lot of the back stage talk as well as comments from those who knew him best.If you are either an Andy Kaufman fan, or anyone who is interested in the Golden Age of Wrestling... check out this title before it goes out of print again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CLASSIC ANDY KAUFMAN!!! </p>
+
+
+<h2> review.date </h2>
+  01-17-2008  
+<h2> review.text </h2>
+
+ <p> The wrestling between jerry lawler and andy kaufman was all staged or 'worked' as they say in the business, but it is fun to see again. the interviews with other celebrities make it seem real and of course jerry lawler is used to this type of acting. kaufman took to the theater of it as he did with everything with a real enthusiasm. there is one part of this dvd that was not part of the wrestling events. when kaufman speaks to the camera looking shaken and talks about being hurt by 'all of this'. that was actually after he was thrown off of the tv show Fridays for not cooperating. if you liked kaufman or pro wrestling this is worth a look </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It was staged, but it was fun </p>
+
+
+<h2> review.date </h2>
+  08-07-2000  
+<h2> review.text </h2>
+
+ <p> While we gaze in glory upon the USA Network and even UPN as today's pro wrestling heroes parade around in their oiled-down, eyebrow raising glory,  it's hard to believe that nearly two decades ago one of the biggest flaps  in the sport was an introverted Jewish boy from Great Neck, Long Island.  What's harder to believe is that, once again, we were the joke.While  Andy's put-ons and antics were well known from the beginning of his career,  even the seasoned comedy pros and those closest to him thought Andy had  pretty much lost it by the time he climbed into the ring with Jerry Lawler.  When you watch this DVD, you will be amazed as even Robin Williams  proffers that perhaps Andy had finally slipped that thin, vague line he  seemed to tread.This is a well produced DVD.  The songs, cheesy as they  may be, can be almost catchy at times.  The interviews are first class, and  the production, while obviously low-budget, is surprisingly well done.  On  the bonus side, you also get &quot;My Breakfast With Blassie,&quot; which  you really must see to believe.This DVD is only for those who hold Andy  in a special place in their hearts, not those whith only scant familiarity.  If you're new to Andy, buy &quot;Man on the Moon&quot; and couple it with  Bob Zmuda's book.  If Andy has already found a niche in your heart, by all  means, order this today. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You may not understand this... </p>
+
+
+<h2> review.date </h2>
+  07-23-2004  
+<h2> review.text </h2>
+
+ <p> Just wait until Taxi comes out on DVD. Then you'll see how crazy he really is. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> andy kaufman was one crazy sob </p>
+
+
+<h2> review.date </h2>
+  08-20-2009  
+<h2> review.text </h2>
+
+ <p> I agree with Steve Puchalski (author of SLIMETIME) when he calls Kaufman "The King of S***heel Schtick". In many ways Andy can be compared to Lenny Bruce for taking things a step further. A kind of 80's Antonin Artaud of comedy.I didn't follow this stage of Andy's career closely when it was going on but was extremely surprised in hindsight at how far ahead of the rest of the world Kaufman really was. This excellent two-fer compliments one another and actually leaves the viewer wanting more."I'm From Hollywood" covers Andy's whole wrestling career in pseudo documentary style but when the credits role and you see names like "Jethro Bodine" listed you realize how far this schtick goes. Close friend Robin Williams provides excellent underplayed interview bites along the way along with Taxi cast members and other associates. In retrospect, it was a perfect choice for Kaufman to get mixed up in the head scratching arena of wrestling.The real treat is "My Breakfast With Blassie" which parodies "My Dinner With Andre" and actually comes away more entertaining. Kaufman's beakfast partner is self-proclaimed "King of Men", wrestler Fred Blassie. This is somewhat of a must-see and loses something in translation but, like early John Waters, there is something here to offend most everybody whether its Blassie's continual rubbing of the pregnant tummy of the waitress (who he nicknames Buddha) for good luck or the patron who vomits next to Andy's seat towards the end of the meal.Fans of "This Is Spinal Tap", "The Rutles", Morrissey's Warhol films other dry witted jokes that never let down their guard will love this stuff.Watch them back to back with "I'm From Hollywood" being first for maximum entertainment value. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ahead of Their Minds </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

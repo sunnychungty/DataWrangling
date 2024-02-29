@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0019HGU0M <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-09-2009  
+<h2> review.text </h2>
+
+ <p> First of all, you need to decide if you really need a tablet, because if you don't, you can find laptops smaller, lighter, brighter, and possibly cheaper.But if you want a tablet, this one is a very strong contender. Current price ($850 in Circuit City) is simply the best in this category.It's pretty small and lightweight (4.6 lb) and has removable DVD drive if you want to travel lighter. It's size and weight is not unlike other laptops in 12 - 13" category. It's not ultraportable. Neither it costs as much as ultraportable.It's standard battery is pretty small, running for 2-3 hours depending on use. One can buy heavier extended 9 cell battery. Battery is slightly protruding and can be used as a tablet handle.This laptop is not a slouch, it measured 196 in Scimark test. Compared to 5 year old 2GHz dual Athlon desktop, this laptop is 15% faster in mixed tests. Combined with 3GB memory, this laptop can run pretty much anything on Vista, except for the most demanding games. Microsoft gives it rating 3.6, which is pretty good (typical range for laptops 3.3-3.8). Some people like Vista, some don't. I think Vista is great, more stable and secure than XP, though eats more memory, which isn't a problem here. If you don't like Vista, don't buy this laptop, you will have hard time installing other OS.It does have a variable speed fan and produces some heat, not much, unless it runs on full power - comparable to other similar performing laptops. Fan is quiet, unless runs on full power. So you probably don't want to use this laptop as a server, running heavy applications all the time. Neither you would want any laptop for that matter.Watching DVD runs at around 40-50% of CPU frequency, the noise from fan and DVD drive are practically undetectable.In a tablet mode you can rotate the screen in horizontal or vertical position. The second is absolutely great for reading PDF documents.You can easily connect an external monitor (only VGA connector available), it works at least upto 1600x1200, maybe more.After starting Windows, be prepared to load a huge number of updates (100 or so). It took hours and laptop has frozen couple times during this process.OneNote that comes with this laptop works great with pen. It can save handwriting and search for it! This laptop has one of the best handwriting recognition software I've ever seen. So you can use it in tablet mode all the time.Wireless 802.11b/g/n connection is stable. Vista is very nice connecting to the network, so you shouldn't have any problems.On the negative side, this laptop is manufactured in China, and there are plenty of refurbished units for sale, which is an indicator that it can lack reliability. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> solid product </p>
+
+
+<h2> review.date </h2>
+  07-18-2008  
+<h2> review.text </h2>
+
+ <p> Pros:I think this system is probably the best deal you'd get in a TabletPC.The top-notch Wacom 'Penabled' tablet hardware is a real nice bonus, because it supports pen pressure & it has an eraser.The Fingerprint Reader is a real bonus, It makes me want to have one on all of my computers.It comes with Corel Painter 4 Essentials, and Microsoft OneNote 2007.It will play DVD-RAM discs that my Panasonic DVR creates -- Nice surprise.Cons:The AMD processor is not as good as the Intel Core 2 Duo, but you are paying a lot less.The battery protrudes from the back, and the screen is smaller than the base.I did a speed test with a friend, against a 2 year-old MacBook Pro (Boot Camp running Vista Business)We compiled a very large software project.  His was 25% faster.Screen is glossy.Remedies:When I first bought this machine, I noticed that this thing would not stop accessing the hard drive -- It didn't make any sense to me.  I thought Vista was at fault.  So, I started out with the intention of getting rid of Vista.  However,  with a bit of research, I found that Vista was not the problem with this machine, It was HP's bloatware.  Once the basic startup programs and services are properly configured, the system runs fairly efficiently.  Vista also has the added benefit of tweaking minute details in how power gets used in their 'Power Plans'Update:After using this for a couple of weeks, I find the fan and heat output to be annoying, I adjusted my 'Power Plan' to run the CPU at 50%, even when plugged in, so it generates less heat.  I just switch it it 'High Performance' when I need full speed.I also purchased an anti-glare screen protector (photodon.com) and the screen glossiness is pretty much gone. This is a great improvement. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product once its configured properly </p>
+
+
+<h2> review.date </h2>
+  08-18-2008  
+<h2> review.text </h2>
+
+ <p> Nice machine - a tad heavy and brittle.  When HP adds three features to the next generation, I am sold on it: HDMI, better battery life/choices, and multi-touch.  A higher screen resolution would be nice, too.  HP is improving... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Three features missing </p>
+
+
+<h2> review.date </h2>
+  11-30-2008  
+<h2> review.text </h2>
+
+ <p> This is my third tablet PC and my second HP Tablet PC. I LOVE this smaller tablet PC!  It's smaller than the Toshiba tablet PC I previously owned. I replaced my HP tx1000 generation HP Tablet PC since this tablet PC is WACOM Pen enabled, is faster, has a larger hard drive and... well... my husband swiped my other HP tablet PC (the tx1000 version)!  ;-)I travel extensively for work and am taking a number of college courses (online) for my degree. When I'm home I'm often waiting for many hours with a parent undergoing regular chemo treatments. This laptop is PERFECT in nearly every way - it's so versatile I can use it nearly anywhere.Pros:This tablet is pen enabled, need I say more?  When frustrated or needing a break from school I can whip the tablet around and play Mahong Tiles using the touch screen.  The battery serves as a great "handle" when using the laptop in this mode such as when waiting at the airport or for my parent in chemo. It's also great for web surfing or reading long articles in this mode - as I find is often required in my coursework.  Putting the tablet in this mode is also very useful for watching movies - which can be conveniently stored on the large capacity hard drive.  Whatever you heard about Vista - toss those thoughts out the door.  I've not had one issue with Vista.  It does have a learning curve, but there are so many added features and STABILITY that I really have come to enjoy this OS. Additionally, despite it's smaller size, this laptop has GREAT video quality and the keyboard is easy to use despite being smaller than traditional laptop keyboards.Cons:I wasn't able to get the fingerprint reader to work on either of my HP tablets.  I also heard this frustration repeated from employees at Circuit City one day browsing laptops for a friend. Others have told me their fingerprint reader has never given them any issue at all.  I suspect it's simply my technique - since this feature isn't important to me so I haven't pursued this further.All in all, this is a great laptop that I would recommend to anyone who travels extensively or otherwise needs a smaller, lightweight but powerful laptop all in a convenient package with more bells n whistles than a traditional laptop. In fact, I would recommend this tablet PC to ANYONE seeking a traditional laptop PC.  The price is reasonable for all the included features and convenience. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Powerful lil beast! </p>
+
+
+<h2> review.date </h2>
+  08-23-2011  
+<h2> review.text </h2>
+
+ <p> I've had this laptop for years and it's wonderful. It has many great features. I am an IT professional and I'll still use this for another year. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's wonderful </p>
+
+
+<h2> review.date </h2>
+  10-23-2008  
+<h2> review.text </h2>
+
+ <p> This is much improved from the tx1000z.  The tx2500z has an active digitizer pen and is a welcome addition.  I got the 2.4gHz processor and is pretty fast.  As the title says it's the most affordable tablet around.  Yes it does get warm and I position the air outlet on the top to avoid the warm exhaust.  You can adjust the power mode and minimize the temp.  I gave this tablet to my son for college and I advice getting OneNote since it will have free form writing ability within the program.  There's going to be a tablet netbook but I rather have a dvd player on mines.  The main con besides the temp is battery life.  Get the larger battery and you'll be much happier.  Vista runs great on it.  No BSOD or any problems yet since it was purchased. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Most affordable Tablet PC </p>
+
+
+<h2> review.date </h2>
+  08-02-2008  
+<h2> review.text </h2>
+
+ <p> HP Pavilion TX2510US 12.1" Laptop (2.10 GHz  AMD Turion X2 ZM-80 Processor, 3 GB RAM, 250 GB Hard Drive, DVD Drive, Vista Premium) BlackI had purchased the original TX1215 a while back, and that laptop was terrible.  Although it was considered a tablet, it was not WACOM enabled and you had to press hard on the screen to write.  The processor was slow and at times the machine was unusable.  I sold it on eBay within 2 months and forgot about it.However, I was impressed by the reviews of the TX2510us, and after trying it out and finally buying it, it is a terrific little machine.  Leaps ahead of the tx1000 series, it has the WACOM tablet, the processor is MUCH faster, and it has great features.  I recently used it to take notes in a week-long training class and I was amazed at how well it worked.  Handwriting training also helped minimize conversion to text errors, which was impressive.  Surprisingly, graphics were much improved as some (but not all) of the RAM was dedicated, and the rest can be allocated up to a gig.  Running games are NOT an issue any more.  Another surprise is if you up the machine to 4GB, it will still recognize ALL the RAM even though you have a 32-bit OS.  The OS only uses about 3.2GB of RAM, but the rest can be allocated to the video card without regard to the OS (this is actually handled in BIOS).The laptop does run hot, but not as hot as the TX1215.  The form factor is basically the same but I never had an issue with that.  Also, the screen is a bit cloudy at times but with brightness turned all the way up it still looked fine.  Finally, I found that battery life, a problem with the TX1000 series, seems to be improved.  Got almost 3 hours with Wi-fi and Bluetooth on and pretty close to full brightness.  Using the included battery as well.I think I got my money's worth with this one.  Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great laptop and tablet for the price </p>
+
+
+<h2> review.date </h2>
+  12-17-2008  
+<h2> review.text </h2>
+
+ <p> Beautiful efficient and loaded with features but a little slower than I anticipated. It has to be tweaked a bit to increase boot up speed.Touch screen aspect works well and size promotes portability. Battery life could be better too but overall a great product in terms on convenience and cost effectiveness. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it </p>
+
+
+<h2> review.date </h2>
+  11-15-2008  
+<h2> review.text </h2>
+
+ <p> This machine is maximum a 3 star. It gets very hot and the battery life is not good at all. The HP program + NORTON AV makes it slow and the AMD does not perform as Intel duos family. The touch screen is a good in just a few cases, if you do not need it go to traditional screen that is too much brighter and friendly to the user. Also the machin is very thick, so is hard to fit in some laptop sleeves or backpacks. I paid almost USD1000 for a computer that has not the performance of a USD700 Toshiba. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You have better options </p>
+
+
+<h2> review.date </h2>
+  12-02-2008  
+<h2> review.text </h2>
+
+ <p> I got this laptop for my husband who travels a lot. He really like the way the screen can swivel around and even be laid down flush on top of the keyboard. The power on button does not work, so he figured out to use the DVD button. We'll probably send it in for repair before the warranty is up because the power button really should work.The fingerprint scanner works fine for us, but I found the placement of it to be a bit odd, probably due to the swivel screen. The fingerprint scanner button on my HP laptop is located in the lower right corner below the keyboard. But, on this one it's located on the side of the screen.Although some have complained that this laptop runs hot, I did not find it to run overly hot compared to other laptops I have owned. Regardless, we use a usb powered notebook cooling fan under it and it says cool all the time now.The pen tablet is a nice feature, and I'd personally like to use it more, but my husband always has this computer so I don't get to use it very often.The built in wireless works perfectly, and we have 4 connnections stored. It automatically connects to the right one each time.Conveniently, this computer fits into his glove compartment, but we have big cars so I doubt it would fit into many glove compartments.The best part about this computer is that it's so small and lightweight. If you're looking for a fully functioning laptop, this will fit the bill far better than an eec netbook. It has the hard drive capacity and ram to run large programs, and performs just as well as our home computer and 17" inch HP laptop that were purchased around the same time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not quite perfect, but better than most </p>
+
+
+<h2> review.date </h2>
+  02-02-2009  
+<h2> review.text </h2>
+
+ <p> When I decided to purchase a smaller laptop to replace my ancient monster, I was torn between this one and a netbook.  I am so glad that I went with the touchsmart.  I have had it since late December.To begin, the laptop itself is beautiful.  The shiny surface and spiral markings are just gorgeous.  The keyboard is the perfect size for my tiny hands -- I don't find myself reaching as much as with other keyboards -- but my fiance with his bigger hands has no trouble with it, either.The handwriting analysis is incredibly good.  It had my handwriting down from the get-go, and has only gotten better with use. The computer features a slide out handwriting thingy, which allows you to input text pretty much anywhere.  I've found one program that doesn't handle it very well (extensive use causes it to crash), but that program has all kinds of other bugs when run with Vista, so I suspect that it is at fault.  It's so much fun to write blog posts or put in comments on websites, writing them by hand.  There's also a little slide-out touchscreen keyboard.  The crashing program has no trouble with the keyboard.The battery life is pretty good, longer than my old laptop by quite a lot.  I don't normally use it not plugged in, but when I do, I keep glancing at the battery meter expecting it to be low.  It also charges much faster than my old laptop.Last but not least, the touchscreen.Being able to browse the web without a keyboard is very nice.  I can curl up somewhere and read the news, which I really like.  The eraser function on the pen is cute.  The pen also has a little button on the side that simulates right clicking. But where it really shines is the fact that it's WACOM enabled.For those who don't know, WACOM tablets are coveted by digital artists everywhere.  They allow you to draw on a touchscreen, and have pressure sensitivity, so that if you push harder, you get a heavier line -- just like a pencil.  I'm not an artist, but my fiance is, and I've let him play with this computer.  He wants one now.He installed photoshop, and let loose.  It took him a little while to get used to, but before long, he was making stunning pictures that really looked like he'd used oil paints, or charcoals, or pen and ink; and these were just sketches done while we were watching movies.  And as a bonus, this computer is actually cheaper -- substantially cheaper -- than WACOM touchscreen tablets.The computer does run a bit hot, but taking advice from comments here, I went to the power manager and set the max CPU speed at 50%, and that has brought the heat level to slightly less than my old laptop.  I don't do anything on this computer that needs a ton of processing power, so it's not a big deal.I'm at a loss to come up with a major problem I've had with the computer.  It sometimes hangs a bit when I have Firefox open, but since it only does it when Firefox is open, I suspect that it's a software, rather than a hardware problem.To sum up:  Would I buy this computer again?  Yes.  In fact, I probably will buy another one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love this laptop </p>
+
+
+<h2> review.date </h2>
+  10-20-2008  
+<h2> review.text </h2>
+
+ <p> I've bought this laptop last month and, for now, I have nothing to complain about it.In fact, it's powerful, it's small and it's fun.It worths the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice!!! </p>
+
+
+<h2> review.date </h2>
+  07-14-2008  
+<h2> review.text </h2>
+
+ <p> This labtop is good, but please be aware that it won't allow you to downgrade the operating system to windows xp, or linux or ubuntu. And the problem is not the typical SATA drivers needed for a windows xp installation, the problem is that HP simply disabled the sata options on the BIOS and the xp installationwont even reach the point where is tell you no hard drive is found.So unless you're willing to only be able to work with vista, stay away from this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pros & Cons </p>
+
+
+<h2> review.date </h2>
+  11-26-2008  
+<h2> review.text </h2>
+
+ <p> I bought this laptop to have a portable but full featured complement to my 17" laptop and am generally quite satisfied with it.Here's a summary of the pros and cons:Pro'sSmall form factorAlthough the touch screen support makes the lid somewhat bulky and heavy for a device of this size, the overall small footprint still makes it ideal for carrying around unless you have an absolute aversion to weight.Touch ScreenUnlike previous models, this one supports both active and passive touch meaning that for simple things like pushing buttons you can use your fingers but for fine drawing you can use the included stylus (which fits into a handy slot in the laptop).  I have used both options and especially like the ability to bring up a program like Photoshop and rather than having to touch up photos using the mouse, be able to  directly do it on the screen with high precision. I would love to see more applications designed to be driven completely by fingers as well.Fit and FinishOverall the screen is very bright and has good resolution.  The cover is susceptible to fingerprints but otherwise looks very nice. The silver keyboard is nice (but note caveat below). The function keys are too small but probably to be expected given the form factor. The ability to flip the screen around is great but it would be nice if you could turn it in either direction as the viewing angle is small so I finding myself rotating the whole unit to the left to allow someone on my left to see the screen.Fingerprint ReaderI've grown to like this feature.  It does often take more than one swipe but it works and it's definitely more convenient than having to type in a password.SD Card SlotSpeaks for itselfOther ComponentsI have no complaints about the DVD drive or Wireless b/g/n/bluetooth adaptor. They all appear to do their job well.SpeedWhile not extremely speedy,it's not bad. I think Vista is to blame for most of it's issues.  Once an application is fully launched and loaded in RAM, I've found it adequate for all but very demanding work (e.g. video editing).  I would not buy a unit like this for editing AVHCD.  Just not fast enough. But for everyday use including graphics it's fine.ConsHeat GenerationI was hoping that in the seven years since I bought my last laptop that the chip manufacturers would have figured out how to significantly reduce heat generation but such is not the case.  The back right corner of this unit can definitely run hot. Furthermore, half of the vent is on the side of the unit, making it more awkward to keep unobstructed when holding it on your lapKeyboard/Touch pad finishThe silver finish on the keyboard and touch screen is nice but it's just a finish.  Already it has worn off of one of the touch pad buttons and I can imagine in a few years time the keyboard will start to look bad.  Perhaps I will be able to by replacement key caps when that occursMusic SkipsI have so far been unable to use this machine for listening to iTunes.  It skips and chatters on a regular basis, even if I just sit there and don't run anything else or touch the keyboard.  I tried downloading the latest sound drivers and Quicktime/iTune versions to no avail.  HP help is a joke. After explaining and re-explaining several times, the person finally recommended I restore my system to factory configuration. Besides meaning dozen's of hours of re-installing software and setting up Vista the way I like it, this also wouldn't accomplish anything that I can see.Battery LifeThe battery life is not terrible (around 3 hours for my normal use which doesn't include playing DVD's). It's just disappointing that after all these years there appears to have been no significant improvement in battery life. It would be great if manufacturers provided a simple charging stand like I have for my power tools so that when one battery gets low you could just switch to another and put the first one to recharge.  This would allow virtually continuous use with any cables.VistaI've made peace with Vista but would not be inclined to recommend it.  Start Up is very slow -- a definite step backward from my XP based 17" laptop.  You will spend a lot of time telling it it's OK to make some change.  In some ways this is comforting but in others simply annoying.Microsoft has an annoying practice of experimenting with the UI with no apparent regard for whether users actually consider it an improvement.  I end up reverting most everything to the classic set up.  Another annoyance is it's default shut down mode of "Sleep".  It uses up battery time while not appreciably reducing start up time.  I have to continually change this to shutdown. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Value </p>
+
+
+<h2> review.date </h2>
+  11-27-2008  
+<h2> review.text </h2>
+
+ <p> I purchased the Tablet PC about a month back and am getting toknow the various features.It is of course light especially when compared to my previous 17 inch HP pavilion dv8213cl .The handwriting recognition is very good and i believe it is supposed to get better with time.The display especially when viewing photos is not as crisp as with my bigger laptop.The battery life leaves a little to be desired and i might have to go with the six or eight cell battery to improve usage time.Other than that i have no complaints so far.It is reasonably priced and I would definitely recommend it to anyone.HP Pavilion TX2510US 12.1-inch Laptop (2.10 GHz  AMD Turion X2 ZM-80 Processor, 3 GB RAM, 250 GB Hard Drive, DVD Drive, Vista Premium) Black </p>
+
+
+<h2> review.summary </h2>
+
+ <p> HP PAVILION TX 2510US </p>
+
+
+<h2> review.date </h2>
+  07-29-2008  
+<h2> review.text </h2>
+
+ <p> I will not repeat many of the comments here, which are fundamentally accurate.  The machine performs well in Vista with software programmed for the OS.  This unit comes with the 32-bit version, so it can run many (but not all) XP programs.  Multimedia programs for audio and video need to be vista compatible, in particular.Con:The tablet mode screen (flat) is very difficult to see, since you have to be about 75 to 90 degrees (nearly above) the screen...basically on top of it looking down.  It does not display legibly at all from a 45 degree angle.  HP even makes a $50 variable angle stand for just this reason.This is true of all tablets I have seen.I very much like the touch interface for certain tasks, even when not in tablet mode.The future will hold better viewing angles and multi-touch screens I hope. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than expected </p>
+
+
+<h2> review.date </h2>
+  01-17-2009  
+<h2> review.text </h2>
+
+ <p> It took me a few days to warm up to this one. I wanted a mobile laptop with a larger hard drive than other models offered. It's a little heftier than it should be, but it is a good laptop if a little noisy. My hard drive settles down after a while, and it's not as loud as a hairdryer. I like the touchscreen and pen functions and the built-in DVD drive.  I'm no fan of Vista but it works all right. The original battery lasted about 3 hours when I first went mobile.  I ordered the larger battery for more juice. Overall it's a good buy but the price could come down more, especially on accessories.Update: after playing with this brick for 2 months, I've decided I don't really like it as much as I could. I love the concept of the touch screen and tablet body, but I don't think the AMD chip and the Win Vista OS work well together. Maybe I have a bad laptop. I futz around with it more than I should. Startup and opening some applications takes forever. The system tends to lock up for minutes at a time-not good when I'm in the middle of a game or have limited online time. It's not good for travel due to its weight. I spoiled myself with the Acer Aspire One, much better and lighter for travel. One good point is I went down from a 15" to this wide 12" screen and I cannot tell the difference. I have bad eyesight and being able to see the screen is important.2nd update: After changing countries, ISPs and electric current, my laptop is performing much better. It still freezes for a few seconds periodically, a little inconvenient but not a real problem. It also took a while to get all the updates loaded so I could use the touchscreen and digipen properly. I'm feeling much better about this one and I still think the concept is great. It will take some to perfect and I hope HP keeps at it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Touchscreen with DVD Player for the price </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

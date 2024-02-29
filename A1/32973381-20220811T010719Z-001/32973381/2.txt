@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00008OE46 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-13-2010  
+<h2> review.text </h2>
+
+ <p> I bought this camera back when they were about $200.I used it for photographing details of books to sell on Ebay.Book after Book, Page after page, over 6000 auctions later, It finally died.I might of fried in the AC outlet, not paying attention,Actually I think the kids got a hold of it and fried it.That was 2 years ago. Now I ready for another cameraand I grew to trust this product and hope to be buying another,asap. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> worked so well I'm buying another </p>
+
+
+<h2> review.date </h2>
+  01-26-2004  
+<h2> review.text </h2>
+
+ <p> This is an excellent camera.  I have the Powershot A60 and have worked a bit with the A70.  The only difference on these cameras is that the A70 has more megapixels, other than that they are THE SAME.  The cameras offer various features, each with several different ways to manipulate the camera, including shutter speed and aperture.  For the beginner, it offers a few preset options that allow a quick switch to the desired need of the user.  The manual is very clear and easy to apply.  I would recommend this camera to someone wanting a point and click camera, as well as a more advanced person desiring some control of the camera.This camera has optional shutter speeds of up to 15 seconds, which I like to use with streams and other pictures involving water.  The speed has its highest shutter speed at 1/2000 of a second, which I haven't yet had success with, but will have fun playing with (it needs to be really bright for this).  I haven't yet played with the aperture, but it seems like it will be fun to play with as well.If you are wondering if you need 3 MP (A70), consider what you want to do with the pictures.  I would recommend a 3 MP if you want to do some cropping or want to blow up pictures greater than 5x7.  I simply use my A60 just for 4x6 and looking at pictures on my computer, which it does an excellent job of.I would recommend getting either a 128 or a 256 Mb compactflash card (cards used in these cameras) in addition to this camera (runs between $40 and $70), because the camera only comes with a 16 Mb card, which holds about 15-20 pictures.  I personally prefer Lexar's 12x or higher cards.  Get rechargable batteries!!!  Amazon's prices seems to be the cheapest for both cameras and compactflash cards (or within a couple bucks of other places).I would highly recommend either the Powershot A60 or A70 to anyone that wants a digital camera because of the versatility offered.-------------------------------Update:I have now had my Powershot A60 for over two years, and it is still functioning despite the serious abuse I have dealt to it. The camera has been dropped numerous times and has also taken a tumble down a 20 foot rocky steep hill (I thought it was a goner after that one). It has endured backpacking, rock climbing, and general outdoor adventures with me, and although its casing shows many scraps, dents, and scratches, the camera's functionality is beyond all of my expectations. The only problems that have developed is that the LCD seems to be dying slowly and about 20% of in-door poorly lit shots turn out grainy and have horizontal lines (all of which occurred after that major tumble, so I expect that is the cause); that is, 80% of in-door shots still look great. At the prices you can find this camera at around the internet, it is an awesome intro and general use digital camera, and with the low price, you can even pick one up for your kid (since it is now so cheap -- look elsewhere than Amazon). Anyways, I am looking to pick up a second one of these for the inevitable event that I completely destroy this sturdy camera.Also, in its 2 years of use, I can honestly say that I have not found a single time where I truly needed more than my 2 MP to get a great shot. I have taken this camera to the Canadian Rockies, to the Western Caribean, and all over the western US, and of all of the pictures I have, I don't see a true need for a higher megapixel than 3 MP (mine is 2 MP) or zoom (3x), unless you need a camera for your profession.---------------------------Second update (July 17th, 2006)Still going strong. It's been dropped again onto asphalt and still works. There are occasional pictures that have lines across them, but I think this is due to the number of times its been dropped (and most pictures are still perfectly clear).----------------------------Last Update (Dec 14th, 2006)Well, I dropped it one too many times. I've gotten another camera. I definitely was happy to purchase another Canon (A530). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DURABLE + great price, functionality, and picture quality </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> I bought this item from Amazon.com to replace one that I had previously because the PowerShot A60 is the (camera) love of my life.  It stopped images - even moving ones - on a dime with never a blur or a blubber.  The model has been discontinued from Canon, and I have a Lumix, but in all honestly this is an incredibly functional gadget.  Prior to this, we purchased one for about$20.00 less and took it back to the store in less than a week.  This machine has mine has since died a dignified death.  I now have a Pansonic Lumix, which is pretty good in it's stead, but the Powershot A60 still has my heart.  I've been on several road trips to Ohio, Va. Maryland, and got the best moving pictures ever.  We even took it to Canada and got some really great air to ground shots, without a haze, which is the next best thing - it shoots through glass like a diamond cuts another diamond.  The Powershot, in a word, is amazing! Worth every penny.  You'll be well pleased with the service it renders.  We're also still quite pleased with Amazon.com, and never had one problem with them in the time we've been serviced by them.  In fact, they are so good that on the two occasions when we had the need to return products for exchange, they sent us the exchanged products and trusted us to return the originals within two weeks or they'll charge the credit card.  Imagine that! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My fave </p>
+
+
+<h2> review.date </h2>
+  05-10-2004  
+<h2> review.text </h2>
+
+ <p> I am very happy with this camera being my first digital camera. It's easy to use and the aperture function is very good if you can't use the flash (just keep the camera very steady!). I have one recommendation, get the rechargeable batteries that canon recommends only! I purchased the monster rechargeable batteries and when the batteries have no more juice, it just shuts off with no warning. When I use regular batteries, there is a low battery indicator that comes on but not when I use the rechargeable batteries. I have yet to purchase the canon batteries but I would think that it would be compatible. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good camera </p>
+
+
+<h2> review.date </h2>
+  12-02-2004  
+<h2> review.text </h2>
+
+ <p> I've had this camera for a year and it's still a wonderful, sturdy point-and-shoot that's small enough to keep with me at all times. Key features:2.0 MEGAPIXELSThis camera was a gift and had I bought one myself, I probably would have upgraded to at least 4 MP. Turns out 2 is just fine. I've printed photos as large as 8 x 10 with no pixelating. Resolution is wonderful. Color is accurate and resolution is quite impressive for this price range.MACROThe macro feature works amazingly well. For anyone needing sharp close-up photos, this camera delivers (perfect for Ebay sellers!!)USER-FRIENDLYThe interface is fairly intuitive, which makes this a good choice for those who would otherwise be uncomfortable with a digital camera. The viewfinder is bright and large enough to see what you're aiming at. Canon kept buttons to a minimum and its menu is easy enough to figure out without even reading the directions. I have family and friends who've spent twice the amount on a fancier camera, but they use it less because it's so confusing.LAG-TIMEThis is one of the A60's biggest drawbacks. The lagtime on my camera can be as long as two seconds, which makes it hard to capture "the moment." Within that time, the subject can close his/her eyes, move out of the frame, etc.VIDEO FEATUREShoots decent video, but of course, video's a memory hog, so be sure to have a bigger card (256MB minimum) or you'll be out of space quickly. Sound from 10 feet away is surprisingly good.SOFTWAREThe software is okay. I'm a Mac user and when I first got this, I used the Canon softare to view photos. Now that I'm using OSX, I exclusively use iPhoto, which is a profound improvement. Excellent organizational options, easy uploading for prints, and, true to Apple's nature, very user friendly.RECHARGEABLE BATTERIESDigital cameras eat batteries. Though rechargeables are expensive, they are money savers in the end and they give the environment a break to boot. Well worth the added expense. Be sure to buy eight rechargeables. The camera takes four, and you'll always have four charging. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brilliant point and shoot </p>
+
+
+<h2> review.date </h2>
+  10-04-2003  
+<h2> review.text </h2>
+
+ <p> Canon has caught all of the competition off guard by introducing the A60 with a virtually identical feature set as its high line G-series cameras but at a fraction of the cost.  Use the A60 for 10-minutes and any other camera in its price range will simply appear ordinary.  Here is a guarantee:  Nikon, Olympus, and others will shortly scramble to introduce low-cost cameras with the same fully-manual feature set as the A60.How well does it work?  I've owned mine for over a month and have nothing but excellent results.  My previous digicam (a Canon S10) was very good, but the A60 produces richer color photos and allows me to gain control over the critical features of the camera for special shooting conditions.  Most folks don't realize that 2-megapixel is a sweet-spot in digital camera performance:  it's the perfect resolution for printing up to 8x10 and the file sizes are small enough to allow rapid shooting without waiting for images to write to the Compactflash card.  And the Canon lens is superb.  Never underestimate the quality of the lens to make your photos great.  There are plenty of higher megapixel cameras with so-so lenses that produce poor photos in comparison to a lower megapixel model with quality optics.Try the A60 and you'll keep it.  Of course, you can wait a few months for all the other manufacturers to introduce their full-featured low-cost cameras, but why reward them for napping?  Choose the A60 as a way of thanking Canon for being the first to give us pro-sumer features at an entry-level price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The best of the bunch </p>
+
+
+<h2> review.date </h2>
+  08-19-2003  
+<h2> review.text </h2>
+
+ <p> I bought this camera to take on my vacation.  Initially I was going to buy the 3MP A70 but when that one wasn't going to arrive in time I went with the 2MP A60.The A60 is a great little camera with better than expected results.  I use it at it's maximum resolution and it's worked fabulous.  Images come out sharp, better than my friend's SLR photos.  Color quality and contrast seem to depend on where you have the prints 'developed'.  I have two sets of the same images that were done by different places and they look almost like different photos.  The camera works great in most lights (from bright sunlight to restaurant dim) and when I enlarged them the images did not get grainy at all.  Plus there's that added bonus of deleting anything you don't like.  I think my developer nearly had a heart attack when I told him I wanted all 135 images b/c I had already deleted the garbage. The camera also will not take an out of focus image... it either requires you to zoom out or to move a few steps.  This can be a pain but it keeps you from getting blurry images.  Even action shots come out sharp.The LCD screen is too small and in bright light (I was on a beach) it's totally useless.  Plus it deceptively makes your image seem farther away than it really is...a nice surprise when you get your prints back and they're MUCH closer. The only problem that -really- bothered me (which is why I give it 4 of 5 stars) was that there is a delay (enough for someone to walk in your frame or your subject to move) between when you press the shutter and when the camera actually captures the image.  Not a problem if you're taking photos of still things but can be a really issue when you're taking active shots.One recommendation is to buy a larger compact flash than what's included with the camera, especially if you're like me and use the highest resolution.  I bought two 128MB Viking cards (1 was a back up) and have had no problems and LOTS of storage space (I think 1 card would give around 200 images).  It's well worth the extra money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great camera from the price... </p>
+
+
+<h2> review.date </h2>
+  03-25-2004  
+<h2> review.text </h2>
+
+ <p> Those of us who do what we think of as &quot;serious&quot; photography often find ourselves caught up in the quest for more and more megapixels. Is 4 enough? 5? 12? Certainly if you're trying to produce exhibition-quality 8x10s and 11x14s you need as many pixels as you can stuff into a camera. But 90% of what I photograph never makes it to print; most of it goes on the web. And for the 72 dpi images that your web browser likes to display, 2MP is more than enough.There are a lot of 2MP cameras out there, as it's a perfect size for web, email and the 4x6 prints that are a standard for familay snapshots. It's a very competitive area pricewise, too. The A60 caught my for a number of reasons, not the least of which was my previous good expreience with my Canon G2:1. It takes AA batteries. Dedicated rechargeables are expensive, and there's no assurance you'll be able to get replacements a few years down the line. But rechargeable AAs are common and inexpensive.2. Manual controls. The A60 has nearly the same range of manual controls as my G2 or the newer G5. About the only thing it doesn't have is provision for off-camera flash.3. Video. It'll take video clips in a choice of resolutions4. Availability of underwater housing. You can get an underwater housing for almost all the Canons (the exception being, oddly enough, the semi-pro G series). I'm not a diver, but I do like to take cameras out kayaking and hiking in all sorts of weather. Until now I've used a Nikonos or *very* carefull taken my digital camera out of its protective case to take a few quick shots.5. Image quality. Canon has consistently been one of the top names for digital image quality, along with Nikon, Fuji and (to a lesser extent) Minolta.6. Ergonomics: It fits the hand nicely, with all the controls right where you need them. The viewfinder is sharp and clear.6. Price. All this comes at a price that is amazingly low when compared to the competition.In summary: An excellent value with excellent image quality and excellent ergonomics that will handle all the imaging needs of most people. You really can't go wrong buying one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A superb value </p>
+
+
+<h2> review.date </h2>
+  03-12-2004  
+<h2> review.text </h2>
+
+ <p> I'm writing this review maybe 20 minutes into owning and operating my A60, to provide some very out-of-box feedback for anyone looking for a &quot;first impression&quot; of the camera. And yes, this review is definately for casual photographers and starters.-2 megapixels? Not a problem. I've already snapped quite a few pictures, and I'm pretty pleased with the quality. As stated, our family's other digital is 3megs, and there's not much difference. I'm keeping it in highest resolution (1600x1200 Superfine), and at this resolution a 64 meg card will hold 61 pictures- which is more than I'm going to need at one time. Not to mention the camera itself comes with a spare 16meg card if you haven't gotten one for it. On our refridgerator we have word magnets (not much larger print than the text you're reading). I took a picture from across my kitchen and was able to read them off the image (note that this was in max quality). Unless you want to blow up portions of images or print off wall-size posters... this camera seems to have enough quality for most applications. If you're comparing cameras and the difference between numbers can save you some money, go with this one.-Software: With a few exceptions, it can be said that digital imaging devices tend to come with horrible software. For someone like me who has a little knowledge of photo editing, most all image programs perform the one necessary task- getting images off the camera and onto the computer. I personally probably won't even try the onboard software since I already have a means to edit and share my photos. If you really haven't ever edited photos before, then using the prepackaged software might be your only choice. And if you're a very casual user, the onboard software is probably going to do everything you need it to do. But if you have any software at all that you enjoy using for editing photos, it probably has an Import feature to get your pictures for you. Stick to that.-Overall saisfaction: All I was looking for was a replacement for the countless instant cameras I've gone through with my fiancee. What I got was a smart little camera that's more than worth what you pay. The assortment of features also makes it obvious that there's plenty of room to grow if you ever want to learn the finer arts of adjusting your pictures. With the excellent price, relatively simple startup, and overall quality, this camera is definately perfect for a beginner- while still having a little room for the more advanced photographer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Out of box impressions </p>
+
+
+<h2> review.date </h2>
+  02-04-2013  
+<h2> review.text </h2>
+
+ <p> upgraded to a higher resolution after a few years, but never had any problems with this powershot.  takes great pictures and easy enough for a low techie like me to figure out the many options and settings. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice little camera, </p>
+
+
+<h2> review.date </h2>
+  12-07-2008  
+<h2> review.text </h2>
+
+ <p> I bought this on August 2004 and had been using it a few times a month up until 2 months ago when it was stolen. It had been an extremely reliable camera and I was fortunate to not have encountered the problems some of the reviewers here have with the zoom lens retraction.Of course, the resolution of 2 Mega Pixels is pathetic by today's standards. In all other respects, this is an outstanding camera. The pictures taken with this camera are sharp and the colors are vibrant and natural.I am thinking of replacing this one with a very compactCanon PowerShot SD770IS 10 Mega Pixel Camera, which as of today can be had for about the same price. It has very favorable reviews, so you might want to look into that too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great In Its Heyday </p>
+
+
+<h2> review.date </h2>
+  10-13-2003  
+<h2> review.text </h2>
+
+ <p> I had an Olympus 520z, the images where never sharp.  At low light, the background were all too dark.  I Tried shooting at our tennis game and it was horrible when taking pictures with action.  Before, I had a 1MP Olympus 460 that produces sharper and better pictures.  I used to think Olympus as the best of the point-and-shoots, but the 520z changed all this.Next I got the Nikon 2100.  A lot better than the Oly520z.  Smaller and looks like really techie.  It is nice because of the size, really pocketsize although a little chunky. But still, I was not impressed on action photos. I do not know whether the size of the lenses has something to do with (Olympus has 2.8A max while Nikon has a 2.6A max) but both have very puny lenses which I suspect how much light can get in into it.These cameras both use only 2 AA which what I wanted for portability.  But my conclusion is, there is no camera around that uses only 2 batteries to have enough flash power to make a great shots.So, I settled with the 4-battery Canon A60. Although I will not  compare the images taken with my Olympus C3040 (C3040 has a fast 1.8A lens), the results are far, far superior than Oly 520z and Nikon 2100.  For the money, it is the best at this level.  The features are more than I expected for this price.  The lens is bigger, flash is more powerful, movie has audio, etc. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just the best! </p>
+
+
+<h2> review.date </h2>
+  10-22-2003  
+<h2> review.text </h2>
+
+ <p> I read many reviews before picking up this camera, only recently (after owning it for months) have I read one that talks about the lag time between the time you press the button all the way down until the picture is captured.  It's longer than normal and it will affect your shots.  But at least I know what causes the lag, charging the flash unit.  If lighting is enough where flash is not needed, no lag.  Fresh batteries don't make a difference.Other than that, I am satisfied with the quality.  For the price, you get what you pay for:  only stores pics in compressed (not raw) format, no aperature bracketing, etc.The movie mode is much cooler than I thought it would be though, love to take mini-movies of the kids (2 and 5 yrs) and show them (over and over).So: outdoor pics and movies *yeah*indoor usage *boo* - keep shopping.  Better yet, do what I should have - get to the photo store and wrap your hands around some cameras!  Don't listen to me, make your own choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> First real digital camera </p>
+
+
+<h2> review.date </h2>
+  07-04-2003  
+<h2> review.text </h2>
+
+ <p> Excellent, it's all you need. Just add a bag with it (it scartches eaily on the back), add a 128MB or 256MB card as recommended by Amazon, and get those 1850MH rechargable Kodak AAA, and you got a set for a little over $... It's so good, I got one for work, then after a couple of months use, another set for the family. I know everybdoy wants to look cool with 3.2, 4 or 5 meg pics, but if you are like us, and watch most of your pictures on a slide show on your Windows XP, or print them 4x6, then this is great. If you like the movie mode, the mic is great and the movie fun. Not super, but for $...bucks, you can't go wrong. Now if you like it fancy and cool, get the A70, but I know I like to upgrade and who knows, I might loose or break it, so this is lots of fun, super pics and low investement. Thanks Canon! (By the way, the lens is super and its a 2.8f, which is great!) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  05-10-2003  
+<h2> review.text </h2>
+
+ <p> Pro's1. Excellent features like video out, AA batteries, movie w/sound etc.2. Very competitively priced.3. Nice build quality, good looking and easy to grip.4. Lots of manual features like long shutter, aperture priority, shutter priority and full manual mode.5. Uses cheap CF cards.Con's1. Its 2 inches thick not 1.3, advertised specs exclude the protrusions like battery compartment.2. Not pocketable, very heavy with 4 AA batteries and thick.3. AF assist on Canon's is just a gimmick, it doesn't help camera focus better.4. Soft images, many of them out blurry/out of focus.5. No charger or rechargebale batteries in the box.If you want manual controls then the A60/A70 are the only ones. Otherwise there are some other good cameras like Nikon 2100/Sony P72/Olympus D-560/Fuji 310/Canon S200 etc to consider. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lots of manual controls! </p>
+
+
+<h2> review.date </h2>
+  09-12-2004  
+<h2> review.text </h2>
+
+ <p> Well, I have had my camera now for 12 months and still have not encountered any probs yet. I am so impressed with the funtionality and picture results from this little wonder. I thought about upgrading to a newer one , but I am actually very satisfied with the resolution compared to other 3 and 4 megapixel cameras. Some camera's will have bugs just like cars and other mechanical items. The error 18 comes up (I researched this) from the zoom lens not fuctioning because it is physically broken (being dropped onto a hard surface) this camera as well as any electronic product must be handled with care (hand strap). As far as grainy or dark pics, get to know the camera, the flash range is only 8 feet like most other built in flashes. Learn to use the other features to compensate for non optimal shooting situations, practice, practice, practice. Oh, and a can of compressed air works well to remove dust from the lcd screen and the lens, use periodically as you would on any camera for best results and satisfaction. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best bang for the buck!!!! </p>
+
+
+<h2> review.date </h2>
+  09-13-2004  
+<h2> review.text </h2>
+
+ <p> I bought this as a camera to keep in my car to have available when I go geocaching.  My main camera is (was) a Kodak LS443, and I wanted to leave that camera home for my wife to use for the normal kid shots.I haven't printed any pictures from the camera, but I've been very happy with the pictures it's taken.  The pictures actually look a lot better than my 4MP Kodak.I was used to the washed out images I got when using the Kodak's flash.  This isn't a problem with the Canon's.Since my Kodak recently died, I'm thinking about replacing it with the Canon A95 in this same family line. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great inexpensive camera </p>
+
+
+<h2> review.date </h2>
+  06-13-2005  
+<h2> review.text </h2>
+
+ <p> I purchased this camera almost 2 years ago. 6 months ago, it displayed the first occurence of the E18 error (problem in the lens mechanism), but recovered. It did that again last week and could not recover. Both times, it happened when I was on vacation. Search the web for E18 and you'll know what I mean. So, now I have a useless paperweight not worth spending money to get repaired. Now I will go for another canon, but an older model with a digital-only zoom, for 2 reasons a) the optical zoom on the A60 has give me enough grief, b)to keep using my 2 CF cards, since the latest cameras do not accept CF cards. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beware the infamous E18 error </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B003FXM4IA <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> PRACTICAL KEYBOARD </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-02-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very effective keyboard for lowvision users. The color and big letters size are big help. Service was excellent, fast and well packaging item. Thanks. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> AS described and pictured </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This keyboard is great for those of us who are reticent to use our reading glasses.  Bright as can be.  Only suggestion is that &#34;they&#34; include descriptions of every key's functionality in the instructions, as there are some missing.  Good news:  I called the manufacturer and a very pleasant customer service agent looked up the keys and told me what they &#34;do&#34; (she didn't know either!).I would recommend this for the function it was designed for. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Easy to see. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-28-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Keys are easy to read with the bold characters, and high contrast background.  Perfect for someone like me with low vision. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> nice look but.. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-11-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like the look, I like the large letters and the yellow.Cons: sticky keys, keys jam, some do not respond right away.was not the greatest and will not get again. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great idea! Excellent deal! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-28-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> A wonderful idea for anybody,my favorite color combination.Good quality as always from Maxell,at the best price,as always in Amazon.I recommend it,speciially,for seniors. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun gag gift for gamers. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-30-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> My friends and I are computer gamers, so we know crappy keyboards.  I bought this as a gag gift for my friend and can't wait to see his expression.Now in terms of QUALITY.  This keyboard feels like it could break if you type at about 70 WPM or more.  You know those toy pianos you buy for kids?  Well those have more durability than this.The drivers did install without any problems.  Just plug it in and give it a few minutes to do its thing.So who is this product good for?People who have a hard time seeing and type VERY slow, or someone who just wants to buy it for giggles. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> You get what you pay for </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The keyboard is light and feels cheaply made.  The letters are as advertised - easy to read especially in low light.  This is the reason why I bought the thing.  You really have to press the L key hard to make it respond.  You get what you pay for. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Maxell Keyboard </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The keyboard showed up today and when I pluged it in there was  nothing for me to do but use it, I like that no disk to install or configure. The board is different thatn the last one so it will take some time getting used to it but so far so good! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great keyboard for the elderly or for people with bad eyesight. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-22-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is an excellent keyboard for seniors and children. people who want to be able to see what the keys are will be very pleased. only complaint is that some of the additional function keys such as page up and page down or page break and stuff like that uses 2 letter abbreviations. works great and is durable. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for the visually impared </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased this for someone who is visually impared (essentially legally blind) and the difference it made for their computer use was significant. Very easy to read labeling coupled with a sturdy construction makes this a top notch keyboard. The keys feel weighty, the board itself isn't at all flimsy, and the labels themselves aren't cheap stickers but well applied and look like they'll hold up to years of use. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Can you see it now? </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Works perfect for any senior or person having a difficult time seeing the keys.A very nice product hands down!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very badly made </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I had high hopes for this keyboard, and the look of it when I opened the box only raised them further, since the keytop lettering is extremely nice. But it's way too poorly made. Some keys stick, others don't respond, the whole thing clatters in normal use (maybe to remind you how cheap it was), and the hard plastic wrist rest is pointless unless you also have hard plastic wrists -- and it's integrated with the keyboard, so you can't remove it to make room for a better one.Unlike many of the positive commenters here I actually DO touch-type, and that probably means I'm not the target audience for this device -- which appears to be crotchety old grandpas still using one-finger hunt-and-peck. (And if you're wondering why a touch-typist would want a large-type keyboard, you probably aren't aware of how often a programmer uses the the non-alphabetic.) Bottom line: Nobody should have to use a keyboard where you suddenly find yourself inadvertently typing in CAPS because you didn't hit the Shift key just so, or worse yet, unintentionally selecting a big block of material because the Shift key stuck and you hit an arrow key for a legitimate reason.One star is generous. It's trash. It's also just barely too cheap to justify the hassle and cost of return shipping. And yknow, recently I see lots of items like that for sale online -- vendors must realize they'd be swamped with returns if the items cost a bit more, so they price junky stuff just low enough to sucker you in and make you not bother demanding a refund. That way the extra volume puts them ahead regardless. Beware. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Keyboard </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This keyboard is great for my old eyes. Keys have a nice feel to them as I type. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> They work </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Simple and they work. They serve the purpose of what we need them for. No issues thus far and have had them for over a few months. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> keyboard </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> i just love this keyboard. i have bad eye site and this works great. even though it doesnt glow or light upn i can still see it at night </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> nice larger letter keys on keyboard  customer happy so  AAA ++++ shipped quick too </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I liked it customer need a keeyboard they could read the letters just a little different lay out but they got use to itnice keyboard for someone that meeds  keys to be seen </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Can't go wrong </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bought this for a golf buddy as a joke, but he loved it! Been a year and still using with no complaints... And he complains about everything! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> BEST KEYBOARD IVE EVER OWNED </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> LOVEEEEEEE IT...BEST KEYBOARD IVE EVER OWNED..AND ALL THE KEYS STILL WORK..YAYYYY..WELL WORTH THE COST </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Maxell Large Print Keyboard </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoy this keyboard. An excellent replacement for the traditional black keys with small white letters. On the plus side, I often work or internet surf at night and do not need to turn on a lamp to see the keys. The ambiant light from the monitor is enough to see the keys therefore what I am viewing on my monitor is not diminished by the light of a lamp. For the price I highly recomend this product. For the price it is a great buy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> PERFECT large print keyboard! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you have a vision disability and want a keyboard with large, easy to read print, this is an excellent choice. The keys are normal size so you can touch type. The print is matt, so there is no glare. The keyboard has a good &#8216;feel,&#8217; much better than you might expect for a board that costs less than $20. And as a free bonus you get a row of hot keys which, with Windows XP will launch your browser and email programs and control multi media. I'm ordering a second one because a large print board this good is hard to find! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works well--easy to see. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Sometimes you get what you paid for sometimes you don't.  Compared to the &#34;keys u see&#34; keyboard I tried, this one is head and shoulders better.  Quality is really good and THE KEYS DON'T STICK OR NOT WORK on some applications like the other brand did..I RECOMMEND THIS AS A GREAT VALUE FOR THE PRICE! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Junk </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Don't even think about buying this junk there are other alternatives!This should not be on Amazon I don't know why they just so not listen! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good full sized keyboard </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I don't like all the small boards which seem to be all one finds at the discount store these days.  It looks funky, but that's a plus to me, too.  Someday I'll even set up the shortcut keys above the function keys. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Easy on the eyes </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this for a friend whose vision is not what it once was.The large letters stand out on the keyboard.Very helpful for those who are vision impaired. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Maxell Large Print Keyboard </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-29-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Pretty much a basic keyboard with large, easy to see key characters and basic hotkeys. This one is yellow colored which I like for the contrast. hookup was easy with the adapter supplied from my old board or it can be plugged into USB port directly. For the price, even if the lettering wears off after a year's worth of use, it's not that expensive to replace. My "hunt & peck" typing method seems to work well with the key set up and key pressure. After several days of use, I haven't had a problem with it yet. Recommend it for those who need a large print basic keyboard.A side note that this item, was purchased through Amazon using Super Saving shipping. Keyboard was delivered in 3 days! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great product! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great product! Bought this for my Mom who is in her 80's. I was a little worried after reading some reviews. I waited a good bit of time before posting this review to make sure the keyboard was working well.  Item works exactly as described. I would definitely buy this item again. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

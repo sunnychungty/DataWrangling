@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00A7Z0WQ0 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-07-2014  
+<h2> review.text </h2>
+
+ <p> While its not near as well built as the original APPLE, it is perfect for what it is. For the price it can't be beat.The extra function buttons worked straight out of the box. Very happy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great replacement for OEM </p>
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> Works perfectly, just wish it has a trackpad. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compatible! </p>
+
+
+<h2> review.date </h2>
+  07-13-2014  
+<h2> review.text </h2>
+
+ <p> Great keyboard looks and feels like an apple and has got nearly all the same keys in the same positions. The reason I give it 4 stars, the top row of keys are a little confusing because some of them are slightly different. But for the average user, those keys aren't of any use so I would defiantly recommend it anyone looking for an affordable keyboard.Reviews you can trust,Tubbs Media Productionswww.TubbsMedia.com </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works with Mac, and looks like an Apple </p>
+
+
+<h2> review.date </h2>
+  05-09-2014  
+<h2> review.text </h2>
+
+ <p> If you want a cheap, sturdy keyboard, GET THIS. I am using one now and I ALWAYS keep a spare for a backup. Simple to use and has all the keys in the right places! I will shop here again! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT! </p>
+
+
+<h2> review.date </h2>
+  05-15-2014  
+<h2> review.text </h2>
+
+ <p> My last mac keyboard was destroyed and many of they keys were not functioning. This is an excellent replacement for a feasible price. Also matches the look and feel of a mac. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good replacement </p>
+
+
+<h2> review.date </h2>
+  12-06-2013  
+<h2> review.text </h2>
+
+ <p> Inexpensive substitute for a Mac. It works well, though the keys are a bit "clacky" sounding.My Mac Mini didnt recognize it, and had to be "calibrated". Not an issue, took less than 10 seconds.Feels cheap, I doubt it will last, but for the price, it will do until I get an Apple replacement board. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for the price </p>
+
+
+<h2> review.date </h2>
+  02-11-2013  
+<h2> review.text </h2>
+
+ <p> Keyboard works fine, but there is no USB port to plug in a mouse. (I don't use wireless, don't like it and never will.) I've never seen a USB Mac keyboard without a mouse port, so I wrongly expected this one to also have one.As most Mac users know, Mac has never provided adequate USB ports. Two used to be standard. Awhile back they increased to three, hardly something to celebrate. So I have a mouse in one, keyboard in the second, and one left for all other items - flash drive, external hard drive, printer, external DVD burner, etc. I'll buy a hub, but I could have managed well with two open ports for a long time.The great features: function, typically perfect Mac keyboard with key placement in exactly the right places, ease of use ... all are super. That earned two stars. The major, major flaw is no USB for a mouse. It's not a wireless keyboard, so neither is the mouse, that lost three stars.What WERE they thinking?-Patricia </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No mouse USB </p>
+
+
+<h2> review.date </h2>
+  07-14-2013  
+<h2> review.text </h2>
+
+ <p> This is a very nice keyboard that works well.  It is also one of the only inexpensive ones I could find for a MAC that had the "eject" button on it.  I use it on my music server and couldn't be happier with a different one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Plastic but so what </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> It's certainly not the name brand mac keyboard and it does have it's hiccups but I'd take this any day over a random windows based keyboard or the mac bluetooth keyboard (nightmarish). The play/pause functions still work so you don't have to flip through programs to mute something and while it's not as nicely shaped as the mac keyboard it's still pretty comfortable. There's a definite click clack of the keyboard which you have to get used to and it doesn't have the USB connections but it's also $30 +/- cheaper. Lots of give and take... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic replacement for the cost! </p>
+
+
+<h2> review.date </h2>
+  02-16-2014  
+<h2> review.text </h2>
+
+ <p> Great buy for the money. Looks Apple-inspired, and keyboard works very well. Only thing I wish is that it had USB hubs on it, BUT, it wasn't advertised as such, so nothing wrong with that at all. Great buy for the money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wish it had a USB hub </p>
+
+
+<h2> review.date </h2>
+  07-28-2013  
+<h2> review.text </h2>
+
+ <p> My staff really like the touch of these keyboards. Bought 5 of them instead of overpriced Apple keyboard. Everyone is happy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great keyboard </p>
+
+
+<h2> review.date </h2>
+  03-10-2014  
+<h2> review.text </h2>
+
+ <p> The price is right, and it's nice to have an extra usb keyboard around to use with my laptop.  plus it looks good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> so far so good. </p>
+
+
+<h2> review.date </h2>
+  05-05-2014  
+<h2> review.text </h2>
+
+ <p> The only reason why I'm giving this three stars instead of a lower rating is because it was so cheap.I'm a current computer science major, which means two things. One is that I type a lot. Another is that I'm a broke college student, so I opted for this cheap alternative to the Apple keyboard. I'm regretting my decision now. It would definitely be worthwhile to buy the pricier Apple keyboard, which is well made, comfortable, has the desired function keys, and would definitely last longer than this keyboard.The keyboard works fine, but it's not comfortable for long periods of typing. It feels cheap, and the keyboard is quite thick so if your wrists are resting on the same flat surface as the keyboard it's not ideal. The keys don't require a lot of force to depress, but they have to be pushed in farther than the keys on an actual Apple keyboard.There are some function keys, but they none of them are launchpad or mission control, which are usually present on an Apple keyboard. Some of they keys included are cut, copy, paste, close window, volume, music controls, eject and zoom.If you're only going to be typing casually, for short lengths of time, and don't want to invest in a much nicer and higher quality Apple keyboard, then this might be the correct decision. Otherwise, pay more for something better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Functional, but not great </p>
+
+
+<h2> review.date </h2>
+  01-03-2014  
+<h2> review.text </h2>
+
+ <p> Not as nice as the genuine apple version, but really close. My only downside is that it feels a little cheaply made and doesn't have the the USB ports on it like the apple version. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Keyboard </p>
+
+
+<h2> review.date </h2>
+  07-06-2014  
+<h2> review.text </h2>
+
+ <p> Bust off the key in the top left that closes your current window and you're good to go! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great, but </p>
+
+
+<h2> review.date </h2>
+  01-05-2014  
+<h2> review.text </h2>
+
+ <p> I am just getting into Mac products with an inexpensive old refurbished mac-mini, and didn't want to do the very pricey Apple keyboard. I did want the functionality of the Apple keyboard. So this was a great deal to get all the functionality at a fraction of the price. It is not the same as the apple keyboard in high tech quality/style, but it has all/most of the functionality with specialty keys to take advantage of the Apple hardward/software items, as well as doubling for a PC keyboard if needed. Plug and play! I was happy with this today on the first day of use, as well as Macally's inexpensive plug in play mouse I bought with it. The only reason I didn't give it 5 stars was that it isn't the full artistic style of the Apple Keyboard, but I don't mind that at 1/5th the price! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mac-like, Cheap price </p>
+
+
+<h2> review.date </h2>
+  12-27-2013  
+<h2> review.text </h2>
+
+ <p> I bought this based on all of the positive reviews and user feedback. The keyboard works fine and it's nice that it's made for Mac and has all of the right keys. I didn't have to install any drivers and the special function keys (volume, mute, etc.) work well. What surprises me about this keyboard is how cheap it feels. When I'm typing on the keys they feel like the cheapest plastic imaginable. The resistance is okay, and I'm able to type pretty well on it, but I don't think I'm going to quickly adjust to feeling like I'm typing on a toy. I suspect I'll end up switching to something more substantial. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job, but feels really cheap. </p>
+
+
+<h2> review.date </h2>
+  10-23-2013  
+<h2> review.text </h2>
+
+ <p> great keyboard for those who are trying to replace their iMac wireless keyboard (I was tired of replacing batteries), and also for macbook using an external screen (macbook lid closed for external main display mode). shipping was quick with Prime (ordered monday, arrived wednesday). very happy with the buy. highly recommend it to others. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Macally 103 key Mac keyboard </p>
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> This keyboard has a good feel (in my opinion), includes all the Apple special keys, and looks nice.  For the price it is an excellent deal! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Keyboard! </p>
+
+
+<h2> review.date </h2>
+  05-02-2014  
+<h2> review.text </h2>
+
+ <p> The plastic feels solid. I'm not quite sure why it came with a sticker covering the whole keyboard, but the keys feel solid.I wish the LEDs were white to match the mac, but it's a great keyboard for the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great, affordable keyboard </p>
+
+
+<h2> review.date </h2>
+  01-05-2013  
+<h2> review.text </h2>
+
+ <p> bought this to replace the bluetooth keyboard with a Mac Mini that kept losing the connection. Best thing is that it does have the MAC keys on it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great replacement </p>
+
+
+<h2> review.date </h2>
+  07-11-2014  
+<h2> review.text </h2>
+
+ <p> I bought this for my mom and she is happy with it.  I personally don't like the raised keys - but if you are going from PC to Mac, you might be more comfortable with a keyboard like this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Raise keys a good transition </p>
+
+
+<h2> review.date </h2>
+  06-27-2014  
+<h2> review.text </h2>
+
+ <p> its a keyboard. does what its supposed to. about all i can say </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works </p>
+
+
+<h2> review.date </h2>
+  01-22-2014  
+<h2> review.text </h2>
+
+ <p> This keyboard works really well.  I like the feeling of the keys, and I love the shortcuts at the top of the keyboard.  Cut/copy/paste are great shortcuts to access with such ease and I miss them when I use other keyboards that don't have them! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1484854160 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-24-2014  
+<h2> review.text </h2>
+
+ <p> what an emotional rollercoaster. couldn't put the book down can't wait for the second one, love how the writer makes you feel what the main character feels and really hits you in the heart. so breathtakingly well written and anticipating the next in the trilogy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rollercoaster ride from page one </p>
+
+
+<h2> review.date </h2>
+  07-23-2013  
+<h2> review.text </h2>
+
+ <p> This is a highly enjoyable read, I loved the way this author knows how to stimulate emotions in her readers. Piper suffers abuse at the hands of her mother who should have been protecting her. Since then she tries to heal even though she feels &#34;diseased&#34; and unworthy.Evil intervenes again in her life setting her on a course of abuse once again. However, life has a way of making its own miracles and she finds herself fighting for her loved ones, can Piper survive the odds against her?A hugely gripping read and I would have awarded 5 stars if it had been proof read and typos and grammar corrected. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Totally absorbing </p>
+
+
+<h2> review.date </h2>
+  10-02-2013  
+<h2> review.text </h2>
+
+ <p> Fade to Black is primarily about Piper Mitchell, who at 11 years of age is removed from her grandparents' loving home and all but sold by her drug-addicted mother to a pedophile boyfriend. Piper manages to escape but not after hideous acts. As a result of her torture, Piper turns to drugs, self-mutilation and when she finally finds someone to love and who loves her, he is tragically killed. She eventually marries but her husband turns out to be a wife beater and criminal of the number one order. A third of the way into the book, Piper's story is put on hold as the author introduces another major character, Ryan Knox, who has his own demons to contend with. Once Ryan's story is related, the author brings the two characters together, spurring the plot into another direction.If it weren't for Piper's and Ryan's characterizations and the emotional impact of the storytelling, Fade to Black's storyline could easily have turned into a soap opera. There was so much evil but M.C. Webb made the story and events believable. She wrote at length about each of the major characters, telling their individual stories with care, precision, authenticity, and without any judgement. She then brought the characters together, turning the story toward the promise of hope.Even though some events in Fade to Black were anticipated, there were many surprising twists and turns, which hooked me and kept me reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fade to Black Review </p>
+
+
+<h2> review.date </h2>
+  10-03-2013  
+<h2> review.text </h2>
+
+ <p> The title, Fade to Black, is catchy, poetic. I might have passed this book up, however, because the title suggests a slide into personal tragedy. I was pleasantly surprised that even though the main characters suffer, this is a story of how damaged people struggle to overcome immense pressures rather than wallow in defeat. Enough decent people with inner strength exist to lift the story from the dregs of depression.From Page One, we are pulling for Piper, the female protagonist. She is damaged when at age eleven her father dies and her mother and her mother's boyfriend brutalize her. The sickening incidents are narrated rather than shown as detailed scenes, for which I am grateful. Physically she escapes. Mentally she struggles to overcome the ruin of her sense of self worth.Then there is Ryan, the male protagonist. He realizes his dream to become a movie star, only to discover that fame is hell. How can he escape his fans who are deadly in their devotion.Ryan suffers from too much adoration; Piper suffers from too much hate. Both are driven to apparent self-destruction in their efforts to survive. They are self medicating by seeking refuge in drugs, alcohol, or self mutilation as a way toward normalcy. Salvation comes in the form of good relationships. Solid friends and relatives help to guide Ryan and Piper to wholesome living. One of several who help Piper is my favorite character, Nana, who is wise and compassionate, the kind of person I like to emulate.Eventually Piper and Ryan have each other. The detailed sex scene between Piper and Ryan is a contrast to the narrative that glosses over most of the story.The narrative quickens the pace, so the story never stalls. Some transitions, however, are so quick and subtle, the reader has to backtrack. One moment, Ellie is 4 and suddenly she is 8. Sometimes we don't have the preparation we need. For example, Piper meets Ryan once and then ten years later, having never heard what was going on with him, suddenly she is involved with and concerned about his health. Part of the story is missing. When did she learn of his drug addiction before the two of them meet again?Nevertheless the author handles well the reader's anticipation of Piper and Ryan meeting for the second time.Eventually Piper grows stronger, more confident, and happier. The struggle, the love, and the glossing over of the evil acts, lift this story from unrelenting darkness. However I am disappointed that the litany of "I'm no good" isn't replaced in Piper's head with "I am loved. I have worth." We know she loves, is compassionate, and protective. Piper is like the finest silk who considers herself a dirty rag, desiring only to be tossed against the threshold to protect loved ones from a poisonous draft.The story has its fine points, but there is no escaping the need for more proofreading to clean up errors.The writing is often reporting, with only a few scenes developed, mostly the positive scenes and the climactic scene. But even the climactic action scene has missing details, which leave the reader wondering what happened or how this situation ended as it did. The action scene near the novel's end has only a hint of preamble and a muddy ending. Joshua--family friend and protector--comes to the rescue, supposedly blowing away the antagonist. Afterward we discover Joshua is injured and the antagonist is still a threat. How did that happen?And then we have Piper's noble deed, understandable, but leaving us with a cliff hanger.I don't like novels to end in cliff hangers, with the story to be continued in a following novel. Do I read the next book because I love the characters or because I love the story?I'm left thinking this is a melancholy tale. Like the "she or he-done-me-wrong" sad song. Some find comfort in sadness, treating it like an old friend. I loved Piper's and Ryan's victories. I wanted them to come into the sunshine of life and stay there.This story is mostly a report. But fascinating. It is intense and compassionately written. The main characters are likable and convincing. The author gives us a sensitive and stunning insight into different lifestyles. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> insightful and compassionate </p>
+
+
+<h2> review.date </h2>
+  06-21-2014  
+<h2> review.text </h2>
+
+ <p> Love love love this book.Had not had much time to read the last couple years but I was thrilled this was only my second book back and I remember why reading was such a huge part of my life before. I can't wait to read the next two in the series </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thank you </p>
+
+
+<h2> review.date </h2>
+  07-04-2014  
+<h2> review.text </h2>
+
+ <p> but could not find the next book to follow </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Four Stars </p>
+
+
+<h2> review.date </h2>
+  06-18-2014  
+<h2> review.text </h2>
+
+ <p> why did u not finish this book. I enjoyed fade to black very much, but I hated when it the end, when I know it was not. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fade to black. </p>
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> I liked this book a lot. I didn't want to put it down until I finished it. It is told from different viewpoints and has a wonderful plot. I would recommend this book as a good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good book. </p>
+
+
+<h2> review.date </h2>
+  08-02-2013  
+<h2> review.text </h2>
+
+ <p> WOW! All I can say is just Wow!This story is definitely one that you could actually see playing out in life. Horrible abuse opening up reveal to the healing strength of a family's love and endless support.This has been an incredible story. My heart ached for a little 11yo. girl who had just lost her father she idolized and then was tortured beyond belief at the hands of her mother. The twists and turns of her life, her love for Matthew and his death right up to finding love again with Ryan. Definitely an emotional roller coaster. I found myself torn - as I cried and rejoiced with each move up and down the storyline took. The characters were creatively thought out and their personalities flowed well. And the ending - what a cliff hanger! I have to have more!It's definitely one series that has to be seen to the ending! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Couldn't put it down... </p>
+
+
+<h2> review.date </h2>
+  06-27-2014  
+<h2> review.text </h2>
+
+ <p> I know it is part of a trilogy but hoped it would be a more satisfying ending.  It's a bit hard to read this first one because of the &#34;Perils of Piper&#34; but her faith gives a clue that somewhere down the road everything will be all ok.  I didn't see any hint of when the next part would be available or if it is already available. I hope I don't miss it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ...but I wish I had read the reviews first. </p>
+
+
+<h2> review.date </h2>
+  06-22-2014  
+<h2> review.text </h2>
+
+ <p> I love it ... I cried, I laughed, I hoped, and I died. Every emotion that is felt through this book I also went through it with them. I mean to know that Piper was getting hits with bad experience s left and right and still came out a winner is eye opening. Ryan you also felt his pain and anger, I love though how they survive together when times were rough. I recommend this book to every person I can think of 18yrs and up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Still in shock </p>
+
+
+<h2> review.date </h2>
+  06-18-2014  
+<h2> review.text </h2>
+
+ <p> umm seriously all I can say is &#34;Wow&#34;.  This book was tragic but the story just blew me away I could not stop reading..there were some slight editing mistakes but nothing an experienced reader couldn't skip over.. Beware this is a dark story and some readers will not be able to read it. But this is a story  with a  cast of characters that might start off seeming weak, but actually are very strong.  I cannot wait for book 2 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> wow </p>
+
+
+<h2> review.date </h2>
+  06-22-2014  
+<h2> review.text </h2>
+
+ <p> This book held my attention from the start to the finish! So many hardships to overcome! And she did overcome them! The book ends and leaves you ready for the next in this series! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ready for book number 2! </p>
+
+
+<h2> review.date </h2>
+  06-20-2014  
+<h2> review.text </h2>
+
+ <p> This book held my attention from the beginning.  The horror this girl had to endure was heartbreaking.  I am anxious to read the next installment.  Hopefully, someone did a better job of editing.  The typos and errors in this book were very distracting and irritating. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Strong, Emotional Read </p>
+
+
+<h2> review.date </h2>
+  09-20-2013  
+<h2> review.text </h2>
+
+ <p> I had the opportunity to Beta Read this book. I was instantly intrigued, and I could not put it down! This story was so raw and gritty and heart-wrenching. My emotions were all over the board. There were times that I was actually yelling at the book, and a few pages later I was in tears. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Extremely Emotional Book....Not for the weak hearted </p>
+
+
+<h2> review.date </h2>
+  11-10-2013  
+<h2> review.text </h2>
+
+ <p> I was very impressed with Ms. Webb's work. She did a fantastic job weaving suspense and tension throughout while instilling empathy for her main character. After "Fade to Black" took off, I lost track of time, focused only on the characterization and the plot. My only real qualm with the work was the first 40 to 50 pages. I felt like it could have been streamlined for greater fluidity without losing its essential introductory qualities. Other than that Ms. Webb's prose is solid, her protagonist felt dyanmic and I definately felt dread and worry for her throughout the work. As an author who attempts to employ suspense and drive characterization through terrible encounters and challenges; I was able to greatly appreciate the work Ms. Webb has done here. I will be looking foward to reading the next book in the series and will definately recommend this novel to fellow readers and writers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Suspenseful and Entertaining </p>
+
+
+<h2> review.date </h2>
+  06-23-2014  
+<h2> review.text </h2>
+
+ <p> Full of gripping emotion and heart pounding fear, if not for the cliffhanger ending, I would have given it more stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> thrilling and exciting </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

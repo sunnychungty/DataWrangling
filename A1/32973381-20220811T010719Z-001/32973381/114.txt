@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B005TDWX2Q <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-27-2012  
+<h2> review.text </h2>
+
+ <p> Love the style, color and use. The Belkin case for my Ipod Touch works perfectly. I have good and easy access to all the buttons and for my camera. I feel it adds the needed extra protection in case I drop it. I also like that the silver Ipod back will  not get scratched up because of the thickness of the case. Everyone should have one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it! </p>
+
+
+<h2> review.date </h2>
+  01-31-2012  
+<h2> review.text </h2>
+
+ <p> For those of you who like the soft grip iPod covers, this one is a really good choice. It's sturdy, fits snugly and is made of easy grip materials that cover the iPod well and it has a very snazzy design. I have a black cover that is just like this cover, but I like the design a lot more than just the plain silicone covers.I also have a hard cover that gives me piece of mind for the protection of my iPod but I like that I can charge my iPod while this cover is on and I can't with the hard cover. This is a sturdy, nice looking cover that works great and has a no slip grip that the hard covers don't. I tend to not drop my iPod, and I can't remember dropping it, but this one does keep the back from getting scratched up and it works very well. The design is very pretty on the back. Good, soft iPod cover for those who need an inexpensive but good quality cover. Recommend for kids iPods as well. The iPods tend to bounce a  little bit with the soft covers but with the hard covers, the hard covers tend to snap apart upon impact. While I don't drop my iPod, my kids have dropped theirs and a cover for a kid's iPod is a must have-this one will do the trick of keeping any iPod 4 protected. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice - No Slip - Easy Grip Cover </p>
+
+
+<h2> review.date </h2>
+  02-03-2012  
+<h2> review.text </h2>
+
+ <p> My son has an Ipod touch that he had a cheap plastic cover over it.  The Ipod is thin and sleek and a cover to make it a bit easier to hold will help.  This is a really nice cover that even goes over the front of the Ipod touch (at the bottom where the button is).  I'm hoping it lasts a while but my son usually manages to destroy everything he gets his hands on.  He really likes his Ipod so I'm hoping that it doesn't happen with his silicon cover.  The design reminds me of spotlights. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Soft, supple, and really attractive </p>
+
+
+<h2> review.date </h2>
+  02-04-2012  
+<h2> review.text </h2>
+
+ <p> This case is made of very soft silicone material and feels very cool to the touch. It's so smooth but isn't slippery to hold on to. It provides grip which is great when you are playing games. This case fits my iPod perfectly and it protects the iPod very well. It covers the entire back which is the most likely area to get scratched. It also covers the entire edge and the bottom part of the front where the button is. It has a cut-out for the camera. It has markings where the volume and power buttons are but they are fully covered. You can still sync or dock your iPod without removing this case as well. I absolutely love this case and would recommend it to anyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits like a glove, well made, provides great protection for front and back, cool design. This is my favorite iPod case so far. </p>
+
+
+<h2> review.date </h2>
+  05-17-2012  
+<h2> review.text </h2>
+
+ <p> This is a great case I Love the design and I like that with silicon you can have a grip on it, my iPod fall down 2 times and nothing happened to it,  so this case protects a lot.would recommend it to anyone </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Case </p>
+
+
+<h2> review.date </h2>
+  01-23-2012  
+<h2> review.text </h2>
+
+ <p> The Belkin Essential 051 Case is light, rounded as without edges, relatively soft, flexible and thin exactly as much as needed for protection (below 1/16 inch), fits perfectly, not slippery, does not cover anything requiring direct access including controls and dock connector allowing charging while in case, has very functional protrusions covering the buttons and allowing to feel and press them as without the cover, and has a very nice pattern that will mask marks of use. The pattern is flush with the background, though it makes a texture that can be felt. The surface is not sticky and does not attract grime, though it can be easily washed in the unlikely event. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect: functional, practical, and aesthetic </p>
+
+
+<h2> review.date </h2>
+  02-23-2012  
+<h2> review.text </h2>
+
+ <p> It's hard to find anything not to like about this case.  It's sleek, it's stylish, and it protects an iPod Touch 4 nicely.  I like how the case is just slick enough to allow you to slide your iPod into a pocket, but just sticky/tacky enough to allow it to stick to your hand without sliding out.  It is also a perfect fit for the iPod Touch 4.If you're willing to fork over a few more coins for a premium case, this is an excellent choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Very Nice Premium Case </p>
+
+
+<h2> review.date </h2>
+  01-24-2012  
+<h2> review.text </h2>
+
+ <p> The Belkin Essential 051 works exactly as advertised. Not only does it help protect the iPod Touch when dropped, but it also allows easy access to docking, buttons and (best of all) doesn't block the camera lens! It has a nice "grippy" feel to it and it fits the iPod Touch like a glove. If you have this, along with a screen protector, you should be well protected! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Grip, No Slip! </p>
+
+
+<h2> review.date </h2>
+  02-16-2012  
+<h2> review.text </h2>
+
+ <p> This case fits my iPod Touch 4 perfectly. If you like the design, I'd go with this case; it looks goos and works as intended. That's all you can really ask for in a case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun Design, Fits Perfectly! </p>
+
+
+<h2> review.date </h2>
+  02-02-2012  
+<h2> review.text </h2>
+
+ <p> This case has such appeal.  I love the colors.  The material feels more durable than other silicone cases I have had.  It's still soft, not like hard plastic. It does have texture where the pattern in. It fits snug over the ipod perfectly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love the colors </p>
+
+
+<h2> review.date </h2>
+  02-03-2012  
+<h2> review.text </h2>
+
+ <p> This product is just as described.  Looks great, durable, easy to put on.  It doesn't work for my Ipod (1st generation), so I passed it along to my niece who has an iPod touch.  Love the look, though! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> As expected </p>
+
+
+<h2> review.date </h2>
+  02-04-2012  
+<h2> review.text </h2>
+
+ <p> The Belkin Essential 051 cover for iPod touch 4G is a soft silicone case with very contemporary laser-etched turquoise blue graphics  against a black field.  It allows full use of all controls and ports while giving some protection to the iPod against damage.  The texture is rubbery, very easy to grip and pleasant in the hand.  It is easy to put on and remove but doesn't come off during use.This bold pattern is not my favorite but it certainly makes it easy to spot on a cluttered surface.Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bold graphics and a rubbery feel </p>
+
+
+<h2> review.date </h2>
+  01-29-2012  
+<h2> review.text </h2>
+
+ <p> There are some EXTREME problems with this product.  I don't mean pretty bad, I don't mean quite bad, I mean extremely bad, as in just plain comically inexcusable.But first, the good points.>> PLUS >> The case -- Belkin F8W043ebC02 Essential 051 (Silicon) [sic] Case for Apple iPod [sic] Touch 4G - Fountain Blue -- is just exactly the right size.  It makes a tight fit along every surface and every seam and every corner.>> PLUS >> Yet it's easy to apply and remove.  As you'll see, that makes a difference extremely often.>> PLUS >> The design and color are attractive, and I have it on the word of a 17-year-old girl who just last night bowled a three-game 172-average that they are popular with her chums, who did not.>> PLUS >> The texture has the usual feel of this type of silicone but where the six triplets of slightly diverging rays are scattered across the surface you can feel a depression at the edges thereof, which is mildly satisfying.  They started with a blue-colored silicone substrate and added a black coating.  I'm guessing that coating was then partially removed, perhaps with a laser or carefully applied heat or acid or something destructive, so as to leave the six blue "fountains" of three stripes each.>> PLUS >> When you toss this particular case several yards away and yell "Fetch" and your dog naturally runs over to it all excited and snatches it up in his mouth, it does not explode.  This is a plus for many other objects you might encourage your dog to retrieve such as a tennis ball or a hamster, but that doesn't mean it isn't a plus for this particular product.  I figure any object your dog retrieves that doesn't explode in his mouth is better than one that does, but maybe that's just me.>> PLUS >> The Belkin case weighs only 17 grams, which is about 5/8ths of an ounce, which is a lot less than if the case were made of, say, depleted uranium.>> PLUS >> The thickness of the case is only 1.65 millimeters, which is a lot less than if it were just as sturdy and protective but made of, say, French toast.>> PLUS >> The case easily survives being 200 meters under saltwater for an hour, and it just as easily survives being dropped onto concrete from a height of 3,403.6 millimeters, i.e., exactly 2 smoots.  The device inside the case, of course, does not.>> PLUS >> The exterior of the case is quite grippy, meaning its coefficient of friction is satisfactorially high.With all those pluses out of the way, it's now time to turn to the minuses.>> MINUS >> There are two gross spelling errors in the description of this product.Somebody somewhere at Amazon or Belkin or both thinks silicon and silicone are the same thing, which they are not.  The product under review is made of silicon in the same sense that a loaf of bread is made of yeast.  Silicon is a metalloid element, number 51, and as such it would be wildly inappropriate for use as a case for a handheld device.  Silicone, which has some silicon in it, also contains hydrogen, carbon and oxygen.  Silicon is found in nature; silicone is synthesized by humans and never exists in nature.I'll get to the other spelling error in a moment, but first, as you might remember from one of my better reviews, on July 2, 2011, of theAmazonBasics Silicone Case with Tread, I am somewhat of an expert at testing and reviewing these cases, so you can take my word for everything I say below.>> MINUS >> The second and foremost minus -- by far the most atrocious -- is that once you apply the case under review the screen of the device is completely obscured.  Because the silicone material is opaque, you simply cannot see the screen at all, which means you have to remove the cover if you want to use the device and then replace it when you're done.>> MINUS >> But even if you could see it you couldn't operate that screen -- which is after all a TOUCH SCREEN -- because the silicone material interferes with your finger's touching it, which means that, again, you must remove the Belkin case in order to touch the screen and then replace it.For the screen to be invisible and impervious to touch is a gross design error of inexplicable stupidity.>> MINUS >> The back of the device is almost completely exposed to all manner of scratches, as you can see from the photo Gark and I took.>> MINUS >> There are three buttons, one on the top of the device and two on one side, that are covered by this Belkin product.  However, if you press hard enough in just the right places you can get them to operate.  Still, you shouldn't have to memorize where those buttons are.>> MINUS >> At the bottom of the device are three locations that need to be exposed, those being a port for battery charging and data exchange, a headphone jack, and a steam vent.  The problem is that the Belkin case does not quite line up right.  You kind of have to push some of the silicone out of the way to plug in your earbuds or to land the device on a dock.>> MINUS >> And now to the second and much worse spelling error on the Amazon description page.  As you can see from the photo I published showing the product as applied, the case is meant for the product called "pod!"  Sheesh.(You really should go look at the photo if you haven't already:)For all the obvious design errors I subtract 4 stars from 5.  I award one star because of the stylish look and the nice, tight fit and the grippy feel.# </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inexplicable stupidity </p>
+
+
+<h2> review.date </h2>
+  02-13-2012  
+<h2> review.text </h2>
+
+ <p> My son tried to steal this from me because he liked the texture! The stripes seem like they are almost inlaid or something and give a nice grip to the case. The whole thing has that silicone type of "grab" to it, making holding your ipod less slippery. I like to change my case here and there, and this one is simple to locate in my bag without looking. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> cool and texture-y! </p>
+
+
+<h2> review.date </h2>
+  01-30-2012  
+<h2> review.text </h2>
+
+ <p> You have to take this on Faith, I Googled iPod Silicon Touch covers and found 11,000,000, yes, eleven million responses. So, we all have quite a choice if we are looking for something to protect our iPod Touch.The Belkin Silicon cover is attractive enough. Fountain Blue, sounds so pretty, swirls through the black background. The cover fits the iPod touch and protects it from wear and dust. It looks attractive. The $14 price is a little much, I think, for an iPod cover. With the other 10,999,999 covers out there, I assume there must be a lower price. However, this is what I chose and it fits my personality and my iPod, so I am going to keep it. I will reflect upon the fountain blue swirls while holding my iPod, so I am going to try and use the cover for meditation purposes. If the meditation works, and I find my stress level has lowered and I am at peace, then one in eleven million will be worth it.Recommended. prisrob 01-30-12Belkin Mini Surge Protector Dual USB ChargerBelkin Conserve Socket F7C009q Energy-Saving Outlet </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One In Eleven Million </p>
+
+
+<h2> review.date </h2>
+  01-31-2012  
+<h2> review.text </h2>
+
+ <p> This Belkin case has a nice feel to it.  It's soft and fits well.  The colors in the picture are accurate and the pattern has a symmetrical feel.  It's more interesting to look at than a more simple black case.This is more like a wrap than a case.  It protects the body of the device, but doesn't provide as much protection as a true case.  It will protect against dings and scratches, but it doesn't seem like it would protect against falls.I think this item is a bit pricy, but still nice.  I recommend it if you're looking for something to protect your iPod against dings and scratches. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits and has a nice feel to it, but pricy </p>
+
+
+<h2> review.date </h2>
+  02-08-2012  
+<h2> review.text </h2>
+
+ <p> If you are wondering, NO this doesn't fit the iPhone 4 at all.The iPod touch is much thinner than the iPhone 4. This case won't go on any iPhone.It is a thick rubber- like material that has minimal give. Once it's on, it's going to stay on!It is beefy enough to offer some good protection of the iPod touch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Durable, really tight fit </p>
+
+
+<h2> review.date </h2>
+  02-09-2012  
+<h2> review.text </h2>
+
+ <p> I really enjoy this case! It is silicon so you have a grip on it and it doesn't slide around when you put it down.  I am a nurse and the best part is that it does not slide around in my scrubs!  Love the bold teal w/black color too! The picture doesn't do it justice! The case has a GREAT fit. I don't think you can go wrong here if you tried!  I have a plastic case and I do not like it at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great case! </p>
+
+
+<h2> review.date </h2>
+  02-01-2012  
+<h2> review.text </h2>
+
+ <p> The Belkin Essential Case for Apple iPod Touch caught my eye first because of its interesting design and also because it's a soft case (which I currently don't have).  However, it hardly made it through the door before my daughter saw it and laid claim for her new iPod. She loves the design first, but it is also flexible and not likely to scratch with repeated use. Since she has had it for over a week now, her praise has only grown--she claims her friends also love its unique design. My only concerns are that I am not sure how it will hold up over time since it does not seem to be particularly durable, and the fit is not quite as snug as I'd hoped. But overall we are both pleased...well, at least she's pleased. I would be if I could get it away from her! A nice product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute and Functional </p>
+
+
+<h2> review.date </h2>
+  02-16-2012  
+<h2> review.text </h2>
+
+ <p> We got our 9 year old an iPod for christmas and after playing with it and seeing all of the things it can do, my wife and i got one for ourselves.  We love the fact that we can text to other ipod or iphone users.  But hey, this is about the case right?  Well if you have an iPod you have to have a case.  for my cell phones I've always preferred one of the gel type, soft covers rather than a hard shell cover.  This is a nice durable silcon cover that makes for easy gripping of your iPod. I think the design is really great as well and I love the color scheme.  I've dropped it already as I tend to do with no harm to the unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this design </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

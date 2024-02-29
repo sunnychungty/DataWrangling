@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000QDBYII <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-16-2008  
+<h2> review.text </h2>
+
+ <p> I am totally impressed with this set. I had extremely high expectations coming from an HDTV CRT and was prepared to have to deal with some sacrifice in quality to go flat panel. However, the picture quality on this set has exceeded that of the 720p/1080i CRT it replaced.For reference, I am using an Oppo 980H upconverting DVD player via HDMI. I do not use the built-in speakers, so cannot comment there. I expect to be using the on-board ATSC tuner with a roof antenna to take advantage of free local HD broadcasts.Standard DVDs look outstanding on this set. I may update this review in the future if I adopt whichever HD technology has an apparent winning stake in the next few months. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't tear my eyes away! </p>
+
+
+<h2> review.date </h2>
+  04-24-2008  
+<h2> review.text </h2>
+
+ <p> This Panasonic Plasma HDTV is simply an incredible product.  The picture quality stands out as nothing short of impressive. I found this HDTV to strike the perfect balance between excellent quality and price.  After months of searching for a quality product to invest my money in, this HDTV does not disappoint.While there has been some history of people expressing concern about the picture brightness of plasma flat-panels (i.e. being too dim), I have found this Panasonic to provide ample brightness of picture.  As a matter of fact, a description in my house of the picture is how the colors "glow."  Of course this is referring the the brighter colors.  This leads me to another aspect of the picture, the darker colors.  This is where this plasma really stands out.  The darker colors are well defined with deep blacks.  The grays and blacks are well delineated.  For someone who likes to view a lot of movies, the strength of it's display of darker colors is something that I have found impressive.  Additionally, the plasma is excellent in it's display of motion.  For a sports fan, such as myself, this plasma does an excellent job of displaying the motion of sports.Also of note with this plasma is that the performance of the speakers turned out to be a pleasant surprise.  One of my wife's first comments about this Panasonic was the good quality of sound from it's speakers.After having this Panasonic for about 4 months, I've had no problems with this product and have found it to be free of defects.While I've spent much time providing a "glowing" review of this set, I'll turn to any perceived weaknesses.  They are few, and I almost have to search for them.One of the main weaknesses that I found is the need for tender, love & care that the plasma requires.  Specifically, plasmas can be at danger for screen "burn-in" by leaving a static image on the screen for too long.  While I have not had any burn-in problems, I do remain vigilant about not leaving the tv on while unattended.  At least this helps me to save on my electricity bill as these HDTVs are known to be energy hogs.  As a precaution, I do not leave letterbox shows on the screen for hours uninterrupted.  My complaint regarding this weakness is that the manual mentions image retention/screen burn-in, but the manual does not clearly define the length of time before there is danger of burn-in.One last weakness that I found is that there are only 2 HDMI connection ports.  While that is just enough for me, it would be nice to have an extra just in case.In conclusion, I am extremely impressed with this Panasonic plasma.  I am really glad that I choose this set, and my family and I get much enjoyment out of it.  I view this set as being worth every penny that I paid for it.  Panasonic has won me over. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Incredible picture, Incredible HDTV </p>
+
+
+<h2> review.date </h2>
+  10-24-2008  
+<h2> review.text </h2>
+
+ <p> I bought this set about 6 months ago. Before buying I did extensive research at avsforum. Great source of information audio and video equipment. I cannot be any happier about my choice.When it was delivered, the shipper unpacked and did the initial setup to be sure it worked. At first the pic was below expectations until I realized my cable company was not broadcasting in HD. Once I started supplying a HD signal to the set I couldn't believe my eyes. The picture was awesome. Picture setup is a breeze with the optional Avia calibration disc. It was pretty close to perfect right from the factory. All functions are easily attended to thru the OSD menus. Peripheral hookups are adequate and easy. Factory sound is good enough for me. I imagine a home theatre sound system could be a big plus as well.Size matters........It's a 50 inch set !!!  My wife thought I was crazy going this big. It sounds huge I know, but the biggest mistake people can make here is buying too small. She loves it. Buy as big as your budget and/or space will allow. It is worth it.Absolutely no complaints.......excellent unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Top of the line </p>
+
+
+<h2> review.date </h2>
+  12-09-2007  
+<h2> review.text </h2>
+
+ <p> I have had this TV for 1 month and love it. It looks great but the best feature is the outstanding HD picture. Excellent color right out of the box & black levels that are the best I have seen in any HDTV. Fast action must be seen to really appreciate the quality. HD football is like being at the game. Standard-def pictures are good. The 1080i upconversion can sometimes introduce some image noise but that is true of all brands.Sound quality is good but not great but most will hook up to stereo anyway.The anti-glare screen works very well. It's not quite as effective as the typical LCD but I am satisfied with it in a room that has a complete wall of windows.This TV is heavy at approx. 100lbs and it does generate a fair amount of heat but it's certainly no worse than my old 36" CRT.Do NOT waste money on the high priced cables sold in many places. They are of excellent quality but horribly over-priced. I bought a high quality 6ft HDMI cable for $15 and cannot tell the difference with the $75 - $100 cable from Monster. You can buy shielded cables for 1/4 = 1/3 the price of Monster.The remote is average. Layout is fair. The buttons are not lighted.Good luck. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great HDTV - Great Price </p>
+
+
+<h2> review.date </h2>
+  02-13-2008  
+<h2> review.text </h2>
+
+ <p> Waited 2 yrs. to find the right HD TV. Excellent product. No problems Great picture No pip but who needs one. worth the money </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent! </p>
+
+
+<h2> review.date </h2>
+  11-26-2007  
+<h2> review.text </h2>
+
+ <p> I bought this television when it first hit the stores late this summer (2007).  I upgraded my Sony XBR 36" tube television.  I waited for a 1080p plasma that could match the screen resolution of a my tube television.  I'm pleased to say that I am very happy with the purchase.  It has a great picture and the setup was no problem.  In HD, I don't think there is a better pricture on the market.  It is so life-like and the colors are so vivid!  I'm very hard tom please when it comes to electronics and I have every gadget known to man, before it's generally available.  I highly recommend this TV.  A great decision. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Picture!!! </p>
+
+
+<h2> review.date </h2>
+  12-04-2007  
+<h2> review.text </h2>
+
+ <p> Consumer Reports said "the best picture ever tested" even the VHS tape looks great. DirecTV HD is beautiful. The deliver service was excellent, on time, even the box came through with out damage. The audio is excellent. We are very pleased. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Best Picture Ever Seen </p>
+
+
+<h2> review.date </h2>
+  01-13-2008  
+<h2> review.text </h2>
+
+ <p> I got this panel when it just came out early May 2007.  I was amazed at not only how well it display Blu Ray movies, but also how well it handles simple normal standard definition TV.  Most High Def TV's don't do well on this part, especially LCD's, introducing artifacts as it tries to 'upscale' the image.This plasma panel simply is extraordinary.  When you set the picture setting properly, and put in a Blu Ray, there is almost no need to go to the theaters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 8 months of ownership, no regrets </p>
+
+
+<h2> review.date </h2>
+  01-20-2008  
+<h2> review.text </h2>
+
+ <p> Consumer reports rated this TV as the best picture they had seen in any flat panel TV, LCD or plasma.  The picture is quite stunning.  I have heard of some color issues, but have seen none myself.  The anti-glare coating works very well.  We are in an apartment with indirect afternoon light, but some strong sun reflections off the windows across the street.  Even at extreme angles, the picture is very clear.  In fact, the reflection off the TV frame is much greater than anything on the screen.  (I really have to look hard to notice it is there in the picture.)  When reviewing this TV in the stores, the screen image seemed to be not as bright as many around it, especially the Samsung units.  However, even in bright light, the picture is very clear and we certainly don't feel as the picture brightness is lacking at all.  Another example of comparison in the store vs. use in the home!  Would highly recommend this TV to anyone looking for a quality set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful TV! </p>
+
+
+<h2> review.date </h2>
+  12-05-2007  
+<h2> review.text </h2>
+
+ <p> This is our first HDTV, as we're moving up from a 27" CRT Akai. Like most of the reviewers, I did  a lot of research before deciding on this TV and I'm glad I did. We're totally satisfied with both the picture and the sound. We watched the movie 'The Incredibles' on an upconverting OPPO DVD player (980H) and were delighted at the little details we'd never seen before. Then I caught part of the Monday night football game on ESPN HD and again was blown away by the clarity and detail. All in all, the TV itself is extremely satisfying.I also had occasion to talk to Panasonic tech support. We weren't getting a video signal from our new Cox HDDVR using component cables. (I didn't have an HDMI cable yet...). I called Panasonic, got through with minimal wait, and the tech was very helpful. Ultimately, it turns out that the issue was with the DVR, not the TV. My assessment of Panasonic customer service is very high based on this one support issue.Bottom line -- If you are looking for an outstanding plasma HDTV, you can't go wrong with this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome TV! </p>
+
+
+<h2> review.date </h2>
+  01-13-2008  
+<h2> review.text </h2>
+
+ <p> I've spent weeks going into probably a dozen different stores looking at various 50" to 52" plasma and LCD TVs.  Consumer Reports said this TV had the best picture they'd ever seen, so I made sure to check it out every chance I had.  All I can say is, I was sure disappointed with CR on this one.Why?  This TV is so damn dim!  Dim compared to LCDs? Of course.  But it was dim compared to other Plasmas as well, including other Panasonics!  I had a chance to play with the settings on this model in several different stores.  It's the same story. Even after cranking up the brightness and contrast, after changing modes, etc., it was still dim.  In every other way, the picture and sound seemed to be outstanding.If you intend to watch mostly in a moderately or lowly lit room, you'll probably be OK.  Just keep it in mind when you are trying to decide on which TV to buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dim is the only word for it. </p>
+
+
+<h2> review.date </h2>
+  10-30-2007  
+<h2> review.text </h2>
+
+ <p> I bought this TV a month ago from 6AVE directly. I wont mention the price as people might just wait for that price and I doubt if its going to go lower. Anyways, the TV itself is just superb. Picture quality is mindblowing and I got the philips dvd player, dvp5982 and the picture is just amazing with that one on this TV. I cant comment about the speakers as I am using polk speakers for my audio. If anyone is looking for a 1080P, dont look any further...the value and the quality benefit is tough to match with this one </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mindblowing </p>
+
+
+<h2> review.date </h2>
+  09-20-2007  
+<h2> review.text </h2>
+
+ <p> I just received this TV and what can I say except that it is a beautifully designed product from the inside out.  The picture is fantastic (especially HD), the built in speakers sound great, the remote is easy to use, the programming is very well layed out, and the menus are fairly easy to navigate without cracking the book.The unit has every kind of input you could want (two HDMI inputs).  I highly reommend this product.  I waited years to purchase one and did my homework. This TV is the best balance of dollars versus performance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautifully Designed Product </p>
+
+
+<h2> review.date </h2>
+  01-05-2008  
+<h2> review.text </h2>
+
+ <p> I agree with most of the reviewers here who rave about the picture quality.  I chose this panasonic model over the similar TH-50PZ77U because the antiglare filter on the latter created a more "washed out" picture, whereas this model is sharp and bright with lots of contrast.My HD comcast cable (1080i) picture quality is superb on this set.  As with all HDTVs that I've seen, the standard def signals look better on a standard def tube TV than on this HDTV.  That said, the picture quality from non-HD sources is equal to or better on this panasonic than other 50" HDTV sets that I've seen.  My standard cable viewed in normal 4:3 aspect (without stretching to fit the screen) looks better on this 50" panasonic than the 26" Sharp LCD HDTV in my bedroom. I have the noise reduction setting turned On, but don't know if that makes any difference.Another reviewer mentioned that this TV seems dim.  My living room in Miami is fairly bright, and I've had no problems with brightness or contrast that would require me to darken the room in order to see the TV.The remote is functional (controls 3 devices -- say TV, DVD and cable box), though it's odd that the code to control my panasonic DVD player had to be programmed and wasn't the default.The main drawback is that this TV only has 2 HDMI inputs.  So I have my cable box on one HDMI input, and ran my upconverting DVD player thru the component inputs.  I don't yet have an HD/Blu Ray DVD player, but I'm reserving the 2nd HDMI input for a high def player.  If I need more HDMI inputs, I'll just get a good home theater receiver with switching and run the other sources thru the receiver....  Honestly, I tried running the cablebox thru the component input, and did not see any difference versus using the HDMI input.  From what I've read, component video (although analog) is just as capable of running a 1080p video signal as HDMI (depending on the signal output of the source), so the lack of additional HDMI inputs are not a major drawback. It just means that I have 5 component cables instead of 1 HDMI cable running from my DVD player to the TV.I'm not a big fan of the glossy piano-black finish, mainly because the pedestal stand shows up every speck of dust that falls on it.  But this is a minor quibble that's hardly worth noting.Altogether, well done Panasonic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent picture and sound, but only 2 HDMI inputs </p>
+
+
+<h2> review.date </h2>
+  10-31-2007  
+<h2> review.text </h2>
+
+ <p> Absolutely the best TV I every seen for under $2500.  Couldn't ask for more, except for maybe a couple of more HDMI connections.  I just calibrated it with Video Essentials, and it is spectacular.  Good anti-glare also.If you got the money, buy it.  If you don't, save up unitl you do.  Trust us, its that good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another 5 star rating </p>
+
+
+<h2> review.date </h2>
+  12-02-2007  
+<h2> review.text </h2>
+
+ <p> This is my first plasma TV.  My prior TV was a 1080i rear-projection TV that has served me well over the past 4 years, but with the new 1080P technology, I decided it was time to upgrade.  I did plenty of research, including the reviews by Consumer Reports, and CNET, and read lots of user feedback from [...].  I decided to go with the Panasonic because of the rave reviews.  I was not disappointed.I did not purchase this item through Amazon, because I just can't make a purchase like this without seeing it with my own eyes.  I went to a local video store and compared it with many other sets, including Hitachi, Samsung, Pioneer, and LG.  I had them show me their demo broadcast, a cable HD channel broadcast (the Army/Navy football game was on that day), and then a Blu-Ray DVD.  To be honest, in the video store, I was a bit concerned with the quality of the HD cable broadcast.  The picture actually looked too sharp in my option, which hurt the quality.  There was a Hitachi next to it that had a softer image that looked very nice.  However, when it came to the Blu-Ray demo, there was no comparison.  I was blow away by the clarity, deep blacks, and vivid color of the Panasonic.  I watch about 50/50 HD television and DVD movies at home, so it was a tough choice between the two, but my gut told me to go with the Panasonic, so I did.I couldn't wait to get it home to see how it looked on my cable at home.  It was so much better than what I saw in the store.  I honestly don't know why it looked so bad at the video store, but I watched NFL football all day today and just couldn't believe how good it looked.  Motion blur...none at all.  And no pixelation on fast motion sports action (which was a problem on my old HDTV).  I also purchased a Playstation 3 as my Blu-Ray player.  It came bundled with Spiderman 3, and all I can say is WOW!  I don't know if I'll ever go to the movies again!  Why bother with this TV at home.My only drawback is that I wish it had 1 more HDMI connection, but I can live with 2.  Plus, the built in speakers really don't impress me. They're pretty tinny, and just sound like low quality speakers.  But since I run everything through my home theater system, that's not a problem for me at all.If you're looking for a 50" plasma, I can easily say you can't go wrong with this TV. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unbelievable picture! </p>
+
+
+<h2> review.date </h2>
+  02-20-2008  
+<h2> review.text </h2>
+
+ <p> I gave it a 5 star for image quality, and that's why people buy this TV.  The following are some minor points that might affect your buying decisions:* It only has two HDMI inputs: I have my cable box and DVD player plugged in and that's it.  If you need to plug other sources in, such as HD-camcorder, etc, you have to use other messy inputs.  It really needs a front HDMI or DVI input (see below).* No DVI inputs: how about plugging my laptop computer in to do slide shows?* Well, there is a VGA input, but it limits the resolution to WXGA.  Why have a wonderful 1080p resolution and not take full advantage of it?* Sound is good, but I wouldn't say it's great.* The TV bulges out at the bottom.  This might affects how much it can be tilted down if you hang it on the wall.* Although it has an anti-reflection coating, the reflection might bother some people, especially during dark scenes.* It's great to have a SD card slot.  Slide show functions are adequate, but SLOW.At less than $2000 at Costco and just slightly more (but without taxes potentially) at Amazon, this TV is a fantastic value.  If the above points don't bother you, you'll be very happy with the set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great image, great value, could use more features </p>
+
+
+<h2> review.date </h2>
+  08-24-2007  
+<h2> review.text </h2>
+
+ <p> This is an absolutely gorgeous display.It's hard to tell from the photos, but the black plastic bezel is actually glossy, not matte.  Black gloss on electronics has high class swank written all over it.  Yes, I said swank.  And yes, it gave you goosebumps.The built-in speakers are located on either side of the screen, not below it like they used to be on earlier models.  They sound great if you choose to use them, and if not they're basically invisible and blend in naturally.Out of the box the picture looks phenomenal.  Standard definition looks as good as you could hope, but HD content is where it really shines.  Take the time to calibrate your display settings using some kind of HD calibration disc like theDigital Video Essentials HD (HD DVD + DVD Combo Disc)or just search Google for one of the many free HD calibration images that'll help you tweak your color, sharpness, and everything else to get the best picture.  If you skip this step and just try to eyeball it, you'll be missing out on the deep colors that this display has to offer.This IS a 1080p TV, but it will ONLY display 1080p over an HDMI connection.  It will not display 1080p picture over VGA, so if you're an Xbox 360 owner and don't have HDMI, 1080i is as good as it's going to get for you with this TV.This is a good TV!  You should totally get it.  Make me proud. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

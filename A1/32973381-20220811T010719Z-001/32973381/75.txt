@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B003VPABGO <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-07-2010  
+<h2> review.text </h2>
+
+ <p> Waiting for competitive Android Tablets so purchased a Kindle in the meantime but didn't want to invest in a more expensive cover for it.  So this sleeve fits the bill - adequate cover for the Kindle at a relatively low price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product </p>
+
+
+<h2> review.date </h2>
+  11-16-2010  
+<h2> review.text </h2>
+
+ <p> Fits the Kindle very well and keeps the screen protected.  Can't ask for much more from this style of case </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Keeps the Kindle Cozy </p>
+
+
+<h2> review.date </h2>
+  10-29-2010  
+<h2> review.text </h2>
+
+ <p> I have recently got the 3rd-gen Kindle and decided I should get a case for it. Most of the cases available are those leather-bound jackets, which add unnecessary weight and bulk to the Kindle. Luckily, this case does not. It is just a soft fabric and adds little to no weight at all. Although it looks thin in the pictures, it is actually pretty thick. Its more like sweater material. Even so, I would not want to drop the Kindle even with the case, but if I did I think the case would help soften the blow. The Kindle fits perfectly in it, tight like a glove. I don't think the device could slide out of the sleeve by itself. Its nice and snug. I use the Kindle mostly in my house, I don't travel with it much. So if you use the Kindle on a commute, it may be more convenient to get one of the jacket-style cases, as they are easier to close up real fast and move with. With this sleeve you would have to store it in your bag and then take it out when you're done. Not a huge deal, but maybe a problem for some. However if you use the Kindle mostly at home, then this sleeve is much better. That is because when reading you don't have to bother with holding the case, so it makes the Kindle lighter and more versatile. Well worth the money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect case for the Kindle. Fits like a glove! </p>
+
+
+<h2> review.date </h2>
+  08-15-2011  
+<h2> review.text </h2>
+
+ <p> KP for kindle protection. does a good job protecting my kindle which i carry around quite often.price was reasonable and sleeve is easy to use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> KP </p>
+
+
+<h2> review.date </h2>
+  03-11-2011  
+<h2> review.text </h2>
+
+ <p> Realmente esperaba m&aacute;s, es cierto que se ajusta muy bien al Kindle, oferecela protecci&oacute;n de una media grande. el material es bueno, pero no es llamativo. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No me gusto </p>
+
+
+<h2> review.date </h2>
+  01-04-2013  
+<h2> review.text </h2>
+
+ <p> Cover allows my kindle to slip into it and keeps it from getting all scratched up. Not anything fancy. Just something to keep my screen from getting scratched while in my bag. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine </p>
+
+
+<h2> review.date </h2>
+  07-23-2013  
+<h2> review.text </h2>
+
+ <p> Didn't work very well.  Obviously it protected the Kindle, but taking the Kindle in and out of the sleeve and where to put the sleeve was irritating.  I ended up buying a different style of cover which has worked much better </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kindle Sleeve </p>
+
+
+<h2> review.date </h2>
+  04-28-2011  
+<h2> review.text </h2>
+
+ <p> I'm not really a book/Kindle cover person. Just need a simple sleeve to protect the reader in my briefcase during travel. This one will work for fine that purpose so it at least gets three stars. Ergonomically, however, I found its elastic top, sock format extremely annoying. Immediately returned it in favor of one with a side zipper. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Belkin Knit Kindle Sleeve </p>
+
+
+<h2> review.date </h2>
+  01-28-2011  
+<h2> review.text </h2>
+
+ <p> I wanted something that I can use to carry around my kindle.  I like how small the kindle is and I didn't want to get a cover that wraps around it.  So I decided to get a holder for it just for carrying it around in my bag.Pros:- It's soft and won't scratch the device.- There are a few colors to choose from, and all of them are fine. I picked the midnight blue color.- It fits the kindle well without any part of the kindle sticking out.- The fabric is tough enough that it feels like it will protect the kindle.  It's soft or thin, which is a good thing.Cons:- The opening is a bit tight, which is good when the kindle is in (it won't slip out), but it does make it somewhat difficult to put the kindle back in.- I'm pretty sure that this isn't going to fit the Kindle 2, as it is quite snug on the Kindle 3.Overall, happy with it.  It's compact and barely takes up any space. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice "sock" for your kindle </p>
+
+
+<h2> review.date </h2>
+  02-20-2011  
+<h2> review.text </h2>
+
+ <p> I love this...it is exactly what I was looking for...just a sleeve for the kindle (since I don't like having a case on it while I'm using it). Buy it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it! </p>
+
+
+<h2> review.date </h2>
+  06-24-2011  
+<h2> review.text </h2>
+
+ <p> I bought this sleeve for my daughter's Kindle that we gave her for her birthday. It was a bit of a snug fit at first when she would try to put it in but like most clothing for people, it just needed time to "stretch out" a bit. She really loves it. It is easy to put her Kindle inside and pull it out and it feels good when you hold it. It also keeps her Kindle clean when she needs to put it down to do something else. It's a good product for the money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice and durable </p>
+
+
+<h2> review.date </h2>
+  01-29-2011  
+<h2> review.text </h2>
+
+ <p> I wouldnt suggest this to keep  your kindle safe from dings or drops, but if you need to protect it from the elements or from scratches, it might be right up your alley. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good if you just need a cover </p>
+
+
+<h2> review.date </h2>
+  03-26-2011  
+<h2> review.text </h2>
+
+ <p> I bought this sleeve as I find having a leather cover to be a bother. Holding on to the leather cover while reading would be more cumbersome, I think. Plus, I only need to protect the kindle when it is in my bag or when it is on a table. Spoiling a leather cover if it is in my bag would be more heartbreaking for me, I would think. :)The only thing I don't like about the sleeve is how the fabric seems to fray after some time. It's not a big problem, but I am thinking that maybe it will wear out after perhaps 1 or 2 years? If so, I got to look for another backup when the time comes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Soft, light and clean </p>
+
+
+<h2> review.date </h2>
+  01-04-2011  
+<h2> review.text </h2>
+
+ <p> I gave my daughter (29 now)a Kindle last year.She loves it so I bought one for myself this X-mas.When I asked her to help me "program" it, she discovered the knit cover.She said, "AWESOME - wish I had one"She uses her Kindle in airports, hospitals, etc.Not a shock absorber, but a good way to keep the machine clean. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> knit kindle cover </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

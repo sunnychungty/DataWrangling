@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B003INF6BE <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-29-2012  
+<h2> review.text </h2>
+
+ <p> Simple firmware update, then a quick install as per users manual. The whole process took 30 minutes. The hardest part was to remove the trim; make sure to use the right tools! However, I chose this device solely for its stereo Bluetooth function. So I didn't need to run the cable from the trunk to the front and hide the mediabridge in the gloves compartment! It works great, I stream music from my Xperia Ray android phone to the car's stereo system. The sound quality is very good, at least as good as gets inside a car with all the surrounding noise, and I mainly listen to classical music!I'd give the mediabridge 5 stars, but I find the user interface a little rugged, and mainly if you turn off the Bluetooth phone function, and only use the Bluetooth music function, the mediabridge does not recognize the connection with the phone, I must re-connect the two manually! Yet all the functions still work, except for the song announcements.... Most likely a simple firmware update should take care of that!Bottom line, I highly recommend it, it works well, it sounds good, and I now enjoy listing to Pandora in my car... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brilliant! </p>
+
+
+<h2> review.date </h2>
+  11-27-2013  
+<h2> review.text </h2>
+
+ <p> It works very well as long as the Bluetooth stays connected. Even works with bmws steering wheel buttons.  My problem is it keeps cutting out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great when it works </p>
+
+
+<h2> review.date </h2>
+  03-21-2013  
+<h2> review.text </h2>
+
+ <p> 1st off DICE Electronics doesn't make this device anymore.  It's now an Audiovox product.  And just like anything Audiovox touches, they buy out companies for the name and reproduce the once quality units with cheaper components.  So this listing will most likely be substituted with the Audiovox unit.  Send it back or just order the cheaper Audiovox unit.2nd-  I won't pin this on Audiovox but there is a long running issue with static, interference and "chirping" when the text changes on the screen.  It is extremely annoying and ruins your audio experience.  Search the web for "mediabridge chirp or interference" and see the fun.  Some people can live with this awful noise but pretty much everyone hears it.3rd- I contacted the Audiovox support team which is supposed to be old DICE employees.  Asked if they had any software or technical insight on this issue.  Took their advice and remedied my out of date NAV firmware. Moved the wiring to other locations. I even went as far as to remove the unit and swap it to a newer car but the noise was still there. So, after many wasted hours of my life, they told me that the DICE unit is not compatible with my BMW (as it's advertised).  So, I asked what they were going to do for me and they told me that they would close the case.  WHAT!?  No offer to replace or reimburse, just silence.  After owning this product for 2 whole weeks.  What a joke and complete let down. Buyer beware is the age old story here.  You've been warned. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Garbage. Not worthy of your BMW </p>
+
+
+<h2> review.date </h2>
+  10-11-2010  
+<h2> review.text </h2>
+
+ <p> My new DICE kit for my BMW is incomplete, it has no instructions or manual to install or use it, so i need to learn by steps.... that's a shame, it's apparently an excellent product. I'm searching for a manual and can't find anyone, neither in the products site. The unit has 2 dip switches that i don't know what it is.at the other hand, i bought the dice ipod craddle with 12/5v, and.... it doesn't came with it's energy supply, doesn't came the iPhone 4 adapter, i think i'm getting some kind of joke </p>
+
+
+<h2> review.summary </h2>
+
+ <p> incomplete </p>
+
+
+<h2> review.date </h2>
+  12-21-2011  
+<h2> review.text </h2>
+
+ <p> This thing is great, I love the options it has and you don't even need an iPod, iPhone etc. It was pretty easy to install with basic house hold tools.  It took me about two hours from start to finish, but the directions were a little sketchy so I just "YouTube'd" it and found step by step videos.  Once installed it worked flawlessly.  The one I bought came with a free Sirius receiver and was the same price as the competitions with out it!!!  The Bluetooth function is a nice feature too, it works with almost any Smart Phone that can stream music via Bluetooth or you can simply plug in a thumb drive with music and listen that way.  I bought an extra ashtray online for around $30 and cut a hole in it so I could place a cable for my iPhone and it also doubles as a rest place for my phone after I glued two small pieces of black foam on each side.  The only issues I have are with the included Bluetooth microphone, it's hard to find a good place for it in my Z4 plus mine has a built in one on the steering column. I still have no idea on how to get it to work, so they might want to include detailed instructions to maximize performance.  The other is that the display always reads the song info, I guess I'll have to do more research on how to get the most out of it.  All in all I recommend this product for any BMW owner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DICE Media Bridge for BMW Z4 </p>
+
+
+<h2> review.date </h2>
+  02-29-2012  
+<h2> review.text </h2>
+
+ <p> No audio upon installation, no support from vendor.  I returned it.Professional installation is required because the instructions are to generic to be useful.Once installed the product seems very complicated to use, I would need to write up very detailed instructions for anyone wanting to borrow my car and listen to audio via this device. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Professional Installation Required </p>
+
+
+<h2> review.date </h2>
+  11-25-2011  
+<h2> review.text </h2>
+
+ <p> The unit went into a 2004 Z4 as an alternative to a replacement head unit and a number of peripherals. The installation was straightforward, although the cord length for the microphone was too short to allow me to place the unit where I originally wanted in the storage compartment between the two seats; it had to go in the glove box. I also placed the XM unit in there, so there is room for nothing else, but it closes and makes all the components invisible. The unit works as promised and the sound from the speakers is clear and the microphone volume (which I located according to an installation video on Youtube) is more than adequate. Pairing was simple and quick, even on my older Palm Centro. The only functionality differences between the MBR-1500 and factory Bluetooth are that you cannot dial from the unit (there is no access to your paired phone's phone book), and that the Bluetooth feature is only active when you are connected to the MBR-1500. Bottom line, so far (1 month since install) I am very happy with the unit, which has delivered as promised. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MBR-1500 Almost complete solution </p>
+
+
+<h2> review.date </h2>
+  05-20-2013  
+<h2> review.text </h2>
+
+ <p> This was very straight forward to install. I have still not gotten the Bluetooth to show up in the iPhone iOS 6.1.3 and have written a support ticket. But except for this, it does what it promises. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very easy to install </p>
+
+
+<h2> review.date </h2>
+  07-02-2012  
+<h2> review.text </h2>
+
+ <p> Background - I own a 2003 Z4 with Navigation System and DSP. I wanted to integrate the ability to dock a iPOD or iPhone and stream via Bluetooth. The hands free was a bonus since I did not buy the hands-free with the car. After looking at the various options, I decided on this product. Note - DICE has been purchased by Audiovox.Out of box - The product arrived in good condition with all of the parts neatly packaged. One of he the items not clear to me in the purchasing process was if it came with an iPod connector. For the record, it does not. It comes with a USB connection that you can plug EITHER a USB memory stick or a iPod connector. The cables are long enough for most installations as long as you plan on putting the module in the front. The mic cable can not run from the front to the back and wrap around your windshield. Also, the DICE site shows a mic with a mountable clip and a multi-directional mic. I contacted Audiovox and they informed me that the mic was changed to a visor clip and a different (read cheaper) mic. -1/2 Star. I checked the software load bios (which was very easy to do on my Mac) and it shipped with the latest and greatest. so, they get back the 1/2 star for making this work so easily.Quality - You are definitely NOT paying for a high quality enclosure. The housing felt cheap and I would have thought for the money, would have been sturdier. -1/2 Star. The cables are good quality with heat shrink and nylon braid protection. I will give them back a 1/2 star for not cheapening this up. Overall, quality is good, but not top tier. The quality of the software is excellent, with everything working as advertised and without bugs. I have only had it a week, so I will let you know it the long term reliability is a problem.Installation - Could not have not been easier. I did a quick search on the web, and there are videos that took me through the process step by step. I did buy an BMW interior took kit which really helped. On the Z4, there was minimal removal of panels and most of the wires were stuffed into generous voids that BMW provided. I put my module in the center counsel under the ashtray. I also purchased a replacement for my ash tray that turned the ashtray into a iPod dock. very nice!!! Best of all, no holes in my car. The box says professional installation required. I am no professional, at it was not a problem on a Z4. I recommend you spend the $20 for a plastic panel remover and and save yourself the cost of a stereo installer (my local shop estimated 3 hours at $65 an hour). It took just over two hours for me to get everything in place. Watching he videos before installing really helped.Use - Set-up of the Bluetooth was a little bit frustrating. I don't know if it was me, my Droid, or the module, so I won't deduct any points, but I consider myself fairly tech savvy, and it tested my patience. Once set up, it works flawlessly and shows what is going on on my Nav screen.Calls - I mounted the mic in the map light housing in the center of my windscreen. I use a little putty to stick it there and ditched the cheap visor clip. BMW was nice enough to leave a slotted section in the housing, so the mic is hidden. Call quality is good, with no complaints so far. I have only used it with the top down, but everyone says they can hear me fine. I imagine that the top closed will only improve its sound clarity. On my end, the call quality is good. NOTE: If you have DSP, the DSP settings are applied to the call. This means that if you have room echo on, you well get the echo in the call. the number is displayed on the Nav screen. If you are using a iPod in the dock and Bluetooth on the phone, no worries, the iPod is paused automatically for the call and restarted when you hang-up.Playing through USB (iPod or memory stick) - Since I am using a dedicated iPod dock, I can only comment on the iPod. the sound is good, full, and rich. The screen shows the song being played, and the radio controls work to control the iPod. This all functions flawlessly.Streaming via Bluetooth - Streaming from Pandora or XM online sounds much different then from the dock. The dynamics are not there and it sounds muted. I have had the same experience in rental cars, so I think it may be the phone or Bluetooth, but I don't know. It is a nice feature though, and because It has this, I did not buy the Sirius module and just stream it to my phone and into the DICE module.Summary - I would recommend this product. Overall it is a great solution to upgrading your car to the latest hands-free, Bluetooth streaming, iPod playing world with a factory finish, look, and feel.One Year Update - I have had this installed for a year now and I have noticed a few behaviors that are a bit strange, most notably that I must cycle power on the radio every time I get in the car in order to get this to work. I have also noticed and occasional lock-up of the iPod requiring that I un-dock the iPod and plug it back in. In terms of Bluetooth sound quality, it remains less than desirable and at a low volume level. So far it has been reliable and I have not had any maintenance issues. I remain happy with my purchase, but would like to see a firmware fix for these issues.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Solution in my BMW 2003 Z4 Roadster with DSP </p>
+
+
+<h2> review.date </h2>
+  05-20-2011  
+<h2> review.text </h2>
+
+ <p> I bought this to interface with the stock HK sound system in my M3. The main reason I bought it for was to play from a USB memory stick, so I don't have to leave my ipod in the car. The USB sounds great, but every time I start my car, it resets to the first song on the stick. I then have to wait about 5 seconds to hit the random play and then wait another 5 to 10 seconds for it to shuffle. This is very annoying and I now hate the first song on the stick. I called DICE and they are aware of the issue, but currently no plans for an upgrade. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> USB almost works </p>
+
+
+<h2> review.date </h2>
+  11-13-2011  
+<h2> review.text </h2>
+
+ <p> The product description doesn't tell you that on my 1999 BMW with navigation the interface does not work. It is all audio options. There are cheaper routes to achieve this without paying over 200+ dollars. If you have a older model BMW search for something more affordable. Very over priced. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Paid to much and no interface </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

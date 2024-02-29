@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0052EQXZU <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-25-2013  
+<h2> review.text </h2>
+
+ <p> This book was short but very well written. It was funny and romantic! I loved the twist on the pinocchio fairy tale. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVED! </p>
+
+
+<h2> review.date </h2>
+  10-29-2011  
+<h2> review.text </h2>
+
+ <p> Just like the title to my review says, I laughed out loud while reading this humorous erotic romance short story, by Casea Major.I love Major's twist on this fairy tale. Instead of his nose growing with each lie, chio's..."manhood" lengthens, hehehehe.This is the second story I've read by Casea Major, and she didn't let me down. I look forward to reading much more from this wonderful author.I highly recommend this story to any whom are looking for a light, goodhearted, sexy-as-all-get-out, read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Laugh Out Loud Read </p>
+
+
+<h2> review.date </h2>
+  10-29-2013  
+<h2> review.text </h2>
+
+ <p> This was a short, somewhat humorous story. The sex scenes were ok but seemed like they were written by a man, which is ok, but men don't always know how to describe sex that well. This was another sex with a virgin story, which I continue to find unrealistic. Any woman who's ever had sex knows that their first time is not as easy as these writers write it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pinocchio </p>
+
+
+<h2> review.date </h2>
+  09-08-2012  
+<h2> review.text </h2>
+
+ <p> I'm not much for mob stories, but having enjoyed Casea's other works and knowing that it IS a romance story, I read on.  I'm so happy I did!  Instead of sitting through any mob politics or something, we simply watch a man try to keep a woman reined in, without giving her what she most desires.  It turned out pretty hilarious actually.Chio has that mobster attitude, but for such a badass, he's really got a sentimental streak and sweet dreams in mind - it's pretty darn cute.  At first I wondered what kind of girl Rose was, but as time went on, I could see just what she was really after with all her mischief and it was sweet.  For a while I was curious if Chio's "problem" was ever going to be demonstrated or anything more than referenced to, but it does come into play in some sexy ways.  It was actually kind of funny to watch as they used it to their advantage.All in all, it was a fun story with an emotional ending that actually had me tearing up a bit.  I'm not one for doing quotes, but this line was just hilarious to me, and I thought I'd leave you with it: "Kissing is an invitation to horizontal inclination."Pinocchio Syndrome may sound like mobster kind of story, but truly it is a sweet and sexy romantic comedy that will melt your heart and make you laugh out loud.  It was an awesome surprise and recommend it to anyone interested in a quick light hearted read!**I recieved a complimentary copy of the book in exchange for an honest review.** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So much fun! </p>
+
+
+<h2> review.date </h2>
+  03-05-2012  
+<h2> review.text </h2>
+
+ <p> What happens when a Chicago wiseguy is tapped to babysit the godfather's gorgeous daughter, and he just happens to have a little "growing" problem when he lies?  In a word, hilarity!Meet Chio Pino, the man with the Pinocchio Syndrome--every time he lies, his male member grows.  Not a large problem, until the godfather, Geppie, asks him to look after his daughter, Rosiaria, who's home for spring break.  Rosa's had a huge crush on Chio for years and decides that now is the time to act on her desires.  Chio wants to return her affections, but he's literally caught between a rock and a hard place.  If he denies his feelings to Rosa, she'll never believe him once she looks in his lap.  If he denies his actions to Geppie, he's a dead man with an appendage the "size of a broom handle."Casea Major has taken the wonderful Italian fairy tale, Pinocchio, and blended it with contemporary language and sizzling love scenes to create an erotic retelling a la The Sopranos.  Chio's strong voice, funny and foul, is the primary source of the laughter that runs throughout the short story.  From the beginning, we root for this obviously "made-for-each-other" couple, and the many hurdles they have to jump, including a meat cleaver wielding Geppie.Don't miss this opportunity for a funny, sexy, hot summer read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lie Hard! </p>
+
+
+<h2> review.date </h2>
+  08-26-2011  
+<h2> review.text </h2>
+
+ <p> I'm not sure what I expected, but I will tell you that it wasn't what I ended up reading! Pinocchio Syndrome is a silly - but entertaining - erotic novella (49pgs). I couldn't help but laugh out loud several times. Rose was spoiled, annoying, boring, and immature, but Chio - when not being extremely politically incorrect and slightly offensive - was pretty hysterical. The story is told entirely from his third person POV, with a very ironic and tongue-in-cheek tone of voice (see quote below).SUMMARY:Pinocchio Syndrome revolves around Chio, who has recently started to work for his godfather Geppie, an Italian mobster. Tasked with the duty of picking up Geppie's 20-year-old daughter from the airport, he's not looking forward to playing chauffeur and babysitter to a mafia princess. Once he sees Rose - and her *clears throat* physical attributes - he's even less excited by the prospect: how will he possibly manage to keep his hands off of her - especially when she keeps throwing herself at him every five minutes?!If he wants to stay in one piece, this princess is strictly hands off. Even if he managed to get in her pants without getting caught, all it would take would be one question from Geppie, since Chio can't lie without his body visibly giving him away down south (think Pinocchio ... yes, that's right). So will the fear of what Geppie might do to him with that meat cleaver of his keep Chio in line ... or will he be unable to resist Rose's attempts at seduction?REACTION:We find out early on about Chio's "problem": that every time he lies, his male appendage grows an inch, and he has to climax inside a woman for it to go back to normal size. I kid you not! When I read that, I realized the romance I had originally thought to be contemporary might actually be ... what? Fantasy? Only other romance category I could think of! But god, how sick does that make me sound?! I promise: I have never before fantasized about a guy who basically grew on-command. If I were Chio, you would know I was telling the truth on that one. :-)Chio was a surprisingly interesting and entertaining character. At the beginning, we're shown his mafia-jerk persona when he's rude, mean, and slightly racist. The author nailed the hard-*ss act down for him so well that in some ways it didn't really gel with how he is for the rest of the story. Don't get me wrong - he continues to swear, get in fights, etc. - but he becomes ... endearingly offensive, shall we say.I'm not even sure whether there's any point in mentioning Rose, since I've already used all my applicable adjectives on her. She's got big boobs, a hot sexy bod, is panting after Chio to pop her cherry, and goes to Princeton, so is apparently smart (no supporting evidence provided for this last statement). What's not to like?Last, but most certainly not least, one must speak about the sizzle-factor, which I'm happy to say was alive and well. Very well. As in it recently had a physical and passed with flying colors. I don't know if it was chemistry between the two characters or just very good writing, but somehow Major manages to fit into this short novella some very hot scenes and fan-yourself-worthy descriptions. To illustrate my point and whet your appetite: in one bedroom scene, Chio lies to Rose. On purpose. Over and over again. Enough said, I think. *naughty grin*BOTTOM LINE:Pinocchio Syndrome was a light, funny, and sizzling read. If you go into it expecting Shakespeare, you're going to be disappointed. If you go into it expecting a romance that is emotionally rewarding with excellent character and relationship development, you're going to be disappointed. However, go into it ready for a slightly ridiculous but entertaining read, and you'll finish the book with a satisfied smile on your face. (Get your mind out of the gutter; I didn't mean it that way!)ONE OF MY FAVORITE QUOTES:"Jesus, she was beautiful. A feeling he'd never experienced washed over him leaving his insides in a fluttering tangled mess. He swept his hands around her waist and pulled her into his lap. Cradling her head, he kissed her. Her arms laced around his neck. Their lips locked for the first time in a rush of serious heart-felt emotion. It reminded him of his all-time favorite romance movie, The Terminator."* Originally reviewed for the Fiction Vixen website. This review is of a copy provided by the author to Fiction Vixen Book Reviews. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A slightly ridiculous but entertaining read (3.5 stars) </p>
+
+
+<h2> review.date </h2>
+  04-01-2012  
+<h2> review.text </h2>
+
+ <p> I love a good erotic read and I love to laugh! This book did not disappoint!! A man whose dick grows when he lies and  can only go back to "normal" after sex? A gift or a curse? Perhaps a curse when you desire the boss' daughter, LOL This was a great, sexy twist on a fairy tale. I'd love to read more from this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hilarious and Hot! </p>
+
+
+<h2> review.date </h2>
+  07-16-2011  
+<h2> review.text </h2>
+
+ <p> This was a fun, light short story about Chio, the second hand man to the mob boss, committing the ultimate no-no...having a tryst with his boss's daughter. It was fun to see the tough guy get wrapped around the girl's finger. I rated this 4 stars because I didn't like the girl at first but toward the end her motivations became clearer and she redeemed herself. But overall this was a funny (and scorching hot!) erotic tale. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sexy Twist on a Classic </p>
+
+
+<h2> review.date </h2>
+  12-14-2012  
+<h2> review.text </h2>
+
+ <p> This was nice!I really enjoyed the sizzle between the 2 characters and how the plot ended.Although it was a short story it was a delightful one.Really nice to add a mob twist to it.I recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> The story is good, but gets a little boring in parts. The sex is hot when it happens, but like I said it's a bit slow. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cool idea! </p>
+
+
+<h2> review.date </h2>
+  03-04-2012  
+<h2> review.text </h2>
+
+ <p> Wow, this was awesome. It had me laughing out loud several times. The line about the terminator being his favorite romantic movie had tears rolling down my face. This author nailed the character chio perfectly. Everything from his language to his pride in a buick lucerne. I fell in love with both characters. Even though this story was full of steamy sexual scenes, under it all, it was an endearing love story, well worth the time it took to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A delightful funny story. </p>
+
+
+<h2> review.date </h2>
+  06-03-2011  
+<h2> review.text </h2>
+
+ <p> Poor little Pinocchio, only his nose grew when he lied.  Now Chio on the other hand, well you know he had a lot of trouble with his 'growth' problem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Poor little Pinocchio </p>
+
+
+<h2> review.date </h2>
+  01-22-2014  
+<h2> review.text </h2>
+
+ <p> This twisted fairy tale is a cute read.Chio Pino is a mob enforcer. Sort of. This is new to him, and one of his first jobs is to safeguard the daughter of his bos (and gadfather), Geppie when she visits home on break from college. Rosaria is a beautiful young girl--a maden, and Chio, well, he's got a bit of an issue--which made him perfectly suited to guard Rose.Whenever he lies, his penis grows an inch. (This growth dissipates following sex, btw)If only all men were so cursed!Chio has known Rose his whole life. And he also knows that she is sworn to marry someone--who, no one but Geppie knows. Chio thought Rose was attractive as a young girl, but as a woman?  He's captivated. And she's smitten by him. She has always desired Chio, and though she knows her marriage is arranged, she cannot resist seducing him while he is near.And, seduce him she does. I loved how she made him lie during sex to get bigger. Oh!The language was simple, yet endearing. It's a hoot of a twist when Geppie returns and finds his daughter deflowered... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny and quirky </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

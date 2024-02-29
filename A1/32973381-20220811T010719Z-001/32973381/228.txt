@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000AM6P0M <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-15-2013  
+<h2> review.text </h2>
+
+ <p> Received this dvd quickly and before Christmas.Well packaged. Love this movie! Since they do not show all these movies on tv, I love owning this one and others. Can watch it anytime. My grandchildren love it too. Would highly recommend this dvd. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 12 Dogs of Christmas DVD </p>
+
+
+<h2> review.date </h2>
+  01-24-2014  
+<h2> review.text </h2>
+
+ <p> Ok, in the first 80 minutes... a dad sends his daughter over to his ex-girlfriends house (talk about thumbing your nose at her... &#34;I had this girl with another woman, not you... nah nah nah nah nah...&#34;) and his girlfriend (obviously!) isn't too happy about it. Don't worry, though, they slowly warm up to each other. The rest of the time, the girl star is running around with dogs, to dogs, away from dogs, trying to free dogs, stop dog fights, and riding behind dogs in a sleigh... while being chased by a creepy dog-catcher dude and his friend. Some scenes a little scary for kids... big creepy guy and his cat following girl around, sticking her in cages, kidnapping her and her friends' dogs, and generally being nasty. (Shiver)The last twenty minutes make up for all your sufferings (or, maybe the last ten?). If you hate people treating dogs and kids quite badly... well, then the first 80-90 minutes can be called suffering. Then the last little bit, all is set to right. Daddy comes home and falls for his ex (why did this not surprise me?), the mayor lets the dogs come back to town, the dog-catcher is dishonored and found out in front of the whole town, and everyone thinks the little girl is a super hero!!! sorta.One star for the first part, five stars for the last part, average is three.Revenge to all and to all a good doggy night </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Slow first 80 minutes, exciting last 20 :) </p>
+
+
+<h2> review.date </h2>
+  01-01-2014  
+<h2> review.text </h2>
+
+ <p> While the whole premise is a bit far out, the movie is cute and entertaining. The story begins with the town council outlawing dogs. Of course, this means there must be a &#34;determined&#34; dog catcher, who just happens to be related to the mayor. And, of course, our heroine falls in love with a stray dog. Without giving away the rest of the story (you can probably fill in the story yourself) it all comes to a head at the Christmas show. If watched at Christmas it is an enjoyable 90 minutes of so. The rest of the year, it would probably be a yawner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It is a cute Christmas story </p>
+
+
+<h2> review.date </h2>
+  12-28-2007  
+<h2> review.text </h2>
+
+ <p> OK, so I read all the reviews for this movie before I took a chance on getting it.  Some people thought it was great and other, well maybe not so great, but in the end I decided to go for it, and I am glad I did.  It is a made for "TV" movie but that doesn't mean it doesn't have a lot of heart.  Here is a movie that is made for anyone who loves dogs.  Sentimental?  You bet!! And why not.  It is about time someone made a movie about people who just want to help stray dogs, and protect them from the evils of non-dog lovers.  Here is a movie that wants your kids to care about someone other than themselves.  This movie is great and it is something that the whole family, from grandma to the 5yr old, can watch together without any embarrassing moments.  If you have a true dog lover in your family or love watching movies with happy endings, then this is for you and your familyThe 12 Dogs of Christmas </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love dogs? Love this movie. </p>
+
+
+<h2> review.date </h2>
+  11-25-2005  
+<h2> review.text </h2>
+
+ <p> I don't mind admitting it, I am old. Older than dirt. My Social Security number has only five digits -- get the picture? So I'm a fuddy-duddy. But I am sick and tired of Hollywood trying to tell me that "family entertainment" needs to include language that I never heard until I joined the military, and what they call "romance" has to look a lot like "s-e-x" to me.Remember when Disney used to make pictures that you could take a 3 year old to, or a ten year old to, or a fifteen year old to, or all three to at the same time, without any embarrassment? When the bad guys were bad, but at a kid's level, and the good guys were good, but at a matching level? Well, it is possible you are too young to remember that, but I do.And apparently Kieth Merrill does too, because that is exactly the kind of movie he has made here. Hollywoood mavens would blow it off as "fluff", but take a kid to see it (oops, little slip there, theatres probably won't show this one -- not "commercial enough") show it to a kid or two by way of your DVD player (there, that's better), and listen to the giggles and screams of enjoyment, and the calls of warning when the bad guys get up to something a bit nasty.These are wonderful characters drawn close to life, but just a fraction larger than life (especially the bad guys). Villany sneaks around looking villanous, virtue does its own kind of sneaking, and, in the finest of fairy-tale traditions, wins out in the end. Old men in the audience wipe happy tears from their eyes.And after it all, my feeling is that the more I see of films like this, the less I want to see Hollywood productions. Here is where true entertainment is to be found. Joyful and fun. No big message pounded out (although I suppose there is some kind of message about nice folks can win in the end in there somewhere) just ENTERTAINMENT FOR THE WHOLE FAMILY. Get it, you won't be disappointed -- unless, of course, you're a Grinch! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Family Entertainment the Way It Used to Be! </p>
+
+
+<h2> review.date </h2>
+  05-04-2011  
+<h2> review.text </h2>
+
+ <p> The idea was good, this could have been a good movie. But the plot was not well put together, the dialogue was often disjointed, and even the props were often incongruous.  The acting ranged from so-so to poor.  The character development disjointed.  In short, other then some cute shots of dogs this movie just did not work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GET PLOT IDEA POORLY EXECUTED </p>
+
+
+<h2> review.date </h2>
+  01-14-2013  
+<h2> review.text </h2>
+
+ <p> I gave this to My grand-neice, & She LUVs it,so what can I say; except it most be pretty GOOD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 12 Dogs of CHRISTmas </p>
+
+
+<h2> review.date </h2>
+  12-31-2012  
+<h2> review.text </h2>
+
+ <p> This one of those made for kids films which presents problems but doesn't really want them to be too real as that would scare the kiddies watching or whatever.  Basically we've got one of those only in a movie small town where in the tradition of Footloose where they banned all dancing, this town has banned dogs.  It's hired two dim-witted bumbling men to catch any strays, these are the main villains of the film, like in say Home Alone, you knew these idiots weren't going to be able to really harm anyone.  Can't see how a small town would justify this expense, a guy you call up who comes out and gets paid per dog if a stray wanders in I could see but the wage of two full time staff?  They also have a bizarre motorbike to transport the dogs and a cat that sniffs them out. But the point is even with the dogs they've captured, they don't euthanize them, sell them to people in other towns or anything, they are all just sitting in a giant barn in cages seemingly built for their various proportions and all still seem to be well fed.  Although I don't want to include a spoiler they do get up to something evil with one of them. It's like in all those cartoons where someone will get kidnapped and they are just put in the back of a ute or in a room tied up with clean ropes and a clean gag and not harmed at all in anyway until the kid heroes of the movie turn up and rescue them.  What the kidnappers are going to do with them is never tackled in the plots, they're just kidnapped. The same with the dogs here.  The movie is also set in the early 1900s for some reason.  This means kids do what they are told more and the headmistress carries a big ruler to beat them with when they are out of line.  It also means there's some really old cars and period costuming.  I didn't buy though how the girl could drive a car in a time when most adults couldn't.Basically this is an expansion on a picture book which was a parody of the Twelve Days of Christmas song calledThe Twelve Dogs of Christmasby Kevin Whitlark who was also one of the writers/creators of this film.  Of course parodying that song is a big part of this film, although they go with different lines in the movie than in the book which is a bit disappointing, I especially would have liked to have seen the 11 dogs line version from the book brought to the screen. They do film the entire song, which is done as a school pageant, word for word, including the repeating lines of the former numbers as you get to each individual higher one.  This would have been better if it was edited to jumping to the higher numbers so you just get one or two repeats. It's a bit tedious viewing after a while. Plus there suddenly are a lot more kids in the class than ever appeared in the school or rehearsals beforehand. I didn't buy that a journalist from a major magazine would come out to see a school play either.Still it's watchable, especially if you like dogs and there's quite a variety to see on the screen. The child acting is pretty good too for the most part, especially the lead character played by Jordan-Claire Green, except where the red haired kid, played by Adam Hicks, tries an emotional scene with crying that was just really bad. The adult actors have pretty much got cardboard characters such as the mayor played by Richard Riehle who pretty much just rehashes every other character he's ever played. The 12 dogs of Christmas is better than most other Christmas themed movies out there so if you've got to get some Christmas themed movies for the family to watch you might as well get this one.  Christmas doesn't really play much of a part except for the 12 dogs of Christmas song so you can watch this any day of the year.This movie was made in 2005 but since it is a period piece becoming dated doesn't matter so much. It also allows the obvious ignoring of stranger danger lessons by the main character a bit more believable since they probably weren't taught back then. Plus it is good to see dogs acting like dogs and not like human kids, spies or superheroes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable But Doesn't Make a Lot of Sense, Nor is it Too Realistic </p>
+
+
+<h2> review.date </h2>
+  12-24-2013  
+<h2> review.text </h2>
+
+ <p> I could not watch past the first tive minutes.... everything inside me screamed to shut it off, so I did.  Seeing animals crated up and treated poorly in the beginning is NOT my idea of &#34;Holiday entertainment.&#34; </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Couldn't stand it </p>
+
+
+<h2> review.date </h2>
+  12-16-2008  
+<h2> review.text </h2>
+
+ <p> I was so disappointed in this movie. It was just boring.As other reviewers have pointed out, the girl who plays Emma has the same, consistent expression on her face--which is to say, NO expression regardless of whether she is being chased, yelled at, hugged, or thrown out of somewhere. She wasn't very believable.My kids liked it well enough but I doubt we'll be watching this one again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yawn </p>
+
+
+<h2> review.date </h2>
+  11-24-2005  
+<h2> review.text </h2>
+
+ <p> Based on the book by 14 year old Emma Kragen, THE 12 DOGS OF CHRISTMAS is another one of those doggone cutesy movies that you just can't resist.  Set in 1931 at the height of the Great Depression, this heartwarming story focuses on young Emma (newcomer Jordan Claire-Green) who is shipped off to her "aunt" when her father loses his job and they are being evicted.  Turns out the "aunt" isn't really blood relation, but a former girlfriend of daddy's.  But the story really centers on the little town where dogs have been banned and how Emma and a crusading "Dog Lady" try to save the dogs.  The cast does well with some nice bits from Eric Lutes as the coach turned Christmas program director, Bonita Fridericy as Aunt Delores; and Richard Riehle as the posturing mayor.  It's all cliche-driven and predictable, but it's a marvelous movie for dog lovers and Christmas movie afficionados.  Only a Grinch would find it unappealing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AND A POODLE IN A DOGHOUSE </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> Bought this for my grand daughter. She enjoys it very much. It is a nice baby sitting tool for her. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gift for grand daughter. </p>
+
+
+<h2> review.date </h2>
+  12-17-2005  
+<h2> review.text </h2>
+
+ <p> The main actress who played Emma has a wooden expression when some expression is expected (e.g. when being yelled at). Plus she is not particularly cute or adorable. Poor casting choice.As to the plot and story line, it is slow. Shrinking this movie down to 1 hour would make it better. And the plot isn't particularly logical. E.g. a parent letting a female child travel on her own to stay with someone without prior agreement, and didn't even write or call to confirm her arrival.I keep expecting the movie to become more exciting but after watching half the movie, I had to view it at 60x until near the end. Even the finale is kind of lame.I guess this may be suitable for people who loves dogs and are not critical of its flaws. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> main actress can't act; slow plot </p>
+
+
+<h2> review.date </h2>
+  12-21-2007  
+<h2> review.text </h2>
+
+ <p> 1931, and it's hard enough keeping people fed--let alone dogs.  The town of Doverville decides to impose a 1906 law that states no dogs in town. Their newly-elected Mayor opts to hire his brother as the town's dogcatcher.Into this comes Emma, who's been sent to stay with her Aunt Dolores, who is really not her aunt but an old girlfriend of her father's.  Emma's father has promised her he'll be there by Christmas, but Dolores advises her she's heard those words before from him and don't believe it.But, Emma still has hope.  She's found a puppy that's she'd hidden from Dolores and claimed for her own. She's also made a friend of the lady by the river who keeps a dog orphanage.Unfortunately, the town has claimed the land near the river.  The dog orphanage will be closed at Christmas and all the dogs impounded.It's going to take a miracle to even get the dogs fed, let alone keep them safe past Christmas."12 Dogs of Christmas" is a sweet, old-fashioned tale of faith even in hard times. The story teaches great lessons about teamwork and thinking outside of the box to solve seemingly insurmountable problems.My one star deduction on this film was primarily due to the DVD itself.  Parts were so dark the picture was extremely hard to see. Also, I am not sure I would show this film to very young children because seeming mistreatment of dogs may disturb them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> With teamwork, working the system, and a lot of faith, you can make a miracle </p>
+
+
+<h2> review.date </h2>
+  02-21-2014  
+<h2> review.text </h2>
+
+ <p> It's a good family movie. the dogs are adorable. It's a nice story.  I Don't know what else to say. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay </p>
+
+
+<h2> review.date </h2>
+  03-02-2014  
+<h2> review.text </h2>
+
+ <p> The show keeps your attention from start to finish. How they rescue the animals and do a show to convince the community that the pets are for us to love unconditionally. I like the show and how they got the basketball team to help out to produce the show and the town paid for the tickets and watched the show. After the show was done everyone in the audience took a pet home with the. Yes, I would recommend this to a friend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Keeps your attention </p>
+
+
+<h2> review.date </h2>
+  01-04-2014  
+<h2> review.text </h2>
+
+ <p> my wife, son(10) and daughter (8) watched this show with me for a family movie night.  We all enjoyed it together.  Great show. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice show for the entire family </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

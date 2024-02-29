@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004N85YAQ <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-11-2011  
+<h2> review.text </h2>
+
+ <p> I recently upgraded to this player from my Samsung bd-c5500. My previous player was great but samsung recently updated the firmware which  broke the ability to play many of my 720p mvk files. This player is a nice upgrade from my previous one. It has a much faster boot up time. Picture and sound quality are just as good as my previous player. I havent had an issues with connecting my router via ether net connection. I mostly use this player to watch netflix and connect my hard drive via usb to watch video's Ive downloaded. The netflix app is much quicker on this device than my previous c5500 player. I wasnt too happy with the remote that came with the device. I much prefer my previous remote I had with my c500. I have decided to use my old remote from my c5500 with this device since it works with this player fine.I really like being able to use my android or iOS device as a remote to control this device. The remote is availabe on both the google marketplace and apple app store as a free download. I believe you can use the app when playing games on the blu ray player also. Although I have not tried that feature out yet. The interface of the player is much more easier to use than my previous player. This player also provides more apps that are available to download than my previous player. The player itself can be slow in the menus and accessing files that are on my hard drive. This device is the slowest out of all my 4 other blu ray players I have owned including my previous c5500 player which this one is replacing. I was able to get this player for $80. Personally I dont think you should pay more than about $75 for a player like this. Since blu ray players have gone down in price these days and this player doesnt do 3D or have wifi  it shouldnt cost more than a $75. Overall a great player and I hope samsung doesnt update the firmware on this one that will brick its ability to play 720p mvk files. I may just not update the firmware to make sure I dont loose this ability in the future.January 2012 update: I've been having a numbers of issues with this player. I tried a few of them and they all had the same issues. First issue is where they player starts randomly freezing when in the menus or in a app. I reboot the player and then I get no picture. The only way to get the player working is too unplug it and plug it back in. Second issue is where the audio is out of sync when playing 720p mkv files from my hard drive.  Sometimes I can fix this issue by rebooting. But then it does come back eventually. This is the 4th Samsung blu ray player I've had issues with in the last year. I will not be purchasing any more Samsung products in the future. I have owned a number of Samsung products over the years.  Recently the quality has gone down. Samsung makes cheap sub par products in just about category. Not to mention bad customer service and tech support. If you don't mind buying something extremely cheap and having it last a short amount of time then Samsung will be ok for you. If you want quality and for it to last then stick to Sony and Panasonic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can be slow at times </p>
+
+
+<h2> review.date </h2>
+  04-19-2011  
+<h2> review.text </h2>
+
+ <p> I can't comment on the other reviews that complain about Netflix viewing, because I have not tried that -- but I wanted to offer a positive counterpoint. I also did not care about wi-fi, since my TV wall backs up to my office/computer wall, so the ethernet run was easy and short. I bought this because I wanted a player that I could hardwire (via ethernet) to my router, and watch movies (mostly avi's) that are stored on my computer on my living room big screen. This device works perfectly. Setup was very, very easy, although the firmware upgrade -- automatic -- did take about 7-8 minutes. The only other thing I had to do that required any thinking whatsoever was to download and install the Samsung PC Share Manager software on to my computer. Once that was done, I was good to go, and I'm very satisfied, especially since I paid less than $100. The free Pandora subscription (with no ads!) was a nice bonus surprise. If I had to nitpick, it would be this: The player always gives first preference to a DVD inserted in the machine, rather than giving you the option at startup. So, for example, if I watch a movie tonight off DVD, and leave that disc in the player overnight, when I power it on tomorrow it will automatically start playing it again. So, I have to stop or eject the disc, go to the main menu, select some other action that I want, etc. It's a very tiny gripe -- just not the way I would have designed the system.Update, December 2011: Here's another negative, after using the player for 8 months: The Samsung PC Share Manager software I mentioned in my review is really flaky -- I had lots of problems with it, so, over the past month, I tried every media server software I could find. I settled on Wild Media Server. It's a great product: far, far superior to Samsung's. It isn't free -- I paid a one-time fee of $15 -- but it's easily worth it to get rid of that very frustrating PC Share Manager garbage. (Google it, and you'll find lots and lots of people who agree.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great player & price for my use </p>
+
+
+<h2> review.date </h2>
+  06-19-2013  
+<h2> review.text </h2>
+
+ <p> I purchased this Blu-ray player for my workout room about six months ago, where I use it to watch exercise videos on myToshiba 32-Inch LED TV.  I have been very happy with the TV but extremely disappointed with the Blu-ray player.  This product is full of glitches.  First, I will frequently put a DVD in the tray and close it, only to have the player read "no disc," requiring me to re-load; I would estimate that this occurs about 40% of the time.  Second, for at least one of my DVDs, I am unable to access the sub-menus, as the icon that is supposed to appear on screen simply does not show up in this Blu-ray player (this DVD works fine in my other Blu-ray player, my DVD players, and on my computer).  Finally, I am not particularly happy with the picture quality.  Again, the Toshiba TV provides an excellent imagine, but the Samsung player sometimes blurs motion images or otherwise distorts the view.I would have been better served by buying a cheap DVD player; others may want to spend slightly more to get a better Blu-ray player, including one that has Wi-Fi access.  (Note that in order to make this product have Wi-Fi capability, you need to purchase a separate accessory that costs about HALF The price of the player itself; again, you'd be better off just buying a nicer player to begin with!)  I would definitely NOT recommend this Blu-ray player, and it has made me want to avoid Samsung products in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very glitchy--would not recommend! </p>
+
+
+<h2> review.date </h2>
+  03-05-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this unit despite the the bad reviews, hoping they were mostly ignorant consumers and whining people. I am still a big Samsung fan. After reading reviews from all brands, I believe the Smart TV service this players provide is very faulty, not only pertaining to Samsung.I decided to wait a couple of months before writing this review. Some of the good reviews came from buyers who had the player only a few days.What I have: Samsung 55 inch screen. 30 Mbps internet connection. Player is wired to my router.The problems:- I had to do the registration for Netflix several times.- Netflix streaming sometimes freezes and re-buffers. This never happens with my Wii or my computers.- I remove Sudoku to free memory for other apps but it keeps installing on its own.- Fandango previews do not play smooth.- Last Friday the Smart Hub service did not work at all. It said it needed to update and the installing screen stayed there frozen. Last failed attempt, I wait 10 hours (over night) for the "installing" to finish, but nothing. So I turned it off and went to the Samsung website to post a question that never even appeared, after 2 days. I cant remember where in the internet I read that someone with a similar problem had to reset the unit by pressing and holding down the stop button. Yep, that worked, but I needed to re-register Netflix and re-install and re-register other apps I had. A real pain in the b, specially when you are using your remote control to enter e-mails and passwords.What does work and I love about it:- It communicates well with my Samsung TV. I turn the player on and the TV turns on, or switches to the player.- blu-rays look awesome.- The different type of files it plays thru the USB ports look and sound amazing. I am using a 4gb thumb drive and an old 1TB hard drive in an external hard drive case with USB connection for my 1080 video files. WOW.Watching blu-rays or upscaled DVDS still beat Netflix, Hulu, Vudu or Blockbuster streaming, but they are not too far behind. If the Smart service improves (I think it will), discs will eventually dissapear.Despite this, I will stay loyal to Samsung and keep my BD-D5300.UPDATE 4/1/2012 Going from 3 stars to 2. I am receiving message "you do not have enough memory to load application" when trying to use VUDU... WTF???? I restarted the unit (fun fun), I have a VUDU account and have used it with this player. I feel like throwing the remote at it... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great blu-ray player, Smart TV service not so good </p>
+
+
+<h2> review.date </h2>
+  08-08-2013  
+<h2> review.text </h2>
+
+ <p> The player looks great and works okay. It just takes FOREVER to load a disk... Sometimes it takes twice as along as forever and it gets frustrating. I don't know why it takes so long once the disk is in for it to pull of the menu. Once it does start playing though, it is crisp, clear and great with color. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent graphics but painfully slow load times </p>
+
+
+<h2> review.date </h2>
+  03-26-2012  
+<h2> review.text </h2>
+
+ <p> STAY AWAY FROM SAMSUNG!I purchased this unit in July of 2011 and have sporadic issues the most annoying is that I could not access the "Smart Hub" at times, I would have to turn the unit off and on about 10 times before it would appear, I could play DVD's and Bluray's though.  The major issue is Samsungs lack of customer service when it comes to issues with NetFlix, if you are buying this unit to watch Netflix, DON'T!  Check Google to see all the problems customers have with Samsung and Netflix's, its a nightmare!  At this point my player will not play anything at anytime from Netflix's making the "Internet Hub" useless.  I now have to send this in at my expenses for repair even though it is a warranty problem.  VERY BAD COMPANY!BAD PRODUCTS, BAD SERVICE, BAD CHOICE, THAT'S SAMSUNG! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VERY BAD PRODUCT!!!!! </p>
+
+
+<h2> review.date </h2>
+  08-30-2011  
+<h2> review.text </h2>
+
+ <p> I absolutely love this Blu Ray player. I love anything made by Samsung. What a bargain! It has amazing features and is very user friendly. It is better than any player on the market. If you want the best go with Samsung! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Blu Ray Player </p>
+
+
+<h2> review.date </h2>
+  10-09-2011  
+<h2> review.text </h2>
+
+ <p> I've had this player since July and am very happy with the purchase.  I upgraded from a regular dvd player from Sony to this to watch Blu-ray.  I don't have a fast enough internet connection to do a lot of streaming with it--but I checked out the streaming capabilities and it works fine.  When I upgrade my speed this player will do well.For a cheap player I have no regrets.  It plays blu-ray and regular dvd's fine.  It has a short loading time for the blu-ray.  I can totally see the difference between high-definition dvds and regular dvds.I didn't need the 3D capabilities--just something to play my discs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Samsung BD-D5300 Blu-ray player </p>
+
+
+<h2> review.date </h2>
+  04-11-2012  
+<h2> review.text </h2>
+
+ <p> It's taken three or four ROM updates, but this DLNA player can find and stream content from a mythTV system. It can see everything under Recordings, Videos & Music. While watching a recording from mythTV, you can fast forward & rewind in approximately 10-second increments, but it's not aware of myth's cut-list or commercial skip.In addition to better codec support, the ROM updates have added new content options for streaming from various internet channels.I intended this as a secondary player in the bedroom to watch BD disks and stream from the myth box. It meets those requirements now. I wold not recommend this as your main BD player. It is underpowered (slooow menu navigation) and the menus are terrible. The streaming page looks like 20 tiny icons with 4 point text you have to get right up next to the screen to read. Netflix streaming is acceptable, but not great and that menu is also poorly designed. The remote control has tiny buttons and you'll need glasses to see any writing on it.It does everything I wanted, but it's slow & ugly.Update 7-APR-13It can also stream from a MediaTomb server, but not with the default config.xml file. Find it at:[...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DLNA works with Myth </p>
+
+
+<h2> review.date </h2>
+  06-15-2012  
+<h2> review.text </h2>
+
+ <p> this player came in great shape. plays all my movies from blu-ray, dvd and home made movies. the apps are amazing!! must buy player. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> best movie player! which came faster then thought. </p>
+
+
+<h2> review.date </h2>
+  04-15-2013  
+<h2> review.text </h2>
+
+ <p> this player is much faster than other blu ray disc players. my previous one is very slow. this one is fast </p>
+
+
+<h2> review.summary </h2>
+
+ <p> this player is much faster than other blu ray disc players </p>
+
+
+<h2> review.date </h2>
+  10-24-2012  
+<h2> review.text </h2>
+
+ <p> I got this player brand new, and set it up last night.  I only want to watch blu ray/DVDs on this player because I have a Tivo premiere that can do all the internet apps.  The DVDs load quickly and play fine, but the blu ray disks take forever.  The quality is amazing, don't get me wrong, but I was waiting close to 30 seconds for any blu ray disk to load.  The player also makes loud noises when loading, which I assume is the disk or tray.  Not cool.  Also, there's no tray eject button which is annoying.If this keeps up I might try to return it.  I bought this to go with my new Samsung 55 inch, and so far I'm not too happy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bought it only for the blu ray player, amazing picture, but incredibly slow </p>
+
+
+<h2> review.date </h2>
+  12-09-2013  
+<h2> review.text </h2>
+
+ <p> Purchased this for my mother as a christmas present since I own one personally it is a very good product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good blu ray </p>
+
+
+<h2> review.date </h2>
+  12-11-2011  
+<h2> review.text </h2>
+
+ <p> We got this one on clearance after our refirbished Samsung 5100 stopped working in less than a month.  We thought it was b/c it was refurbished that we had issues, unfortunately, this machine is not much better.  We stuck with Samsung as our TV and Home Theatre are also Samsung and we wanted them to work together.  But, the remote to the Blue Ray won't work anything but the power button on the TV (not at all on the home theatre) and the remotes for the TV and home theatre wont work on the blue ray...go figure.  We like to watch Hulu and Netfix (one of the main reason was to be able to stream in another room in which our Wii wasn't hooked up).  This machine is SLOW!!! The remote connection is SLOW!!! Several times it has locked us out and said it "lost connection" and we have to reload what we were trying to watch.  As a blue-ray player, it seems to do its job, we only have 3 blue-rays disks, only purchased b/c we could.  I don't know what other Blue Ray players go for that work at a faster pace, but we paid $89 for this one, if there are better ratings on another for the same price I would recommend the switch.  I don't think we will return this however, we did consider it, but I will say we will not buy another Samsung Blue Ray machine again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Acceptable </p>
+
+
+<h2> review.date </h2>
+  02-03-2012  
+<h2> review.text </h2>
+
+ <p> Unit was defective right out of the box. Remote button presses were doubled and it crazily paused and played constantly by itself and other electronic insanity. Returned (at my expense) for refund. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Defective </p>
+
+
+<h2> review.date </h2>
+  04-24-2012  
+<h2> review.text </h2>
+
+ <p> The Amazon description incorrection states:"Wi-Fi-ready - The BD-D5300 features an Ethernet port for a wired connection to your home broadband network, but if you'd like to go wireless you can add a Samsung wireless adapter and enjoy connectivity free of cables--great for those whose Blu-ray will not be close to their router."This information is false. I bought the Samsung WIS12ABGN Linkstick Wireless LAN Adaptor, and it will not work. I contacted Samsung support and they told me that the BD-5300 will only work with a wired connection.Other than the lack of wi-fi readiness and capability, the player worked very well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No wi-fi connectivity even with the adaptor </p>
+
+
+<h2> review.date </h2>
+  12-05-2011  
+<h2> review.text </h2>
+
+ <p> I was looking for a mid-range, non-wireless internet enabled blu ray player.If you're looking for the same thing, look no further. This is it.You can purchase a separate USB wifi adapter for it if you are so inclined, but I can't really comment on that as I use it wired.I've used it for Netflix and streaming a couple videos of my daughter from my computer to my HDTV. Both worked flawlessly.Started watching a blu ray disc the other night but had to stop about 20 minutes in because little one woke up. From what I saw, worked perfectly.It isn't the speediest unit in the world. A bit sluggish on selections. But like I said, I was going for mid-range (read: inexpensive) option and lo and behold, here we have it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect. </p>
+
+
+<h2> review.date </h2>
+  04-26-2012  
+<h2> review.text </h2>
+
+ <p> For under $100 this player works great.  I mainly use this player to watch movies and have not used any of the online apps yet because most of this content is repetitive to what is offered on my TV and Apple TV.  I was able to program the remote which I got from AT&T to work with this, and it can even do advanced stuff without issues which means one less remote needs to be left out another plus.  It is also fast at loading compared to a lot of other Blu-ray players I have seen although not instant.  It has both HDMI as well as composite out, no component out though because of new industry regulations.  The one issue I have with it (and almost everyother HDMI device) is that the IR Link is not compatible with other brands which means that you need to point the remote at the player instead of your TV. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good with a small issue </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

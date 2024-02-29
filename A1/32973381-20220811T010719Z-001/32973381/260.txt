@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0013AVNOS <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Loved it!!  Fantastic!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love Frank Langella and this was the first time I ever saw this film. The adjectives to describe this film are endless.I will not go into too much detail about the plot for fear of spoiling the viewer's enjoyment.The other reviews on here pretty much outline the story, so I will just add how much I enjoyed it.Lauren Ambrose and Lily Taylor have been on my favorites list since I watched the wonderful series 'Six Feet Under' on HBO.Langella is just nothing short of the best actor in any media you can find. I remember him from the 70s when he first started outin the spotlight as a sex symbol. But his talent at the time was overshadowed by the hype of his good looks at the time. Now that he's older, he's shown the world how distinguished and classy he is and now his talent is getting the recognition it so richly deserves.He's always had the gift, but only a few of us out here have been mesmerized by it all this time.Yes, he should have gotten an Oscar nod for this roll.And he's still a wonderful looking man too!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A quiet and different film </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-09-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you're only into special effects, forget about this quiet, thoughtful movie about an older writer, a younger fan and student and the dance theyembark on. She's using him but he's definitely getting something out of the relationship also. frank Langella is incredible. Lauren Ambrose and Lili Taylor are spot on in getting just the right nuances for their characters. An adult movie with next to zero sex. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Langella's Schiller hardly seems like acting...until you remember his entirely different outing in Frost/Nixon </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-24-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> With the exception of a very uncomfortable, reach-for-the-fast-forward button bedroom sequence, we enjoyed this small, intelligent film a great deal.  Frank Langella is a hallmark of excellence.  His Leonard Schiller hardly seems like acting...until you remember his entirely different outing as Richard Nixon (Frost/Nixon).Lili Taylor is excellent here, too, as Langella's on-screen daughter Ariel.  She's looking beautiful and performing better than ever at 42.Adrian Lester - haven't thought of him since his turn as Henry Burton in Mike Nichols' adaptation of Joe Klein'sPrimary Colors: A Novel of Politics.  He gives a nice outing here, too.  His scenes with Langella are outstanding - the metamorphosis of their relationship is touching and realistic. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An overwhelming piece of cinema! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-05-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I didn't keep any expectations from this very film. I honestly didn't have any and to my warm surprise I found out this film to be one of the finest drama's of all time. Frank Langella, the more you can say or get to know about him, the lesser it is. It's one of his finest performences that leads completely to perfection, he is simply the pure example of  versatality in cinema, you can't take your eyes off him. The sensitivity, the emotions potrayed by him in the film is simply beyond words. Lauren Ambrose was quite good as the curious young student, her flamboyant acting resulted in a good chemistry with Langella. Lily Taylor delivers a decent performence as Langella's daughter. Its not just a film for a viewing pleasure, its something that drags you in each situation, lets you think once or twice. One of the finest cast performences. Give it a look! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Yuck!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-13-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Yes, Frank Langella was great in his role as the aging writer. But overall, this movie is a snoozer!I watched and watched hoping it would get better and it never took off.The story is boring!Look elsewhere for a good movie to watch this weekend! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Umm, got old? </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-26-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Here's the thing about old people. They're old. They walk slow, they talk slow, they watch boring stuff on TV. And seriously, you ever get behind one of them in a car? The mystery though, the thing that seems to go against every expectation, is that inside every old person? Is a young one. Sometimes they're forgotten, sometimes they're huddled in some dusty corner of the brain barely breathing, but still, they're there. And it's this young person that Heather Wolfe (Get it? Wolfe? As in aggressive young predator? ... Brilliant.) is looking for when she seeks out Leonard Schiller. Schiller (Nicely underplayed by Frank Langella who, by the way, has 76 listings on his filmography page on IMDB.) has published four books; two relationship novels and then later two more serious meditations on..well...serious stuff. When we meet him in the story though all his books are out of print and he's spent the last decade quietly working on his fifth and, presumably, last novel. (Cause he's, you know, old.) Along comes Heather Wolfe (Played by "Six Feet Under's" Lauren Ambrose.) (Gorgeous. Young. Talented.) (Sigh!), part ambitious budding young literary force, part knight in shining armor, who plans to do a thesis on Schiller, thereby reinvigorating his stalled career and reputation. But...does he really want to be reinvigorated? Therein lies the question.Couple points we should make here. This movie's a little slow. In fact it was a two parter for me. I grew up watching things like "The Monkeys" and "The Banana Splits" on television (Yes, the scaring is deep.) so I have an incredibly short attention span. I watched the first half of this Tuesday night, switched to a little anime (Tokko, very exciting.), went to bed and then came back Wednesday night and finished it. So the story didn't drag me uncontrollably forward. And second, I found the May-December thing a little uncomfortable to watch. (And if I could just stop here for a moment and make a point? I am not old. Okay yeah, I'm 47 and yeah, I'm looking for a 20 year old girlfriend [Anyone that's interested can email me at [...]] but that is not the same thing at all.) (Seriously.) Umm...where was I? Oh yeah, the May-December thing. On the one hand it was a little uncomfortable but on the other hand, that's one of the reasons we watch movies. Or at least it should be. To see things that make us uncomfortable. To view the world in ways we normally don't get to see.So, all in all? This is a lovely movie. Andrew Wagner, the director, takes what could easily be a very pedestrian, clich&eacute;d story and turns it into a moving tale and the cast, across the board, is outstanding. (Lili Taylor plays Schiller's not-very-happy-in-love daughter and, seriously, did she always have that body? I swear she's even hotter than Lauren Ambrose.) (Oh my God, my age is showing again isn`t it?) (Sigh.)A good one for your DVD collection. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Beneath The Surface </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-14-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> On the face of it, Starting Out In The Evening is about a graduate student wanting to write a thesis about an author who hasn't been published in years. The author, at first reluctant to give any piece of himself away, refuses to talk about his work. How they become friends as his daughter is pulling away from him; and the lies and betrayal of all the characters glued me to my seat. It shows that you don't need random acts of violence, car chases and mindless sex to create an atmosphere of "What will happen next?". I'm not a fan of Lauren Ambrose as such, but the four main actors were excellent in all their roles.This is a film of subtlety, one to watch more than once, to see the spaces between what is shown and what is implied. The ending will truly surprise you.It's a winner-something to watch and savour. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Langella's Superb Work Anchors the Rare Film That Captures the Solitude of the Writing Process </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> It should come as no surprise that this quietly affecting character study barely left a trace in theaters last year since movies about literature and the writing process are hardly fodder for young teenaged boys looking for outsized CGI-saturated extravaganzas. However, co-writer/director Andrew Wagner's (The Talent Given Us) sophomore effort benefits immeasurably from Frank Langella's deeply nuanced performance as a once-renowned novelist long forgotten and facing his own mortality as he attempts to finish a valedictorian work ten years in development. With his recognizably sonorous voice and intensely watchful manner, the 68-year-old actor has never been known for playing sympathetic roles, but he seizes the heart of a becalmed man so engulfed in the creative process that he reacts to any intrusion upon it with a subtle, leonine fury. It's been nearly four decades since his film debut as the egotistical, caddish writer in Frank Perry'sDiary of a Mad Housewife, but what a treat to see him bookend that performance with this one.Langella portrays New York-based Leonard Schiller, whose four published novels have been out of print for years. In declining health, Schiller tries to interest a publisher friend in his latest, yet-to-be-completed novel, but he is told there is no market for literary-type novels. Precipitously, an enthusiastic graduate student named Heather Wolfe walks into Schiller's intensely private life to request a series of interviews for a masters thesis she wants to write about him. She is such an unabashed fan that her goal is no less than having Schiller rediscovered. The author is initially resistant, but he wears down under her coquettish persistence. At the same time, Schiller's self-loathing daughter Ariel has grown up being used to playing second-fiddle to her father's work. Single and closing in on forty, she hears her biological clock ticking as she resuscitates an embattled relationship with her estranged lover Casey, who is equally vehement about not having children. The plot threads eventually mesh when Schiller opens up to Heather and realizes how dormant he has kept his feelings since his wife's death over two decades earlier.Beyond Langella is a trio of solid performances though none nearly as impressive as his. Lauren Ambrose (Six Feet Under) captures Heather's youthful vigor and innate intelligence, but I found her use of Lolita-style wiles to be a bit mechanical within the scheme of the storyline. Always worth watching, Lili Taylor is on pretty familiar territory as the conflicted Ariel, but she manages to bring her likeably neurotic manner to the role. I haven't seen Adrian Lester since Mike Nichols'Primary Colors, but he's a welcome addition here as the slow-to-evolve Casey, especially in a tense small-talk scene with Schiller during Ariel's birthday celebration. In fact, much of the dialogue by Wagner and co-writer Fred Parnes has a smart, insightful quality that doesn't call undue attention to the intellectual observations of the characters. Even more, their strong screenplay makes the series of rude awakenings toward the end resonate with a combination of heart and necessary harshness. The 2008 DVD is short on extras - Wagner's thoughtful commentary and the theatrical trailer - but this small-scale film is well worth discovering, especially to see Langella at the very top of his game. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Turns into big snoozer </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-17-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Starts out decently with the cautious relationship between the agingand becoming obscure writer and a young admirer doing her thesis about his work.  However, the story bogs down and never delivers.  The companion story, the touch-and-go relationship between his daughter and her boyfriend, is dull through-out.  This movie is about as artistic as a slow cooked omelette. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Write Stuff </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-28-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> ***SPOILERS***i hope everyone forgives me for this doubly-politically-incorrect groaner from Hollywood:question:  how do you know a starlet is Polish?answer:  she goes to bed with the writer.(budda bing ... budda boom)with the exception of the few writers who are rich and famous, to the extent that to be *desirable* a man needs to be either a 'catch' or a 'hunk', making a play for a writer is usually a lose-lose proposition.however writers, of course, write (and often pitch) the scripts in film land.  thus, from time-to-time projects go forward in which a lush young woman offers up her charms to an icky old writer.  within this sub-genre, "Interview" is a late-middle-aged Portnoy's complaint along the lines of:  women -- you can't live with 'em, and you can't kill 'em.  by contrast, "Starting Out in the Evening" is a chick-flick that views relationships through the other end of the telescope:  nice guys aren't 'hot'; but, alas, the 'hot' ones aren't willing to commit."Starting Out" gives its viewers 3 relationships to mull over.  there's a December/May tryst involving the dusty and fusty Leonard Schiller (Frank Langella), a retired lit teacher with a bad ticker whose 4 published novels are long out-of-print, and who has been trying to complete a 5th one for 10 years.  (a gen-X literary editor describes his generation of novelists as the kind of white males who wear a suit and go to bed by 9:30).  to his utter befuddlement, Leonard's monotonous daily routine is suddenly upended by Heather (Lauren Ambrose), an ambitious and determined grad student.  Heather's siren call is that if Leonard cooperates on her master's thesis about him and his work, the result might be the revival of his literary reputation -- just as the critic Malcolm Cowley had revived William Faulkner's.and, there are the 2 relationships of Leonard's soon-to-be-40, more-touchy-feely-than-cerebral, daughter Ariel (Lili Taylor):  one with Victor (Michael Cumpsty), a nice guy whose baby she is trying to have (without his knowledge), and another with Casey (Adrian Lester), who won't consent to becoming a father, but unlike Victor, isn't melanin-challenged.when the couples aren't coupling onscreen (thankfully briefly), there's a lot of literary chatter.  for example, we learn that Leonard goes about writing by starting with a character who does something quirky that Leonard wants to explore.  then he "follows" this character, and others he adds along the way, until he has a novel in hand.there's also the delicate subject of how much of Leonard's fiction is disguised autobiography; and, whether the theme of Leonard's early works is "freedom" (defined as a woman's freedom to leave any relationship that gets in the way of her career).  and, of course, just why is it that Leonard, in spite of being as rigidly disciplined in his writing routine as he is in everything else, still hasn't finished a novel after 10 years of pecking away daily at his Royal (manual) typewriter?on the issue of art vs commerce, there is a nice little cocktail party repartee between Leonard and Sandra (Jessica Hecht), the aforementioned literary editor.  Leonard pontificates that over the course of his career he hasn't done work tainted by commerce, such as writing for the advertiser-supported publication where Sandra works.  she replies that advertiser-support makes it possible for new voices to get published (eg, Heather).some viewers have raved about Langella's portrayal of a Jewish intellectual who has spent his life on the Upper Westside of Manhattan.  i will grant that his is certainly a serviceable performance.  (indeed, all of the performances are solid.)but, this brings up a pet peeve of mine about American films.  by my lights, the better American films have by far the best scripts, directing, acting, cinematography, etc, in the world.  however, i continue to be baffled by many, many choices in casting.  Leonardo DiCaprio as Howard Hughes ("The Aviator"), Nicole Kidman as Virginia Wolfe ("The Hours"), Jack Lemmon as Shelly Levine ("Glengarry Glen Ross"), Stanley Tucci as Joseph Mitchell ("Joe Gould's Secret"), and Ben Kingsley ("You Kill Me") as a low-level Polish American thug (to name just 5 of the examples that immediately come to mind) are simply absurd miscastings.  Frank Langella, fortunately, does a passable job.  but, is there really such a shortage of older Jewish actors from New York that an Italian-American was the optimum choice for the role of Leonard Schiller?that cavil aside, "Starting Out" has an ending-up worth waiting for. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Could Have Been So Much Better </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> As so many other reviewers have commented here, Frank Langella is very good in this film but otherwise, it wasn't great.Predictable story with some characters that weren't very credible, particularly the author's daughter and her obnoxious, selfish boyfriend Casey.I think this story had a LOT of potential but it fell flat onscreen. Slow paced and no surprises here. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Flawed Gem </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-21-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Let me state at the outset that this review concerns the theatrical release only. I have not read the book nor read any of the reviews for it. I caught this film just before it disappeared after a brief run at my local art cinema. Frank Langella deserves an Oscar nomination for his supremely restrained portrayal of a buttoned-up recluse, an emotionally remote retired professor and novelist, who has been working for years on what may well be his final novel, if he can ever finish it. It is not the first time this great actor has played a writer - for a spectacular contrast see his performance as the womanizing solipsist in `Diary of a Mad Housewife.' Here he is seduced by a flirtatiously manipulative grad student (Lauren Ambrose) into allowing her to enter his largely solitary life for the purpose of a series of increasingly pointed interviews that will help her complete the ambitious thesis she is writing about his work. So great is her apparent admiration for her `sad knight' that one wonders whether she is  totally sincere, or deluding herself about him, as he may indeed be about both himself and her. But she is so flattering, intelligent, and attractive, and he is so kindly generous, that he cannot manage to oppose her when she persists. The ingredients at this point would make for a pretty good drama. However, the film suffers because, as happens with so many film dramas, too heavy-handed a final edit has reduced the main story to a series of vignettes interspersed with scenes from a largely irrelevant subsidiary plot concerning Schiller's unmarried, childless, daughter (Lili Taylor), who on the eve of her fortieth birthday, unhappy with her dull lawyer boyfriend because he does not want her to have a child by him, re-encounters an old flame (Adrian Lester) with whom she had broken up five years before over the same circumstance. The fact that her old love is black is not remarked by anyone as a problem, reflecting either the liberality of the subjects, or the presumed liberality of the audience. This rather clich&eacute;d and uninteresting sub-plot gets in the way of furthering the development of the relationship between the principals, as Heather attempts, with her combination of bookish intelligence, earnestness, and sexual provocations (whether inadvertent or deliberate we are not permitted to know), to unravel the mystery of why the stubbornly proud, and hopelessly idealistic professor, whose work is largely forgotten by a publishing world more oriented to pop culture than artistic endeavor, who refuses its offers of commercial largesse, has failed to produce anything quite as brilliant as his first two books. Something happened and we do not know what. Scenes appear to have been cut between Heather and her editor acquaintance and between Ms Schiller and her lover that might have further elucidated the mystery, that embodied by the principal characters, with their differing motives, and the budding signs of romance between them. Scenes must have been jettisoned for the sake of getting the film in well under two hours, or for the sake of maintaining the distracting sub-plot, and whether this occurred because of some perceived need to maintain the contours of the book, or a lack of inspiration at the heart of the story, is immaterial. Deserved praise is due Frank Langella for a brave, and very restrained performance along with co-star Ms. Ambrose. Regret for the deficiencies of an irrelevant and annoying sub-plot that might have been better employed to further the mystery of the tragic dilemma at the heart of the creation of art, or any great endeavor, that to continue, to succeed, a certain stubborn, dogged courage, a selfish recklessness about oneself and others, of their feelings and opinions, seems to be required. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 'The madness of art' </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-27-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> STARTING OUT IN THE EVENING is a quietly moving work of  art, a film adapted from Brian Morton's novel by screenwriters Fred Parnes and and Andrew Wagner (who also directs) that dares to take us to the wall with decisions we make about how we conduct our lives and negotiate the changes that can either be stumbling blocks or stimuli for creative awareness,  It has much to say about the creative process of writing, a theme upon which it first appears to be based, but it more importantly urges us to examine how we live - how we make use of this moment of time in which we inhabit a body in the universe.Leonard Schiller (in an extraordinarily understated performance by Frank Langella) is an aging author, a man whose first two novels seem to set the literary world on fire, but whose next two novels languished on the shelves and slipped into the same plane of obscurity Schiller finds his life since the death of his wife.  He has a daughter Ariel (Lili Taylor in another richly hued performance) who is nearing age forty and is unable to bond permanently with a man because of her obsession with having children before her biological clock ticks past fertility.  Into their lives comes Heather Wolfe (Lauren Ambrose), a bright young graduate student who has elected to write her master's thesis on the works of Leonard Schiller.  Schiller is absorbed in writing what may be his last novel and can't be bothered with Heather's plea for a series of interviews.  But curiosity intervenes and soon Heather and Leonard are involved in the process of interviewing, a process which gradually builds into overtones of Heather's physical as well as intellectual attraction to Leonard.  Meanwhile Ariel observes the process that seems to be infusing life into her father and encourages  her to exit her current relationship with Victor (Michael Cumpsty) and  re-connect with the true love of her life Casey (Adrian Lester), a man she loves but who refuses to give her the children she so desperately wants.  The manner in which these characters interact and learn from each other the importance of sharing Life instead of obsessing with selfish goals brings the drama to a rather open-ended close, another factor that makes this story significantly better than most themes of May-December romance and unilateral coping with self-centered directions.The pleasures of this film are many, but among the finest is the quality of acting by Langella, Taylor, Ambrose, and Lester.  In many ways the story is a parallax of views of life as art that subtly intertwine like a fine string quartet.  Why this film was ignored by the Oscars only suggests that movies for the mind take second place to movies for the merriment of entertainment.  For people who enjoy the challenge of a meaty story, this film is a must.  Grady Harp, April 08 </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Five stars for the geniuses who collaborated on this film... </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-20-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wow.  I just saw this (DVD).  I was overwhelmed, touched, perplexed, and often near tears, though I found myself resenting the emotional upheaval the way the writer in the story resented the vivid, stubborn young student who invaded his narrow life.  When you can't control your feelings before a work of art - or the artists involved - that's gotta be a good "review." </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> When the ashes of the memories of a writer rekindle </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-09-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's not really frequent to find such artistic jewel into the great universe of what we use to label a promissory commercial film. But fortunately, the independent films have achieved an important status place among the most famed artistic proposals in years. Since those times in which Casavettes, Hopper or Fuller literally made miracles with those low budgets to get here and there in the late sixties, it would seem the great audiences claimed for new stories free the well known formulas of free violence or special effects.Somehow Woody Allen since his beginnings as filmmaker, bet for this entangled road and later, Robert Redford realized about this enormous breach in the market and understood the necessity to create the Sundance Festival. And here we have how films like Crash could achieve the maxim honours without colossal budgets.Of course, we never should the contribution of Paul Shrader, David Mamet and so many others who contributed with notable intensity to promote and discover unexplored horizons.This well rounded cinematic jewel, has been by far one of the most emblematic, intelligent and mature films that I have seen in years. Frank Langella ( in the role of his lifetime) made a real tour de force performance, better than perfect acting about a writer who suddenly will be faced by a smart student who will make her thesis about his previous works.Since he was in his 45 he suffered what we might a lack of creative inspiration, and so through those brilliant conversations, he will reencounter with himself, when those intense dialogues became a shock therapy into his slow paced existence. "What it wonders is whether the people will still be reading in the next hundred years" " or "The madness of art" " are not precisely adrift sentences, but forceful statements into that memorable and intelligent literary encounter.A chamber work that pitifully is the exception of the rule in those times. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Frank Langella is AMAZING </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-14-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Frank Langella has been a favorite of mine since DRACULA.  He never disappoints.Just watching him is a pleasure.  No high tech, no explosions, just Frank Langella and an amazing ensemble cast. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Langella is awesome </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Frank Langella is a great actor who has not received the acclaim which he deserves -- perhaps because he has mainly focused on theater.  His performance in so many of his movies has been awesome and this movie is no exception.  The story is poignant and not one that most actors could credibly perform. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Meaty and Melancholy </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-18-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> This quirky little film is couched in melancholy and will likely appeal to a writer or literature lover's heart. Literary discussions and shoulder rubbing make up a large part of the film. Secondary (or buried primary) is each character's hunger for love and passion.Different relationships are explored through non-verbal, verbal and passive avenues including a May-December dalliance and father-daughter angst. Each relationship is colored with its own unique twist of dysfunction.The characters are complex and the plot requires the attention of the viewer. Much of the film is dialogue.  The actors bring the characters to life.There are several short sex scenes, some more embarrassing than others and explicit male nudity in the final third of the movie. Otherwise, a few raw words and comments pepper the dialogue. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pulsates with a quiet intelligence. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> An aging writer clacks away on his typewriter, racing to complete his last novel before his life ends.  An ambitious and assertive grad student (Lauren Ambrose) is writing her Master's thesis on him and inveigles herself into his life.  The relationship becomes a bit more than just mentor/student, however.Parallel with this subplot, the writer's grown daughter (Lili Taylor) hears her biological clock ticking as she approaches her 40th birthday.  She wants a child but the men in her life, though, seem to be averse to either commitment or parenthood.The movie's pace is slow, but offset by its quiet intelligence.  Frank Langella gives a masterful performance as a portrait of the novelist as an old man.  Lauren Ambrose looks as edible as an over-ripe peach bursting with flavor.  Perhaps no other movie has ever captured such a perspective on the process of fiction-writing."Starting Out in the Evening" is a gem!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> SAD in Manhattan </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> "Starting Out in the Evening," a subtle winter's tale about an aging author of four novels, none of which are in print, begins with the author, played brilliantly by Frank Langella (he's made up to appear to be in his mid-70s), plodding away at a mechanical typewriter in a large prewar apartment on Manhattan's Upper West Side, trying to write his fifth (he's been trying for a decade, as we learn soon enough).Enter witchy grad student Heather Wolfe (perfectly named), played by Lauren Ambrose, who's doing a master's thesis on his work. The rigid Schiller tries to reject her, but finally overwhelmed by her vivaciousness, keen intelligence, and carnivorous sexuality, he allows her into her life. Meanwhile Schiller's neurotic daughter, nearing 40 and feeling that old biological clock ticking, played (again, to perfection) by Lili Taylor, reconnects with her old lover, Casey (Adrian Lester). As in the rest of the movie, it's the small things that count. Casey's black, but nobody ever mentions it--although Schiller doesn't like him much, it doesn't seem that race plays any part in his dislike.Thus begins a quadrille that plays out during a New York winter. Shot in muted tones, the movie gets just right the look and feel of a New York winter, where Manhattanites rage, rage against the dying of the light.Langella's performance is perfectly pitched. He, too, is raging against the dying of the light, although with style. This is an elegant man (he's addressed as "Professor" by his doorman but he's retired from, probably, Columbia although this isn't stated) who actually wears a tie while he's writing. But Ambrose, with her flaming red hair and smile at once eager and predatory, has the trickier role. In one scene (played out while she's about to leave after one interview session and is waiting for the elevator) she reveals that she was admitted to Brown University a year early, thus skipping her senior year at high school. She has to convince her interviewee-victim as well as the audience that she is that smart, and she does so, as she becomes increasingly controlling. (She doesn't push the elevator button until she gets her self-advertisement across.)Director/co-writer Andrew Wagner plays up the age differences brilliantly. In one revealing scene, Ambrose meets Langella for dinner at a typical Upper West Side beer and burger place to celebrate the completion of the first draft of her thesis. The waiter approaches to take their drink order. Ambrose, whose imbibing up to this point in the movie has been at wine and cheese affairs, inquires "what do you have on draft?" And as the waiter rattles off the list and Ambrose makes her selection, Langella looks stunned--he's never seen her in her own element. At once, you realize she has selected the place; he's on an archaeological expedition. He orders a glass of house white wine.Just amazing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not sure what I took away, but I cherish it. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Was this film about aging, the disappointments of life, thwarted ambitions, longing and emptiness, our legacies, etc., etc.??  All I know for sure is that I saw some great acting from an intelligent, coherent, sincere script.So I was completely satisfied...and you will be "glowing" at it too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wonderful </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-17-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> This movie was wonderful.  Sometimes while watching a movie I have a tendency to see how much time remains until the film is over, not so with this movie.  The time seemed to fly by.This is a stellar movie about a man's self reflection of himself. Sometimes it's not pretty but it's something that you have to do.Langella is absolutely amazing in this picture, I smell Oscar.If you are a writer, or ever wonder what it would be like to be one, this is a must see.One of the best films I've seen in a long time.Do yourself a favor and watch this picture, it's a work of art.Happy Watching! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Makes Me Wanna Grab A Book...In A Good Way </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-04-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wow!  What an outstanding bit of drama we've got here.  STARTING OUT IN THE EVENING does such a fabulous job in using the medium of film to discuss and explore the medium of writing that I will never dismiss the craftsmanship it takes to compose a single book.  This is a story that takes the ambitions of several characters, weaves them together in convincing fashion, and subtly sways into another realm of thinking.  Does this intrigue you?  Well, in case it doesn't, let me describe the first scene of the film to you.A young woman sits in a small diner, waiting to meet the subject of her thesis.  Heather Wolfe and Leonard Schiller sit together.  Leonard almost immediately thanks her for her admiration of his work as a writer, but quickly dismisses her interest because he can't be bothered while he works on another book in his old age.  The beautiful interviewer reluctantly agrees to his wishes, but only after being allowed to see his home, and borrow a few copies of his out-of-print books.  Just before leaving his home, Heather suddenly kisses Leonard.  It is not sexual, but a rather strange gesture of admiration.  While the two are meeting this way, Leonard's hurried daughter Ariel is qickly dropping in and out of Leonard's apartment.Once Heather and Ariel leave together, we are unsettled and riddled with questions.  "Did that just happen?"  Or better yet, "How exactly did that happen?"  You will want to explore these questions for perhaps the same reason that Heather & Leonard continue the interview process together.  They are fascinated by each other's point-of-view in writing; we are stunned by the subdued performances of Lauren Ambrose and Frank Langella, two of the best of their respective generations.  We don't get a firm grasp on Ariel quite yet, but thanks to Lili Taylor not missing a beat in her role, we are patient as the story progresses.I am mentioning the way this drama develops because the lives of these three characters (and eventually a fourth, one of Ariel's former lovers) progresses in a natural, delicate, and touching way.  There is clearly an attraction between the aging Leonard and ambitious Heather, but it's almost mutually metaphysical.  In the end, they're writers, wanting to acheive something more through the words on a page.  STARTING OUT IN THE EVENING explores the creative process of writing very carefully.  What inspired Leonard to write his first two books in a very personal way?  What drove him to remain detached when composing his third & fourth books?  Don't be intimidated by these questions if you're not a bookworm; I'm not an avid reader, and Langella & Ambrose communicate the meanings clearly through their facial expressions alone.Ariel's thread in the story is also about creation, but she aspires to create something outside of a book.  She desperately wants a baby as she nears 40.  Her latest effort is to reconnect with Casey (well-played by Adrian Lester), a man with whom their relationship split because of their disagreement over having a child.  But Ariel persists, because maybe Casey will change her mind.  Leonard persists as a writer, because maybe his work will be published, unlike his last effort.  The need to share with another human being on some level is, I think, the key element from this film.Although I give most of the credit to the four primary actors, STARTING OUT IN THE EVENING is still a marvel to look at.  Director & co-screenwriter Andrew Wagner uses his locations of the New York City burroughs very well.  If I'm not mistaken, most of this takes place in Greenwich Village, an area renowned for being a hangout for artists.  The locations are very intimate and tightly-spaced, which is a good way of visually engaging us in the deep conversations that these characters have with one another.  For example, when Ariel reveals to her father an early plan to conceive a child without telling the man, ask yourself: "Would this shocking revelation have worked if the two weren't scrunched together in two theatre seats?"  Another small scene that got to me is when Leonard and Ariel are just hanging out in a bookstore, pleasantly browsing through the shelves & piles.  I've spent hours in a DVD store, not necessarily to buy anything, but to just admire the body of work that sits on those shelves.  Can you relate to the father & daughter casually talking about their lives, while skimming through pages?  I'll bet you can, if not through books, then with something else.  And because Taylor, Langella, Ambrose, and Lester are such giftec actors, we care whenever they're holding a book in their hand.  To them, words on a page mean something.  One tiny contrast is when Heather begins to realize she may dislike Leonard's last two books, while Casey is sitting in bed, and telling Ariel how much he's into her disapproving father's more detached book.There are several pitfalls that this story could've taken, and it avoids them all.  The tension between Ariel & Casey could've been turned into romantic melodrama, but thankfully it evolves into a romance involving two sensible adults.  There are scenes when we sense the the relationship is doomed, but the movie keeps one step ahead bu letting the two characters acknowledge their faults.  When Heather's working relationship with Leonard begins to become colder & deeper, Andrew Wagner holds back on the brooding.  Langella & Ambrose are marvelous actors, but Wagner made their performances richer by not having unnecessary shots.  Think about it: how many dramas like this have scenes where the contemplative characters stare their struggles into some distant sky or river?Andrew Wagner has communicated the methods of one art form through the techniques of another.  To make us care about the characters of a drama is one thing.  To use movies to explain the process of creating a book is one thing.  To do them both is immeasurable and invaluable.On the DVD's commentary track, when the credits begin, Wagner simply says "Thank You" to everybody whose name comes along.  It is we who should be thanking the talent for bringing such a compelling work of art to the screen in a time when they're becoming harder to find.  STARTING OUT IN THE EVENING is one of the most enrichening experiences I've had in recent memory. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Lauren Ambrose and Frank Langella Shine </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-12-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I rented this film because I'd heard of Mr. Langella's many awards and nominations for this role. He is certainly as focused and subtle as the character requires, and is most subtly  impressive. Equally as impressive is the lovely Lauren Ambrose, the only spark of energy in the film. This is an indie film about damaged characters, and there really isn't a whole lot of new material here, except it's all handled by a bunch of reliable pros. Lili Taylor is always good, but she's become a bit type-cast; a very fine performance by Adrian Lester as her non-committal boyfriend is complete and focused, a difficult role. I'm glad I saw this fine film, but, if I bought it, I doubt it'd be one I'd pull out for repeated viewings. It's interesting that this year's Oscar nominations include Langella, in a powerhouse role, and Richard Jenkins in a subtle role, similar to Mr. Langella's in "Starting Out in the Evening". </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Quietly powerful movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-28-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> College professor Leonard Schiller (Frank Langella) writes the kind of novels that - in this age of tell-all confessionals and ghost-written puff pieces - publishers no longer want to publish and readers no longer want to read.  Or so he's told by an editor who displays little interest in Schiller's latest, as yet unfinished, work (and which may explain why all of the writer's previous works are currently out of print).  However, the publisher's lack of interest is more than matched by the intense interest shown by Heather (Lauren Ambrose), an attractive, rather pushy grad student who's writing her masters thesis on Schiller's body of work and, in that guise, is now worming her way into the author's private life as well.  Further complicating matters for the septuagenarian is the fact that his middle-aged and somewhat overprotective daughter, Ariel (Lili Taylor), is desperately in love with a man (Adrian Lester) who doesn't want to have children, even though becoming a mother would appear to be the one defining goal of her life at the moment.Based on the novel by Brian Morton, "Starting Out in the Evening" is a muted, introspective tale of four adults whose outlooks on life appear to be at constant odds with one another.  Leonard, for instance, has his own theories about both the process of writing and an author's relationship to his work, while Heather has quite differing views on the same subject, views she isn't shy about articulating, even if it means potentially alienating Leonard as both a friend and a willing subject for her work.  Moreover, Leonard feels his daughter should come to see her feelings for Casey as an obstacle to getting what she really wants out of life, while Ariel believes she can string the relationship along for awhile at least and still someday have the child she so desperately yearns for.Co-written by Fred Parnes and director Andrew Wagner, the movie is, at times, almost too sedate, too muted in its storytelling for us to become fully engaged in the lives of its characters.  The positive side of this, however, is that it never resorts to clich&eacute;s or formula to get its message across.  Moreover, the performances are excellent, particularly Langella, who conveys all the exhaustion and world-weary sadness of his character with delicate understatement and unerring truth. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Left me speechless </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-28-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nubile college babe strokes geriatric Jewish heart patient/once-hot author, causing him to have a stroke; meanwhile, author's obnoxious, unattractive 40-year old daughter, fresh off a binge of cheap sex while secretly trying to get pregnant by some poor unsuspecting schmuck, shacks up with a non-committal black narcissist who previously sent her to the looney bin, and at the same time opines that Dad's relationship is "unnatural". Many tedious scenes of author napping, eating slowly, typing, soiling his pants and even climbing out of the tub with gross old rear end in plain view. Oy vey! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Gem </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-01-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have not been so moved by a flick in a long time.  This is a deeply moving, intricate and, to me, spellbinding movie.  I have so often felt what each character felt; the capacity to put these feelings into speech or print is genius.  The "madness of art"....what a beautiful remark; I've never heard this driving force put into words/context so well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> MULTIPLE THEMES </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-28-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> The movie lacks action. The dialogue between the lives of the people involved is the enjoyment of the film. On the surface, the movie is a May-December romance, but there is no sex involved. Frank Langella plays Leonard Schiller, an author who has seen better days. Lauren Ambrose plays the 25 year old Heather Wolfe writing her master thesis on Schiller, and Lil Taylor plays a 40 year old daughter in mid life crisis. The deeper theme of the story is about women living their life for themselves instead of for a man.The heroes in Schiller's first two novels were such women, even though while during his own life he insisted his wife live for him. He dislikes the idea his daughter who has spent her life doing what the man wanted to do. The movie is about relationships between couples, but gives us more questions than answers.Yes there is some "brief nudity" in the film and believe me, I could have lived my entire life without seeing Frank Langella's junk. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Anything Frank Langella is in I'll watch </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> He's one of my favorite under rated actors. I was so pleased he was nominated for Academy Award.  This is just a nice little story, nothing thrilling but good storyline and his acting is superb as usual.  I must be a big fan because I watch anything he is in, old or new.  He is still handsome as ever. My favorite movie he starred in was Dracula, I continue to watch it at least once a year. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004D5EYG4 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Tip snapped off within first week </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Initially I loved this item and it seemed like a great deal. However I installed it into a wall and everything was fine until I turned my tv just slightly and the tip snapped off. I thought it might be my fault but looked closer at the other tip and it is very loose. Not sure if i got  bad cable or not because all the great reviews but I am returning as defective and purchased a longer cable. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> it works. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a well-built, high-speed hdmi cable. I wanted it in white to match other mac-ish cables, and it looks good. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for a small media setup </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This cable is perfect for our OUYA and Macbooks connecting to the TV in our bedroom. Our bedroom has a single glass shelf for media and TV mounted to the wall. I wanted to get a white cable to reduce visibility. Now if I could just figure out a way to make shadows invisible the cable will blend into the wall perfectly. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Just right </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I ordered two and they arrived really quick and do exactly as it says. Great HD quality Does not disappoint. the price is right, too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HDMI at a REASONABLE price. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'll say it again: there is NO REASON to pay big store prices for HDMI cables! I have had no issues with ANY of the many HDMI cables I have bought on Amazon in the past few years. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Its a cable it works !!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I needed a longer cable to connect my TV and laptop. This one works great but I mismeasured and it turns outI needed a linger one. Oh well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It works </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-09-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> The connections aren't tight, but i'm not sure if it's the monitor or the cable.  Other than that it works. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Cable </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The cable arrived when expected and works great built well and you can't beat the price, if you are still buying your cables at a store why unless you need it that very moment. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Boooooo </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> i just got this in the mail, and the cable was so thick, it was just generic, had generic ends that look nothing like the picture, I got this to go with my Cable Matters av cable to go between my ipad and hdtv(awesome product). This one didnt even say cable matters on it, so I returned. Amazon has been great to deal with so far in 2 years, love them. Anyway, I ordered the rocketfish, hdmi ULTRA THIN cable. Thats what I need, not a heavy bulky cable that pulls on my CABLE Matters av cable, out of ipad, alot of times. So I realized I needed the ultra slim, light weight, bendable. I am very happy with finding the rocketfish and sorry still learning hpw to post links on here with ipad. So, I have ipad2 to cable matters av cable (32.95) to hdmi cable 6 ft to vizio 42 inch hdtv 120hz, and telefunken ipad stand and I totally love this setup, I added an ihome bluetooth speaker, idm12, and that just adds a wireless speaker, either that, or ipad speaker or tv speakers, very happy here.I might have made an assumption about the size of the cable, but it was generic, so 1 star, it really only deserves a half star. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was a bit skeptical due to the price but decided to give it a chance anyways. I have been using this for 2 months and it works great! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> very good </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> good material, color, work wonderful, best quality, is one of the best that i see in stores, perfect for apple and with walls </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Good Quality HDMI Cord For When Color Matters </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I recently mounted a television in my parents custom kitchen, but there was not a good way for me to run any cords through the wall.  This cord blended in well with the molding that I used for the wall run.  The picture quality and consistency have been what one should expect from a quality HDMI cable. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good cables </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I got this cable for my new  TV. I got the extra long so I could place it in the wall and extend it out when I need to. It does fine. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works as described </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-05-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This product is just as it says. It arrived quickly, picture works fine even through an HDMI splitter.  I would purchase this item again and especially at the price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A really nice HDMI cable </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-14-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> The cable is thicker (more insulated) that I thought. I have bought many different kind of HDMI cable and this one is nice, thick one. Of course, if you need to go around bend (like 90 deg), it might not be suitable, but this cable should be able to shield it from all sort of surrounding interference. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good product </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-08-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Works great.  Have had it since November with no problems.  Great price and blends very well with my apartment's white walls </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Value </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great value quality built and HDCP compliant. HD television and devises have copy protection and cheaper HDMI cables don't all support this industry standard. Your DVD may be legitimate but it still may play.  Avoid wasted time and get HDCP compliant cables. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Deal </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-30-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Cable works as advertised, great price compared to local stores. The connector is rather big and could cause a problem if room is an issue. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HDMI 1.4 cabled </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Item matches seller description. HDMI 1.4 cable meeting the newest HDMI standards. White are clean and neutral to blend into white wood trimwork. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HDMI Cable--Matches Apple Products </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-21-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased this cable to use with my iPad because I wanted a white cable to match my iPad cables.  This one works great--no problems at all with compatibility, sound or video.  I have been very pleased with it and highly recommend it for anyone looking for an HDMI cable to match Apple products. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

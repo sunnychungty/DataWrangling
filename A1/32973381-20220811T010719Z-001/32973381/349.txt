@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1596980974 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-19-2010  
+<h2> review.text </h2>
+
+ <p> The book is a nice read, but would be a great read if it reflected Christianity.Today's "Christianity" attempts to appeal to the unbeliever by apologizing for Jesus. So here we read in this book that Darwin was a "good man." Yet Jesus was all too clear that only God was good (Luke 18:19). The author would have us believe that Darwin would have easily been a "saint" because he was naturally good. These statements underscore deeply that the author has no concept of the humility in Jesus. It is little wonder then that the author was taken in by Darwin's false humility, (Colossians 2:18)The author prides, yes prides himself on not following into the normal trap Christians do concerning Darwin. This attempt to be friends with the world, (see book of James) causes an unnatural portrayal of Darwin's "good" qualities. Finally, but not least, the author also prides himself on not committing the sin of "sloth" by reading the words of Darwin. Poor be the soul that actually minds his business and preaches the foolishness of the cross. Paul would certainly have been interested to know that it is sloth to mind one's own business, for he wrote, Make it your ambition to lead a quiet life, to mind your own business and to work with your hands, just as we told you,  (1 Thessalonians 4:11)Again, the book is a good read if one can get past the wide road Christianity that is presented. Where intellectual study of opposing concepts are exalted rather than being a fool for Jesus.Do not deceive yourselves. If any one of you thinks he is wise by the standards of this age, he should become a "fool" so that he may become wise.  (1 Corinthians 3:18) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Missing Core Christianity </p>
+
+
+<h2> review.date </h2>
+  01-24-2013  
+<h2> review.text </h2>
+
+ <p> All the things that schools in America don't want you to know.  Just why Darwin's teachings are so dangerous and little truth in them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The real Darwin </p>
+
+
+<h2> review.date </h2>
+  07-07-2009  
+<h2> review.text </h2>
+
+ <p> This biographical sketch of Charles Darwin examines both the man and his thinking, as well as his impact. In it Wiker examines a number of myths that have sprung up around Darwin.Among the biggest of these myths is the view that Darwinism is the same as evolution, and that Darwin invented the concept of evolution. The truth is, the idea of evolution had been around for at least two generations prior to Charles Darwin, even in his own family. His grandfather Erasmus has propounded the idea, as had numerous other thinkers and scientists prior to Charles.Wiker also reminds us that Darwin insisted that evolution must be godless. What he is really famous for in fact is deliberately setting out to create a godless version of evolution. Many of his close friends and allies - such as Gray, Lyell and Wallace - disagreed with Darwin about this. Indeed, they also offered many criticisms of the weight Darwin placed on natural selection, and noted other major problems with his version of events.He also highlights the major disconnect between Darwin and Darwinism. Darwin the man was kind, polite, humane, a great husband and father, and a gentleman. He was a philanthropist, and keenly supportive of the abolition of slavery movement. But his take on evolution ran directly counter to all of this, for it led of necessity to social Darwinism and the logic of the Nazis.Indeed, as Wiker notes, social Darwinism is not the misapplication of Darwinism, "it is Darwinism". While the first 85 pages of this book provide the biographical details, the last 85 pages make the case for this intrinsic connection between Darwinism and social Darwinism.To make this case, Wiker reminds us that his two most famous works are in fact really one book in two volumes. His famous 1859 volume, which dealt with evolution as applied to plants and animals, was followed up by his 1871 The Descent of Man, which took evolutionary theory and applied it to humans. The two go together, and should be read as such.And the end result is a worldview that totally goes against Darwin as a person, including his passionate abolitionism. In his earlier book he had written about the "slave-making instinct" found in nature. He used the example of how little black ants were enslaved by big red ants. This was how nature - and evolution - worked. It was neither right no wrong - it just was, as is everything in a purely naturalistic evolutionary account of things.So when he penned his next volume, he sought to show that mankind operates in the very same manner as the rest of the biological world. Man is merely an animal, and he too proceeds by principles of natural selection just as other animals do.Morality itself is simply a product of evolution. Morality thus becomes whatever helps one tribe or race to survive over against another tribe or race. Therefore that which is "good" is whatever helps a particular race or people to survive.If survival is the ultimate "goal" of evolutionary processes, then the stronger species will win out and rule over the weaker, and that is just the way it goes. But how could an abolitionist like Darwin promote a view which seems to provide a fixed biological rationale for slavery?Darwin had to step back from the obvious implications of his own theory. Thus he introduced the idea that "sympathy" is an evolved trait. But this will just not do, as Wiker shows. Sympathy for the weak, sickly and intellectually inferior "is not just one more `moral' trait. It is a trait that goes directly against the principle of natural selection."If the ruthless struggle to survive is where evolution has taken us, then humans, as well as animals, must simply submit to how nature has programmed us. "If Darwin's theory were true, then human slavery was no less natural than ant slavery and hardly a matter for moral disapproval."And of course more consistent evolutionists like Huxley were happy to run with the logical implications of all this. Indeed, the whole eugenics movement, culminating in the horrific Nazi programs, was to find full justification in Darwin's thinking.The eugenicists were quite happy to latch on to Darwin's ideas to provide the scientific underpinning for their nefarious schemes. His own son George became a leading eugenicist, and leagues of his followers were happy to take his ideas to their bitter - yet logical - end. Nietzsche, Marx and Stalin all warmly welcomed Darwin's ideas, and happily made use of them. Indeed, hundreds of scientists, doctors, intellectuals and political leaders embraced the obvious implications of Darwinism.And it does not matter if Darwin himself would have been appalled at how his ideas were used, especially by the Nazis. The truth is, his whole position provided the rationale and justification for what these social Darwinists were doing.Moreover, so what if Darwin would be repulsed by how his followers took his theory? As Wiker notes, "by Darwin's own principles, Darwin's own `morality' is no more than the shape of his nose or the color of his skin".The entire framework of Darwin's' theory leads inevitably to the gas chambers and the concentration camps. The biologically inferior had to be exterminated in order for humanity to survive and flourish. "If one society crushes another, that is not wrong. That is not even a shame. That is natural selection at work."Sure, there were "social Darwinists" before Darwin, but Darwinism provided the scientific grounds for, and vindication of, their position. It is as logical as it is scientific, if Darwin's views are correct. If human evolution is to advance, it must go through the same process as in the rest of the biological world: the "favoured races" must exterminate the "less favoured races" to use Darwin's own terms.That is why Rudolf Hess could state with confidence, "National Socialism is nothing but applied biology". That is why Hitler could boldly proclaim, the "highest aim of human existence is the conservation of race". This comes straight out of Darwinian thinking.As this important volume demonstrates, ideas have consequences. Or in this case, bad ideas have bad consequences. It is hoped that with all the hoopla surrounding Darwin this year, this book will get a wide reading. It might just take a bit of the edge out of the celebrations. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A sober assessment minus the hagiography </p>
+
+
+<h2> review.date </h2>
+  08-23-2009  
+<h2> review.text </h2>
+
+ <p> The only "myth" here is the one the author defends. All the points he raises about Darwin and evolution have been adequately explained by others elsewhere. Readers should take note of the author's background and ask themselves what axes he has to grind before accepting his comments too naively. Save your money. There are better books that honestly look at Darwin and evolution with a view to learn and teach, not preach. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A rehash of old misconceptions </p>
+
+
+<h2> review.date </h2>
+  08-15-2009  
+<h2> review.text </h2>
+
+ <p> Very good analysis of Darwinism's flaws seen through a critical biography of his life.  Wiker provides an interesting analysis of the discrepancy between Darwin's compassionate nature (his opposition to slavery, for example) and his insistence on a godless account of evolution.  Darwin's theory, in which evolution is a result of blind chance and brutal extinction of the unfit, led him to need to rank human races on a scale of their achievements, which led, naturally to a hierarchy from the least evolved (and closest to the great apes), to the most evolved (whom Darwin believed, naturally, to be white Europeans).Wiker also reminds people that evolution was already well-known and accepted by most people before Darwin's Origin of the Species.  And how Darwin's theory was championed by scientists who wanted evolution secularized and any scientists who disagreed were shouted down and ridiculed.  Which led to many contemporary people's mistaken belief that Darwinism = evolution and any disagreement or questioning of Darwin's conclusions is a disagreement against evolution as a whole. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good analysis of Darwinism and evolution </p>
+
+
+<h2> review.date </h2>
+  05-26-2009  
+<h2> review.text </h2>
+
+ <p> Biographies of Darwin tend to either demonize the man or present him as a secular saint.  Benjamin Wiker, a Catholic theologian and member of the Discovery Institute, tries to present in this slim volume a biography of Darwin that at once affirms the man while at the same time criticizes the theory.  It is an admirable attempt, but in the final analysis it falls a little short.  Nonetheless, the book is by no means as hostile to Darwin as the subtitle implies.Darwin the man was much as he portrayed himself to be:  humble, caring, a devoted father, and a devout Whig with liberal political sympathies.  Unwilling to live as a wealthy gentleman, unable to work as a doctor, and ultimately bored by the prospect of becoming a clergyman, Darwin "found" himself as a naturalist.  One of the many little "lies" that he told in his autobiography was that he was hired as a naturalist for his famous voyage on the Beagle:  in fact he was a gentleman companion on the trip, but such stretching of the truth is common in an autobiography.  It is certainly true that Darwin was a celebrated scientist by the end of the trip, thanks in no small part to his natural theology teachers John Henslow and Adam Sedgwick.But Darwin did promote one myth about himself that this little biography correctly notes.  His famous theory was not a result of a careful examination of the scientific evidence.  Rather, the theory came before the facts, and Darwin's argument for "natural" selection was a deliberate attempt to exclude the divine from the natural world altogether.  Of course, the whig theory of history now paints Darwin as the sober scientist, and his opponents like Wilberforce as committed defenders of biblical inerrancy, but this simplified view of history is only held by protagonists in a cultural debate.  The reality is that even Darwin's friends and supporters often felt natural selection was inadequate to account for the facts of evolution, and the "Whig" theory of history (scientific progress displaces superstition) was as much a cause of Darwin's theory as it was an explanation for its success.All of this is moderately interesting, and for the most part rather well documented in the historical record.  But the subtitle misleads readers.  The problem is not that Darwin might have told some lies:  most of us do for one purpose or another.  The problem is that Darwin probably did not recognize what he said as lying.  He believed in his grandfather's theory of "transmutations;" he believed (not exaggerated) the originality of his own contributions, and he believed that his science displaced God, even if he allowed Asa Gray to popularize his theory with a theological pastiche.  The reason Darwin believed all this was that he was a man of his age.  He accepted Malthus, just as many intellectuals have since, and on even less evidence.  He was a third generation skeptic among a 19th century party that viewed religion as superstition, albeit appropriate for the lower classes and women.  And despite his aversion to slavery, his acceptance of class and race distinctions made it all too easy for Darwin to see in humanity proof of evolution and to classify people as lower and higher.What this book really does then is not expose Darwin's "lies"--there were none.  It simply shows he was a man of his age.  Indeed, Wiker correctly notes that a theory of evolution would almost certainly have arisen even if Darwin had died before completing his manuscript.  But what Wiker glosses over is that Darwin's theory is intellectually dependent on more than just Whig philosophy, Lyell's geology, and Malthus.  It was also dependent on a particular trend in Anglican theology which tried to distance God from the evils of this world.  This trend is what made Darwin so acceptable to so many who did not share his skepticism.  In short, Darwin's skepticism and the naturalist philosophy he tied to his science are bound firmly with a particular view of theology.  Indeed, it is a type of theology which is still popular today and this explains why Darwin's ideas, unlike say Marx and Freud, have not fallen by the wayside.  In the final analysis, what makes this a nice little book is that it correctly shows that science is a human enterprise and does not occur in a cultural vacuum.  It is a lesson well worth remembering. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Somewhat Misleading Subtitle </p>
+
+
+<h2> review.date </h2>
+  10-19-2009  
+<h2> review.text </h2>
+
+ <p> Coming from Regnery I thought this book would be a one-sided slam at someone they don't like. This relatively short book is very fair to Charles Darwin. His personal life was a model of a decent individual. Compare his family life with that of Karl Marx. He also gives credit for the enormous amount of work that Charles Darwin did throughout his life. His criticism is that Darwin had an agenda: a godless, secular version of evolution. He does point out that Darwin didn't invent evolution, he merely popularized it. In so doing, with the aid of his apologists, he turned a fairly common idea among the intelligentsia into a weapon against religion. Wiker says that Darwin was intensely conflicted about his theory: he abhorred slavery but he admitted that nature did produce slavery. Darwin would have been shocked but shouldn't have been surprised at the multiple bad outcomes that came from his theory. I also appreciated that the people of his day who opposed his theory weren't the typical, young-earth fundamentalists that Darwin apologist always characterize them as. Wiker says that the choice between Darwinist evolution and a literal interpretation of the Bible is a false choice. Wiker, a professing Christian, doesn't advocate the literalist view but says quite frankly that evolution as opposed to Darwinist evolution is a fact. I'm surprised this hasn't been criticized. This is a good read with interesting and surprising insights. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Balanced VIew of One of the Nineteeth Century's Most Influential Thinkers </p>
+
+
+<h2> review.date </h2>
+  11-04-2009  
+<h2> review.text </h2>
+
+ <p> Wiker mostly is interested in discrediting evolutionary biology, and in this pursuit this book offers nothing new. Wiker's claim to fame is that he attributes Darwin's discoveries to his rampant atheism.I have read several biographies of Charles Darwin, but this is the least compelling, written clearly to discredit the man and the evolutionary biology that he initiated.  The motive of Darwin, in The Origin of the Species and other works, according to Wiker, was to give support for Darwin's strongly-held atheistic beliefs, and to apply a deadly thrust to theistic beliefs. Of course, only an individual of limited mental capacity could reason that if Darwin had ulterior motives in his research, the results should be rejected. Evolutionary theory has been validated literally thousands of times and never has been contradicted. It is now the basis for all of biological theory. Moreover, Darwinian evolution in no way undermines a belief in God, although it is incompatible with some religious cosmologies, including the fact that the Universe is many billions of years old and humans and chimpanzees have a common ancestor.The fact is that Darwin was a believer for most of his life, and his faith was shattered only when his beloved daughter Annie was taken from the world a the age of ten. Darwin later likened this event with what appeared to be the egregious horrors in the battle for survival exhibited by many natural species. Certainly Darwin was never hostile to religion. His wife was deeply religious and Darwin himself was involved in religious practices to the end of his days.Darwin was ill and wracked with pain most of his life, but he was a rather upstanding, highly moral, scientist, father, and husband. Darwin regretted his agnosticism, and always considered himself as a believer in a higher being, his agnosticism being only a scientist's reaction to the lack of proof of the exisence of this higher being. Nor was Darwin himself ever a supporter of what came to be known as "Sccial Darwinism," a highly popular but pernicious political doctrine.I have not read Darwin's autobiography, but the Rev. Paul Fayter reports on his web site the following facts, which confirm my analysis:Near the end of his life, Darwin thought it impossible to conceive that "this immense and wonderful universe" was "the result of blind chance or necessity." No, it still seemed that the world had been willed into being. "I feel compelled to look to a First Cause having an intelligent mind in some degree analogous to that of man," he wrote in his autobiography, "and I deserve to be called a Theist." At the same time, Darwin believed that "the mystery of the beginning of all things" was simply unsolvable; and so he also declared, "I for one must be content to remain an agnostic."I do not believe in ad hominem argument, and I am willing to believe that those who detract from Darwin's image as a decent person are motivated purely by their love of God, and do not suffer from the bigotry and limited intelligence that they appear to reveal. However, this does not absolve them from responsibility for their errors. The love of God is not an excuse for egregious and blatant error. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exciting story, but unfortunately not of the Real Charles Darwin </p>
+
+
+<h2> review.date </h2>
+  11-06-2013  
+<h2> review.text </h2>
+
+ <p> Should be on every Christian's bookshelf.  Clear, concise writing.  Fair treatment of Darwin himself, most importantly it helps fills in the gap I feel between outstanding moral arguments for the existence of God and the natural sciences. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrific </p>
+
+
+<h2> review.date </h2>
+  11-11-2011  
+<h2> review.text </h2>
+
+ <p> Despite the title, I thought the book really balanced. It is written by an evolutionist whose goal is to not discredit Darwin's theory, but just to give an accurate biography of the man. Because Darwin is the secular saint, Wiker did not really feel there was much out there that was objective. So he attempts to show Darwin's strengths and weaknesses and complexities. What was most interesting to me was how Charles Darwin's grandfather enthusiastically believed in evolution and Charles came from a family line of secularist, so Darwin went out looking for evidence to prove what He assumed before hand was true, it was not like he stumped upon the facts which were so overwhelming that he gave in, lost his faith and surrendered to the truth of science. All of this fits with my notion of the power of presuppositions, Darwin wanted the theory to be true, it had to be true, and this colors his perception of things. Those after him have come from the standpoint that it has to be true, for there is no alternatives, they are committed to it with a religious zeal and devotion, which makes them as acceptable to BS as religious people are. Like Bill Bryson wrote that (I am paraphrasing) "we typically don't think you can get something from nothing, but since there was nothing, and now we have a universe, we have proof that it can happen" and Quinton Smith wrote "the most reasonable thing to believe is that everything came from nothing, by nothing and for nothing" and this kind of nonsense (I say nonsense, in that it is non-sense, something beyond our senses) is embraced by scientist, who don't seem to even pause to reflect how unscientific such a conclusion is. But since it HAD to happen that way, well, it happened. Sorry but I don't have enough faith to believe the laws of nature just accidentally popped in existence, and that nothingness just randomly produced an explosion that produced a finely tuned universe upon which life somehow accidentally got this near magical power to adapt and evolve and now waala I am writing this review. To believe this kind of thing is not science. So yeah, one point that Wiker makes towards the end of the book, is that embracing darwin's theory of evolution is different from embracing Darwinism, which in essence is to believe everything HAD to come from nothing, by nothing and for nothing, which is an unprovable, non-scientific philosophical assumption which sadly is proudly paraded around as fact, by those who think themselves men of reason and not of faith. Oh how gullible to wild speculation and myths the atheist are, how blind they are to absurdities, oh how they have a religious zeal, a a childlike faith and a dogmatic confidence. Oh how they create an us vs. them mentality, All that they condemn the religious for, they practice. They try to remove the speck from our eye, while all the while they have a plank in their own eye. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The title is misleading </p>
+
+
+<h2> review.date </h2>
+  09-04-2009  
+<h2> review.text </h2>
+
+ <p> This book was approximately worth the time it took to read it, basically break-even on the time and effort involved.  I didn't really learn much.  Darwin commandeered pre-existing theories of evolution to his own credit.  You can get the idea by  imagining someone appropriating a lot of software to his own credit and becoming an industry giant from the pilfering.  In his own personal life, Darwin was a swell guy.  That's about all I learned from the book.  As brief as this book is, I did find it rather repetitious.  A certain amount of circling back helps to reinforce a point, no doubt.  But I think the basic points that this book tried to get across could have been condensed into a longish essay and published in a journal.  I found the last chapter very disappointing in several respects, not the least of which is that it regards as stunted or irrational those who disagree.  This is simply the Al Gore trick:  If you don't agree with me, you are being irrational.  I have yet to see anybody who's willing to take the view that we don't really know as much as we thought we knew.  2.5 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A break-even read, more or less </p>
+
+
+<h2> review.date </h2>
+  09-16-2009  
+<h2> review.text </h2>
+
+ <p> The book's underlying argument: because science prescribes to methodological naturalism, Darwin, by following this methodology, proposed the theory of natural selection thereby leaving God out.  "That evolution must be godless to be scientific is the Darwin Myth, so profoundly misleading that it must be called a great lie,..." (pxi)  According to the author then, this myth has supposedly distorted our understanding of the scientific evidence and the debates surrounding evolution (but not any scientific debates).  So the author's core complaint here is with methodological naturalism generally, and Darwin's adherence to it in formulating the theory of natural selection.Simply stated, methodological naturalism mandates that hypotheses or the causes behind phenomena are to be explained using only natural processes.  Supernatural or theistic explanations are not admitted at the outset.  It's not that scientists don't believe there is a God; it's just that introducing 'Him' into the explanatory process is irrelevant.  The reason for this is that methodological naturalism has been enormously successful in providing explanations, in furthering research and in providing practical engineering applications for example.  Science, per definitionem *is* methodological naturalism.Even though science arose out of disciplines more mystical in nature (as in alchemy becoming chemistry for instance), the superstitious side sent countless individuals down nonproductive alleys and dead ends.  Supernatural explanations (if there is such a thing) are unproductive.  They really don't explain anything.  In spite of there always being some things currently deemed supernatural or inexplicable, they may or may not be explained in the future as some unusual natural phenomena.  But it doesn't follow that because science doesn't currently have an answer, that the explanation *must* resort to a supernatural one.Additionally, the idea that a supreme being created everything or intervened is not the only supernatural hypothesis one could propose.  The list could be endless: from lesser gods to evil spirits, demons, Satan, goblins, mind control, psychic energy, aliens? etc.  How would one eliminate the panoply of possibilities?  How would one, by empirical means determine whether a particular event is the work of God or Satan for example?The author complains about the Origin's 4th edition containing a reference to the creator as being merely a sop--a concession to appease the religious--but it actually shows that it makes no difference to Darwin's basic argument whether a creator is added in or not.  Darwin is just saying that once life got started, it diversified via the process of natural selection without *any* interference from God.  He doesn't really discuss the origin of life from non-life (abiogenesis).  This point is continually lost on creationists discussing origins or Darwin or evolution.A reasonable job is done in providing a biographical portrait of Darwin and the genesis of his theory.  We are told that we're going to get a more honest rendering; one that is without the usual heroic Whig history that usually issues from other Darwin biographers (who are Darwinists no doubt).  He gives us the 'straight goods' on some items in Darwin's autobiography.  One has to wonder how these biographers get it so wrong whereas this Discovery Institute senior is giving us a truer, nonpartisan? account.  But Whig science history is appropriate here as Steven Weinberg comments; "What Herbert Butterfield called the Whig interpretation of history is legitimate in the history of science in a way that it is not in the history of politics or culture, because science is cumulative, and permits definite judgments of success or failure." ([...])So one really can say whether a scientist in the past got it right or wrong.  Darwin got it right.The author examples Mivart's (a contemporary of Darwin) problems he had with Darwin's theory using the flounder's eyes example where, after being born, one eye migrates to the other side of this fish.  Mivart can't see how this could possibly happen by natural selection.  There's a great answer now and the author is just pointing out the old God-of-the-gaps argument here: we can't explain it so God must of done it.  But note that this hasn't explained it either.  Why wouldn't God just 'make' a flounder with eyes already on one side so it doesn't have to migrate to one side after it was born?  Anyway, Google: Odd Fish Find Contradicts Intelligent-Design Argument.Trying to say that others previously came up with the idea of evolution and Darwin contributed nothing significant seems disparaging to his contribution and his theory.  Lucretius (99-55 BC) didn't believe in new species arising from older ones.  He denied that land animals evolved from aquatic ones.  Species were born from the earth period.  Darwin's grandfather Erasmus (who wrote Zoonomia), had no self-governing systems of how species change such as reproduction, selection, variation and inheritance.  Lamarck was wrong.  With Vestiges of Creation by Robert Chambers, life spontaneously generated and it was progressive in nature with (Caucasian) Man at the top.  Chambers had no transitions; species just suddenly appeared in leaps.  There was no discussion of adaptation and variation.  If Darwin's theory was like previous ones, why did it hit like such a bombshell then?  It's not simply about sales-pitching your idea or having influential friends.Near the book's end, the tired rhetorical Hitler card is played and 'Darwinism' is indicted for the Nazi atrocities; but this is entirely irrelevant to the veracity of Darwin's theory, his place in science history and the theory's importance within evolutionary biology today.  The author's implicit religious undertow here is that we need an absolute moral compass (based on the Bible and Christianity I would guess) to guide our lives. Darwinism--that godless form of natural selection--not only fails to provide one, it supposedly has undermined previous (religious) ones.  It also can't explain the origin of our exalted traits such as reasoning, aesthetics or morality.  So we supposedly need a more-inclusive theory that does include these: supernatural selection?Darwin, and all of science for that matter, didn't take God out; just the miracle part was removed.  It's not godless natural selection; it's miracle-free natural selection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> miracle-free natural selection </p>
+
+
+<h2> review.date </h2>
+  06-10-2009  
+<h2> review.text </h2>
+
+ <p> It took 150 years but finally someone has written an assessment of the Down House naturalist that tells the unvarnished truth. Wiker exposes Darwin's many impostures with a deft analysis long overdue. While Wiker's arguments are not in themselves new (others have detected Darwin's duplicity long ago), he has woven these various elements into a coherent whole. Truly the first biography of Darwin of its kind. Wiker's biography is important in recasting the present day controversy from one falsely characterized as "Creationism vs. evolution" to one between a teleological worldview and Darwin's chance and necessity. It is most certainly not a controversy between science and religion but rather a disagreement among scientists over the evidence (or lack thereof) and of the logical coherence of materialistic positivism. Fact is, many who questioned Darwin's theory were not biblical literalists (Charles Lyell certainly wasn't and Wallace wasn't even Christian at all) but rather felt that Darwin had brushed aside too many serious questions about the explanatory power of natural selection, inheritance, the fossil record, and geology to be convinced of its scientific viability. Indeed many of those same questions remain.Everyone interested in evolution and Charles Darwin should read this book. Wiker has produced a biography of bold honesty during a year of unbridled Darwin celebration when such honesty often seems in short supply. This is a valuable and important book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Benjamin Wiker's effort breaks new ground on Darwin </p>
+
+
+<h2> review.date </h2>
+  06-23-2009  
+<h2> review.text </h2>
+
+ <p> Not sure what else I could say than what's in the title. This is less about evolution as a science than it is about the evolution of Charles Darwin himself.Surprising well written, mostly objective, and a very informative, important and concise presentation of Darwin. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Under-rated, well-written, largely objective, very informative </p>
+
+
+<h2> review.date </h2>
+  11-04-2013  
+<h2> review.text </h2>
+
+ <p> I actually listened to this book on CD before I bought the hardcover version.  It really is a great book and shows you what really went on with Darwin.  This book will make a lot of the always arrogant evolutionist crowd see red!  Do I believe in evolution?  To some extent.  But overall I'd have to say you were crazy to believe that life as we know it just happened for no reason, just some random chance mutations bringing us to where we are.  THAT just strikes me as insane. LOL! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book that evolutionists will hate. </p>
+
+
+<h2> review.date </h2>
+  07-22-2009  
+<h2> review.text </h2>
+
+ <p> My impression was especially favorable until I came to the last chapter. There the author confesses his Christianity, which does not disturb me but which, specifically the bible, the author suddenly suggests is, from the standpoint of knowledge, as reliable as his careful and insightful research of the rest of the book. Not to be misunderstood, I am myself a theist, but base my understandings on what can be determined rationally like any knowledge. Particular doctrines are to me threatening in their well-known conflicts with each other and the outside world.Speaking of doctrines, they exist in science too, as the author aptly brings out with regard to Darwinism. He justly finds a great deal wrong with it, while at the same time praising Darwin as an individual. In that regard, I think he makes too many concessions. He informs us frequently of how kind Darwin was even with animals, but also at least as frequently of Darwin's passion for hunting, "for shooting birds" (p.8). And he ends the last chapter characteristically with "so great a man as Charles Darwin" (p.171). To be sincere, I cannot find that greatness, for, as our author relates, neither of the central concepts of evolution or natural selection originated with Darwin, who was mainly concerned with supporting them with multitudes of biological observations, assisted by family, servants and friends.But overlooking these aspects, this reviewer wants again to bring to attention that not only, as the author of the book well expounds, were many of Darwin's conclusions unjustified, but that the overarching thesis that all biological events are to be attributed to undirected material forces is wrong.Let me first point out the major tragedy this thesis entails, as encapsulated in "survival of the fittest". As is well known, the theory proclaims that as a result of accidental modifications some organisms are more fit than others, with the advantage of surviving against not surviving. This conception led to the many horrors stemming from holding one group of people better fit by nature than others, as documented in the book.Here is the dreadful folly. Particular people are not by nature better fit than others. Organisms are not selected by nature in accordance with their fitness over which they have no control. They indeed have control over it. Live organisms are made so as to, rather than be modified by undirected forces, directedly act toward self-preservation. To preserve themselves they, as an instance, adapt to the environment. That is to say, they are not helplessly unfit, but active in making themselves fit. This presence of the aim of survival, instead of the presumption of aimless forces shaping organisms, is the factor dooming Darwinism. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> An in-depth look at this man, for certain. I learned a lot as a Christian. His views do not track with mine but I saw a side of him that I was not aware of. He wasn't the monster some people have portrayed him to be but his theory of the origin of species continues to be challenged as it was during his lifetime, even by some of his contemporaries. A must read for those who want to know more about this interesting man and his controversial theories. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Myth of the Evolution of Man Obvious </p>
+
+
+<h2> review.date </h2>
+  10-02-2011  
+<h2> review.text </h2>
+
+ <p> Photosynthesis (the process by which plants convert sunlight into energy) is a proven phenomenon.  It is observable.  It is a scientific fact.  But it is also, in the larger scheme of things, a very small fact.  Among a great many other things, it doesn't even begin to explain the genius of Beethoven, the heart-breaking beauty of a sunset, or the great mystery of love.Similarly, natural selection is also a proven phenomenon.  It is observable.  It is a scientific fact.  But, like photosynthesis, it is also a relatively small fact.  Although it is very helpful in explaining (for example) why some birds' beaks are larger than others', just like photosynthesis, it also doesn't even begin to explain the genius of Beethoven, the heart-breaking beauty of a sunset, or the great mystery of love.  It is a truth, but in the end it is a rather small truth.That was Darwin's great error.  It wasn't that natural selection was wrong, it was that Darwin was wrong in trying to explain all of life through the very small lens of natural selection.  In an effort to try to fit the entirety of life itself into such a small fact, Darwin had to engage in radical reductionism, whereby all the larger things of life had to become very small so as to fit neatly into such a small theory.  Thus, for example, religion - which includes everything from the Talmud, to Papal encyclicals, to Bach's Mass in B Minor, to the vast and deep writings of Thomas Aquinas - all have to be reduced, in Darwin's world, to nothing larger than a belief in fairies. To take another example: art, such as Michelangelo's magnificent Pieta, or the breath-taking paintings of Vermeer, are, in Darwin's world, no big deal.  After all (as he reasoned in The Descent of Man), male birds have colorful plumage - so they appreciate art too. (Try that piece of twisted logic on for size).Many of his friends (who were themselves renowned scientists) tried to shake Darwin of his myopia.  His wife, who was not a scientist, but who loved and cared for him deeply, saw that there was something both unnatural and unhealthy about his singular obsession with this one, small idea. (If you have ever met people - as I have - who, for example, think that all human ailments from cancer to schizophrenia can be explained by allergies, then you might begin to understand Emma Darwin's genuine concern and alarm at her husband's narrowed state of mind).This book was an easy and enjoyable read, but I found myself rather depressed by the end.  Darwin triumphed (if you want to call it that) in influencing the entire 20th century.  But the enormous pile of corpses that accumulated during that time should be a reminder to us to never again try to solve the complicated problems of this world with all too easy, one-size-fits-all answers. Natural selection is simply too small an answer to satisfy the bigger questions of life.  Let's hope that in the 21st century the windows will be opened, and we will finally rid our understanding of life of the restricted and cramped, 19th century obsessions of one man's mind. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Time to move on. </p>
+
+
+<h2> review.date </h2>
+  03-23-2013  
+<h2> review.text </h2>
+
+ <p> If you've been paying any attention at all to the guild of neo-darwinism, you know it's in serious trouble.  Where did stuff come from?  How did it become alive?  How did live critters become sentient?  How did sentient beings become self-aware?  None of these topics have anything to do with this book.  In this book, you'll learn of Darwin's grandfather and his father - two Darwins whose ideas Charles claimed as his own on his way to making a name for himself.  The hierarchy of human &#34;races&#34; in his view that, stunningly, left large-headed Charles himself at the top of the &#34;evolutionary&#34; hill - that in itself makes reading this book a delight. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wiker hits a home run </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

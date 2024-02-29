@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00CM1V8LU <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-23-2014  
+<h2> review.text </h2>
+
+ <p> I am quite happy with my new computer.  Excellent speed and ease of use.  The wireless adapter that came with it was an ancient looking type thing with rabbit ears looking setup that needed to be attached to the back.  It also had some hardware that was supposed to be installed inside and from what I could tell they had already done that as the box was opened and all that was inside was the exterior attachment.  I had never seen such.  I did not even attempt to use that as I already had a NetGear wireless adapter that I just plugged in to a port and was ready to go.  For that reason I give 4 stars and not 5.  The computer also already has Open Office set up on it which is nice but I will still be putting Microsoft Office on it as I prefer to use that.  If you don't have the money to get Microsoft Office the Open Office will serve you pretty well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very satisfied </p>
+
+
+<h2> review.date </h2>
+  03-19-2014  
+<h2> review.text </h2>
+
+ <p> I am very happy with this PC.  It did not come with the mouse and keyboard like some got, but the ad did not say it would.  So, I was fine with that.  I did have to update a video driver that gave me some grief, but I contacted customer service and they were great.  They were ready to replace whatever I needed.  I recommend both the used PC as a great option and the seller. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice PC and worth the price for sure </p>
+
+
+<h2> review.date </h2>
+  11-26-2013  
+<h2> review.text </h2>
+
+ <p> Delivery was prompt.  Setup was effortless.  Service was excellent.  I thought I had a problem, so called the seller and he fixed it the same day by my installing a remote access to my computer.  He found the problem was a 32 bit program.  John downloaded the correct 64 bit program from the internet for me remotely and installed it.  Now it works perfectly.  All of my other 32 bit software and hardware run OK. by.computer automatically updating some drivers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> EXCELLENT </p>
+
+
+<h2> review.date </h2>
+  06-27-2014  
+<h2> review.text </h2>
+
+ <p> I needed a Windows 7 capable machine. The hard drive is noisy but apart from that it does everything I need. I have talked with EZ Buy Cafe on a couple of occasions, they were courteous and helpful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good for the money </p>
+
+
+<h2> review.date </h2>
+  10-06-2013  
+<h2> review.text </h2>
+
+ <p> I purchased this on a whim. I never buy anything refurbished or used but this seems to be ok. It was packaged well the outer case was clean and it seems to work well. I would prefer to have an extended warranty but I don't think they have one available. I would purchase from them again. I heard a clicking noise when it was running so I contacted them. They replied quickly and sent me a new hard drive. Pretty good company and service.This is a product update. Buy new somewhere else. This thing has been nothing but trouble since the first month. I have had to buy a new hard drive as the one it came with crashed. Now I cannot connect to the internet. I have spoken to them through amazon which is really a waste of time but it seems this company has no phone number. They have told me that I need to reinstall the driver in order to get internet but I have to be on the internet to do that DUHHHH. So today I will purchase a brand new computer from a real company with support. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Junk Buy New </p>
+
+
+<h2> review.date </h2>
+  09-15-2013  
+<h2> review.text </h2>
+
+ <p> Great PC works very well.Dell us always a good buy for the money. Yo cannot go wrong with Dell </p>
+
+
+<h2> review.summary </h2>
+
+ <p> i like it </p>
+
+
+<h2> review.date </h2>
+  02-02-2014  
+<h2> review.text </h2>
+
+ <p> I gave this 3 stars to (iCompXpress), because i felt that attention to details, by who soever "refurbished" this PC, was lacking:The DVD tray had chewing gum in it.  The sound did not work (someone put a screw in the headphone jack). The BIOS administrator, and system password was set and locked-out.I know my way around the computer, so I knew what to look for and fix.  What if it had been an average person who had purchased this computer, and had to ship it back at my own cost because it was not totally dead?I dont know what the company's definition of refurbished is, but I have purchased many re-Furb items in the past, and never ran into this kind of oversight before.  Scratches and scuffs, I understand, but they should have made sure everything was operational and put back to factory default.  For pete sake, making sure the sound works is basic!  This was NOT an easy hardware fix either!Overall the PC itself was a good deal, and I would still give my recommendation to buy, if you are handy with fixing technical things. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sloppy workmanship! </p>
+
+
+<h2> review.date </h2>
+  02-06-2014  
+<h2> review.text </h2>
+
+ <p> This product has proven to be excellent!!!  Thanks to the seller.  It is a small form factor so it fits nicely on the desk.  The speed and graphics are outstanding.  I couldn't have asked for a better setup or delivery.  I would purchase from this seller again!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dell Optiplex 745 </p>
+
+
+<h2> review.date </h2>
+  05-07-2014  
+<h2> review.text </h2>
+
+ <p> So far so good I'm just getting the hang on my new computer. I' m still setting it up to my needs. So give me a couple of weeks to truely know if I'm happy wit it. I bought this computer based on the specifics on the available pcs according to my budget. So this was the best choice for my money. For being a refurbished product I tell you it looks brand new. I mean it. This is the second refurbished product I've bought. So I I tell you buying refurbished products are worth buying. Thank you for the opportunity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The best computer that I could buy in my buget to fill my needs. </p>
+
+
+<h2> review.date </h2>
+  05-25-2014  
+<h2> review.text </h2>
+
+ <p> The computer came with a new Windows 7 Professional install and a new keyboard and mouse. For the price, it's better than many home and office computers. I bought the computer as a backup for my laptop and specifically because in came with Windows 7 and not 8. It has plenty of hard drive space and memory for most home or office use. I added a graphics card and use the computer to run a backup navigation program and for data storage. Occasionally a guest will use it for internet and their own games. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Good Computer </p>
+
+
+<h2> review.date </h2>
+  06-16-2014  
+<h2> review.text </h2>
+
+ <p> Had issues with the original unit. It started loading 155 windows updates every time I logged on and off. Mike and Camera for Skype did not work too.Contacted seller and was sent a second unit. Still the Camera and mike will not work, so I cant Skype. The seller wants me to buy a sound card to solve my issue.???Not worth the hassle with refurbished units. Spend a few more dollars and get a new unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dissapopinted </p>
+
+
+<h2> review.date </h2>
+  02-08-2014  
+<h2> review.text </h2>
+
+ <p> wow, such a great value,..I am replacing all the old XP computers at my biz,..about 12 of them, one at at time. This Win7 PRO is the cat's meow,..very snappy, we're running all sorts of digital xray equipment with it, it handles everything. One thing that super-delights me is the HD,..wow, an entire Terabyte (which we'll never really use). I'd say buy it while you can still get your hands on Win7,....we've tried Win8 and it's a productivity killer,.our front desk hates it even more than Vista. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent! </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> Unfortunately, I was sent a refurbished computer as ordered.  However, if you read my prior review, the computer was not clean - and the hard drive crashed.  The seller communicated quickly and was very good in attempting to cure, however, his first option was to send me a new hard drive and then I had the unwelcome task of removing the old one and placing in the new one as if I did not have sufficient work to do in my office.....so he offered to send me a second refurbished computer with a new hard drive if I would remove my review.  I always believe things can happen and of course a seller has the right to cure.  I had to try to delete my company's files - which I could not do -- but the Seller promised that he would delete the hard drive.  Yikes.  Thankfully he sent a second computer and the label to return the first computer which I promptly did......and then.....Unfortunately the second computer -- the computer buzzed and rattled loudly, you could not open the DVD player and have anything plugged into the USB port at the same time (this is just a problem of a  installation lineup when installed but I was not about to start working on correcting an installation problem).  I called the seller and he said, &#34;Just send it back&#34;, which I attempted to do.  I tried to wipe the the hard drive because - again - I had installed my company's filed - I could not reformat (erase) the secondary drive upon the re-installation of Windows, I was blocked from doing so, and then I received a message that the Windows 7 was not an authentic Windows product.  How bizarre.  .. For over a month's time I tried to get a &#34;return label&#34; from the seller but with no success.  Amazon's customer service came to my rescue on this one.  5 star rating for the customer service of Amazon! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I do not recommend this seller </p>
+
+
+<h2> review.date </h2>
+  05-21-2014  
+<h2> review.text </h2>
+
+ <p> I have been accumulating DVD movies for years and have boxes full of them. Most only viewed once. About 2 weeks ago I ran into $50.00 program that digitizes commercial copyrighted movies into single file MP4's regardless of their size. The only requirement is that I have to promise not to share the movies with friends or family members. I have to agree to that demand before the production of each movie. I happily click the yes box and then get on with it. The 1.6Hz laptop I started out with did a good job with the processing but for a 2 hour movie it took 4 to 6 hours to convert it. Having about 2500 movies to digitize, I knew that "I needed a bigger boat". So, I turned to Computer World Ent. at Amazon Marketplace and purchased an old refurbished Dell Optiplex 745 Pentium Dual Core 3.4GHz 8GB DDR2 1TB HDD Windows 7 Pro 64 BIT tower. Even though the computer is old, when it comes to muscle, it has pure unadulterated, unmitigated power. It can digitize a 2 hour DVD movie in an hour and 20 minutes. The outside of the tower looks good with no bumps, scratches or dings. The inside is immaculate without a speck of dust. Everything looks new. That includes the hard drive, the USB wireless, the Toshiba DVD recorder, and the cards. The Windows 7 Pro 64 is clean and brand new. It has two fans that work in tandem. One in the front and one in the back. There are no parasitic deletion resistant added programs installed. It has the best setup of any computer I have ever seen, old or new. I can't count the number of computers that I have had over the years and this one is the best one that I have ever seen. I love it so much, I bought another one from Computer World Ent. a couple of days ago. I'm going to use it to store and play movies on my TV. It is such a hassle getting up to load a DVD tray to change a movie. Digitizing a movie also halts the inevitable accumulation of scratches and blemishes to the original DVD disc.Robert Doster </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Why I love my refurbished Dell Optiplex 745 Pentium Dual Core 3.4GHz 8GB DDR2 1TB HDD Windows 7 Pro 64 BIT computer </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> We GAVE THIS TO A FRIEND AS A GIFT. SO FAR SHE LIKES IT JUST WAS A BIT HARDER AS SHE HAD  XP... WAS A BIG GRUELING CHANGE FOR HER&#62; LARRY HAD TO HELP HER, NOW SHE&#34;S FINE </p>
+
+
+<h2> review.summary </h2>
+
+ <p> THIS WAS A GIFT! </p>
+
+
+<h2> review.date </h2>
+  04-03-2014  
+<h2> review.text </h2>
+
+ <p> Seller shipped a Dell GX 755 with 2.20 GHz not a Dell GX 745 with 3.4 GHz as advertised.  Paper work from seller claims it is a upgrade because it has a newer line of motherboards.  Also says it is not a Pentium D CPU but an Intel Core 2 Duo 1.86 CPU that is a newer generation processor and was tested to outperform the GX 745 and will last longer.It is allot faster than my old Dell GX283 that has Windows XP which is no longer supported by Microsoft as of 4/24/14.  Have to transition to the WIndows 7 but not a big deal. My old Verizon installation disk would not run on it but just used the online installation program with no problem.  So far I like this computer, only time will tell if seller's statement is accurate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Computer </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00008H2GR <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Franois Truffaut -- Best director of all time. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-28-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> In every way, shape, and form of moviemaking, Truffaut is the best. Best French director, best director, PERIOD! I wish Criterion would release all his films in bundled sets like this one.This set includes what I feel is one of his best films, Stolen Kisses, which along with Jules and Jim (which is getting a Criterion release) and Day for Night (now out of print), round out my 3 best Truffaut.Here is a breakdown of the Doinel movies in order of my preference:Stolen Kisses: A truly original gem of a film, which can stand alone from the other 2 adult Doinel movies the best. Funny, intimate, beautifully filmed and acted. The scene in which he repeats his name "Antoine Doinel" over and over again is my favorite. Wooing women and muddling through a young man's life has never been captured better.Bed and Board: Nice to see Doinel again, this time in a crisis over his marriage vs. a mistress. A nice view of this part of Doinel's life. Hard for Antoine to go through, but easy and fun for us to watch!Antoine and Collette: A brilliant short film on the frustrations of teen love.The 400 Blows: Original, daring, and brilliantly directed by Truffaut. It's just not as attention grabbing to me as his later stuff.  A good start, but Truffaut was just warming up.Love on the Run: The least of this bunch, but by no means a bad film. Very nice to see all the characters in Doinel's life return. A nice way to end the series.This will be a must have for any Truffaut fan's collection, or any movie lover's for that matter! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Unique serie in the history of Cinema </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-04-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> Antoine Doinel is filmed as a troubled child in 400 Blows, as an adolescent in Antoine & Colette, and as young man in love in Stolen Kisses, as married man an a father in Bead & Board and as a divorced, yet-trying-to-reconstruct-himself man in Love on the Run. The actor Jean-Pierre Leaud gets older during the films, still he is the same person, dealing with the same unresolved conflicts, defending the same values, entonating the same voice, 5, 10, 15, 20 years later ... as in real life. Each movie is a jewel on its own, however seeing the whole serie and getting the full, coherent picture is a unique exercise, as when you know a person from childhood from adulthood, you know what will happen, and it just happens. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfect Truffaut Package. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-06-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> All of the Antoine Doinel films are here in this excellent dvd box set. The films are packaged in their best possible presentation thanks to Criterion, and the special features are all one could ask for including Truffaut's first short film. Not only a great collection of films (THE 400 BLOWS and STOLEN KISSES are among the best) but one of the best titles in the Criterion Collection. A Must own. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Collector 'must have' </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-20-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was a bit concerned about paying the high price for films I've never seen before. But without a doubt I can only describe this series as "excellent." The caveat would be for those viewers expecting high drama.I was surprised to learn Francois Truffaut was disappointed with Love on the Run as the finale to the adventures of Doinel. For the period in France, the series was befitting of family struggle post war reconstruction, and the new socialism of the 1970s. I also appreciate how French films seem to allow women to pursue the same sexual desires Hollywood likes to reserve for men.Character Doinel is stuck, (which seems to have bothered Truffaut most,) but he gets away with what most men probably wish for -- being a silly prankster boy who ends up never having a shortage of women in his life as an adult.As with many French 'people' films, this series is not for those who wouldn't appreciate the lifestyle and culture and storylines simply about 'average.' One could draw a comparison between what films were being produced in the USA during '59/'62 -- '79 to see the difference from being entertained (by John Wayne) to spying on a character's real life saga via  story telling. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Antoine And The Art Of MovieMaking </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-01-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> For my money, "The Adventures of Antoine Doinel" might be my favorite Criterion release.  Period.  One of the reasons I respect Criterion (and not every choice is a slam dunk) is that it allows regular people to really learn about cinema.  As someone who attended graduate school in film, I feel as if my education and appreciation has never waned due to the influx of great choices on DVD.  The constant improvement of special features and supplemental material adds a new level to the movie going experience.  This set alone has scores of pertinent interviews, commentaries, a short, promotional art and a 72 page book of contemporary essays and Truffault's own notes.Now, I had seen "The 400 Blows" several times--but I had not been introduced to the other 4 films that represent the saga of Antoine Doinel.  And like some other reviewers, I will not dissect each disc--but leave some overall impressions.  "The 400 Blows" is considered one of Truffault's masterpieces--not only was it instrumental in initiating the French New Wave movement, it's just a great entertaining film!And it doesn't stop there.  Every film, to me, succeeded on the level of entertainment.  Some people think that the later films are lesser works--and surely they are less significant on an individual basis than "The 400 Blows."  But I loved them.  Any one of them, taken out of context, is worth seeing--if for no other reason than entertainment value.  There is much humor, sweetness, romance, and trouble to be had in the misadventures of Doinel.Taken together, however, I think this set is a towering achievement!  It's a real pleasure to spend 20 years with the same director, the same actor and the same character!  You see how these components interact and evolve.  How often do you get a chance to sit down and live a life with someone?  By compiling the set together and watching it together--you are experience history.  A good story and entertaining films, YES--but you are also growing and aging with a phenomenal director, his iconic antihero, and the film movement.  The whole experience was magical and enthralling and I definitely recommend it to anyone who really loves film!  KGHarris, 10/06. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Thank You Criterion </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-30-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> There isn't much I can say about Truffaut that hasn't been stated already.  The man is a genius.  You can sense his love of life in every frame of his films.I never thought I'd have much interest in French film or culture.  Hitchcock was and still is my favorite director of them all.  Once I learned how much Truffaut respected Hitch I became more interested in his works.  What a happy accident that at the exact same time Criterion released this set.  I think The 400 Blows was nearly impossible to find.  Before this collection, all Criterion editions had sold out.As for plot, amazon has already provided all that you need to know.  What is important is the character of Doinel; a charming, infuriating, idealistic, romantic, ridiculous manchild.  How many movies document most of a character's life?  Especially one that outwardly leads a somewhat ordinary life.You can't really categorize any of these movies as sequels since not that much is repeated.  The consistencies among the movies ring true to real life.  (ex. recurring characters like the tall longhaired guy, Antoine ogling his latest 'apparition'.)The only let down was Love On The Run.  The character of Sabine wasn't that fascinating, and you cared more about Claude Jade's character than her.  There were way too many flashbacks too.  But much of that is forgiven due to the 'discovery' Antoine makes.If you tend to overdose on life, then you must see this series.  The only other Truffaut film I've managed to see otherwise is Day For Night, but I wholeheartedly encourage you to see that too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a suitcase of folded love garments unfolding under duress. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Francois Truffaut starts his story of pre-pubescent love and angst with his Cannes Film Festival favorite sans 1959 of youthful, angry Antoine in the 400 Blows and walks his originalist through a maze of 4 addition tales of unexpected lonely hearts of besieged misfit youth. With great aspirations he goes through the subsequent tales of love on the run. Stopping to bequeath as lovely a lady as ever walked the late 1960s streets of Paris. These two spare as axis poles and squabble over the most minute details. Each holds disdain on their current upheaval politics of the day.A wonderful and possible 1st life chasing documentary of false but believable events as they end at one decade's birth - 1980. This superb exterior suitcase packaging inside of one man's exterior garments of that day's packing unveil the layers and course of love untainted, chaotic, confused, languid, desirous in the forever tale of love ever wanting. The behemoth of added extras overwhelm as if you could find one of these excellent DVD box sets. Grab it and know a pre-digital world where you never had to ask your heart "what is next"? It just happened. happened well. as charming and goofball as any love affairs ever </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I'll be adding this to my collection the moment Criterion upgrades it to Blu-ray </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I didn't see The 400 Blows until 2010, and I've been interested in seeing the other four films featuring the character of Antoine Doinel ever since. When Turner Classic Movies decided to air them all last week, I finally had my chance. I'm not sure why, but I wasn't expecting the sequels to live up to the magic of The 400 Blows. However, I was pleasantly surprised. While the overall tone of the four additional entries in the series is quite different, I found that I was excited about seeing all of them.Has there been another series of films like this, showing different stages in the life of the main character over 20 years or more? I guess you could count series such as Die Hard, Rambo, or Rocky, but those titles focused more on the genre than on the development of the main character. As a fan of the Harry Potter movies, I'm also aware of how the younger members of the cast played their characters for almost half their lives up to the point that the story ended. While all of those movies are in my collection, none comes close to Antoine Doinel's story, and they are not meant to be serious studies of how someone changes through the course of their life.Let's take a brief look at Truffaut's five Antoine Doinel stories:The 400 Blows (1959)Crime, Drama, 99 minutesThe 400 Blows begins Antoine's tale when his is a 12-year-old, living in Paris with his mother and stepfather. It's loosely based on Truffaut's own childhood, and we learn that Antoine's home life is not the easiest of existences. He's a bit of a rebel, and often in trouble at school, when he bothers to show up at all. His real love is cinema, and that's one of his main escapes from his troubled young life. Truffaut doesn't seem to judge Antoine. Instead, he shows us the facts and asks us to think about what we have seen. How would be react if we were in Antoine's situation. Is he good or bad? Should we root for him or not? Unlike the other four movies, this introduction is most definitely a drama. I appreciated it on first viewing, but it took a few more before I came to love the story. Because I'm hoping that you will eventually watch all five movies, I'm not going to ruin the plot of any by going into too much detail. All I will say is that it's one of the best coming-of-age stories I've ever seen.Antoine and Colette (1962)Comedy, Drama, 32 minutesAntoine is now 17, and he's starting to focus on things other than his problems at home and his flirtation with crime. I found myself smiling that his life has taken a turn for the better. It was like meeting an old friend and seeing that they were suddenly thriving. The movie is a short, lasting just 32 minutes and ending rather abruptly, but it accomplishes a lot. At times, it feels closer in tone to The 400 Blows than the remaining three movies, but it has a fair amount of humor nonetheless. Antoine first sees Colette at a classical music concert, and he's immediately drawn to her. It's fun to watch his attempts to gain her attention, and interesting that he is so capable of impressing her parents, after struggling in that department with his own family. Antoine is somehow extremely likable, and it's easy to hope that wins Colette's affection. I felt as if I were in Antoine's shoes as I watched his audacious and inexperienced advances. I would love this to have been a full-length feature.Stolen Kisses (1968)Comedy, Drama, Romance, 90 minutesAfter being given a dishonorable discharge from the army, 23-year-old Antoine seeks out Christine (Claude Jade), his former girlfriend. Continuing the theme from the previous short, Antoine is well-liked by the parents of the girl he is pursuing romantically. Her father even manages to find Antoine a job as a night clerk. This movie has its serious moments, but it almost plays out like a romantic comedy. The acting is excellent, and it's easy to laugh at Antoine's attempts to succeed as a private detective. He doesn't seem to care what he does for a living, and focuses more on women, and passions such as music. The best moments feature Antoine's meetings with Fabienne Tabard (Delphine Seyrig), and one of her monologues is particularly memorable and effective.Bed & Board (1970)Comedy, Drama, 100 minutesAntoine is now 26, and married to Christine with a baby on the way. His latest job involves dying flowers different colors, but that doesn't last for long. After finally marrying the woman he loves, Antoine still isn't content. He always seems to be searching for something, although he rarely has a definite goal in mind. He's an opportunist, and things usually fall into place for him. Even when he has an affair, and occasionally seeks out the services of prostitutes, we never get the feeling that he means any harm to the women he loves. Why is that, I wonder? Bed & Board features plenty of amusing moments, and more than a few touching scenes. By this point, we know Antoine pretty well.Love on the Run (1979)Comedy, Drama, Romance, 94 minutesWhat was to be Truffaut's final entry in the Antoine Doinel series is probably the weakest, but it does have some memorable moments. After divorcing his wife, Antoine still lacks focus in his life. He has published a book, which isn't shy about detailing many of his former relationships, and some of the best sequences in the movie happen when he has a chance encounter with Colette, who is now a lawyer. Antoine is fixated on yet another beautiful woman, Sabine (Doroth&eacute;e), and there's a great scene in which he explains how she first caught his attention. Love on the Run relies too much on flashback footage from the first four movies, but the best scenes still make it a must-watch. It's fun to see two of his girlfriends meet, and characters from the earlier movies making an appearance. One encounter in particular is effective at showing how Antoine has evolved, and how people he once knew now view him differently.The Adventures of Antoine Doinel is gripping entertainment and, at its best, features some of the most compelling storytelling I have witnessed on screen. Truffaut's way of narrating the story places you right in the middle of the action, except when he deliberately creates distance by placing you outside a room or a store, while concealing dialogue with noise from the street. Antoine is always fascinating, and Truffaut's characters are fully-developed, and often endearing. The five films feature good acting, comedy, drama, romance, and plenty to care about. His leading ladies are all beautiful in their own way, and I am sad that Truffaut's untimely death (from a brain tumor at 52) robbed us of the conclusion to Antoine's story. This is probably the best episodic character study that I've encountered, and I hope that Criterion upgrades the entire set to Blu-ray as it did with The 400 Blows. I'm looking forward to seeing other Truffaut titles that have eluded me thus far. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One of the Best Criterion releases yet. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-25-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> In this 5 disc set, the five Antoine Doinel films are released. All are by Franois Truffaut.The first film, "The 400 Blows" or "Le Quatre Cents Coups" was previouslly released by the Criterion Collection but was taken out of print until this version was released. Truffaut based it loosely on his own troubled adolescence. It follows 14 year old Antoine Doinel's youth playing hooky from school, later running away from home and eventually sent to a juvenile deliquent center.The second film "Antoine and Collette" or ""Antoine et Colette" was originally a segment of a film titled "L'Amour &agrave; vingt ans" or "Love at Twenty" It follows his life as he is in his late teens working in a phonograph record factory.The third film, "Stolen Kisses" or "Baisers vol&eacute;s" covers his dishonorable discharge from the army, his reunion with his girlfriend, and subsequent attempts to find a steady jobThe fourth film, "Bed & Board" or "Domicile conjugal" skips ahead to after he is married. It covers his wife's pregnancy, his son's birth, and an adulterous affair he has with a Japanese woman.The fifth and final film, "Love on the Run" or "L'Amour en fuite" covers the process of his divorce and reunion with an ex flame.The films wer made between 1959 and 1979 and Jean-Pierre L&eacute;aud reprises his role for each film. The films are very impressive and quite rare for there to be series like this. Each film has some fine secenes and some interesting comedy. The acting is good and many scenes are well photographed.The box set has some excellent special features also.out of the five discs, four are numbered. For describing the special features, I will list the unnumbered disc as the last one.Disc one contains the first two films. 400 Blows and Antoine & Colette. The supplements for the 400 Blows are similar to ones in the out of print version. There are two audio commentaries. One is by film professor, Brian Stonehill and the other is by Robert Lachenay who was a lifelong friend of Franois Truffaut. The commentary by Lachenay is in French with subtitles. There is also audition footage for three of the child actors in the film. Jean-Pierre L&eacute;aud who played Antoine, Patrick Auffay, who played Rene, and Richard Kanayan who played Abbou. There is also footage of Jean-Pierre at the Cannes film festival for the screening of the film and a theatrical trailer. There are also two television interviews with Franois Truffaut about the making of the film.It also contains the short film, Antoine and Colette.Disc two contains the film Stolen Kisses along with the following special features:There is News footage of Truffaut's participation in the sucessful attempt to shut down the 1968 Canne Film Festival to support students and striking workers, a TV spot of Truffaut and Jean-Luc Goddard showing ther support for Cin&eacute;math&egrave;que franaise founder, Henri Langlois at a time when his job was in jeopardy, news footage of French cinema VIP's protesting against the planned removal of Henri Langlois from his job, excerpts from a TV interview with Truffaut discussing actor Jean-Pierre L&eacute;aud's portrayal of Antoine, and a video introduction to the film and events surrounding its release presented by film historian Serge Toubiana.Disc three contains the film Bed and Board with the following supplements:Behind the scenes footage with interviews of some of the cast & crew, a TV interview with Jean-Pierre talking about the film being the last in the series (before Truffaut decided to make the fifth and final film,) a TV interview with Truffaut and Bernard Revon discussing how the write the scripts, and a scene from a Truffaut documentary where he discusses the character of Antoine Doinel.Disc four contains the final film in the series Love on the Run along with the followingTruffaut and Marie-France Pisier talking about their work on the film and their feelings about the film, Scenes of a TV interview with Truffaut talking about his feelings on ending the series, There is also a theatrical trailer.The final unnumbered disc contains:Franois Truffaut's 1957 short film, "Les Mistons" or "The Mischief Makers" about some young teenage boys who attempt to sabotage the relationship of an older couple. The film also has oprional audio commentary by Claude De Givray. It is in French with English subtitles. There is also a primer for the film presented by Serge Toubiana, a noted film historian.There is also a 44 minute interview with co-writers Claude deGivray and Bernard Revon. A scene from a 1961 documentary titled "Franois Truffaut," a 1981 TV interview with Truffaut, and a slide show of movie posters for the four feature length Doinel films.This set is a must buy for those who like the series as well as Criterion collectors, and fans of Franois Truffaut's work. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The New Wave's Hero </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-19-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> In the early Fifties, Francois Truffaut and other important critics and soon-to-be-filmmakers (such as Godard and Varda) contributed to the film journal "Cahiers de Cinema". But in 1958, Truffaut decided to put up or shut up (as the ancient axiom is "those who can't do, criticize"). What resulted was a series of films so breathtakingly new, so odd and yet moving, that this box set collects them brilliantly.Antoine Doinel (as played by Jean-Pierre Leaud through four films and one short) is Truffaut's alter-ego, a disruptive but good-hearted young boy who matures into a hopeless romantic of an adolescent and adult. In "The 400 Blows" (1959), he escapes the clutches of his negligent family and the boundaries of his state prison, only to be left alone on the beach. In the short subject "Antoine et Collette", he is older but not wiser, as he falls for a girl way, way out of his league (her parents warm up to him, however, especially when he moves across the street).In "Stolen Kisses", made during the turmoil of Langlois's dismissal from the Cinematheque in 1968 (just prior to the May riots that would sweep Paris out of the comfort of bourgeois existence if only briefly), we return to Doinel as a recent "dishonorable discharge" from the Army, and he finds work and time to be with the charming older wife of an employer as well as his soon-to-be wife, Christine Darbon. But in "Bed and Board" (1970), the happy family is shattered when Antoine falls for another impossible woman. Though he returns to Christine at the end of the film, in "Love on The Run" (1979), they have seperated, and the film finds Doinel reflecting on his romantic past and trying to preserve his possible future with a young record store clerk.That, in a nutshell, is the story. But there's so much more going on in each film, and Truffaut doesn't so much focus on the stories of each film as the way his character Antoine navigates the events. The only one of the series that fails is the last, which feels a lot like a "greatest hits" wrap-up of the series, and because Antoine's love interest isn't nearly as interesting as the returning Collette (who reappears in Antoine's life and would have made a more interesting reward for all of his romantic angst over the years, if you ask me).I came to Truffaut thanks to seeing the work of his cohort, Jean-Luc Godard, in a class last spring, and I have to say both revolutionized the way I see movies. I wasn't a philistine when it came to foreign films, I had just never bothered to examine why they're worth studying. Now I get it: apart from surrendering to the Germans, the French are also good at film-making.Seek this box set out, it's worth your time if you're well-aware of the French New Wave or if you're new (and you get it mixed up with the musical "new Wave" of the Seventies). There's nothing wrong with expanding your cinematic horizons </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

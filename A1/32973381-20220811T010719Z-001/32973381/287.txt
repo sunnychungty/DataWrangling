@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B007FZ7L4G <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-25-2012  
+<h2> review.text </h2>
+
+ <p> VERY GOOD MOVIES EVERYONE SHOULD SEE THIS MOVIE YOU CAN LEARN SOMETHING FROM IT.ADD THIS ONE TO YOUR COLLETIONYES I RECCOMMED THIS MOVIE </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A FOOL AND HIS MONEY </p>
+
+
+<h2> review.date </h2>
+  05-28-2014  
+<h2> review.text </h2>
+
+ <p> This was very nicely done.  It was food for thought on just how we'd all act after coming into a large amount of money.  $1 mil. is nice, but it's not a  heck of a whole lot after taxes.  HAHA.The movie songs were good, the story line.........good, but not 100 percent realistic..........well, not in my home.  HAHA.  The ending was perfect.  Eddie Griffith brought his cool suave acting to the fore in this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> David E. Talbert's A Fool and His Money </p>
+
+
+<h2> review.date </h2>
+  01-20-2013  
+<h2> review.text </h2>
+
+ <p> I really enyjoyed the play. great messsage and story plot. got the dvd at walmart for 7 dollars and i feel its worth every dime </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very nice </p>
+
+
+<h2> review.date </h2>
+  12-26-2012  
+<h2> review.text </h2>
+
+ <p> Great holiday play or any time play! We viewed this play over the holidays and enjoyed every moment of this! If you have Netflix you can view this on Netflix. We own a copy of this and all of David E Talbert's plays and a few of his books.The play is so good and hits on reality! The play is on point and has very funny moments and moments that speak truth and reality!David E Talbert's plays are always quality! You can always expect him to bring quality!The characters were great and did a wonderful job. Eddie Griffin was so funny!The story line is what is going on in today's world when fools come into money. There are so many lesson, to be learned from this movie. You will be inspired and you will want to watch this over and over!You will laugh, and laugh! You will want to add this one to your collection!Enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fabulous, encouraging, miraculous and awesome! </p>
+
+
+<h2> review.date </h2>
+  06-24-2012  
+<h2> review.text </h2>
+
+ <p> Things wrong with this play.1. Parents were too loose with their daughter's behavior with her boyfriend.2. You don't walk into a Black family's house without knocking and door answered.3. Decent Blacks don't allow their daughter to go out anytime she wants with aman much older than her..come in 7 a.m. in the morning and Daddy say nothing.Not a Black father. She was a teen...he was in very late 20s, early 30s.4. Did not check out the boyfriend who was a 'dope pusher'and he had son anddaughter in his pocket, ruining their lives.5. They are broke with no money; Daddy don't listen to his kids, or son who istelling him he can win a million dollars on the radio.6. Son puts their name in anyway and they call; daddy acting crazy on phone withcontest people, and son had to grab the phone and holler out the answer to thecontest and they win a million.  Then Daddy says,he won the money, Its hismoney.  What? They son won that money.7. Daddy now controls all the money, gives silly daughter a $100,000 credit card, ateen; he did not give son a card. They blow all the money, did not pay taxes, gobroke. Wife buys 20 pair of 1,000 shoes; 30 purses @ $5,000 each, etc.8. His brother who he did not want to come to his house, or let him stay a few days,came to save them but Daddy with his mean attitude, everybody wrong but him, wolfsthe whole time. Don't want to listen to anyone.9. Boyfriend comes to kill son, etc; uncle saves him, daddy want to throw uncle out.Uncle is the one with the life raft for them all. Millionairs they were. They didnot deserve anything from their behavior. Mean spirits winning.  No good.This is the worse I have ever seen David E. Talbert write. Really bad play, and he said his funniest. He must have had a hangover this time. LOL </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A FOOL WITH HIS MONEY WILL SOON DEPART. TRUE. </p>
+
+
+<h2> review.date </h2>
+  06-18-2012  
+<h2> review.text </h2>
+
+ <p> Husband (Michael Beach) and wife (Cindy Herron-Braggs, formerly of En Vogue) both work hard to provide for their family, yet they struggle to pay the bills. And the stress becomes worse when Mr. Jordan loses his job. But then there's a call from a radio station, and the Jordan family's financial situation is changed.I saw the name Michael Beach (Third Watch, First Sunday, Ruby Bridges, Soul Food, ER) and decided to watch this play. I didn't realize Mishon Ratliff (R&B; singer, dancer, actor) was cast as the teenage son; when he came onto the stage, I became even more interested. I remember Mishon from Lincoln Heights, a show that aired on ABC Family and, in my opinion, shouldn't have been cancelled. He is a talented young man and his presence is what made this play so entertaining for me.After what Mrs. Jordan said to her husband because she was tired of having so little (I felt for Mr. Jordan at that moment), I thought she'd be more responsible when the money came. Actually, I thought they'd all have better sense than to make so many bad choices, and I kept wondering how they could be so wasteful, but the play is called `A Fool and His Money' - Jesus warned us to beware of selfishness and greed (Luke 12:15). Barely scraping by had affected Mr. and Mrs. Jordan's marriage and their son's education, but I guess they forgot all about that when dollars signs were all they could see. They needed to change their mindsets, and then they would have dealt with the million dollars wisely.David E. Talbert shows how family members can allow money to tear them apart. He also shows how you never know who you're going to need: The family didn't like it when a long lost uncle (Eddie Griffin) showed up unexpectedly, but it turned out they were blessed to have him there. And he shows how some females will settle for less than they want in a man. There is also an important message of forgiveness in this well-acted stage play.A Fool and His Money is a musical comedy-drama. I liked the singing, the humor (my favorite part is when Mr. Jordan had his son get out the Bible), and the ending.*Do not copy/paste my review without permission. Thank you:) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beware of Selfishness and Greed </p>
+
+
+<h2> review.date </h2>
+  10-07-2013  
+<h2> review.text </h2>
+
+ <p> I think I like the script more then some of the actors. Some characters seemed to be over acting and some underacting. But I do like the concept and how it plays out. David E. Talbert has great talent I just wish his cast did as well. I normally try to watch this on BET but I never finish it so when I found it on here I went ahead a finished it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This Play Is On BET... </p>
+
+
+<h2> review.date </h2>
+  07-06-2012  
+<h2> review.text </h2>
+
+ <p> I have enjoyed watching A Fool and His Money,  The play was very touching and entertaining. I have always enjoyed David E. Talbert's play and this one was no different.  I pre-ordered my copy and it arrived in a timely manner. I would recommend this play to others.  The cast was wonderful.  First time that I saw Rddie in a play and I really enjoyed him.  I was very satisfied that I purched this play to add to my David E, Talbert collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> David E. Talbert </p>
+
+
+<h2> review.date </h2>
+  01-16-2013  
+<h2> review.text </h2>
+
+ <p> still wait to be watched i will get around to it very soon we have to take it in turns to watch the films </p>
+
+
+<h2> review.summary </h2>
+
+ <p> i haven't watch it yet </p>
+
+
+<h2> review.date </h2>
+  01-20-2014  
+<h2> review.text </h2>
+
+ <p> THIS IS ANOTHER GOOD MOVIE SHOWS HOW FAMILY SHOULD STICK TOGETHER WHEN TIME ARE BAD AND THAT YOU SHOULD NOT ALSO JUDGE ONE ANOTHER. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NO THANK </p>
+
+
+<h2> review.date </h2>
+  02-12-2013  
+<h2> review.text </h2>
+
+ <p> I  give A Fool and His Money three stars.  The play is a bit unrealistic, however I enjoyed the singing of thegrandmother and grandson.  Eddie Griffin is hilarious, as well. It could've been a great play if it was more realistic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unrealistic </p>
+
+
+<h2> review.date </h2>
+  03-23-2013  
+<h2> review.text </h2>
+
+ <p> it truly shows you how the love of money can corrupt u and your family, david talbert is brilliant. i love all of his plays. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVED IT </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

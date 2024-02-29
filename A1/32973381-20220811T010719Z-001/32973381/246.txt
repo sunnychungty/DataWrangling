@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000M341R8 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-07-2007  
+<h2> review.text </h2>
+
+ <p> I have 2 sons, 10 & 12 yrs old, for them this is a MUST HAVE. This is classic stupid 'potty' humor in a good way!!  No killing, minor sex, and a good moral.  We can't hide our kids from life, but we can choose..and this is a happy medium.  The kids love it and I don't mind so much.  These movies help add to our crazy collection which also includes all of Mel Brook's films!!  These movies will not save the world, they will not have you pondering life-but they are pure and simple funny and will have you laughing! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> classic teen humor </p>
+
+
+<h2> review.date </h2>
+  03-15-2007  
+<h2> review.text </h2>
+
+ <p> I LOVE REVENGE OF THE NERDSThis 4 movie set covers the two theaterical film and the two TV films. Lewis (Lizzie McGuire's Robert Carradine)and his nerd buddies fight again NERD PrejudicesThis is one of those films set if you reveal more than you should, and you spoil the fun. Lets just say this, NERDS RULE!Bennet Pomerantz AUDIOWORLD </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nerds </p>
+
+
+<h2> review.date </h2>
+  12-26-2006  
+<h2> review.text </h2>
+
+ <p> This set includes Revenge of the Nerds 1, 2, 3, 4. Revenge of the Nerds comes in special edition format with a rare TV pilot of the show Revenge of the Nerds that was never picked up.  The set includes:Revenge of the NerdsRevenge of the Nerds 2: Nerds in ParadiseRevenge of the Nerds 3: The Next GenerationRevenge of the Nerds 4: Nerds in Love </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nerds </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> I remember watching the first two movies when I was younger and loving them.  I still haven't watched the other, straight to TV, movies yet because I'm afraid I'll hate them and think less of the franchise.  One day I'll watch them but for now this was a great way to pick up parts 1 and 2 on DVD because I only had them on old VHS tapes that stopped working long ago.The quality looks good on my small HDTV and I haven't tried to watch them on the bigger TV with the surround sound but if there is a problem I'll amend this.Enjoy the movies and re-live an easier time when you didn't get arrested and go to jail for breaking and entering or stalking apparently. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The movies that changed the world </p>
+
+
+<h2> review.date </h2>
+  04-21-2008  
+<h2> review.text </h2>
+
+ <p> For anybody who is a Nerd or thinks they are a Nerd. Welcome to your Freedom. Now is the time to get back at all those ones who thought they were cool. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny </p>
+
+
+<h2> review.date </h2>
+  04-29-2013  
+<h2> review.text </h2>
+
+ <p> These films were out when I was in my 20's and were funny and popular when they were first out.  I now have children nearly as old as I was when these films came out and they enjoy them almost as much as we did 30 years ago.  The box set is nice to have and for less than $20 it is a &#34;must have&#34; for any DVD collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Fun! </p>
+
+
+<h2> review.date </h2>
+  03-01-2007  
+<h2> review.text </h2>
+
+ <p> Well I am glad that Fox Video FINALLY made this Nerd quadrilogy set.  Frankly I was hoping that they would've just gone and put Nerds III and Nerds IV back to back like they did I & 2.  But they didn't.  This means that I will have to part with my Nerds I & Nerds II DVD and buy this one.  I think all four of them are awesome however I think they could've kept the same cast members in ALL four because Robert Caradine seems to be the only one who comes back in ALL four.  I will say this, Latimore and Booger make come backs.  Anyway, my comments go to Fox Video "WAY TO GO" I am glad you put this out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> FINALLY AT LAST Fox Video has done it! </p>
+
+
+<h2> review.date </h2>
+  03-27-2014  
+<h2> review.text </h2>
+
+ <p> saw this movie with my brother when I was a little kid I remember how excited my brother was to see it maybe it was because he was a nerd </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nerds! Nerds! Nerds! </p>
+
+
+<h2> review.date </h2>
+  01-12-2014  
+<h2> review.text </h2>
+
+ <p> Note 3 1/2 starsReally a timeless classic about life, growing up, human behavior and what it means to be male in the modern day 20th century.  There&#8217;s more wisdom in these stupid comedic movies than in the most of the books you&#8217;re going to read in your life, the crap they show on tv, documentaries found at the local library etc.  The movie drives home the point that, in this world, there are those at top of the food chain, the eggheads at the bottom of it and everyone else somewhere in between.  In ROTN there exists a clash of ideologies between the mathematically prone nerds and their more powerful fraternal adversaries across campus.  The nerds believe they are destined to achieve parity, while the jocks are determined to destroy any attempt at a social breakout.  While the Nerds do get their revenge on multiple occasions, obtain the prom queen and somehow win the day, in real life, it does really not work this way.  Hence the 3 1/2 instead of 5 star rating.Clint Eastwood believes that, in life, there exists a special relationship between alphas and females and it&#8217;s only those in the middle that screw it all up.  Speaking personally, I consider myself such a middle of the road commoner and think I understand his message.  He also says that nerds, as we know them, play an important role in keeping the human life cycle afloat similar to that of a wolf pack and their omega system.  Their services often goes unnoticed and unrecognized.  But what Revenge of the Nerds preaches ultimately is that unlike the new age b.s. they try and force-feed you today about everyone being equal and nothing pre-determine anymore, it still is in fact your genetics and the same laws of nature still apply just as they did to man thousands of years ago.  The only thing that&#8217;s changed is the illusion that&#8217;s been created by society that there&#8217;s no such thing as winners and losers.  ROTN keeps the truth alive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Revenge of the Nerds: An Analysis </p>
+
+
+<h2> review.date </h2>
+  08-03-2009  
+<h2> review.text </h2>
+
+ <p> I am a big fan of the first Revenge of the Nerds. And yes, between the sequels and the TV movies, they steadly went down hill. But they all do have their moments, and I got this set for that. And the price made it worth it. I paid more for only the first film, so why not. If you are a nerd, get the set. You will enjoy it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Movie Set </p>
+
+
+<h2> review.date </h2>
+  02-25-2008  
+<h2> review.text </h2>
+
+ <p> I have always been a Revenge of the Nerds fan.  When I was a kid, I had all of them on VHS and watched them regularly on TV.  When 1 and 2 came on a double sided DVD, I was waiting for so long for 3 and 4.  Sure, they aren't half as good as the first two, but they are still good movies worth while of a DVD release.  This pack provided just that, updated versions of the first two movies and new versions of the latter half of the series.  Whether you're a fan or not, these are some of the classic comedies that inspired the ones we watch today! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> FINALLY </p>
+
+
+<h2> review.date </h2>
+  08-01-2013  
+<h2> review.text </h2>
+
+ <p> Ultimate 80's nerd collection. Always a good time on a rainy / snowy day to make you laugh. Nerds forever! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nerds </p>
+
+
+<h2> review.date </h2>
+  07-05-2013  
+<h2> review.text </h2>
+
+ <p> The nerds are a bunch of geniusus who are outcasts not wanted by the pretty people, the jocks constantly mess with them. When the jocks burn their frat house down they physically throw the nerds and their things out into the street, they are then forced to sleep in the gym. The nerds find an old broken down abandoned house obtain it, fix it up making it look like a brand new house, seeing that the jocks want it and set out to take it from them. The fed up nerds decide to strike back one piece of revenge is when they put some of the liquid heat the jocks use for sore muscles etc in their jock straps, out on the football field the liquid heat kicks in making for a funny as hell sight </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hilarious Nerdy Revenge </p>
+
+
+<h2> review.date </h2>
+  03-08-2009  
+<h2> review.text </h2>
+
+ <p> Somewhere between the "cool" good looking crowd and the jocks lay the Nerds...that's the rest of us!These movies are not only for those stereotypical nerds or dorks or geeks but for anyone who has ever been put down for being "strange" or a "square" or for just being different.The Nerd flicks could and did pour on the low comedy as  much as say "Porky's" or "Animal House" or"Up the Creek", but they had one thing the rest didn't;a big heart and characters with alot more depth and texture.They were a celebration of the triumph of the little guys over those who would think they're better than others.And we learn that there's a little nerd in everyone,no matter their race,creed or colour.Who couldn't relate to that?That's why they have remained particular favourites of mine ever since they debuted.The series starts off with "Revenge of the Nerds",1984.The movie involves  the story of two nerds Gilbert(Anthony Edwards) and Lewis(Robert Carradine) as they travel to begin their first year at Adam's College.The Alpha Beta Frat House practically runs the campus and during a raucous party they burn their own house down.They storm the freshman dormitory and co-opt it for their own, expelling all inside.The freshman are given cots in the school gym and are forced to apply to different frat houses for accomodations.The last core group of seven left are Gilbert,Lewis,Poindexter(Tim Busfield),Wormser(Andrew Cassese),Lamar(Larry Scott) ,Takashi(Brian Tochi) and(my fave)Booger(Curtis Armstrong).The group finally finds an old house off campus,fix it up and apply to become members of the only group that will take them,the Lambda,Lambda,Lambda fraternity;an all black frat organization.During an open party there the Alpha Beta's led by Stan Gable(Ted McGinty) disrupt the proceedings letting pigs into the house.The Nerds get revenge by putting hot linament in the Alpha Beta's jock straps,and with that act are finally accepted permanently into the Tri-Lams organization.At a subsequent college homecoming carnival the Tri-Lams and the AB's go head to head in competition with the Tri-Lams coming out successfully.The event even sees Stan Gables' girlfriend Betty(Julie McCormick),falling in love with Lewis.The AB's incensed,trash the Tri-Lams house which prompts Gilbert to confront the AB's at a pep rally for their football team.The truth comes out and justice gets it's day for everyone.The second film is "Revenge of the Nerds II-Nerds in Paradise",1987.This has our heroes attending a national frat conference in Fort Lauderdale.Gilbert has a broken leg so he can't attend with his co-horts.The hotel they were supposed to check into has cancelled their reservations and they are forced elsewhere.They check into a real dump of a joint,with the first "guest" they see leaving via a strecher.They check into the Ricky Ricardo room and across the hall Booger finds Edgar Poe Wong or Snotty(James Wong) who can out gross Booger in ways he's never imagined, and instantly becomes Booger's new guru/master.At the conference the Alpha Beta controlled venue sees them trying to pass an amendment limiting who can join frats but with alot of work the Tri-Lams get it defeated.The Tri-Lams are then set up on a phony car stealing rap and imprisioned,which also threatens their frat status.They are bailed out but get abducted by the AB's who put them on a deserted island along with the Alpha Beta "heavy" from the first film "Ogre"(Don Gibbs).They must get back to the conference somehow and when they discover a hidden cache of army equipment they make it just in the nick of time.They have their usual show down with Alpha Beta and triumph in the end.Ogre is even initiated into the Tri-Lams complete with sweater,pocket protetcor and glasses!"Revenge of the Nerds III-The Next Generation",1992,has Harold Skolnick(Greg Binkley) and Ira Poppus(Richard Israel) as the films two main characters.Lewis is Harold's uncle who now runs the computer science dpeartment at Adam's College.Lewis has since married Betty and they have a very comfortable lifestyle....too comfy.Lewis has forgotten his roots and has put success over who he really is.The nerds rule the campus but old Stan Gable,now a traffic cop,drops by to instigate the AB's into reclaiming their former glory  and running rough shod over the Tri-Lams.Stan is even given the job of Dean so an influential former member Mr. Price(Morton Downey Jr.) can also see the nerds run off campus for good.The nerds are pushed to the wall but Lewis is still in denial so is no help to his nephew or the fraternity.The Tri-Lams search for a former member in their database with law training.They get a "hit" and it is none other than Booger.He shows up all gung ho and takes the adminstration to court but loses to an anti-nerd judge.Mr.Price goes a step further and puts marijuana plants in the Tri-Lams house basement and they get busted for drug possession.Lewis bails them out  and finally comes to his nerd senses.He suits up again into his old outfit and brings strikes on and off campus which paralyze the adminstration.In retaliation the admin charges Lewis on a bogus misappropriation of school funds rap.When Lewis' father,Lamar,Takashi,Gilbert(not Edwards) and Wormser(not Cassese) show up in support at his trial, Stan breaks down and confesses the whole sordid affair and Price is arrested and the case is dismissed.Finally,"Revenge of the Nerds IV-Nerds in Love",1994,really should have been subtitled"Booger gets married" because that is basically the premise of this final instalment.Booger and his betrothed Jeannie(an ex Omega Mu,his favourite sorority!) are due to get married on Valentines Day.Her parents,especially her father(Joe Bologna) doesn't approve of Booger one bit.On hand to help him are Lamar,Takashi,Harold,Trevor(John Pinette,from the previous film), Stan Gable(complete with nerd sweater,pocket protector and glasses),Ogre,Lewis(his best man) and Betty,who is very much preggers.Stan picks up chicken pox and is sidelined through much of the film in bed,but is checked in on constantly by Lewis.At a pre nup party the father decides to get the son in law to hire a detective to dish some dirt up on Booger.At the bridal shower a food fight erupts and Booger is accused of having an illigitimate child in Sandusky,which he denies.At a stag party later the son in law tries to compromise Booger by trying to get him to sleep with a hooker but that doesn't work.By this time the wedding has been put off and on more than a few times.When a child is finally produced it is learned the girl was plucked from an orphange for the occasion.The son in law is expelled from the family and Booger and Jeannie finally tie the knot and adopt the little girl to boot.At the same time Betty goes into labour and has a son.Lewis' father holds up the child as hands reach out to it,while saying:"Behold,the nerd child".The film ends with a nice shot of Booger,Jeannie,Lewis,Betty,their new son and Lewis' father sitting and talking on a large seat swing.I think the last movie,more than the others,really drove home the point of what this series was about;loving one another and treating each other with respect.There is a great scene with Lewis and Booger outside the motel where they are staying.Booger is expressing his fears and doubts and Lewis is there for him.Lewis says to Booger"I love you, man" and Booger almost embarrassingly says "Yeah,I love you too".It is an unpretentious and naturally played scene that really worked perfectly.This set comes in a pack of four slip cases.The first two films are letterboxed  and the last two are full screen(made for TV).All have been transferred well and the pictures are crisp and clean.The first film has the most special features,making up for what the others don't have;commentary by some of the principal cast,a  nice 38 minute vignette("I'm a Nerd and proud of it")with again many of the principal thesps on hand discussing the films,deleted scenes and the Revenge of the Nerds TV Pilot(1991).The rest of the discs pretty much just have trailers on them,except the last one which also has a deleted scene added.All in all this a fine presentation by Fox and well worth buying.A series with alot of heart and more texture and depth than most of its' other compatriots of the 1980s.You can just enjoy them on many levels,from the story morals to the frat house humour and antics.It's a win win situation for older fans and newer ones alike.Nerds forever! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Revenge of the Nerds-Frat humour,but with alot of Heart! </p>
+
+
+<h2> review.date </h2>
+  03-23-2008  
+<h2> review.text </h2>
+
+ <p> Cool collection, well maybe not exactly cool but very funny stuff. The extras on the original are good too love the commentary, funny stuff </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nerds - i'm in love </p>
+
+
+<h2> review.date </h2>
+  03-29-2014  
+<h2> review.text </h2>
+
+ <p> For the relic of it all. But still funny and ageless, like Dean Martin and Jerry Louis, ageless! Collectors, must have. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For the Aged </p>
+
+
+<h2> review.date </h2>
+  01-12-2007  
+<h2> review.text </h2>
+
+ <p> This is one of those movies series that when I think about they remind me of all the saturdays in middle school where I would stay up till 4am watching all the old movies my parents and much-older siblings had laying around in our movie collection.'Revenge of the Nerds' is the perfect middle-school/high-school movie in every since of the phrase.  It is cheap/slackstick/sexual humor, but unlike a lot of newer movies along the same lines ('American Pie,' 'Eurotrip,' 'The 40-Year-Old Virgin') it never feel gratuitous, eventhough the language is much more questionable.  The plot itself follows two best-friend nerds durring their fall semester of their freshman year.  When they are kicked out of the dorms, they along with fellow 'outcasts' band together and start their own fraturnity and cause problems for their fellow Fraturnity full of Jocks.The Second movies features almost all of the entire original cast (Anthony Edwards only appears in the first 3-minutes of the film), as they take a trip down the Miami for a natual 'Fraturnity Leadership Meeting' and of course chaos insues.The third film takes place a good 10/15 years after the events of the second movie, and thus has a completly different tone than the previous two.  This movie was original made-for-TV so already from the beginning the humor is more slapstick (and much less sexual), and its dare-I-say almost 'family freiendly'.  In the movie Louis' nephue moves off to college to find the college overrun with Nerds, but the Dean trying to get rid of them all.The Fourth (and final film) I have only viewed once, but it is another 'made-for-tv' movie that follows the surviving nerds (now in their late 30s/early 40s) getting married and starting their families. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nerds!!!! </p>
+
+
+<h2> review.date </h2>
+  09-01-2012  
+<h2> review.text </h2>
+
+ <p> This movie collections talks about how a group of people get together for reasons that society puts them together. It shows how together they can overcome anything it comes against them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Revenge of the Nerds </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00IM10TTG <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> I actually love to read some rough romantic stories, and this one is certainly one of them. Great story line, very interesting game of interactions and characters. Excellent read for anyone how likes it the hard and spicy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of my favorites lately </p>
+
+
+<h2> review.date </h2>
+  03-21-2014  
+<h2> review.text </h2>
+
+ <p> I was captivated by this book from the beginning!  It had a great storyline that kept me excited and reading to the very end. If you like exciting erotica, you will not be disapointed with this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A very exciting read! </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> It's a short little read, but that's all you need. Very erotic book and really hits your sexual triggers. This was like 50 shades of grey, but shorter version and much much better quality. If you got a fantasy about 3somes, this is the book to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome read </p>
+
+
+<h2> review.date </h2>
+  04-16-2014  
+<h2> review.text </h2>
+
+ <p> Very hot and spicy story. I was of the opinion that erotica was for women...but I was really wrong. I really enjoyed the time spent with this book as a man. If you're into this kind of entertainment, you should get this one (or if you're not, you will probably find yourself into it anyway like I did) ! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fiery </p>
+
+
+<h2> review.date </h2>
+  07-16-2014  
+<h2> review.text </h2>
+
+ <p> WOW! This book is really  sexy and hot. I have not read a lot of erotica and some of the language made me squirm a little  but it is well written and very sexy. The story line is well thought out and the characters are engaging and believable. Great Read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> HOT HOT HOT! </p>
+
+
+<h2> review.date </h2>
+  03-19-2014  
+<h2> review.text </h2>
+
+ <p> You were warned before reading the book so you know what to expect. If you don&#8217;t have the stomach to read this type of genre then this is not for you. Short but just right. Would be great for couples and lovers who want to try something exciting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Highly sensual and titillating! </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> Great erotic book,  my wife loves it. It had a great storyline, If you want to add some juice to your realtionship or marriage this short book will do it for you. A great resource for those couples who want to try something different and new. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My wife loves it! </p>
+
+
+<h2> review.date </h2>
+  03-09-2014  
+<h2> review.text </h2>
+
+ <p> This book shocked me with how effective it was in spicing up my marriage. I just got it to read for fun but I kept talking about the story line and my hubby wanted in on the action. An excellent sexy read for those married couple who wants to try something new! This is an erotica book that has a story that WILL keep you EXCITED! Quick read yet very steamy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick and Dirty! </p>
+
+
+<h2> review.date </h2>
+  03-05-2014  
+<h2> review.text </h2>
+
+ <p> My only complaint about this book is that it didn't have any disclaimer like: careful, your kindle can burn down, haha!I must say that it is not my usual genre, but this author is an excellent fiction erotica writer and did a great job on depicting a really spicy erotic phantasy of 3( yes, 3!)  and so she deserves my 5 stars. Won't reveal any more details, hope it was not a spolier, lol! Hmm wondering if they will do it again? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very well-written and really hot! </p>
+
+
+<h2> review.date </h2>
+  03-12-2014  
+<h2> review.text </h2>
+
+ <p> This was such a fantastic book. It had a great storyline and the characters actually had character. It was hard to put this down and once I finished I couldn't wait for more. I'm a little bit of a newbie to the contemporary romance genre, but everything i've read so far i have loved and this book has only encouraged me to keep on reading more! Would not hesitate to recommend this to anyone looking for a light and entertaining erotica story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This book was steaming HOT!!! </p>
+
+
+<h2> review.date </h2>
+  02-28-2014  
+<h2> review.text </h2>
+
+ <p> This is great book of erotic reading, its not long and drawn out. It got my attention right away, its hot and spicy and I just could not put it down. I have read it in one session just before bedtime, and this was a good and steamy read, that had just the right effects on me.If you're looking for a turn on before bedtime, as I did, this is a good book to grab, its has a believable story that has a great flow, and the storyline of Lou and her husband Eric will surprise you in a pleasant way. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot an Spicy </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

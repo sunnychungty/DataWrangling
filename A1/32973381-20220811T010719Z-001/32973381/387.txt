@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1936383233 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-12-2011  
+<h2> review.text </h2>
+
+ <p> When I think of flying toasters, I think of the After Dark screensavers from the 90's.  Gentle creatures that flap their wings, trying desperately to keep up with the toaster in front of them.  I do not think of alien spacecrafts loaded with nuclear devices that will explode if smacked with a giant sex toy shaped like the anatomy of a horse.When I think of heroes ... well, my first image is not the Arnold Schwarzenegger quotable smashfest, which is apparently all that the world had seen before.When I think of hate inspiring art, I definitely don't imagine a book that is so fun and so funny.Felix and the Sacred Thor is hilarious.  It can be called "Ultra-realism" (more than "surrealism") taking things that we say as figurative and making it literal.  Getting screwed over at the work place?  Well, so is our hero, by multiple bosses, as well as everyone in the unemployment lines (that last for months before anyone moves forward).  The nastiness of not feeling secure enough to fight back for your human rights in your job for fear of entering the unemployment lines again matched up with the frustration of those that demand the unrealistic from you tied with a man fighting off internal toasters with internal detonation devices ... it's too much to ask for in a book.James Steele pulls it off wonderfully, and though I don't know if I've ever read a book that emanated hate so much ... I also know that it is rare to read a book so funny and with which I could sympathize so quickly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Job got you frustrated? </p>
+
+
+<h2> review.date </h2>
+  06-28-2011  
+<h2> review.text </h2>
+
+ <p> If Salvador Dali were to comment on the meaningless of a college degree he might be inspired to paint a flying toaster getting whacked by a horse dildo. Steele makes excellent use of the literary device, non sequitur, in his comedic quest to save humanity in Felix and the Sacred Thor. This is not just a story about sex toys, but a commentary on modernism, social culture, education and the pursuit of greater things. And yes, the dirty underbelly of the retail world where receipts are optional and no customer should be allowed to borrow scissors. In between laughs, I was thinking about what humanity is really doing.  Are they going through the motions of the mundane, or is anyone really using their strengths for a greater good. Deep, I know. Another aspect that I enjoyed was the use of objects and twisting the meaning that has already been assigned to said object. A dildo is a sex toy until you make (use) it for something else.  In this case, a weapon to save the world.  It's amazing how quickly when new meaning is applied, the taboo of the object dissolves. In the end, words are just letters put together in a certain order. The power comes from what we impose on it, the meaning we give it, and realizing each person possesses the power to change it can be mind blowing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Knew There Was Something Funny About That Toaster... </p>
+
+
+<h2> review.date </h2>
+  12-02-2010  
+<h2> review.text </h2>
+
+ <p> I love satire. I love it so much that I might use a Thor on it if it manifested itself physically. Steele's book is full of satire. In the beginning (in a bit of expository gonzo autobiography), the protagonist, Felix, is working at a retail job. He's pulled in too many directions and is subject to the whims of absurd and surreal customers who kill themselves if they don't get their way. This is only made worse by the overbearing supervisors who literally sodomize their employees to demonstrate their power. I thought for sure that the beautiful, beautiful satire would end there, but I was wrong.Steele goes on to criticize our country's educational system which churns out thousands upon thousands of highly qualified individuals into the job market with nowhere for them to go. This hit me personally, as I'm going on three degrees now and have yet to put one to use. These people, with degrees in various useless disciplines all related to the nocturnal emissions of animals, end up waiting in long lines for months for the opportunity to work for nothing.And I'm grateful to James Steele for bringing that out in the open with this story. By breaking down these things that we go through every day and turning the metaphors into their literal counterparts, he exposes everything that's wrong with this country.  I would like to send this book out to major figures in our government and the key players in our educational system and demand that they respond. Under threat of Thor.The story isn't all depressing topics. Really, it was all kinds of fun to read. In essence, it was a tale of the unlikeliest superhero with the most unlikely powers. It was kind of like a middle-of-the-night-Captain-Planet-type-show-on-Adult-Swim. I liked that the sex toys, metaphors for so much, had super powers. Awesome super powers. And I liked that they were also used for sodomy.Anyway, whether you want a good time or a long spell of depression at the state of our country, this is the book for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Behold the power of Thor! </p>
+
+
+<h2> review.date </h2>
+  08-08-2011  
+<h2> review.text </h2>
+
+ <p> This is quite a good first book by Mr. Steele. The social commentary is put forth in bizarro fashion and seems to me to be right on point. The story follows Felix and his quest to save the world from explosive toasters with his Thor (a horse dildo that grows larger after completing various tasks). While Felix is the hero in this tale, Pat, the owner of the novelty toaster company, makes some good points towards the end of the book. I enjoyed this book and think it could easily be turned into a pretty interesting video game. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good first book by Mr. Steele </p>
+
+
+<h2> review.date </h2>
+  04-19-2011  
+<h2> review.text </h2>
+
+ <p> James Steele's debut is an epic fantasy adventure where a lowly peasant receives a powerful weapon and becomes a hero to save the day.  It takes place in a futuristic capitalist society, but it has all the trademarks of classical fantasy.  The hero is Felix, a customer service rep, and he is tasked with saving the world from exploding toasters.  His weapon is the Sacred Thor, which is a horse phallus.  Much of the story involves Felix running around slaying toasters and leveling up his weapon.Felix's world is also very interesting, with a lot of cool sci-fi ideas.  Food is transmitted through the air, and the radiation is so thick in places that you can gain hundreds of pounds via exposure.  The economy is driven by endless droves of workers who went to college, study useless vocations, and spend years standing in unemployment lines.  Everyone is graphically exploited and they're usually thankful for it.  It's an insane view of capitalism, education, and the modern workforce that makes a lot of really good points.On the downside, the narrative has a jerky rhythm that makes it a little hard to settle into the story.  There are some pacing problems and some sections of text seem unnecessary.  Still, it's a funny hyperactive sci-fi story that turns the "epic quest" genre completely on its head, with plenty of smart and ridiculous musings about the state of the average laborer in a terrible economy.  Read it while you're waiting in line for that dream job at the floor sweeping factory. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Corporate rule will never die! </p>
+
+
+<h2> review.date </h2>
+  05-31-2011  
+<h2> review.text </h2>
+
+ <p> In a dystopian society where unemployment is the norm, Felix wields the Sacred Thor against the forces that threaten humanity, the sentient toasters living in the chest cavities of most college graduates. Did I mention The Sacred Thor is a "marital aid" shaped like an enormous horse penis? I didn't? You'd think I would have mentioned that first...Where do I start? Do I mention a world where many college graduates are stress management specialists, dedicated to servicing pent up animals? Do I mention the rampant elements of satire mocking the absurdity of corporate America? No, I'll mention that Felix wields a giant horse penis that levels up as he dispatches his enemies.Felix and the Sacred Thor is quite a tale. It's part quest story, part super hero story, but it's mostly a commentary on how ridiculous corporate America has become. 19 hour work days, being sodomized by supervisors, firings for minor offenses, are any of those thing really that hard to imagine? James Steele took his frustration with working in retail and turned the knob up to 11.While the dry humor was the main selling point for me, Steele's writing almost made me forget Felix was waving a giant horse penis around. From grease being renamed "sustenance" in the interest of political correctness to nutrition being broadcast into people's bloodstreams, his world building was quite deep for 82 pages of story.If there is a Bizarro crown, place it on the head of James Steele immediately. 4 out of 5 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Sacred Thor is a What? </p>
+
+
+<h2> review.date </h2>
+  12-07-2010  
+<h2> review.text </h2>
+
+ <p> Felix and the Sacred Thor is a stupid story about a guy who breaks toasters with a rubber horse phallus. It's also a clever social satire about education, economics, and the nature of the heroic quest. This puts me in a difficult position. While one part of me wants to giggle stupidly at the superhero antics of Felix, whose hero ethos seems at times to be derived more from video games and cartoons than from, say, Joseph Campbell--even his supernatural guide refers to acquiring skills as leveling up, especially when he chastises Felix for his lack of quotability--another part of me wants to chuckle knowingly.In the world of this book, the vast majority of the population is college-educated. Unfortunately, they are all educated to do essentially the same thing, and is not a terribly useful thing--to manually stimulate animals. This creates massive unemployment. Opportunities to gratify animals are actually pretty rare, and most positions are unpaid. In addition to the unemployed liberal arts--sorry--pervert graduates, there are the ludicrously plugged-in and corporate zombies.I'm in the same spot I was when I was watching the movie Idiocracy or reading Candide or The Sotweed Factor. The satire is funny enough, but when the antics of the characters being satirized are this ludicrous and the characters are just likable enough, I kind of want to laugh with them and come to actually like them. Felix really is a pervert of the purest heart, and you want to cheer for him, though his quest is stupid and misguided, maybe even more so because his quest is stupid and he follows through with complete sincerity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stupid fun and smart fun </p>
+
+
+<h2> review.date </h2>
+  06-26-2011  
+<h2> review.text </h2>
+
+ <p> I feel like I can relate somewhat to James Steele. We both live in the same state. (and I'm not talking about perversity or insanity.) I'm always extra tickled when a Bizarro comes from Ohio. Things are a lot weirder here then people think.We both share a interest in bestiality and demented sex toys. The past couple months I've watched a couple documentaries on people involved in a bestiality lifestyle. It's fascinating to hear them talk about being in love with a horse or a dog. They were completely serious about it. "I'm married to my pony Pixel" "Sharon's lover is her dog" etc.I looked up the website that produces the "Thor". It's pretty whacked out and amazing. (Seriously, if are a legal adult & you read this book, you need to check the website. It'll help.) I'm not sure how I hadn't came upon it before.I'm always looking up something weird. When I was a teen, my friend and I would joke about "Dogdos" which would be sex toys for dogs or dog shaped sex toys for humans. We'd have like 8 hour conversations of this nature.Felix's adventures in retail were dead-on. My late mother, worked customer service at Woolworth's for 12 years. Her daily stories were almost like what's portrayed in the book.James really understands what it's like to have a "useless" degree and trying to compete with others for a low paying job. He totally described how it is to be unemployed for years at a time.It's hard for me to pick favorites, but this might be my favorite of the 2010 NBAS </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is what happens when you let gamers have "toys" </p>
+
+
+<h2> review.date </h2>
+  05-29-2011  
+<h2> review.text </h2>
+
+ <p> ID SAYS:Holy sex toy, Cat-Man! Violating orifices has never been this much fun.As a returns clerk, Felix is used to getting his posterior physically accosted by his bosses at work. Each molestation a friendly reminder that he's one of the lucky ones. He's employed. He may not be getting paid, but at least he's not standing in that unemployment line wrapped around his store's building.Still, it isn't what he studied so hard in college to do. Felix was supposed to be an Equine Stress Management Specialist. He lives to relieve pent up horses, not snooty customers! Poor, poor pervert...After waiting for weeks in a line outside a ranch, Felix is finally given the chance to do what he does best on a horse with a very different member. Amid an open sky filled with singing angels, he grabs hold of not only that Sacred Horse's most sacred of parts, but also of destiny!With the Sacred Horse's blessing, and a giant horse dildo throbbing with power, Felix is now ready to become a bad-to-the-bone, catchphrase spewing hero and the save the world from evil forces. If only he could find out who these forces are...'Scuze me while I go suck some nutrients outta the air.EGO SAYS:I enjoyed how much this book details the world it's set in, the society and mechanics of day-to-day life, as it included descriptions of the many people who live there. Littered throughout the book are entire chapters dedicated to minor characters who come into contact with our protagonist, Felix.There's Sheila, a young, unemployed woman standing in a job line with an ace embedded in her stomach.Albert, a security guard ostracized by his peers for enjoying vanilla sex, he's not allowed to leave his guard booth without explicit permission from his superiors.Possibly my favorite character is Martha, who goes by Tha and never leaves the comfort and security of her iRoom, her reality found online. The logic behind her lifestyle had me giggling the whole chapter through.These three don't share much in common aside from encountering Felix on his epic quest. Felix is a ne'er-do-well trying to eek out a normal life and continue supporting the nation's economy by standing in unemployment lines found on every city block.When Felix accepts his duty to become a chiseled, cocksure hero, he discovers a life beyond his meager existence. Fighting for a cause gives him purpose and instills in him a sense of pride fit for a pervert of the purest heart.Over the course of the book, Felix grows and learns with his leveling-up Sacred Thor. On the horizon are flying toasters bent on world destruction, along with a few surprises unknown to even the Sacred Horse himself.SUPER-EGO SAYS:The style of Felix And The Sacred Thor is what grabbed my attention first. This book is essentially satire, sometimes silly but mostly thought provoking. Mr. Steele pokes fun at many modern day issues such as the economy/job market, education, food production and technology, and he even satirizes stereotypical heroics and their place in today's world.Felix doesn't feel all that special. He's just another average joe who believes in the modern way and happy to be a contributing member of society. When the Sacred Horse reveals his destiny to him, he is reluctant and unsure of himself. His path is somewhat like the Hero's Journey, but unlike the traditional hero Felix feels the magnitude of what he's up against is too large for him to contend with. There has to be a better way.Reading the book felt like being inside a video game. The upgrading dildo, the impossible fight scenes, the sense of adventure... I could have been my fifteen year old self playing role playing games by Squaresoft again. Oh, but if only those games had story lines like this!The absurdity of this world, it seems to me, is what keeps things balanced. When a flying toaster carrying a nuclear bomb inside it is diving straight for you, you swing that dildo as hard as you can and smack it the heck away from you. Makes sense to me.Sure, some of the logic employed by the characters would appear as absolute lunacy in our world, but after some close scrutinizing I realized the hard truth: In some ways, we're already making the world of Felix and his weapon of mass penetration a reality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nutritional Grease Never Tasted Soooooo Good! </p>
+
+
+<h2> review.date </h2>
+  11-29-2010  
+<h2> review.text </h2>
+
+ <p> Felix and the Sacred ThorA pervert of the purest heart, ravaged by his superiors at the local equivalent of Wal-Mart during his day job, and sexually stimulating stallions to the rock ballads of angels when time or opportunity permits. A living "marital aid" (thanks Nicole for the appropriate phrase) that levels up with each onslaught waged on its behalf. A horde of maniacal radioactive toasters bent on destroying the human race.That about sums the exposition up.After the introduction we get a series of slice of bizarro dystopia vignettes, all connected by Felix, his sacred Thor, and the fact that each of the new characters relate in some way or another to the impending toaster apocalypse. But each of the short incidents aren't just connected by a common subject.  They're woven from the fabric of a common theme as well: a critique of contemporary consumer culture, and the eradication of value placed on education. Steele paints a portrait of a world where qualified people have become a commodity, one so readily available that their value has diminished to virtual nothingness . . . a world not far from our own.And there are some interesting concepts and ideas worthy of novella-length manuscripts contained within many of these short passages, which suggests to me that Steele's wealth of insight into bizarro writing will lead him to a promising career down the road.What I have mentioned above is one of the elements of some bizarro writing that I have come to love: bizarro elements existing in a world not quite alien, serving as metaphor for very real phenomenon in our dreary, not-so-bizarro every day existence. After all, isn't it true that we all carry within us a ticking time bomb, about to detonate with the proper amount of rejection? At the other end of the spectrum, we have the Felixes, egomaniacs who pride themselves on pre-emptive attacks against the all-too-oppressive society surrounding them, and on the very few, yet menial things that make them unique.The only thing that inhibited the flow of the plot was the short passages that, while interesting, seemed a little out of place, or didn't necessarily contribute to the plot line. While they enhance the social critique offered by Steele, chapters like "iTha" and "Why All Great Employees Drive a Minihearse" didn't move the plot forward. I like to think of them as tactful intermissions, but I could see why some might disagree.I felt quite at home reading this text, primarily because the social commentary featured therein reflected the social commentary contained in my book. This is modern allegory guised as bizarro. Suspend your disbelief, scrutinize the strange for meaning, and you will not be disappointed. There is depth between these pages, and I'm not just referring to a two foot long marital aid rendered to resemble a horse member. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> High Brow Bizarro with an Erotic Twist </p>
+
+
+<h2> review.date </h2>
+  06-16-2011  
+<h2> review.text </h2>
+
+ <p> When I was in my 20s, there was this kind of cute guy who used to come and see me at work. He was an actor, and he kept asking me to come see him in one of his plays. I was happily dating someone else, so I wasn't interested in going out with him, but I finally agreed to come see him at the theater. And I became seriously starstruck --a majorly head-over-heels, couldn't talk without stuttering, blushing, giggling moron. And, of course, he then wouldn't give me the time of day.What does this all have to do with Felix and the Sacred Thor?Well, I've seen James Steele all over the Bizarro groups, saying funny things and being clever, but OMG, I had no idea he was SO SMART and SO TALENTED. And now I just want to sit and watch him work on his next book, while I giggle and flutter my eyelashes at him.This book has a killer premise -- Felix sets out to save the world, wielding the sacred Thor, a sex toy modeled on a horse's penis.I have to take a moment here to say that I actually thought the . . . swords . . . were dealt with rather tastefully. And who would have guessed there would be so many ways to reference said . . . tool? Impressive! (giggle, flutter)Felix and the Sacred Thor is incredibly well written. There are zero parts where I thought "oh, well, that's okay, kind of drags, but whatever". I was so caught up in this crazy world, where people work without pay, simply for the privilege of saying that they have a job.There is so much going on here. Much like Uncle Sam's Carnival of Copulating Inanimals, another NBAS title, this book is DEEP. It's saying a whole lot about what's happening here and now in the U.S. Felix and the Sacred Thor was more accessible for me, though -- I wasn't straining my feeble mental powers to grasp the symbolism -- although I'd be the first to admit that there's probably quite a bit more that I wasn't getting. That's okay -- even without getting each and every reference, it's a great read.My favourite parts were the ones that stepped outside of Felix's immediate story line -- "At Home with Bob", "The Standout", "Booth", "iTha" (oh, man, I really loved iTha), and "Why All Great Employees Drive a Minihearse" (sheer greatness) -- that took big swings at American culture. These were brilliant -- and, again, there was this poignancy I'm seeing with all the Bizarro titles.Would I recommend this book? Hell yeah! But be warned, reading it may turn you into a head-over-heels, blushing, giggling moron. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> James Steele is my new crush! </p>
+
+
+<h2> review.date </h2>
+  11-28-2010  
+<h2> review.text </h2>
+
+ <p> Ay, ay, ay...what to say about FELIX AND THE SACRED THOR.  What CAN I say about this work without using naughty words, and without looking like a gibbering fool who has gone full-tilt loony?Let us just say this.  You guys all know about He-Man...the '80s cartoon character, right?  Well...He-Man had, I...you know...a SWORD right.  And it was MAGIC and he used it to beat up evil-doers.Well FELIX is sort of like He-Man, in that he, too, has a magical weapon.  A sword-like implement.  Only INSTEAD of a sword, his weapon is what might be called a "marital aid".  And not just any marital aid.  This one is shaped like the...um...MEMBER of a horse.  And, readers are informed, in the slang of the furry community, this particular type of rubber member is called a THOR.Ohhhhhhhh!  I see a thousand light bulbs going off over heads.  Yes, this book has nothing to do with the popular Marvel superhero/Norse legend and everything to do with marital aids shaped like animal members.In a scene evocative of Arthurian legend, Felix is summoned to EXTRACT the rubber member from the private area of a REAL horse.  And not just ANY real horse.  A SACRED HORSE, who sacrificed his real member for the salvation of humanity.  How do we know he is a SACRED horse?  At the moment Felix retrieves his X-Rated-Excalibur, the skies part and a choir of angels sings.The Sacred Horse instructs Felix that his mission is to overcome an alien threat.  It turns out that alien threat is a legion of toasters equipped with miniature explosive devices.  Some of them are implanted in their victims without the victims even knowing it.  Others fly around.Okay...so that's the basic set-up.  Now, what else can I tell you about this book?Steele does a great job of building a world that delivers a powerful satiric, absurd pay-off.  In the process, he also provides some effective social commentary on the consumer-culture of big box stores, social media and internet life, and the employment struggles of college graduates in the economic downturn.  He also offers a nifty deconstruction of the entire hero/epic/quest subgenre in fantasy and superhero fiction.This book is not for the faint of heart, but perfect for Bizarro fans who enjoy a double-dose of transgression with their weird.  For example, I think readers of Cameron Pierce's work will enjoy this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If You Dig Cameron Pierce, You'll Like James Steele... </p>
+
+
+<h2> review.date </h2>
+  07-10-2011  
+<h2> review.text </h2>
+
+ <p> Meet Felix, America's newest folk hero!This one will be difficult to review. Not because of my opinion of the book, or doubts about anything contained therein. No, the difficulty is going to be in reviewing "Felix and the Sacred Thor" in an Amazon-friendly manner.Felix is an Equine Stress Management Specialist. If you read the book's description, you can probably guess how he manages these stress levels. After proving himself worthy, the Sacred Horse grants him the Sacred Thor, an unimaginably powerful weapon that is in the form of a large amount of plastic molded into the shape of a particular part of a horse's anatomy. Plus, it's magical as it upgrades by increasing in size, changing color, and gaining new abilities as he gains experience (or XP, literally) fighting against a malevolent force that threatens to disrupt the American way of life and eventually destroy humanity.If only Felix could get the catchphrases right...If you've gone this far in the review, then you've probably read the book's description, so you should already know what you're getting into. Still, be warned, it gets a little...rough, not to mention a little...blue? Well, maybe not blue, although that's probably one of the colors that the Sacred Thor gains. Maybe a little more purple, and black, and brown, and pink. Well, you get the idea.James Steele really doesn't hold anything back. And I mean "anything." If you're looking for sharp and sarcastic social commentary drenched in strange sexual innuendo, then...actually, come to think of it, I don't think this would even qualify as innuendo, as there's nothing subtle about it. In other words, be warned that you might feel the need for a boiling hot shower after reading this, depending on how prudish you might be. However, if you can easily imagine Felix using the Sacred Thor like a super pogo stick to fly through the city streets, then you'll be just fine.It's a grand and hilarious adventure that, despite the strangeness of the whole thing, actually makes a certain kind of sense. Or I'm just crazy enough to believe that it makes sense, and whether this insanity set in before or after reading "Felix and the Sacred Thor" is probably up for debate. In any case, it will be a far cry from wasting your time, and being insane is not without its perks.Recommended for those who would fight for truth, justice, and the American way, and especially for those who would fight for it by slapping the villains around with a giant plastic animal part. You can guess which one.4 out of 5 stars </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Meet Felix, America's newest folk hero! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00004YNUP <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-28-2012  
+<h2> review.text </h2>
+
+ <p> If anyone is looking for the Green Hornet  entire series I have it ! , Excellent crystal clear not the cheesey ones ones sold else where , Includes the 2 Cross over Episodes  I can be reached @ allMyBiz2000@yahoo.com </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ThE Green hornet </p>
+
+
+<h2> review.date </h2>
+  01-15-2011  
+<h2> review.text </h2>
+
+ <p> This dvd sucks! Big time! And it Way,Way,Way over priced for being the chopped up mess that it is.Now that the big budget feature film Green Hornet, has been released. Lets hope that a decent distrbution co. will be given the rights by the Trendle estate. To release this classic 60's tv series in a proper and thoughtful form. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> El Stinko dvd! </p>
+
+
+<h2> review.date </h2>
+  12-01-2011  
+<h2> review.text </h2>
+
+ <p> I've identified the following episodes as source material:  The Hunters And The Hunted with a fight scene from an unidentified episode stuck in;  Invasion From Outer Space with a fight scene from The Hornet And The Firefly stuck in;  The Preying Mantis with a fight scene from Ace In The Hole, and a section from Beautiful Dreamer, stuck in.  Also, the epilogues to the main episodes used were cut.  Other reviewers are correct in that these parts don't make a whole.  The bonus 14 min. feature on the restoration of the hero/working prop car by Dean Jeffries for a collector is the most interesting part for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The series episodes used to make this "movie" are... </p>
+
+
+<h2> review.date </h2>
+  01-11-2005  
+<h2> review.text </h2>
+
+ <p> Despite what other reviewers may think, the original 26 episodes of The Green Hornet are still in syndication by 20th Century Fox Television. In recent years the series has run in the USA (on the ACTION Channel), Australia (Fx Channel) and in the UK (Bravo Channel).Fox seem reluctant to release their old TV shows on DVD. Why?? Who knows?? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Green Hornet exists!! </p>
+
+
+<h2> review.date </h2>
+  08-28-2006  
+<h2> review.text </h2>
+
+ <p> Okay, here is the deal for all you other reviewers. Bruce Lee shot to fame in this country AFTER HIS DEATH. He had a huge hit with the movie "Enter the Dragon" which was released here after he had died. In the months that followed he picked up a huge cult following as other dead celebrities like Marilyn Monroe and James Dean had before him. Many studios were looking to cash in on his fame. An American biopic was discussed but did not materialize until "Dragon: The Bruce Lee Story" was released two decades later. Columbia Pictures was busy making deals with Lee's Hong Kong movie studio to release Lee's incomplete masterpiece "Game of Death" which would later be butchered in order to splice in new scenes with Hollywood stars. Another cheap film distributor managed to grab up the rights to three of Lee's HK martial arts films, and retitled one of them "Return of the Dragon" in hopes that it would be mistaken as a sequel to "Enter the Dragon". This would be followed by "Fists of Fury" and "Chinese Connection", and I wont go into how the distributor bungled the film titles in the English language release.It was about this time that 20th Century Fox realized that Bruce Lee had starred for them in a failed television series back in the 60's called "The Green Hornet". Made after the success of the Adam West "Batman" television series. It was well made but unlike "Batman" was not a comic book parody, and therefore did not catch on with their audience. After about half a season it was cancelled, and did not have enough episodes to be offered into syndication.Now nearly a decade later the studio was thinking about re-releasing the episodes as television movies. It was common practice by the mid 70's to reedit popular but short lived series into movies. Fox had done so with their "Planet of the Apes" series editing two episodes back to back as one film. But somewhere along the line they realized that Bruce had been given little to do as the Hornet's Asian sidekick and decided not to bother. Instead they sold the footage to another company who decided it was good enough for a theatrical release.The episodes picked were based on how much screen time Bruce Lee was given. About three episodes were shown back to back. But the problem was that unlike the Batman series, the fight scenes in Green Hornet were usually brief. So footage from other episodes was edited in to lengthen the fight scenes in the movie. Some of you who have seen the movie may have noticed the continuity error of the Green Hornet & Kato fighting men at a marina with small boats inter-cut with them fighting on a dock with large ships.The movie was released and failed miserably at the box office. Still looking to make a fast buck the same company edited more Green Hornet footage together and released it as "Fury of the Dragon". The movie poster showed a shirtless Bruce Lee in a fighting stance looking like he was giving off one of his famous screams. Even the opening credits did not give away that this movie was actually Green Hornet episodes. It was animated in the same style as the title credits in Bruce Lee's Asian movies. It was only after the opening credits ended that you saw Bruce Lee as Kato chauffeuring Green Hornet that you realized you were suckered.As for the Green Hornet not available on video, the main thing holding everything up is the Trendle estate. George W. Trendle had created and owned the character, and has sold the television rights to Fox under the agreement that it would not be campy like "Batman" was. After the series aired Trendle accused them of camping up his character, possibly he had seen the Green Hornet's guest appearance on Batman. He tried taking steps to revoke Fox's rights to the character, but once the series was cancelled for bad ratings he decided there was no reason to bother. Years later Fox's rights to the character expired and reverted to his estate. Allegedly they are the ones who kept Fox from releasing Green Hornet on video. [ 20th Century Fox's video company CBS/FOX had much success releasing the Bruce Lee films and wanted to continue the trend ] I know that Good Times home video released this movie and eventually had to pull it after the Trendle estate threatened a lawsuit. I am not surprised that they stopped Brentwood from releasing the sequel. But then again as the rights to this character pass from one Trendle family member to another, it won't be long before one of them prefers money over family honor. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unbelievable. You people know nothing about Bruce Lee's history! </p>
+
+
+<h2> review.date </h2>
+  04-10-2007  
+<h2> review.text </h2>
+
+ <p> Did P.T. Barnum pioneer the idea of slapping together several random episodes (out of an ORIGINAL 28) of a once-excellent series, just for a few unsuspecting victims who might buy it? Usually POLITICS cancelled good series at the network level, NOT viewer popularity, or lack thereof; hasn't Star Trek haunted NBC long enough? The Green Hornet DID run a full season; there WERE re-runs back then, too. While I like and respect Bruce Lee, watching too many of his movies becomes like being stuck in a revolving door; they start to look too much alike. This was NEVER the case with Green Hornet episodes. I am blessed with the bootleg versions-all 30, including the two 'crossover' ones with Batman. The Black Beauty and Batmobile in each of two shows together? WHAT MORE CAN YOU ASK?!?! Sadly, that's certainly NOT what you're getting here... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Shadow of What It Rightfully Should Be... </p>
+
+
+<h2> review.date </h2>
+  03-19-2001  
+<h2> review.text </h2>
+
+ <p> This DVD (despite it's reference on the cover as a theatrical release in 1974) is actually 4 episodes from the series sandwiched together (including the two parter that actually were the last 2 episodes of the series).  I would rather see all the episodes in proper order.  By the way, 1 clip from another 2 parter also appears in this disc.  This is the dumbest mistake as there is no reference to the particular character.  One who hasn't seen the series in 1966 on ABC or the reruns on FX in 1994 would think the Green Hornet just diverted to knock another bad guy down, just for the sake of it, while en route to the real crime.  Buy the DVD and it's pending sequel to preserve the series, yes, but know what you're getting first.  By the way to the person who quoted the opening above, that opening was done by William Dozier NOT Gary Owens (doesn't anybody watch Batman anymore?) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very enjoyable DVD, bad format </p>
+
+
+<h2> review.date </h2>
+  07-29-2005  
+<h2> review.text </h2>
+
+ <p> Prior to purchasing this Green Hornet release for myself, I'd read all of the preceding reviews, and to a degree I agree with the views concerning this theatrical/dvd release. Watching it from start to finish I did notice that it'd appeared to be a product of episode splicing and merging in an attempt to feature what many fans of the series and of Martial arts flicks wanted after 1973...MORE BRUCE LEE!!! True...it did seem thrown together in hopes of passing it off as a kung-fu flick, but for die hard Bruce Lee fans like myself(who didn't make it into the world until 1976), this dvd is a must have. The quality wasn't the best, but I'd never seen a single episode of the Green  Hornet, and to see him in action on the Hornet series(and with his own voice...no dubbing) was a dream come true. So I recommend Green Hornet Vol. 1 to those who are dying to see more Bruce...and hopefully one day we'll either see a Vol. 2 to this disc if not the entire GHornet series released in a box collection. Long live the Little Dragon(Bruce Lee, R.I.P.)!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Little Spliced Together, But Still BRUCE! </p>
+
+
+<h2> review.date </h2>
+  12-16-2000  
+<h2> review.text </h2>
+
+ <p> I have to echo the comment sof the last reviewer of this movie. First off,  the editting of the bits and pieces of the episodes is terrible.  The film jumps from one bit to the next with no apparent order. Secondly,  the producer promote this product as being made from remastered prints.  That's a laugh!  The film looks like it was made to resemble an old Hong Kong martial arts film.  The lighting was low and dark and the overall color had a yellosish quality. As for the audio,  the editors tripped on this one to!  There are scenes with Kato fighting where his yells and kicking sounds are conspicuously missing from the final edit. The Green Hornet is a great TV series!  Once and for all,  if the distributors of classic tv shows want to please the fans, release this and other great shows in the original broadcast format.  Anything less is any insult to the fans! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great tv series,  terrible video/dvd release </p>
+
+
+<h2> review.date </h2>
+  08-21-2003  
+<h2> review.text </h2>
+
+ <p> I loved it when I found this DVD.  For many years I had watched the original campy Batman series and eagerly waited for the chance to see the cross-over Green Hornet episode.  This DVD is what seems to be three or 4 episodes pasted together.  Worthwhile to find, since so little can be found of the Green Hornet of DVD or VHS for that matter.  A particular point of interest is the Black Beauty documentary.  I think fans of all super hero/crime drama genre will enjoy this program. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Green Hornet Sting Of Excellence </p>
+
+
+<h2> review.date </h2>
+  01-07-2010  
+<h2> review.text </h2>
+
+ <p> Brought back memories of when I was a kid. Great history on the Black Beauty! I wanted to jump on a plane just to go see it in person! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Green Hornet, classic! </p>
+
+
+<h2> review.date </h2>
+  02-15-2007  
+<h2> review.text </h2>
+
+ <p> First, some technical specifications.  DVD made by Brentwood Home Video, Copyright 2000.  DVD is in widescreen, 1:1.85 ratio.  The DVD cover states that it is from a "brand new" 35mm print of the original 1974 movie.  DVD is not in stereo, but something the DVD cover describes as "Digital Dolby Mono."  DVD has excellent bonus features including a Featurette called "The Black Beauty" which details a Green Hornet fan's restoration of one of the original Black Beauty cars.  Also included is a loop of Bruck Lee's greatest fight scenes from the movie along with a photo gallery.Even in this limited format, I was struck by what an amazing show "The Green Hornet" was, especially for 1966 television.  Great writing, excellent casting and superlative design must have made this show jump off the tv screen in 1966, even if you had a black & white set.  It's rumored that the staggering cost of each episode made the network drop the series and I can see why.  If not for the shoddy editing, this compilation of episodes stands right alongside "James Bond," "Our Man Flint" and "Matt Helm" as a prime 60's super-spy movie.  It is one of the few TV shows I have ever seen that actually LOOKS like a movie.I agree that the movie is hard to follow in places due to the poor editing and the focus on The Master Bruce Lee, but it's the ONLY non-bootleg DVD of anything having to do with the 1966-67 TV series available.  Note to all who have bootleg Green Hornet dvds: if you see an "FX" logo in the bottom of your screen, that means the person that burned it taped it (or the person that you bought it from who bought it from someone else who taped it) from re-runs of the Green Hornet that FX network did over ten years ago.  It's sad that Fox or whoever holds the rights to this character are letting dvd bootleggers rob them and fans of money (go ahead and do a google search on the Hornet and see what the first hit is!).  It's also sad that the FORTIETH Anniversary of the TV show has come and gone with NOTHING to commemorate it!  Hopefully, the eventual DVD release of the 60's "Batman" TV show (the two shows had a crossover) will inspire someone at Fox to release the Green Hornet in the format that this excellent show deserves, but until then, this is all we have. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Someone PLEASE Release the Entire Series on DVD!!! </p>
+
+
+<h2> review.date </h2>
+  01-12-2005  
+<h2> review.text </h2>
+
+ <p> So much of my childhood that later influenced me as an adult-- Lost In Space, Batman, Land of the Lost, Land of the Giants, the Time Tunnel, The Six Million Dollar Man & Bionic Woman-- are the shows that I would love to see again on DVD or even video, but many of those shows has been lost or destroyed, or for some silly contractual reasons, may not ever be seen again.While I am a little disappointed with the the 1974 compilation movie of the Green Hornet, I am very glad that at least some of that great television show has survived and is on DVD to bring me a blast from the past. I guess they do try to make up for the poor quality of the movie (as most compilation movies usually are), the creators of the DVD at allow us to choose which fight scene we would like to see as well as give us a detailed look at the Black Beauty and it's history.I can only dream of the day when there'll be a DVD with more episodes of the Green Hornet on a DVD with the original titles and the opening and closing credits, but until that day comes, I'm glad to have at least this much to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Would Prefer More Episodes But This Is Good, Too! </p>
+
+
+<h2> review.date </h2>
+  07-21-2004  
+<h2> review.text </h2>
+
+ <p> Rumor has it this film is compiled of episodes from the TV show and it was never released on DVD in the United States until just recently. Since its release it seems to have gone out of print very quickly and copies on DVD are hard to find. So it raises the question, if it's so popular why hasn't anyone reviewed it before. Well here are my thoughts on the 1974 classic "The Green Hornet" with Van Williams as the Green Hornet and Bruce Lee as kato his high kicking sidekick and bodyguard. Just like Batman and Robin this crime fighting duo had no special powers, but what they did have was a lot of cool gadgets and the ultimate battle machine The Black Beauty, which rivaled the Batmobile. This film was released in theaters after Bruce Lee's tragic and untimely death to capitalize on his new found fame .The movie is presented in its original theatrical aspect ratio of 1:1.85 and has been re-mastered from a new 35mm print. The picture is clear and the sound is good although it's only Digital Dolby mono which is a shame. The catchy Green Hornet theme song and the spectacular fight scenes should have been remastered in 5.1 digital sound to bring us the best Green Hornet audio possible.In this movie Bruce Lee shows off his high kicking and furious fighting ability and leaves no doubt as to why he was chosen for the role of Kato.There is a bonus feature on the design and restoration of the Black Beauty and a Green Hornet/Black Beauty photo gallery. There is also a menu giving quick access to Bruce Lee's best fight scenes. If you liked the 1960's "Batman" movie you're sure to enjoy the "Green Hornet". I hope that one day the complete "Green Hornet" series as well as "Batman" will be released on DVD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> THE BLACK BEAUTY......THE ULTIMATE BATTLE MACHINE </p>
+
+
+<h2> review.date </h2>
+  07-22-2006  
+<h2> review.text </h2>
+
+ <p> A classic radio drama,serial & comic strip character is in the 1960s TV series starring Van Williams as Daily Sentinel Publisher Britt Reid who dons a green mask and green attire as the Green Hornet, a gangster dressed crime fighter with his kung fun sidekick Kato played by martial arts legend Bruce Lee, it's a fun mystery solving action packed show that should come to DVD. "Another Challenge for the Green Hornet" </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Entertaining Classic Series that should be released by season </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

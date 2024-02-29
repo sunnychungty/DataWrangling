@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000M00M2E <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-12-2008  
+<h2> review.text </h2>
+
+ <p> I purchased this for office use.  The sound is adequate given the size of the unit, but distorts very rapidly if you raise the volume much at all.  Plus, it uses 4 AAA batteries and does NOT ship with an AC adaptor.  It is rated at 12 hours on battery power so I figured over the life of the product, I would be buying a lot of batteries or would have to go rechargeable.  I ended up buying the AC adaptor for it from Saitek for $16 including shipping.  Days after I received the speaker, I heard a friend's Logitech mm50 Portable Speaker System, which is also available from Amazon for around $100.  The Logitech's sound simply shames the Saitek because it has four speakers with tremendous bass response and when you crank it up is much more like a mini-boombox than a portable speaker set.  I was very impressed.  It is made for Ipods (which dock quite nicely) but will accept input from any MP3 player. Had I heard the logitech first, I would have purchased it instead especially since it has built in rechargeable batteries. But, since it's sound abilities greatly surpass what I can use at work anyway I will keep the Saitek, but if you can benefit from a very small MP3 boombox with great sound, I would recommend spending the extra money and getting the Logitech. When you factor in the cost of an AC adaptor or rechargeable batteries or the cost of batteries period, it is likely more cost effective to get the logitech.  Don't get me wrong, the sound of the Saitek is pretty nice and there is a decent bass response given it's size, but for the extra $50 dollars you get probably three times the speaker than what you get with the Saitek. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> COMPARE BEFORE YOU BUY </p>
+
+
+<h2> review.date </h2>
+  02-22-2008  
+<h2> review.text </h2>
+
+ <p> While I would not classify the sound out of this speaker as world-class, I am surprised that it can produce so much from so little.Pros-- Better low response than expected.- Highs are relatively crisp and not metallic- The unit is turned on/off by inserting a jack into the speaker.- Nice carry pouchCons-- Retail price may be a little higher than expected.- While it aids in helping to produce big sounds (through larger magnets) the unit is a litte heavy when it comes to travelling.Overall, two thumbs up - I have not hesitation in recommending!- </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than I expected </p>
+
+
+<h2> review.date </h2>
+  11-28-2007  
+<h2> review.text </h2>
+
+ <p> I bought this on a Friday special for $20. What a great sound, bigger than I expected coming from something that sits in the palm of my hand. Not only is the sound very adequate, but I just love carrying my stereo from room to room as I do housework or projects that take me from one end of the house to the other.It's also the pefect size and great sound for our 22' RV. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a deal! </p>
+
+
+<h2> review.date </h2>
+  03-25-2008  
+<h2> review.text </h2>
+
+ <p> For the small footprint of this system, it produce exceptionally good sound, beats most systems like that and a lot of bigger boomboxes as well. Only problem is lack of an AC adapter. Saitek charges 17 bucks (including s/h) to send me an AC adapter. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent sound, but no AC adapter </p>
+
+
+<h2> review.date </h2>
+  05-05-2008  
+<h2> review.text </h2>
+
+ <p> This little speaker is awesome and boy does it deliver the sound.  Easy to use, solidly made and is like a large pebble you can take with you to the park, or use in your backyard to listen to your favorite tunes sans earbuds.  Love it!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Luv my spkr!!! </p>
+
+
+<h2> review.date </h2>
+  12-06-2007  
+<h2> review.text </h2>
+
+ <p> Surprisingly good sound in a small, portable package. If you expect Bose Sounddock sound you will be disappointed but for an extremely portable device it sounds great. The price is an excellent deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprising sound </p>
+
+
+<h2> review.date </h2>
+  11-02-2007  
+<h2> review.text </h2>
+
+ <p> The symmetrical design may resemble a bicycle seat or miniature UFO, but this little overachiever puts out a remarkably full (and full frequencied) sound.  I'll admit that I'm not a sub-woofer addict, but I can hear ample acoustic bass lines along with crisp hi-hat and ride cymbals coming from the Saitek A-100 even when it's at the other end of the bedroom.  Moreover, the sound of tenor saxophone is alive and present.Not a fair comparison, but I played it side-by-side, A-B, with the two-hundred dollar, acclaimed and popular Tivoli iPal radio.  The Saitek is 1/3 the size and weight of the mini-sized iPal but offers 3/4 of the audio quality.  Moreover, I don't hear it distort at the loudest levels to the degree the iPal does.  Admittedly, the bass isn't as full, and the sound is just a bit "canned" compared to the iPal--hardly worth mentioning for a product costing one-tenth as much as the vaunted Tivoli product.The advantages:1.  I can easily see taking this on my walks, an iPod in my shirt pocket, the Saitek in my coat, front or back pants pocket (you'd look pretty silly carrying an iPal cube around the neighborhood).2.  This costs no more than the pillow speaker I ordered from Sharper Image but can barely hear through a heavily insulated pillow.  The Saitek, on the other hand, has enough muscle to blow its way through any pillow (though size-wise it's admittedly a bit too thick not to be felt by the sleeper).3. Thoughtful, resourceful design of the on/off-standby modes and useful lights.Disadvantages:1.  No volume or tone controls (though they're really not needed).2.  Stereo separation. (Is there any? Does it matter?)3.  The only important issue: 4 AAA batteries are quite a few.  (Why couldn't it have been 2 AA's or, like some recent Sony players, a single AA?)  At least give Saitek credit for including a 6 Volt DC port to run it off electrical current.The packaging, paperwork, details, and quality control are all first rate.  Included are two cables to insure one fits your player, a fold-out stand, an insertable holder for attaching a Nano iPod, and a soft and sturdy cloth carrying bag.  Even the packaging is commendable--not the laminated plastic of similar but more expensive products.  Instructions, though unnecessary, are ample and clear. It seems odd for the manufacturer to refer to the device in the plural (Saitek "speakers"), but indeed there are two of them in that fist-sized enclosure.  In short, it both performs and looks like a quality product, belying its current low price.  Take two (they're small)--the other one will make a nice little gift, no apologies needed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Serious sound at a small price--a practical answer for headphone-averse listeners. </p>
+
+
+<h2> review.date </h2>
+  10-26-2007  
+<h2> review.text </h2>
+
+ <p> The Saitek My Spkr A-100 is roughly the size of a paperback novel and presents a nice curvy compact design. The speaker has a bit of heft to it -- its not just a flimsy empty plastic shell like many cheap portable speakers. The A-100 takes 4 AAA batteries, has a jack for stereo audio in, optional DC power and a light indicating ON or STANDBY modes. There's no power switch or volume control. The power is turned on by inserting an audio cable into the speaker. Volume in meant to be controlled by the audio source or player. The speaker contains two tiny drivers concealed behind a sturdy metal grill and a small bass port which appears to be baffled internally with an aluminum duct.I've heard plenty of tiny portable speakers and the vast majority of them share one thing in common -- tinny shrill sound with absolutely no lows. The cheaper versions tend to rattle and distort at moderate volume levels. Not only do tiny speakers generaly lack any bass but they're usually so close together that there's not really much of a stereo effect. Not so with the A-100. I was quite surprised when I plugged the A-100 into my Zune -- not only there was bass (no, not 12 inch woofer level bass but bass nontheless) but there was also obvious stereo with the drivers sitting only inches apart. Impressive! Through the magic of Digital Signal Processing, these tiny speakers actually sound better than many small computer speakers and boomboxes. The A-100 won't rattle your windows and probably won't annoy your neighbors but it'll give you quite decent sound at moderate volume levels for a small room with little distortion.I'm glad to see the price of these has fallen to more reasonable levels. At $20, these are a steal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Big Sound from a Small Package </p>
+
+
+<h2> review.date </h2>
+  05-25-2008  
+<h2> review.text </h2>
+
+ <p> With a plethora of external sound systems available for ipods, nanos, and MP3 players in general, making a choice can be difficult.  Saitek's Speaker A-100 is a very compact speaker system, with a unique design, that operates on 4 AAA batteries, with an option for AC power.  While not intended for a poolside party, the output is adequate for personal listening.  The sound quality is decent, with more treble than bass.  The primary reason to consider the A-100 is its portability and small size.The unit has no power switch or controls.  It powers on, when a connector or cord is inserted in the audio line in jack.  Volume is controlled using the attached MP3 player or audio device.  Although it comes with accessory cords that enable use with most MP3 players, the A-100 probably works best with the narrower second generation ipod nano.  The unit has a special two pin connector designed for use with this version of the nano, enabling the device to be attached upright above the speaker unit, resulting in a very small footprint, and relatively convenient operation.At moderate volume, battery life is probably close to the stated 12 hours.  The device works with rechargeable batteries, though life will be shorter.  While perhaps not ideal as a primary sound system, the A-100 is good for short trips, times when you want something compact, or a break from ear phones.  It is rather pricey, so consider carefully how much you may actually use the device. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compact . . . </p>
+
+
+<h2> review.date </h2>
+  11-24-2012  
+<h2> review.text </h2>
+
+ <p> These little speakers don't sound little. Don't expect to make your windows rattle but the deep end is there like in no other, inexpensive, small speaker I've heard... and I own several. Yes, I have 6 little speakers for PCs, listening to mp3s while camping, chillin' in our little travel trailer, havin' a picnic, or wherever. I have a few models but am spoiled by this one. I'm slowly replacing all but one of my others with this speaker (and the A-200). This speaker sounds like a real speaker, not like a tin can tinking away. You can turn it up loud enough to fill a room for a cocktail party, but not for dancing. Oh, and I'm not sure how it would do with Russian death metal. I'm a top 40 pop, bit-o-rap, tad country, oldies, disco, soul, blues kinda person. And it's perfect for watching movies on a laptop.It is two speakers in one unit. Took apart one that died (hint: don't drop it into a sink of soapy water. Sigh.) and the bass is uniquely amplified via a tube that funnels the deeper tones from an open space in the middle of the case to an opening on the side. It's like the lower tones form in the hollow and get pushed out the end of the funnel. It gives it a distinctly fuller tone than all but one of my other little speakers. The one that comes close to this one, but still isn't quite a full toned, cost more than twice as much.It is battery powered. Battery life span is no problem because I long ago began the transition to rechargable batteries. A new set of regular Alks last a good 4 hours at a single room, cocktail party volume. Background music. I guess some folks could go right next to it and dance if you turned it up.The last one I got cost $20. Well worth it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Big Bass for a Baby Speaker </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

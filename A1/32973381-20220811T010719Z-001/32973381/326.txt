@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1580054110 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-06-2012  
+<h2> review.text </h2>
+
+ <p> I liked reading so many different stories told by so many diverse women. I would recommend this book to any women but especially those who have been affected by alcohol </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting quick read </p>
+
+
+<h2> review.date </h2>
+  11-29-2012  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this book. The stories were so true-to-life. It was great to hear about drinking from a woman's perspective. Each story was different, and while I couldn't identify with all of them, I could certainly empathize with each woman's story. I highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very entertaining slice of life </p>
+
+
+<h2> review.date </h2>
+  09-29-2013  
+<h2> review.text </h2>
+
+ <p> A warning if you haven't read the book: this review gives some things away. It is difficult to avoid the fact that, because these essays are about the respective authors' personal experiences, a lot of them seem self-indulgent. There are definitely different degrees of that demonstrated in this collection. Some of the writers are able to tell their stories without seemingly trying to evoke sympathy, which goes a long way towards evoking sympathy! I was annoyed by a couple of the essays; namely "The Days of Wine and Seltzer" and "It.Must.Be". My criticisms have nothing to do with the writing but with certain aspects of the stories. "The Days of Wine and Seltzer" really turned my stomach. It seemed to me to be more about the pretentious life the author and her husband led (and perhaps still lead) than anything else: "There were hundreds of cold beers and cheap bottles of wine drunk on the roofs of apartment buildings while we watched the sunset with our friends, discussing the role of art in society and why Sebadoh would never make a better record than Pavement". Nauseating!"It.Must.Be", other than the fact that one-word sentences are ridiculous and annoying, is the most judgmental "tribute" to a friend I've ever encountered. The first thing I found unsettling was when the author said that she "had to move on" from her mentally ill friend. What kind of friend is that? You gain the knowledge that this person who was kind, supportive, protective and loyal to you has bi-polar disorder so you abandon her? It gets better! The author writes, "I had two cars and a mortgage. She lived in a homeless shelter. I had two cell phones and a landline. She couldn't afford a working telephone". How about trying to help your friend rather than pointing out the material, i.e., meaningless, differences in your lives? Her friend ends up dead and of course she wishes she'd taken that last phone call. I may have appreciated this essay if the author had expressed any sense of reflection regarding her own behavior but she just seems to be pointing out that although both she and her friend started out as drunks, she persevered while her friend just spiraled downward. The essay has a creepy, elitist tone; what was I do to? I had a cell phone and a mortgage! Yuck. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Feeling Critical! </p>
+
+
+<h2> review.date </h2>
+  12-17-2012  
+<h2> review.text </h2>
+
+ <p> A good read.  But when I purchased it, i thought it was going to be funny.  The stories are of woman who grown up with alcoholic surroundings.  It's a shame.  Most of us, casual or not drinkers can relate to this book and these stories, some way, some how.  It's definately a food for thought. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, real and somewhat depressing </p>
+
+
+<h2> review.date </h2>
+  10-29-2012  
+<h2> review.text </h2>
+
+ <p> I first read an excerpt from this book through More magazine. Jaqueline Michard wrote honestly about her humiliation with being given a field sobriety test one night after dinner with friends. Her mistake? (Besides a little to much vino.)Speeding. Drinking Diaries is a collection of essays written by authors who have had some kind of love/hate relationship with alcohol, whether childhood or adulthood. Many of the authors I related to as if they were writing a story similar to my own. Others who grew up with alocholic parents, that I didn't relate to, I empathized with their plights and understood how it altered their views on alcohol. I would recommend this book to anyone who has that "dance with drinking" that we just can't shake. The editors should be congratulated on their grouping of these essays. Great job! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very well done </p>
+
+
+<h2> review.date </h2>
+  04-23-2013  
+<h2> review.text </h2>
+
+ <p> Any collection of true stories on any subject is a fascinating glimpse into the minds of ordinary people who often have extraordinary stories to tell. The editors of this anthology set out to listen to women talking about their drinking; to take on the culture of shame and blame to see why drinking for women carries such an emotional charge. Both editors had alcoholic mothers and both women have their own stories and their own theories to share.The contributions are grouped into five sections, beginning with GIRLHOO, which is the most riveting and wrenching section of the book. Here the authors talk about their own drinking, or the drinking of others affected their childhoods. Some of these stories are downright heart-breaking; with one woman admitting that she desperately wanted to belong to another family where the kids didn't spent Christmas Eve in bars with their Negroni-drinking dad, who then got behind the wheel of the family car. Another talks about the time her mother bought a rum-soaked Black Forest Cake for her sixth birthday party and then got drunk.  Even decades after, the shame of that party is still fresh.The stories move on to discuss how drinking (or not) affects women in relationships. One story stands out in a particular, the chronicle of a marriage that began with a shared canned cocktail on a train and it's shaky ending when her drinking buddy/husband gives it up. The women speaking here are mothers and daughters and enablers and teetotalers and rebels of all sorts, from the lead singer in an all-girl band to an observant Muslim girl who was introduced to wheat beer by her colleague Daniel Pearl, who would end up murdered while following a story. For many of the women, drinking is bound up in memories--good and bad--of family time and some of the stories morph into riffs on cultures both familiar and exotic.This is an incredibly sad book. With the exception of novelist Ann Hood, whose fatherer enjoyed her company while he was winding down with a brewski but didn't offer her sips, these stories are all too often about stolen childhoods and wasted lives.Over and over the women here refer to alcohol as an "elixir" and attribute magical powers to their drinks of choice. Some like whiskey, some like wine, a lot just plain like beer and some aren't picky at all as long as there's a buzz to be had.Stories of car wrecks caused by drunk drivers appear over and over and over here. Sometimes the women telling the stories are in the cars. Sometimes they're talking about relatives who caused the accidents. There are a lot of accounts of trees that, as the drivers say, "simply appeared out of nowhere" in that way that trees do.There are stories of alcohol disguised as iced tea and soda and just plain water. There are stories about deceptions and secrets and lies--especially the lies that the drinkers tell themselves, trying to convince themselves (and others) that they don't really have a problem with alcohol. In the end, this is a collection that offers a sense of community and connection for the women who participated and the readers who've shared their stories. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Every woman has a story... </p>
+
+
+<h2> review.date </h2>
+  10-28-2012  
+<h2> review.text </h2>
+
+ <p> This seemed like a pretty safe collection of stories from known authors.  I was hoping for more introspection from the authors.  I need more words apparently and here they are: Vote and Happy Halloween. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A bit tamer than I had hoped for </p>
+
+
+<h2> review.date </h2>
+  07-07-2013  
+<h2> review.text </h2>
+
+ <p> This book, pretty much as advertised, was a compilation of little first-person essays based on experience and opinion. I expected something with more meat on its pages. Sorry I spent the money to buy it and the time to read it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not very interesting, sorry I spent money on it. </p>
+
+
+<h2> review.date </h2>
+  10-15-2012  
+<h2> review.text </h2>
+
+ <p> All of these stories are heartfelt and effectively written, but I was disappointed in their repetitive quality. Many are structured around the substance abuse recovery narrative that's such a ubiquitous part of contemporary culture. Maybe it's a good thing that we (especially women) no longer pretend there's anything romantic or glamorous about drinking and drugging, or that getting high is a path to enlightenment.A couple of the pieces argue that alcohol can ease social anxiety and brighten the end of the day. At least one complains about the guilt imposed by censorious teenage offspring who are being scared straight at school. But (other than an odd piece by Jane Friedman) no one puts much passion into the pro-indulgence viewpoint. From my perspective, only the essay by Asra Nomani had something genuinely new to say. She's an American Muslim trying to find a path through what she perceives as the intolerance and hypocrisy of current Muslim attitudes towards alcohol. Really worth reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good but somewhat repetitive stories </p>
+
+
+<h2> review.date </h2>
+  12-26-2012  
+<h2> review.text </h2>
+
+ <p> I thought this book was supposed to be full of drunken, funny stories.  I didn't read much, so maybe it got that way, but the beginning was about women with alcohol problems and I definitely wasn't in to that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrible </p>
+
+
+<h2> review.date </h2>
+  09-12-2012  
+<h2> review.text </h2>
+
+ <p> This collection contains smart, heartfelt essays from terrific writers like Daphne Merkin and Joyce Maynard--and some other newbies that you may not know (but will WANT to). Far from a collection of sob stories about alcoholism, these essays open the subject of women and drinking WAY up: the joys, the silliness, the sex, the fights, the pleasures. I related, and, I'll admit, it caused me to look at my own drinking in a slightly more clear eyed way. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Read this while sipping! </p>
+
+
+<h2> review.date </h2>
+  01-02-2013  
+<h2> review.text </h2>
+
+ <p> This book has rang true for so many areas in my life and I know that many women can relate to these stories....highly recommend this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Book </p>
+
+
+<h2> review.date </h2>
+  09-16-2012  
+<h2> review.text </h2>
+
+ <p> From Whitman and his early temperance novel to Hemingway and Steinbeck's shilling of Ballantine Beer, a lot has been said and written about male authors and their perverse affair with liquor. With Drinking Diaries, women writers give us their side of the story. This is simply a fascinating read. It is refreshing to review the struggle for moderation written about such utter honesty. It is impossible not to recognize yourself in these pages. Thanks Leah and Caren and contributors for this candid look at how drinking affects creative women. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Great Commentary on Creativity and Alcohol </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

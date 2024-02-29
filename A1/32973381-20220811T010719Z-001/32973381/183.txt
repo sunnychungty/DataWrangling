@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00004TJEU <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My daughter loves it. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-08-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great collection. From the original years and still holds up to time. My daughter watched the tape every night over and over. Got this for replacement and she loved it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great episodes but one of them is also in another Dvd </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-15-2002  
+<h2> REVIEW TEXT </h2>
+
+ <p> The episode Hassle in The Castle was also included in the Scooby Doo Original Mysteries Dvd;I Don't understand why WHV do this.There only 4 episodes where in another packs are al least 5,the extras are fun but a bit short.The better improvement is the addition of subtitles fact that previous Scooby Dvds doesn't have.I hope that the next releases of Scooby Dvds(Classic 69,70's episodes) include different episodes not mixed new and old material. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Scooby-Doo's Creepiest Capers </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-05-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Needed to have this in DVD and not just VHS so could take it on trips with a portable DVD player. Found it on Amazon in great shape at a great price and sent to me quickly. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> cartoon </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> was for my nephew and he loves it One of his favorite movies. I won't be doing these reviews again--to much of a pain </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great DVD!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-12-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> This DVD has some great Scooby episodes. I JUST love Scooby Doo. The best part about this DVD is there is *~NO~* Scrappy Doo!!!! So go out and buy this DVD today. You won't be sorry. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Classic </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> I havent even received this video yet, but I know I will love it when I gt it. Classic Scooby Doo, you cant go wrong with that. Now, if only they would release this in DVD.... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Scooby Doo's Creepiest Capers </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-18-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> My daughter and i both liked this. We both like scooby doo. She wants me to get her more scooby doo movies to go with this one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> COMPLETE RIP-OFF! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2002  
+<h2> REVIEW TEXT </h2>
+
+ <p> This DVD is a complete rip-off. The first SD DVD had five episodes. The second had four plus a bonus one. This DVD has only four episodes. To add insult to injury, one of these is a repeat of an episode on the first DVD! Three for the price of five... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Essential Scooby! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-10-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you don't buy this video tape today, don't call yourself a fan of Scooby Doo. This contains 4 of Scooby's best episodes! The FIRST episode contains creepy story of a ghost ship. The story starts normal, and gradually lets us into the tale of terror. The scenery is spooky and well done. The seperation of the gang on the ghost ship builds suspense. Daphne and Velmah take a crack at some comical one liners. (Kind of intrude on Shaggy's territory!) Well, moving on, there is a hilarious moment when Scooby and Shaggy have to buy time by cooking an unusual pirate stew! Later, clues start appearing, and we discover that this so called ghost ship may actually be linked to some human criminal activity. Shaggy's guess at the password is well done. 'Yum, yum, yum, and a liverwurst alamode. Wow! What a password!' We also get to see how brave Scooby and Shaggy can be with a few Scooby snacks! The SECOND episode is also really good. It's the old inheritance story, but with a Scooby twist. Scooby may inherit a fortune, but will he survive through the night? It has a nice creepy beginning, but they don't forget to put the laughs in. The gradual transition from normal to creepy is also well done. There is also the interesting guest star. (Cousin Slicker) Shaggy's one liners are ofcourse there: 'I gotta be brave. I gotta be brave. I gotta be brave. I gotta...I gotta be some kind of nut!' The THIRD episode is flat out hilarious. The gang lands on an island, and soon find themselves in a spooky castle. There is a hilarious scene where Velmah must carry Shaggy, Fred, and Scooby in a panic. The disappearance of Daphne creates suspense. Good! Shaggy's great one liners are ofcourse there. GHOST: "I warned you to leave. Now you must all pay." SHAGGY: "I'll pay! I'll pay! How about 4 bits?" The villain is an unusually good loser in this episode, and he even offers a bit of charm. The FINAL episode keeps with the strength of this tape. The gang gets lost and finds themselves by a haunted mansion with ghosts. There is a great deal of suspense as they face the possible danger of a headless ghost. Shaggy's one liners are ofcourse there. When asked if he and Scooby are curious as to what is going on he boldly says: "NOT IN THE LEAST!" The scenery is plausible, but yet carries a spooky charm. I don't want to ruin the ending, but there is a charming deviation from the normal routine as far as the typical unmasking ceremony goes. These are 4 of Scooby's best episodes. Don't miss them! SIDE NOTE: If you buy this Scooby tape, you don't need: "The Haunted House Hangup." Because both episodes on this tape are present on "Scooby's Creepiest Capers." </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Four Classic Capers on Tape </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-17-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> There are four of the original mysteries on one tape. The shows even include the opening and closing credits, so it is just like watching the original on television (even the gaps for commericals). There is nothing new in this VHS tape, just good, classic, episodes with the familiar formula of the bad guy(s) unmasked at the end.The VHS Tape has the following: 1) &quot;Go Away Ghost Ship&quot; with Red Beard The Pirate. 2) &quot;A Night of Fright is No Delight&quot; with the Phantom Shadow(s). 3) &quot;Hassle in the Castle&quot; with the Phantom. 4) &quot;Haunted House Hang-Up&quot; with the Headless Spector.In the second tale, Scooby is set to inherit one million dollars in Confederate money which is a big let-down to the gang, but really would be worth many times one million dollars to collectors today. Even the Confedrate $500 note in the episode was a very good copy of the real-thing!For those who remember the series or those with small children this would be a nice tape to have. It lasts about 90 minutes. The same episodes, however, have already been released on other tapes. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

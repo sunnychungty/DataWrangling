@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1577315286 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-17-2006  
+<h2> review.text </h2>
+
+ <p> I've had a chronic health condition for more than 15 years. I have experienced severe fatigue and excruciating body pain for most of that time. I have tried many self healing and energy healing techniques and I have been a qigong practitioner for several years. I've seen improvement in my health with these other practices, but the progress has been slow.After learning and practicing the Soul Mind Body healing techniques outlined in this book, I have noticed a significant reduction of pain and a noticeable improvement in my energy level after just 2 months.I will continue to practice "One Minute Healings", "Universal Meditation" and other healing blessings described in the book.Thank you Master Zhi Gang Sha for giving me the tools to heal my Soul, Mind and Body. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Soul Heals Chronic Illness </p>
+
+
+<h2> review.date </h2>
+  11-09-2006  
+<h2> review.text </h2>
+
+ <p> This book is the best work of Dr.Sha's many years of dedication to becoming a Universal Servant of Humanity and the Heavens. Brilliant work! I highly recommend this book for anyone ready to work with Soul, Mind, Body Medicine. The simple techniques given hold many blessings for those who'll use the gift that Dr. Sha bestows upon us. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Soul healing made easy </p>
+
+
+<h2> review.date </h2>
+  05-16-2006  
+<h2> review.text </h2>
+
+ <p> Soul Mind Body Medicine is a complete spiritual healing system with many practices.  It includes how you can use the four healing powers (soul power, mind power, sound power, and body power) to heal many common illnesses.  You can use these practices to bless and heal yourself and others. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A spiritual approach to healing and vitality </p>
+
+
+<h2> review.date </h2>
+  03-15-2010  
+<h2> review.text </h2>
+
+ <p> Soul Mind Body Medicine is an incredible system of healing. Te different theories in it are simple and profound.Understanding these theories brought a lot of light into many aspects of my life. They give you all the tools to understand how things work in the body and in the universe.The practices in the book are also simple and incredibly effective - I already thought those to many people who had also great results!Thank youGal - Australia </p>
+
+
+<h2> review.summary </h2>
+
+ <p> simple wisdom </p>
+
+
+<h2> review.date </h2>
+  10-05-2013  
+<h2> review.text </h2>
+
+ <p> A few years ago I hadn't heard back from a call to a sweet, beautiful friend of mine...she had been successfully fighting off fibroid tumors and when I finally got a reply from her husband he told me she was out of the country alerting people to the wonders of Dr. Sha's books (from her own money, airfare out of the country with a box of his books)I had done 1-ONE phone consultation with this guy at her request (you get one free) and was like oh boy here we go...The next call I got was to tell me she DIED! I COULD NOT BELIEVE IT! Research these quacks...I believe IF AND WHEN THIS SORT OF STUFF DOES HEAL ANYTHING, it was emotional and you've tricked your brain not to recognize it.  If there are healing miracles besides that, it is most certainly not from this money hungry quack. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A dear friend DIED OF CANCER studying with him... </p>
+
+
+<h2> review.date </h2>
+  03-09-2013  
+<h2> review.text </h2>
+
+ <p> This is one of those books that are full of exercises one can try to get spiritual and mental clarity. Dr, Sha is a good writer, I will be using this book as one of my spiritual handbooks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> still reading </p>
+
+
+<h2> review.date </h2>
+  09-06-2006  
+<h2> review.text </h2>
+
+ <p> ****"Soul Mind Body Medicine: A Complete Soul Healing System for Optimum Health and Vitality" is exactly what it says, a complete system for healing. It is also a practical energy healing handbook that exudes positive energy and love. It describes universal spiritual principles common to all religions and spiritual practices---forgiveness, healing, blessing, love, etc.The book combines Eastern and Western medicine concepts, but primarily is based upon Eastern medicine; it is essentially a system devised by the author after years of practice as an energy medical physician.  He is also a Western medical doctor, so he brings a breadth of experience to the book, and it shows.The methods in the book are complementary to other healing methods and so would be of great interest to anyone interested in healing. As a type of energy medicine, the distinction of Soul Mind Body Medicine is that it emphasizes soul over matter, a level "above" mind over matter.  It claims that we can communicate with our body via our soul and thus self-heal.  The author believes that "Soul Mind Body Medicine will...help you prevent degenerative changes in the brain, helping you maintain vitality and vibrancy for your brain and mind throughout your life."All of the exercises and mediations are non-traditional and may seem very unconventional to those who practice or are devoted to allopathic medicine. If this is you, but you are open-minded, I'm would think that you'd be able to receive great benefit from the techniques addressed here. Otherwise, pass on this book.The book is practical and filled with exercises. Most of these did not appeal to me, because I do not enjoy the technical aspects of Chinese medicine, and this is why I rated the book only four stars. The basic concepts made sense to me, so I did indeed benefit from the book, but the actual practice and exercises were difficult for me.  That said, the author took pains to Westernize the exercises so that anyone could do them...I just found them...well, boring and a little weird, mainly because of lack of interest and patience on my part. I think that if you were interested, the book would be invaluable.  There are detailed suggested practice schedules for cancer, protocols for healing emotional imbalances, various styles of mediations, and much more.**** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Practical Handbook for Healing </p>
+
+
+<h2> review.date </h2>
+  06-18-2006  
+<h2> review.text </h2>
+
+ <p> I recommend this book and his previous book, Power Healing: Four Keys to Energizing Your Body, Mind and Spirit, which has other powerful self-healing, meditation, and other techniques not in this book. If you buy one book, this is the one to buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Soul Mind Body Medicine </p>
+
+
+<h2> review.date </h2>
+  07-22-2009  
+<h2> review.text </h2>
+
+ <p> I often practice chanting Weng Ar Hong. (It is one of the exercises in the Soul Mind Body Medicinebook.) It is an ancient Chinese mantra that is combined with visualizing vibrating red light in the head, white light in the Message Center (or heart chakra), then blue light in the lower abdomen. There is a body posture that further amplifies one's energy development. If one only were to spend 15 minutes a day on this singular practice, it would greatly enhance one's physical stamina and vitality.There is another practice that creates circular movement of energy that is combined with the ancient Chinese, profound wisdom that connects one human being with the divine light of galaxies, universes, and stars. At the same time it connects with leaves, trees, rivers, mountains.If the reader were only to practice those two exercises in Soul Mind Body Medicine, this book would be well worth buying. I highly recommend this book for its practical and simple ways to enhance health and spiritual development.Sandra Sharpe </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Invaluable practicies are offered in this book </p>
+
+
+<h2> review.date </h2>
+  05-22-2006  
+<h2> review.text </h2>
+
+ <p> Step by step, Dr. and Qi Gong energy Master Zhi Gang Sha walks you through into an understanding of healing "secrets" from 5000 years of Eastern tradition. His missions in life include bringing those "secrets" out to the world for individual healing and healing-into-world-peace.He weaves those ancient discoveries together with his teacher's discoveries and his own insights, as a Doctor of Traditional Eastern Medicine, an MD of Western Medicine and a "divine channel" to bring us Soul Mind Body Medicine.It doesn't matter if you've never studied "mind over matter" or "energy work" before, or if you've been practicing in such techniques for years. In Soul Mind Body Medicine, you will find your understanding just naturally goes deeper. Your ability to see the flow of application of the consciousness and the techniques rolling into being a reflex response, your soul speaking through your actions, as it were.The book contains actual techniques (and photo illustrations) for a huge range of maladies ... but more importantly ... it is a reminder that healing is not just for "disease." Healing is for rejuvenation and revitalization. The ultimate sports enhancement OR anti-aging regimen is to have your entire system revitalized, on an on-going basis. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> From beginner to professional healer ... </p>
+
+
+<h2> review.date </h2>
+  08-31-2009  
+<h2> review.text </h2>
+
+ <p> For some reason this book is being substituted for the book I wanted, originally ordered as The Power of the Soul but even on the confirmation (which I unfortunately did not check when it came through) this title had been substituted.  The same thing happened when I ordered the book from the local public library.  I have inquired from both Amazon and the library why this happened but no one has had an adequate answer.  Beware ordering The Power of the Soul (same author) because you will not get it.  You'll get this one instead (with no explanation). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not the book I wanted </p>
+
+
+<h2> review.date </h2>
+  08-09-2007  
+<h2> review.text </h2>
+
+ <p> Dr. Sha's concept of healing the soul first, then the mind and body healing will follow will make tremendous sense to anyone who has done any serious level of self exploration and soul searching, and will be quite eye opening to anyone suffering from illnesses that western doctors cannot explain.  Dr. Sha's style of combining prayer, meditation, positive intention, visual imagery, and energy healing is revolutionary.The exercises he describes which I have I tried provided amazingly powerful results. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Are you serious about self healing? </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

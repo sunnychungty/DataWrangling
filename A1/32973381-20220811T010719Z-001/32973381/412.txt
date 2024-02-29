@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00585CF28 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-22-2011  
+<h2> review.text </h2>
+
+ <p> love love love this series and can not wait for the next book to hurry and freaking get here! I love darren and tristan! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> greatttttt series! </p>
+
+
+<h2> review.date </h2>
+  07-21-2011  
+<h2> review.text </h2>
+
+ <p> Today's review is on Brown Eyes by Quinteria RameyBrown Eyes is the second book in Ramey's The Forever Trilogy and was a sheer pleasure to read.  This novella packed such a punch that for a minute I couldn't believe I had finished.  I found the story so dramatic that many times I found myself on the edge of my seat.  Literally!!Ana now has all of her memories back, and not to soon.  The vampires are declaring war against the witches of Brighton in retaliation for the "murder" of one of their own.  And though she receives a message from London giving her three days before the attack, it seems the vampires have a timeline all their own.With the fate of Brighton weighing heavily on her, Ana chooses to leave the safety of the haven to possibly draw the vampires away.  This however is not what happens in the end.  Nearly all hope is lost as she makes contact with Darren and see's what's happening through his eyes.  Everyone is dying, even him.  In the end she has done what she always has.  She ran away with Tristan.There were quite a few mistakes in Brown Eyes that should have been picked up by the editor, and that is one of my pesky pet peeves.  I actually can't wait for the next book to come out next month.  I hope it lives up to this one.4 of 5 stars </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gothic Mom's Book Review </p>
+
+
+<h2> review.date </h2>
+  02-21-2013  
+<h2> review.text </h2>
+
+ <p> It was very well put together this is one of my favorite series and this is my second time reading it. Truly amazing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AMAZING </p>
+
+
+<h2> review.date </h2>
+  10-26-2012  
+<h2> review.text </h2>
+
+ <p> So glad i was able to get the second and third books. i am ready to see what else is going to happen </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it! </p>
+
+
+<h2> review.date </h2>
+  10-08-2012  
+<h2> review.text </h2>
+
+ <p> Great series!!  I really like this series, it is refreshing and different!  It is an easy read and keeps your interest! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great series! </p>
+
+
+<h2> review.date </h2>
+  05-17-2013  
+<h2> review.text </h2>
+
+ <p> You get caught up in the book.  Make sure you have them all.  You won't want to stop reading.  I know I didn't </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great story </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> Fun series to read, but I'm really sick of the grammatical and syntax errors in Kindle books.  Where are the proof readers?  Nothing spoils the reading of books like coming across errata.  Books are supposed to be educational as well as entertaining. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love this series </p>
+
+
+<h2> review.date </h2>
+  10-08-2012  
+<h2> review.text </h2>
+
+ <p> I loved this book.  This book was shorter than the other two.  I read it way too fast and wish it was longer because I didn't want the story to end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wish this series was longer than 3 books </p>
+
+
+<h2> review.date </h2>
+  09-25-2012  
+<h2> review.text </h2>
+
+ <p> So much to figure out. this book was really short while the first was a little too long. now on to book 3 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Real short. </p>
+
+
+<h2> review.date </h2>
+  08-02-2011  
+<h2> review.text </h2>
+
+ <p> I have been waiting for this book ever since I read Grey Eyes. I thought it was just as good, but way too short (it was a novella.) I liked this book but I can't help but wondering if it was necessary. This story could have easily been incorporated into the next book *or* it could have been stretched a bit to make it longer. To me it kinda felt like the author really wanted a trilogy but only had enough material for 2 books, so they created a novella to go in the middle. With that being said, the book was entertaining and kept me wanting more. It's worth the read, but keep in mind that it is very short and not a lot gets resolved. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great middle book </p>
+
+
+<h2> review.date </h2>
+  07-09-2011  
+<h2> review.text </h2>
+
+ <p> OK maybe three... :)Sometimes I'm thrown when a Novella can pack a powerful punch! This sequel was great! I was left a little disappointed that it was so short, but not disappointed in the story itself.Ana finds herself in a huge contraversy; does she stay and fight the vampires after seeing an image of the future or does she take a chance and make a run for it, hoping they will follow her and leave her town people at peace? With her decision to stay true to Darren, Ana still finds herself thinking constantly of Tristin and reaching out to his mind, when she knows she shouldn't.Take an afternoon break and read this whirlwind adventure. I found myself almost crying at one point, then gasping at another and finally saying out loud OH MY GAWD!! Alston and Ramey did a phenominal job on this sequel and I can't wait to get my hands on the final one "Angel Eyes". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One word: OMG!!!!! </p>
+
+
+<h2> review.date </h2>
+  08-04-2011  
+<h2> review.text </h2>
+
+ <p> I bought this on my kindle...I like to find the "cheap" ones and discover masterpieces. I just loved this book. When I read I want to FEEL it. If someone I like dies...I better be crying. If there is a villian ruining our heros life...I had better HATE them. You get the point. This story does that for me. I love it. Can't wait for the next one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm in love </p>
+
+
+<h2> review.date </h2>
+  08-17-2013  
+<h2> review.text </h2>
+
+ <p> Each book of (The Forever Trilogy) is a wonderful fantasy that captures the readers imagination. I could not stop until I had read them all back to back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A wonderful read </p>
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> This second book in the Forever Trilogy was better, but I still think a little extra time on it could have been spent looking it over.  It seemed like there was either an extra word or a missing word in many sentences throughout the book.  I did like how there was some mystery about things and not everything was revealed all at once. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brown Eyes </p>
+
+
+<h2> review.date </h2>
+  05-28-2012  
+<h2> review.text </h2>
+
+ <p> Even though this is really short, I really enjoyed it. I thought it was a great transition book.Can't wait to see how this ends! I can't make up my mind though, Darren or Tristan?!?! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I like this series </p>
+
+
+<h2> review.date </h2>
+  08-09-2011  
+<h2> review.text </h2>
+
+ <p> I don't write a lot of reviews...and having paid a mere $0.99 for this book on kindle, you'd think I had fairly low expectations.  I read a lot of YA and fantasy/scifi, so I know that the quality out there is pretty divergent.  For example, Amanda Hocking's books are not genius but they're exactly what they should be--fun summer page turners with likeable characters that entertain.This book was bad on so many levels.  The characters act completely differently than they did in the first book (Darren, Grandmother, for example), there's absolutely no plot development (oh there's another big battle between vampires & witches!  we're all going to die!  what do we do??), and the heroine spends all her time whining helplessly.  The world building is hackneyed & sloppy--people die and then they're brought back through arbitrary deux ex machina developments.  It's also poorly written.  Save yourself a buck. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> First one was bad, this one is absolutely terrible </p>
+
+
+<h2> review.date </h2>
+  05-23-2013  
+<h2> review.text </h2>
+
+ <p> This was a good book. Story line keeps moving and you get into the characters. I enjoy reading saga books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable </p>
+
+
+<h2> review.date </h2>
+  12-12-2011  
+<h2> review.text </h2>
+
+ <p> I just finished Brown Eyes and right away went and bought Angel Eyes. This series takes you places I have not gone before in a Witches vs. Vampire story. Although there are some grammar errors, you can easily overlook them. Brown Eyes is more of a short story that continues the storyline and bridges the gap between Grey Eyes and the final book Angel Eyes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Page Turner </p>
+
+
+<h2> review.date </h2>
+  08-15-2011  
+<h2> review.text </h2>
+
+ <p> I thought I was buying a full book. I was done reading it in a few hours. I wish I had understood that. That being said it continued the series and it was good. It would have gotten a higher rating if it was a full book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This isn't a complete book more a novella </p>
+
+
+<h2> review.date </h2>
+  06-26-2011  
+<h2> review.text </h2>
+
+ <p> In the blogs and everything else I read about this second book they never said anything about this being a novella! I couldn't believe how short it was, it was very disappointing. This was supposed to be the second BOOK in the trilogy not some bridge for the third book. Half of the "book" was spent rehashing the 1st novel, it literally took me less an 3 hours to read it. Luckily it was only $1 but kind of seemed like a scam to me.  I was expecting much, much more :( </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not that hot.. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

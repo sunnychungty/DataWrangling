@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1781850631 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-05-2014  
+<h2> review.text </h2>
+
+ <p> Very exciting.  Kept you glued to the story.  I found it was tough to read some of the description pertaining to the torture and death of the victims. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent </p>
+
+
+<h2> review.date </h2>
+  06-24-2014  
+<h2> review.text </h2>
+
+ <p> A fitting tale of a modern Ireland still haunted by the past. Katie Maguire seems up to the task of fighting evil in the present without dismissing the eerie possibility the the tales from the past might have a reality of their own. I look forward to spending some more time with Katie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A fitting tale of a modern Ireland still haunted by ... </p>
+
+
+<h2> review.date </h2>
+  06-17-2014  
+<h2> review.text </h2>
+
+ <p> i DID NOT FINISH THIS BOOK.  i CANNOT RECOMMEND IT.  n OT WORTH READING AS FAR AS i AM CONCERNED. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Noit good </p>
+
+
+<h2> review.date </h2>
+  09-28-2013  
+<h2> review.text </h2>
+
+ <p> I'm a big fan of Graham Masterton. Such books like The Devils of D-Day, The Wells of Hell, Mirror and Heirloom are some of the best horror books around. Graham Masterton has always had his thumb firmly placed on every reader's 'fear spot'. He makes the unfolding horror believable, but controlled. It has never been a riot of mayhem and blood for the sake of blood. Psychological horror spliced with the supernatural has been the running theme in many of his books.Masterton is known for his special detailing of violence and gore. So far its been used because the story demands it. He knows when to hold back. His characters perfectly created; flawed beings who make you want to root for them and experience the horror with them.Sadly, as with another later book by Masterton I recently read, all that magic, control and depth seems to be present in this book only as a shadow of its former self.I loved the concept. Ritualistic murders. Celtic nightmares. Dimensions that require sacrifice and unbearable pain by which to open them. So far the typical Masterton signature. BUT the characters were two dimensional. Scenes were skimmed over where more character development could have been included. And as for the torture scenes; the first victim's demise being described with so much detail, I accepted. Here there were echoes of Masterton's ability to make you see how something like removing the flesh from a woman's leg without slicing it into pieces is done. Yes, I as a reader would have struggled to imagine someone doing that. Until Masterton took me through the process. It was horrible, unbearable and shocking but for that one chapter, these details were needed. That given, we didn't need to suffer it again with the second victim. We knew she would be facing the same process. Our own minds could do the rest. This killing was more gratuitous and added nothing new to the story development; it was a repeat nothing more.When the ending came, it was anti-climatic and hurried. The conflict was poorly lacking, very linear. I felt no concern for Maguire. And in truth felt no empathy for any of the characters. Unlike so many other brilliant Masterton books the characters lacked depth.Sadly, this book seemed to be a parody of everything Masterton stands for in my opinion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Something missing :-( </p>
+
+
+<h2> review.date </h2>
+  11-29-2013  
+<h2> review.text </h2>
+
+ <p> It has become quite commonplace for thriller writers to go into great detail and describe a post mortem.  If it's too graphic then I skip it - but this book has some HIDEOUS descriptions of a crime that made me feel absolutely ill.  I didn't finish the book - by chapter 3 I'd had enough.  I think it's a sick book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SICK SICK SICK </p>
+
+
+<h2> review.date </h2>
+  08-28-2013  
+<h2> review.text </h2>
+
+ <p> This story got me in right from the beginning.It is hard to put down and keeps you guessing right till the conclusion a good read so much so I bought The house that Jack built as soon as I finished it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best book I've read in along time </p>
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> The book was okay.  I find Irish stories to be somewhat dark.  Too much superstition and everybody always seems to be depressed.  Though I love murder mysteries I like the characters to be up beat some of the time and have a sense of humor.  None of that here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a bad read </p>
+
+
+<h2> review.date </h2>
+  05-04-2013  
+<h2> review.text </h2>
+
+ <p> Good Exciting story but a bit gruesome at times.I shall look for more from this author.Well told,exciting thriller with good characters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good story </p>
+
+
+<h2> review.date </h2>
+  05-09-2014  
+<h2> review.text </h2>
+
+ <p> It's not what I thought it would be but, it was a good read enough that I've already downloaded book 2. I have to admit I kind of felt sorry for Katie and all the stuff she was going through but, she seems like a tough cookie. The ending caught me by surprise...WOW! I didn't see that coming...whew!Anytime a book keeps me up till 2am, it's gotta be good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I enjoyed this book...... </p>
+
+
+<h2> review.date </h2>
+  11-23-2013  
+<h2> review.text </h2>
+
+ <p> Masterton is a master. What else can I say?  I loved his Manitou novels and kinky, tongue in cheek characters.  He is incredibly original and clever.  There have only been a couple of novels by him that I was not really engaged by, but this was not one of them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Masterton is a master of this genre and a masterful writer </p>
+
+
+<h2> review.date </h2>
+  12-22-2013  
+<h2> review.text </h2>
+
+ <p> 'White Bones' is a very, very dark novel set in dark weathered and rainy Cork, Ireland and written by an author who spent many years writing horror novels. This is in fact a cross between a crime and a horror novel with gruesome torture and murder accounts described in minute details.Detective Superintendent Katie Maguire is called to a farm where a large number of human bones have been unearthed whilst laying the foundations to a new building. Forensic investigation concluded that the bones were very old and belonged to 11 women who were murdered and sacrificed as part of some Celtic ritual. The flesh of these bodies had been completely scraped off from their bones and their bodies completely dismembered.Whilst the rest of her team find this discovery a waste of police time, Katie is determined to dig in the past to find out how, why and by whom were all these women murdered and give them justice.Soon a young American woman goes missing whilst hitch hiking in that area. Her remains are later found on the same farm where the old bones were discovered, her bones, in the same condition, completely scraped of flesh and ritualistically displayed. Katie is baffled by this, how could it be that someone carried the same exact ritual on this woman using the same method as used on the other women so many years ago? Some of the details surrounding the old ritual were not even made public through the media.Then it is a race against time for Katie and her team to find the murderer and prevent any further killings.On the whole I enjoyed myself reading this novel, but it is certainly not for the faint hearted and should be read on an empty stomach. I found myself wincing on quite a few occasions throughout the book.Having never been to Cork, it gave me quite a good general idea of that area and I learned some things on Celtic Mythology and rituals.Whilst the main storyline is quite good, I found the side stories and characters somewhat flat. Although Katie is smart and very good in her police role, I found her quite naive or stupid in her private life with her husband and acquaintances and rather unemotional towards tragedy.I was slightly annoyed with the usage of Irish slang, however the author included a list with the meanings at the end of the book. Also, whilst the novel is set in Ireland, the vocabulary used is American.This was my first Graham Masterton novel and I have already bought the second novel in the Katie Maguire series, 'Broken Angels'. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stomach-churning! </p>
+
+
+<h2> review.date </h2>
+  07-01-2013  
+<h2> review.text </h2>
+
+ <p> Later, I read about the author and realised he was previous into the horror genre. Made sense then!I liked it, good read and kept me well interested. I worked out 'who did it' close to the end but not why. Nice twist. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Scary! </p>
+
+
+<h2> review.date </h2>
+  11-11-2013  
+<h2> review.text </h2>
+
+ <p> This novel was originally released under another title, but it still does not detract from the quality of the writing, the great characters and the fabulous story. I Originally bought this story in a paperback version called A TERRIBLE BEAUTY. There is not a radical difference between the paperback I bought and the hardback I purchased from the UK. For some reason I could not purchase the hardback in the US, but that may be a contractual thing like the audio CD version seems to be only available in the UK, but the audio download as well as the Kindle download is not only available, but it has sold enormously Well. Anyway, like any Masterton masterwork, the action starts straightaway; and the subplots deliver some of the most amazing Uber horror in this genre. About the only structural difference, and this is more from a subjective viewpoint as well as my expectations of the novel, is that the picture of Katie MaGuire is more in the vein of the crime story, which is not something I totally focused on the first time I read this story. Possibly because of the change in publishing house (head of Zeus) which I think may do more crime novels, the feel/tone may have changed. If I understand correctly, the author made some changes for the UK market, but this seems to have translated very well in terms of sales, and as Masterton fan, I'm immensely happy that he has received more exposure, and hopefully more sales in his other works which are more explicitly horror tales. Anyway, the depth and breadth of the story is still asfulfilling as it was on a first and second reading, and I was very happy to get the hardback since it is in a very good quality binding. Also the audiobook is read by a voice talent who presents an excellent tone and feel for Katie's POV. Since the book was re-presented as the start of a series, it is well worth reading with the twists and turns that Masterton does so artfully well. Whether you approach it as a crime novel, horror novel, or some hybrid, this is an excellent read and a great introduction to Katie and the life she leads in Cork, which was where Graham Masterton was for a while. Definitely a pleasure to read and reread, and I always enjoy the several series of other characters that Masterton writes and presents so well. A highly recommended read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a masterful tale with many surprising twists </p>
+
+
+<h2> review.date </h2>
+  08-10-2013  
+<h2> review.text </h2>
+
+ <p> For an Englishman, Graham Masterton has an unusual grasp and empathy with Irish rural life( no "stage Irish" stereotypes in "White Bones" and his lead character(rather unusually) is a woman, Garda Katie Maguire. Ever since "The Manitou" first appeared over 30 years ago I have been a fan of his work( a pity only one of his many books - "The Manitou"- has been filmed).What we see is a shade of Irish life that few enough Irish people know about- the pre-Christian Celtic Druids and their shadowy influence even in the Ireland of today!Terry </p>
+
+
+<h2> review.summary </h2>
+
+ <p> On "White Bones" </p>
+
+
+<h2> review.date </h2>
+  03-15-2014  
+<h2> review.text </h2>
+
+ <p> totally immersed in this book, loved the plot and the characters, a little bloodthirsty and it did make my stomach turn at certain points but I will be buying the next one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> gruesome but realistic </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

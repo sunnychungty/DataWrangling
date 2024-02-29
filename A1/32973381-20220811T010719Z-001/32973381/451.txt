@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00AZ2PDSC <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-20-2013  
+<h2> review.text </h2>
+
+ <p> Although the paragraphs were easier read, without the verse numbers it became confusing during my Bible Study. Also it didn't go to last page read, and therefore became harder to get to where we were studying. Finally I took advantage of the Free &#34;New Testament of our Lord and SaviorJesus christ, and found it easier to read with the numbers and the fact it always returned to last page read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Archived item </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> I choose this rating because the ebook was clear and concise.I did not like the order in which the ebook is listed. I usely start the bible with the book of Geneis.I would recommend this ebook to friends and family. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The New Testament easy reading </p>
+
+
+<h2> review.date </h2>
+  01-10-2013  
+<h2> review.text </h2>
+
+ <p> Basically, this is just King James Holy Bible in a different format. None of the text itself is changed or anything. It is just easier to read it without any trouble. It is changed so that it reads a lot more like a book than it normally does. When it is like this, it just flows so much better. I really liked how the words of Christ were made bold and red, so that regardless of your reading device, you can discern them more easilyIf you ever have had problems understanding the Bible because of the unusual formatting, then this book is a very good alternative. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Makes it so much easier </p>
+
+
+<h2> review.date </h2>
+  01-13-2013  
+<h2> review.text </h2>
+
+ <p> What a great idea this Kindle book is! The most beautiful version of the New Testament - the King James masterpiece - written in an easy-to-read format without the verse numbers to divert the reader's attention away from the flow and meaning of the text. Not a single word of the beautifully written King James version is changed - the only difference is that the verses are arranged in paragraphs as in a normal book for easy reading. Along with this, the words that Jesus spoke are highlighted in red for easy reference. I would highly recommend this version of the New Testament to anyone as it is so easy to read and enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Great King James Version of the New Testament - Now Easier to Read Than Ever </p>
+
+
+<h2> review.date </h2>
+  06-09-2013  
+<h2> review.text </h2>
+
+ <p> IT's so nice being able to take it anywhere on my Kindle. It's the best book I have. Highly recommended to anyone who needs to read the Bible more, like me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful </p>
+
+
+<h2> review.date </h2>
+  01-16-2013  
+<h2> review.text </h2>
+
+ <p> This is a "bare-bones" New Testament Bible. No commentaries, no parallel references or anything like that. Just the inspired word of GOD without numerical references to the verses. I like not having the views and opinions of others in my Bible. With Kindle for PC I can add my own notes. Notes that pertain to what the Holy Spirit is telling me personally, not muddled up with what others may think or have revealed to them. This makes this Bible more personal and I can make it my own. I hope the creators make one of the Old Testament also. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to read bible. </p>
+
+
+<h2> review.date </h2>
+  04-04-2013  
+<h2> review.text </h2>
+
+ <p> I love having the Bible on my Kindle to read whenever I want to.  And the words of Jesus are in red and I like that too. Other than that,  I doubt there is much I can tell you about the Bible that you don't already know! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Greatest book of all time </p>
+
+
+<h2> review.date </h2>
+  01-10-2013  
+<h2> review.text </h2>
+
+ <p> This is a very easy to read Bible and it was exactly what I was looking for.  This is the first edition that I have found in this format and it meets my family's needs perfectly.  My daughter is finally old enough to read the Bible on her own but the traditional format can be confusing.  I was looking for a good edition to load onto her Kindle and this formatting makes it the ideal one for us!  The format makes it read like a novel which has made it much easier for her to read the good book.  I really like that speech of Jesus Christ is in red so that she can easily identify his words.  The text is the same as a traditional King James Bible, but it is formatted like a novel.  A truly wonderful find! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very easy to read Bible; format makes it read like a novel </p>
+
+
+<h2> review.date </h2>
+  07-29-2013  
+<h2> review.text </h2>
+
+ <p> I bought this for my Kindle Paperwhite so I can read while waiting at Doctors office, airport, when I am traveling, etc. Very nice to be able to carry my source of peace and patience with me in compact form. Chapters read like a book, no interruption for individual verses. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Have this on my Kindle. </p>
+
+
+<h2> review.date </h2>
+  07-13-2013  
+<h2> review.text </h2>
+
+ <p> My mistake, but thought I was purchasing the NLV which teaches us lessons in modern day language.I have a little trouble with the KJV understanding some of the messages because of the more formal style. Both books are excellent but the writing styles are considerably different. I would suspect that the NLV would be more understandable to children and young adults and some older folks (myself included in that group) Traditionalists  may frown a little on changing up the KJV but to me, the message is still the same. The best book ever written!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Do not confuse with the NLV </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

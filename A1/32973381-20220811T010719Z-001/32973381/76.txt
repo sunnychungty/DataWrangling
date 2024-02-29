@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B003VZVZ4Q <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-28-2011  
+<h2> review.text </h2>
+
+ <p> I am a professional photographer and a teacher, and I am finding that cowboy studio equipment is a more-than-adequate rand for teaching and training. This background is light, folds easily, and seems to avoid lots of major wrinkling. Unless you want something stiffer and heavier, look no further. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product </p>
+
+
+<h2> review.date </h2>
+  04-25-2013  
+<h2> review.text </h2>
+
+ <p> This backdrop works great. It is not heavy duty or opaque but I like that it is light and can fit in a small bag or box to travel or store. Light will show through it if there is a doorway or a window. I have had no problem when I light it from the front and have a solid wall behind it. I like the 20 ft since it gives me plenty of room to work with and it also gives me the option to double up if I need to. To store this, I wad it up and cram it into a box with my white backdrop. I do not fold it. I like the subtle texture it has from being wadded up. If you need it to be smooth just hang it and spray it with a water bottle and give it a few minutes and it will be smooth. Any wrinkled spots can be sprayed again and they will let loose. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great for the price. </p>
+
+
+<h2> review.date </h2>
+  03-22-2014  
+<h2> review.text </h2>
+
+ <p> These are great for the price! They are thin so if there is back lighting it will bleed through but you can use this as an advantage! Trust me they are big and I am getting 2 more right now! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the price I am ordering 2 more! </p>
+
+
+<h2> review.date </h2>
+  11-09-2012  
+<h2> review.text </h2>
+
+ <p> I thought I was buying a black backdrop, but it has a green cast to it. It's a cheap backdrop that's pretty thin (it isn't as thick as I remember "muslin" being), but that's what you get, I guess. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A black backdrop with green tint </p>
+
+
+<h2> review.date </h2>
+  10-21-2012  
+<h2> review.text </h2>
+
+ <p> In addition to being very happy with the soft, bright light cast by these lights, I'm impressed by how sturdy the stands are - they're solid and appear capable of holding a lot more weight than what's tasked of them.  Everything collapses easily and quickly to store and carry in the case that comes with it.  I'm very happy and satisfied with the set of lights - worth every penny. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly what I hoped it would be </p>
+
+
+<h2> review.date </h2>
+  04-25-2013  
+<h2> review.text </h2>
+
+ <p> I can see what's behind this backdrop when the flashes hit, fabric is very thin.  I had it set up within a couple feet of a wall, so I would have expected the wall to have helped out, but not in this case.  It works ok if you have something like another backdrop perhaps, behind it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thin fabric, Can see Thru </p>
+
+
+<h2> review.date </h2>
+  08-19-2013  
+<h2> review.text </h2>
+
+ <p> muslin way too think not worth the money should have paid more to get the good one. i didnt have much money to spend but this was waste of money. save for better quality </p>
+
+
+<h2> review.summary </h2>
+
+ <p> too thin not worth money </p>
+
+
+<h2> review.date </h2>
+  02-06-2012  
+<h2> review.text </h2>
+
+ <p> Well I wasn't going to order this at first because of the reviews but I did and I'm happy I did. It came on time and it is a very nice black background I will order from here again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Nice </p>
+
+
+<h2> review.date </h2>
+  10-18-2012  
+<h2> review.text </h2>
+
+ <p> The 6 x 9 Black Muslin backdrop is not as advertised, this product is not as black as it shows in the photo. the 6'x 9' backdrop is tiny squares of black and what looks like gray, I actually thought I was buying a fully black backdrop.I work as a computer hardware reviewer and wanted the black backdrop for taking photos of white power supply's as well as white PC cases, like the NZXT Switch 810  or the Azza Genesis 9000, but the backdrop I received, doesn't look right in photos. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as advertised </p>
+
+
+<h2> review.date </h2>
+  01-21-2013  
+<h2> review.text </h2>
+
+ <p> Not too too happy with this product. It's thin and extremely wrinkly. My pictures didn't have that DEEP BLACK look I wanted....boo. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very wrinkly... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1938883349 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-04-2013  
+<h2> review.text </h2>
+
+ <p> Reese's Leap is part two in the Gil Hodges island mystery series and it was every bit as enthralling as the first book.  In this story Gil accompanies his friend Duggan to Mistake Island where several ladies have gathered for their Island Women's getaway.  Men are not welcome, but one has mistakenly invited her man and thus his friend by default.  But everything seems to be against their leaving when an uninvited guest shows up, seeking revenge for his brother's death.  Darcy Scott can spin a great tale and I enjoy reading her very distinct writing style and the mysteries, layer by layer construed to intrigue the reader.  Nothing is ever straight forward and direct, it is always like pulling the truth from a cement encasement!  Her work is just unputdownable!!I was given a copy of this book by the author or their representative in exchange for am honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unputdownable! </p>
+
+
+<h2> review.date </h2>
+  10-10-2013  
+<h2> review.text </h2>
+
+ <p> I adore books written with the backdrop of the New England coastline. When I lived in New England, the small Islands are where we summered at with the kids when they were younger. Growing up in the Pacific NW when I was not camping with the YMCA, my family would sale and camp in the small islands in the Puget Sound and the San Juan Islands. I grew up with the ability to dig for clams at day break and swim any time I wanted to when the weather allowed. The energy surrounding those trips were always magical. I found myself many an afternoons with the family and later with my kids weaving tales of treasure and digging clam shells buried by the Indians and dreaming stories in my head.Upon opening the book and finding where it took place, I knew no matter how I felt about the characters, I would have an experience mixed into the memories triggered from my past. I wasn't let down. This book was so uniquely written blended with its moments of darkness and sparkle of gentle island magic and mystery. I read straight through the night. Though nothing which would make it gratuitous in violence, or sex this is no way a cozy mystery. It is not light and happy. These people are a freaking mess. They swear, lie, act like crazy people many a time and they drink constantly. With the isolation it has a tad of Agatha Christie going on, which made me smile from ear to ear. I love contained mysteries like this! Limited only by the fear and obstacles. No police to save the day, just wits!I didn't like many of the characters, but not because they fell flat from the writing but because many of them were narcissistic selfish jerks. Our protagonist, Gil, is someone who is not really someone you want to like but end up wanting to send to a therapist and give a hug to. If there were a basket of apples with one orange or banana in it, he would not be taking an apple. He went along for the ride and ended up taking over the whole trip in the end. Like his friend, he tends to be pretentious but before you hit about half way through you realize he is another broken person you want to fix and watch grow within these books. I have not read the first in the series but I will and I cannot wait for the third.If you are looking for a well constructed, beautiful solid and mystery which will catch you off guard and yet still in enough comforting conventions of the mystery genre, you will be thrilled to death... but I hope not literally :) This would be a GREAT mini-series, one of those three-dayers! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well constructed, beautiful, solid & clean mystery ... make mine a mini-series!! </p>
+
+
+<h2> review.date </h2>
+  09-04-2013  
+<h2> review.text </h2>
+
+ <p> This is the sequel to another book called Matinicus. That being said, I have read a lot of books lately that are sequels and although they are supposed to stand alone I sometimes feel as if I am missing part of the story.Adria Jackman has a remote 200 acre lot of land called Mistake Island, where she decides to have an all female retreat of five longtime friends. They are more than happy to have free time away from it all. They have to stop their retrat because of a man naed Gil Hodges who has no way to leave and could be without a way to leave for days.He is a hard-drinking womanizer and at first he is happy about what has happened to him. As he gets to know the women he realizes that he might not be so lucky after all. They continue to make him remember things in his past that he does not want to remember.All of a sudden a horrible stranger has pushed himself upon the group. It seems as if he is bent on extracting revenge on the group. It, of course means that Gil will have to make sure that no harm comes to the group. Why and who are killing everyone?This is a really great mystery that keeps you guessing. I am happy to give this book a 5/5. I was given this book to read and all opinions are my own. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Woman's getaway gone bad! </p>
+
+
+<h2> review.date </h2>
+  09-13-2013  
+<h2> review.text </h2>
+
+ <p> The story becomes quite suspenseful as events spin out of control for the five women who are vacationing on Mystery Island and who don't know the reason for being targeted by a strange intruder.A good plot, though slightly improbable in parts, fuels the novel, as do the descriptions of the fictional island and the true history of Malaga Island. Malaga is a real island off the Maine coast which was once inhabited by a mixed-race community that was forced to leave the island in the early 20th century. It's an interesting bit of history that we learn about in the novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mystery on a Scenic Island </p>
+
+
+<h2> review.date </h2>
+  09-13-2013  
+<h2> review.text </h2>
+
+ <p> Reese's Leap is the second part of the Island Series and the first book in the series I have read. Two men stranded on a island during a woman's only retreat then having to protect the woman as events take a turn .An Intense Mystery once I started reading I was pulled through out the rest of the book anticipating each event as it unfolded.I really cannot put into words how great this book is it's one that you have to read for yourself.I highly recommend this book and will definitely be reading the Prequel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Intense Mystery </p>
+
+
+<h2> review.date </h2>
+  04-07-2013  
+<h2> review.text </h2>
+
+ <p> Darcy Scott's mystery REESE'S LEAP is a pressure cooker of a novel, starting out slow with rich, evocative imagery, a cast of intriguing--and occasionally maddening--characters, and a one-line treatment that can't begin to convey the twists, turns, and back-stories Scott has deftly woven together. That treatment? Two men are stranded during a Women Only retreat weekend on Mistake Island, Maine, and get more than they bargained for when an unwelcome outsider insinuates himself into the fold.REESE'S LEAP is the sequel to the highly lauded mystery MATINICUS, and the second in a trilogy featuring the hard-drinking, fatalistic bachelor botanist Gil Hodges. Scott tells this story from multiple perspectives, but the primary point of view belongs to protagonist Gil, who has straightened himself out marginally since his misadventures on Matinicus in the first installment of the series. Additional voices belong to two of the women attending the retreat: Brit and Nora. The switch from perspective to perspective is well-delineated, and Scott has done a fine job of putting the reader inside each of these vastly different individuals.If you're looking for a non-stop thrill ride, this is not the novel for you. Rather, Scott does the unthinkable in this age of absurdly short attention spans: She takes the reader on a journey, immersing them so fully in the world of Mistake that every trail can be seen, every macabre twist felt viscerally. At once a compelling work of literature and a haunting, tense mystery, REESE'S LEAP cements Scott as an author of the highest caliber, and absolutely one to watch in 2013. Five stars aren't nearly enough for this novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Literary Mystery of the Highest Caliber </p>
+
+
+<h2> review.date </h2>
+  06-23-2014  
+<h2> review.text </h2>
+
+ <p> The second book in the island mystery series.  Believable plot line and well developed characters.  I look forward to the third book Ragged Island. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> enjoyable island mystery </p>
+
+
+<h2> review.date </h2>
+  04-07-2013  
+<h2> review.text </h2>
+
+ <p> Every once in a while I read a book that makes me imagine it as a movie. I don't mean just visualizing it as I read it.  I am talking about being able to picture this story on the big screen with bigger than life characters.  This book is that good.  Once Gil was on the island, this book took off. There was never (not even once!) a dull moment in this fast-paced story of a man, his best friend, and 5 women on an island.  Many characters were facing their demons in this suspenseful mystery.  Who knows something but isn't letting on?  Who will survive and who will be killed?  Just as I thought I had it figured out, there was a twist and turn that surprised me, excited me, and kept me intrigued. At one point while reading this, I considered calling in sick to work because I just had to keep reading!Then the ending leaves you anxiously awaiting the next book in this series from Darcy Scott.  If you haven't yet read Matinicus, the first in this series, start there to get some background. It isn't necessary to start there, but it will have you hooked and wanting to follow this story of Gil and what haunts him.I seriously would love to see this as a movie!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ever read a book and thought it would make a great movie? </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> Darcy Scott pens "Reese's Leap" in a fast paced, well written plot filled with suspense and mystery. Between her characters that were very well developed, believable and likable and the story line that was filled with twists, turns and the suspense, I had a hard time putting the book down. A real thrill ride for all mystery and suspense fans.This review is based on a complimentary copy from the author which was provided for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must Read </p>
+
+
+<h2> review.date </h2>
+  03-26-2014  
+<h2> review.text </h2>
+
+ <p> I won't give away any tidbits that add so delightfully to the story, but suffice it to say that Scott's Island Mystery Series is real winner.  I blew through MATINICUS then RESSE'S LEAP and now impatiently await Gil's (clever baseball angle) exploits in RAGGED ISLAND.The setting is unique and fascinating, the characters are intriguing, and the depth of plot is full of intricacies that keep you turning the pages.  If you haven't picked up one of these books, do so.  You are in for a treat and you will be hooked. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love this series.  Nat Goodale - author of VACATIONLAND. </p>
+
+
+<h2> review.date </h2>
+  05-10-2013  
+<h2> review.text </h2>
+
+ <p> Another island, another keeper from Darcy Scott.  As with her first island mystery, Matinicus, Scott creates a wonderful, fully realized cast of characters, not the least of which is the island itself, in this case one of those great family summer places we all wish was part of our own childhood.  Misdirection is a major component of Scott's writing style, as she pointed out to me when I had the temerity to criticize some of her characters when I was only half way through the book.  So keep your eyes open, pay attention to the most minor clues, question everything . . . and you still won't guess the ending. More, please, Darcy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Finest Kind </p>
+
+
+<h2> review.date </h2>
+  09-28-2013  
+<h2> review.text </h2>
+
+ <p> Review by Ryder Islington, Author of ULTIMATE JUSTICE, A Trey Fontaine MysteryI wasn't sure what this book was about at first. It starts with five women who get together every year for a week on Mistake Island, off the coast of Maine, where there is no electricity, no running water, and no phones. The point is for them to get out of the rat race and get back to nature.But this time, one of the women invites her boyfriend to come for a few hours. He brings a friend with him: enter our male protagonist Gil Hodge, a botanist who just wants to spend a few hours in the trees. But then the fog rolls in, and no one is going anywhere.And things only get worse with the appearance of yet another man, this one uninvited and rather icky. That's a technical term: icky. Dirty. Pushy. Scary. You know...icky.The author is excellent at delineating characters. Each woman is so unique that it's easy to tell them apart. And the two men, David Duggins, the writer, and Gil Hodge, the botanist couldn't be more different. And I'm not even going to get into the third man. I'll leave him as a surprise for you.The more I read, the faster I read, and by the last fifty pages, I couldn't stop. This is a very good mystery, and is book two in a series, but stands alone so you don't have to read book one first. But now that I know about it, it's on my TBR list.I'd recommend this book to mystery lovers, people who like to read women authors, those who like a tad of history in their books, and those who really enjoy reading interesting characters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Fun Mystery </p>
+
+
+<h2> review.date </h2>
+  04-16-2013  
+<h2> review.text </h2>
+
+ <p> Reece's Leap is the second Island Mystery by Darcy Scott, staring the hard drinking, failure with woman, Gil Hodges - not the way he'd like to be described, though he'd likely agree with the assessment. This story is simpler than that of Matinicus, and perhaps more of a thriller than a mystery, though there is mystery.  Even after we find out the truth about the treasure there's still the question of what happened to Pete's brother Earl.Gil finds himself stuck on an island with his best friend David, David's girlfriend and a bunch of women. They went for a day, but the fog rolled in so they had to stay, by the time the fog had cleared there were other reasons they couldn't leave; Pete had gone psycho and, in his effort to find a treasure that no one thought existed and find his brother's murderer, he  killed one woman, kidnapped another and disabled all the boats so no one could leave.  It looked like he was going to pick them off one at a time.Gil, hero,  he-man and likeable character that he is, tries to keep the women safe, but they've got ideas of their own, and Pete has a cross bow, a knife and a deadly grip, not to mention an excellent knowledge of the island. Gil is struggling and the girls are terrified, or some of them are. It all gets tied up nicely at the end, and with enough of a twist to change the way you see the events on reflection. We are also reminded that Gil's time on Matinicus  has left him with a recurring problem, one that we might see him come to grips with in the next in the series.Darcy Scott is a skilled author. Her prose is immediate and engaging. The plot is interesting, the pacing excellent, and her ability to render characters is so good that they might just feel more real than the guy sitting next to you on the bus. Her books leave you with a real taste of island life, a rugged, wind-swept kind life with it's own law, one with nothing to do with police and judicial systems.I highly recommend this book to any one who likes a good mystery.I received this book free from the author in return for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An excellent mystery </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> Gil Hodges is not my idea of someone I'd like walking in the door being introduced by my daughter.  But as the hard drinking, raunchy-mouthed, over-sexed, college professor/botanist who finds himself marooned on a desolate primitive Maine coastal island with five VERY type A women, his character works well in Darcy Scott's twisted, chilling plot.  This is a rip snorting, well-written, page-turning adventure story with enough mystery built in to make it an attractive 2nd volume in the "Island Mystery" series.The story is not complicated: five women have come to Mistake Island for their annual week long girls' retreat....no men or children allowed.  There's also no electricity, no indoor plumbing (water is hand pumped from a well), and they've taken a pledge to turn off the cell phones. It's supposed to be a relaxing, wine sharing, sleeping, swimming, reading, resting week.  Except that someone forgot to tell David Duggan, partner of one of the women, who decides to drag his buddy Gil out to "visit" for an afternoon just before a typical Maine coastal fog bank rolls in to strand both gents at least overnight.At that point, all kinds of nasty events begin to happen.  A mysterious, dirty, swarmy vagrant turn up, (apparently known by the woman who owns the island), essential items (like the spark plugs in the boat's engine, and emergency cell-phones) start disappearing,  and it becomes apparent that this gentleman is up to no good.  I can't say much more without giving away the story.  It's quickly apparent that the bad guy is not going to allow anyone to leave the island alive, unless...... and Scott sprinkles just enough clues at a steady pace to keep the reader focused on the what, who and why.  It's a story with a spectacularly surprising ending that will keep you reading once you get into it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another page turner in the Island Series </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

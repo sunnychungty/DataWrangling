@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00JVDFTBM <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-10-2014  
+<h2> review.text </h2>
+
+ <p> I read all three books in less than two days. They were very good and showed how a broken girl can receive the strength and love that she always sought. I can't wait until part four! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great read </p>
+
+
+<h2> review.date </h2>
+  06-05-2014  
+<h2> review.text </h2>
+
+ <p> I was so glad that Lakea finally found happiness, then you want to bring the creep son out to cause her more harm this girl have been through enough already </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really Enjoyed the BOOK </p>
+
+
+<h2> review.date </h2>
+  06-04-2014  
+<h2> review.text </h2>
+
+ <p> This whole series will have u hurt, mad and happy! You feel what they feel! A great read! Be ready! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent read </p>
+
+
+<h2> review.date </h2>
+  07-04-2014  
+<h2> review.text </h2>
+
+ <p> This entire series takes us on the Journey with Lakea! Excellent series! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lakea's Blessings.. </p>
+
+
+<h2> review.date </h2>
+  04-28-2014  
+<h2> review.text </h2>
+
+ <p> You did it again this book was so good that it was hard for me to put the book down this book deserve more than just five stars, That Lakea is a soldier for real and her brothers ain't nothing but true soldiers as well. Just keep on writing I need the book ASAP, NIKI JILVONTAE LOL. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW!!! Niki </p>
+
+
+<h2> review.date </h2>
+  05-27-2014  
+<h2> review.text </h2>
+
+ <p> Omg she went through a lot of pain but still found her happiness.. Even though I never went through what she did I still felt the pain... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Omg! </p>
+
+
+<h2> review.date </h2>
+  06-18-2014  
+<h2> review.text </h2>
+
+ <p> This book was very good.  I can relate to a lot of what Lakea went thru in this book.  The story line is consistent. It held my interest n this authors style of writing is very very good! Once I start a series got to finish it. Hoping part 2 is good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> YOU BETTER NOT TELL ON ME! </p>
+
+
+<h2> review.date </h2>
+  06-19-2014  
+<h2> review.text </h2>
+
+ <p> So I'll start off by say it's only so much a character should have to go through so this really should be the last one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Make this the last one </p>
+
+
+<h2> review.date </h2>
+  06-18-2014  
+<h2> review.text </h2>
+
+ <p> The first two books were good.  However, number 3 was not realistic.  There were too many grammatical errors in all the books.  To be a success, make an effort to get a proofreader.  Just because this is urban fiction,  readers should not be shortchanged.T </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unrealistic </p>
+
+
+<h2> review.date </h2>
+  05-16-2014  
+<h2> review.text </h2>
+
+ <p> awesome read can't wait for part 4!!! A lot of drama but an attention getter! Niki is a great author! 5 stars </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome 5 </p>
+
+
+<h2> review.date </h2>
+  06-10-2014  
+<h2> review.text </h2>
+
+ <p> Really enjoyed this one as well. The ending was well written. I recommend all three books 2 everyone who wants 2 read them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Read!! </p>
+
+
+<h2> review.date </h2>
+  04-28-2014  
+<h2> review.text </h2>
+
+ <p> 4.5 Stars....from one bad incident to the next. Was this broken girl deserving of all that was happening to her or did she will it. Sometimes prays can clear our journey. Throughout her ordeal she was still able to come out on top with a little happiness. I say if your not death and you have life and breathing then there is still time for happiness and laughter. Lakia put her best effort out there and ended with lots of love I was truly happy for her. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Broken Girl's Journey 3 </p>
+
+
+<h2> review.date </h2>
+  04-23-2014  
+<h2> review.text </h2>
+
+ <p> Very good job, Lakeya is still struggling so much with all her past tragedies that has broken her,looking for someone to love she endure more then she ever had bargained for. Will the broken girl's journey end will her demise or will she finally be able to be at ease, well you need to buy it,read it and don't forget to review it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow </p>
+
+
+<h2> review.date </h2>
+  06-22-2014  
+<h2> review.text </h2>
+
+ <p> Never has a sequel held my attention this long. Thank you finally having a sequel closer to real life. Where the person has some points of peace and then goes through storms. I loved all 3. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow </p>
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> This was a plot that kept me interested from beginning to end.  Loved going through the highs and lows of Lakea.  After three books and all she has been through why can't she just be happy.  I really don't think a fourth book is called for, however if it is written it better be off the meter to end Lakea's happiness and keep me as a fan. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome </p>
+
+
+<h2> review.date </h2>
+  06-02-2014  
+<h2> review.text </h2>
+
+ <p> Niki really knows how to tell a story!! I was rooting for Lakea to find happiness since she had been through so much heartache. Can't wait for the next installment! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

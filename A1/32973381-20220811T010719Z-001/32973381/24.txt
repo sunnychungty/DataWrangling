@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000M6QAUG <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-28-2014  
+<h2> review.text </h2>
+
+ <p> I use to mix audio from cell phone, Chumby internet appliance, and an Ipad.  Does well, but those devices inject all manner of clicks, bleeps, and grunts as they connect to 3g or my wifi, not sure which.  Poor shielding.  Lights are also too bright for the bedroom. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works OK, but wireless interference </p>
+
+
+<h2> review.date </h2>
+  02-03-2012  
+<h2> review.text </h2>
+
+ <p> This was exactly what I needed to mix computer, television, and external audio into a single speaker setup.  -1 star for the modifications I had to make and for the random interference it picks up.  The blue LEDS are bright enough to hurt your eyes, but the case comes apart and two strategically placed dabs of model paint solved the problem. I expect I need to add my own foil shield, but I'm still researching that.  I guess that's what makes it fun.  Overall though, I like it and am considering another one for a similar setup. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice little desktop mixer </p>
+
+
+<h2> review.date </h2>
+  11-12-2010  
+<h2> review.text </h2>
+
+ <p> I have a laptop, video editor and desktop that I need to use everyday - Sometimes with headphones, so I this product was the perfect solution. Especially for the price.It works perfectly for my needs. The volume controls are easy to use. Everything works as it should.As others have said - it's shielding sux. I get a buzz if I don't keep the unit away from everything. I have wrapped it in some anti-static material, it helps some, but every once in a while I need to adjust the position of the unit and or the cords. I think I will eventually will put it in another enclosure. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the Price - needs better shielding </p>
+
+
+<h2> review.date </h2>
+  07-12-2013  
+<h2> review.text </h2>
+
+ <p> I've had this for a few a few months and it works perfectly. I have yet to have an issue with it. I use it for listening to game audio and external music simultaneously. The volume nobs are unmarked, which makes them hard to use. My simple solution is to leave them at max volume and manage volume at the source. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job very well. The lights and unmarked volume nobs are annoying. </p>
+
+
+<h2> review.date </h2>
+  09-09-2011  
+<h2> review.text </h2>
+
+ <p> I have had the unit for 7 months.  Up until now, it has been great.  Being able to plug up to three computers in and get the sound to my head phones, and the quality of the music - has been great. BUT - now there is a steady hiss coming from the left channel.  This hiss is independent of the volume settings.  It is there even when all inputs are unplugged. - Communicated with American Recorder, received an RMA - shipped unit back to them with indication they would repair/replace it - received NEW unit - happy user again :-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unit replaced - only cost me return shipping </p>
+
+
+<h2> review.date </h2>
+  10-14-2009  
+<h2> review.text </h2>
+
+ <p> I've been looking for a way to manage my 3 inputs (2 computers, 1 stereo) to go to one set of speakers and one set of headphones.  Previously, I had to use 2 sets of headphones for the computers and required a amp/speaker set with 2 inputs.  Switching between headset and speakers was awkward.I wanted a small unit that could accept at least 3 stereo inputs and had at least 2 stereo outputs, one for the speakers and one for headphones.Just got this pMix 100 today and have been listening to it this afternoon.  There are a few issues, but overall I think I'm going to keep it as it seems to address my need.PROS:+ it accepts three 3.5mm (1/8in) headphone jack-style stereo inputs that can be mixed together if you want.+ jacks are nice and tight so unlikely that the plugs will fall out.+ sound seems good; I'm only using it for casual listening+ size is pretty compact, can be easily tucked away on a desk+ comes with a couple of male-male 3.5mm connector cables and an RCA-3.5mm male cable+ knobs are damped and knobs seemed to fit tightly on my unitCONS:- Most noticeable drawback is the loss of volume.  I measured the sound of a source (i) run directly to the speakers and (ii) run through the unit.  For a song that peaked at 93dB a few feet away in the direct source set up (i), the measurement when run through the unit (ii) was 83dB. This is a significant loss of 10dB attributable to the unit.  I made sure that the knobs weren't moved between the comparisons.  Despite this, I could still get plenty of volume out, so I came to terms with this.- Occasional quite noticeable hum which I discovered was positional - that is, I got rid of it almost completely by moving the unit slightly or putting my hand over it.  This indicates that it's lacking some shielding somewhere.  Perhaps wrapping it in tinfoil would help?  Some kind of makeshift Faraday cage?  Anyway I just moved it 3 inches and it's fine for now.- Blue lights are ridiculous (too bright and distracting!) and I will eliminate or cover them asap- headphones do cut off speaker output so if you need 2 simultaneous outputs, this is probably not for you.  It's fine for me.In summary, it works OK and in the absence of another inexpensive unit that manages my sound output this is fine.  I don't think I would run any quality-critical mixing through it but for a compact listening solution it's fine.The only other option I could find were the 8-10 input mixers; however they are really designed for predominantly mono inputs (though they have a couple of stereo inputs) and would have required too many adapters for the multiple mini-plug inputs I have.I'm pretty harsh with ratings so 3 stars is probably what other people might call 4 stars.UPDATE 02 Nov 2009The buzzing (RF interference of some sort) was particularly noticeable with my wireless Sennheiser headphones and I got annoyed moving this thing around.  It seems that the solution is to wrap it in tin foil - stops the buzzing (by protecting unshielded components).So if you can live with it wrapped in tin foil, there is virtually no line noise.  The stupid blue lights and transparent case seem to have been more important than properly shielding the case or wiring. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works OK for the price paid </p>
+
+
+<h2> review.date </h2>
+  06-22-2009  
+<h2> review.text </h2>
+
+ <p> I bought two mixers, one was this one, one was a used Xenyx 1002pro mixer, both about the same money. My applicationwas mixing PC sound card output back into the MIc input so that I couldplay records and various PC sounds back to my Skype friends (no, I couldnot make that up).The unit certainly does what is after all a simple job, being a threeway mixer without distortion. To address the other reviewers "problems",if you do not like the fact that the speaker out cuts the headphones off,which is after all a feature, it means you are trying to use that tooutput to two devices at once. Buy a simple two-to-one jack and this willdo the same thing.For the dude who was trying to plug a mic in, PC headset/miccombinations, or any PC mic, needs a bias source. The PC mic in providesa +5 volt bias voltage to the mic, or else it would not work. Rigyourself a bias source by running a battery through a 2.2k resistor tothe ring lead (not tip or shell) and you can use it for this unit. Seevarious pages on the web for more information. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine </p>
+
+
+<h2> review.date </h2>
+  07-30-2013  
+<h2> review.text </h2>
+
+ <p> I've had this little mixer for around a year, and have been please with it. If you've got two or more PCs that you want to connect to a single amp with only one set of inputs (or a single set of headphones), then this is a nice and inexpensive solution for you. The three stereo inputs are more than ample for my setup, and I route the output to the Altec Lansing amp I have. When it gets late, I just plug in the headphones and the external output automatically mutes - a nice touch.Note that this is just a mixer, it's NOT an amp. It won't boost your output, so if your PC output is quiet and you want it to be louder, this won't help you - you still need an amp.The one thing I found annoying about this is the insanely bright blue LED that lights up a dark room. Fortunately for me this burned out some time ago, but without effecting any other functionality of the mixer, which continues working just fine to this day. If this had an amp built in (and the ability to turn off the LED), then this would be perfect. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice, inexpensive mixer for multiple PC setups </p>
+
+
+<h2> review.date </h2>
+  01-20-2012  
+<h2> review.text </h2>
+
+ <p> Well, it "works" for what it does. But the sound quality is sub-par in my opinion. It seems to down-grade the quality of any signal going into it, plus seems to have grounding issues: has a bothersome hum and distorts the audio signals for me. Wish there were more alternatives in this form/function: multiple 3.5mm inputs to outputs. Price actually seems a bit high for the quality as well, as does the shipping costs. Will have to keep looking, or build my own...Oh, and if you want to light up a room with the blue LED's inside the transparent case, it will serve you well. At least put a resistor on those LEDs and tone it down (didnt really want a flashlight/mixer combo)! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not really happy with this </p>
+
+
+<h2> review.date </h2>
+  12-22-2007  
+<h2> review.text </h2>
+
+ <p> Got this for a variety of mixing tasks, but mainly to have a way of feeding multiple devices into an amplifier.  It works great for line-level input and you can take the headphone output into at least some PCs.  It won't work as a microphone mixer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice little mixer </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

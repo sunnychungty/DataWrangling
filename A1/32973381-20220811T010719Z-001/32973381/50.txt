@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0027JRXF2 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-18-2013  
+<h2> review.text </h2>
+
+ <p> I have a couple of smaller lowepro bags and they served me good. Now that i'm shooting weddings and hauling alot of gear, I needed a much bigger bag that is both safe and roomy. I actually bought three bags from three different manufacturers in order to make my decision with no regrets.I currently have the following bags:1) Lowerpro X300 ($399)2) ThinkTank Airport Security v2.0 ($395)3) Tamrac 694 ($523)To be fair, i will compare the X300 to the Airport Security since they're identical in price and have almost similar size. Here are my findings:Pros of the X300:- Softer handles which gives a nicer feeling when lifting the bag fully loaded.- Bag can serve as a tripod/light stand.- Bag can stand up in an angle for easy access.- The laptop compartment is padded and has a zipper. The TT's laptop compartment is just an open pocket with no zipper or padding what so ever!- Main compartment can come out which makes for an extra bag which is a very handy feature.- Bottom of main compartment is flat with no depth variation. TT on the other hand has this very annoying change in depth (around 1.2" difference) which i really hated.Cons of the X300:- Extremely cheap plastic wheels vs extremely smooth high quality rubber ones on the TT.- Handles are not easy to hold. I have medium size hands and i can barely fit my hand all the way in the handle!- Interior depth is too shallow. I can fit the following equipment in a vertical position inside the TT: Canon 70-200 f2.8 IS II, canon 24-70 f2.8 L I with hood attached, all my speedlites fully open including the huge 600ex. I cannot do this in the X300.- X300 will get you in trouble with trying to get it on a plane as a carry-on.- X300 is noticeably bigger than the TT, BUT the TT will take more equipment because of the depth.- Finally the build quality of the x300 is just awful in comparison to the TT knowing they are the same price I was totally shocked! I'm talking about material finish, look, feel, wheels, zippers, padding, handles, ..etc.I wasn't really impressed with either bags, so i finally ordered the Tamrac 694 which is the one i ended up keeping. One very important thing that sold me on it is the fact that when you open the bag's main compartment it opens to the side and it has stoppers to keep it an almost vertical up position. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Totally Overpriced compared to ThinkTank </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> I looked for about a year before I bought this bag.  I knew I wanted a roller bag because of the size I felt I needed.  I like the quality of construction as well as its features.  I have two other LowePro bags.  I only changed to a larger size as I out grew one.  I suspect I will have to quit taking everything every time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lowepro Pro Roller x300 Camera Bag (Black) </p>
+
+
+<h2> review.date </h2>
+  11-26-2013  
+<h2> review.text </h2>
+
+ <p> I have always been a fan of Lowepro. Bag has performed awesome so far. So much so that I want the pro roller x200 as well lol. The only issue I have had so far after a few months is some abrasion on the bottom of the bag due to rolling the bag on uneven ground, causing some chipping in the plastic casing around the wheels. Would definitely reccomend. It is big enough for me to carry 6 bodies, lenses for all bodies plus extras, magic arms, pocketwizards, 2 flash units and more. Perfect for covering NBA games. Though, the bag is very heavy with all that equipment and not airline carry on sized or weighted. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AWESOME </p>
+
+
+<h2> review.date </h2>
+  03-24-2014  
+<h2> review.text </h2>
+
+ <p> More like a medium sized suitcase!Warning: This might not be allowed on a plane as a carry on. And then maybe it will...You want to carry everything in one bag? I really doubt a camera bag can get any bigger. This is it...It's a nylon bag not designed to be run over by a truck. Also I don't think it's meant for long rugged terrain. As a roller, I'm sure the average DSLR can take the rolling vibrations and occasional bumps, but if you're the type that throw/swing/bang things around, then go get a Pelican case. Then if you're careful of your belongings, and need/want to carry almost EVERYTHING, then this is it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BIG Camera Bag! </p>
+
+
+<h2> review.date </h2>
+  07-06-2011  
+<h2> review.text </h2>
+
+ <p> Buy it  you  will love it.  I like it only  thing  the wheels  could be  a little biger  because it your crossing across  gravel  it drags  there is a plate  there  but I do not want nothing I paied  this much for draging . Other then that I love it, alot of  room  in it  . It is  worth it  to me . I would buy it agine YES. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best  thing  going </p>
+
+
+<h2> review.date </h2>
+  01-19-2013  
+<h2> review.text </h2>
+
+ <p> I'm in love with this bag.  It has so many pockets for all my accessories.  The wheels are smooth.  The feature I got it for is the ability to remove the inner compartment and use it as a backpack AND you can still use the wheeled case since it has another flap to zip it up.  I LOVE this case! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Whoa!  Brilliant! </p>
+
+
+<h2> review.date </h2>
+  10-14-2012  
+<h2> review.text </h2>
+
+ <p> I am a part time professional photographer. As any photographer can attest, you will one day find yourself surrounded by many gear bags. It just happens. After culling my most recent collection, I was left with a Domke 700-02A F-2 Bag (Brown Waxwear Finish), a Lowepro Fastpack 350 (Black), Lowepro Stealth Reporter D650 AW Camera Bag, a Timbuk2 Commute 2.0 Laptop Messenger Bag (modified with a Timbuk2 Snoop Camera Insert), and now the Lowepro x300 that replaced my Lowepro Pro Roller x200 Camera Bag (Black). As any photographer will tell you, there are specific bags that meet specific needs and your needs change all the time.I upgraded from the Lowepro x200 (older model than the current line). However, the upgrade was of very minor benefit and I would not recommend it to anyone already owning the X200. The older series of the Pro Rollers had a slightly different design. For example, their was no ad-hoc backpack option though the compartment was removable. The wheels, though not replaceable, were slightly larger. There was also two interior flaps to the bag, offering slightly more space for smaller items. In my opinion, the interior size of the X300 and X200 (older line) is so similar I can barely tell the difference; so, if you are looking for a major size upgrade, you will be disappointed. Comparison between the older X200 line and the new X300 aside, the Pro Roller X300 is a great bag if you have the need. As you can see from the photo I uploaded, quite a bit of gear fits in the bag. Of course, this is not a street shooter's bag, in which I prefer my Domke F-2. More likely, a pro wedding photographer may find use for at least two or three of these bags at an event. It's a great bag to stage from; for example, loading all your gear to travel with and then using a smaller bag for daily use- pulling gear from the X300. The bag also functions very well as a place to keep your expensive gear at your house, centralized and safe.The bag provides great functionality and customization with the typical Lowepro quality you would come to expect. Like previous models, this model has a kickstand to keep the bag at an angle as you work from it. It can also function as an ad-hoc light-stand and tripod, which you will eventually find useful. The padding of the bag provides exceptional protection and the interior organization compartments are incredibly useful. Unlike older models, the material behind the organization compartments is bright, making it easier to see any dark or small items. The addition of memory card holders as part of the bag is a very nice addition as is the flap pocket and business card holder. I found the wheels too small as did other reviewers. The wheels are great for paved use, but nearly useless on gravel or grass. I also believe the bag could have been a little bigger interior wise.Summation: all in all the bag is a great buy providing great Lowepro quality that would withstand service in a war zone. I cannot comment on how the bag travels on airlines since I have not yet traveled with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect Event Bag </p>
+
+
+<h2> review.date </h2>
+  11-09-2011  
+<h2> review.text </h2>
+
+ <p> This bag is exactly how it is described on the website! What else can I say! It snugs in my Camera and all my lenses (about 5 of them) and still leaves a lot of space! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fabulous Bag! im so glad I got this! </p>
+
+
+<h2> review.date </h2>
+  05-05-2014  
+<h2> review.text </h2>
+
+ <p> this bag is just what i was looking for.  it's HUGE, you will NOT be taking this puppy on as carry on luggage on any plane i've ever flown in, BUT, since i don't need to do that anymore this bag is a Godsend!  Large, very roomy, solidly built, great wheels and handle.  I have ZERO complaints and thats a first. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> oh boy oh boy! LOVE IT! </p>
+
+
+<h2> review.date </h2>
+  07-11-2010  
+<h2> review.text </h2>
+
+ <p> I have a few smaller bags, each serving a purpose.The past year or so I have been carrying three bags on a small ladder kart to haul my gear around at weddings, baptisms, etc.I felt like I would either forget which pouch had items in it or that it looked unprofessional to carry a mishmosh of bags.I was thinking of going with Pelican hard cases, or even Tamrac as I prefer their bags over Lowepro.I wish this bag had larger wheels because it seems as though the bag would wear down if dragged at the wrong angle.Apparently, Lowepro thought of this too because the bottom has hard plastic to prevent any material from ripping.The wheels are removable which is a big improvement over bags they made in the past..  There aren't an abundance of pockets which I was shocked with, but in thinking about it it's less stuff to lose (I cannot tell you how many lens pens I have).These companies always supply tons of dividers which I always end up ripping out.  I am sure that many of us can make our own bags with extra dividers we have laying around!The zippers on the bag are rugged and I have no doubt they will stand the test of time.A lot of thought went into this bag from the kickstand and tripod mounts I will hardly utilize to the handles on three sides of the bag for easy lifting (if you discount the weight).Make no mistake about it, this bag is HEAVY and is NOT an everyday bag.  However, for weddings, etc. I highly recommend it.My gear for reference:(2) Olympus E3's with battery Grips(2) FL50 flash units14-45mm14-54mm50mm macro50-200mm35-100mmLight meterHyperdriveQuantum power pack(2) lacrosse AA chargersSony mini DV camcorder43" 5-1 reflectorLaptopCables, cables and more cables(2)flash brackets from Demb.Cleaning pens, clothes, etc. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Event Bag!!!!!! </p>
+
+
+<h2> review.date </h2>
+  08-10-2011  
+<h2> review.text </h2>
+
+ <p> This is one of the larger roller camera bags I have seen, which is what I wanted. I use this for airline travel as well as local transport of my gear for on-location shoots, like wedding and portrait work. Good solid construction. Good ability to remodel the inside to fit lenses, cameras, flashes, etc. This carries all my flash gear, three camera bodies, 5 lenses (15mm fisheye up to a 70-200mm lens), and all my other paraphernalia (wireless triggers, batteries, various charging equipment, CF cards, etc). I am extremely happy with the construction and setup of the bag.Other thoughts: About 50% of the time TSA rifles through it and leaves their little notes. Slightly more expensive than the ThinkTank option but also a bit larger for more equipment.Very happy with my purchase.Terry[...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great bag. </p>
+
+
+<h2> review.date </h2>
+  12-08-2012  
+<h2> review.text </h2>
+
+ <p> It holds and does everything I need it to, and more!  I love that it can be turned into a backpack and separate luggage bag when I need more storage.  Awesome for travel! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great case! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

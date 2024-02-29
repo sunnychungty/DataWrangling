@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B008JEJSH0 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> # 5 Is The Weakest Forbidden Hollywood Collection </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-16-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Volume 5 has no extras, & the films are the weakest in the series.  The best film in the collection & worth the price is "Ladies They Talk About" with a great cast:  Barbara Stanwyck, Lillian Roth, Preston Foster, & Lyle Talbot.  A woman-in-prison film.  The scene where Roth shows Stanwyck around the jail is a pip!James Cagney is the star of "Hard To Handle" but it is lesser Cagney & he is not his usual dynamic self.  (Why Warner's chose this over "Blonde Crazy" is unfathomable.)."The Mind Reader" is a good Warren William film in a usual part as a swindler."Miss Pinkerton" has Joan Blondell as a mystery solving nurse in a film that's just OK.I am a big Pre-code fan & the only film on this I would watch again is "Ladies They Talk About", which is also the only film in the set that was previously available on home video. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great movies </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> any movie buff would love these movies, forbidden or not they are worth their price give much more enjoyment then going to the movies </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not as good, and yet some good </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> FORBIDDEN HOLLYWOOD started out strong: vols. 1 & 2 were essential, ground-breaking, even eye-popping -- demanding a rapid reassessment of the early sound era in terms of story, attitude and achievement.Vol. 3 was nearly as good. The films weren't quite as essential, but still ran high for entertainment, not to mention surprising appearances by actors known for later work.Vol 4 gave us nice servings of William Powell and Kay Francis [together and separately] but too much David Manners -- a pleasant actor, but not a sufficient leading man for one film let alone two.Then comes Vol. 5, which continues vol.4's third-dip philosophy. The films are nobody's best or most interesting films, but ones you may want to see as well:HARD TO HANDLE: The most interesting part of the film is the opening dance marathon. When this fails, Cagney spends the rest of the film alternately losing & winning approval from his prospective mother-in-law. In this way, it's really more Ruth Donnelly's film that Cagney's .No real Pre-Code element but it is an interesting portrayal of Depression times. 6/10LADIES THEY TALK ABOUT: Barbara Stanwyck goes to a women's prison, which is filled with lots of interesting characters -- in impossibly large quarters, but this is Hollywood. The problem though is that they forget to create a plot: nothing actually happens while she serves her term. Pre-Code elements: one lesbian character. 5/10THE MIND READER starts out strong, then fizzles into an episodic progression whose ending isn't really any more final than any of its episodes. Some decent acting, and it's always nice to see Warren William, but [like HARD TO HANDLE for Cagney] this isn't his best role nor a terribly unified film. Pre-Code element: nothing really, except that it stars Warren William. 5/10MISS PINKERTON proves to be a mystery with all the depth & manner of a Nancy Drew mystery: lots of running around, characters change their attitudes completely from one line to the next, cursory investigation immediately turns up clues, etc. But that doesn't really matter; despite the fact that Joan Blondell seems fresh out of acting class, she's still cute as a button and great fun. Everyone else is wooden ridiculous or wasted [George Brent almost manages to stand out], but brisk pacing and Joan's bright presence keeps it entertaining. Pre-Code element: one clothes-changing scene. 7/10 </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Forbidden Hollywood </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Number 5 in a series of great old hollywood movies.  I have them all and enjoy everyone ~ too bad they don't make movies like this anymore.. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> forbidden hollywood </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> the films were excellent. the acting was top notch and the production values were wonderful. jewel robbery was my favorite. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Forbidden Hollywod </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I think it is one of the best Barbara Stanwyck movies I have ever watched.  It is up there among &#34;Ball of Fire&#34; and &#34;Walk on The Wild Side&#34;.  Truly great acting from one of the great Ladies of Hollywood's past.  Highly recommend it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> What's so "forbidden" about these films? </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought Volume 5 of the "Forbidden Hollywood" series strictly for "Ladies They Talk About". I have that title on a laserdisc set so I wanted to replace it. It is the only film in this set that has any essence of pre-code liberties. Barbara Stanwyck in prison with a bunch of stereotype female inmates, including a brief shot of a "dyke-ish" lesbian. And the storyline is fairly interesting. But the other three films have nothing about them to distinguish them as "pre-code". The closest that "Hard to Handle" comes to it is James Cagney sneaking into Mary Brian's bedroom and sitting on her bed with her. And then there's Cagney in one brief scene running around in a pair of tight fitted boxer shorts. "The Mind Reader" has a suicide scene that I suppose could be considered controversial. But "Miss Pinkerton" has nothing shocking or 'naughty'. Also, in general, none of the films are very good. WB Archives is really stretching it to classify these titles as "forbidden". </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nothing "forbidden" seen yet </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a HUGE fan of the 1930s movies, and have some of the precode movies; this package is the first one I am disappointed in what I have watched so far.  The Mind Reader had nothing that my husband and I could tell was scandalous; the only little thing that the James Cagney movie had in it was when he was caught having breakfast with a woman.  I've seen the Barbara Stanwyck one on TCM, and I like it.  I am hoping another volume that I ordered will be better. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Really good pre-code films. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-19-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have so far purchased all of the Forbidden Hollywood pre-code sets. The first three sets are great, while set four is mediocre. Set Five falls somewhere in between with the best two films being &#34;Hard to Handle&#34; and the really good &#34;Ladies they talk about&#34;. Nobody did Pre-code better than Barbara Stanwyck and this is her show. It does make me wonder where these sets will go in the future as the best films already seem to be represented. Skip the fourth volume in this series...it isn't worth the money. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> loosing ground </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-31-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am somewhat disappointed with the last two volumes: 4 and 5. The first two volumes had "forbidden" qualities easy to notice. The last two volumes require some "stretching". Again, like in volume 4, there are no features, no bios, no commentaries, nothing extra. "Ladies They Talk About" with Barbara Stanwyck is the gem from this particular pack. I wish the series would stick to the quality it had from Volume One! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

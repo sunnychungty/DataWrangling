@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0000640TH <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Great Show </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very enjoyable show for any George Jones fan!  I highly suggest this show for anyone that followed his career during the many years he performed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> george jones live in tennessee </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-10-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> what can you say about the "POSSOM" my all-time favorite country singer. close to 90 years old and still doing live shows. i was ecstatic to get this dvd of such a living legend. great condition arrived early no problems with order. would order from the again anytime thank you AMAZON you are the best , keep up the good work. sincerely mike beaver </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Are you a true George Jones fan? If so you better have this DVD. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> George Jones the Possum as he was called all his life. One of the old pioneers in the country music business, and in my eyes oneof the best. Georges music through the years touch the ears of many ages. This is a awesome DVD and a must have for the fanof the old Possum. Great seller, quick delivery. A+++++++ </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> George Jones </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is an especially good DVD of a great singer.  There is no one else who could sing his songs the way he did.  Glad I got this. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best of the best </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> What a crowd of fans ,what a show ..George interacted with the fans all through the performance. The band was at it's best , I have seen George in person several times and this was no different .Rest in peace George Jones as your music plays on .I own a piece of Country Music history . </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> noone can sing country music like george </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-31-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> George is quite simply the best country singer. This concert was taped a few years back but shows George in good form. Long live country music and George Jones. He came really close to not being with us but he lick his alcohol and drug problems and many people are glad he did. Thanks for all the songs you made famous. He sings for everyday people. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> George Jones- Live in Tennessee </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-17-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> George Jones on this live dvd has a lot of fire in his preformance,he shows how good a live show can be, the video quality is not that great but the audio quality is much better. Buy this dvd you want be disapointed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A must have for and Country Music fan..... </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-04-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is it folks, a must have for a C&W fan. The Possum sings all of his big hits on this one with his voice as smoothe and crisp as ever. The sound quality is excellent except for the over dubbing of crowd applause that is more than occaisionally annoying. The only other flaw is the poor quality stage lighting makes a complete mess of the color production. The Possums Jones boys led by the ever faithfull to GJ, Ron Gaddis is tighter than ever on this one. I notice Mel Tillis' lead guitarist helping out here and a fiddle player from N.C. that is without question the finest that I have ever seen. Combined with the finest players in the land and the finest C&W ballad singer in the land, this is Country at its best. I will share many enjoyable hours with my friends enjoying this one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GREAT show! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was fortunate enough to see George Jones in concert and was looking forward to seeing him during his farewell concert tour until we heard the sad news of his passing.  This is a great concert DVD and reminds us of what a great show he put on and how great that voice was! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> review for George Jones live in Tennessee </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I received the dvd in a timely manner and it was just great. I enjoyed seeing George in concert and will keep thie always. I especially enjoyed it as now i have a permanent reminder of the times i saw him and his great band in concert through the years. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great song </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> . . If your a George Jones fan then this is a good Dvd to have in your collection highly recommend this one </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Gift for Mom </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm a fan, but my Mom is even a bigger one.  She plays this on a daily bases and LOVES it...  It's a must purchase for any fan of George. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

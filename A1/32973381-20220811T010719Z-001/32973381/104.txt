@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B004WKSY1G <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-19-2012  
+<h2> review.text </h2>
+
+ <p> I have to say I was intrigued by this product. What I like the most about the Mcube Slim 95 is its versatility. The product comes with nine interchangeable tips. It was workable with my HP, both my daughter's Dell's, and I even went out to an old file cabinet in the garage and pulled out an old IBM Think Pad laptop that ran Windows 98 and the product had a tip for that. It was actually kind of fun to fire that dinosaur up and see what was on it.It's very user friendly, just plug in and attached to your laptop. It also has a USB port so that while you're plugged into your computer you can also charge your phone or Ipad. This would be a great item to take on a trip as it's small and, shall I say it again, versatile. There have been times when on a business trip I had to travel with multiple laptops that would be used during presentations at the same time. This way I would not have to carry multiple chargers.There is one thing that irritated me though. In the instruction book it offers a "Free Tip Program", meaning if none of the nine supplied tips work you may contact the manufacturer and they will send you a "free" tip....., just pay shipping and handling. Sorry, but if the manufacturer is offering a "free tip" shouldn't it be FREE? Shipping and handling would probably be more costly that the tip. I hate it when something is claimed to be free when it actually will cost me something. Fortunately I didn't need to contact them to get a "free" tip. But believe me, there would have been harsh words if they tried to charge me for s/h.Enough of the rant, again this is a great product that offers versatility and convenience. I would highly recommend it to a student of business traveler. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A very handy-dandy universal adapter/charger </p>
+
+
+<h2> review.date </h2>
+  11-05-2013  
+<h2> review.text </h2>
+
+ <p> This universal charger is nice and light, however, the power output is not enough for some HP Notebooks, you receive a message from the PC saying that this charger is not compatible with your machine, however, despite that it supplies the power to run the system but cannot charge simultaneously.The second issue, the USB outlet cannot charge Ipad, it is good only for Iphone and some Samsung phones </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Working Fine </p>
+
+
+<h2> review.date </h2>
+  03-18-2012  
+<h2> review.text </h2>
+
+ <p> I would love to be able to use this and to keep it in the car like others have suggested (or even downstairs, as my laptop charger is wired through my upstairs desk), but...unfortunately, I can't. I was excited to get this, as the product description makes it sound like it will work with everything, and there was NO disclaimer regarding Macs. When I unpacked it and went through the tips, I realized that I cannot utilize this after all. I am kind of bummed at not being able to use it, but hopefully this review will keep others from making the same mistake.The manufacturers should rectify their error regarding the description as soon as possible. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Mac-compatible </p>
+
+
+<h2> review.date </h2>
+  02-22-2012  
+<h2> review.text </h2>
+
+ <p> I love it.  This is a very light weight EXTRA power supply for laptops, iPhones/iPods.  I agree that the description is a little confusing making it sound like this is more of a power pack, but when I got it, I was very happy with the product.  Tried it with an HP and Samsung laptop it it worked perfectly on both.  Also connected an iPhone, iPad, and iPod, and it will charge all of those units.So, here's what I like:1.  This unit weighs less than the chargers that came with either laptop I've got.  This is a big plus for me.  I want to carry around as little weight as possible.2.  This unit is also small, and doesn't take up a lot of room in my backpack, which is another plus.  I can use it to charged different types of laptops, though I don't have a mac book, so can't speak for that.  If you need a different connector than the variety that came with this, contact the company and they claim they'll send you what you need.3.  This unit came with a case to keep everything organized.4.  You can use it to charge a USB device and laptop at the same time.I took a star off because the product description needs to be clearer.  There's nothing at all wrong with this unit.  In fact, I'm planning on using it a lot to cut down on the amount of things that I need to carry around.So, there you have it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Light Weight Power Supply </p>
+
+
+<h2> review.date </h2>
+  03-02-2012  
+<h2> review.text </h2>
+
+ <p> I use my Dell Laptop as a desktop replacement. To avoid the great mess of wires that computers often bring, all of my power cords and other cables are all cable-tied behind my desk.That makes being mobile with the laptop a little bit harder. The Mcube Slim 95 solved that problem by being a second power supply for the computer. It works as advertised in the product description. The Mcube uses the classic 'change-a-tip' system that has been around since the AC adapter you bought for your cassette Walkman in the 80s :)They have a program that claims it will provide a free tip if you have some obscure computer that the included tips don't match. I've got a Dell--so mine was included.The other advantage here is additional USB power port. When my wife and I travel, we find ourselves taking a laptop and then a cable to charge phones and tablets off of the PC. That gets somewhat cumbersome, especially if we need to charge more than one thing at a time! So, the port works handily in that case.I did not find any problems with this product--it also provides the advantage that if I switch to another model of laptop next time, hopefully this will still be compatible. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I am mobile again </p>
+
+
+<h2> review.date </h2>
+  12-17-2012  
+<h2> review.text </h2>
+
+ <p> They call this a "Universal AC Adapter". The feature list says it's "compatible with popular brand notebooks". But the best selling notebook manufacturer is Apple and their machines are not compatible. I know that this is Apple's fault for not licensing their proprietary connector. But I feel like Innergie makes an effort to hide that. The description leads you to believe it's compatible with everything. There is no list of compatible machines or a link to a list elsewhere. The name and physical design are reminiscent of Apple. Everything about the description and design of this device would leave you to believe it's compatible with MacBooks. But it's not and they don't make it easy to find that out. I think it's intentional deception.For non-Mac devices it's quite nice. The USB charger is 10 watt which means it can charge an iPad or rapidly charge a newer iPhone. It'll charge faster than the AC adapter that is bundled with iPhones and faster than the USB ports on most non-Apple computers. It's smaller than the AC adapters that most PC makers provide.It's a good device if your laptop is supported but you'd better dig around their site first and check. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Mac-compatible </p>
+
+
+<h2> review.date </h2>
+  03-14-2012  
+<h2> review.text </h2>
+
+ <p> I own several portable devices and it's nice to be able to just carry one adapter.  The beauty of this Mcube Slim is that it's light, it's pretty cute and modern looking, unlike the typical adapters that come with computers.  The adapter can also charge two devices at a time.  There are 9 tips included to match different manufactures and if your device doesn't have a matching tip, the company offers a free tip by going to [...].  The box comes with a storage bag where you can put the adapter, cord, and tips.  The tips actually come with a small drawstring pouch.  It also comes with a three-year limited warranty.  RedDot Design gave it an Honorable Mention Award in 2011, Universal Design named it a Consumer Favorite for 2011, and it received Design and Innovations Showcase Honors in 2011 from Innovations Internation CES.  The only thing that I didn't like too much was that after about 2 hours of use, the adapter was very hot to the touch.  I'm not sure if this will affect performance in the long run but I hope not because I'm very happy with this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute portable adapter </p>
+
+
+<h2> review.date </h2>
+  02-23-2012  
+<h2> review.text </h2>
+
+ <p> How many times have I quickly grabbed one of my laptops or other gadgets, slipped it in the case, and forgotten about the charger.  I'm keeping this Mcube Slim 95 in the car, and I will avoid these charging disasters.  This is so nice because it's tiny and it comes with a double zipper carrying pouch.  I may just leave my other chargers plugged into the wall permanently and use this one whenever I travel.Charging tips for Acer, Asus, Compaq, Dell, Fujitsu, Gateway, HP, IBM, Lenovo, MSI, Samsung, Sony, and Toshiba are included.  If you have a less common laptop and the tip is not included, then Innergie states that they will create one for free (as long as it's not an Apple).  The reason that this product won't work with Apple is because "the apple laptops utilize a proprietary MagSafe connector that is not currently licensed to any third party.."This is compliant with RTCA DO-160F for use onboard aircraft.  Here are the included tips:Laptop Manufacturer - Tip IDAcer - A, GAsus - A, BDell - C, GFujitsu - A, EGateway - A, GHP/Compaq - A, B, F, IIBM Lenovo - A, DLG - AMSI - APanasonic - A, ESamsung - JSony - EToshiba - A, HUSB </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great to have in the car </p>
+
+
+<h2> review.date </h2>
+  04-24-2012  
+<h2> review.text </h2>
+
+ <p> If you've ever had a power adapter for your computer fail on you or get lost, you understand the importance of having a spare one on hand for your device, be it a netbook, laptop, tablet, etc. The idea of a universal power adapter with tips for several different computer brands and models is even better.So it is that when I saw the Mcube Slim 95 universal power adapter, I knew I wanted it. Before I ordered it, of course, I checked Innergie's online tool to be sure it was compatible with my laptop, an HP dv4-1140go, and it was.Unfortunately when I tried to actually use it with my laptop, I found that it doesn't work at all. Yes, there is a tip that fits it perfectly, but it just doesn't provide any/enough power to the HP dv4-1140go.Conversely, myASUS Eee PC 1000HE 10.1-Inch Black Netbook - 9.5 Hour Battery Life, which is not actually listed in their online tool as a supported device, works very well with it.The adapter itself is very nice. It includes a little carrying case that is compact yet roomy enough to hold all the tips and the cable itself. I even fit the manual inside the case by folding it in half once.I have to say that this cable failed me since it doesn't actually work with my laptop even though their tool states it does. If I had purchased it, I would have returned it because of that. However, if you are lucky enough that the device you need it for does work with it, then you will find this a really nice compact power adapter. The trick is how in the world do you verify the compatibility before you purchase it if their online compatibility tool isn't accurate? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice adapter, but online compatibility tool is not accurate </p>
+
+
+<h2> review.date </h2>
+  02-23-2012  
+<h2> review.text </h2>
+
+ <p> This thing is fantastic for PC/Laptops, not so much for newer Macs due to no mag-connector tip. That being said.I have several laptops, my wife has an Asus netbook, she has an old HP laptop that we still keep. I have an old dell laptop, and I have a new IBM laptop and there are connectors that fit EACH of these.I also have a very old Mac powerbook and it has the barrel power connector, one of the tips fits that fine, however the newer macs all have the mag power connectors so those will NOT work.This really is a great universal power block. It powers all my laptops and even comes with 2 bags. 1 bag has zippers on 2 sides and is separated into 2 parts. on one side you stick the power block which is pretty small. On the other side you can stick the cable and tips. The tips themselves all come in another little pouch so you don't lose them, it's a great functional design and I immediately put this in my work travel bag that I use when traveling as it will replace my typical OEM power cord that came with my work laptop. The reason is because it fits so many other laptops and there is always someone I am traveling with that forgets their power cord so this will help out greatly.I didn't even mention the fact there is a USB power jack on the power brick itself so not only can you use this for laptop power but you can also charge a usb device (or powered usb hub if you use one) without lots of extra cables.If you have a lot of laptops or travel with others and they are forgetful this is a great gadget. If you just need a replacement power cord for your laptop I'd go the route of OEM as it would probably be cheaper, however in my case this is small and VERY functional. I would recommend for business users that don't want to lug around various cords as they travel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for my several windows laptops! - From a business users perspective </p>
+
+
+<h2> review.date </h2>
+  04-21-2012  
+<h2> review.text </h2>
+
+ <p> I was not sure how to review this item until my Asus laptop power supply developed a short and this item fortuitously became needed.  This slim, lightweight power supply has filled in nicely.I do not find the USB port very useful as my laptop has 4 USB ports and I have never needed more.  The cord is sufficiently long, but I would prefer it to be a bit longer.  It comes with a variety of connectors, one of which was a good fit for my ASUS laptop.  It works well so I recommend it for those who need a replacement power supply for their laptops or just one that is smaller and lighter than their original one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Laptop Power Supply </p>
+
+
+<h2> review.date </h2>
+  02-22-2012  
+<h2> review.text </h2>
+
+ <p> When I read the description for this product, "If it's power you need, then with the Innergie mCube Slim 95, it is power you'll get. The ultra-compact design is stylish and powerful with a 95 watt output, compatible with most popular brand 18-21 volt laptops. In addition to the 95 watt power capability, there is also a 10 watt USB port for charging your iPad or other media devices. Ships with 9 connectors for different manufacturers and charger is energy efficient with multiple built-in protections.", I felt like the description was a bit unclear.  I checked the company's web site and read pretty much the same description.  Since I wasn't completely clear, I should have known I guessed wrong.  This device is simply a power adapter.  Instead of plugging your devices into the wall, you plug them into this device.  You can charge two devices at one time.Unless you don't have a wall charger for your electronics device or you need to plug into an unreliable power source, I can't understand why you would need this.  There could be reasons, I just don't know what they are.  I have a variety of devices, from iPods to tablets, netbooks to laptops.  I still don't feel like I will get any use out of this.  I mistakenly thought this would provide power, a battery to be charged and used when no outlet is available.  My mistake, yes, but I still don't feel as though this would be very useful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not useful for me. </p>
+
+
+<h2> review.date </h2>
+  04-26-2012  
+<h2> review.text </h2>
+
+ <p> I have many laptops from work and have tried this on them all.  It has worked flawlessly on every one except an older Sony and an old Apple Powerbook.There isn't much else to say, except that the quality is great as well.  Solidly built, great size and just plain works. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits almost anything I have tried... </p>
+
+
+<h2> review.date </h2>
+  07-24-2012  
+<h2> review.text </h2>
+
+ <p> I really wanted to like this adapter because it looked sleek and compact and seemed to have every possible connection. However, it ruined two laptop batteries on two different notebooks (an HP and an Acer).  After plugging the charger in the notebook, it appeared to be charging the battery.  However, after unplugging the charger and going back to the regular notebook charger, the battery showed that it was not charging.  Believing that the issue was an isolated coincidence, I tried it with another laptop and got the same result. The only fix was to replace the batteries which were apparently damaged by this charger. Based on my experience, I cannot recommend this charger. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ruined Two Laptop Batteries </p>
+
+
+<h2> review.date </h2>
+  09-10-2013  
+<h2> review.text </h2>
+
+ <p> This Innergie power brick is a decent replacement for your laptop's oem power brick. It also comes with a nice usb charger for your cellphone/tablet/ipod. The output is more than enough for a laptop and there are nips for almost all laptops. Just remember to keep the guide so you know which nib is used for which make laptop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent Power Brick </p>
+
+
+<h2> review.date </h2>
+  03-15-2012  
+<h2> review.text </h2>
+
+ <p> In a nutshell, it's essentially a power cord.  But the appeal is that it's your last and only power source needed. They put a lot of work into this, and I sense their desire to truly cater to everyone.  You can charge or plug in virtually anything from notebooks, to mobile devices, and whatever electronics that need power.  With a plethora of adapters, in a thoughtful carrying case, it's unlikely that you would need anything else.  The kicker here is that if you have something that you cannot plug into it, they will literally find a way to do it, and just send you whatever add on or adapter you need. That dedication alone is worth the list price.  Knowing that you are good to go with one power source, and all the devices you want to bring, makes everything lighter and easier to manage.  No tangled messes and recharges are quick. So, it's great in any bag, with no bulky parts, and secure in it's own nylon pouch.  You can boast that it's great for on the go, but seriously, this thing is the epicenter of power in my home, and thrilled to free up the need of a power strip. I am in intrigued by Innergie and look forward to see what other products they have developed or coming in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great space, weight and time saver. </p>
+
+
+<h2> review.date </h2>
+  03-14-2012  
+<h2> review.text </h2>
+
+ <p> When traveling I have multiple pieces of technology with me; such as a laptop, a tablet, and a cell phone.  Up until recently, I would have to pack chargers for each of these items.  The Mcube Slim 95 has made it possible for me to pack just one charging device for all of my equipment.  Many small, slim chargers have a lower output.  For example, I have both Dell and HP travel chargers, with an output of 65 watts.  That is enough to power the laptop, or to charge the laptop battery when it is powered off.  However, you need a 95 watt adapter in order to both power the device when in use, plus charge the battery simultaneously.  The Mcube Slim 95 provides all of the wattage that I need, in a much smaller package than my 95 watt HP and Dell power adapters/chargers.  Plus the Mcube Slim 95 also offers a 10 watt USB charging port; perfect for tablets (aka" iPod) and cell phones.  So instead of packing 3 different power adapters/chargers, I can now pack just the one; the Mcube Slim 95.Now luckily the Mcube charger came with every tip that I needed for my equipment.  Unfortunately this will likely not be the case for everyone else.  It comes with 9 of the more popular charger tips, for manufacturers such as Dell, HP, Toshiba, Samsung, Sony, Gateway, etc.  The manufacturer claims that if you need a different tip they will make you one.  Well I guess I have my doubts in how timely of a manner they would be able to do that.  Overall I think many laptops and cell phones will be covered just fine.  However, tablet users may be left out, especially if you don't own an Apple iPad, a BlackBerry PlayBook, or a Barnes & Noble Nook.  But if your tablet or cell phone uses a USB type charger, then you should have much problem anyway.  For instance, I have a Samsung Galaxy Tab 7.7, and I just use the USB charging cable that came with the tablet, and it plugs right into the Mcube Slim 95 USB charging port.  Now it would be nice if the charger came with the correct charging tip included, but even though it doesn't I can easily use the proprietary cable that came with my tablet.  I really like the fact that the Mcube Slim 95 comes with a nice storage pouch as well.  That really helps to keep everything organized.Overall I would highly recommend the Mcube Slim 95, for anyone that travels with multiple chargeable devices.  I can't give it 5 stars, because I still think it has some room for improvement; mostly regarding the tips that should be included for some popular devices on the market today.  As for me, I am extremely happy with the product.  I know slip my tablet into my laptop case, have my cell phone on my hip, and only have to pack the one power adapter/charger for all three of my travel devices.  Sure, the Mcube Slim 95 isn't cheap, but the cost is comparable to any higher end laptop chargers on the market today.  The Mcube Slim 95 is extremely versatile, and I think it is worth the investment.  As for how long it will last, well I guess only time will tell.  But for me this is a great product, and I am hoping that it will last for years to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Great Item For Road Warriors </p>
+
+
+<h2> review.date </h2>
+  02-22-2012  
+<h2> review.text </h2>
+
+ <p> Don't even waste your time if you're a Mac user - it doesn't include a tip for Macbooks, and I have a feeling there won't be any coming anytime soon.  Also don't bother if you have an Acer Iconia tablet, as none of the tips provided work for *that* either.  A frustratingly limited product, to be sure - since the whole point is how flexible it is, it works with surprisingly few things.  Sure, I could plug in my iPhone and iPad USB cables, but I have several wall jacks for those provided by Apple that are much, much smaller than the Slim 95.  Innergie claims they will provide new tips on demand, but there obviously has to be enough people asking for them to make them a reality (and I would guess licensing issues would also stand in the way - hence why I don't see Apple compatible tips coming anytime soon, if ever.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Useless for Macs and Acer Iconia tablet users </p>
+
+
+<h2> review.date </h2>
+  12-19-2012  
+<h2> review.text </h2>
+
+ <p> UPDATE 3 - January 29, 2014:Over the past 6-ish months since I first tried to contact Innergie customer service to get a failed DC power cable replaced (see below), I have attempted to contact Innergie customer service many times by email, phone, and their own messaging web page.  During that time I never received a single response back from Innergie.  Not one. Recently, in a comment response to my negative UPDATE 2 review below, I was contacted by an Innergie representative who indicated that they would provide service and replace the failed cable (see the comments from Brian below).  I can now report that I have successfully received x2 replacement cables for my Innergie Slim 95 unit.  Of interest is that the MyInnergie website seems to have been redesigned, that the MyInnergie home page indicates that Innergie is now owned by the Delta Products Corporation, and that the return address on the packing slip for my replacement cables is also the Delta Products Corporation.  This indicates to me that Innergie has undergone some serious internal changes and perturbations recently which might account for the total failure of their customer service and product support functions until now.  I still use and love my Slim 95 power supplies, and now that I have a replacement cable I can get one back into service, but how well Innergie / Delta supports their products and customers in the future is an open question.  For now, I will give them a provisional "Pass" and up their rating to "3 Stars".  Just because.  But they better do a MUCH better job of support before I can fully trust them.UPDATE 2 - October 2013:As I indicated below, I have several of these and I love them.  BUT ... on one of the units the DC power cord has failed.  I have contacted Innergie by email and phone, and I not received ANY response other than an automailer that acknowledged that I had sent them an email to customer support.  Based on this, I must consider Innergie to be a shell company that does not honor warrantee, and does not support their product in any way.  Do NOT purchase any Innergie product.UPDATE 1:I still love this product, but I have noticed that more and more notebooks and tables are requiring more than the 95 watts of power that this unit provides.  It has to do with the increasing number of CPU cores that are shipping these days.  Check the original AC adapter brick that came with your mobile computer for its DC volts output rating before you buy this unit, and if the OEM brick is rated for more than 95 watts then do not buy one of these units.ORIGINAL REVIEW:I have x3 of these, and have used them with all manner of PC laptops (including Dell and HP) and mobile devices powered via USB cords.  Works very well, small and light, does not get too hot, and saves me from carrying additional power blocks and cords.  This is a must for the non-Apple traveler.  And do NOT blame this company for the lack of Apple compatibility ... this is an Apple patent and licensing issue, pure and simple. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great for PCs and USB interface devices, but might not supported </p>
+
+
+<h2> review.date </h2>
+  04-03-2013  
+<h2> review.text </h2>
+
+ <p> I was very frustrated by Innergie's very slow response to customer requests. I needed a tip and it was not until after I had returned my purchase item at the end of the return period that I received a reponse. They finnally sent the tip, after I returned the charger to Amazon. However, since they did get it to me, and I do need the charger, I reordered from Amazon and now have a working charger with tip.That being the case, I've moved the review up to three stars from one. The charger seems to work well. If you are looking for a replacement for an Asus EP121 tablet PC, this works, but you must request tip 'L' from the company. Problem is, it was a real chore getting a reponse from the company.It is very close to the original Asus charger for the EP121, mainly because the Asus charger was a rebadged Innergie charger. The mCube slim 95 is acually a bit smaller, which is a plus. Quality of build does not feel quite the same, but that is probably the saved weight. The built-in USB port, like on the original, is very handy. I use it to power my cell phone when I am tethering internet via wifi. This allows me to stay online without killing my battery, and while keeping my tablets USB ports available for other things.The tip fits snugly. I mention this because I have used an energizer battery pack that worried me with it's loose tip.I wish customer service were better, and hopefully it will be by the time you read this review. I recommend you read newer reviews to see if service has improved before you buy.As always, Amazon is an absolutely stellar retailer, and stood behind thier service perfectly. I could not have asked for more. They got it to me quickly, and made the return painless. Even though my product support experience was sub-par, the experience with Amazon itself was wonderful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Slow response, but Innergie did finally get back to me. </p>
+
+
+<h2> review.date </h2>
+  02-23-2012  
+<h2> review.text </h2>
+
+ <p> Unless you travel frequently or you want to cut down on the clutter of power cords laying around the house, I just don't see the need. Sure, my Asus netbook and my Android tablet can both connect to recharge at the same time, but I can do that with a normal electrical outlet. I do think this would come in handy if you lost a cord or broke an OEM cord - for instance, my Asus netbook, even though I'm very careful with the cord that came with it, the wire on the end that plugs into the netbook is fragile and could break. This will make a good alternative power source if that should happen.Nine tips come with this and the ones I needed were included. The instructions state that if none of the 9 standard tips work for you, to contact Innergie and they will send a compatible tip free of charge. Innergie sounds like a company interested in making us happy with their power supply items and I commend them for doing so. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's a power cord </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

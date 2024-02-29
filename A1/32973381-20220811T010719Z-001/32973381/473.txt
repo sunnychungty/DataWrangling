@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00ENPJUTU <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-18-2014  
+<h2> review.text </h2>
+
+ <p> This was a very well-written sweet romance.  The story was believable and getting to the happy ending was a pleasure.Well done!Anne Farrell </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Baby for Christmas </p>
+
+
+<h2> review.date </h2>
+  08-24-2013  
+<h2> review.text </h2>
+
+ <p> This story is wonderfully appealing. I think Ryan is fantastic and I fell in love with him myself. The sexual tension between Paige and Ryan is titillating and caused me to read late into the night. As usual, the sexy scenes are hot and delicious.A love story involving a pregnant main character is unique and it is refreshing to see her as sexy and with sexual desires. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well Done! </p>
+
+
+<h2> review.date </h2>
+  06-05-2014  
+<h2> review.text </h2>
+
+ <p> This story opens on Christmas Eve in a snowy Canadian farmhouse, where unwed, pregnant Paige awaits the birth of her child with her grandmother. The story then flashes back six months earlier, and we learn how her life has intertwined with two handsome, capable men. Paige is a courageous young woman who had the courage to leave a long affair with Matt, a man who didn't want to marry her or have children. After she moves away, she meets Ryan through a chance encounter. Their relationship grows beyond friendship, but Matt reappears in her life.In every romance the woman gets her man, but will it be Matt or Ryan? With great skill, author Susan R. Hughes leads us through twists and turns to a very satisfying conclusion to the story. You'll love reading this book to find out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Romance At Its Best </p>
+
+
+<h2> review.date </h2>
+  05-16-2014  
+<h2> review.text </h2>
+
+ <p> Neat story about a woman in the midst of untangling herself from a six year relationship with an emotionally abusive man and trying to make a life for herself.  Finding herself pregnant, she has to fight to learn how to build a life for herself and the baby but she still yearns for someone like Ryan who comes to her aid when she's in a fix.  I like how family can complicate things both for Paige and Ryan, and I liked the satisfying holiday ending.  The Canadian settings, both rural and urban, were wonderful.  This book is a Christmas treat. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful Ottawa setting </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> Even though I read this book in the summer, it put me in a holiday mood. Paige is struggling to rebuild her life after breaking up with a controlling boyfriend, and when she loses her apartment and learns she is pregnant, kindhearted Ryan comes to her rescue. Despite the chemistry between them, there are obstacles in the way of their relationship, with Ryan planning to move across the country to start a restaurant and Paige's ex-boyfriend manipulating her emotions to win her back. It's a sweet story with engaging characters that unfolds to a heartwarming, satisfying conclusion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Read </p>
+
+
+<h2> review.date </h2>
+  09-21-2013  
+<h2> review.text </h2>
+
+ <p> Yesterday was rainy and unseasonably cool, considering we've had triple digit temperatures for much of the summer. The cooler day was perfect for reading a Christmas romance. I chose A Baby for Christmas by Susan R. Hughes. This sweet romance was my first by Ms. Hughes, and it did not disappoint.If you like sweet romance with appealing characters who have made mistakes and have learned from those mistakes -- with characters who conquer their doubts and move into the future together -- this heartwarming romance is for you.Paige thought she had her Prince Charming and a happily ever after, but her Prince just wouldn't commit. As time passed, she began to realize that he probably wasn't the man for her so she took action and now finds herself single, homeless, and pregnant.Handsome, kind Ryan, a guy who embodies the best traits of a hero, rescues Paige, opens his home to her -- and his heart. But his life plan calls for moving to another city.Paige doesn't need another man in her life when she can't untangle herself from the ex-Prince Charming, but she finds herself falling for Ryan anyway.Ryan is the perfect hero, and just what Paige needs to be strong enough to confront her shortcomings and be the woman she sees reflected in his eyes.Both must overcome their respective emotional baggage and learn to trust themselves -- before they can trust each other with the sweet love that grows between them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heartwarming Christmas Romance </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> I purchased this book as part of an 11-Book set entitled &#34;Christmas on Main Street&#34;. I absolutely loved Paige and Ryan's romance! Clean, sweet and tender heart-warming romance that will keep your interest to see how these two will set aside their pride and admit their growing love to each other. Lots of emotional twists and turns keep thwarting their chances at happiness with each other! I loved every second of it and have added Susan R. Hughes to my MUST-READ list of authors!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Clean, Sweet & Tender Heart-Warming Christmas Romance! </p>
+
+
+<h2> review.date </h2>
+  04-14-2014  
+<h2> review.text </h2>
+
+ <p> A Baby for Christmas combines the joy of a new life with the excitement of the holidays. Things are looking bleak for Paige until Ryan arrives to sweep her off her feet, and into his home and heart. He is the very definition of a hero, and of course Paige falls for him. (And I did, too.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Sweet, Romantic Story </p>
+
+
+<h2> review.date </h2>
+  12-27-2013  
+<h2> review.text </h2>
+
+ <p> I just finished reading this story as part of the &#34;Christmas on Main Street&#34; collection.  It was a very well written and conceived story.  The Paige character, whether she believes it or not, is a strong character.  Ryan is a good man and even though  they had just met he feels protective of her, which is rare.  They do belong together.  They will make a good home for this Christmas baby! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good Christmas Story </p>
+
+
+<h2> review.date </h2>
+  04-05-2014  
+<h2> review.text </h2>
+
+ <p> The length of this book surprised me in a good way, for a book that was only $.99 cents. The plot was sweet. I think another title for this book could have been, may the best man win!Paige had just ended a 6 year relationship with Matt. He didn't want kids, or a wife. Matt was controlling, and would degrade her. Paige was ready for the next step in her life. Paige had never been on her own before. She was working really hard at rebuilding her life. It seemed like everything was coming together for Paige until she found herself homeless, and pregnant. Paige had been staying at a friends apartment. She went home sick from work, to find the locks had been changed, and a notice to evict on the door. Handsome, sweet  Ryan came to her rescue. The friendship that the two built was enduring, and heart warmingAfter Matt had a awhile to get use to the idea that Paige was having his child, he wanted her back. Ryan did not want to get between a mom / father to be, but the chemistry kept pulling him back to Paige.This was a very sweet book, that you will just have to read. I was very happy with the guy that won Paige's heart. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet book </p>
+
+
+<h2> review.date </h2>
+  10-13-2013  
+<h2> review.text </h2>
+
+ <p> A Baby for Christmas by Susan Hughes is an emotional journey for a young woman pregnant with her abusive boyfriend's baby but slowly discovering love with a considerate neighbor. A lot of conflict, emotion and sweet discovery of motherly feelings. The story is well-written by a talented author. I will look for more of Susan Hughes' books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A sweet Christmas story </p>
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> This was a really good book.  Susan Hughes did a great job in writing an excellent story.  This is a very quick read but most enjoyable.  Highly recommend to others.  Enjoy </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Baby for Christmas </p>
+
+
+<h2> review.date </h2>
+  12-09-2013  
+<h2> review.text </h2>
+
+ <p> This book had me roped in from the first chapter when Paige went into labor on Christmas Eve.  I liked that it went back six months to tell you want transpired before then.After having left her boyfriend of six years, Paige thought that things were finally going her way.  She was finally free of Matt, she was able to land a job that she loved and was able stay at a friend's small basement apartment that had followed a job overseas but since the apartment had been pre-paid for, Paige was able to live there rent free for a few months.  All that came crashing down though in one day when she went home sick with what she thought the stomach bug that had going around.  Now she finds herself alone, pregnant and no place to go.I'm not going to go into a long review since it's short story and I don't want to give anything away but I will say I thoroughly enjoyed the story as well as two of the main characters and was I very pleased with the ending. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet contempary romance </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

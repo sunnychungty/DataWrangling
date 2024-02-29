@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000NIK9V4 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-03-2009  
+<h2> review.text </h2>
+
+ <p> Zero Stars!! I bought this TV for my sons college dorm room. Out of the box the picture was OK but the sound quality was horrible, like the old TVs in the 1950's only worse. I bought external speakers and they worked fine, right up to the time when the whole TV failed on day 3 of ownership. Westinghose sent me to a local repair shop, who charged me $100 to diagnose the problem, and another $100 to swap out some parts. (Whatever happened to the concept of a warranty?) Three days later the set failed AGAIN. I marched it down to a dumpster and tossed it in. Now it is where it belongs, in a landfill somewhere. I will NEVER buy another Westinghouse product, trust me on this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Seriously Bad TV </p>
+
+
+<h2> review.date </h2>
+  06-05-2009  
+<h2> review.text </h2>
+
+ <p> I'm in IT support for an organization who purchased approximately 8 of these. We placed them in break rooms throughout the building. After about 13 months, all except one failed! Indications are that it is the power supply - A faint clicking noise can be heard on all. Westinghouse should recall these and actually there should be a class action against them! I don't see how they can get away with this! Google SK-19h210s and you will see how widespread the failure is.Customer Support is really bad also. I tried this route just to see if there was a recall or whether they would support a free replacement of the power supply. After being on hold for 15 minutes, I was directed to voice messaging and the mailbox was full! How's that for Customer Support? AND I read a post from another frustrated customer of the exact same thing happening, making customer support suspect!Anyway, stay away from these unless you can get one free! You are almost assured to get a lemon. To see these many units fail at the same time should tell you something about quality control, and the fact that you cannot even reach customer support speaks volumes about buying any Westinghouse branded TV.I've never bought Westinghouse and after this, never will. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Buyer Be Aware! </p>
+
+
+<h2> review.date </h2>
+  12-22-2008  
+<h2> review.text </h2>
+
+ <p> I bought this at Target and after 60 days I tried to hook up my blu ray player via HDMI. It never would work and so I sent it back to Westinghouse and got a refurb in return with dead pixels and a scratched screen. I sent it back again and got another refurb in o.k. shape and it still has the same HDMI issue as others have mentioned on forums. You have to turn off your player and back on 4-5 times just to get a picture via the HDMI. Very dissatisfied with Westinghouse's poor customer service and products. I would give it 1/2 star if possible </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bad HDMI </p>
+
+
+<h2> review.date </h2>
+  08-08-2008  
+<h2> review.text </h2>
+
+ <p> On the positive side: the image is excellent, the system supports a multitude of inputs, the analog tuner works perfectly.On the negative side: the QAM tuner and the computer that selects the detected stations via the remote are flawed.  I connected this TV to my cable without the cable box to watch the clear-QAM digital stations from my cable provider.  Autoscan found all of them.  But trying to use the remote to select the detected channels are so frustrating that I just stopped trying to use the digital tuner.  As I installed two of these TVs and both had the identical problems, I suspect that there is a serious design flaw.If your purpose for this TV is as a PC monitor, for connection to an antenna, for connection to a DVD or for connection to a cable box (either using the analog output [which makes no sense] or using the digital connections) this might be very acceptable.  However, if your application is to use the TV to tune QAM signals, this is not the TV for you.Westinghouse's tech support was so poorly trained that they did not even know what a QAM tuner was for.Have returned mine.  Proceed corefully. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very disappointed </p>
+
+
+<h2> review.date </h2>
+  08-19-2009  
+<h2> review.text </h2>
+
+ <p> I agree with all the other dissatisfied customers. I didn't buy this from Amazon, but wish I'd read these reviews before buying it at a megastore on sale. Westinghouse used to be a good name, but it stands for ***t with me now. I bought this 19" LCD for use in my home office and after a year and a half, it just suddenly and completely stopped working. Won't turn on. What a waste.Lesson learned. It always pays to buy a quality product from a quality manufacturer. Not all cheap stuff is bad, but the chances you getting junk is so much higher. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sourest lemon I ever bought... </p>
+
+
+<h2> review.date </h2>
+  11-18-2007  
+<h2> review.text </h2>
+
+ <p> Bought this for kitchen HD.Good: Nice HD picture. Fairly simple screen navigationBad: Horrible connectivity. All the ports are bunched up w/in millimeters of the other- to make matters worse its on the left-hand side.Ugly: The HDMI connection. When switching between SD and HD sources using your HDMI cable-you will get a blue screen. You will need to cut the power to your source 1-4 times before finally arriving at a picture. I took the first back to BB and they said its something w/the encoding system for the HDMI connector. Hmmm funny, my Panasonic plasma doesn't have that problem.Summary: its a nice set for a nice price if you can put up w/the maddening problem w/its HDMI switch.Side bar: I've tried cheap-o HDMI cables and better-made cables and you'll be smart to use the better ones. Yes a digital signal is a digital signal-but brightness is a big issue w/the cheaper ones.Bluejeans cable or monoprice cable is the way to go. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Frustrating </p>
+
+
+<h2> review.date </h2>
+  10-24-2009  
+<h2> review.text </h2>
+
+ <p> See the comments to this post for instructions on disassebling this TV. Understand, you do so at your own risk.My TV lasted a shade over 1-year before the digital tuner took a dirt nap. I was okay with the picture & sound quality for the price, but had I purchased it at the "Brand New" price I would have sent it back. The volume level on this TV is for crap. Always had the volume above 75 so we all could hear it. However, the picture quality is really good for the price. Since the TV still powers on, it will probably live the rest of it's life as a computer monitor, which by reading the posts from other reviewers the power supply won't be lasting too much longer.I guess since it's so close to Black Friday, I'll wait to see if I can find another deal on a HDTV to replace this one. You can bet your butt that it won't be a Westinghouse/GE brand TV.UPDATE:After attempting to use the TV as a monitor I discovered that was a short lived idea. That was a no-go as well, so then I got to thinking that if the power supply was failing just enough to give me partial power then it must be the notorious capacitor. Well, long story short, if you are good with a screwdriver and soldering gun and have about 2 free hours, go buy a 2200uf 16v capacitor and repair the TV yourself. The capacitor costs around $1.50 and is available at your local RS.Anyone needing instructions on how to disassemble the TV, just post a comment and I will do my best to follow-up promptly. BTW, I now know why the sound is so weak, the speakers are about 1-inch in diameter. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 42+ 1-Star Reviews Should Be Warning Enough </p>
+
+
+<h2> review.date </h2>
+  12-25-2009  
+<h2> review.text </h2>
+
+ <p> I've only had this TV for less than two years and the darn thing just stopped working. No picture, disordered sound, and sometimes won't even power up.I take good care of my electronics so its not like this got damaged at all. In fact I have a smaller LCD TV in my garage with the cold air and moisture for 3 years and that tv works as if I just pulled it out of the box!I wouldn't even pay $50 for this TV, look up the problems and other reviews for this TV first! Its very very common for them to just die after a year!!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Waste of money! </p>
+
+
+<h2> review.date </h2>
+  10-14-2008  
+<h2> review.text </h2>
+
+ <p> GOOD -- PRICE, BI-PLATFORMED FOR TV AND COMPUTERBAD -- NOT TRUE 16:9 (16:10), ACCESS TO DIGITAL QAM DIFFICULT, VIDEO AND AUDIO MEDIOCREFor a cheap utility hdtv that can double as a vga plugged computer screen (or visaversa) as in a home office, this screen is a really good deal for the money.  However pix and audio quality only mediorce and the viewing range on the lcd limited.16:10 slightly distorts hdtv pix, elongating images by 10%.CAUTION: You can not key-in digital channels directly on the remote, even though it has a dot key.The only access to Qam digital is via on screen menu and then you can only access channels directly through the onscreen programming guide. Lots of key strokes. NOTE QAM is important, since it allows access to local HDVD channels without renting a box from cable or satellite. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> you get what you pay for </p>
+
+
+<h2> review.date </h2>
+  02-24-2009  
+<h2> review.text </h2>
+
+ <p> I bought this for my Playstation 3.  I have owned 2 of these now, each one lasted about 6-months, then failed.The HDMI ports went bad.  The other inputs worked fine.  It started off, every once in a while the screen would just go black, then come back on in a few seconds.  After about a month of that, all I could get was the blue screen of death.The Westinghouse support is terrible.  They insisted on plugging another HDMI source into the TV to diagnose it.  I don't have one.  They explained that this is a common problem with the PS3.  So I believed them and sent my PS3 to Sony.  It came back and nothing was wrong.  But still no HDMI.  So I called Westinghouse and explained the run around they didn't seem surprised at all.  Their only requirement this time was that I FAX them my receipt.  Not email, FAX.  They said they didn't have email.  Okay, so I had to hunt down an old FAX machine.  I didn't hear anything for a week, so I called them back.  They said they had lost the FAX.  They didn't call me and say, sorry, we lost the fax.  They just forgot about it, hoping I would too.  So I had to go to town and FAX my receipt again.  So three months without TV I still haven't got the return number.  I filled out a complaint on their web site and they emailed me a reply.  I said hey, I thought you didn't have email!?  They said, oh but we can't receive attachments.  Yeah right.  Still waiting to hear from them so I can return my TV.Stay away from Westinghouse.Side bar: I've tried cheap-o HDMI cables and better-made cables and there is absolutely no difference whatsoever. Yes, a digital signal truly is a digital signal.  It either connects or it doesn't. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bad HDMI Ports </p>
+
+
+<h2> review.date </h2>
+  01-13-2009  
+<h2> review.text </h2>
+
+ <p> handling 1080p comes in really handy when you want top quality picture with no lag on the ps3. 1080i makes games lag really badly, but 1080p it looks the best and no terrible lag. wish it was 16:9, but i knew it was 16:10 when i got it, no big deal. good amount of inputs, cool to have a tuner on such a small tv, and 1080p no less. pretty good. ive had it for almost a year and have had no problems with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good hdtv, even takes 1080p feeds, despite supposedly only going up to 1080i </p>
+
+
+<h2> review.date </h2>
+  05-29-2009  
+<h2> review.text </h2>
+
+ <p> when my first westinghouse flatscreen tv lost audio, it took over 9 weeks to get a replacement refurb unit. the new unit promptly lost the picture.in the interim, the company has switched to a non-human farce of a "customer support" system. it's a telephone message that promises a response to email inquiries within 24 hours. well, i'm on 5 days and counting - no response to the web form, email or phone messages.still waiting for that response from westinghouse, as well as for tv #3.there are other brands out there, folks. don't go with westinghouse if you know what's good for you. it would be worth twice what i paid for the tv to have avoided dealing with westinghouse customer service, not to mention a whole series of non-functional televisions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> caution: do not buy a westinghouse tv! </p>
+
+
+<h2> review.date </h2>
+  01-03-2009  
+<h2> review.text </h2>
+
+ <p> After fourteen months of VERY light use in the kitchen the unit wll not turn on.  Dead as a door nail.  I haven't contacted Westinghouse yet, but I'm not hopeful that they will stand behind it since the warranty expired two months ago. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Failed after 14 Months </p>
+
+
+<h2> review.date </h2>
+  03-16-2009  
+<h2> review.text </h2>
+
+ <p> I created this review just for increase the statistics:Power module stop working after 14 months.Westinghouse have a very inmature technnical support: No information, no support dealers, no parts distributors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dead after 14 months </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

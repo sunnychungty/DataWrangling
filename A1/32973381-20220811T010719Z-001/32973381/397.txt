@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B003WEAJ4S <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-28-2013  
+<h2> review.text </h2>
+
+ <p> Omg. I loved this book. I can't wait to read more Immortal Ops books. I loved that Missy is so strong but yet so tiny and Roi is just absolutely yummy. The author did an amazing job detailing the charactors and weapons and all the actions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I-ops a-ma-zing </p>
+
+
+<h2> review.date </h2>
+  11-23-2012  
+<h2> review.text </h2>
+
+ <p> This is another 1 of Mandy Roth's excellent books. I can't wait force her next Immorrtal Ops book to come out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> critical intelligence </p>
+
+
+<h2> review.date </h2>
+  03-28-2014  
+<h2> review.text </h2>
+
+ <p> I got this as part of the Immortal Ops Box Set Books 1-4 (Shifters Romance)~ 4 Critical Stars ~Critical Intelligence is book two in Immortal Ops series by Mandy M. Roth. Wow this was an improvement from book one. The plot thickens, lots more action and we learn more about the I-Ops Team. The story is a short story, but it is not rushed and more character development made for a much more appealing read! It also helped that we get characters that have already known each other in book one giving them a chance to develop more of a romantic relationship.Both Roi and his gal Missy did not disappoint. They worked great as a couple. Both are full of attitude, sass and both are alphas, which made for an fascinating read. The endless bantering kept me entertained. We get a fair amount of sexual tension built up in the previous novella that when they hit it off its HOT and the romance did not feel too rushed.I enjoyed Critical Intelligence! The snarky witty comments, hot sex and action kept me engaged and I look forward to seeing more of the other I-Ops team members. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Review Critical Intelligence </p>
+
+
+<h2> review.date </h2>
+  03-14-2013  
+<h2> review.text </h2>
+
+ <p> I always get into the way this book and others like it are wrote and they keep me so interested and I won't more... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVED IT!!!! </p>
+
+
+<h2> review.date </h2>
+  02-19-2014  
+<h2> review.text </h2>
+
+ <p> I thought book 1 was a great read. Book 2 is over the top.I love a kick ass chick anytime of the day.I love hard bodies and guns too. You mix all this together and the chick doesn't become useless or whiny, this just became the best book ever.I loved Roi and Mel's story. The fact that Mel kicks ass and is just as capable or better than the guys just steps it up another notch. The back story between them was awesome. The continuing theme through the series is a great story.I love the idea of gene manipulation and that part of the story and now I-Ops and PSI are taking the fight to the bad guys in the next book.Awesome action, great banter and spicy sex what more can you ask for. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 5 and 1/2 Stars. Better and better </p>
+
+
+<h2> review.date </h2>
+  10-19-2013  
+<h2> review.text </h2>
+
+ <p> This is the story of Missy and Roi.  Missy is Perens BFF and Roi is second in command at I-Ops.  They are a wonderful combination and a stormy pair in the same breathe.While it has some very definite surprises it is a super edgy story line.  I can't say too much without giving you a complete synopsis but I have to say I loved this one as much if not more than Peren and Lukian's story and the women of this series will blow you away.  They super, super strong and intelligent and highly skilled in their fields.Read and Enjoy </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SECOND OF THE SERIES SUPER READ </p>
+
+
+<h2> review.date </h2>
+  09-07-2013  
+<h2> review.text </h2>
+
+ <p> Love this book to pieces!!! Missy is a sassy spunky little spitfire!! Just my kind of gal!! Roi really has his work cut out for him in winning his mate!! They are a fabulous pair and I was really into their whole dynamic! Gotta love a couple that bickers!I really enjoy ed the intrigue and paranormal elements of the story. The whole thing flowed very nicely and never had a dull moment. It was beautifully paced with smart and fun storytelling! I honestly wanted more!Hello hot and heavy steamy action!! Once they start they can't stop!! Yummilicious!! It blended into the story very nicely.Again I was really into the mixed narrative an thought it really worked to draw the reader further into the story and the future of the series.I am definitely hooked!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Addictive series </p>
+
+
+<h2> review.date </h2>
+  09-21-2012  
+<h2> review.text </h2>
+
+ <p> Loved this book...great to escape with..good plot...great charachters...good back character's too.all 3 books in this series kept me entertained...good quick reads...good job Ms. Roth..and Thank You!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> critical intelligence </p>
+
+
+<h2> review.date </h2>
+  12-11-2012  
+<h2> review.text </h2>
+
+ <p> I really enjoy Ms. Roth's writing style. The heroes are hot and alpha, the heroines are strong and snarky. I'm looking forward to more of the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great paranormal/military series </p>
+
+
+<h2> review.date </h2>
+  12-30-2011  
+<h2> review.text </h2>
+
+ <p> Roi caught my attention in the first book in the Immortal Ops series. He had a sarcastic attitude and a zinging come back for anything said to him. I knew immediately he was going to be one hell of a character to read. He did not disappoint, neither did his gal. Missy is full of sass attitude and a ton of bad assery! A fair amount of sexual tension had built between Missy and Roi in the previous novella.The pairing of two witty alphas who always manage to get the last word in, turned out to be very entertaining reading. Missy misleads everyone as to whom and what she really is. Her job falls into that same category. Once Roi enters her life everything changes. Her life and her job are currently running parallel with his life, his job, and bringing down the evil that is experimenting on humans in an attempt to make the perfect weapon, a super human.Missy and Roi worked great as a couple for me. Their endless bantering kept a constant pace. Them knowing each other from the previous book allowed for the romance to move quickly without feeling too rushed.The only thing I didn't understand was the beating that one of the characters took. I hate spoilers in reviews, so I will try to tip toe around this as best as I can. Someone took a beating just to prove their worth (that's what I got from it.) It seemed unnecessary and I feel like a team, friends, loved ones, human beings in general would not have stood by and watched. That's what happened though. I just didn't get the point of it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Critical Intelligence </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B001L67A1E <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-20-2010  
+<h2> review.text </h2>
+
+ <p> Another fresh flick from Jorge Ameer.  This time its a crime drama interwoven with a mix of romance, supernatural and paranormal activity with a thriller as a backdrop.  Very effective with good production values.  Actors were easy on the eyes and good story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you a fan of Jorge Ameer movies, you'll like this one </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> Acting needs help and the story line is not well written should have had more of a strong love story </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just ok </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> The premise is good, however, the acting totally sinks it!  I can understand the low budget, but I can't understand the bad acting! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Adam, Oh, what could have been! </p>
+
+
+<h2> review.date </h2>
+  11-01-2013  
+<h2> review.text </h2>
+
+ <p> John Shaw is just perfect for this movie.  Hope he will continue in the years to come and become even greater than he was in this performance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great ! </p>
+
+
+<h2> review.date </h2>
+  10-20-2013  
+<h2> review.text </h2>
+
+ <p> The acting is stilted, not necessarily the fault of the actors. The script is horrible and filled with characters who are absolutely stupid. Painful to watch. The story line had some potential but failed completely. I do not recommend this film. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Linda's Thoughts on "The House of Adam" </p>
+
+
+<h2> review.date </h2>
+  04-20-2014  
+<h2> review.text </h2>
+
+ <p> Not a typical Ariztical production.  Most I have are either good or terrible.  This one is in the middle.  A sweet story with lots of potential.  The editor and director did a pretty poor job of keeping the movie consistent.  Much talk is given about how isolated the cabin is in the movie then in one scene the front door is left open and in front of the place is a paved street with traffic.  Again, so isolated and three hoodlums end up there on a regular basis for lunch and scripture study.  Those inconsistencies could have easily been caught.  The speaking in the movies is often slightly halting, not natural flow of speaking.  Still Adam and Anthony are cute guys and the movie is fun watching their budding relationship despite the eventual tragedies.  Overall, the low end of a mediocre movie.  Would I have bought the movie knowing it's quality?  Probably not, however, I have  the movie and the dvd will stay part of my collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> sweet movie </p>
+
+
+<h2> review.date </h2>
+  03-21-2013  
+<h2> review.text </h2>
+
+ <p> Jorge Ameer is a terrible director and this film was just another piece of evidence.  His characters are one dimensional and the plot was beyond ridiculous </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I don't know why I even watched it </p>
+
+
+<h2> review.date </h2>
+  04-07-2013  
+<h2> review.text </h2>
+
+ <p> Despite the negative reviews here, there are many elements that work well in this film. The storyline is fairly engaging, though not always believable. The soundtrack is versatile and appealing. The way that the opening credits were presented quickly pulled me in to watch, something that many film-makers on low budget films seem to neglect. Plus, there's some beautiful cinematography, the sets look really nice and the cast are all visually appealing. However, as (visually)appealing as the cast may be, most of them simply could not act. The actor who played Adam was probably the most believable character. For the most part though, I felt like I was watching actors in a high school play. Perhaps the worst actors were the married couple that (unfortunately) occupied about the last one-third of the film. For me, that's when the film really fell apart. Not only did the storyline veer off into left field, but the acting quality really plummeted, once the script relied on their acting ability to keep the story moving along. To complicate matters, the male lead playing the detective was not a strong actor either and he was prominently featured in that last segment as well. It simply didn't work. That's a shame, because this movie had some interesting elements to it, but it was simply doomed by the casting choices that were made. Score: 2.5 stars </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Many elements work well in the House of Adam. </p>
+
+
+<h2> review.date </h2>
+  03-30-2013  
+<h2> review.text </h2>
+
+ <p> Please do not waste your time with this. How did this movie get funded? Very wooden acting and poor sound effects. Movies are suppose to entertain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> There should be a quarter of a star rating option. </p>
+
+
+<h2> review.date </h2>
+  06-09-2014  
+<h2> review.text </h2>
+
+ <p> I saw the short film version of this from another source, leaving many unanswered questions and was intrigued enough to take the chance...and wasn't disappointed. The gay bashing, both verbal and physical I'll probably never get used to, and shouldn't have to. Homophobia has been a thorn in my side for years now, even though it hasn't happened to me yet, and I'm disgusted that the epidemic had to go so far before anyone felt enough is enough, R.I.P. Matthew Shepard, I don't care what that new book says, you'll always have my love and respect.) The people who continue to base their prejudice on this from the Bible, two words: historical context. As for so-called righteous judgment, no such thing! Most holy rollers have no tact, let alone respect, so that argument won't work on me. Would I watch other movies by this director, most likely, but being lgbt friendly won't hurt. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> another gay themed movie to enjoy. </p>
+
+
+<h2> review.date </h2>
+  04-25-2009  
+<h2> review.text </h2>
+
+ <p> This is one of those movies that makes one think that one could easily make a decent living churning out god-awful movies for the Here network.  After all, you'd be hard-pressed to come up with something with a plot as ridiculous as this one.  Of course the fact that it's acted with a cast with less acting chops than the GEICO ghecko and directed with the finesse of Ed Wood, Jr. doesn't help.Movies like this make me want to file a class-action discrimination suit.  Surely we don't have to put up with movies this bad just because we're gay... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This house is condemned.. </p>
+
+
+<h2> review.date </h2>
+  11-19-2010  
+<h2> review.text </h2>
+
+ <p> i have bought 3 copies of the film, none of which have i been able to play on my dvd or computer.  i have never had this problem with any other movie.  i do not hold the sellers of these 3 films responsible, i believe there is some inherent problem in the manufacture of the dvd.  has anybody else had this problem? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> the house of adam </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

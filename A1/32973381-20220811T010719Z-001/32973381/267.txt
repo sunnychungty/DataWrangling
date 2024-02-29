@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B001APM412 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-08-2009  
+<h2> review.text </h2>
+
+ <p> Enjoyable. Not really that thrilling but the plot was decent and the acting was good. Think "BELOW" meets "CRIMSON TIDE". This is a low budget film and it's broken down into two parts almost as if they were part of a show and they were separate episodes? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nicely Done! Good Acting, Lousy CGI! </p>
+
+
+<h2> review.date </h2>
+  06-28-2013  
+<h2> review.text </h2>
+
+ <p> When I first saw the title, I thought that it would be another bad made for T.V. movie, buuuuut. It isn't,  Spoiler alert, The HMS Scorpion was lost at sea in 1943, in the Baltic sea. But in 1981 she resurfaces, with no crew on board. Now British command wants to retrace the scorpion's mission step by step, to find out what happened to her. With one little surprise, there was one survivor of the scorpion. And he comes along for the ride, since he can't remember anything about his final moments aboard. Now what I like about this movie, is you get to see commander Tyler literally go crazy. But they nicely throw in the ghost aspect of the sub and crew, when the scorpion went through the Triangle, the ship remained in 1943. But it's 1981 outside the sub, even the modern day crew, start becoming the original crew, one thing that is done very well is that because the sub is pretty much alive. She starts reliving the mission literally, everything exactly as it happened. When they destroy an enemy sub, it happens exactly when and where it happened in 1943. Some have complained that we don't see enough of the ghosts, but that's what makes this movie better. We get just enough, to make us wanting more. Even when Jack Hardy, the surviving crew member starts having flashbacks. And hearing voices, What makes the movie work, is he's the only one who doesn't slip into 1943. Unlike the rest of the crew, even the ghost of the original captain is dominant in this movie. He makes a brief appearance at the end, all in all. A great movie, that's surprising, Don't let the title fool you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprisingly very very good </p>
+
+
+<h2> review.date </h2>
+  12-17-2013  
+<h2> review.text </h2>
+
+ <p> I bought this because I have become a fan of David Jason from watching the Touch of Frost series and saw this advertised on Amazon.  I found it very suspenseful and watched both episodes at once.  I have always liked submarine movies about WWII, and the history of earlier boats.  If you have never seen DAS BOAT, you really should see that movie also.  It has got to be THE most realistic submarine movie ever made!  This one is great as both ghost story and war movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The lost Dutchman of WWII  !! </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> You have to love David Jason to like this movie.  It is an interesting concept but underdeveloped in the movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Could be better </p>
+
+
+<h2> review.date </h2>
+  10-14-2008  
+<h2> review.text </h2>
+
+ <p> Without spoiling this flick I'll say this is kinda of a reverse on Final Countdown.  In this a navel sub from the past goes back to the past for the crew while they're actually still in the early eighties.....Plot flows well and is quite decent for a sci-fi military flick. Also, plot flows on the line of Red October so, that'll tell ya about as much of where this film is going with out giving away the flick.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you liked Final Countdown you'll enjoy this.... </p>
+
+
+<h2> review.date </h2>
+  04-28-2011  
+<h2> review.text </h2>
+
+ <p> The plot is just average and seems very similar to an American movie that was out many many years ago.Sir David Jason is very good but the movie is average. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a guy movie </p>
+
+
+<h2> review.date </h2>
+  07-02-2013  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this one. What can I say... it hit the old sailor in me :)Its interesting and while it may at points lag just a bit...Over all its a great movie.Certified 5 Star's by This old sailorTrust me , I dont give out many 5 stars :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gotta give this one 5 stars </p>
+
+
+<h2> review.date </h2>
+  09-02-2013  
+<h2> review.text </h2>
+
+ <p> I came across this movie while searching for some new submarine movies.After reading some reviews I remembered that I had read this book and enjoyed itvery much. It was among the beginning of my series of many sub books to follow.I don't agree about the comment on the graphics being bad. I thought they were very decent and keep to a minimum. It's nice to watch a movie where the plot doesn't depend on computer graphics, lots of explosions and vulgar language.I thought the acting was excellent and the plot moved along to where I didn't realize that over 2 hrs had gone by.I recommend this movie to anyone that likes a good supernatural story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My type of movie </p>
+
+
+<h2> review.date </h2>
+  02-08-2014  
+<h2> review.text </h2>
+
+ <p> READ THE INFO ON THIS MOVIE AND I DECIDED I HAD TO HAVE IT. IT IS AN EXCELLENT MOVIE. KEEPS YOU ON THE EDGE OF YOUR SEAT. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GHOST BOAT </p>
+
+
+<h2> review.date </h2>
+  04-01-2014  
+<h2> review.text </h2>
+
+ <p> and this was a pretty good suspense story.  Have to give yourself over to the sci-fi aspect, but if you can do that, you'll enjoy this thriller. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love David Jason </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B002RUBHOY <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-25-2012  
+<h2> review.text </h2>
+
+ <p> We use many of these for our sign business and we have tried twice some other brands with lower prices but were not happy with it - hey stopped working after 2-3 uses only. Dust OFF is the best on the market and we highly recommend it - it's worth the money! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Best compressed gas out there! </p>
+
+
+<h2> review.date </h2>
+  10-24-2011  
+<h2> review.text </h2>
+
+ <p> I've used other brands of this product only to be disappointed. Many times the air ran out much sooner than I had expected. While there's nothing spectacular about this brand, it doesn't disappoint, and that in itself is spectacular to me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job, very happy. </p>
+
+
+<h2> review.date </h2>
+  10-31-2013  
+<h2> review.text </h2>
+
+ <p> The cans I received were designed a little different, but it was the same product as advertised, 3-10 oz. cans of compressed air, with tube. Can be used for so many different jobs, we use it on all electronics, the inside of our t.v. that duat seems to get in through the vents, dust in our doll cabinet and on dolls without touching them,tops of cupboards and tops of any type of a cabinet, dust anywhere that's difficult to reach, underneath heavy furniture on hard floors. More uses than you can imagine, we use it a lot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> many many uses </p>
+
+
+<h2> review.date </h2>
+  03-20-2012  
+<h2> review.text </h2>
+
+ <p> great product to knock the dust out of computer fans off of keyboards and the like.  Its just air under pressure in a can that works wonderfull for everything you need to blow air on. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> its air in a can </p>
+
+
+<h2> review.date </h2>
+  01-03-2013  
+<h2> review.text </h2>
+
+ <p> 3 pack of compressed gas at this price was a good deal. Used it to clean up my PC and get all the dust and debris out of the case. Good buy at the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blows dust away </p>
+
+
+<h2> review.date </h2>
+  02-16-2013  
+<h2> review.text </h2>
+
+ <p> I use these not only for my keyboards/printer but also i have silk flowered swags around my house for decorations and once a week i give them all a nice air blowing and it keeps the dust off of them and looking brand new! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for Flower decorations in your home! </p>
+
+
+<h2> review.date </h2>
+  07-05-2014  
+<h2> review.text </h2>
+
+ <p> If you are looking for something super fancy, these dusters are not it. They are rather average dusters. They get cold super easy to the point where it is difficult to use them for an extended amount of time. There is nothing on the can to hold the nozzle attachments, making it very easy to lose them if you don't use the entire can in one go. The dusting itself is acceptable - nothing fantastic but also nothing worth complaining about. I was able to use them to give my desktop computer a very thorough cleaning. The nozzles fell off a lot during the cleaning, making it hard to clean difficult to reach areas. I had to take lots of breaks to let the cans warm up. I ended up doing a rotation system between the three cans to speed things up.They aren't a terrible buy, but I will likely explore a different brand the next time I need compressed air dusters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gets cold really quickly, easy to lose nozzle attachments </p>
+
+
+<h2> review.date </h2>
+  09-19-2013  
+<h2> review.text </h2>
+
+ <p> Been using this Brand of canned Air for over 10 years now.The Best of them all.Tried a couple of other Brands and was not real happy with the performance of them.Falcon is always a good buy because of the quality.Works great for removing dust from most Electronics.Great for cleaning the crumbs from a Computer Keyboard.Also works for cleaning Fishing Reels, Hand Guns, small Motors and anywhere you want to be sure moisture is removed from small parts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Falcon Compressed Gas (152a) Disposable Cleaning Duster </p>
+
+
+<h2> review.date </h2>
+  11-14-2011  
+<h2> review.text </h2>
+
+ <p> Works really well and has a good burst but the only problem I have with it is that it needs to be held in a certain angle for the spray to work properly or else it requires a lot of force to spray.Pack of 3 is well priced. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compressed Air </p>
+
+
+<h2> review.date </h2>
+  10-24-2011  
+<h2> review.text </h2>
+
+ <p> Best price per unit, I'd say.  Stuff works just fine.  I cleaned my computer out really well with it.  After usage, the thing gets cold, so having 3 of them to rotate is really convenient. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

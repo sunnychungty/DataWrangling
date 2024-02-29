@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00GMVTMXM <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> loved it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The perfect ending to them all. I never did like Cole. Was really hoping she would end up with the right guy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good series </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> You have to read the whole series, wouldn't just start here.  I enjoyed the first book and got the second one, which I was not happy with in the beginning because it felt like I was just reading the same book again.  That being said it go better maybe halfway through and then I couldn't wait for 3 and 4.Not saying it's the greatest story I've ever read, but it entertained me and kept me coming back for more, which is really all I ask :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> So good!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have never been that interested in reading books about werewolves, until I read this book. The author had me hooked from the very first page to the last!! I was intrigued and entranced reading this story! I stayed up late reading this book, dying to find out what happened to the characters!!I loved the story and the characters. The story is full of everything adventure, suspense, mystery, and romance.The characters are well written, and real! I definitely found myself feeling what the characters felt throughout the book. I laughed, cried, smiled and swooned! The male characters in the book are totally swoon worthy! Especially the main character Cyrus! The way he treats Ava is swoon worthy in itself!Katie did an amazing job of keeping me interested and intrigued throughout the whole story. Near the end, I didn't want it to end. I wanted more of the characters I had grown to love.I would definitely recommend this book to everyone. If you aren't into werewolves or paranormal creatures, I guarantee this book will change your mind!! I am looking forward to reading more books by this author, and will look into reading the ones before it!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Read them! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I LOVE these books! I'm not the biggest fan of a series going on after 3 books but I haven't been able to get enough of these! She keeps them exciting and they never cease to surprise me. They are not predictable at all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very little growth </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I gave this book 3 stars on the strength of the ending.  I had a bad feeling when I started this book and I was right.  The story has been buildings for a while now so the fact Cyrus and Cole fight for Ava shouldn't be a shock to anybody.  The story was predictable which really prevented me from gettinginto it.  Once my suspicions were confirmed I skipped from 24% to 75% .  It only took a few pages to realize that everything I thought would happen did happen.I actually liked the ending.  It was strong enough to make up for a lot.  I think this series is starting to suffer from lack of evolution.  The author is telling a good big picture story that grows with each book except the formula is the same.  One or two traitors with a secret army of hybrids they have to deal with.  Eventually there needs to be more. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I am in tears </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-25-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I do not want this series to end.  I loved all of the books in this series.  You are a great author.  I will definitely be buying other you have written. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fabulous series! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this series and #4 did not disappoint. It was just as great as the first three! I was hooked from page one and didn't put it down until I was finished just like with the first three books! Captivating and addicting! Can't wait for more! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> action, excitement, adventure, romance ...... </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Can't put a book down when it has adventure, action, excitement and romance and this book has all that and then some! Couldn't put it down and am now anxiously waiting for the next book to come out. Loved the twist and intrigue too! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great end to the series </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A fun conclusion to the series. Things get wrapped up with Ava and Cyrus, but it isn't easy. I'm glad they were able to reconnect, but their reunion is short-lived when Cole steps in and puts a wrench in their happily ever after. Cole was a big shock than I expected, still not sure about how his story played out. Overall, a fun series and one I'd recommend to any werewolf fan. Glad there is a spin-off series (book one: Hunted) so we can revisit Paskell and our friends.Content: Clean romance, some werewolf fighting </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Beautiful Ending... </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I believe this may be the final book to this series but hope it isn't. It was a very beautiful read with a happy ending. I don't really care for some of the loose ends but am sure there's a good reason for it. Ava was once again magnificent. She's a great heroine with a heart of gold. Cyrus wasn't too bad. I was kind of shocked with the turn of events with Cole but was almost expected. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wow I am blown away </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have never had a book keep me on pins and needles. I couldn't put the book down. I read the series over the weekend it was that good. strong female character, ava, who can kick butt. emotional love story hoping for the happy ending. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love this series! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This series just keeps getting better! It was hard to put down. Katie makes you care for the characters so that you feel a part of the community. I just hope that the next book lets Ava & Cyrus have some happiness before the next trial in their lives! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Bookalicious </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Perfectly boring. Is the end ok the series or is she going to drag it to one more book when this one should have been it, why not just end with killing the bad guy. Can I get my money back. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Werewolf Romance without all the gunk </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this author and have read pretty much everything of hers out there. I like the way that Katie gave us a fun story with lots of emotion, drama and love. This is a great series for any out there who love werewolves. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0025Y3SZS <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-16-2013  
+<h2> review.text </h2>
+
+ <p> It wasn't the best western ever made, but the episodes are entertaining. If you aren't a fan of black and white television, I would steer clear of this one. Although I must say that the episodes were nicely preserved. I used it to entertain myself while I exercised. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An entertaining indulgence </p>
+
+
+<h2> review.date </h2>
+  09-12-2009  
+<h2> review.text </h2>
+
+ <p> Best tv western anthology series ever. Great stories, great stars, great fun. I recommend this series very highly and am eagerly awaiting the release of Season Two. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Western Series </p>
+
+
+<h2> review.date </h2>
+  04-19-2009  
+<h2> review.text </h2>
+
+ <p> I remember seeing this show in syndication years ago as a child and teenager, and I had no idea Mr. Powell had had such a diverse career. Starting out as a crooner in Busby Berkeley musicals in the 1930's, evolving into a star in film noir, and then transitioning to television in a number of shows including this one from the golden age of TV westerns in the 1950's. He was in good company with other stars such as Robert Montgomery, who hosted his own first-rate TV show in the 1950's.This show is not really a series. Instead it was in the mold of the weekly playhouse kind of show that was so popular in the 1950's. Each episode stood alone and featured different stars each week, some being quite popular figures from the silver screen. The show first used material from Zane Grey, but as time passed material had to come from elsewhere as well.  The following is a listing of the episodes of that first season as well as the stars that were featured.1.01 - You Only Run Once  - Robert Ryan, Cloris Leachman1.02 - Fearful Courage  - James Whitmore, Ida Lupino1.03 - The Long Road Home  - Mr. Powell, Ray Collins1.04 - The Unrelenting Sky  - Lew Ayres, Phyllis Avery1.05 - The Lariat  - Jack Palance, Constance Ford1.06 - Death Watch  - Lee J. Cobb, Bobby Driscoll1.07 - Stage for Tucson  - Eddie Albert, Mona Freeman1.08 - Quiet Sunday in San Ardo - Wendell Corey, Gerald Mohr1.09 - Vengeance Canyon  - Walter Brennan, Ben Cooper1.10 - Return to Nowhere  - John Ireland, Steven McNally1.11 - Courage is a Gun  - Mr. Powell, Beverly Garland1.12 - Muletown Gold Strike - Rory Calhoun, Barbara Eiler1.13 - Stars over Texas  - Ralph Bellamy, Gloria Talbott, James Garner1.14 - Three Graves  - Jack Lemmon, Nan Leslie1.15 - No Man Living  - Frank Lovejoy, Margaret Hayes1.16 - Time of Decision  - Lloyd Bridges, Diane Brewster1.17 - Until the Man Dies  - Stuart Whitman, John Payne1.18 - Backtrail  - Mr. Powell, Catherine McLeod1.19 - Dangerous Orders  - Jack Elam, Mark Stevens1.20 - The Necessary Breed  - Sterling Hayden, Jean Willes1.21 - The Hanging Tree  - Robert Ryan, Cloris Leachman1.22 - Village of Fear  - David Niven, George D. Wallace1.23 - Black Creek Encounter- Ernest Borgnine, Jan Merlin1.24 - There Were Four  - John Derek, Dean Jagger1.25 - Fugitive  - Eddie Albert, Celeste Holm1.26 - A Time To Live  - Ralph Meeker, Julie London1.27 - Black is for Grief  - Mary Astor, Beulah Bondi, Chester Morris1.28 - Badge of Honor  - Gary Merrill, Tom Tully, Robert Culp1.29 - Decision at Wilson's Creek - John Forsythe, John Dehner1.30 - Man on the Run  - Scott Brady, Nancy HaleEach episode is 30 minutes in length and features such diverse talent as James Garner at the beginning of his career and Chester Morris near the end of his career. Mr. Powell stars in three of the thirty episodes. VCI, though not widely known, has taken part in some quality restorations before, so I am hoping these great western dramas will be carefully restored. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great old western series </p>
+
+
+<h2> review.date </h2>
+  06-24-2013  
+<h2> review.text </h2>
+
+ <p> I would rather buy the complete series, but season one is great.  I remember watching this one as a kid.  I liked it then, and I like it now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Zane Gray Theatre Complete Season one. </p>
+
+
+<h2> review.date </h2>
+  04-17-2012  
+<h2> review.text </h2>
+
+ <p> recevied order fast was just what i wanted old westerns that are well written. no trash just good clean tv shows. not many on tv today.hope how soon more seasons are out.picture is great better than when i first watched them on tv in the 50s i will order more seasons when they are out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> zane grey theatre season 1 </p>
+
+
+<h2> review.date </h2>
+  04-14-2014  
+<h2> review.text </h2>
+
+ <p> I have watched all of this season 1 and am still waiting for season 2. Really good transfer for 35mm b&w film. Why they haven't released season 2 I don't understand. Do you like westerns? Here is a really good anthology. Some of our great actors who were just starting out and some who were getting old. Worth the purchase price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good show </p>
+
+
+<h2> review.date </h2>
+  06-18-2013  
+<h2> review.text </h2>
+
+ <p> I grew up watching this show and I like it very much as it has different stories an actors. I would highly recommend it to all western fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> zane gray theatre complete season one </p>
+
+
+<h2> review.date </h2>
+  01-14-2012  
+<h2> review.text </h2>
+
+ <p> I thought I'd add my 2 cent review to the mix.  It was difficult for me to decide on a number for this show.  For the money, three seasons and 94 episodes of "Wanted:Dead or Alive" is a much better deal to this one season and the shows are every bit as good.  For a while they were trying to sell this at $30 or more and I didn't bite and glad I didn't.  Now that it's down around $20, I'd say it's worth the $$ if you're a fan of these old western shows.  They're 1/2 hour, good for people who have a tendency to fall asleep halfway through a movie.  It's difficult to do a lot of plot and character development in that time, but a good story can be told and usually is.There are some typical western type shows, my favorite being "Courage is a Gun", Episode 11 which includes the man from U.N.C.L.E.'s Robert Vaughn, as well as Claude Akins, Dick Powell and Beverly Garland.  A great twist to the classic shootout.  But this show is really about Dick Powell and all his acting buddies, so much more often it's more of a story that just happens to be set in the old west.  The following episode, 12, "Muletown Gold Strike" has Rory Calhoun as a school teacher helping a little boy find his dad's gold mine and I don't remember a single shot being fired after the killing of a rat (literal) about 2 minutes into the show.  The big plus to the show were all the people that Mr. Powell was able to attract to do episodes.  The big minus is that sometimes they're a little hard to swallow.  Perhaps you've witnessed the transformation of Jack Lemmon from dude to Cowboy in the movie of that name.  Well by episode 14 of this show, he's become a gunfighter, something I'd never imagined of Mr. Lemmon.  Also 50 something Mr. Powell is a sheriff who can shoot the gun out of the hand of the best gunfighter around.  Some stuff that's pretty hard to swallow today, but was very common back then.  And then there's Ralph Bellamy defending a wife who's about 30 years younger and winning her heart over a young handsome James Garner.There are special features on the last disc.  An interview with Dick Powell's son, another with a women who's researched Dick Powell's Four Star Productions, and some vintage commercials.  Neither is a big deal, but it's always nice to have something.  Also I'd add that I was content with the overall quality of the restoration.  There's a disclaimer run on each disc that basically says "we did the best that we could with what we had" - and I believe them and I'm satisfied.Overall I'd say this show is more like "Wagon Train" than "Gunsmoke".  Every week a completely new character to watch.  As much as a couple of shows wanted to make me gag, I'd say overall I very much enjoyed them, my favorite two probably being episodes 11 and 12 that I've already mentioned (and this is the 50 somethingish old sheriff who shoots, but that ain't the end of the that story).  I'd say 29 episodes (the reviewer who listed 30 has a duplication on the Robert Ryan, Cloris Leachman a.k.a.) if they can be picked up for $20ish is something I'd be willing to do again after having watched them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The crooner goes west. </p>
+
+
+<h2> review.date </h2>
+  07-22-2010  
+<h2> review.text </h2>
+
+ <p> Dick Powell's Zane Grey Theatre, is one of those wonderful old western series that has remained neglected for far too long, the always appealing ex crooner,  Dick Powell introduces the 30 minute stories, and even stars in an occasional one! Famouse guest stars are plentiful, and 'soon to be' stars that were on the way up, are fun to spot as well. Picture quality on this set is excellent, and I for one can only hope further seasons of this entertaining old series are forthcoming!  How great to re issue these wonderful kinds of shows from back in the era when television really WAS entertaining! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best of the West </p>
+
+
+<h2> review.date </h2>
+  06-22-2009  
+<h2> review.text </h2>
+
+ <p> Just completed watching this new release of Dick Powell's Zane Grey Theatre! And happy to say that all the shows where very enjoyable! The other two reviewers pretty much cover this set so I can't add much to what they've already stated! Expect to say, that I liked the fact that every episode has a new star or stars so "every week" the show was completly new. And I like the introduction by Dick Powell at the beginning of every episode; it added a nice touch and gives some back ground info on western history beofre the show starts!Lastly, the DVD's transfers and restoration process is very good for film from the fifties! Bring on season two!!PS> Its the whole season one! Not season 1, vol. #1 followed by vol 2 and 3 as some businessmen have packaged other products trying to squeeze every buck out of the buying public! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Classic Western TV! </p>
+
+
+<h2> review.date </h2>
+  06-06-2009  
+<h2> review.text </h2>
+
+ <p> In the early days of television way back when in the 1950'sand 1960's the most successful shows, were not cop or sci-fi shows,it was the almighty western. Of course by today's viewers standardsthey are all but gone, no where to be found.So is it any wonder that our friendly VCI Entertainment has looked intotheir crystal ball and come up with another gem releasing "Dick Powell'sZane Grey Theater: Season One". Master storyteller and author Zane Greywas one of the famous writers of western novels for the longest time.That being the case, the books of Zane Grey were an obvious choice for agreat satire of wonderful stories from the early days in America.Powell served as a sort of western Rod Serling hosting the showwhich featured a new western adventure each week. At times would alsostar in the episodes. The show at first only did Zane Grey stories buteventually did other stories as well.Zane Grey Theater was created by Luke Short and Charles A. Wallace. Theseries was originally based on the short stories and novels of Westernauthor Zane Grey, but as the episodes continued, new material wasincluded. Aaron Spelling, who later became a legend in Hollywood, wrotetwenty Zane Grey episodes. The program opened with a prelude of theepisode followed by the introduction, the firing of a gun, with theproclamation: "From out of the West, Dick Powell's Zane Grey Theater".SPECIAL FEATURES:1.  Episode Selection2.  Video Interview with Norman Powell (Dick Powell's son) by Joel Blumberg3.  Audio Interview on the history of Four Star Productions with author Christine Becker by Joel Blumberg4.  Classic TV CommercialsHats off and thanks to Robert Blair and his staff at VCI Entertainment --- VCI was named in Variety and Hollywood Reporter as the first company to produce and release motion pictures directly to the home marketplace --- order your copy now from Amazon or VCI Entertainment where there are plenty of copies available on DVD, stay tuned once again for top notch releases --- VCI are experts in releasing long forgotten films and treasures to the collector -- looking forward to more Nostalgic Collections --- please stand up and take a bow for film and TV Western Classics --- all my heroes have been cowboys!Total Time: 870 mins on DVD ~ VCI Home Video 8525 ~ (06/09/2009) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Zane Grey Theatre (1956-1957) ... Dick Powell ... VCI Ent. (2009)" </p>
+
+
+<h2> review.date </h2>
+  06-13-2011  
+<h2> review.text </h2>
+
+ <p> I had never seen these westerns before.What a treat.I own 1000s of westerns and western tv series.And these rank near the top. Great stories. Great acting. Named stars. Future stars.I hope that they release the next seasons. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> THE BEST </p>
+
+
+<h2> review.date </h2>
+  08-26-2009  
+<h2> review.text </h2>
+
+ <p> I just finished the first season. The major assets are the great actors that Powell was able to get. The shows were generally quite well produced, too. Some of the stories were great, like Badge of honor and Courage is a gun (with Powell himself). The last two were quiet poor, however. The last one was done totally from the point of South and concerned about a Southern spy during the civil war. Here in Europe the Southerners are the bad guys supporting slaverty, so this dedication to this cause was difficult to take. Also, the indians were treated badly in the series. Even Powell made some bad jokes about indians in his introduction. I always hope that the white men will lose in the fights, but not in this show.But perhaps I am too harsh. It is impossiple to have high level stories every week. It was really nice to see Jack Lemmon, David Niven, Ida Lupino, Rory Calhoun, Lloyd Bridges and many others. I am sure I will buy the next season, too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great, but uneven series </p>
+
+
+<h2> review.date </h2>
+  01-23-2011  
+<h2> review.text </h2>
+
+ <p> I was born in 1952 and have a slight memory of Dick Powell hosting a TV show but cannot remember any of these programs.  Watching the Dick Powell's Zane Grey Theatre series is all new to me. I received my set on Friday and have watched 2 of the 4 DVD's of Zane Grey Theatre Complete Season One. I have really enjoyed viewing this series and will hate when I have seen the last episode. I WANT MORE!  The writing and acting is outstanding.  I have a new respect for character actors.  The series is QUALITY and the acting is EXCELLENT.  I do not watch any new drama or comedy series that are currently on televison.  The programs just do not compare to the old ones (50's and 60's).  I want the other seasons made  available for purchase soon! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Superb!  Zane Grey Theatre Complete Season One </p>
+
+
+<h2> review.date </h2>
+  02-16-2014  
+<h2> review.text </h2>
+
+ <p> I am enjoying watching these episodes again.  They bring back memories and it is fun to see so many stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice quality </p>
+
+
+<h2> review.date </h2>
+  03-05-2013  
+<h2> review.text </h2>
+
+ <p> Great TV experience watching all the wonderful guest stars.  It's amazing how great the old black and white shows look on a big screen TV.  It brought back wonderful memories of a wonderful time in my life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful TV </p>
+
+
+<h2> review.date </h2>
+  03-29-2013  
+<h2> review.text </h2>
+
+ <p> I got this before they said I would . That was so nice . I got this as a gift so I have not watched it  . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> gift </p>
+
+
+<h2> review.date </h2>
+  09-04-2009  
+<h2> review.text </h2>
+
+ <p> Dick Powell made quite a career for himself in television after a long and remarkable career in motion pictures. His business mind and friendly personality made him an excellent producer-director, and he worked with some of the best talents of the era. This is the first complete season of his Zane Grey theatre, a series he felt strongly about. It incorporates his love for anthologies and his appreciation for author Zane Grey.There are many stories presented, too many to get into, but the series does an excellent job of capturing the old west and the values of an era gone by. Guests included Powell himself, Cloris Leachman, Ida Lupino, Jack Lemmon, Wendell Corey, Carolyn Jones, David Niven, Ernest Borgnine, Beulah Bondi, and many others.Thankfully, VCI has gone through pains not only to restore the image quality of the series, but also to find the most complete openers to each episode. Powell introduced each episode with short stories or lessons about the old west, and many were cut during re-runs to omit mention of previous sponsors. In some cases, the originals were unable to be found, but in many, the complete introduction is presented. On top of that, we get to feast on vintage commercials and an excellent interview with Dick's son Norman Powell. The interviewer cuts Norman off a few times and occasionally abruptly changes the subject, but Norman seems a willing and knowledgable interviewee.If you are a fan of Zane Grey, classic television, or Dick Powell, you will love this set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Work, VCI! </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> came on time AOK  very good entertainment for old westerns </p>
+
+
+<h2> review.summary </h2>
+
+ <p> came on time AOK very good entertainment for old </p>
+
+
+<h2> review.date </h2>
+  01-09-2013  
+<h2> review.text </h2>
+
+ <p> Dick Powell hosts and now and then stars in this digitally remastered half-hour TV anthology series from the 1950s. A host of actors - some past their fame but more just becoming household names - are starred in the western tales. Of course these films were shot prior to the color craze of the mid-60s, so all have the advantage of that brilliant black and white lighting and photography. Since this series was prior to &#34;Gunsmoke,&#34; billed as the first adult western, today's viewers will take issue with that boast after viewing these offerings. Virtually all offer a bit more angst than found in the usual western fare back in that era. If you like westerns and a chance to see the beginnings for some acting careers that skyrocketed before they ended on this plain and resumed on that silver screen in the sky, then grab a copy of Dick Powell's Zane Grey Theatre. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Anthology Series From 1950's Has Its Moments </p>
+
+
+<h2> review.date </h2>
+  04-25-2010  
+<h2> review.text </h2>
+
+ <p> This is not so much a review as it is a request . DICK POWELL'S ZANE GREY THEATRE was not just a great series...it also produced several pilot episodes for subsequent T.V. series produced by his production company,FOUR STAR PRODUCTIONS.One such pilot was included in this first season, "BADGE OF HONOR".This episode served as the pilot for the powerful CBS western series, TRACKDOWN...which starred the late great ROBERT CULP.This  series lasted 70 episodes in the late 50's, and actually served as the pilot for the successful STEVE McQUEEN series, "WANTED:DEAD OR ALIVE".But, unlike that,and many other FOUR STAR series,that have been released on DVD,including THE RIFLEMAN, BURKES LAW, HONEY WEST, and others, Robert Culp's TRACKDOWN has not,although several episodes were shown on TV LAND in the early 2000'sIn the light of Mr Culp's recent passing , please consider this a request to put TRACKDOWN  on DVD, as well as another successful FOUR STAR  T.V. series, THE DETECTIVES Starring ROBERT TAYLOR.BOTH series are long overdue for DVD release. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> TRACKDOWN...Starring ROBERT CULP ... Put it on DVD !! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

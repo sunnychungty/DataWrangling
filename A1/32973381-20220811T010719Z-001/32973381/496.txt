@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00L2RFDJS <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-21-2014  
+<h2> review.text </h2>
+
+ <p> People are actually paying for a summary of a book instead of reading it?  You have to be kidding. The detailed summary removes all that is great about this novel. There is so much symbolism and  shading in the book that is lost in the clinical rehashing of a time line. There was real suspense in this book. Why would anyone want to spoil the experience of reading good literature by revealing the plot? Whose idea was this? Hopefully the thirty minute summary idea  will prove to be a commercial failure, and good old fashionedreading will triumph in the end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> To read a book or not to read; that is the question. </p>
+
+
+<h2> review.date </h2>
+  07-17-2014  
+<h2> review.text </h2>
+
+ <p> I love the idea of a summary before you read a book, or to help you understand one you have read. this was really well written! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good </p>
+
+
+<h2> review.date </h2>
+  06-27-2014  
+<h2> review.text </h2>
+
+ <p> This is an amazing story written by Anthony Doerr, a truly brilliant author with some very fascinating works. 'All The Light We Cannot See' is a beautiful work of fiction that is sure to leave you dumbfounded. Based in  the WWII, this story revolves around two people, Marie Laure, a blind woman, and Werner. It's about how their paths cross amidst all the chaos and war. This story is sure to leave tears in your eyes once it's over.InstaRead summaries makes reading books very easy. I wasn't sure if this book was good and reading this summary helped me come to a conclusion. This would save a lot of wasted time on books that aren't worth reading. These summaries are so detailed that reading them would be as good as reading the real thing. It has a chapter-by-chapter break-up and tells you only the things that play an important role in understanding the story and leaves out the rest.I loved this book a lot and would recommend everybody that's skeptic of reading the entire book to read this summary first. The story line is simply dazzling and the summary is very well-written. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful Story! Very Well-Written Summary. </p>
+
+
+<h2> review.date </h2>
+  07-11-2014  
+<h2> review.text </h2>
+
+ <p> This is a great summary of the book &#34;All the Light Cannot See&#34;. In this book you will find a summary of the entire book, description of the characters and also summary of each chapter with key events that happened in each of them. The summary is analytical, engaging and highlights most important things in the book. If you want to get an excellent summary of &#34;All the Light We Cannot See&#34; or get familiarize with its content quickly I can recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great summary of the book "All the Light Cannot See" </p>
+
+
+<h2> review.date </h2>
+  07-15-2014  
+<h2> review.text </h2>
+
+ <p> A young woman lost her sight at 6 years old and her father does the best he can to help her live a normal life.  This is during the time of WWII and her father takes her to Germany to get help where she meets a man named Werner who falls in love with her but knows she is safer without him.  He chooses to stay with her and the book shows how even during the worst times fate made their paths cross.  This book shows what does happen in real life and will leave you awed at the chaos and beauty that can be found within.The author does a great job in detail explaining each character and the summary of chapters to get you engaged in the story wanting more.  It leaves you looking for the full version to find the entire story but gives you enough to know whether the book is worth the purchase and the author clearly gives you a great start to a great book.  His is a great war story of chaos, war, love, life, and reality.  The love story within the book captivates your attention.  These insta-read summaries are a great buy for any book because without them you might end up realizing if you had checked the insta-read out first you will know if you would love the book or not.  This author does a great job in doing this for all readers.  I highly recommend reading this insta-summary to get you captivated in knowing the entire story.  I would give more information but it would give away all of the details that lie within the book.  A must read, well written and well summarized version.  I highly recommend this book to others.  It&#8217;s not just about war but about life.  Even those who do not like war books will love the characters and the way they rise above in the times of war.  Leaving you wanting more to purchase the full version.The blind woman gives you a great view in the world she cannot see but with her perspective you can learn a lot from her view and understanding of times like these.  I highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well Written, Highly Recommended Book for Readers, Leaves you Captivated. </p>
+
+
+<h2> review.date </h2>
+  06-21-2014  
+<h2> review.text </h2>
+
+ <p> It is a remarkable story about two characters on opposing sides of WWI. It is an investigation into the stories that ask difficult questions about the nature of war, exploring themes of moral ambiguity and invisibility. Fantastic read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Remarkable Story </p>
+
+
+<h2> review.date </h2>
+  06-20-2014  
+<h2> review.text </h2>
+
+ <p> This is a beautiful story, an astounding meditation on the paradoxes of fate, human relationships and nature. Fans of Doerr, rejoice: This might be his best book yet. I am off to buy the book and read how wonderfully Doerr has written the book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great story.... </p>
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> I gave this book 5 stars for several reasons. I love how this book has a list of characters so that you know who is who from the beginning of the story. It gives a chapter by chapter summary of what happens in each chapter.  It is a great addition to the original book. You can read this one after words to make sure you did not miss anything. If you are doing a book review on the original book for school, this is a great addition! At the end of the book it lists key happenings to make sure you got every necessary point out of the book. If you have ever read the original book and want to refresh your memory, this is a great book to do that with.This book tells the story of war. If you love war stories, this book is for you. Werner is a brilliant kid that teaches himself how to fix radios. This helps him get into school where he figures out how to tap into illegal radio transmissions. This receiver he built helps him when he goes to war. It even has a little love story between him and Maria-Laure. This is a great book and I recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great War Book </p>
+
+
+<h2> review.date </h2>
+  07-12-2014  
+<h2> review.text </h2>
+
+ <p> &#8216;All the Light We Cannot See&#8217; is a beautiful war story, set in WW2, revolving around the lives of Marie and Werner. I was tentative to read the entire book so I decided to try out the 30 minute summary and I loved it! This summary is quick but well written and includes all the main events in detail as well as character descriptions. It made it easy and helped me to understand the content of &#8216;All the Light We Cannot See&#8217; and is an excellent summary. I would highly recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brilliant summary of a great book! </p>
+
+
+<h2> review.date </h2>
+  07-16-2014  
+<h2> review.text </h2>
+
+ <p> What kind of craziness is happening at Amazon--putting out Cliff's Notes for people who are too lazy or distracted to read a book??!!  I read the &#34;Instaread Summary&#34; of All the Light We Cannot See AND the entire book itself and there is no comparison--the summary stunk!  The shadings of emotional and metaphorical detail are completely missing from the stupid (yes, stupid!) summary.  Could someone please explain to me how the experience of reading a book as written by an author is in any way, shape, or form the same as reading redacted little NOTHINGS of said book?  Has Amazon lost its mind or are people really stupid and lazy enough to settle for this tripe? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Is this a joke? </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

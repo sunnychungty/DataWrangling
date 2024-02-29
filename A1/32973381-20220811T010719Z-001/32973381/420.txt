@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B006W4F7CY <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> If you can get this book for free as I did near Valentine's Day, it's cute.  I honestly wouldn't pay $.99 for just 14 puzzles from anyone but feel it only fair to rate it as 5 stars for what it is, creative and quick, fun puzzles. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Valentine Day Treat </p>
+
+
+<h2> review.date </h2>
+  02-13-2012  
+<h2> review.text </h2>
+
+ <p> 14 Valentine Puzzle Quizzes is a perfect game for the Kindle especially around Valentine's Day. The puzzles are not too easy because each one is differnt and you have to pay close attention to the pictures of the puzzles. They are not too hard to decipher, but I am glad I don't keep score. It is a delight to find a puzzle game that is so handy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very interesting </p>
+
+
+<h2> review.date </h2>
+  01-24-2013  
+<h2> review.text </h2>
+
+ <p> did not order this, daughter did, this is not my type of game don't even know what type puzzles are on it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Puzzlebook: </p>
+
+
+<h2> review.date </h2>
+  12-28-2012  
+<h2> review.text </h2>
+
+ <p> I really like this. It is fun and interactive and something that your love can do with you. Two thumbs up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Valentine Puzzle quizzes </p>
+
+
+<h2> review.date </h2>
+  11-20-2012  
+<h2> review.text </h2>
+
+ <p> The puzzles were fun but didn't last long. I was thru all of them in no time. Would have been nice to have more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ok </p>
+
+
+<h2> review.date </h2>
+  04-11-2012  
+<h2> review.text </h2>
+
+ <p> I enjoyed the earlier puzzle offering and this one is much like that one.  Easy to use, let's you retake it if desired. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> puzzle quizzes </p>
+
+
+<h2> review.date </h2>
+  04-30-2013  
+<h2> review.text </h2>
+
+ <p> I wish there w wasn't only hearts it made it kind of boring otherwise the puzzles were challenging and fun. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Less hearts </p>
+
+
+<h2> review.date </h2>
+  02-23-2012  
+<h2> review.text </h2>
+
+ <p> clever puzzles and worth spending time on. challenge your mind, excercize your little grey cells. I would wish for a better way to flip back and forth to the solution but that does slow me down from cheating easily. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> interesting </p>
+
+
+<h2> review.date </h2>
+  06-18-2012  
+<h2> review.text </h2>
+
+ <p> This puzzle book is enough to fill your 10-20 minute breaktime from work or school.  Although suited for the love month of February, this can be perused any other month as well.  It's a short entertainment to pass time, while keeping score on your problem solving capability minus the pressure that problems entail, so it becomes fun.  Downside here is once you've solved the puzzles, there's no reason to go back to it again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> breaktime </p>
+
+
+<h2> review.date </h2>
+  02-15-2013  
+<h2> review.text </h2>
+
+ <p> Too much to don't  buy at least if you are not be able the it is nonpublic prey on the Muppets </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Snooze fest </p>
+
+
+<h2> review.date </h2>
+  03-10-2013  
+<h2> review.text </h2>
+
+ <p> This Is a good puzzle book.  It's short, but sweet,  before I could get on a roll it was over, </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Puzzles to solve </p>
+
+
+<h2> review.date </h2>
+  01-30-2012  
+<h2> review.text </h2>
+
+ <p> Really enjoyed this Valentine-themed puzzle pack from the Grabarchuks- it's Lovely! This is the 2nd of their PuzzleBooks that I've played on my iPad via the Kindle App, and seeing the challenges in color is a treat. If you've never tried their books before, the puzzles start off easy and progress to Very Hard. Overall, they do a great job in rating the level of difficulty, so beginners and experts will both enjoy this neat collection. Hope they continue the themed puzzle back releases, they're very creative and a lot of fun. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun Puzzle-Theme Pack! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

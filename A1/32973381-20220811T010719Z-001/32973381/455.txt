@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00BB6BGY6 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-18-2013  
+<h2> review.text </h2>
+
+ <p> It was interesting. Chloe was really observant. Like really. But the leading makes girlfriend was a really piece of work. No one deserves to be bullied. NO ONE. She stood talk either way. It became dangerous. But others an okay story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> uh ok </p>
+
+
+<h2> review.date </h2>
+  06-08-2013  
+<h2> review.text </h2>
+
+ <p> I gave this book five stars on the grounds that I greatly enjoyed reading it. Still, it is not a very challenging read, and it is not one that I would be likely to read again. Chloe's Notebook called to mind TV westerns from the '50's, in which the good guys (white hats) could be distinguished from the bad guys (black hats) at a glance. There is very little nuance: the good guys are pretty much always good, and the bad guys have no redeeming qualities.I can accept that, though. Sometimes nuance can be tiresome, and it can be great to wholeheartedly root for the heroes.Still, given that, I had one difficulty that I found very hard to resolve: Chloe. Two questions:1. Can any high-school girl be so completely brilliant, beautiful, wise, kind, virtuous, patient, and, above all, mature, as this amazing teen?2. If the answer to the first question is &#34;yes,&#34; how is that at least half of the guys in town are not camped out on her doorstep.To answer my own questions: Chloe is not COMPLETELY perfect. There are a couple of very brief moments where she displays a touch of jealousy and/or self-doubt. In truth, they were among my favorite moments, since we actually obtain a glimpse of her as a human being. Of course, we never really know Chloe directly --- we see her only through the eyes of the guy who is completely besotted with her. I like to think that, if we could view the story from her point of view, she might come across as more human and less plaster saint.As for my second question, I see two possibilities: first, Chloe is exceptionally good at staying inconspicuous; second, if she is truly as awesome as Alex thinks she is,  a lot of guys probably find her just too intimidating.I hope that this does not come across as too negative. As I said, I enjoyed reading the book, and I would be pleased to read other books that he author might publish. If you do not expect more than that, you won't be sorry that you read it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> As Feel Good as They Come! </p>
+
+
+<h2> review.date </h2>
+  05-06-2013  
+<h2> review.text </h2>
+
+ <p> BEST BOOK I EVER READ!!!! I have to read this 3 more times just to be satisfied!!!! OMG I love this boooooooook! I wish I could only give it a higher rating. Chloe's notebook inspires me to find the best in me. It's is those little things that Chloe notices and when someone else doesn't know what's happening, Chloe does. Alex has seen the best in her and they maybe complete and total opposites, but defiantly meant to be:-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chloe and Alex </p>
+
+
+<h2> review.date </h2>
+  06-15-2013  
+<h2> review.text </h2>
+
+ <p> I did enjoy this book and found the story of the cute popular guy actually seeing something beyond good looks refreshing.  However I did not exactly find it believable that Chloe was as sainted as Alex saw her, the girl literally had no flaws, which is so unrealistic.  I understand that the book is told exclusively from Alex's POV so you can see how he probably didn't see any flaws with the girl he is just falling in love with but I found it hard to connect with her as a character.This story is also very clear cut about who are good and who are bad with no shades of grey allowed, but even that can be good for a story as you definitely know on who's side you want to be on :)I would recommend this book if you are looking for a YA first love story that shows a strong and clear message on right and wrong but don't expect any great revelations or for this to be a story that will stay with you for a long time.  It is enjoyable and fun but that is about it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK story </p>
+
+
+<h2> review.date </h2>
+  09-23-2013  
+<h2> review.text </h2>
+
+ <p> This is a good book, I loved it. It was kind of the same as every other high school love story I've read, but a bit more drama-ish and actiony (don't mind the made up words, I do that a lot). It was a nice change and I loved the characters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read but it gets kinda weird </p>
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> I was able to read a friend's copy and had to buy my own today!  If you want a book that takes you to the angst of high school while finding the the joy of first love, this is the book for you!  Alex is the guy I wanted to date at 16- handsome, smart athletic, and honorable.  Chloe is what I wanted to be- smart, focused and desired by the cutest football player at school.  Great job Kristin!  You made this 30-something lady feel like she was back in high school again.  :-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chloe's Notebook Took Me Back a Few Years!  :) </p>
+
+
+<h2> review.date </h2>
+  01-03-2014  
+<h2> review.text </h2>
+
+ <p> Good story premise and seemed to have a handle on the way teens think.  Glad it ended the way it did.Only negative is too much language for me.  I can't recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cohesive and kept my interest </p>
+
+
+<h2> review.date </h2>
+  06-17-2013  
+<h2> review.text </h2>
+
+ <p> Chloe's Notebook was not high on my to-read list but it popped up in my Amazon recommended books so many times that it wore me down.  So, I was mostly pleasantly surprised in that respect.  It was much better than I expected...but still not awesome.  On the good side, it had some very sweet moments, the reader doesn't have to wait until the end for them to be together, there is more than one storyline worth caring about and there is some very suspenseful action. It wasn't awesome because the characters, the foreshadowing that wasn't foreshadowing and the end.  The characters were kind of blah. That's probably a bit harsh but Alex, the narrator and MC was supposed to be smart but had horrible judgement and was kind of awkward (not in a cute way).  Chloe was like a robot, no emotion until the end.  And even then it was too little, too late. I mean, yes, she showed some emotion but she certainly didn't make me believe she was in love.  I'm sure an argument could be made in their defense but I didn't love them enough to bother with rationalizing for them.  As for the foreshadowing that wasn't foreshadowing, there were several parts of the story that were seemingly random but stuck out and so I thought they were foreshadowing but then nothing came of them so they really were just random.  That's just weird. Why put emphasis on random things?  Finally, the end.  It wasn't bad.  I'm glad that things turned out as they did but it didn't feel finished either.  So it wasn't very satisfying. Again, it wasn't bad, just not awesome. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, not great. </p>
+
+
+<h2> review.date </h2>
+  02-08-2013  
+<h2> review.text </h2>
+
+ <p> Way to go Kristin!  I really enjoyed this book and read it in one day because I couldn't put it down.  It was a great combination of secret crush, teen drama and danger.  I was surprised by the suspense and thoroughly enjoyed the roller coaster ride of emotions all of the characters had to experience to find a happy ending.  I would let my 14 year old daughter read it as well as recommend it to friends and family. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really enjoyed! </p>
+
+
+<h2> review.date </h2>
+  06-30-2013  
+<h2> review.text </h2>
+
+ <p> "Alex isn't in love with Makaylah, but he has to put on a show. He has to maintain his image." --ChloeI wasn't sure exactly what to expect when I opened up Chloe's Notebook , just that it had the outlook of being a younger teen's book and I was semi on the right track. The story starts off with neighbours Chloe and Alex banging into each other and Alex ending up with Chloe's prized possession - her Harriet the Spy type notebook in which she has jotted down pages and pages of observations over the years about her classmates and teachers and family. What happens next is that the notebook lands into the hands of Makaylah, the most popular and conniving girl in school and soon Chloe's observations are plastered all over the school to see. Alex doing what he thinks is right, breaks up with Makaylah, but it definitely doesn't end well as we read as Makaylah's true colours are revealed and she will do ANYTHING AND EVERYTHING to be the centre of attention, even if it means hurting and spreading malicious rumours around. I personally found the character of Makaylah to be a manipulative cow and an evil b***h. Soon Alex pairs up with Chloe to get the notebook back and in doing so, he realises that she is who he is supposed to be with.Chloe's notebook is not only a story of revenge but it is also a tale of true friendship that can arise from tragic and unfortunate events.Chloe's Notebook also reminded me alot of the Book and Movie Storyline of Harriet the Spy when her notebook landed in the wrong hands and her observations were revealed to the school and her friends.Chloe's Notebook is aimed at girls between 12-16yrs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For those who loved Harriet the Spy </p>
+
+
+<h2> review.date </h2>
+  06-15-2013  
+<h2> review.text </h2>
+
+ <p> I read a lot. This book held my interest and kept me entertained. I would recommend it to other avid readers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great reading. </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> I never really connected well with the characters. I would have liked more of a back story with them. But i felt the ending was appropriate for the characters and I would've hated the book if it ended in other way. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Didn't love it, but cute read </p>
+
+
+<h2> review.date </h2>
+  06-09-2013  
+<h2> review.text </h2>
+
+ <p> It wasn't too great. I picked it up thinking &#34;hey, i have nothing to do, and this book looks pretty good.&#34; Yeah, as you can tell by my two star review, I was very wrong. Quite simply, the characters were boring and unrealistic, and there was no plot. Seriously! No one in real life acts like the characters in this book, and you really had no idea where the story was going. And the ending was pretty rediculous in my oppinion.I wouldn't read it again or reccomend it to anyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ehh </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 6303359582 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-07-2000  
+<h2> review.text </h2>
+
+ <p> Anne Marble has been trying to make me a fan of classical pianist Glenn Gould for ages.  After watching this film twice and then ordering the CD of the music, I must admit that she has won.  I don't even like classical  music generally but Gould's passion and charisma cross all boundaries plus  reach out and grab one by the throat.  I just can see me collecting one CD  after another of GG's in the future and I didn't need another obsession!  A  great scene in this film is GG playing the piano while we see items from  his medical situation pass across the screen: Xrays, blood pressure counts  and so forth.  This was a very effective way of foreshadowing his stroke  and death at age 51. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm A Convert! </p>
+
+
+<h2> review.date </h2>
+  01-11-2013  
+<h2> review.text </h2>
+
+ <p> This is one my favorite films and I nearly wore the VHS copy I owned out. It was beautiful to see it again so crisp and clear after so many years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Back on DVD at last </p>
+
+
+<h2> review.date </h2>
+  05-31-2012  
+<h2> review.text </h2>
+
+ <p> "Thirty Two Short Films About Glenn Gould" (1993) is directed by Francois Girard (The Red Violin). The film is constructed with 32 vignettes which span Gould's life from the age of four to his death at the age of fifty. The film has no linear narrative, but is instead represented by a mosaic of intriguing bits and pieces of Gould's life as seen through interviews, and re-creations of Gould's life. The film's form is inspired by Johann Sebastian Bach's Goldberg Variations which was Gould's first acclaimed recording back in 1955. The segments range from less than a minute to six minutes in length, and give a complex and impressionistic view of this reclusive piano player. A documentary entitled "Genius Within:The Inner Life of Glenn Gould" (2011) offers further insight into this virtuoso pianist's life.This dvd looks good, but there are no special features. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A mosaic of images... </p>
+
+
+<h2> review.date </h2>
+  09-11-2002  
+<h2> review.text </h2>
+
+ <p> I doubted that a biography of any pianist, even somebody as eccentric and talented as Gould, could hold my attention for the length of a feature film -- even one that purports to be 32 separate films. I was wrong.Thirty Two Short Films about Glenn Gould is an incredible venture in story telling, in biography, in education, and an heroic attempt to show a story from multiple vantage points, using a varied set of devices.As each of the 32 "short films" evolve, a web develops, connecting details and revealing an incredible life. We get less a biographical theory in this movie, than a larger set of questions than we dared to ask before the film began.I found the experience to be brilliantly artistic and mentally stimulating. The cinematography builds mood and the music is unsurpassed. Definitely not an action movie--most skateboarding teenagers would rather have root canals than sit through this. Let them watch DUNGEONS AND DRAGONS or ORANGE COUNTY.I thoroughly enjoyed this movie without reservation. It earned more than the mere five stars Amazon will let me give it.(If you'd like to discuss this move or review in more detail, please click on the "about me" link above and drop  me an email. Thanks!) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Non-linear Story Telling at its Best </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> This short film is emotional and intense, if a bit avant-garde and eccentric in its manner of revealing the biography of Glenn Gould.  What is inescapable is the palpable sense of the artist's isolation and alienation from the modern world -- whether he's walking alone on Canadian ice or having his music sent out into outer space via a time capsule.  Glenn Gould is the quintessential artist being portrayed here, and the Wagner pieces as well as the Bach Preludes are not to be missed.  This odd film remains one of the most memorable films I've seen in my sixty years of living.  I saw it in the movie theater when it first came out and, later, i watched it from my computer online.  It is worth watching and worth rewatching. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Made Me Cry </p>
+
+
+<h2> review.date </h2>
+  06-20-2002  
+<h2> review.text </h2>
+
+ <p> This film is kind of a biography of Glenn Gould portrayed through thirty-two vignettes, the number that matches the number of Goldberg Variations by Bach, of which the Theme opens and closes the film, along with the introduction of the recurring theme of Solitude that Gould was enamored with by showing the actor approaching/walking away from the camera in a barren winter landscape.The only reason I did not give the film 5 stars was that not all of the short films were equal in strength.  There is definitely enough variety, though, to keep most anyone interested throughout the picture, even if you are not a Glenn Gould buff.Colm Feore does an absolutely excellent job portraying the artist and brings out many facets to who we can assume GG was through his writings and interviews of those who knew him.The shorts contain histories, animations, musical performances, dramatized life scenes, interviews with friends and colleagues, writings brought to life, and more variations visually and musically that really are diificult to describe.I am a musician, though not a pianist, and some of the shorts I found moving and beautiful to the point of getting me misty-eyed, and beyond that I found the explorations of the man simply fascinating.  I was encouraged through seeing this film to buy the book The Glenn Gould Reader, which is a great collection of many of his intelligent and witty writings.This director also gave us The Red Violin, and even though these two films could be considered as different genres, I truly enjoyed this one more between the two (though I do own both). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Moving and unique </p>
+
+
+<h2> review.date </h2>
+  05-02-2013  
+<h2> review.text </h2>
+
+ <p> Watched this movie for the first time in a long time and it still holds up.  Fantastic compilation of disparate scenes that together paint a portrait of the artist, much like a Monet painting.  Only problem is Sony did a terrible job on the DVD.  The picture is poor with many scratches and pieces of dirt visible throughout.  It looks like a VHS version of the movie.  The sound is only Dolby 2.0 causing the vocals to be lost in the music mix in many scenes.  Buy it for the quality film-making but this is crying out for a Criterion release. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT MOVIE BAD DVD TRANSFER </p>
+
+
+<h2> review.date </h2>
+  05-04-2012  
+<h2> review.text </h2>
+
+ <p> The movie is a brilliant non-lineal biographical exploration of the man and musical genius that was Glenn Gould.  Thirty-two short film sequences present various facets of his life.  The movie doesn't pretend to "capture" Gould.  That would be impossible.  What it does magnificently do is allow the viewer to glimpse the complexity of one of the most truly controversial artists of the last hundred years.It's one of the those rare movies that requires the viewer to think as well as feel.  I know, that's a shocker.  Some of the reviews on Amazon by casual viewers who really didn't have a clue what they were getting into when they slipped this one into their DVD player reflect that (see those under the listing for the original release).  I have nothing against popcorn, but this isn't your typical popcorn movie.  If you don't know who Glenn Gould was - or wouldn't care if you did - you're not going to like it.  If you like linear plots that can be summarized in three short sentences (or less) and you have a short attention-span, you're not going to like this movie.The most important thing is, this is the re-release of the original DVD which has been out of print FOREVER.  The original has been one of the top 5 hardest-to-obtain DVDs of the last ten years.  Just check out the outrageously expensive copies of the original release for sale on Amazon right now.  Rejoice, because this new re-release is identical to the original.  The only difference is Sony now owns the distribution rights and the cover art is slightly different.Take advantage of the low price of this re-release.  The film was never intended to appeal to a large general audience.  This isn't Bambi, with ten million copies available.  The re-release isn't going to be around long and new copies will soon dry up.  When that happens, the online sellers will jack the price of remaining copies up to the stratosphere, as they have with the original release.  Don't say I didn't warn you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Long Awaited Re-Release of the Out-Of-Print Original </p>
+
+
+<h2> review.date </h2>
+  02-01-2014  
+<h2> review.text </h2>
+
+ <p> years ago i had this on a VHS tape, and as it deteriorated i got more and more worried i'd lose it; film is brilliantly organised around Gould's eccentricities  stock market, with pill taking, and pre-concert rituals, etc. - the acting is most credible and the whole is punctuated by his music making - totally absorbing.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> superb performance and sublime music </p>
+
+
+<h2> review.date </h2>
+  02-22-2013  
+<h2> review.text </h2>
+
+ <p> This series of short films forms an excellent introduction to the quirky brilliance of Glenn Gould.  Although the filmmaker may have taken a few small liberties, the overall impression I received of Gould wasn't that different from the one I received from reading the "standard" Gould biography Wonderous Strange by Kevin Bazzana, who, by the way, didn't like the film.The film tends to play up some of Gould's legendary eccentricities and reinforces the legend of the "genius nut." Some biographers feel that Gould wasn't nearly as strange as some people think, although even they admit to his compulsive humming and singing along with his performances (recording engineers struggled, not entirely successfully, to remove his noises from his  recordings), his raging hypochondria (he died just after his 50th birthday, which reminds me of the inscription on the hypochondriac's tombstone "I told you I was sick!") and his passionate interest in the well-being of animals. He left half of his royalty rights to the Salvation Army and the other half to a Canadian humane organization, so a bit of each sale of his recordings helps care for homeless and hungry humans or injured and abandoned animals.I understand it may not play on some U.S. DVD players. I was able to watch it on my computer with no difficulty, but you might want to take a look at the requirements for playing it on the item page. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brilliantly conceived and acted </p>
+
+
+<h2> review.date </h2>
+  11-14-2013  
+<h2> review.text </h2>
+
+ <p> Glenn Gould is the person you'd want to be your neighbor in the afterlife, practicing with his window open, wouldn't need to chat. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too bad he didn't have more time with us </p>
+
+
+<h2> review.date </h2>
+  07-29-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed the film from beginning to end.  I am an admirer of Glenn Gould and every piece of information I find about him I like it and find it interesting.  This short films are marvelous.  You can alqys take what you want , believe what you want and keep researching... I recommended </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fan of Gould </p>
+
+
+<h2> review.date </h2>
+  12-20-2000  
+<h2> review.text </h2>
+
+ <p> As loyal and close-mouthed as Glenn Gould's family and friends have been over the years, a standard biopic was pretty much out of the question.  So, the creators of this film hit upon the ingenious idea of applying the montage technique to Gould's life.  The impression thus created is a bit breathless--we're re-engaging with the subject thirty-two times in the course of the film, remember--but effective.  Some sections are simple and brief; one is just a circling shot of Gould (an actor,really) seated in an empty room. Others have more narrative focus, like the one in which Gould makes a killing in a bear market.One bit I would have liked to have seen recreated was Gould's visit to Russia in the late '50s.  Van Cliburn had wowed the Russians shortly before.  They were impressed with Gould also, but they had cause to be nervous of him, too.  On a now out-of-print cd that I own, Gould is lecturing conservatory students in Moscow about twelve-tone and atonal music, playing selections as he goes.  The translator dutifully translates, but the students are edgy, and some can be heard slipping out of the room.  The reason?  Stalin had banned such music, and the Soviets hadn't yet unbanned it.The music track is a fair-enough sampling of Gould's accomplishments.  Sections of the Goldbergs and the Clavier serve as undertracks for some of the films.  Gould's intrusive vocalise is present on some recordings.  There's even a performance of his lone string quartet, a by-the-numbers twelve-tone piece that he wrote before deciding that composition wasn't his gift.  Sadly for me, neither his chamber orchestra nor his piano transcription recording of the &quot;Siegfried Idyll&quot; seemed to be featured.  Pity; it's a beautiful, unexpected achievement and it seems like it would have fit in here somewhere.This film is a perfect match of form to subject. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly the right approach for this enigmatic eccentric </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

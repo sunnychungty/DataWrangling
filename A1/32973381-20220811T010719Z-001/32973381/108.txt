@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0057YDNQ2 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-22-2014  
+<h2> review.text </h2>
+
+ <p> After my last cassette adapter started making constant annoying noises I had to find a replacement. I seached and always noticed not one of the adapters got great overall ratings. This Sony gets my approval for best sounding out of all I have owned.I understand no adapter is going to sound as good as a AUX in cable but this does the job nicely as I don't want to spend $100 for a part for my radio then rip apart my car to install it..Pro-tip: Turn your MP3 player/phone's volume ALL the way up to maximum and then adjust your volume in your car to your liking. The more the car has to pull the song from your MP3 player the noiser the sound is. So turn your MP3 player or phone etc to their MAX volume level. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sound is clear/Works great </p>
+
+
+<h2> review.date </h2>
+  03-14-2012  
+<h2> review.text </h2>
+
+ <p> I replaced my old Maxwell who started to sound bad and to eject by itself. This Sony is great! Great sound. It's like getting from an old audio tape to CD sound! I recommend it 100%! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product </p>
+
+
+<h2> review.date </h2>
+  01-03-2013  
+<h2> review.text </h2>
+
+ <p> I use this with my iPhone 5 to listen to audiobooks in my car. I was too cheap to spend $100 on a new stereo so this was the alternative. It sounds OK but I haven't tried it with music. It makes some mechanical noise from the tape spools spinning in the player. The cord is very long, probably longer than you'll need, so keep that wire tie to wrap the cord. Now if only there was a bluetooth version of this... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works, some mechanical noise </p>
+
+
+<h2> review.date </h2>
+  09-24-2013  
+<h2> review.text </h2>
+
+ <p> does the job, good sound quality. plug and play. Hopefully I won't need it sooner or later but its good </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not bad </p>
+
+
+<h2> review.date </h2>
+  06-06-2014  
+<h2> review.text </h2>
+
+ <p> Works w/o a hitch. She plugs in her mp3 player, or phone and off she goes. Works as it should, cord long enough, sound is clear, and my teens happy as they drive out...can't go wrong. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for my new young driver in our very old car </p>
+
+
+<h2> review.date </h2>
+  01-25-2013  
+<h2> review.text </h2>
+
+ <p> I needed this adapter, I have an older car, now I can listen to my ipod or iphone with this, awesome. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> cassette adapter </p>
+
+
+<h2> review.date </h2>
+  07-01-2012  
+<h2> review.text </h2>
+
+ <p> This works well in my 1991 Acura Legend with original Bose sound system.  Tried a Belkin which sounded very poor (like the speakers were under water) in two different tape systems.  Bought this one because of the other high reviews. I'm not disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best one I've found </p>
+
+
+<h2> review.date </h2>
+  04-15-2012  
+<h2> review.text </h2>
+
+ <p> UPDATE:  I replaced my adapter of this model that was making a grinding noise with the Philips PH-62050 adapter.  That worked fine, so far as mechanical noise was concerned, but there was a *very* subtle tinniness to the sound that disturbed me (though it might not disturb everyone).  Plus, my girlfriend has another CPA9C that I gave her that has not been used as much, and I tried it and it worked perfectly, and sounded better.So, I'm back to buy another one of these, and if it fails on me after a year or so, at least I will have had a good year.---Original review:I'm replacing this now because it has been making a grinding noise that almost never goes away.  Before that, it was very good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Made a grinding noise after a year or so but still the best </p>
+
+
+<h2> review.date </h2>
+  11-02-2012  
+<h2> review.text </h2>
+
+ <p> It has a clicking sound that is normal. I use it to connect my iphone's music to the factory stereo in my Toyota Avalon. Sound quality was better than i expected. I think it sounds as good as a cd. I have always been a big fan of Sony ptoducts </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works for me </p>
+
+
+<h2> review.date </h2>
+  07-07-2012  
+<h2> review.text </h2>
+
+ <p> Works, does what you expect, sound quality is fine, but not as good as I was hoping for. I ordered this to replace a cheaper one I got from Panasonic, they both sound the same </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sounds the same as 'low quality' adapter </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> It didn't work right when I got it: the tape deck in my Prius would auto reverse over and over and over...  So I looked it up on the internet, busted it open (there are no screws, it's cheaply made), took out some pieces, and it works alright.  I wouldn't say it sounds that great, and I wasn't very happy that I had to modify it to get it to work correctly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Had to "modify" to work in my car </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> Worked for a short while and then got this awful scratching sound somewhere on the tape.  Lasted about 5 minutes.  Got Sony because they are usually reliable.  Not here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked for awhile </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

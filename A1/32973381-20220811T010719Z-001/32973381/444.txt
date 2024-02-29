@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B009V8M5UA <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> For any Edgar Rice Burroughs fan this is an awesome collection.  It gives a sampling of many of his books rather than just one series but doesn't leave you wishing for the next one when the last book leaves you with questions because they include the next one. The only questionable part is that the ones that are series are not consecutive. On the other hand you may like the fact that you do not have to read through two or more of the same series without a break. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Edgar Rice Burroughs Fans </p>
+
+
+<h2> review.date </h2>
+  06-06-2014  
+<h2> review.text </h2>
+
+ <p> Absolutely entertaining! Burroughs Tarzan and John Carter of Mars are the type of written entertainment that takes little thought, but is fun to read! If you want to suspend you brain, enjoy a thrilling story of adventure and romance this is the anthology for you. Make sure you look at the content page if you want to read the stories in sequence. I like to read the stories before I go to sleep. I have found that it always puts me in a good mood late at night. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mind Candy! </p>
+
+
+<h2> review.date </h2>
+  02-15-2014  
+<h2> review.text </h2>
+
+ <p> Edgar Rice Burroughs (creator of Tarzan and John Carter of Mars) was a master of romantic high adventure.This collection gives a sampling of the variety of worlds his creative mind conceived in one thrilling story after another.Escape your hum-drum world in these classics. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GET READY FOR HIGH ADVENTURE ! </p>
+
+
+<h2> review.date </h2>
+  10-11-2013  
+<h2> review.text </h2>
+
+ <p> Everyone knows Tarzan. But re-reading these books decades after my first time brings back great memories!They just don't written 'email like this anymore! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ERB is awesome </p>
+
+
+<h2> review.date </h2>
+  08-13-2013  
+<h2> review.text </h2>
+
+ <p> Since I was given a Kindel for my birthday, I've been experimenting with various genres of books -- decided to download this edition of Edgar R Burroughs' works because I wanted to check out the John Carter stories against the movie from last year -- it was good by the way (the movie really did a good riff off of the original stories) -- ANY way --  LOVED this Kindel edition for several reasons:  1.)  complete (no missing bits); well edited (no typos and weird spelling errors); FULL of really great stories (albeit, for younger people, but good to revisit what I used to see on TV to get the original stories) AND Doma Publishing gave me a couple of bonus novels as well (Riders of the Purple Sage for one).  I'd recommend this collection to any one of any age - since Hollywood has insisted upon using them for decades to make TV and movies -- why not check out the master collection of those story ideas? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent Kindel edition and tons of fun </p>
+
+
+<h2> review.date </h2>
+  08-20-2013  
+<h2> review.text </h2>
+
+ <p> Yeah when Ed wrote these books electricity was a new tech, now we read these things on silicone and plastic, magic boxes. I like these books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pulp fiction on an 21 century device. </p>
+
+
+<h2> review.date </h2>
+  07-26-2013  
+<h2> review.text </h2>
+
+ <p> I've read many of Burrough's novels in my youth, and since beginning to use the Kindle I've sought out inexpensive collections of classic novels, both to fill my Kindle with reading material as well as give me the opportunity to re-discover stories that provided me with so much enjoyment many years ago.This Edgar Rice Burroughs collection is as fine as any I've come across for the Kindle - very nicely produced, with a very generous collection of works, full tables of contents, and with no problems that I've discovered. It includes all of the Burroughs works presently available in the US under Public Domain (the remaining works continue to be protected under Copyright laws - see dates of publication of each work in the listing below).The 24 novels included in this collection are drawn mostly from Burroughs most well-known series, but there are a few that I had not heard of previously, so another feature of this collection is that it gives the reader who knows Burroughs from the Tarzan or Mars novels the opportunity to sample some of his other work. I'm looking forward to reading these myself.Although the novels contained in this collection are listed on the Amazon page already, I thought that I'd elaborate further since the stories included in this collection belong to several series written by Burroughs over the course of his life, and with the exception of the Caspak Series they have included only the first few books in each of Burroughs major series (again presumably due to Copyright protection, which is why none from the Venus series were able to be included).What I would still like to see is a collection of the later Burroughs stories made available for the Kindle in a nice package as we have here, or complete collections for each of his series. Those collections will need to be sold for a higher price in order to cover the cost for licensing fees but I'm sure that fans of Burroughs would gladly pay a reasonable amount in order to get complete collections that are nicely put together for the Kindle. (This has apparently been done for the Tarzan books - see link below - and the selling price is very inexpensive. So perhaps one of the Kindle publishers will eventually offer the Mars, Venus, and Pellucidar series in complete editions. One can only hope!).So, with the hope that it is helpful to understand what is provided, here is a detailed listing of the various series of books written by Edgar Rice Burroughs, showing which volumes are included with this collection and which are not (dates of original publication taken from Wikipedia):--- The Mars (Barsoom) Series: ---INCLUDED in this collection:...1) A Princess of Mars (1912)...2) The Gods of Mars (1914)...3) The Warlord of Mars (1918)...4) Thuvia, Maid of Mars (1920)...5) The Chessmen of Mars (1922)Not included in this collection:...6) The Master Mind of Mars (1928)...7) A Fighting Man of Mars (1931)...8) Swords of Mars (1936)...9) Synthetic Men of Mars (1940)...10) Llana of Gathol (1948)...11) John Carter of Mars (1964)--- The Tarzan Series: ---INCLUDED in this collection:...1) Tarzan of the Apes (1912)...2) The Return of Tarzan (1913)...3) The Beasts of Tarzan (1914)...4) The Son of Tarzan (1914)...6) Jungle Tales of Tarzan (1916, 1917)...7) Tarzan the Untamed (1919, 1921)...8) Tarzan the Terrible (1921)Not included in this collection:...5) Tarzan and the Jewels of Opar (1916)...9) Tarzan and the Golden Lion (1922, 1923)...10) Tarzan and the Ant Men (1924)...11) Tarzan, Lord of the Jungle (1927, 1928)...12) Tarzan and the Lost Empire (1928)...13) Tarzan at the Earth's Core (1929)...14) Tarzan the Invincible (1930-1931.)...15) Tarzan Triumphant (1931)...16) Tarzan and the City of Gold (1932)...17) Tarzan and the Lion Man (1933, 1934)...18) Tarzan and the Leopard Men (1935)...19) Tarzan's Quest (1935, 1936)...20) Tarzan the Magnificent (1936, 1937)...21) Tarzan and the Forbidden City (1938)...22) Tarzan and the Foreign Legion (1947)...23) Tarzan and the Tarzan Twins (1963, for younger readers)...24) Tarzan and the Madman (1964)...25) Tarzan and the Castaways (1965)...26) Tarzan: the Lost Adventure (with Joe R. Lansdale) (1995)Alternative Kindle books for the Tarzan series:-Tarzan: The Complete Adventures of Edgar Rice Burroughs-- this is the only "complete" collection I have found so far for the Kindle. I note that other Amazon reviewers have pointed out that it is missing one of the Tarzan storied (#24 above), and there are criticisms regarding the formatting and possible scanning issues, so I recommend reading the Amazon reviews for this product carefully before purchasing.--- The Pellucidar Series: ---INCLUDED in this collection:...1) At the Earth's Core (1914)...2) Pellucidar (1923)Not included in this collection:...3) Tanar of Pellucidar (1928)...4) Tarzan at the Earth's Core (1929)...5) Back to the Stone Age (1937)...6) Land of Terror (1944)...7) Savage Pellucidar (1963)--- The Venus Series: ---Not included in this collection:...1) Pirates of Venus (1934)...2) Lost on Venus (1935)...3) Carson of Venus (1939)...4) Escape on Venus (1946)...5) The Wizard of Venus (1970)--- The Mucker Series: ---INCLUDED in this collection:...1) The Mucker (1914)...3) The Oakdale Affair (1917) (partial sequel to The Mucker)Not included in this collection:...2) The Return of the Mucker (1916)--- The Caspak Series: ---INCLUDED in this collection:...1) The Land That Time Forgot (1918)...2) The People That Time Forgot (1918)...3) Out of Time's Abyss (1918)--- Other science fiction: ---INCLUDED in this collection:...1) The Lost Continent (1916)...2) The Monster Men (1929)--- Other novels (this is not a complete listing): ---INCLUDED in this collection:...1) The Efficiency Expert (1921)...2) The Mad King (1926)...3) The Outlaw of Torn (1927) (historical novel) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Excellent Edgar Rice Burroughs collection for the Kindle </p>
+
+
+<h2> review.date </h2>
+  01-26-2014  
+<h2> review.text </h2>
+
+ <p> Find here tales of some of the most famous characters in science fiction and fantasy. Though most are getting near 100 years old, these tales are still enjoyable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Priceless </p>
+
+
+<h2> review.date </h2>
+  07-07-2013  
+<h2> review.text </h2>
+
+ <p> It is a collection of stories if you like his writing you will be more than satisfied reads like any book one word at a time </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Collection </p>
+
+
+<h2> review.date </h2>
+  08-09-2013  
+<h2> review.text </h2>
+
+ <p> I read the Tarzan series over 40 years ago.  Action and adventure were what I craved.  Then I read the &#34;Mars&#34; books and science fiction took hold of me.  Burroughs was there with it all.  Yes, the books are formulaic, and show a streak of bigotry,  and some of them (The Mucker) are just plain stupid.  But, if you're looking for heroes who are heroic, women who are tough enough to stand by them, and villains you love to hate, these are stories for you.  Oh, and if you like enhancing your vocabulary, I'd wager that Burroughs' thesaurus was well thumbed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Blast from My Past </p>
+
+
+<h2> review.date </h2>
+  01-21-2014  
+<h2> review.text </h2>
+
+ <p> Having read the entire Tarzan series as a young man, reading them again now rekindled my love for E.R. Burroughs' writings.  And now I've been introduced to the John Carter series, which is well written also!  All these books are very quick reads, captivating one's imagination and sense of wonder - with an ample dose of love, friendship and humanity seasoning the tales throughout.Happy reading! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Awesome Collection! </p>
+
+
+<h2> review.date </h2>
+  07-12-2014  
+<h2> review.text </h2>
+
+ <p> Here's a puzzle for you: how can Tarzan of the Apes and John Carter of Mars be so different?  Tarzan in actually interesting and well-written.  Carter is the worst sort of hack work space opera.  My guess is that Carter was written years before and dusted off when Tarzan was a big success.  I enjoyed Tarzan, but haven't had the courage to read more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tarzan good, Carter bad </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> I'm not a young man and I find this anthology to bring back memories of my youth, which I suppose is why I gave it 5 stars.  I continue to be amazed at how our hero(s) will manage to find a beautiful young woman in the middle of the jungle, or on an island, or in some way set apart from ugly, lower class creatures.  I thrill to the descriptions of the dangers they face, and how, somehow, everything turns out right at the end.  The author's familiarity with a dictionary is evident; people just don't talk that way anymore (that may or may not be a good thing).  Basically, reading these stories is a lot of fun. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's wonderfully old fashioned </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

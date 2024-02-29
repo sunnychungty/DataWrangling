@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00LADEH0U <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> This is not your typical romance story.  If you are looking for a swoon-worthy protagonist, who makes gentle love to the heroine while whispering sweet nothing in her ear, this may not be the book for you.That being said, this book took my breath away! It is a dark and gritty romance that pushes the limits of what the heroine (and the reader) can take. I applaud Scarlett Finn for not shying away from the darker/dirtier parts of this book and staying true to the characters.Felicity (Flick) has no idea the turn her life has taken when she walks into a dark bar one night after being stranded.  Enter Rushe, the dark and dangerous man who tried to warn her away in the first place.  As Flick's situation goes from bad to worse, Rushe seems to be the only constant she can count on.This book has some very detailed scenes that may not be suitable for all readers, but that convey the rawness of the characters.  Like I said earlier, Rushe is not some sweet and loving hero looking for the right woman. He can be a hard and brutal man, who knows what he wants and has no problem taking it, luckily Flick seems all to willing to give it to him.I would highly recommend this book, to readers that are comfortable with this type of genre, and I look forward to reading more from this amazing author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Dark and Gritty Romance </p>
+
+
+<h2> review.date </h2>
+  07-17-2014  
+<h2> review.text </h2>
+
+ <p> I fell in love with this book. It was intense. Not your typical lovey dovey romance novel. There were things in this book that put me way outside my comfort zone, but I loved every juicy second of it. I honestly couldn't stop reading it. Screw laundry!! Lol. Take a chance. Read this book.Happy reading!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Intense!! Smoking hot!! </p>
+
+
+<h2> review.date </h2>
+  07-19-2014  
+<h2> review.text </h2>
+
+ <p> Phenomenal book - a truly unexpected gem. I'll definitely be looking for more books from this author in this genre in the future and would definitely love to see at least one more book about Rushe and Flick. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'll definitely be looking for more books from this author in this genre in the future and would definitely love to see at least </p>
+
+
+<h2> review.date </h2>
+  07-20-2014  
+<h2> review.text </h2>
+
+ <p> This book was so good! I thought it sounded like it would be, and after reading the glowing reviews, and a .99 price tag- I clicked my 'Buy' button. I am soooo glad I did. It has a bad boy, a good girl, female trafficking, hired guns, slime balls and more! Lets not forget the perfect amount of hawt scenes.I loved every minute of it! I cried - twice!! Don't worry- I won't give you any spoilers but.....,,,, there is a happy-sorta-ending. I am praying for a sequel!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> such a great book!!! not your typical read... </p>
+
+
+<h2> review.date </h2>
+  07-22-2014  
+<h2> review.text </h2>
+
+ <p> This book is pretty long, but it's also really good. Part dark, part suspense and part romance.When Flick's cab breaks down, instead of waiting around, she wonders off in search of a phone. As she's entering a shady looking bar, a tall dark stranger warns her not to enter. She does it anyway. The minute she walks in, she realizes it was a mistake. When she tries to leave, she's grabbed and taken to a back room by several guys. It becomes obvious very fast that the guys intend to abuse and rape her. Suddenly the door opens and the guy from the street is there. Rushe makes the others leave and very bluntly reminds Flick that she should have listened. He tells her to do what he says and he'll try to keep her safe. As safe as he can with the other men wanting their turn with her.During her captivity, Rush tries to keep her safe, but Flick has a hard time keeping her mouth shut and following instructions so she doesn't make it easy. Rushe also pushes Flick away emotionally every chance he gets. But Flick sees good in him no matter how hard he tries to make her believe otherwise. He's extremely possessive of her and soon Flick consents to more than just trying to follow his instructions. But time is running short, and the big boss wants to meet Flick. Will Rushe help get her out? If he succeeds, will she be safe anywhere? What kinds of crime are these guys involved in? Will Flick become a liability? There are lots of twists.Okay, a little warning...Rushe can come across as being arrogant and scary, but I loved him from the beginning. You could tell there were layers to him and walls he had up to protect him from others. And let me just say...the man has the most descriptive mouth and he can paint a pretty clear image in your mind of what he wants. And Rushe gets what he wants. I liked Flick for the most part, although at times her obsessive need to talk kind got on my nerves. I felt that for someone to have been kidnapped, she pushed her captors and said things that in reality would have gotten her killed. At one point she even told a captor that he didn't know the secret password to make her shut up.  She just seemed juvenile and childish at times and didn't display the common sense needed for this kind of situation. Flick was my reason for the four instead of five star review. However please remember everyone has different opinions so what annoyed me, might not bother you.Overall, I really enjoyed this book. Remember it's close to 400 pages and is packed with lots of action (and romance). Explicit Instruction is a standalone book told solely from Flick's POV. Added bonus, there's a good ending. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really Good </p>
+
+
+<h2> review.date </h2>
+  07-06-2014  
+<h2> review.text </h2>
+
+ <p> Handle. With. Care.That's what you need to do with this book. 'Cause it's dangerous. Just like Rushe, the dark 'hero' of this book. He's mean, he's nasty and he will push things inside of you right over the edge. This isn't your mama's Alpha. Leave your sexual hang-ups at the door if you are going to proceed with this one.Should you really open that door, though? Even knowing what lurks behind it?Hell, YEAH.After Flick opens a door in a seedy neighborhood, she will never be the same again. I don't think I will after reading this book either. It plants everything you think you knew about romantic suspense right on its a**.Flick, our seemingly quiet little protagonist finds herself in the hands of some very, very bad men. Gang rape, torture and murder seem the likely end to her story, but then the scariest of a very scary bunch saves her. But Rushe won't leave her body, or her heart unscarred.I like that the author didn't try and pretty Rushe up, or despite some mid-book speculation, make him something he is not. I love how, despite being incredibly over her head, Flick finds her inner strength believably and becomes pretty badass herself. I was also in total awe at how she was able to get to the core of Rushe, when most women would have been left a sobbing, broken mess.This is a simply scorching, stunning book. 5 neon stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Scorching read! </p>
+
+
+<h2> review.date </h2>
+  06-25-2014  
+<h2> review.text </h2>
+
+ <p> I loved this story, the author took time to allow us to get to know the characters and I couldn't wait to find out what happened next.Sex was off the charts and real romance.Ready for a sequel!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Change of pace-kidnapped love. 5 stars </p>
+
+
+<h2> review.date </h2>
+  07-15-2014  
+<h2> review.text </h2>
+
+ <p> This book defies labels. A mix of romance, mystery, thriller, and erotica, it is not for the faint of heart. As the title might suggest, everything about this book is explicit--the sex, the violence, the language--but what truly draws you in is the very complicated relationship between the two main characters, Flick and Rushe. Both of them are broken, but in completely different ways. I was captivated by the way these two opposite people really did compliment and heal one another. The personal journey each of them travels throughout all the twists and turns was the real story for me.  Meanwhile, the plot kept me on the edge of my seat guessing, second guessing and gasping in shock over and over. A book that manages both engaging characters full of depth and a page turning storyline like this is a rare find. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not your typical romance </p>
+
+
+<h2> review.date </h2>
+  07-15-2014  
+<h2> review.text </h2>
+
+ <p> Surprisingly enjoyed this novel! I have never read the author previously but this book was everything I love in reading... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> enjoyed! </p>
+
+
+<h2> review.date </h2>
+  07-20-2014  
+<h2> review.text </h2>
+
+ <p> This book kept me on my toes. It wad a little drawn out at times but the suspense had u always guessing what was going to happen next. Flick had the worse luck ever. But she came out the winner in the end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Read </p>
+
+
+<h2> review.date </h2>
+  07-04-2014  
+<h2> review.text </h2>
+
+ <p> Wow, what a ride. Flick should've listened to Rushe when he warned her away, instead, she wandered into the wrong bar at the wrong time. Kidnapped, tied up and threatened, she slowly begins to trust Rushe even when he tells her not to.The only time Flick listens to Rushe is in bed. Smoking hot, blistering sex scenes with lots of dirty talk. If you're offended by dirty talk, then this book isn't for you. Me, I loved it. Rushe is crude, domineering and set in his ways. He's unapologetic for who he is and Flick can't get enough of him. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot, hot, hot! </p>
+
+
+<h2> review.date </h2>
+  06-29-2014  
+<h2> review.text </h2>
+
+ <p> Great story. I really enjoyed how the heroine never followed the instructions of the hero, Rushe. Talk about heroine, Flick, started her day with everything going wrong. Then she walks into a den thieves.Awesome sex scenes. Stayed up all night because I couldn't pour the book down.Dear Ms Finn, please write a novella on Flick ans Rushe. I would love to see how they become a team. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Explicit Instructions - Wow What a exciting ride. </p>
+
+
+<h2> review.date </h2>
+  07-18-2014  
+<h2> review.text </h2>
+
+ <p> It was written with al the right ingredients.  Not overdone not boring or stupid.  I read 2 to 3 a day and this was great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> the way a book should be written </p>
+
+
+<h2> review.date </h2>
+  07-22-2014  
+<h2> review.text </h2>
+
+ <p> 27y.o librarian  realized too late that she should've heeded stranger Hero's warning to  not go inside the questionable bar. She's abducted by 30+y.o. Hero and his band of merciless men. He prevents her from being raped by the other men by taking ownership of her. Heroine finds herself not minding it nor in his making his claim a reality.  His limits on their secret relationship gets thwarted by his boss' recapturing of heroine, after helping free her. When he's forced to choose between loyalty to his boss and heroine, who does he choose? What are the consequences?This was the kind of dark & gritty book that I like. The romance between Hero and heroine was central and  believable for the most part, given the danger they were in. Hero was able to rescue heroine several times at the perfect time before she could be completely molested. Which was good but not really realistic. But I'd rather have some fiction than having heroine raped. The HEA(happy ever after) was quite likely but I did have a problem with something heroine said at the end.**  I liked that Hero improve his character but didn't do a complete 180 by the end. He was still thuggish and raw but was more emotionally open to heroine.  The action-suspense scenes were exciting.Recommended.**A pictorial review with SPOILERS is on my blog &#8230; movesme.blogspot.com/2014/07/explicit-instruction-scarlett-finn.html </p>
+
+
+<h2> review.summary </h2>
+
+ <p> dark but romance-centered </p>
+
+
+<h2> review.date </h2>
+  07-16-2014  
+<h2> review.text </h2>
+
+ <p> This is the story of Flick(h) and Rushe(H).  Flick is in a cab, on her way to a date, when the cab breaks down in a bad and secluded neighborhood.  The battery is dead on her cell phone so she decides to stop in a bar to use their phone.  She is warned before she enters the bar, by an unseen man, that she should walk away and NOT enter the bar.  She refuses to listen. This being the first of many future instructions given by Rushe that Flick will ignore. Flick enters the bar and immediately realizes her mistake.  The men in the bar are having a meeting. They are not good men.  She is not welcome.  Four of the men capture and whisk her off to a secluded cabin.  One of her captives is Rushe. What follows is a non stop page turning dark gritty read.  There is a lot of sex, and yes it was good.  Both Flick and Rushe were likable characters.  Rushe is a very Alpha male.  Flick is a strong but vulnerable woman.  She has never felt appreciated or cared for.  These two together made a great couple.  If you are a fan of dark erotic reads, this book will be right up your alley.  This book is well written with non stop action and emotion.  So, why the 4 star rating and not a 5 star rating?  Two reasons.  One, I actually thought there was too much sex, although it was well written and very good.  Two, I thought Flick fell for Rushe too quickly.  Regardless, I still enjoyed this book and look forward to future work by this author.  I hope she does more dark erotica because I find good dark erotica hard to find.  This author managed to do it without entering the dreaded corny arena that other authors of this genre seem to slip into.  Yes, I would most definitely recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Finally....A Good Dark Erotic Read!! </p>
+
+
+<h2> review.date </h2>
+  07-08-2014  
+<h2> review.text </h2>
+
+ <p> Wow I am happy to report that this was the best book I read all week. I was pleasantly surprised how much I liked it and will recommend it to everyone. I hope there will be a pat 2 because I can't get enough! Kudos for the best Dirty Talker ever! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow I am happy to report that this was the best book I ... </p>
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> Best dark romance I've read in quite a while. The sex scenes were HOT, Rushe was super possessive and crazy about Flick.All around a great read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Read this one. You won't regret it. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

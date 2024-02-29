@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00963S6TE <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Refurbed Unit - I should have known better - Jan 2014 </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I hesitated ordering a refurb - my standing rule is just to avoid refurbished electronics as I typically think it is not worth the risk. However, I also did not want to pay $400 or more for a receiver in my workout room. I wanted a receiver which had Pandora and DLNA but also the ability to switch between my DVD player, Roku & XBOX via HDMI or component.When the unit dropped to under 200, I decided to give it a try.  It looked great when it arrived - no cosmetic issues and looked brand spanking new.  I started hooking it up and the first thing I did was try the radio, check!  Then I plugged in the XBOX via HDMI... sound with no video. I tried a different HDMI port - same problem.  I plugged in the DVD player via component...hmmm, how to describe this one.  The video worked but looked horrific and was erratic although the sound worked.  I tried a different input and had the same problem.I think you probably already get the point - the unit had problems.  Major problems.  Something which should have been caught in all the QA checks for a refurbished unit.  Instead of going through the pains of exchanging it for another reburbished unit, I decided to send it back and just purchase a new one instead.  The new one had absolutely no problems with any of the above items and is working great today.  Never again will I purchase a refurbished device! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great sound </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I got this factory refurbished on a daily deal. My old Sony surround sound receiver was still working faithfully but it pre-dated HDMI by 30 years so it was time to upgrade.I couldn't be more pleased by the sound and volume this unit puts out. I also really like the automatic calibration which is easy with the included microphone. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love the network and easy setup </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Replaced a 15 year old receiver with this a few months ago. The setup was very easy! Sound quality was far better than expected for the price.I also love the network capability. The online radio stations are overwhelming at first to search through, but once you find a few it really is nice.Also, the Yamaha remote app was a nice feature so I don't have to have another remote laying around.For the price I can't imagine finding anything better. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> AVR </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-26-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I replaced an old out dated AVR because it didn't have HDMI. This was easy to hook up and took away a lot of wires behind the cabinet. My surround sound is so much better now. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HDMI issues </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> What great sound! Mostly positive interface. HDMI ... guess what doesn't work after less than half a year use. Will try to return or refund. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Purchased as an Amazon deal - refurbished </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Update Jan 2014 - I had to send this refurbished unit back.  After 2 months the video out failed and that is what prompted the return.  The other issue of the volume just cutting out for no reason was something I could live with because all I had to do was turn it off and then back on.  I tried everything to fix the video out including changing out the HDMI with a couple of different ones.  I know y'all beat me up on the initial review but I was very disappointed with the cosmetic issues on this unit...  It wasn't that it was refurbished, it was that it was used and used hard!  I will always take a chance on refurbished items because I know Amazon will make it right (just as they did with this unit).  I sent it back and got a Yamaha sound bar because the primary use is for the media room.  I have dropped this to 2 stars, and trust me - I never give less than 4/5 for an item during a review as long as it is what I expect.  I love Yamaha products and will continue to buy them in the future.Original Review - I have ordered refurbished items before with no issues. I cannot speak to the actual receiver yet because I am still setting it up. My major issue is the refurbished unit I received was beat to heck and looks like it was used hard!  The column knob is actually warn so much the paint is gone around the edges. It looks like they tried to buff out the major scratches and made it look like crap!  The good thing is this will be used in a "man cave" so I'm not too worried about the aesthetics. I'll update once I have it up and running...  Fingers crossed! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Home Run 5.1 Network Receiver </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-18-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> In the Family room, the home theater system is used by everyone, so it has to be simple enough to be operated by everyone. Wife and kids included. This Yamaha fills the bill. Some receivers require an Electrical Engineering degree. Not this one.The YPAO feature tuned the system for my speakers/room configuration. Just place the included mic in your seating area at head level and let the system do the tweaking. A tripod works great for this.The sound is much improved over the old JVC receiver this replaced. Now the old receiver powers my vinyl & CD audio system in the basement. The kids are digging the vinyl records.Pros1) Very simple setup2) Amazing 5.1 sound - great auto-tweaking features - plenty of punch3) Minimal cabling needed (1 HDMI cable to TV for all inputs in receiver)4) Plenty of inputs (more HDMI than I'll ever need)5) Pass-through (passes signals to TV even when receiver is off)6) 4K compatible - for when 4k TVs are the standard7) 3D compatible - for those who want 3D TV - not me8) Decent remote9) Lots of sound modes, including Dolby10) Operates cool (cooler than my less-powered JVC)11) Nice smartphone app12) Nice on-screen display (OSD) for tweaking the system using the TV display - works through HDMI, unlike other receivers who use composite for OSDCons1) No Zone 2 option (only important if you require one)2) No WiFi (However, Ethernet cable works great) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love it!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Still learning everything this amp can do, but it's great! Being able to stream audio from laptops or smartphones is great! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> If Zero starts were an option that would have been rating. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Frustrating product beyond belief - BE VERY CAREFUL.  Due to work, the unit sat unboxed for a couple weeks.  The unit is listed as a NETWORK RECEIVER. Pretty hard to be that without a network interface on the unit.  Mine shipped differed COMPLETELY from the picture on the rear connections.  And then even though it came from Amazon shipping, now for replacement i have to send the unit back to them, and wait for that to process before i can see my return.  The unit is being returned, not taking the chance on replacements and I don't want to wait the time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent receiver at a very good price! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Really happy with the sound quality and the features in this receiver. Got a factory refurb, but no signs of it being a factory second in any way other than the plain cardboard box it came in. The hdmi inputs sure make life easier and makes my home setup look less like a snake-farm and way more organized and neat. First time I've used a mic (included) to set up a system, but that was a really cool feature that makes setup pretty effortless. This thing does way more stuff than I'll ever need it to do, so I'm really happy with the purchase. No problems whatsoever after the first 3-4 months! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Degrades Video resolution </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this because I wanted to have multiple HDMI products and an old style video connected to my new TV that only supports HDMI.  Conceptually, this should have worked.I started by hooking up the HDMI products and unfortunately the video quality degrades when using this compared to connecting the Blu-Ray directly to the TV.  I was so disappointed that I returned.  Thankful Amazon took it back. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This is really a Network A Receiver - there is no network V </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I expected that this would replace my Roku so I could stream movies from the Internet.  However, by Network AV it means Internet Radio.  Nice and sounds great, but just a little below expectations. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> htr4065 </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was using a Yamaha rx-v371 receiver and desired to  get the htr4065 because of its network capability.  I hooked every thing up and was suprized how good it sounded for movies compared to  the Yamaha rx-v371. The music was about the same but  the 4065 was a little better there too.I  use this receiver in my back bedroom and it is more than enough to fill this 14x16 room.I have always been a Yamaha fan and as usual I'm impressed by their products as this joins my group of 6 different Yamaha receivers starting with the htr4065 all the way to the rx-a2010 and I love all of them.l hooked up for network use on the 4065 and  I can,t get Pandora but I plan to see if a software is available to receive it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Can't complain I don't think </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Seems to work like a champ.. Certainly looks good, had the wattage I needed to run the installed speakers I have (a 5.1 setup w/ a Yamaha 8&#34; sub from years ago). My 20 year old Kenwood receiver finally kicked the power chip bucket, so I thought I'd try this since I had a matching sub to sit with it. I waited and bought it as a lightning deal for 200.00 and am happy with my purchase. USB drive in front and it picks it right up, hook to network via ethernet and stream right to it, and it will update it's firmware auto.Plenty of options for how you want to run your sound, eg: run all HDMI to it and then send one to TV with audio, or I had mine a bit different and hooked up how mine was, leaving all my HDMI's in the TV and running my TosLink audio from TV to the receiver (which carries my computer, and xbox, and TV. Also has a nice radio tuner if you remember what that is). It's not the newest coolest toy by far, but I found it to be a great replacement for my dead Kenwood. Also has the Yamaha YPAO microphone to auto set up the receiver. I actually haven't used it as I set mine up myself. I've been running it for a couple of months now with NO complaints for the price point! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GREAT </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was given a set of surrond speakers and wanted to upgrade the reciever so I bought this unit.  It's great and I love the apps that allow our phones to control it.  HAD TO GOOGLE HOW TO RESET THE UNIT AFTER A POWER OUTAGE....  YAMAHA SHOULD MAKE IT VERY CLEAR IN THEIR DIRECTIONS HOW TO DO THIS......... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Feature packed and yamaha quality for good price. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> At this price point, I don't think you can find much better.  I was looking at Yamaha because everyone I spoke with spoke of their quality.  This one is loaded with features.  The onscreen menu makes it easy to setup and the sound quality is awesome. I like the network capabilities and the pass thru feature is great when watching regular programming.  Yes it's missing some of the features some have but not at this price point. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Fan </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Yes I am a big fan of the Yamaha products ,they make one nice unit. The quality of sound, the variety of things incorporated in the receiver, so user friendly, the durability and attractiveness can't be beat in my book. I own 6 different  Yamaha receivers, and I'm pleased with all of them. ( We own 2 homes and an RV ) We have Yamaha in all of them. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Swell </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was my second experience with a mid- market receiver and I was very satisfied. The set-up mic  clearly noted my mis-wiring of a speaker.  I am not using many of the possible configurations but am satisfied with functions and sound quality. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great switch from my Denon Receiver </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-30-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have long heard that Yamaha makes the best receivers and they where right. I have owned some of the best Denon receivers for the last 5 years and paid allot for them. First a 3808ci which was powerful but limited in technology and some would say over priced. They more recently a 2311ci receiver it was less money but dosnt have any feature the Yamaha has. I love this Yamaha receiver and the fact that it has an app for it is awesome. Its also blasts through its inputs way faster than denon and it also works great with network music and has a ton of internet channels. I love how well the app works and the remote is easy to program and easy for my wife to use. this reciever has alot of features that denon would charge thousands for. Yamaha knows how to keep up with the latest and greatest technology. Buy this reveiver you will not be disapointed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Audiophile Rates this as Acceptable backup </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have an audiophile grade system that I would not dream of replacing with a product like this. It is old and does not have some of the features needed for video support, internet and even a remote! I got tired of trying to make a way to have a remote and to use my audiophile system for streaming content.I finally decided that since streaming content does not have audiophile quality that I should abandon the quest and just get a decent modern receiver to meet these needs. I did this and find that this result was cost effective and worked well. I use it only on stereo mode but found it works well integrating with my other needs. Could not beat the features for the price and the power was enough that it could drive my audiophile inefficient speakers without clipping...well to normal listening volume. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> New. Home Theatre Receiver </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Love it. Easy to set up and great sound. Love the internet radio but the AirPlay feature is great and the control app for the iPad works poke magic. I bourt a refurbished model on a gold box deal and I'm very pleased with it </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good quality refurbished receiver </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this receiver! I was a little hesitant at first to buy refurbished, but I am so glad I did. Saved some money and got a great receiver.We use our TV, Dish Satellite, Apple TV, PS3, and DVD player with this receiver and it all works great. We were even able to make the remote control for it work on our TV as well.No problems at this point. Sounds great, fairly easy to hookup. Picture quality is good. I recommend! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Second Yamaha reciever </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-14-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought the Yamaha HTR-4065 on sale at a warehouse store.It is replacing a still working fine 20 year old Yamaha receiver with RCA jacks only, and no HDMI plugs. I just wanted to be able to use the HDMI and add surround speakers/features and this model could power my 4&#937; Magnepan speakers. (Warning: if you have 6&#937; or 4&#937; front speakers, this will work (confirmation buried in owners manual) but, read how to set the unit to take 6&#937; or 4&#937; from the 8&#937; default setting *before* you attach the speaker wire and power it up. It is in the manual on the CD or download it from Yamaha.The HTR-4065 has an ethernet jack but, no wireless - despite having airplay, apps for iOS/Android, internet radio and other features that you access or access best wirelessly!Yamaha should just include wi-fi and BT in its networkable receivers. It is crazy that I can buy a Roku with latest wi-fi and BT for $89 plus free shipping. But to add just wi-fi to this receiver, sticking with Yamaha, is $89+ and an ugly USB cable sticking out of the front. If Roku sells its best model to the retailer for about $45 (but probably less) and they make it for $23 minus everything but the wi-fi and BT chips; it would probably only add $10 at most for Yamaha to add wi-fi and BT to its receivers.Audio companies still do not get it! We have had to drag them kicking and screaming into the first decade of the 21st century - let alone the second decade!OK, so for sound quality, I'll need to update this review because I did not have the RCA (aka pin) cable for my subwoofer and it is on order. I think I need the sub because, that is how I have been listening to those speakers for years.Everything else was typical good Yamaha quality for construction. Most of the functional design flaws are not just with Yamaha but with all the brands. Why is it so hard to *see* the front controls on these components? Can't some lighter materials be used or more LED lights to help the user see the controls on the front? I know with all the controls now on screen, it is moot but, sometimes, I do just walk up and press a button to get something to work. That physical button confirms, it is *on*.One thing Yamaha needs to work on is its visual screen design and screen typography. It's like a flash back to the 1980s on this. It is so odd to have such good industrial design and audio engineering but blow it with simple typography, color, and lay out. Again, most Japanese electronics makers really do not get it. But, the leaders of these brands *know* about Apple design and AirPlay and they see how simple interfaces like ROKU and Apple TV work and look. Yet, they sell this pretty good AV receiver have the most primitive on screen controls, ever.The good news is the iPhone App is really the way to control this receiver. But, you have to have an ethernet jack behind it (feeding to a main wi-fi router) or hook it up to a wi-fi network extension next to it!If this review is all over the place, that is because this product is all over the place. On one hand, it is a great deal. But on the other, it has some major flaws which - if you have an iPhone and the Yamaha app and either an ethernet jack or wi-fi router near it - begin to not matter all that much. It's like a good car brand, like a Lexus but, the spare tire is missing and the seat covers only come in burlap. If you can pick up a spare wheel and tire and have the seats redone in leather, then you have a great car. But, why didn't Lexus/Yamaha just gives us the tire and do the seating in leather and charge us for it? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good but... </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have owned this unit for about a month. It has a great sound and it has not disappointed except for one issue. When changing TV channels the bypass feature takes several seconds to display the next picture which is a bit annoying. A &#34;no signal&#34; indicator will be displayed on the TV until the unit or bypass feature passes the correct signal through. I don't like it but I am trying to learn to live with it. I am guessing that this is the reason why there are so many refurbished units available for sale via Amazon. Buyers returned them.  The price of 199.99 is a fair price. Anything above that move on to a different model. All in all I am a huge fan of Yamaha receivers and for the money they cannot be beat. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> In my experience, Yamaha makes the best quality, best featured receivers on the market </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I built my first receiver was in 1960. A &#34;Qual Kit&#34; I built which cost about $60.00, and was 55W  per channel (stereo), and had both AM and FM tuners. My next was a Heathkit AR-15, state of the art receiver which lasted for 8 years. Since then, I've purchased something like 25 receivers. My latest is a Yamaha RX-A730. I'm sticking with Yamaha as Yamaha the ONLY manufacturer whose receivers have never broken down, since my Heathkit. I've had bad Pioneer, Sony, Harman Kardon, Marantz and two Onkyo's which have stopped working, in whole or in part.Yamaha makes great musical instruments, and I find their receivers are also of the same high quality. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Down with Onkyo; up with Yamaha </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> First, allow me to explain what caused me to purchase this receiver.  3 years ago, I bought an Onkyo TR706 receive for $650 for its power & features.  Right after the warranty period ended, static noise began emanating from my speakers.  I thought that my old speakers were going kerplunk.  Well, the 30 year-old speakers were just fine; the problem was my 3 year old Onkyo.  As the static worsened, certain speaker channels began to break.  One by one, I lost each speaker channel, until only the right front worked!Onkyo tech support only suggested I keep re-setting the unit back to factory standards.  Finally, they offered me a $450. trade-in for a refurbished comparable unit.  Of course, I told them where to stuff that offer.  Lately, I've seen many other Onkyo victims report burned-out circuit boards & such.Just last week, I bought this Yamaha receiver, and I couldn't be happier.  It's less than half the Onkyo's price (purchased at Costco for $278), and offers more features, a simpler interface, and runs ice cold compared to the Onkyo room heater receiver.  I've yet to explore each feature, but so far, I'm very impressed with the unit, and it's user manual (CD only).  Some reviewers knocked its 1980's LED readout.  It's really fine, and I couldn't care less how dated it looks.  You can read it, and isn't that what matters?  I have my MP3/WMA music collection on a small PC connected to the Yamaha's optical SPDIF/TOSlink port, and the sound is awesome.  I also have the PC connected to the receiver via HDMI, for viewing photos and videos on my LED TV.  This rocks as well.  In conclusion, who really needs an expensive 200 watts per channel receiver with 100 types of sound compression?  So far, I wholeheartedly recommend this Yamaha receiver.  If I have problems with it, I'll update this review accordingly.  Best of luck, and avoid Onkyo. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great sound </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I worried about ordering a refurbished receiver but this has performed perfectly so far.  Good quality you would expect from Yamaha.  Great for home theater or general music listening. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Poor quality control on Refurbished. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Review of the Refurbished Unit only - I have no idea if this receiver is a quality product.  I used to sell computers and electronics and would tell people that Refurbished was sometimes better than new - they had actually been tested by someone before they were sent out.  With this unit, other than powering up, it did nothing.  When I tried to do the sound setup it gave me an error which according to the manual you needed to contact a local Yamaha dealer.  Very disappointed that whomever tested this unit did not take the time to do any more than plug it in (no sound ever came out and then there was the error).  I really expect more from a company like Yamaha.Amazon allowed me to return the item with no charge for shipping - which is why I still get most items from them.  Now have a Pioneer unit that seems to work just fine and on a lightning deal was actually less than this unit.Maybe just bad luck, but if it had been tested this should not have happened. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> customer support terms unacceptable </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I recently went to  Yamaha's website for support (I was looking for a pdf of the unit's manual).  They want you to let them into your Facebook or Gmail accounts before they will let you download the manual or let you even contact them by email.  I don't care to let a commercial vendor into my personal information as I expect it will be used for marketing purposes.  Sorry, but I won't buy another Yamaha if this is their idea of support terms. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

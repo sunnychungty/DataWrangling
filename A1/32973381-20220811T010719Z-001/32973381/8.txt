@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00016UVHU <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-06-2014  
+<h2> review.text </h2>
+
+ <p> With moving so much, I lost cases for some of my movies. These were the perfect solution coupled with new cases. I found the DVD covers online and printed them, You wouldn't even know the difference! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These were the perfect solution coupled with new cases </p>
+
+
+<h2> review.date </h2>
+  08-14-2011  
+<h2> review.text </h2>
+
+ <p> These are good for printing things off at home.  Not totally professional looking, but at least they are good quality paper. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good quality for being a home project </p>
+
+
+<h2> review.date </h2>
+  02-14-2014  
+<h2> review.text </h2>
+
+ <p> Great product.  Have been using them for a long time and found no faults with any of them.Great price </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DVD case inserts </p>
+
+
+<h2> review.date </h2>
+  10-04-2007  
+<h2> review.text </h2>
+
+ <p> These are the same nice cases that you often find in box sets containg more than two DVDs.  I am currently copying family VHS tapes to DVD and they are great for the copies. Of course if you record movies from television then you will need something to put your DVD in and these are really nice, the DVDs are held securely in place. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Space Saver </p>
+
+
+<h2> review.date </h2>
+  01-05-2007  
+<h2> review.text </h2>
+
+ <p> I develop DVDs for my customers and used to purchase DVD case inserts in bulk.  Then I tried Memorex's product and was sold on it.  They print up nicely (I use a color laser printer). Perhaps the best part of these inserts is that they are consistently well perforated so that they separate very cleanly from the waste trim. The other product I used to use would have to be trimmed to clean up the edge of the paper.  You won't be disappointed with this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looking for the best? Look no further </p>
+
+
+<h2> review.date </h2>
+  05-11-2013  
+<h2> review.text </h2>
+
+ <p> They are not quite the right size for a standard DVD case! By standard I mean the ones that professional/studio films come in. When you align the spine of the cover to the spine of the case there is some space on the right and left of the cover where you can see the DVD case (under the film/plastic part, I don't mean the proper border of the case). It looks so unprofessional! I bought these for a couple of DVDs I'm selling, but there is no way I can send them until I get covers that fit PROPERLY! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Who designed this?! </p>
+
+
+<h2> review.date </h2>
+  04-17-2013  
+<h2> review.text </h2>
+
+ <p> I like these but the price is a bit high for someone on a fixed income. Worked fine when load into printer and covers came out beautiful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good product for beginners </p>
+
+
+<h2> review.date </h2>
+  03-15-2014  
+<h2> review.text </h2>
+
+ <p> These DVD inserts are exactly what they claim to be.  Don't listen to all the bad reviews.  You're buying these for the inserts...not the software.  Unless you're a novice, you have to expect that any software that comes with a $10 pack of inserts will be junk.  I've never even attempted to use it.  Instead, I use DiscLabel on my Mac, software which came with Roxio Toast.  Works perfectly fine, has convenient perforated edges, and fits standard DVD cases.  If you're serious about making nice case inserts, never trust free software.  As for the inserts, they're more than adequate, </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Are you buying these for the software??? </p>
+
+
+<h2> review.date </h2>
+  06-17-2014  
+<h2> review.text </h2>
+
+ <p> I purchased this item to make covers for DVDs that I burn of family events..Makes a professional looking package. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent product </p>
+
+
+<h2> review.date </h2>
+  12-07-2012  
+<h2> review.text </h2>
+
+ <p> Exactly what I was looking for my family video collection, sturdy, good closing, two disc per case, and saving a lot of space in the rack. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Case Inserts </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> I wish they sold bigger packs but they do what they claim to do. Not many other choices but oh well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect </p>
+
+
+<h2> review.date </h2>
+  05-04-2013  
+<h2> review.text </h2>
+
+ <p> Ordered these because of the price, but although the product description lists a url to download memorex expressit software,when you go there it doesn't exist. So that's probably why these are so cheap: no longer supported. I found a couple of programs that have the memorex A4 template, but they are not freeware: Acoustica and Audiolabel. If anybody knows of a freeware program (not shareware or trialware) that includes this template, please leave a comment to this review. Or, where I can get &#34;Memorex Label Design Studio 4.3.206&#34;: all the links I tried for this are no good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> memorex software n/a </p>
+
+
+<h2> review.date </h2>
+  08-28-2010  
+<h2> review.text </h2>
+
+ <p> Between last year and this (2010) Memorex changed the stock on these case inserts.  The new stock is a little thinner (which does help when tearing off the excess along the perforations) but is also changed how the printouts look.  Colors and blacks are not as "deep" as they were on the older stock.  I don't know if any of the older stock is still out there, but the difference is easy enough to tell.  The newer stock has all the directional arrows, etc. which are printed on the page in Blue, where the older stock they were printed in black.As the title says, still an excellent product and with some manipulation of printer controls you can get is better, but it still is not a rich and vibrant as the old stock. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Still excellent, but changed </p>
+
+
+<h2> review.date </h2>
+  11-20-2007  
+<h2> review.text </h2>
+
+ <p> The label is of good quality and very easy to trim by hand. Once I calibrated my printer using the supplied software, the alignment is great and consistent. I find the software is intuitive and easy to use. Printed about 50 DVD labels so far, haven't had any problems. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works very well </p>
+
+
+<h2> review.date </h2>
+  02-23-2012  
+<h2> review.text </h2>
+
+ <p> Over the past several years I have been using Avery products and their software for theses kinds of items.  I wasn't massively impressed with Avery products though, so I decided to give the Memorex product a try since Avery is more expensive and these explicitly said they would work with the thin DVD case.  After trying out a few of their templates and then getting creative with my own ideas I kind of liked the results of the software.  The software is not very sophisticated but you can import graphics that you create/edit with a good editor and the finished product is not bad.  The paper is a disaster - in my opinion.  I know it's matte but I have used many other brands of  matte paper and they never soaked up the ink and made the colors look so dull and washed out as this paper does. I ended up substituting the inserts for some HP A4 matte paper and cutting it down to fit the case using the guides the software lays down.  If it were not for the decent free software that prints the designs, this would have been a 1-star rating for the paper. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Free Software Is Better Than The Paper </p>
+
+
+<h2> review.date </h2>
+  02-18-2014  
+<h2> review.text </h2>
+
+ <p> I like the way these are pre perforrated inserts and the ease in which the way my printer handled them.  I have an HP 3510 Inkjet and it handled the paper flawlessly.  These inserts do not bleed like some of the other thinner ones I have used.  Because they are thicker; they were clean, crisper and easier to work with and I had no problem inserting them into the cases.  I don't think you will go wrong with this purchase and I would definately recommend them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good iserts. </p>
+
+
+<h2> review.date </h2>
+  02-19-2006  
+<h2> review.text </h2>
+
+ <p> This product is a sad joke.  It's expensive of course.  The paper is just heavyweight paper that's perforated so you can bend it and break out the inserts themselves... which takes some effort (not sure if it'd be quicker just getting heavyweight paper and using a paper cutting board).  But, whatever.However, the software is crap.  That's the appropriate term.  Reading this I can save you an hour of your precious time.  No you can't make the template show right-side up.  That's right... to use the software you have to TILT YOUR HEAD SIDEWAYS.  I'm not kidding!  I guess you could also turn your monitor on it's side.  You can rotate the text so it shows the way it should.  But when you edit it, it'll be sideways again.  So you'll have to turn your head (or monitor) back and forth sideways.  What kind of company would sell such a product?And oh yeah... if you're looking for templates for the DVD Inserts?  ... nada.  They're not there! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Memorex software good (or bad?) for your neck muscles </p>
+
+
+<h2> review.date </h2>
+  01-27-2011  
+<h2> review.text </h2>
+
+ <p> The picture shows the "older" inserts so I bought these as I know they work well. I was sent the newer version of these  DVD inserts and they are much thinner. The print quality is similar. There may be better inserts out there, but for the price these are a deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent paper Great price </p>
+
+
+<h2> review.date </h2>
+  01-27-2012  
+<h2> review.text </h2>
+
+ <p> I ordered these for inserts for our wedding dvds we were going to send out for our families. They do not come with templates, I had to use another companies website to print on to these! The qulity of the paper is pretty good and we had slim cases which they were able to fit into. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This product is OK </p>
+
+
+<h2> review.date </h2>
+  07-12-2008  
+<h2> review.text </h2>
+
+ <p> The Memorex have a good weight/thickness but have a perforated spine and I can never get my print outs to line up exactly. It would have been better if they didn't put the spine perfs in the paper. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heavy stock, very bright white paper </p>
+
+
+<h2> review.date </h2>
+  10-26-2011  
+<h2> review.text </h2>
+
+ <p> Very nice quality.  I've used about 60 cases for amateur sports videos over the past year without an issue.Works very nicely with:Memorex 2-Disc DVD Movie Cases </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Quality </p>
+
+
+<h2> review.date </h2>
+  08-16-2013  
+<h2> review.text </h2>
+
+ <p> These work well, but I would prefer a gloss finish like the ones I get from a different brand. The software is weak but if you make your own template for Open Office Draw&#60; you can get some really good results. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty handy </p>
+
+
+<h2> review.date </h2>
+  11-25-2012  
+<h2> review.text </h2>
+
+ <p> these fit great in to a outside covers of any dvd case, there is a spine for the thicker cases or you can just use the front and back inserts without the spine for the slim cases.  The only thing I had to do was create my own template to make sure everything lines up properly.  but I have a scanner and photoshop so that is not hard at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great inserts for dvd covers front and back </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

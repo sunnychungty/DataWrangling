@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 630500661X <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 1st part: great, really funny. 2nd part: so-so. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-03-2002  
+<h2> REVIEW TEXT </h2>
+
+ <p> Well, well, well, in the beginning it was cool comedy. No, not just cool but REALLY COOL comedy about black guy who took part in some experiment which upgraded his senses. Kind of super-power. A lot of funny (REALLY FUNNY) situations, dumb, but great jokes etc. etc. Cool movie. I hadn't laughed in such a way for a long time.But then... Oops! The movie became less funny, some kind of soap appeared there, the authors seemed to remember about correctness and that's why the ending wasn't as cool and funny as beginning.I'm so sorry. But only 3 stars. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Senseless </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-15-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> Sense - less (-lis) adj. 1. unconscious  2. not having or showing good sense; foolish; stupid  3.  having no real point or purpose; meaningless.Yep, that basically describes the movie, seeing how senseless a movie can been.  When two of Hollywood's best and brightest team up, you know it's going to be good!  The plot and comedy (by the way, this is a comedy, right?) are very, very predictable (Predictable comedies are always the best, right?).  I would not suggest watching, buying, renting, talking about, thinking about watching, or looking at. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For Real Raw Street comedy Fans Only! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I choose this rating because I love good and great comedy movies. This movie was coming from a diffrent perspective(not the hood) The Wayans have many classic movies, if you are a fan of the families work add it to your collection. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> &quot;corn?? i aint been eatin no corn!&quot; </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-23-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> this movie is extremely hilarious.i would reccomend it to family memebers  and even friends.the drug makes marlon wayans hilarious.well,actually he  already is.this is one of his better movies </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Funny Funky Flick </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-29-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> Marlon Wayans gets forced into the role of &quot;the stupid slapstick guy&quot; thankfully he doesn't play that part in this very underatted classic. This movie had me laughing and feeling great! With a hillarious performance by Matthew Lillard and a great evil characted portrayal from David Spade you have to check this one out... Cheap and above all fun! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> pretty senseless but good </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-11-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was expecting a crude and hilarious movie, and thats what i got.  Marlon wayans did an awesome job filling in a Jim- Carrey type part.  He is a college student that needs money, so he becomes a lab rat for this scientist testing a drug to improve the senses.  everything seems to be going good for him until he overdoses, with hilarious results.  Although this was david spades worst movie and i was expecting more from him, marlon wayans makes up for it.  Definite Reccomend if your looking for a light hearted crude comedy </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An Edgey Comedy Film...... </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-14-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> Everyone is wrong, and the back of the tape case/cover is wrong too. This movie wouldn't be called hilarious or not even funny. It had some and very few rare humored comical parts to it. I was thinking about giving it a 2 but i don't wanna make it look that bad. DON'T BUY IT, just rent it if you wanna see a 90 minute boring film. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Senseless </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-09-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a funny show and I enjoyed it.  I received this item in the time specified and was able to view it shortly after receiving it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> real funny. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-20-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> Marlon Wayens is a college student who has lots of jobs in order to survive. But the biggest job he wants is a Wall Street firm he will do whatever it takes to get it so when went to see some guy who did a test subject on him that makes his senses be king size greater then any average human. But if he take a over dose he can lose his sense's at a time. The stuff has to wear off at a time by it leaking out of him on it's own. I thought it was funny when he meat this homeless person he couldn't see at the time the homeless person knew it so he took advantage and stoll his clothes he was nude. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> hilarious </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-11-1999  
+<h2> REVIEW TEXT </h2>
+
+ <p> don't listen to marshal fine's negative review (he's always negative),this is a hilarious film. wayans gives a very energetic performance in this film. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> satisfactory condition inded </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-20-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Plays fine... semi -diminished sound quality... and it cant stay in the case so I've had to find other means of containing the DVD.. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HILARIOUS! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-09-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've seen this movie a dozen times (and no, I'm not a nerd) and it never get's less funny.  The jokes still make me laugh just as hard.  Marlon Wayans really shows off his comedic talent in this, probably more than any other movie he's ever done.  See it and you'll know what I mean.  The script is solid, and David Spade is the same as always, which is a good thing.  I love the line "Dad, I know you love me!  Remember that time you almost said it?"  Check this movie out.  Stuck up people with absolutely no sense of humor should not see this movie though, I wouldn't want them to actually have a good time while watching something, now would I? </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0080KKQ56 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-11-2013  
+<h2> review.text </h2>
+
+ <p> I would rate this book higher than a 3star if editing was better.  Some things are not correct.  Next time get an editor who reads the work and knows what they r talk ok ng about also. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good book </p>
+
+
+<h2> review.date </h2>
+  03-17-2013  
+<h2> review.text </h2>
+
+ <p> I am doing my research on chickens in the anticipation of raising a few. This book was a quick and easy read, and full of good information. I will probably purchase an actual copy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Helpful and easy to read </p>
+
+
+<h2> review.date </h2>
+  03-11-2013  
+<h2> review.text </h2>
+
+ <p> I found this to be a seriously useful book. While I can't have chickens right now (prohibited by law, despite living in the country. Go figure), I'd very much like to have a few in the future. &#34;Raising Chickens&#34; could use more photographs, but I don't feel strongly enough about it to take a star. I really enjoyed this book for good info for relative beginners. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really terrific </p>
+
+
+<h2> review.date </h2>
+  02-11-2013  
+<h2> review.text </h2>
+
+ <p> My grandchildren and I are raising backyard chickens so when I ran across it had to have it. It was very informative.  So informative that I loaned it to them to read. It is a quick read with a lot of useful information </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really loved this book </p>
+
+
+<h2> review.date </h2>
+  07-13-2012  
+<h2> review.text </h2>
+
+ <p> Sometimes when you're investigating a new topic, all you want are the basics. This book has them. You won't find much in the way of plans for chicken coops and other structures, so you'll need to go elsewhere, but this one should get you started. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Nice Basic Book If You're Looking for a Quick Overview </p>
+
+
+<h2> review.date </h2>
+  12-20-2012  
+<h2> review.text </h2>
+
+ <p> This book is pretty short, but it has a lot of useful information and ideas for anyone who is considering keeping chickens. This book includes general information on raising chickens, caring for them, meeting their dietary and shelter needs and the benefits that chicken owners reap. I liked that the author included photos of how to construct the coops and gave variations and different ideas of inexpensive ways to do so. I have been considering this idea for a while and thanks to the information provided in this book, I now feel more confident that it is the right decision. The author of this book is well informed, well spoken and to the point. Useful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book on the subject </p>
+
+
+<h2> review.date </h2>
+  05-13-2012  
+<h2> review.text </h2>
+
+ <p> If you are new to having chickens in your backyard, this has advice on how to house them, along with other tips to keep your chickens happy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little book for the beginner. </p>
+
+
+<h2> review.date </h2>
+  05-17-2013  
+<h2> review.text </h2>
+
+ <p> This guide is so basic that it is pretty much useless. I would strongly suggest looking for a different book unless all you know about chickens is they lay eggs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't bother... </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> Just read in our home town paper that we may be allowed to have a few chickens in our backyard.  This book gave me a lot of great information about the subject.  It was well written also.  The instructions for the coops and runs were very easy to understand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book </p>
+
+
+<h2> review.date </h2>
+  03-19-2013  
+<h2> review.text </h2>
+
+ <p> I got this book, hoping to one day have some chickens. Now that is about to turn to reality and this book answers so many questions I have. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome how-to book for beginners </p>
+
+
+<h2> review.date </h2>
+  07-13-2013  
+<h2> review.text </h2>
+
+ <p> Very informative for chicken-raising beginners. Great description of items for the subject. It helped me understand things about chicken raising at home and provided simple things to make on how to start the project. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great info. </p>
+
+
+<h2> review.date </h2>
+  12-19-2012  
+<h2> review.text </h2>
+
+ <p> No single book is going to tell you everything you need to know about chicken raising (esp. not one this size.) But this is a good place to start. The author gives you all the basics but doesn't go into tedious details. She demystifies chicken coops, so even though it's light on details, it's enough to give you confidence to dive into the adventure of chicken keeping. If you are considering raising chickens, start with this book but plan to read more from other authors. [...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good place to start </p>
+
+
+<h2> review.date </h2>
+  08-05-2012  
+<h2> review.text </h2>
+
+ <p> I wouldn't recommend this book, if you are looking to buy a book about keeping chickens.  (If the book is free on Kindle, like it was when I got it, then give it a try I suppose).  The coop information is minimally helpful, but the photos did not really match the description of how the author suggests building a chicken shelter, and there was insufficient depth to the suggestion. There was also little if any information on care and feeding and in my opinion you do still need to feed chickens not just graze them on a small patch of grass in a chicken tractor.  Or maybe my chickens are just gluttons.  It's not so much that this book is bad, but it's insuffient and the information it does have just wasn't very useful or helpful to me, and I don't feel I can recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not recommended </p>
+
+
+<h2> review.date </h2>
+  07-19-2012  
+<h2> review.text </h2>
+
+ <p> Very informative short and sweet guide for a new chicken owner.  Lots of great hints and brief description of breeds.  Found the coop information and suggestions very helpful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short and sweet guide for chicken care </p>
+
+
+<h2> review.date </h2>
+  05-21-2012  
+<h2> review.text </h2>
+
+ <p> I really liked this ebook. It is a shop brought quality book that includes everything you need to know from choosing chickens, feeding them, the importance of a dust bath and building chook runs. This book does not leave anything important out. The book also contains several relevant and well places photos that really add to the content, particularly the image of people building a chook run.The book includes a step by step guide to building a chook coop, starting with materials needed. It explains why you need a secure chook run, how big the area should be and why. I like some of the short cut ideas that will save you time and money, particularly the idea about using milk crates as nesting boxes.This is a professionally put together ebook, not like a lot of the crap that passes as ebooks these days. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A really comprehensive guide </p>
+
+
+<h2> review.date </h2>
+  06-02-2012  
+<h2> review.text </h2>
+
+ <p> I learned a lot, and it seems raising chickens is a lot easier than I thought, but still can't convince my husband how fun it would be to have chickens.  Oh well.  I gave the book only 4 stars because nowhere could find mentioned what you do with the chickens all winter long.  I doubt the birds are going to be clucking around the snow covered yard. I don't think I'd want to share the garage with them! Other than that ommission, book was great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A really good Get Started with Chickens book. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

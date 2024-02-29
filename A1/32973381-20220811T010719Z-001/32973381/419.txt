@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B006U15CUG <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> For such a short story it was very good.I chose this rating because it is well written and hold a reader's interest all the way to the end.The only thing I disliked was that it was too short.I would recommend this book to anyone who likes a fun mystery/ghost story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun read. </p>
+
+
+<h2> review.date </h2>
+  06-19-2013  
+<h2> review.text </h2>
+
+ <p> way odd, but a great read.. with all the 'hauntings' stories on the BIO channel, this is a really decent read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dead People In Love (Haunted Hearts) </p>
+
+
+<h2> review.date </h2>
+  01-15-2013  
+<h2> review.text </h2>
+
+ <p> Same as the other book, couldn't put it down. Also easy to read and it was also fun and sad. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Like it </p>
+
+
+<h2> review.date </h2>
+  03-17-2013  
+<h2> review.text </h2>
+
+ <p> I find this series fascinating and love them when they come out.  I wish there were more of them.  Bring it on! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I loved it </p>
+
+
+<h2> review.date </h2>
+  06-02-2014  
+<h2> review.text </h2>
+
+ <p> Very good reading enjoyable.  It is a short story with interesting ways of making you want more.  Fun anyone would enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dead People In Love </p>
+
+
+<h2> review.date </h2>
+  08-21-2012  
+<h2> review.text </h2>
+
+ <p> Cassie is hired to help with resident ghost.  Hauntee wants the haunter to remain.  They are in love.  Grandson wants to put grannie in a home.  Grandson's fiancee wants the condo.  Cassie acts more like a therapist to everyone, rather than the 'ghost buster'.  Story is much shorter than first book and definitely not as interesting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointed after first book </p>
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> Closer to a short story than a novella, Dead People in Love is a follow up to Dead People.  I was seriously conflicted about the first novel.  I found the novella to be more entertaining and more enjoyable.The main character came off better in this one than the previous.  In that I mean she was more likeable.  I still find this to a very interesting concept.  The whole ghost whisperer idea could produce a quality series.  Don't know that the all need to feature the same characters just the same concept.  Ghost helping solve a problem so they can move on.  Oh wait,  Jana Deleon is already writing one these series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better Than The Novel </p>
+
+
+<h2> review.date </h2>
+  03-01-2012  
+<h2> review.text </h2>
+
+ <p> Edie Ramer's DEAD PEOPLE IN LOVE is a short story sequel to her romantic novel DEAD PEOPLE and it doesn't disappoint.Cassie, the heroine in the story, is a ghost whisperer with little patience for the living. When she's called in to rid an upscale Chicago condo of its resident ghost she finds herself in the middle of a family drama. And Cassie's had enough of that to last her two lifetimes.All the characters in this short story are well drawn, believable people. I like the way Ms Ramer has taken the main character, Cassie from the romance DEAD PEOPLE, and turned her into an amateur sleuth. Luke, Cassie's new husband makes a few cameo appearances, but the story centers on Cassie and her growth as a person who talks to the dead.Lovers of both paranormal and mystery stories will enjoy this Haunted Hearts story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A funny, fast-paced read. </p>
+
+
+<h2> review.date </h2>
+  04-02-2014  
+<h2> review.text </h2>
+
+ <p> This was a very enjoyable story. The characters maintained my interest. The ending was very sweet. Wish it was longer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cool read. </p>
+
+
+<h2> review.date </h2>
+  06-05-2014  
+<h2> review.text </h2>
+
+ <p> Quick read which to me means there is a good flow of words and plotline.  A couple of times I had to stop and figure out who was who-those places where authors sometimes say too much at once.  Not sure if that makes sense to anyone but me, it's along the lines of "Mary was telling Ted how she felt while Earl turned to John and heard Betsy say..."!  I freely admit that I am not an author, just trying to get a point across.I didn't know this was a sequel but I will be putting the first story on my reading list! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun, light reading </p>
+
+
+<h2> review.date </h2>
+  07-28-2012  
+<h2> review.text </h2>
+
+ <p> I completely fell in love with this book along with it's characters. Normally I would not have given a book like this a secon thought, but I so glad I did. And you will too. BUY IT! You will love it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dead People in Love </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> I read this short story in about an hour and wished it was longer. The writing felt a little rushed in parts and would have loved it to be a little longer, but a perfect for a quick read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute novella </p>
+
+
+<h2> review.date </h2>
+  05-03-2013  
+<h2> review.text </h2>
+
+ <p> This was a fun short story-my only complaint is it was too short.But read the other &#34;dead people&#34; first.Good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

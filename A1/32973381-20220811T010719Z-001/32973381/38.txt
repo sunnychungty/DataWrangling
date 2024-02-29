@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0015LTBG2 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-12-2008  
+<h2> review.text </h2>
+
+ <p> Works quickly and quietly.  No heat issue.  There is some propriatory software that wants to install you each time you plug it in the USB port.  That's annoying. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> drew </p>
+
+
+<h2> review.date </h2>
+  05-18-2009  
+<h2> review.text </h2>
+
+ <p> A good, easily connected and transportable external hard drive.  The synchronisation system/software is a bit clumsy, especially given the limited readily provided information on this.  For example providing all the folders to be synchronised (which then links the sub-folders), however if new sub-folders are created these don't automatically get included. Very frustrating when you discover this after departing from your "base computer" with the drive. Once this aware of this though it works alright. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Western Digital My Passport Elite 320GB </p>
+
+
+<h2> review.date </h2>
+  09-17-2008  
+<h2> review.text </h2>
+
+ <p> got this drive like 4 weeks ago and it's been great so far..no problems yet.plug and play, have it running like 24 hrs straight and no problems of overheating.WD has great warranty on this, a whopping 5 years!! that's why i got it.all in all great drive.. no problems so far.. suggest buying thru amazon coz it's cheap and amazon is a great place to shop almost anything!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WD My Passport Elite 320GB USB 2.0 </p>
+
+
+<h2> review.date </h2>
+  01-16-2012  
+<h2> review.text </h2>
+
+ <p> WD made these little puppies quite robust .. still, shouldn't knock'm around when they are running though.  I wish WD still made their current line of 3 1/2" drives as well.  This drive is very very nicely finished, and has had zero failures in my experience with it.If you don't want or need the "auto" and security features .. and the screen pop-ups that ask you what you want to do, then it's suggested that you just do a full format, before you start loading stuff on to it.  Info is easily found online.  5 stars .. highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Little Drive </p>
+
+
+<h2> review.date </h2>
+  08-14-2008  
+<h2> review.text </h2>
+
+ <p> The last backup drive I bought was a 4 gig flash drive. Its nice but I should of just bought two of these there just as portable for adults . I bought this model it was only $10 more then the essential and the door on the USB data port is worth that much . IT came with the little bag too otherwise I was going to put it in a crown royal pint bag . Buying a case is worthwhile it comes with a 20% off coupon for one from WD . You would think they would just sell it with one at cost .Thankyou other posters for telling me that it was formated in Fat32 . I plugged it in loaded all the software in my machine then I reformated it . The WD backup has a product code lock its on the quick instal manual so dont toss the instructions . Basically the real manual is in the software . If you loose it you can find it at the WD site . I figured I would loose mine when I reformatted to NSFT using my machine through exlporer . However since it was all loaded on my machine already it was fine . Infact when I ran WD backup it reinstalled it for me on the elite drive . All the other programs are trial or pay for software the one you want is that WD backup though I can see where some would pay for the others its up to each person . There is another free program to restore you can download when you go through the backup process the first time . After I put the NSFT format on the drive I was able to backup my entire machine . Thats what I bought this for I have lost to much important data over the years to viruses , burnt hardrives and or theft . I was worried about the synch feature causing bad files so I didnt encrypt with the horror stories others have told about WD wanting thousands to break code and back out .but ...we will see I am looking for software elsewhere with a backdoor to do this just incase I loose the password . ( I am a head injury patient and have health issues organization and memory arent my strong suits )I saved $$$ buying a different color then i originally wanted . They are all good i was very happy once I got the Bronze home . Check to see which one is the cheapest and buy that one unless your a guy and its pink . IT will be in a case most the time anyways . I dont know what their talking about the brush soft coat wearing off its just rubber coating on the areas that would be the spine and front and back covers if this was a book . The page areas are black plastic . ITs nice . It does heat up a tad but not bad . The extra USB is for power and you have to ask for it my Desktop ran this fine but I might say I need it . You could buy one for a few bucks the cable is just like any other USB data cable . The person that talked about the external powered USB hub was a good tip but this is so nice if it works through the one USB cable alone . Mine does yeah  . It fits easily in a t-shirt pocket , the cable is about 16 inches long too bad it just is loose so you need a case or a bag which mine came with . ITs just a velvet black draw string pouch and thats fine . I like it very much . I will post again at a later date like all electronics the price fluctuates daily plus falls . I paid $129 and am very pleased . The last backup for me besides that recent flash drive was a Iomega zip drive and I paid $450 bucks for it. You can imagine how geeked I am on this . I am not computer savvy . I am a 50 year old disabled blue collar worker with 2 years of college .I read the reviews used the tips to help me . It backed up my entire drive while I slept . I have not tried using it at another computer yet . I may buy another one to just synche the suggested files . I cant imagine a easier way to back up my ever growing digital photo's , music and documents for the last decade .It stated it would just synche the back up for me once a day due to the size of my backups and all files . I keep everything scanned into my computer . This would of filled twenty file cabinets . Do it . I had my home broke into and lost a computer . I plan on having everything backed up and in two locations from now on . Again the printed material is lacking just once sheet of useless mumbo jumbo in many languages that really only gives you their online website address and a quicklaunch few page booklet with your product key for the Wd backup software otherwise its all online or inside the drive just open the file . Good luck I am glad I bought it . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very pleased this is wonderful </p>
+
+
+<h2> review.date </h2>
+  08-18-2008  
+<h2> review.text </h2>
+
+ <p> This has been a great product -- very reliable, well made, and easy to use.  It is quite small for a 320 GB storage device, and easily carried.  I have had no problems with either of the two passport units I purchased.  I also bought a CaseLogic case for them, which fits and protects them very well.I have not loaded the software that comes loaded on it, which is not needed at all, and I simply use it as an external storage drive for photos and movie clips. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product </p>
+
+
+<h2> review.date </h2>
+  06-15-2008  
+<h2> review.text </h2>
+
+ <p> Very nice looking drive, has 4 nifty white LEDs that sequence back and forth, and feels good in your hand - not as slippery as the high gloss plastic versions.  Appearances aside, it also has a sliding cover for the USB socket when the drive's not in use, which should come in handy for protecting against grit when it's stuffed in your purse/pocket/bag. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looks Great, Nice Features </p>
+
+
+<h2> review.date </h2>
+  12-12-2008  
+<h2> review.text </h2>
+
+ <p> Great little hard-drive.  I've only used it on one computer for about 3 months but no issues.  Really easy to set up and very small.  I purchased a case and plan to travel with it as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Small & Great! </p>
+
+
+<h2> review.date </h2>
+  10-18-2008  
+<h2> review.text </h2>
+
+ <p> Compact ... reasonably tough, fast access ... and easy to carry. I bought a CaseLogic case for it and the short cable ... though it came with a soft carry sack. I'd highly reccomend that investment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> EXCELLENT!!!! </p>
+
+
+<h2> review.date </h2>
+  10-20-2008  
+<h2> review.text </h2>
+
+ <p> They charge substantially more for this model than for theWestern Digital WDME3200TN My Passport Essential 320GB USB 2.0 Portable Hard Drive (Midnight Black).What do you get for the extra money?Nothing of significance or even substantive value.A somewhat burnished case finish which adds nothing.A drive activity diode which adds nothing.A cheap cloth pouch which adds nothing.Stick with the "My Essential" model that offers the same functionality at a lower price. The My Essential model is worthy of 5-stars. The Elite delivers nothing for the extra money.Jerry </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not worth the price premium over the lower cost model </p>
+
+
+<h2> review.date </h2>
+  10-16-2008  
+<h2> review.text </h2>
+
+ <p> for the price i think this is one of the better portable hard drives out there. read lots of reviews before i landed on this one and so far i like it. the only thing i don't like about it is the usb cable that it comes with, it is really short so you will need to have the hard drive close to the usb source </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Portable Hardrive </p>
+
+
+<h2> review.date </h2>
+  02-18-2009  
+<h2> review.text </h2>
+
+ <p> I love this sleak little thing.  You can find an inexpensive case for it almost anywhere too (I use a small camera case from Walmart).  One drawback is the lack of access to inside the hard plastic case incase you need to replace the drive unit in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product. </p>
+
+
+<h2> review.date </h2>
+  10-18-2008  
+<h2> review.text </h2>
+
+ <p> This portable hard drive is great, its quiet, stays cool, runs completely off the UPS port on your computer for power, and is sleek and stylish looking.  Its easily portable, can fit in your pocket and has plenty of space.  Its not as fast as the larger 3.5 drives, but its plenty fast enough and works great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice portable storage for the money! </p>
+
+
+<h2> review.date </h2>
+  05-03-2008  
+<h2> review.text </h2>
+
+ <p> Smallest, lightest, virtually silent drive I've ever used. In comparson to a deck of cards, this drive is sightly longer, about the same width, somewhat heavier.I lke it a lot, in fact I just bought a second one, and will be dumping 3 or 4 of my 100-200 gb annoyingly large, heavy, hot, and loud  external drives.This drive works great, BUT only after I connected it to my laptop using an externaly powered accessory USB hub.  I strongly recommend this type of connection for external drives, USB/CD burners, etc.  The power coming from one USP port of my IBM-T42 simply did not provide adequate power to the drive, and my laptop WOULD NOT RECOGNIZE the drive when I connected with the supplied cable.  This is a common problem for external devices such as drives and burners.  Many computers, especially laptops, have very limited power available from a single USB port.I installed the included backup software but then disabled it.  The backup software can be set to "syncronize" folders you pick so that two or more folders on different drives will have the same contents.  This works but is not the type of back up strategy I use. I backup the whole drive, windows and all, to make disaster recovery a "one step" job.I wanted to use the included encryption software but apparently this is a "pay-extra" software and I couldn't install it.So I am now using an open source encryption tool called "true-crypt", which I highly recommend.  Don't forget your password however, there is no "back door" once you've encrypted your data! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very small, very  light,  totally silent, reliable 320 gb </p>
+
+
+<h2> review.date </h2>
+  09-30-2008  
+<h2> review.text </h2>
+
+ <p> Fantastic little drive! The form factor is tiny and it's worked very good so far.  No external power and easy transfer of files.  I travel to China for 6 months at a time and needed storage for all the photos I take along the way. I am using this with a eeePC1000 and it does what I wanted it to do---store a lots of pictures.  Recommend this as a very good value and problem free storage device. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> pygmy super drive </p>
+
+
+<h2> review.date </h2>
+  09-30-2008  
+<h2> review.text </h2>
+
+ <p> I have owned several Western Digital Passport drives and a few other mobile drive brands. This drive is great for backups, as you can hook it up fast without a power supply and store it anywhere. Put it in your briefcase, put it in your safe, take it with you anywhere and keep a copy of your data. It is almost pocket-size and the only thing you have to keep with you is a short USB cable. Some people consider the short cable that's included to be too short, but it's mobile!Some owners have commented on needing a power adapter or extra usb cable for it, but I've never had that issue. I've used it on multiple desktops and multiple laptops with no issues at all, but you'll have to try it on your own system.The surface of the Passports can be easy to scratch if you throw it around or keep it in your bag with other items. That would be my only complaint, but it doesn't really bother to me.All WD Passports that I've owned, including this one, have stood up very well.  I've never had a drive failure, the transfer speed is always quick, and the case is very sturdy.  I have these drives everywhere, because of their mobility and performance.  You can't beat them!The speed is very responsive. I've used it on an XP and Vista machine and both have copied data to it fairly quick. I haven't performed tests on it, but it always gets the job done for me. The 320GB version is a great upgrade on the previous Passport models.Check back often for pricing.  Amazon and other retailers change the prices of the WD Passport drives all the time! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent mobile storage </p>
+
+
+<h2> review.date </h2>
+  12-22-2008  
+<h2> review.text </h2>
+
+ <p> The reviewer who said that this product is identical as the WD Passport Essential (other than the soft finish) is incorrect. The two big features that are included with the Elite are backup software and a capacity gauge.  You also get remote access software (no biggie for me).  The capacity gauge is nice to have and the backup software is a good investment.  Great product that works like the Everready Bunny. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product with features not on the Passport Essential </p>
+
+
+<h2> review.date </h2>
+  07-29-2010  
+<h2> review.text </h2>
+
+ <p> This portable HD is so light, so small, yet so big on storage it will become your life line. This is great to have to store anything those important files that you don't want others to see or to just save in case your computer crashes. The design is very durable, it is easy to connect and the software it comes with is easy to use. The carry case was a nice freebie that comes with it making it super portable and safe. The price is great.  You will be happy with your purchase plus you will be happy that you have this if ever something bad happens to your computer and you lose everything. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So simple to use and will save you a lot of trouble later! </p>
+
+
+<h2> review.date </h2>
+  02-07-2009  
+<h2> review.text </h2>
+
+ <p> This product is awesome.  I can store so much info on it and it is so portable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Storage </p>
+
+
+<h2> review.date </h2>
+  10-17-2008  
+<h2> review.text </h2>
+
+ <p> Works great with Mac Leopard.  Just plug it in and follow the prompts - you will simply have to re-format the drive to be compatible with Time Machine, but that's easily done - OSX guides you through it all quite painlessly.Zero problems, quite durable (I travel a LOT and treat my gear "OK", but don't baby things), does what I need it to do, which is backup the 250GB drive on my MacBook.Looks nice, the finish seems to go pretty well with the aluminum cases on Apple computers too.This is my 4th Western Digital external HDD.  The others are all still in use, and we have not experienced any drive failures thus far. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great with Mac OSX Leopard </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

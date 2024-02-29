@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B005L94EAM <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-05-2013  
+<h2> review.text </h2>
+
+ <p> This thing works as advertised. It is SATA II speed and house 2.5" HDD, SSD, SDHD. I've been using this for about 4-5months and so far no issue except for one and hence rated 4 stars.The HDD inside is not snugly fit into this bay and therefore creating rumbling noise when running. I fixed this with putting little customized rubber eraser pieces between the hdd and the inner wall space. It's a little bit of a hassle but not a deal breaker.All in all, I would recommend this product to anyone who's looking for an extra storage space for their digital contents. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great but one prob. </p>
+
+
+<h2> review.date </h2>
+  02-25-2012  
+<h2> review.text </h2>
+
+ <p> I bought this for my new Samsung np300e5a laptop and it fits like a glove.  Installation took about five minutes and that's only because the faceplate was difficult to take off the old drive. I doubled my storage space in an instant.Now for some downsides.- I can reach speeds of about 150 MB/s, so it is a SATA 1 connection.- The fit for a 2.5 inch drive is less than perfect.  You can't screw it in place so it wobbles quite a bit. I ended up taking some foam and squeezing it into the sides.  This worked quite well- I lose about half an hour of battery life compared to when I use an optical drive.  I expected to lose more, so this is a bit of a plus actually.This is my first OBHD caddy so I can't really make an informed comment as to whether or not this is a great product, but I can say minus a few minor and acceptable problems, I am very happy with my purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OBHD caddy </p>
+
+
+<h2> review.date </h2>
+  04-18-2013  
+<h2> review.text </h2>
+
+ <p> That's pretty much my question whenever I have a family member or friend ask me why I drop another hard drive into the DVD slot of an older computer. Inevitably they say, &#34;Uh, never?&#34;These are great when you're swapping out the drive, but make sure you save AND keep the attaching hardware to the original DVD drive for installation on this caddy - the laptop's DVD drive has attaching metal parts that need to be attached to these to hold it in place. That's not evident from the instructions on the package, but if you're buying one of these to add a secondary hard drive (or replace your older hard drive with an SSD and add your old hard drive as a backup / file drive, which is what I usually do with these) you'll want to make sure it stays IN the laptop, right?I was a little worried that it wouldn't fit in the older Sony VAIO I was swapping the DVD drive from, but it worked just fine.  For any need for a DVD drive, I hook up a USB DVD drive through the USB ports. Amazon's portable DVD drive works beautifully, and for $25, you can't beat the portability. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Who uses a DVD drive anymore? </p>
+
+
+<h2> review.date </h2>
+  10-01-2012  
+<h2> review.text </h2>
+
+ <p> Removed my iMac's superdrive and put in a solid state drive.  This worked perfectly.  Exactly the same as the other stores selling this item but at 1/10th the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked for iMac Superdrive </p>
+
+
+<h2> review.date </h2>
+  06-09-2013  
+<h2> review.text </h2>
+
+ <p> I had to buy a second one because the one I received did not work at all. My second one was Fenvi which was fine.  It could have been that I just received a bad one.  Fit was ok but the sled did not recognize my drive at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> bought this one first for my lenovo </p>
+
+
+<h2> review.date </h2>
+  12-02-2012  
+<h2> review.text </h2>
+
+ <p> Bought this so I can remove the CD drive from an Asus N56VZ-RB71. I bougth an SSD drive to use as primary and then moved the laptop's HDD to the drive bay for extra storage. The install itself took no more than 5 minutes. Product works great. 4 out of 5 because it does not come with enough 'fillter' accessories or materials to hold an SSD drive in place. It does come with some kind of a bracket to fill any unused space on the SSD  cutout, but not enough to keep things solidly mounted. Had to improvise with some foam to keep my SSD from jiggling around.It is important to note though that my SSD can only move if I flip my laptop upside down and right side up. This is not a huge issue for me as that's not normal movement during normal laptop use but I just want to make sure things sit tight when my computer is in transport. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Got my SSD up and running with my large HDD on the laptop! </p>
+
+
+<h2> review.date </h2>
+  03-23-2014  
+<h2> review.text </h2>
+
+ <p> Worked great, it was an easy install and came with all that was needed besides the screwdriver to do the install. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I've tried another helmet bluetooth headset that was on sale on amazon for $99 last year and it was terrible, this unit on the o </p>
+
+
+<h2> review.date </h2>
+  01-02-2013  
+<h2> review.text </h2>
+
+ <p> I have a dell studio 1558 and I used my external hdd more than the actual cd drive and have an external cd drive for burning dual layer discs, so instead of taking out my hdd all the time when i wanted to be on the go, i just installed it in the computer now having two hdds! One is SSD and then i have this to back up all my other stuff on. as others have stated, the label on the caddy was missing and not a true name brand item, false advertising...but the item does work very well. Another thing, there was a pretty big gap between the housing of my laptop and the hdd so i used some small bubble wrap and it seems to fill the void. If it has melted the bubble wrap or not im not sure because i havent opened the laptop since then but i think it should be okay, i dont think the hdds get that hot..maybe they do..i dont know. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dell Studio 1558 </p>
+
+
+<h2> review.date </h2>
+  02-07-2014  
+<h2> review.text </h2>
+
+ <p> I replaced my DVD with a second hard drive using this. Although all the screw holes didn't line up perfectly, I got the HDD secure. I put the old DVD faceplate right over it and it looks completely stock.I use the extra storage every day and I've only needed my DVD, which I put in an external enclosure, maybe twice a year. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not high precision hardware, but works just fine. </p>
+
+
+<h2> review.date </h2>
+  08-03-2013  
+<h2> review.text </h2>
+
+ <p> It's made of metal, with a good substantial feel that I like because every indication says it will last for a long while. I have an SSD in my laptop as my main hard drive, but to really get enough GB on an SSD, you have to pay more than my budget will allow. Using this in my CD slot allows me to put a much larger and slower hard drive there. I can choose which hard drive does what to give me the best performance. After all, some processes are not affected as much by the slower speeds. It was easy to install too. My only problem is that it doesn't conform to the angle of my laptop's side, but I wasn't expecting that because my laptop does have a weird-angled side. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid and Helpful with my SSD </p>
+
+
+<h2> review.date </h2>
+  01-04-2014  
+<h2> review.text </h2>
+
+ <p> Works as it should but face plate didn't fit right. Still functionally works good though. Would buy another if needed </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as expected </p>
+
+
+<h2> review.date </h2>
+  12-27-2013  
+<h2> review.text </h2>
+
+ <p> This caddy worked great to add a second SATA drive in the DVD bay in an Asus laptop. Good fit. Only oddity is that the DVD cover won't fit on this caddy, so there is a slight indentation where the DVD drive was and the DVD cover doesn't fit over it. This has a blue light on it that flickers with drive activity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked great for adding SATA drive in DVD bay in laptop </p>
+
+
+<h2> review.date </h2>
+  10-27-2012  
+<h2> review.text </h2>
+
+ <p> I ordered this caddy and the one that came is markedly different from the photo on the page. No label on the caddy, no retaining latch (which is absurd, since the instructions on the package talk about it), the screw holes in the back don't line up with the mount from the laptop that I need to put on, and the optical drive cover will not fit.  I didn't realize they shipped these by randomly pulling different sized caddies out of a box, but that must be how they ship things. Definitely returning this one and looking elsewhere for a caddy.Edit: I ordered this from VeeCome. I've ordered a new one from Rockmart in the hopes that I just got sent the wrong item. Will update this review when I get that one...Update: I got the order from Rockmart earlier this week. The part I got looked like the picture and fit my laptop, though the optical drive cover of my laptop (Dell XPS 15) is a little loose. I'm guessing the bad first one was just an issue with getting it through VeeCome.So far, no issues with the caddy now that it's in place (aside from the loose cover). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bad fit, false advertising (Updated) </p>
+
+
+<h2> review.date </h2>
+  06-18-2013  
+<h2> review.text </h2>
+
+ <p> Replaced the optical drive inside my 27&#34; iMac with a Samsung SSD mounted in one of these. Perfect fit except 1 of the 4 screw holes did not line up properly with the SSD. 3 screws were good enough, it was a solid mount. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits Late 2009 27" iMac </p>
+
+
+<h2> review.date </h2>
+  11-25-2012  
+<h2> review.text </h2>
+
+ <p> This thing rocks!  Very easy to set up.  I use this as a backup drive when I'm on a photo shoot.  I turn on my sync software and after downloading photos from my SD card they get duplicated to the 2nd hard drive.  Much faster than USB 2 and doesn't require a cable or desk space like an external drive would.  I find it very easy to change it out with the DVD drive when I need to burn a disc or install software.My hard drive is thin so there's a bit of extra space where the drive could flop around a bit so I put a "peel & stick" rubber pad on the top of the hard drive to prevent any movement when it's installed in the my laptop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absolutely Brilliant! </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> I have a T430 with an optical drive.  This unit fits well.  I did need to move over a couple plastic trim pieces from my original DVD drive. 1) Exterior bezel cover and 2)Black plastic piece near the sata ports.Replacing these components makes the drive look indistinguishable from the factory DVD drive (aside from the constant on blue LED).This caddy should also support taller 12.5 mm drives as there's some room left with my 9mm.Avg read speed utilizing a 250GB 5400 RPM drive came out to 67 MB/s </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fits Lenovo! </p>
+
+
+<h2> review.date </h2>
+  01-09-2013  
+<h2> review.text </h2>
+
+ <p> Micro SATA Cables - 12.7mm SATA Optical Bay Hard Drive Adapter Caddy (Electronics)I ordered this caddy on the evening of the 3rd of Jan, shipped on the morning of the 4th, 5th and 6th was a weekend, got it the morning of the 7th. You can't beat service like that. The kicker is, I've already installed two of these caddies and this one cost less than half of the first two I bought on eBay. Guess where I'm going to get the next one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the Best! - Micro SATA Cables </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B006Z64O5A <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-09-2013  
+<h2> review.text </h2>
+
+ <p> When I was a teenager I wrote a paper on the WACs of WWII.  Women pioneers like Jackie Cochrane and Sally Ride ( who had recently gone into space and into history) were heroes for me.  I haven't thought much about those famous women save to mourn Ride's death.  &#34;Wings&#34; does a fantastic job of taking a reader into the often forgotten history of women's areal contributions during WWII.  We get a great story about Liddy Hall, a young woman pilot who goes through WASP training to earn her wings.  Cartier did an amazing job of making sure her readers fully invest in the characters she created.  Nothing strange or unrealistic appears in this novel, thus the believability of the story is maintained throughout the read.  If you want to learn a little something and enjoy a great period piece, I definitely recommend you purchase this novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you love war era novel... </p>
+
+
+<h2> review.date </h2>
+  03-12-2012  
+<h2> review.text </h2>
+
+ <p> Got this book for free, and unlike most free books the writing was great. The humor was subtle, and the characters were so well done they felt like a real group of women you would want to know.My only disappointment was the plot after the flight school ended. It was still good, but the first half of the book made it seem like we'd hear more about the life of women pilots, but it veered into a summarization of Liddy's personal life after flight school and it got a little boring. I know she was the main character, but more about the whole group would have been great.However, overall it's a great read and I couldn't help thinking what a terrific movie this would make. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read; great writing </p>
+
+
+<h2> review.date </h2>
+  04-08-2012  
+<h2> review.text </h2>
+
+ <p> When I picked this book I remembered the mixed reviews and wondered if I would like it or not.  I am happy to say that it was a fantastic book from beginning to end!!  I was fascinated by the story of the WASPs, sorry to hear that the program was discontinued and loved the emerging friendship of Liddy, the other WASPs and Major Reid Trent.  I anxiously waited for the end of the novel and was very pleased with the ending.  I was left with wondering what to read next that will live up to the standards of this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wings, A Fantastic Story! </p>
+
+
+<h2> review.date </h2>
+  03-01-2012  
+<h2> review.text </h2>
+
+ <p> I read My Way Home, loved it, and couldn't wait to read Wings. I was not disappointed; in fact, this wonderful story surpassed all my expectations. All the characters were remarkably realistic and the dialogue had me enthralled all the way to the end. The imagery was incredibly vivid and all of my senses and emotions were thoroughly engaged. (I used up lots of tissues for both happy and sad tears.) I especially liked learning about the WASPs -- women pilots during WWII -- as well as about the planes they flew. I can't recommend this book highly enough; I am eager for my friends to read Wings so I can have the fun of discussing it with them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another winner by Cynthia Cartier! </p>
+
+
+<h2> review.date </h2>
+  04-02-2014  
+<h2> review.text </h2>
+
+ <p> This book covers the period in aviation just as the WW2 broke out and follows the hopes and ambitions of female prospective fliers, how difficult it was to get an opportunity to learn how to fly and the discrimination they faced from their male counterparts. A good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting! </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> This is the second book I've read by this author.  I have loved both of her books and have recommended them to others to read.  This book, just like her other one, is a very well-written story.  When my emotions become so involved with the characters that I  laugh and cry, I consider the author a good writer.  This book also involved information about women pilots getting the opportunity to fly airplanes during World War II.  As a woman, I know how hard that must have been!  Also as a woman, I related to so many of the same emotions and thoughts her characters had.  I like the way this author develops her characters and the story line.  I like the way she ends her books and I can't say that about all books I've read!  While, yes, there is romance involved, I just like her books because of the excellent stories she tells.  A very satisfying book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wings </p>
+
+
+<h2> review.date </h2>
+  08-27-2012  
+<h2> review.text </h2>
+
+ <p> We open up with Liddy Hall, a female pilot when there were not many of them.  She is flying in air shows to help make money, as one of her jobs.  She is responsible for her father, since he is a widower.  He is in a home being taken care of by the staff, while Liddy is working to pay for it.  She is also trying to pay for flying time and her other bills.The armed forces finally start the WASP program, a female branch of the army to learn to fly "the army way".  This is indeed a tough program to finish.  It is 22 weeks of various lessons and classes both in the air and on the ground. There are many HPs or Hot Pilots trying to prove their abilities in this non traditional role.  They face discrimination from male pilots and death every day when flying.Liddy and the others pilots work together to reach graduation and move onto other WASP bases.  Some assignments are delivering planes to other cities and training male pilots, all while holding up an ideal of what a female Army pilot should be.  Some women wash out and do not finish the program, others chose to leave.Once some of the women graduate, they join the war effort without ever being active military personnel.  Once the WASP program is closed down, we see some of them move into other roles.  Some remain flying in different ways, but there are not alot of flying jobs for women left.  We see how their relationships change during and after WW2.I found this book to be interesting about the change in womens' roles and expectations.  I recommend this book, so women of today can learn a bit about past womens' history. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WW2 historical fiction </p>
+
+
+<h2> review.date </h2>
+  06-27-2012  
+<h2> review.text </h2>
+
+ <p> i was pleasantly surprised at how much i enjoyed this book. i learned some things about the early women fliers and would have liked to learn more. this is a nice story, not requiring a lot of thoight, just a nice story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> None </p>
+
+
+<h2> review.date </h2>
+  04-08-2012  
+<h2> review.text </h2>
+
+ <p> My Way Home became one of my favorite books ever, so I had to read Wings, and I was not disappointed.  Yes, it did start out slowly, but it's okay, because the author was obviously giving us background information on Liddy which we needed.  Cynthia Lee Cartier has a fascinating way of coming up with descriptive metaphors which I find unique and enjoyable, but more than that, her characters are so very real and yet they are likable at the same time, never phony.  I loved the friendships that were formed among these women.  I loved that they were all strong women.  I loved that they loved each other.  I loved that they were not perfect.  I loved the love stories of all of them.  Most of all, I loved the beautiful, touching ending that caused me to sob my heart out -- I can't remember the last time a book caused me to do that.  I wish someone would make a movie out of this, because it would be fantastic.  And I wish I could write as well as Ms. Cartier so that I could do a better job of conveying how much I loved it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I absolutely sobbed when this book ended! </p>
+
+
+<h2> review.date </h2>
+  03-25-2012  
+<h2> review.text </h2>
+
+ <p> While "Wings" is not the greatest book, it is far from horrible.  I found it interesting because my mother took up flying in the 1950's, saying that had she been a man she would have been an airport bum.  She almost could have been Lindy.  Since I was born during WWII, I found the historical references to be interesting.  It was not very well written, though.  It tended to ramble and to become very predictable.  The characters are somewhat stiff and sterotypical.  I found, however, that I enjoyed the book despite its faults. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting Content! </p>
+
+
+<h2> review.date </h2>
+  02-09-2013  
+<h2> review.text </h2>
+
+ <p> Predictable plot but still entertaining.  There were places where it dragged along a bit.  Some characters were better developed than others. All in all, okay. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent story </p>
+
+
+<h2> review.date </h2>
+  06-20-2012  
+<h2> review.text </h2>
+
+ <p> I really loved this book. I did not initially love the style, but then I found myself swept up in the characters and plot, and in the end, was sad it was over. It was a great story with endearing characters, and a sweet surprise ending. I have been researching WW2 and the role of women pilots was something I knew little about. I presume that aspect of the book is factual, and would highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> really touching story </p>
+
+
+<h2> review.date </h2>
+  03-11-2012  
+<h2> review.text </h2>
+
+ <p> I read and reviewed Cynthia's first novel, My Way Home, and absolutely loved it. So, I was really excited about her new novel, Wings.  I was not disappointed - I adore it!It's WWII and Liddy Hall is just trying to survive.  Her father's in a home and she's trying to pay the hefty expenses of his care while also trying to have some money leftover to pay her own bills.  She's spent most of her life with airplanes and has a desire to own a pair silver wings.When the Army begins seeking female pilots, Liddy knows that this could be her chance, even though she is scared to leave behind her small town, friends and family.  But she is only free and at peace when she is in the air.  She passes the exams and soon finds herself in training.  Along the way, she meets many women that she befriends.  She also meets Major Reid and really falls for him even though she can't understand why he brushes her off as soon as he learns she is a woman pilot.Liddy is not afraid to take risks.  In fact, she starts every flight with the words, "Today is a good day to die", which could be a curse to some, but comforting to her.  She learns her way as she goes and has a heart of gold, but she also has a backbone of steel.  I hated to see the end of Wings, I loved the characters and the premise so much.  Cartier writing engages the reader, investing them before they even know it.  I can't wait to see what she has in store for us next! It will be hard to top this one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It will be hard to top this one! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

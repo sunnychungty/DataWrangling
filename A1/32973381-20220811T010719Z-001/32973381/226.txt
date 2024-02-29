@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0008G273Y <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-21-2005  
+<h2> review.text </h2>
+
+ <p> I have seen X live many times, both in the early days and their more recent reunion shows. Trust me when I say this: they never disappoint as a live band! This DVD document of a show on their home turf of LA is a dream come true. Can't wait. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great document of a great band </p>
+
+
+<h2> review.date </h2>
+  08-06-2007  
+<h2> review.text </h2>
+
+ <p> I think I saw X about 20 - 25 times from 1985 - 1995. They were always great and this brings back a lot of memories for me. They are a tight band that always sound great. I wish this had all of thier songs from that concert that is on the CD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for anyone who has seen them, or missed seeing them! </p>
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> I have been a fan of X since about 1983 or so. I was lucky enough to see them in NYC around then. It was a great show ( Jason and the Scorchers opened for X that night). This concert vid shows that they can still bring it and deliver. Well shot and recorded. I was impressed by their performance. This show was done in 2004. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a real gem </p>
+
+
+<h2> review.date </h2>
+  12-14-2010  
+<h2> review.text </h2>
+
+ <p> This DVD just drips with awe inspiring work from Billy Zoom, DJ Bonebrake, Xene, and John Doe!!!!!  My problem is once I turn this on I am locked, rocked, and unable to look away until it's over!  Having seen X a number of times, this DVD does a fabulous job of capturing the past decade of X shows.  TG they are coming to my town in a week!!!!  Highlights... as if there are Lowlights, HA!  White Girl, Los Angeles, Johnny Hit and Run Pauline, Your Phone's off the hook....., and Soul Kitchen </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Why isn't there a 6th star for these Punk Legends? </p>
+
+
+<h2> review.date </h2>
+  04-06-2005  
+<h2> review.text </h2>
+
+ <p> I was so excited for this!  Finally, a live concert video from X!  I've seen them twice, both times with Tony G. on guitar (he was superb by the way).  But we all know you HAVE to have Billy Zoom in the band. I haven't been able to see them, but this DVD will do the trick.  This DVD is AMAZING!! One listen/viewing makes me instantly forget all the "power pop" "punk" bands that are around now.  Their sound is fantastic, full, fast, heavy, thrilling!  All the members sound excellent, period.  I'm hopeful that there will be a tour, come on X!  Us old fogeys would like to see you old fogeys play your beautiful music for us!! UPDATE:  I've been so lucky to catch X a couple of times with Billy on guitar since I wrote this, it was just incredible seeing them, this DVD does give an accurate view of what it is like to have X RIPPING it up in concert!  cheers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> YES!!  X LIVE!! </p>
+
+
+<h2> review.date </h2>
+  05-20-2007  
+<h2> review.text </h2>
+
+ <p> Being born in 1960 really ticked me off...Not old enough to really enjoy or not enjoy those carefree rock/roll, Dylanesque  years and awaiting my young adult years was the end of disco or the beginning of something in music called punk....Being a "Stranger in a Strange Land" landed me in the punk scene in the Bay Area..."Dead Kennedy's" "The Replacements" and others were just either playing local clubs or being thrown into jail. Jello Biafra got married in a cemetary..Anywho, I was just shedding my Beatlemania and visiting nightclubs like DV8, One Step Beyond,181, Club X, Das Club, The Edge/Vortex, Face to Face, and Gotham City...I had seen "X" on New Year's night 1990 and being I was 30 decided this was my last year for dancing and clubbing...All the new wave/punk places were being torn down or remodeled for the next generation....That night I was blown away! Everyone in X had aged but still retained that youthful spirit and I tell ya it revitalized me! I danced all night long just like the old days....This DVD strangely enough revitilizes me again and had me tapping my feet, bobbing my head or singing along to "We're Desperate", "White Girl", "Johnny Hit and Run Pauline"....It's definitely not a Beatles concert but the spirit and energy of the times will affect those of us growing up in those times and listening to that loud music....Geez, whatever happened to Dot Little? She's the one who asked me to be a punk with her! If you see her tell her I still love her! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Definitely NOT your father's Beatle-x.... </p>
+
+
+<h2> review.date </h2>
+  03-09-2014  
+<h2> review.text </h2>
+
+ <p> At The House Of Blues no less. The band are so thight it squeaks, the performance is wild and inspired. It's as if 30 years hadn't elapsed; Billy zoom guitar's rockabilly-oriented  punk-rock performance is spot-on. The music just as I remembered it from the vinyl records. These old geezers put on a scorcher of a concert at a relentless pace; not a gazillion takes per second but just as fast as to make it dynamic enough. Loved the editing. They made magic with just 5 cameras. The dvd comes in a translucent box with a generous booklet plenty of pics and info. There are some interview snippets in between some songs,they don't detract form the flow or the excitement of the show at all and are welcome and candidly portray a brief story of the band.Picture : Crystal-clear digital filming at an adequate 5.9 Mbps fixed pic ratio, in widescreen.Sound : it smokes; good bottom end that starts a little weak but is corrected by the second or third song and gets louder as the show progresses. VERY aggressive midrange; if you want  a loud guitar you will have to put up with Exene's OTT vocals; she seems to have trouble with her monitoring at times. Drums are OK with a lot of kickdrum but I could have used more bite from the snare. Good if a bit overshadowed and trebley basswork somewhat drowned by the guitar. Little upper treble from the cymbals but still good enough. Billy's guitar appear to be a tad louder on the left channel despite being panned across the stereo soundscape, maybe to reinforce the visuals ( he stands by the left of the stage).I found the extras merely anecdotical, consisting of two acoustic songs performed by Exene and Doe and a photo gallery of Billy's pics of the audience.ANY fan of X will go crazy over this release, even a casual one like me. Clich&eacute;d to say but a must have. It's X, it's brilliant, nuff said. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BLISTERING REUNION GIG !!! </p>
+
+
+<h2> review.date </h2>
+  11-08-2005  
+<h2> review.text </h2>
+
+ <p> I must admit I was hesitant to purchase this DVD. A classic punk band performing twenty plus years later, what could one expect? Apparently, one can expect a hell of a lot. These guys and gal can still tear their songs apart.It's well filmed; there isn't that MTV, rapid editing that can cause seizures. The audio is excellent; you can actually understand the lyrics. It's well mixed. It's far superior to a lot of live performance DVD's currently released by some bands. X released a product that is worthy of ones money.If you like X; you'll love this DVD. If you just appreciate a good rock/punk concert, you won't be disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Old punks still rule... </p>
+
+
+<h2> review.date </h2>
+  10-17-2007  
+<h2> review.text </h2>
+
+ <p> I've loved X since I first saw them here in San Francisco with, I believe, Devo and Romeo Void.  Romeo Void was a disaster due to the tiny outfit Deborah squeezed her huge body into; the audience couldn't stand to look at her even when the music was good. Devo was quite good. Then X came on stage and it was like hearing a great music system play compared to a tinny radio's sound. Man, they were great and they, unlike 99% of the other "new wave/punk" bands of the era were pros.  They had it down and played it up. I loved them! Watching this excellent reunion video (yes, Billy Zoom still has that same perpetual, inane smile on his face while playing), I was surprised to see very much the same show I saw all those years ago, with some extra songs that came out later, that is. The band's still electrifying. I'd like to see them "live" again, but until then, this video is the next best thing. It's well filmed and has a great selection of their best songs. Sure, they aren't as "pretty" as they used to be, but before you say too much, check your rearview mirror to see how you look now compared to 20 some odd years ago. Then, once humbled, go buy this CD. You will love it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Revival to match the early shows by a great band </p>
+
+
+<h2> review.date </h2>
+  12-03-2010  
+<h2> review.text </h2>
+
+ <p> X is one of the best punk bands ever. I don't even like calling them a punk band, but that's what they call themselves so I guess it's OK. This is musically complex punk with a lot of influences and a lot of tight playing and gripping tunes.This is an awesome concert. The only two problems are that 1) it is just 67 minutes long and 2) John Doe's bass is buried too deep in the mix.Every X fan should get this. More importantly, anyone who doesn't know about X should get this.Why X? Did you know, for example, that:- X has a different sound based on the unique harmonies between co-lead singers Exene Cervenka and John Doe that really sets them apart from anything else out there?- Doe, Cervenka and drummer DJ Bonebrake also play in the country punk band The Knitters?- Billy Zoom, the guitarist who originally formed the band, used to play rockabilly guitar for Gene Vincent and other big stars, and has been voted one of the greatest guitar players ever by Guitar Player magazine?- X were playing Leadbelly tunes way before Kurt Cobain?- Ray Manzarek, keyboard player of The Doors, produced X's first four albums? This is one of the big reasons why the band covered and generally closed its concerts with "Soul Kitchen" from the albumThe Doors- Cervenka and Doe used to be married, before Exene later married Viggo Mortensen -- Aragorn from the Lord of the Rings movies?- Billy Zoom left the band from the mid-1980s to the mid-1990s, but during this time the band still managed to recordX Live at the Whisky a Go-Go, one of the greatest live rock albums ever, with guitarist Tony Gilkyson?As this DVD proves, X is still as good as ever. Billy Zoom still plays standing in his trademark splayed-leg stance with a broad grin on his face. Did I say he is awesome? Awesome.I waited way too long before getting this one, thinking I could do without an X DVD. And I could have. But why should I? This really is worth it, and I'm sure I'll be putting this one in the player more often than a lot of my other music DVDs. Really, really good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> X have still got it </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

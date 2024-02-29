@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 0783240546 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-16-2008  
+<h2> review.text </h2>
+
+ <p> Chuck & Ferdie are working as waiters. Chuck has a comic skit. The Andrews Sisters entertain with a song. A Congressman shows up with a young woman. Their faults cause the boys to be fired and end up working at a gas station. "8 gallons for $1"? Moose stops for gas, the police give chase and shots are fired. Moose's will leaves his property to Chuck and Ferdie. They will look at this hotel in a dark and stormy night. Ferdie pumps water from a well into a wooden bucket. The soup tastes just like Mother used to make! There is a comic dance routine. They find a hidden room. Who is upstairs? There are comic skits, then they find a body. Ferdie finds strange things in his bedroom. There are comic actions to keep the story going. Can a candle move by itself?We find out why strange things were happening. The secret treasure will let them open a nightclub where they serve that water with its medicinal properties (a spa). The film ends with a song by the Andrews Sisters, and one last comic skit [that suggests conflict between Bud and Lou]. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Spooked in a Haunted Hotel </p>
+
+
+<h2> review.date </h2>
+  08-19-2005  
+<h2> review.text </h2>
+
+ <p> Chuck Murray and Ferdinand Jones (Abbott & Costello) are two bumbling service station attendants that are left as the sole beneficiaries in a gangster's will (William B. Davidson). They inherit an old abandoned speakeasy, his only possession.Many of the deceased gangster's cronies know there is money involved, and feel it is theirs. The problem is, the old gangster kept the money in his head (literally, in a moose's head in the main room of the speakeasy) and know one knows where it is.The boys end up stranded at the old speakeasy with some traveling strangers: (Doctor Jackson (Richard Carlson), Norma Lind (Evelyn Ankers), Charlie Smith (Marc Lawrence), and Camille Brewster (Joan Davis), a zany radio actress, whose only claim to fame is that she is the opening scream for Costello's favorite radio program, "TALES OF TERROR".),during a rain storm. They all try to make the best of things while Ferdinand ends up frightened of every little shadow. Later on, they have a run in with the cronies and battle over the hidden money.There are two great, hilarious highlights in this classic comedy: (1)Lou's dance with Joan Davis: Abbott discovers and old grammaphone and plays a disc (The Blue Danube). One marvels how Abbott and the other co-stars are able to keep straight faces as Costello and Joan Davis dance a HILIARIOUS ballet out in front them. The second highlight features the most ingenious gag ever captured on film (and NEVER duplicated): As our heroes try to find the fastest route to get back to the city, Lou is seated in a room with road maps. He gets scared and hollers for Bud (Ferdie:I called 42 "Oh, Chucks" and you didn't come in. Chuck:I came in as soon as you hollered "Oh Chuck!" Ferdie:From now on, don't wait for me to say "Oh, Chuck!" Get here on the "Oh!")As soon as Bud assures him that there's nothing to be scared about, Lou goes on to read one of the maps. Suddenly, one of the candles in front of him starts to move back and forth, causing Lou to call for Bud, who comes in and can't believe Lou's claim that the candle moved. Convinced that Lou is imagining things, he has Joan Davis sit with him and tells her to keep an eye on the candle, this puts her in a hypnotic-like trance-for no sooner does Bud leave the room, the second candle in front of Lou begins to hover up and down in mid-air, causing him again to go into his hilarious fits of frenzy.TRIVIA: The Andrews Sisters were brought in after filming wrapped and the final nightclub footage was edited in after the film's completion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ONE OF THE TEAM'S BEST </p>
+
+
+<h2> review.date </h2>
+  03-24-2005  
+<h2> review.text </h2>
+
+ <p> This very fun and funny offering from Bud and Lou ranks as one of their best. A great cast and good story, along with two very nice numbers from the Andrew Sisters make Bud and Lou's third entry from 1941 a pure delight. When Bud and Lou lose their good jobs as waiters in a fancy nightclub, they go back to pumping gas and end up in the car of gangster Moose Malloy when he bites the dust. His will leaves everything to the last people with him at his death. Since that happeens to be Bud and Lou, and a lot of bad guys want their hands on a fortune he has hidden, hilarity isn't far behind.Lovely Evelyn Ankers and the very funny Joan Davis join Bud and Lou as they head to the hotel tavern they have inherited. Richard Carlson is a bookish scientist joining them when their cab leaves them all stranded in a storm at the ramshackle tavern. There are gangsters running around secretly trying to find the stash and knocking off one another pretty fast; one of whom is constantly appearing as a ghost to Lou when no one else is around!There are some terrific gags and funny one-liners which make this one rank high for fans of Bud and Lou. Joan Davis is especially good as a "screamer" from the movies who may be as big a coward as Lou. Their crazy dance together to the Blue Danube is a riot! The pretty Ankers and Richard Carlson have the straight parts as she tries to get Carlson to take off his glasses long enough to see she likes him.Universal gave this one everything it had, including The Andrew Sisters, who get to sing "Sleepy Serenade" and the Brazilian "Aurora." This one is a lot of fun to watch, not a dull moment anywhere in sight. Fans of Bud and Lou have to have this one. It's the perfect Saturday morning movie to start your day off right. A true comedy classic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Fun Time With Bud and Lou </p>
+
+
+<h2> review.date </h2>
+  06-08-2000  
+<h2> review.text </h2>
+
+ <p> The movie begins with Abbott &amp; Costello working odd jobs until a chance encounter with a gangster turns them into hotel owners. Only thing is, the gangsters old associates don't want Abbott and Costello to have the  place... and for a good reason. So they are going to try every method  imaginable to try and stop the two from discovering the hotel's mysterious  secret. Abbott &amp; Costello head out to the place by means of something  like a taxi service which is also carrying other passengers as well. Once  everyone gets out to check out the place, the driver speeds off leaving  everyone stranded at the hotel. Now they will have to spend the night in  the spooky looking hotel. And spooky it is indeed. Abbott &amp; Costello as  well as their new found friends are in for a night of haunts, dead bodies,  and shocking surprises. What reason would gangsters want  an old run down  hotel? What will happen to Abbott &amp; Costello or their guests? Will  anyone figure out the hotel's secret and live to tell about it? The best  way to find out ,is by ordering this hilarious, yet suspenseful motion  picture. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> spooky fun for the whole family </p>
+
+
+<h2> review.date </h2>
+  02-14-2001  
+<h2> review.text </h2>
+
+ <p> This is Bud and Lou at their absolute funniest.  Being a big fan of ghost stories and horror movies I loved all the Old Dark House spins they put into this.  Highlights are the goofy after dinner ballet dance and those moving candles.  Required viewing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hold that Ghost is a scream </p>
+
+
+<h2> review.date </h2>
+  07-19-2011  
+<h2> review.text </h2>
+
+ <p> Bud & Lou are the best when it comes to comedy & if you sit down & relax & watch Hold That Ghost you will just have to laugh. This one of Bud & Lou is good from start to finish even I had to laugh.  It will keep the whole family laughing at this very good put together story.  Of course Bud & Lou's acting as usual is outstanding as no one can make the story come to life as they can. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bud Abbott & Lou Costello in "Hold That Ghost" </p>
+
+
+<h2> review.date </h2>
+  06-25-2003  
+<h2> review.text </h2>
+
+ <p> Abbott and Costello were among the most popular comic teams in Hollywood history, and 1941's HOLD THAT GHOST is generally considered one of their better early films. Like most Abbott and Costello movies, the film exists exclusively as a set up for the pair's comic routines. By an absurd twist of fate, two gas station attendants fall heir to an isolated and decaying inn previously owned by a gangster--and, as in the usual manner of such films, find themselves stranded at the inn with a sinister guide, a silly scientist, a blonde beauty, a dizzy dame, and a host of half-seen &quot;ghostly&quot; characters who are out to find the dead gangster's loot. Walls slide open, bodies fall from behind curtains, beds unexpectedly turn into craps tables, and candles float in midair. It's all as broad as Abbott and Costello's comic style.Abbott and Costello are, well, Abbott and Costello: bigger than life, over the top, and never eschewing the obvious if they think it will get a giggle. If you're in the market for sophisticated wit, you're in the wrong store--but at their best and armed with top rate material they could be extremely entertaining. Unfortunately, the script is weak, and you won't find anything here to compare to such classic turns as &quot;Who's On First;&quot; even so, the duo gives it everything they've got, and they manage to lift this excursion from the purely silly to the mildly amusing.The supporting cast is quite solid here. Evelyn Ankers, best known as the ingenue in the horror classic THE WOLFMAN, is the blonde beauty of note; although the script offers her little, she's an attractive performer. While the motion picture industry gave her little more than occasional character roles, Joan Davis would go on considerable 1950s television fame with the series &quot;I Married Joan,&quot; and her broad comic style is a perfect match for the Abbott and Costello brand of comedy--and when she pairs with Lou Costello to dance &quot;The Blue Danube&quot; the result is pure magic. There is also a brief cameo by &quot;Stooge&quot; Shemp Howard. HOLD THAT GHOST also offers a few musical moments, and film fans will find them particularly interesting, for they give a glimpse of the now-forgotten Ted Lewis performing his classic &quot;Me and My Shadow&quot; routine and early footage of The Andrews Sisters, who perform the seldom heard &quot;Sleepy Serenade&quot; and &quot;Aurora.&quot; It's all in good fun, but while mildly amusing this really isn't one of Abbott and Costello's more memorable films. Recommended, but to hardcore fans only.--GFT (Amazon Reviewer)-- </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Entertaining, But Thwarted By Weak Story and Script </p>
+
+
+<h2> review.date </h2>
+  03-11-2000  
+<h2> review.text </h2>
+
+ <p> Hold That Ghost is probably my favourite of the Abbott and Costello films.  I remember seeing it as a child and enjoying it for the &quot;trick&quot; rooms in the mysterious house and for the great moving candle scene.  Upon  viewing it as an adult, the scene that had me in tears laughing so much was  the hilarious dance number between Lou Costello and Joan Davis, an  excellent comedienne who adds so much to the film.  That scene alone makes  the movie worth viewing.  But you also get scream queen Evelyn Ankers and  even the Andrews Sisters.  Not all of the A&amp;C films were winners, but  this one definitely is. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Quite Astaire and Rogers </p>
+
+
+<h2> review.date </h2>
+  11-19-2001  
+<h2> review.text </h2>
+
+ <p> This is by no doubt the funniest of all Abbott &amp; Costello movies ever made.  I also liked this movie because of Richard Carlson's performance.  I remember him from CREATURE OF THE BLACK LAGOON and he's really good in horror and comedy movies.  My review's not going to what happens in the movie, like a summary, but I'm going to give you my impression of this movie.First of all, when Costello slides down a railing, I laughed the hardest I ever did in my life.  I just kept talking about that.  And also, Costello's performance in the whole movie is funny.  What Costello does with a gun is funny, his waiter job part is funny, and when he falls from the bed when the room transforms is so funny.  Well, I don't want to say any more except that I think that all fans MUST see this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The funniest Abbott and Costello movie ever </p>
+
+
+<h2> review.date </h2>
+  06-15-2006  
+<h2> review.text </h2>
+
+ <p> i'm not really a big follower of abbott and costello, but this particular film stands out from a lot of their others.the plot is better than usual(i love "haunted house" plots), the gags are brilliant and there are many great highlights. the scene with the moving candle, costello being scared witless, the nightclub sequence at the beginning are  just a few of the magical moments to be had in this film.what a shame that standards started slipping so quickly: subsequent abbott and costello films were disappointing most of the time.but don't miss this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> abbott and costello at their best. </p>
+
+
+<h2> review.date </h2>
+  07-29-2013  
+<h2> review.text </h2>
+
+ <p> This is a VCR tape and unfortunately my VCR died but I have viewed this movie on a DVD so I have seen it just not on the Tape. Hilarious till the very end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hold That Ghost </p>
+
+
+<h2> review.date </h2>
+  02-18-2014  
+<h2> review.text </h2>
+
+ <p> I can't believe I'm quoting Ted Lewis in my review title, seeing as how Ted & his so called "singing" might be the only pox on an otherwise outstanding Bud & Lou feature. It's really hard for me to decide on my favorite A & C picture between "Hold That Ghost" and the later, legendary "Meet Frankenstein" movie.I wonder if it's mere coincidence that my 2 favorite Bud and Lou features are both "Scare Comedies", meaning Lou Costello was given ample room to display his great scare reactions, such as the classic "moving candle" routine or the great "changing rooms" scene. Of course, in both instances Bud never sees just what exactly is scaring the wits out of Lou, making it all the more funnier.Other favorite moments include the opening of how the boys are introduced, as Mischa Auer's character overhears what he thinks might be a stickup only to find his 2 new relief waiters playing craps. And the end of the film where Mischa is now working for Bud & Lou but still intimidating Costello.And I would be remiss not to mention the fantastic teamwork & chemistry of Costello and Joan Davis. Watching those 2 together in this film, it only baffles me that Joan wasn't brought back for more A & C pictures.If you like Abbott and Costello, then you will definitely enjoy "Ghost" and it's not bogged down with too many of the singing and dancing numbers which would weigh down some of their earlier features.5 stars </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Is everybody happy? </p>
+
+
+<h2> review.date </h2>
+  12-06-1999  
+<h2> review.text </h2>
+
+ <p> This movie really funny. When two men inherit a haunted house from a bank robber, who knows what might happen, well I do but you will only when you what this video! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Head on Comedy! </p>
+
+
+<h2> review.date </h2>
+  12-01-1999  
+<h2> review.text </h2>
+
+ <p> Abbott and Costello at the height of hilarity.  With Joan Davis on hand to buoy the merriment, the Andrews Sisters providing a touch of camp, and a better-than-average number of well-wrought thrills, this film remains one of the best examples of that rarely successful subgenre, the horror farce....A creepy, haunted house setting, the playground of a good many comics since the advent of the movies, provided the perfect setting for Abbott and Costello's second 1941 feature - HOLD THAT GHOST, which is, in my opinion, the team's greatest movie. The lines are clever and witty and the supporting cast is very good. The pair got plenty of competition in the laughs department from Joan Davis.  Active in show biz since infancy, the klutzy comedienne's broad antics provider her with a welcome respite from the moonlight and roses schmaltz of playing second banana, for instance, to Sonja Henie in her films.  Complimenting each other's uninhibited zaniness, Davis and Costello share some great moments.  The couple perform a fractured rendition of the BLUE DANUBE WALTZ; Davis also contributes immensely to the amusement of the famed moving candle sequence.  Evelyn Ankers is good to look at (in her first exposure to the genre in which she would be forever associated); her she's go a crush on the  blandly versatile Richard Carlson -  amusingly portraying a 1941 health nut. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT FUN </p>
+
+
+<h2> review.date </h2>
+  12-08-1999  
+<h2> review.text </h2>
+
+ <p> The duo inherit a house after a gangster is murdered; once inside the abandoned roadside wreck, all sorts of creepy (and hilarious) things begin to happen. The rubber-legged Joan Davis (as a professional radio screamer!)  does a slapstick ballet with Lou that's very funny. Sight gags run rampant  and the jokes are many (Bud:&quot;Ah,that ghost is just a  rumor&quot;....Lou:&quot;I don't care if he's the landlord!&quot; The  Andrews Sisters are in good form singing &quot;Sleepy Serenade&quot; and  &quot;Aurora&quot;. This low comedy at it's belly laughing best! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> COMEDY TEAM'S BEST FILM </p>
+
+
+<h2> review.date </h2>
+  02-09-2013  
+<h2> review.text </h2>
+
+ <p> Bud and Lou at their very best. If you are a fan of these two great comedians then you will want to buy this video.  It's terrific. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> They never grow old! </p>
+
+
+<h2> review.date </h2>
+  06-15-2000  
+<h2> review.text </h2>
+
+ <p> I love the Abbott and Costello movies but this is my personal favorite of thier movies. If you like haunted house comedies then this is the one for you. Actually the best part is that Joan Davis and Lou Costello are perfect  together in this movie. Its timeless and great fun for the whole family.  The rooms change,candles move,screams, and goofy dancing. Get it!  You  won't be sorry. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lou and Joan soar in this one! </p>
+
+
+<h2> review.date </h2>
+  09-05-2012  
+<h2> review.text </h2>
+
+ <p> I love this film. I do. For me, a long time Abbott and Costello fan, this is one of their funniest movie ever filmed. I grew up watching their films on sunday mornings after church. I've seen all their films, but this one for me, is one of the best. I don't want to give away my age, but let's just say that no longer a child, and not yet a senior, this film still makes me laugh out loud. All of them are funny; some of them are funnier than others. Some are just outright funnier; this is one of the latter. When I feel down and/or just need a laugh, this is one of the A&C; films I watch. A&C; Meet Frankenstein, Meet the Mummy, Meet the Killer, Who Done It, Go to New Orleans, and Buck Privates are all my favorites to watch over and over.See what happens when Abbott and Costello inherit a Haunted House rom a gangster. This film is full of their routines and slapstick. You'll cheer for them. You'll tell them to run. You'll tell them to hide. You'll laugh with them and at them. This is an easy movie to like and will entertain, as well as provide an escape, if only for a little while. If you're an Abbott and Costello fan, or just a fan of comedy, this is a must-have for your video shelf. This one is funny. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of their best up there with Meet Frankenstein! A++ </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

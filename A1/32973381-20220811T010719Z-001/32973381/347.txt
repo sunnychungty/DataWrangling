@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1596591196 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-22-2009  
+<h2> review.text </h2>
+
+ <p> I found Bowden's book one day, while book-grazing in Boca Raton's B&N.; As I passed the section on the "Occult" which always happens to be in the general vicinity of "Psychology," my eyes caught the reflection of sunlight, off a gold embossed cover.I picked it off the shelf, and leaning against the wall, parted the leaves only to make the acquaintance of Mihaly Csikszentmihalyi's "Flow Theory" and Gavin de Becker's "Gift of Fear."Such topics beforehand, did not even remotely interest me, but I must say I thoroughly enjoyed reading through the short 3 page synopses, on several famous psychologists  including Edward de Bono and Alfred Adler.What I most enjoy about this book, was the gamut of psychological subdisciplines that Bowden touches upon with depth, which at the expense of its broader counterpart, does not over-inundate the material with trivialities and precarious imbalance.Butler draws on some of the most interesting works of the last two centuries, and crystallizes the essentials in a format framed for digestion and assimilation.He is an extremely talented writer, and "50 Psychology Classics" is a book of similar proportions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not your average compendium </p>
+
+
+<h2> review.date </h2>
+  06-10-2013  
+<h2> review.text </h2>
+
+ <p> In this wonderful collection of 50 psychology classics, the author provides the reader with the genesis and background information on each psychology classic. For the inquiring mind, the new student, or the psychology veteran, this is a great gift to have! In my book: "Trauma and Transformation: A 12-Step Guide", I fully explore the spiritual side-effects of trauma, and how the 12 Steps of Alcoholics Anonymous is a powerful systematic approach for the trauma survivor seeking a spiritual solution.-Rivka Edery, L.M.S.WWebsite:  [...]Author of:  "Trauma and Transformation: A 12-Step Guide".Available from:TRAUMA AND TRANSFORMATION 12 Step Guide </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 50 sparks of genius! </p>
+
+
+<h2> review.date </h2>
+  04-28-2012  
+<h2> review.text </h2>
+
+ <p> well ... what to say ... been listening to all ten of the cds ...not that interesting to me ... his self help and his success series are his best two ...nothing like hindsight ...I've already an extensive background reading of much of this material ...now that I've listened to all ten ..would not have gotten this series now that I've listened to them ...oh well ... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not that interesting compared to his success and self-help series </p>
+
+
+<h2> review.date </h2>
+  07-17-2010  
+<h2> review.text </h2>
+
+ <p> As a psychology student, I was already aware of many of these authors and their work. However, 50 Psychology Classics gave nice, brief overviews that were interesting  and informative, so I was never bored. I also got some new ideas for additions to my reading list! This book is written in easy-to-understand language, and I would recommend it to anyone with an interest in why human beings are the way we are. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable </p>
+
+
+<h2> review.date </h2>
+  12-19-2011  
+<h2> review.text </h2>
+
+ <p> If you are interested in psychology and want to get a grasp for the whole field without putting in the time to read every book under the sun in it, then this is your book. The average person's cliff notes for everything great and significant in psychology. I definitely recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Intro to Psychology </p>
+
+
+<h2> review.date </h2>
+  09-18-2009  
+<h2> review.text </h2>
+
+ <p> As a psychology instructor, I found 50 Psychology Classics by Tom Butler-Bowdon to be a well-written, informative treasure trove of information about the theories, concepts, and lives of some of psychology's greatest. In fact, for weeks I've been sharing so many tidbits of information (like Erik Erikson changing his name after he became a United States citizen) with my students that many are probably getting tired of hearing about this awesome book. As expected, the BIG names such as Freud, Skinner, Watson, Erikson, and Maslow are included, and so were some lesser known people whose work I admire. Howard Gardner and his theory of multiple intelligences, Gail Sheehy and her passages of adult life, and Daniel Coleman and his concept of emotional intelligence are but a few of the psychologists included.My personal favorites include Fritz Perls, noted Gestalt psychologist of yesteryear, and Daniel Seligman, cognitive psychologist. I had forgotten about Perls and his original way of thinking and of dealing with patients. His admonition to "lose your mind and come to your senses" is a concept that I've thought about many times since reading this passage. Perls felt that people think too much, and that with their tendency to overanalyze and fret about things, they fail to truly experience life and its richness. The summary of how Seligman gained insight into his grouchiness at age 50 was quite interesting, and I was fascinated by how he turned this insight into research about the cognitive elements of happiness.Well-organized and easy to read, each of the 50 classics begins with a few famous quotes from the psychologist before proceeding to "in a nutshell," an overview of the psychologist's work, and a brief biographical sketch. It's reassuring to see this reference book on my shelf, and I'm thinking of buying some for gifts. Yes, it's that good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Come to Your Senses </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> The author gives a quick overview of some important psychologists.  Nothing earth shattering here, but you may learn a few things and the book was enjoyable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Light reading and enjoyable </p>
+
+
+<h2> review.date </h2>
+  01-30-2014  
+<h2> review.text </h2>
+
+ <p> The central and supporting ideas for the book are lackluster in most of the cases, and only some chapters aroused my curiosity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not really what I expeceted </p>
+
+
+<h2> review.date </h2>
+  08-17-2007  
+<h2> review.text </h2>
+
+ <p> This book offers an engaging overview of 50, for the most part, widely popular psychology books as well as short biographies of their authors.  Knowing the backgrounds of these psychologists helps to understand where they are coming from and what motivated them to explore a particular area of human mind, or behavior and arrive at particular conclusions.Some of the authors covered are William James, Sigmund Freud, Karl Gustav Jung, Abraham Maslow, Dr. Milton Erickson (as a hypnotherapist, I was thrilled that he was mentioned here), Robert Cialdini, David Burns, and many others who have contributed not only to the greater understanding of human mind and behavior, but also to creating methods and techniques some appropriate for use within therapeutic environment and others designed to help people to use on their own to cope better with life's challenges, to feel better and to live more satisfying lives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Psychology overview for non-psychologists </p>
+
+
+<h2> review.date </h2>
+  12-11-2012  
+<h2> review.text </h2>
+
+ <p> NOTE: This review is not a list of which books by which authors are included - my intent is to use MY impression to help you understand how he approaches what he DOES include and why you might want to buy a copy yourself.-----------------------I have purchased TBB's "Classics" every time they have come up on Amazon at a great price, and I have *never* been disappointed. I think I have them all now - unless there is something new I need to buy (and WILL!)I have always been a *voracious* reader, so his summary reviews of books I haven't read guide future purchases BECAUSE his summaries of the important points of those I have already read are excellent and spot-on, IMHO!  He is also a clear and interesting writer himself.Each summary (of approx. five pages of decent-sized print that even my Boomer eyes find readable) begins with the book's date of publication and its title, followed by two quotes from the book itself, moving right along to his "In a Nutshell" one to two line impression of the underlying theme put forward in the book "on review."Underneath (and on the same page) is his "In a similar vein" - listing other books among the 50 that examine themes right at home with the ones in the book he is about to summarize - WITH the page # where you can find them.  Nice not having to flip to the back index, the Table of Contents, or leaf through the book - and an example of the way his mind approaches giving readers what they will be interested in knowing.He makes good use of bold, larger type TOPIC HEADINGS within each summary, making it easier to locate what you need again and priming your brain for the information in the next few paragraphs (a convention that also makes for easier reading for those who struggle staying tracked).This convention underscores his suitability to the project -- that he knows about the "rock to rock" way in which readers who struggle read best, as well as his seemingly innate understanding that many would-be purchasers may well be among that particular segment of the population.In his "Final comments" that follow each summary, he may also add a bit about why he feels the book deserves inclusion and readership (for those whose ideas have detractors), and a comment or two that puts the book in context with the rest of the field.At the very end of each summary he leaves you with a brief bio of the author, other books published, and usually a factoid or two to give you a lens through which to view this particular book and/or the author's work in general.In approximately 5 pages, he condenses the major points of the book, including his "Final comments."  Impressive!Make SURE you don't skip the volume's Introduction, where he explains how the summarized books "clump" by category, and why he included the ones he choose (ex., "[TBB's book] is less about fixes to problems than supplying general insights into why people think or act as they do."  along with underscoring his point that NO book of this type can claim to be definitive or comprehensive.)The intro concludes with the following ". . . psychology is the only science exclusively devoted to the study of human nature, and its popular literature - surveyed in this collection - aims to convey this vital wisdom."For MY money, his aim is pretty darned true!BTW - Even if your personal library is as extensive as mine, you might want this book anyway, as a sort of "collection index" -- to remind you which book has the ideas you want to get back to or recommend to another, for example.  If you are a student of psychology, I'm surprised you don't ALREADY own it.Madelyn Griffith-Haynie, CMC, SCAC, MCC- ADD Coaching Field co-founder -(blogs: ADDandSoMuchMore and ADDerWorld - dot com!)"It takes a village to educate a world!" </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVE these "Cliff Notes" for Life-long Learners </p>
+
+
+<h2> review.date </h2>
+  03-16-2010  
+<h2> review.text </h2>
+
+ <p> I have mixed feelings about this book. It's fun to be reminded, for example, of the "games people play" (Eric Berne) and, finally, I've learned how to pronounce the last name of flow theorist Mihaly Csikszentmihalyi ("Chick-sent-me-hi"). But I don't consider Malcolm Gladwell, however smart and entertaining and interesting he is, to be on a par with Carl Jung and Karen Horney. I only recommend this book if you're looking for a Reader's Digest approach to psychology. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A bit of a stretch </p>
+
+
+<h2> review.date </h2>
+  01-16-2014  
+<h2> review.text </h2>
+
+ <p> I plan to listen to this audio book again. I kept going back again and again to listen to a certain section over again. It was so fun!There are definitely sections that resonated more with me than others and sometimes, yes, its true, they reference folks who aren't psychologists at all (but perhaps have contributed to the field in a meaningful way).This is a great introduction to a lay person interested in psychology, especially if you dont know where to start.  You will after listening to/reading this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A wonderful primer! </p>
+
+
+<h2> review.date </h2>
+  01-12-2013  
+<h2> review.text </h2>
+
+ <p> THIS IS A BOOK THAT LETS YOU KNOW HOW PEOPLE THINK AND ACT AND WHY.I LIKE TO KNOW HOW THINGS ARE PUT TOGETHER AND IF THEY ARE TAKEN A PART HOW CAN YOU HELP THEM PUT IT BACK TOGETHER AGAIN.I JUST LIKE TO KNOW BECAUSE THE MORE I KNOW AND UNDERSTAND IT HELPS ME TO BE A BETTER PERSON AND TO MAKE CHANGES IN ME TO MAKE ME BETTER FOR MYSELF.THEN YOU CAM LOOK AT OTHERS IN A DIFFERENCE WAY.FIX ME AND LIFE WILL BE BETTER FOR ALL AROUND ME. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 50 psycholoogy classics </p>
+
+
+<h2> review.date </h2>
+  07-08-2014  
+<h2> review.text </h2>
+
+ <p> concise and topographical accounts of various people who helped influence the study discipline of psychology. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Psychology concise </p>
+
+
+<h2> review.date </h2>
+  02-10-2007  
+<h2> review.text </h2>
+
+ <p> Tom Butler-Bowdon again provides an informative, passionate, and engaging guide through literature that will improve our lives as well as those around us.  His choice of books and their descriptions are brilliant.  I wonder what he will come out with next?  I always look forward to his books and his enthusiastic and superb style of writing.  Tom thanks again for providing us with the knowledge we need in our journey of life.Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tom has done it again! </p>
+
+
+<h2> review.date </h2>
+  10-17-2007  
+<h2> review.text </h2>
+
+ <p> Previously, I read and reviewed Tom Butler-Bowdon's 50 Self-Help Classics and 50 Success Classics and was not surprised to find that his most recently published volume in the "50 Classics" series is their equal in terms of the quality and value of the material provided. Butler-Bowdon employs essentially the same format for the three volumes: brief background on each source, major insights, final comments, and mini-bio of author. The "great thinkers" he discusses in 50 Psychology Classics are also organized in alphabetical order, although I would have preferred (one man's opinion) that they had been organized within discrete thematic clusters, and not in alphabetical order but in terms of sequence of influence.  Sigmund Freud followed by Carl Jung and Alfred Adler and then Anna Freud followed by B.F. Skinner, for example. Frankly, as I checked out the table of contents, I was initially surprised to see Edward de Bono, Howard Gardner, Malcolm Gladwell, Daniel Goleman, Steven Pinker, Gail Sheehy, and William Styron among the "iconic figures" listed so I read their segments first and, sure enough, Butler-Bowdon explains the inclusion of each.In the Introduction, he provides an overview on the development of modern psychology as a field of study, once "early titans" (e.g. Williams James, Sigmund Freud, Jung, and Adler) had written books that the general public could understand. Within the Introduction, he also suggests seven themes that offer different perspectives on "who we are, how we think, and what we do" and assigns to each a cluster of relevant commentaries.  Readers can then decide which themes are of greatest interest to them, and, on which selections to focus. For example, five sources are suggested for "Tapping the unconscious mind: Wisdom of a different kind." They are:The Gift of Fear (Gavin de Becker)My Voice Will Go With You (Milton Erickson by Sidney Rosen)The Interpretation of Dreams (Sigmund Freud)Blink (Malcolm Gladwell)The Archetypes and the Collective Unconscious (Carl Jung)I read some books cover-to-cover sequentially; with others, I hop around back and forth in random fashion; with still others, I read strategically after checking out the table of contents, as I did with this one. My guess (only a guess) is the latter approach will work best for most readers and many may decide what to read and in what order after reviewing the seven thematic clusters in the Introduction. For those who feel overwhelmed by the number of books in print and need help selecting what will be of greatest interest to them, the volumes in the "50 Classics" series will be especially valuable.I view Butler-Bowdon is an erudite "travel agent" for readers, but also as an enthusiastic "tour guide" who then accompanies them from one "landmark" to the next. One of this book's several value-added benefits is that Butler-Bowdon discusses several authors and works of which many (if not most) of his readers may have been previously unaware. He also does a skillful job of comparing and contrasting perspectives on a specific subject as in this volume, for example, when noting that a "central idea in Adlerian psychology is that individuals are always striving toward a goal. Whereas Freud saw us as driven by what was in our past, Adler had a teleological view - they we are driven by our goals, whether they are conscious or not."Those who share my regard for this book are urged to check out the other volumes in the "50 Classics" series. To those in business, I also highly recommend several volumes in the Capstone reference series written by Des Dearlove, notably The Ultimate Book of Business Thinking. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An excellent guide to sources that can help us to "make a real difference" in our lives </p>
+
+
+<h2> review.date </h2>
+  03-03-2008  
+<h2> review.text </h2>
+
+ <p> This is now the fourth CLassics book I've read and I have yet to be disappointed. I can't wait to pick up the continuation 50 More Psychology Classics.The Power of Inner Guidance: Seven Steps to Tune In and Turn On </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bulter-Bowdon Has delivered the quintessential text for psych majors or anyone wanting an overview of Psychology </p>
+
+
+<h2> review.date </h2>
+  02-04-2007  
+<h2> review.text </h2>
+
+ <p> Following on from Tom Butler-Bowdon's previous volumes in the "50 Classics" series, this first class collection of summaries of key psychology books and authors continues in the same broad, accessible, but also in-depth, style.As the sub-title says, psychology is all about who we are, how we think, what we do. In other words, what it means to be human. Topics covered include the unconscious mind, happiness and mental health, the study of personality, motivation, love, creativity and relationships.With key "in a nutshell" comments, the author cuts to the essential message of each writer, while addressing more complex subtleties in the accompanying text. As with Tom's other books, there is a very wide range of carefully chosen authors. I had come across several here in an academic context, but in general the emphasis is on popular psychology, "Psychology for nonpsychologists" as the jacket puts it. The range includes RD Laing, Oliver Sacks, Fritz Perls, Ivan Pavlov, Eric Berne, to pick a few random names. The founding fathers such as William James and Sigmund Freud are covered, alongside over a century's worth of contributions right up to Malcolm Gladwell with his 2005 bestseller on the importance of first impressions and split-second judgment.There is a huge amount of psychological and self-development literature available these days. It can be difficult to know where to begin but each volume in the "50 Classics" is an excellent starting point. "50 Psychology Classics" is another winner in the series and I wholeheartedly recommend it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent comprehensive overview of psychology </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004N625A0 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> This router is one of the better ones I've had. It has excellent QoS, doesn't overheat with lots of video being WPA encrypted, and the admin GUI is very easy to use. Some cool features: it has a &#34;cafe style&#34; guest network option, with a login page like starbucks wifi -- something I've not seen before, and domain-based HTTP content filtering from Norton. Of course it has all the usual stuff. Highly recommend this router. Bought it at wally world. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great router </p>
+
+
+<h2> review.date </h2>
+  06-23-2011  
+<h2> review.text </h2>
+
+ <p> Belkin's N450 wireless router is very attractive. Considering this is something that will be visible sitting on the floor or on a table, I appreciate the product's design. And, unlike my replaced router, this one looks like it will be easy to clean and not have too many lights blinking constantly. When the room lights are off, my office already looks like I could launch a satellite or mount a nuclear offensive.The installation wasn't that hard, I was up and running in about 15 minutes. There is a CD that you need to insert and follow the 3 steps to get things going. It's not technically a "plug and play" device, however. I don't have a lot of tech knowledge, so I can't tell you if the router is THAT much faster than the one I replaced but this model does have the fastest speed in their product line. It does seem to occasionally "clog", but that seems to be the case with my older one as well. I'm running a laptop in an adjacent room and the signal comes in over co-axial cable to my main computer, which is a not-too-new Mac. And even the main computer occasionally hiccups on downloads and streaming video, so the cable could be the problem, especially considering I am running the TV and phone signals through the same line.All in all, not a bad device and if you are looking for a less-expensive alternative to higher-priced routers, this one may be what you need. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Attractive, but Varied Performance </p>
+
+
+<h2> review.date </h2>
+  09-15-2013  
+<h2> review.text </h2>
+
+ <p> I brought the computer into the same room with the router and still only had one reception bar.  I never did get it to connect to the internet. I returned it and got a different brand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This router did not work </p>
+
+
+<h2> review.date </h2>
+  12-08-2013  
+<h2> review.text </h2>
+
+ <p> Works great, price is right. Belkin is a good company with good products.  This is the 2nd Belkin router I've purchased and I'd buy another.  Setup could've been faster, but that wasn't Belkins fault.  Belkin's customer support stayed with me for over 45 minutes and helped me resolve the problem, which turned out that I had to pull the battery on my cable modem to get the cable modem to restart.  Simply pulling out the power cord and putting it back on the cable modem made it fail over to the battery backup temporarily, but not restart. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great, price it right </p>
+
+
+<h2> review.date </h2>
+  01-20-2014  
+<h2> review.text </h2>
+
+ <p> This router works well for less money. Thanks for the avaluable deal. I have few issues with my router booting up. This router goes on  very quickly 99% of the time and has been reset only once. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This Router is a Great Deal Less Money For Better Wifi. </p>
+
+
+<h2> review.date </h2>
+  07-13-2011  
+<h2> review.text </h2>
+
+ <p> I've used Linksys consumer routers for many years, recently their prosumer/small business security routers/VPN.  This Belkin is my fist true foray away from Linksys and Cisco products... and I am pleased.  The 450N is the midrange wireless router in the Belkin lineup  - The highest performance before jumping into their dual band and media centric (printer/storage) solutions.  This router replaced a Linksys WRT320N in the wireless solution in my test setup.The menu navigation was solid, and I really enjoyed the interface in comparison to Linksys/cisco.  Selecting the group header provided a quick help for the function of each menu and the guest isolation for visiting bandwidth seekers (inlaws) was perfect.  I really appreciate the ability to turn on and off a guest function that doesn't make me reconfigure my guests for my network or share my high security key with anyone outside of my household.The wireless speed is great, often close to 3 times the connection speed with my Linksys wireless N that it replaced.  My main laptop NIC is a Intel 5300 AGN, perfect.The self-healing feature that resets itself is a welcome feature that will not let gremlins impact you.  As a seasoned network and server platform engineer, I certainly understand the preventative value of clearing memory and cache and keeping things fresh.On the negative side, I do like to have the option of a horizontal placement, so the ability to remove the stand at a minimum would be helpful. From a feature perspective, more than dyndns.org as a ddns provider gives the end-user some options and keeps providers competitive.  I'd also like to see local network DHCP static reservation options.And the check for update button is a great option that I've never seen in a Linksys product.  My only complaint on it is that it only looks for updates from its Internet (WAN) port connection.  After testing this as a gateway device, I've continued to use it as an access point behind a business level firewall...  it will not find updates through its other network ports, even if it has a valid static IP and DNS assignment.I'd recommend this wireless router - I continue to use it daily.  This review is typed through the 450N+ router on my laptop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Nice Wireless N Router </p>
+
+
+<h2> review.date </h2>
+  04-13-2014  
+<h2> review.text </h2>
+
+ <p> I bought this router to replace my existing Netgear WNR1000 and so far I'm impressed by how fast the connectivity rate is back and forth.. With my previous router it would jitter often prompting me to restart the router or do a factory restore to get everything back in sync. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid Connection </p>
+
+
+<h2> review.date </h2>
+  11-05-2013  
+<h2> review.text </h2>
+
+ <p> This router worked ok for a short period of time.  The wireless goes up and down.  The range is much shorter than my older Netgear routert.  Belkin customer support was very disappointing and didn't help me with my problems at all.  I followed all of their instructions and the router still does not work properly.  I just don't want to waste 2 more hours with their technical support team.  It is not worth the effort.  The router has even completely reset itself to factory settings on its own.  In addition, even the devices connected via ethernet do not work well.Incredibly dissatisfied and cannot return it now.  I would not recommend it to anyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Miserable Experience </p>
+
+
+<h2> review.date </h2>
+  06-21-2011  
+<h2> review.text </h2>
+
+ <p> First let me describe my current setup. In my home I currently use two routers...a D-Link WBR-2310 in the living room and a Kyocera KR2 in the bedroom. The D-Link is attached to the DSL modem while the KR2 is attached to the D-Link via ethernet. I have it setup this way to allow two separate networks and hotspots that uses one DSL connection. Both have the transmit power dialed down because I prefer to keep the radio range short to prevent the signals from extending over to my neighbors. This Belkin will be replacing the old discontinued non-N capable D-Link so I will compare it to that model as well as my Kyocera KR2.Now to the review. First thing I noticed when unpacking the Belkin was the fact the router does not have a row of information/status/activity LEDs, it only has one LED that changes from orange to blue. Blue means there is internet, orange means there is not. Second I noticed there were no external antennas, they're internal and there are 3 of them. Third this router can only be stood vertical, no horizontal mounting.Compared to my two routers, both the D-Link and KR2 have a row of LEDs which I find very useful. The absence of activity LEDs on the Belkin is a disadvantage in my opinion because I usually give the LEDs a quick glance to check the status while I'm downloading huge files. This may seem like a small feature for most people but for the way I use routers it's a significant loss in functionality. For example when I'm downloading files up to 1.5GBs I don't leave my computer monitor on so I cannot check the download status from the PC, that means I rely on the router LEDs instead. Not only that but remember that my desktop computer is in the bedroom. What happens if I go out into the living room or kitchen to eat and need to keep an eye on the download status? Sorry can't be done even though the router is in the living room because it doesn't have any activity LEDs. The thing is if the download gets disconnected part way through I would not be able to know. Obviously this is very important when you're downloading huge files that take hours to complete. With LEDs I could tell right away by the blinking activity that the download is still in progress or disconnected/finished. If it turned out that it was disconnected I could go to my computer to restart the same download or start another new download without constantly going into the bedroom to check my PC and/or router. Anyway status LEDs are useful for checking if someone is trying to leech internet access from your router too.As far as features, the Belkin has a really basic feature set. It does not have some advanced features of my other two routers. One feature missing from the Belkin which I use on my own routers is the radio power setting. On my routers I have it set to the lowest power which means the lowest range so the signals do not go around the whole neighborhood. Having lots of range is good but only if you want it to. It would've been useful if users could manually adjust the range. Another feature I use is the MAC address filtering feature. The Belkin has this feature but it is limited to "allow" (inclusion) only, it doesn't have "deny" (exclusion). Not a big deal but worth mentioning.Now for the unique feature. The Belkin has a "self healing" feature which is nice. You can set the router to re-initialize itself any day of the week at any time. This comes in handy when the network encounters problems while you're away.In summary, the Belkin N450 is a good entry level High Speed router, however it also lacks some advanced features of other similar routers. With that said, if you're looking for a basic high speed N+ router and don't need all of the bells and whistles of other routers then this one is a good choice. It's easy to setup and won't overwhelm you with a bunch of advanced settings.Update: I've encountered the same non-working Admin login timeout issue that others have mentioned. I contacted Belkin tech support and they told me to "reflash" the firmware which is very odd. I already installed the latest firmware but they said I needed to reflash it again in order to get the admin login timeout to work. The reflash did fix the problem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good entry level  High Speed router with minimal settings options </p>
+
+
+<h2> review.date </h2>
+  08-22-2012  
+<h2> review.text </h2>
+
+ <p> There are some very good reviews about this router already so I'm not going to go into too much technical detail. I'll just say that I couldn't get the Belkin N450 to work better (or provide as consistent a signal) as the older D-link router which I'd hoped to replace. Initial setup didn't seem too difficult, but the broadcast signal didn't go very far in my home...and the signal dropped out entirely way too often. Perhaps I could have diagnosed what was wrong (perhaps the fact that I have some older wireless devices that didn't like the "N" signal?) if I had a lot more patience and if I DIDN'T have a working router to fall back on. But in the end, I pulled the Belkin N450 out of service and returned the D-link to active duty. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointing Performance </p>
+
+
+<h2> review.date </h2>
+  09-29-2011  
+<h2> review.text </h2>
+
+ <p> This was very easy to install on my network and provides a strong wireless signal for the network and allows guests to logon under a separate wireless connection without access to the main network. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Belkin N450 Wireless N Router </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> i will staer by sayomg my putpose in buyinh a router was to re[lace my isps royer eotvh capped out at 72 mbps connection speed brtween the router anf my laptop even though 8011,n should be 130plus what happened, i bought a netgear router claming1 300 plus mps that is if i could get setup abd netgear sport was useless so i got the belkin and ar first i ince again only got a 72 nps so i started looking around for tips how to imprive speed so here is what did to double the connection speed. i set the router to the 5ghz band abd set the channel bandwidrg to 20-30 mhzand that did it, i now have a consiistent 150 mps connectiontwice what i was gettingi;; take that and i feel vondicatedthat iwas correct in knowung whatwas ossible and all the blame that my isp support didnt knoq squatspeed  ;; the wasted time with my cabi can recommend this routerto thosetrseeking faster connecrion speed at a reasonable price andgood support. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> i works great </p>
+
+
+<h2> review.date </h2>
+  09-29-2011  
+<h2> review.text </h2>
+
+ <p> I don't really care for the size, my other router is much smaller and unobtrusive. But over all the Belkin N450 was fairly easy to set up and seems to work pretty good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works good </p>
+
+
+<h2> review.date </h2>
+  07-25-2011  
+<h2> review.text </h2>
+
+ <p> I've been looking to replace my router because of some performance issues. I decided to try this Belkin router and I am very pleased with it. I'm getting better speed and have no response issues like I had been with my old router. I didn't really expect the difference performance to be noticeable, but it definitely it is. I'm not totally clueless when it comes to set ups and installation of computer stuff, but I really appreciated the easy set up of this router too. It's very simple to get it up and running. I do wish it was a little bit smaller though. The up and down, horizontal, design made it a little hard to fit in with the rest of my equipment, but I found a good spot for it finally and it in the end it was worth doing some re-arranging. I will be recommending this router to others. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Pleased with this Router </p>
+
+
+<h2> review.date </h2>
+  06-21-2011  
+<h2> review.text </h2>
+
+ <p> My old airport extreme was starting to run into its dotage (I think it was 110 in computer years) and I was having trouble connecting to my new laptop.  When this came up in the vine, it seemed like the perfect time to upgrade.  For many people (me included) upgrading hardware is a frustrating pain in the neck hassle, something goes wrong at each step and requires a ton of troubleshooting. I pull out a lot of hair and when finally finished, I go look for some straight scotch.  Not this, I was extremely impressed with the steps the company took to make the installation as easy as possible.  They provide an easy three step diagram to get the components plugged in and then you insert the disc.  The installation instructions walk you through the set up which took about 5 minutes total (from plug in to internet access).  At this point, I've connected my mac mini, ipod, laptop (yeah!), and blu-ray with no issues. Wow, this may not have all the bells and whistles of some of the pricier models, but man it was a cinch to set up and it is certainly doing the job.  Highly recommend! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Set up was about as easy as it gets </p>
+
+
+<h2> review.date </h2>
+  10-29-2011  
+<h2> review.text </h2>
+
+ <p> First let me say that I've owned a lot of routers over the years (Belkin, DLink, Lnksys/Cisco, Netgear) and generally speaking I prefer Belkin for their ease-of-use and overall value for the dollar. I have a "mixed" network with both wired & wireless devices. I have a network-attached-storage (NAS) unit and frequently stream both movies and music; plus my phone service is a voice-over-Internet phone system. Dependability and speed are the two most important things I look for in a router. I do not do online/network gaming and cannot speak to that environment.Things I Like:All the basic functions are there for the average user plus a couple of features you don't necessarily see on the competition. Self healing is one such function. Basically, routers (any network device really) benefit from a periodic "restart/reset" a few times a month. The Belkin allows you to schedule that restart to automatically occur (say, in the middle of the night). Nice!. Belkin also employs the staefull-packet-inspection methodology for inbound transmissions which is an added level of protection from hackers. Some but not all of the competition does. Coverage is good for an internal antenna router. My environment has a single-level 2000 square ft. footprint and the signal strength is full "N" in all locations. My network also registers with usable strength for neighbors within a few hundred feet (no, they don't actually use my network).Setup is extremely easy and you do not have to use the supplied software if you don't want to. I set mine up manually in about 15 minutes. A non-confusing interface with "help-bubbles" has always been a Belkin strength. For the most part (in a simple setup) you really don't have to do much other than plug it in and setup your wireless password & network name.For those that require fast LAN speed (ie: non-wireless), this router is faster than several more expensive routers I've compared it to. Since I frequently stream movies over the network this was an important consideration. Streaming movies (wireless or wired) while others surf the net, talk on the phone, or use smartphone features is becoming an everyday requirement for multi-user households and the Belkin's seem to handle things pretty well.Things Belkin Could Have Done Better:These items may not matter to you, and they don't necessarily constitute a show-stopper. I like the N450 and it meets my immediate needs but I thought they deserve mention (nothing's perfect, right?). Maybe in the future Belkin will address them.The N450 has a single diagnostic light as opposed to the multiple lights on previous Belkin models. I can't believe these would add anymore than a few dollars to the cost and they are a valuable addition for troubleshooting. If the thinking was "simpler is better", it is definitely not in cases of providing adequate performance indicators for troubleshooting. Belkin needs to spring for a couple more LED's.I haven't found a way to reserve IP addresses for a specific device. Reserving addresses for network printers & some NAS units is a valuable tool in setting up a complex network. There are ways around it for the most part but it can be time consuming. Previous Belkin routers had this feature and its removal is a mystery to me.In comparing the N450 to the more feature-laden N600, I find it curious that the N450 has Gigabit LAN ports and the pricier N600 does not. Normally you don't see features removed as the price goes up. Belkin Marketing needs to take another look it's targeted user base. I doubt most users needing faster wireless speeds would be willing to put up with slower LAN speeds for that benefit.All things considered:The N450 is a great value router for those that need good wireless coverage and very fast wired speeds for an affordable price. If you're seeking the fastest wireless speeds, have a multilevel house, or do not have a need for Gigabit LAN speeds, the N600 would be a better alternative. The N600 has 2 additional wireless antennas which make it a better wireless performer. The N450 with the Gigabit ports strikes a better balance for those that are both wired & wireless. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better Than The Competition - But! </p>
+
+
+<h2> review.date </h2>
+  11-08-2013  
+<h2> review.text </h2>
+
+ <p> My main reason to upgrade all my 3 routers in home was for get maxium speed from a wireless and wired network, so i make the right decision with this router because have 2 greatest things you need in home 1- Gibabit wired capacity up to 125 MB/s to transfer between network  2- up to 450 Mbps by wireless network, enough for many gadgets at same time seeing my video server on homeThis is the cheapest way to upgrade your home network to fastest wireless network at 2.4 and for sure yo need configure router to connect only to 802.11n gadgets or smart tvHighly recommended for people don't need use 5 GHZ band, so this router can get the most avaiable at 2.4 GHZ band </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simply the right decision to upgrade for the price </p>
+
+
+<h2> review.date </h2>
+  04-04-2014  
+<h2> review.text </h2>
+
+ <p> Believe the positive reviews.  This router functions perfectly,  has good range and is all I could hope for in an inexpensiverouter.  I am very happy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it </p>
+
+
+<h2> review.date </h2>
+  03-19-2014  
+<h2> review.text </h2>
+
+ <p> The wireless router was simple to connect. But I haven&#8217;t figured out how to reset the password. The router really has boosted my wireless signal overall around the house. The streaming data from the entire location is a breeze now. I have no dislikes about this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boost your Home LAN </p>
+
+
+<h2> review.date </h2>
+  01-24-2012  
+<h2> review.text </h2>
+
+ <p> I bought this product becasue I have an in-house online business and my router went down late on a holiday weekend night. So, off to Walmart.The dual channels and high speed were very attractive. My pc's, smartphone and tablet easily stay connected to this router at very high speeds, but it drops the internet several times a day! Looking at reviews after the fact, I see Belkin has had this problem with various routers since at least 2008.I tried all of the powerdown recommendations, etc., still the same.This piece of junk is going back. How can a company keep putting out products with the same problem? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Continually drop internet </p>
+
+
+<h2> review.date </h2>
+  07-11-2011  
+<h2> review.text </h2>
+
+ <p> This is a good router overall, so long as you do not want or need to make changes to the settings.I like the look of it, and it's vertical orientation (rather than the horizontal of my old router) fits better on the desk. I do wish it had status lights for the connections, like most other routers, since the lack thereof makes troubleshooting connection errors more difficult.What I *hate* about it is the interface of the administration screen. Like other routers, you can configure the settings by using your web browser to access the router - by default, you go to 192.168.1.1. A screen appears immediately asking you to log in, which isn't a bad thing, but I did have to hunt through the packaging to find the default password. Once logged in, I began exploring the settings and tweaking them to my needs. I renamed the network and reset the default IP addresses, working my way down the settings based on the order of the links.First major annoyance - after changing *any* setting at all, the screen resets and forces you to log in again. EVERY. TIME. It really can't have a timed feature so that I can make multiple changes without constantly asking for my password? Really?Then, I got to the point of resetting the default password (the last of the links). I entered what I wanted as my password - a nice long strong password, which for something like your router settings you really need. It immediately reset the screen and had my log in again. No complaint this time - that's how it should work. However, when I tried to log back in, it wouldn't accept my password. I tried it again and again. I even used a browser utility to show my password as I entered it to be absolutely sure that I was typing it correctly, and sure enough I was.At this point, I had no choice but to do a factory reset of the router. Which of course means losing every other setting I had customized. When I got back in with the default password, I of course decided to change the password first, and this time, using the same reveal password utility, I discovered the problem: it seems that the router's admin interface only accepts passwords up to 8 characters. Not only this is insanely stupid from a security point of view, but NO WHERE on the interface does it state this. If you enter a longer password, as I did initially, it simply ignores extra characters, leading you the frustration I had of discovering the hard way that your password is not what you thought it was. This is such a simple thing to fix that it's truly hard to imagine that a company like Belkin would have shipped the router with it.Once I had the (much weaker than I want) password set, the other settings were easy enough to enter - except of course that I had to reenter my (weak) password over and over and over.Basically, this is a fine router for the average home user who doesn't know anything about networking and is OK having a completely insecure network that uses all of the default settings and makes it crazy easy for the neighbor's kid to hack and steal your bandwidth. If, however, you want something secure, I'd have to recommend against buying this model, as the set-up screen is annoying in the extreme and the forced weak password automatically comprises your security. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent router but admin interface forces you to remain insecure </p>
+
+
+<h2> review.date </h2>
+  08-14-2011  
+<h2> review.text </h2>
+
+ <p> For his own backup purposes, my roommate has used his Apple router for the time we've lived together. I had noticed that my personal HP laptop and my work Lenovo laptop both got terrible internet performance with that router no matter what I did. Files downloaded extremely slowly (really really fun when purchasing huge games on Steam), I would often lose my internet connection completely, and videos on YouTube, Netflix, and HBO GO ran horribly and were constantly stopping to buffer. My roommate said it worked fine on his desktop PC and Macbook and that the problem was with my computers, so I troubleshot on both my computers, tried resetting the modem and router, talked to our company IT, and couldn't figure it out. My only conclusion was that the Apple router was not playing nice with either of my computers for whatever reason.Then came the Belkin router in my Vine catalog just in time to allow me to try one more final solution. And it worked! I have had no problems since switching over to this Belkin router two months ago, and with my roommate's help I was able to plug the Belkin through his Apple router to give us dual routers so he can use his Apple and I can use the Belkin...perfect! I have switched back and forth with the Apple and the Belkin and run internet speed tests and found that the Belkin noticeably outperforms the Apple router, also confirmed through the Wifi Analyzer app on my tablet. I get an average download speed of 3.3Mbps and average upload of 0.43Mbps, which is enough to let me download my new games on Steam at good speeds and to let me watch as many streaming videos as I want with no performance issues (very nice with HBO GO, which now runs at the highest quality all the time and doesn't stop to buffer at all anymore!).As another reviewer noted, there is only one light on this thing. It is blue when connected to the internet and orange when not. The default device name and password are taped to the outside of the router so you don't have to go searching for the password through the documentation or anything. I am not really that concerned about people stealing my bandwidth like other reviewers, so I haven't tried to change any of the settings and cannot testify to the ease of customization. The router fits just fine on one of the shelves of our television stand and is pretty thin, so doesn't take up much room.I do have one gripe with this thing, though, and that's the setup. You have to install the software in order to use it, and apparently this has to be installed on every device to use it, as I'll explain. It set up really easily on my personal laptop and it always connects just fine when I turn the computer on. However, I cannot seem to get my work laptop to connect to it unless the software is running. Since it is my *work* laptop I don't want the router management utility always running when I'm not actually using it at home, so I turned it off and set it to not turn on by default when Windows starts (since I use it at work more than at home). However, it seems that I have to start the software whenever I try to use my work laptop at home or it won't connect to the router. A fairly minor annoyance, but it shouldn't be necessary to have to have the software running to make the router work.Other than that...I am very happy with this router and recommend it for people who just want a simple router to get on the internet and do what they need to do. If you need to make an internet firewall fortress then from the sound of other reviews this may not be great for that purpose, but if you are like me and just want to browse the internet, play multiplayer games, and stream media, this may be just what you're looking for. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Router works great! </p>
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> This router has internal software issues and sends itself a SIGTERM on a schedule.That causes it to lose the internet connection constantly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't buy this - IT Professional with 23 years of experience </p>
+
+
+<h2> review.date </h2>
+  09-29-2012  
+<h2> review.text </h2>
+
+ <p> I've been using this router from the lower level of my house. I've been through several others, but this one has given me the best signal throughout the house. I am very satisfied and would recommend it to anyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Performance </p>
+
+
+<h2> review.date </h2>
+  08-24-2012  
+<h2> review.text </h2>
+
+ <p> After a couple of false starts and a couple of calls to Belkin I am up and running and it's working GREAT--better than my last wireless!It really was easy to set up. I just didn't realize that I had to plug in my old wireless adapter; my computer doesn't have a built in wireless connection like all computers do today. And, since I couldn't finish the installation because of that, when I started again, I had to call up the help desk to tell me where my secret code was. I suppose, if I could have followed the directions straight through, the CD would have told me. I called the help desk twice--once because it prompted me to because it couldn't detect a wireless signal and the second time to get my set-up to finish.But calling their help desk was very easy--no long wait times, understandable English, sympathetic listeners, knowledgeable techies. Yeah! I told their survey sent to my email that I would definitely recommend Belkin. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Belkin customer service </p>
+
+
+<h2> review.date </h2>
+  06-22-2011  
+<h2> review.text </h2>
+
+ <p> This is a very good, and fast router. A little large if you want to conceal it, but the performance is great.Set up is a breeze, quick and easy. Seems to have excellent range.  Will be a good addition to set up a wireless network.  I can recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exellent product </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00749PLXQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-06-2013  
+<h2> review.text </h2>
+
+ <p> Nice overall keyboard for the price. Has a gloss black finish with more of a semi gloss finish on the keys. The keys illuminate in either blue or green with no option to turn off as the keys would be unreadable. There is also no brightness level which I don't mind as the illumination level seems to be about perfect in either color. The keys may be a bit on the loud side compared to other boards I've used, but not as loud as a mechanical keyboard. Would recommend for anyone looking for an illuminated keyboard for a decent price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Late night keyboard on a budget. </p>
+
+
+<h2> review.date </h2>
+  03-08-2012  
+<h2> review.text </h2>
+
+ <p> This is a pretty nice keyboard that lights up. The only downfall I have come across so far is that the keys on this keyboard can barely be seen or read without the LED turned on. Even with a source of light next to you, their a bit hard to see which key is which.If your a person that doesn't have the keys memorized and needs to look at your keyboard to type, this one isnt a good pick for you unless you don't mind leaving the LED's on the entire time. Because without that light on, their quite hard to see fully.If you have the keyboard memorized and have no need for the LED's but for looks then this seems like a pretty great choice to me. The price is fair and it does its job so far.(((NOTICE)))The keyboard by default turns on as Green so everytime you reboot your computer it will be Green again. It will not stay as Blue when you power down the computer and turn it back on. You have to keep manually changing it back to Blue.If you wish to change the color of the LED's just press the Scroll button.This keyboard is kinda noisy too when typing real fast. I personally want a quieter keyboard. I can hear the arrow keys more than I can my game.(((GAMING NOTICE)))This keyboard is TERRIBLE for gaming. The instant you press a 3rd key down it locks up and becomes unresponsive untill you let go of all the buttons. I believe they call it ghosting. For example if your holding spacebar to shoot in a spaceship shooter game and you use the arrows to move, if you push up and left together to go diagonally then go to push down or right you will keep going up and left and none of the keys will work untill you let go of them all. Only 2-3 keys can simultaneously be pressed and it makes using arrow keys to move around in games a bad thing because you cant keep moving properly without messing up.Overall this is a good keyboard if your just wanting a keyboard for typing or computer applications but this is NOT a choice if your wanting to use it for playing games. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Keyboard But Keys Hard To Read </p>
+
+
+<h2> review.date </h2>
+  05-10-2014  
+<h2> review.text </h2>
+
+ <p> It's a nice illuminated keyboard.Only negative that there is no &#34;Super / Windows&#34; key on it. I can live without it, but it can be annoying for some people.At nighttime the led is not overly bright, goes well into a completely dark room. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great touch, light weight, good buttons. </p>
+
+
+<h2> review.date </h2>
+  10-15-2012  
+<h2> review.text </h2>
+
+ <p> Most of the green backlit keyboards on the net are for apple, yet this is a good quality keyboard whihc looks good with my wife's green-glowing alienware computer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the only non-apple keyboards with green lights... </p>
+
+
+<h2> review.date </h2>
+  12-19-2013  
+<h2> review.text </h2>
+
+ <p> I like the option of color - you can switch it between green and blue (or no glow).  The key feel is soft. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Glows through the keys - work in the dark! </p>
+
+
+<h2> review.date </h2>
+  07-25-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this keyboard because my girlfriend crashes in the living room for her beauty sleep making it difficult to see keys when I am gaming in the dark. Also I like the color green as well which narrowed my choice to this keyboard with the LED glow.After I hooked it up I noticed the traditional left windows key is labeled [Fn] instead for other functions on the keyboard!! Since I'm a gamer this amazes me because that stinkin' windows key will pop you out of a game onto your desktop causing havoc at times.The keyboard has nice flat keys the are laid out well. It's quieter than other keyboards I've owned except for the spacebar sounds about the same. Also like another review said it doesn't have written documentation to tell you how to change the LED color which is the [Scroll] key, but there a small picture on that same key to indicate it can swap the color. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fell in love as soon as I noticed there is no left windows key! </p>
+
+
+<h2> review.date </h2>
+  06-01-2013  
+<h2> review.text </h2>
+
+ <p> The keyboard looked great and worked great until coffee got spilled at the desk top area and the keyboard hasn't worked right since. We asked customer service about it and didn't understand their instructions on how to fix the key that was broken. We didn't bother returning it. Maybe we can get it working in the future. The back lit feature was very nice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Did not work well, undurable. </p>
+
+
+<h2> review.date </h2>
+  01-06-2013  
+<h2> review.text </h2>
+
+ <p> This has been a fabulous purchase. It was for my daughter that has limited vision and she loves that she can see her keyboard day or night now without so much extra lighting. She enjoys the color choice and the price was excellent based on others I had looked at. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gift for my daughter </p>
+
+
+<h2> review.date </h2>
+  04-07-2014  
+<h2> review.text </h2>
+
+ <p> I just needed a keyboard that was back lit untill i got a good one. The X key is very very dim and the individual keys are sticking and not smooth so as to make typing difficult. Since I don't type a lot of messages or documents it gets me by for the meantime. I rate this &#34;a bullet in the cranium&#34; to the manufacturer and sellers. Another piece of garbage for the price even. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> below acceptable </p>
+
+
+<h2> review.date </h2>
+  09-15-2013  
+<h2> review.text </h2>
+
+ <p> I wanted green, all green, everything green. GOOD LIGHT thru KEY LETTERS, but not around the edge or in between keys.Maybe BLUE is for YOU? Deep blue a little less bright then the GREEN but ok to see.Left SHIFT KEY STICKS but livable, MED.+ firm key action.CAPS LOCK reverses the SHIFT KEY to DOWN.FUNCTION key should LOCK for MEDIA CONTROLS combined with F/KEYS, two handed media control is not convenient.Media ICONS should be LARGE and have F1/f2 lit above keys thru top plate.Space bar should have light bar or dashes the length of the letter keys.Reasonably good second keyboard for $30 + shipping. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Reasonably good keyboard for $30+shipping GREEN+BLUE </p>
+
+
+<h2> review.date </h2>
+  03-09-2012  
+<h2> review.text </h2>
+
+ <p> after finally contacting this company on finding out why this keyboard only lit up in green. I was able to get instructions on how to change it to blue. you have to use the scroll lock key. so you must turn on the scroll lock on to get the blue illumination . they failed to mention this in the description and instructions in the box. this usally would not affect most ppl except those that use the scroll lock.now the keyboard on the other hand feels like better quality keyboard than most for the same size. the keyboard illumination does work good.so 2 stars 1 for quality. hopefully it will lastand 1 for great illumination. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> poor instructions/ details </p>
+
+
+<h2> review.date </h2>
+  11-30-2013  
+<h2> review.text </h2>
+
+ <p> Its okay. I like the lighted key, but don't like how the features work. CTL this, Function that, I don't like having to remember what does what. I use it as a backup keyboard in can my other one malfunctions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay </p>
+
+
+<h2> review.date </h2>
+  03-11-2013  
+<h2> review.text </h2>
+
+ <p> I was actually quite impressed with this keyboard. It has a great feel to it, i like my keyboards a little more on the clicky side so some might complain that it's a little loud when speed typing. The green is awesome and the main reason i purchased this board. I'm building my brother a gaming computer that is loaded with green LED's and this was the icing on the cake as they say.side note: blue looked really good too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  09-04-2013  
+<h2> review.text </h2>
+
+ <p> I love the keyboard the lighting works great and works great. I give it a 4 out of 5 because the keys sometimes get a little stiff which is bad. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great keyboard </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

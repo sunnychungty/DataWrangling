@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00LK6TRMK <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very good cookbook </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have been looking for a diet that would help me lose weight but also help with my cholesterol. So far this one has proved very successful. I like the recipes very much and my weight has gone down already. Very pleased with this book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like books under the topic weight loss. I strictly watch my want as I want to stay fit and strong. I got this book for some tips and for real this book is worth it. Low cholesterol discussed in depth and I believe you can lose weight fast by maintaining low cholesterol.I recommend this book </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Low Cholesterol Cookbook </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This Low Cholesterol Cookbook is really great! It is a great read for anyone wanting to learn more about how to control their cholesterol and a diet to help them with this. The book contains very informative information about cholesterol and it provide the ways you can begin to start a eating plan that will become a life style. The book goes further into a diet plan with menus for the beginner to follow that gives you a wide variety of choices for all tastes, and then provides you with great recipes to get you started that are easy to prepare and appealing to the taste. It is a good read for anyone but especially to a person who needs help with this health issue.I highly recommend it to everyone. Thanks! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Low cholesterol. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A nice collection of low cholesterol recipes that I have shared with several of my friends. Their very fast response was positive, that the book is well-presented and full of wonderful recipes. I agree, and I look forward trying them with my family. At only 99c you can't go wrong. Grab yourself a copy today. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Flavorful Low Cholesterol Recipes </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Eating low cholesterol dishes is a must for some people who have health concerns. Low Cholesterol dishes are usually thought to have no flavor at all, but this book gives you a bunch of recipes that actually taste very good.  There are those that have the misconception that serving a special diet costs more money than just eating anything you like, but that is not true.  The recipes in this book do not cost anymore to make than you are paying right now and you might even save money.  The book is separated by type of food and includes main dishes, side dishes, and dessert.  Other chapters include grilled recipes and all pastas.  These recipes are so good, you and your family won't even notice they are considered low cholesterol. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good recipes </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book offers some good suggestions and recipes for lowering cholesterol. Not sure how much of it is backed by science, but I feel this is still a quality guide that people with high cholesterol should follow if they have nothing else to go by. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Eat Right To Lower Cholesterol </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> If have been diagnosed with high cholesterol you know it is time to relook at your dietary choices. It can be one of the toughest transitions because you are used to eating the way you have always eaten but that is exactly what put you in the doctors office. The recipes inside will make you realize that eating a low cholesterol diet does not have to taste as bad as it sounds. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Low Cholesterol Cookbook will really help you to lower your cholesterol levels! All the recipes sound very tasty too... I highly recommend this book! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> maintain a low cholesterol with the help of this diet book </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> First few recipes are good, looking at the the ingredients of the recipes they are proven to maintain low cholesterol so I'm looking forward to reading more of the recipes in this book </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> low cholesterol </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> As someone with cholesterol, I can attest that these recipes discussed here all good to reducing cholesterol and helping you lose weight and burn fat quickly.  I recommend this ebook for everyone.  Thanks to Noah for sharing it with us. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great cookbook! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> There are many different types of delicious recipes in this book to help lower your cholesterol intake. The author has included main dish recipes, side dish recipes, and healthy dessert recipes. So far, I have made the Mexican pasta. It is so good and my whole family loved it! This is a great cookbook and I am so happy I got a hold of it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good eats </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Has great recipes.  For those starting out to learn how to cook low sodium. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great recipes </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you need to lower your cholesterol then this book will help you do that while still enjoying plenty of delicious food. All the recipes are for low cholesterol which is a given, but they are also divided in different kind of dishes such as main dish, pastas, side dishes, grilled food and because everyone loves it, healthy desserts for those that can't go without it.The recipes are easy to follow, the directions are very explicit, i'm not that experienced in the kitchen yet, but I was able to prepare some of the dishes myself without any problems. The recipes are good for almost everyone. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> These recipes are inventive and definitely not boring! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is an excellent cookbook, full of easy and flavorful recipes. There are no pictures of the dishes, but the book layout is very simple and useable. The recipes make the most of the natural ingredients instead of loading up on artificial substitutes. I own a lot of books about cooking and food, and I love to sit down with a cup of coffee and read my cookbooks. Absolutely wonderful with healthy recipes! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

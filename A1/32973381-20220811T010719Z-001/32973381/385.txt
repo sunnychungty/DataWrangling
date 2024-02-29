@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1935702041 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-23-2012  
+<h2> review.text </h2>
+
+ <p> This is my second book from 711 Press and it will not be the last! What I love about this concept is I get to sit down and unplug from the world and get lost in a great little book for a few hours.  This was an entertaining and engaging book. It sorted reminded me of a few movies with similar storylines. And all that did was fuel my imagination even more. The story surrounds Hadrian who is a bad dude set in a kind of "David versus Goliath" There is a little Jason Bourne in here with a dash of Universal Soldier, and touch of Rambo, and Doctor X.  Makes you wonder how far away this stuff is from being reality or is it already here, hm? This was my cup tea as I was hooked from the get go. Plenty of raw action and adventure to get your heart rate up for sure. For me, another winner from 711 Publishing and I am ready for more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hooked from the get-go </p>
+
+
+<h2> review.date </h2>
+  02-10-2014  
+<h2> review.text </h2>
+
+ <p> Mr. Vallon has created an excellent beginning to a series. The characters are engaging and the plot was well drawn out. I truly enjoyed the adventures of Hadrian, Augustus, Doc, and Emily. Very fast paced and would recommend this book for anyone who liked any of the Jason Bourne books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Big kill </p>
+
+
+<h2> review.date </h2>
+  05-26-2013  
+<h2> review.text </h2>
+
+ <p> E-book review copy provided by 711 Press.711 Press is striking out to do something different with their TV/movie books. They aim to give you a readable cinematic experience in about the time it would take to watch a movie or TV show. Because of this, everything is very trimmed down and streamlined. This style may not appeal to everyone, but as a fan of classic pulp adventures which focus on driving the story forward and intense action, I quite like it.There's hi-tech gadgets, beautiful (and deadly) women, and a former black ops agent on the run from the secret government agency that created him. While it might sound familiar, I'm okay with that. It allows you to jump into the story easily without a lot of exposition and back-story to bog the pacing down. The opening chapter tells you all you need to know about the protagonist while showing off his skills against a group of assassins sent by his former employer, Redrum Industries.The end of the book very much sets you up for the next part of the story. I hesitate to use the word sequel because if these were movies, I'd suspect they were filmed at the same time with the fore knowledge that the next would be released shortly after the first. It doesn't so much come to a conclusion as it feels like the end of Act 1. This also reminds me of classic pulps or serials because you almost immediately feel the need to see what happens next.Considering the E-books are equivalent to a Redbox rental in time to consume and cost, I plan on checking out more of 711's offerings in the sci-fi and fantasy genres. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Modern Pulp Style Spy Adventure </p>
+
+
+<h2> review.date </h2>
+  06-27-2013  
+<h2> review.text </h2>
+
+ <p> Hadrian Black knew his time of hiding was over when he saw the SUV approaching his farm. He;d been a farmer for a year now, but that was over. REDRUM wanted what he'd stolen from them back and they would use violence to get it.A year ago, he'd infiltrated one of their plants, downloaded their files and introduced a virus, then blew it all up. Ostensibly a game manufacturer, REDRUM was much more.But Hadrian wasn't alone. Doc was thought to have been killed in the destruction of their plant. Augustus was another man on their side.Hadrian was a cyborg, with implants and upgrades. His confederates and he were out to stop REDRUM's plans for domination.Enjoyed  this one so much that I immediately picked up the next two volumes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting New Series... </p>
+
+
+<h2> review.date </h2>
+  02-20-2013  
+<h2> review.text </h2>
+
+ <p> If you like action packed thrillers and stunning endings then Kill Factor is the book for you. People who seek adventurous happenings and kicking drama must pick this book. The mystery keeps unraveling with every chapter and you're always thinking what will happen next.The book is available as a digital copy, so you can carry it with you wherever you go and read it anytime. What grips most readers is that there are several combat sequences throughout. Moreover, the geeky technology used in the story is absolutely breathtaking. People fond of spy sagas will also love the book.This is how the plot goes. Hadrian is wanted back by the organization he used to work for otherwise he is dead. But he does not want to get involved with the organization again and has almost wiped them out the last time they left. The story has genetically mutated soldiers of war. These ruthless soldiers don't have love for anyone and are only concerned with following orders. Now Hadrian has to be a part of the plan and fight to get out of this muddle. He can trust no one and is competing with the best assassins in the world. Totally fiery and the book will keep you glued till the end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> will keep you glued to the end! </p>
+
+
+<h2> review.date </h2>
+  05-27-2014  
+<h2> review.text </h2>
+
+ <p> The short story is written in a very cartoonlike fashion. The characters do not have a lot of depth. The dialog is a cartoon caricature. The protagonists smoke cigarettes constantly to the point that I started to smell stale smoke in the room and on my clothes. Very film noir. Strangely enough they forgot smoking halfway through the story. What a relief.Our heroes and antagonists are digitally and genetically enhanced leaving us normal humans in the dust. They kill at the drop of a hat. Not a lot of emotion there. The romantic relationships are also very cartoonlike, bordering on the misogynistic.If you like superhero stories this might be for you. The whole thing is totally unrealistic. How do you cross borders and fly around like that in a future world where big brother is watching much more than now? But a lot of today&#8217;s most popular TV shows for young people are like that. They will feel right at home.I only gave the short story 3 stars as I am not into cartoons but like a more depth of character and more realistic hard sci-fi action. The story also ends in the middle of the action, inexplicably, just about cut off in mid sentence. That always bugs me. A good story requires some kind of ending or a cliffhanger, even if it continues in the next installment. Another cartoon trait I suppose. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cartoonlike film noir action adventure sci-fi short story cut short </p>
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> The Kill Factor Series starts off with intense action that will appeal to those who love James Bond-ish stories.  A fast paced, intense storyline that includes 'relic' assassins, black op special agents, government agents and genetically enhanced super assassins.Quite easily just stepping over the edge of what is realistic to us 'lay' people and delving in to a world that is very plausible, this thriller had me on the edge of my seat for the entire read.What had me guessing is how Redrum was able to track Hadrian after his little tryst with Ming Li.  As always, nothing is what it seems, and everything is more than you think.  Hadrian's 'relic' ways keep him on top of his game, but because Redrum is constantly evolving the genetic enhancements to their operatives, he fails to see that those very enhancements have played him right in to their hands.  On the run, Hadrian and his few allies have to split up and go deeper than they first thought.  I can't wait to see who else is involved and how this story line moves forward.For me, this book introduced me to a series that I believe would make an excellentmovie.  This book is presented in such a way that you can read the book in one sitting, then choose to go on to the second book right after, if you'd like.  I've already purchased book #2 because I can't wait to see what happens next. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Intense Beginning to a Series </p>
+
+
+<h2> review.date </h2>
+  04-06-2012  
+<h2> review.text </h2>
+
+ <p> Assassins aren't allowed to retire; especially not ones that have been genetically altered.711 Press shared this book with me for review (thank you).  It has been published as an ebook, so you can find a copy now at their website or any of the other vendors who carry digital books.The story begins on a farm where Hadrian is planting a spring crop and thinking of the upcoming farming season.  That thought abruptly leaves his mind as he sees a black SUV coming down his mile long driveway. He fights for his life and escapes, but his fight isn't over yet...The organization wants him back or wants him dead.  He is no longer interested in the organization and their work and almost destroyed them with his departure.  He's not going back.And so begins a story with genetically mutated soldiers of war who only follow orders and have no love for anyone.  These men and women have more invested in them than the Six Million Dollar Man did!The author offers you a tale of enhanced athletic ability and geeky technology with a side of intrigue.  You'll begin to wonder if Hadrian can trust ANYONE and you'll wonder just how long he can last with the world's best assassins after him.This is the first book in this series and I bet Hadrian is going to be around for a while.Happy reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Genetically modified master assassins; who will survive? </p>
+
+
+<h2> review.date </h2>
+  09-01-2011  
+<h2> review.text </h2>
+
+ <p> Hadrian Black who is a former Redrum agent has now been in hiding for a year. Four agents find him living on a farm and when they try to take him back to Redrum, the fight ends with Hadrain being the only one alive.....Hadrian also has been programmed with special abilites and since they have erased his memory he no longer remembers who he was before being taken as a redrum agent. He now works for "Doc" who keeps him "upgraded" Hadrian is ready and prepared to kill anyone or anything that comes after him. But will they kill him first?This book is filled with more action than a movie! A great read.*I received this book as a gift. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't mess with Hadrian Black... </p>
+
+
+<h2> review.date </h2>
+  04-18-2013  
+<h2> review.text </h2>
+
+ <p> The is an exciting thrill ride that races faster than the Kentucky Derby!  It's all action, with no time-wasted scenes or lengthy descriptions.  Hadrien Blackburn (or Black) is a rogue agent who previously worked for an industrialistic secret group which the U.S. military have been trying to infiltrate for years. Hadrien had turned his back on the Redrum organization for over a year after doing severe damage to a Transylvania Textile Plant back in 2009.  The plant was a shadow business for the Redrum group who were experimenting with implanted chips that genetically changed their secretive agents.  Finally, after a year of enjoying life on a farm and growing crops, Hadrien's location is discovered by Redrum agents.  When four agents approach him on his farm, he outwits them, kills all four, and has to now leave his loved farm. Rather than to continue hiding, he decides to turn into the hunter and do more damage to the Redrum group.  This story has been honed to where it can be read in a couple of hours, the average time for a movie.  Thus the pace is vigorous, the characters are captivating and certainly talented.  The plot is great with many twists and turns.  As fast as the characters move in high action, the faster I paced my reading.  This story is exciting and I like the idea of a movie novel which is geared to be read in less time.  I'm looking forward to more stories in this series.  Highly recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Espionage Story At It's Best" </p>
+
+
+<h2> review.date </h2>
+  12-24-2011  
+<h2> review.text </h2>
+
+ <p> Took me a while to sit myself down and read this book.  The whole spy, action adventure thing is not my usual choice.  But, based on other books by the publisher, I figured I would give it a try.  I'm very glad I did.  The story moves fast, and there are a lot of characters introduced in this first book.  There is also enough sci-fi stuff to really get me interested.  As usual, the ending leaves you wanting more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> exciting, fast paced story </p>
+
+
+<h2> review.date </h2>
+  11-21-2012  
+<h2> review.text </h2>
+
+ <p> Yet another solid offering from 711 Press. This time it is a techno-thriller that involves global power struggle waged with 'modified' black-ops, who have brain-embedded chips and various biological performance enhancements that give them almost superhuman powers.The main protagonist of the story is Hadrian, who is somewhat of an enigma. Unlike 'normal' enhanced operatives, he is capable of having multiple upgrades with no negative side-effects. A ruthless killer with a clear purpose. With the help of his friends Doc, Augustus Maroon and few others, he is waging a war against Redrum Industries, a huge corporation that traces it's roots to top-secret government program on biological enhancements from 1960s. Now it is a global powerhouse with the ambitions to match and the only place that knows how to mass produce ever more deadlier 'enhanced' black-ops.Other characters that I found interesting are:Rexford - a charismatic villain who advances Redrum Industries' interests by any means, which usually mean black-ops running havoc and killing folk.Magenta - a seemingly expendable government agent, who infiltrated Redrum Industries's black-ops squad but now is forced to make a dangerous choice.Prose is very crisp and action moves along at a snappy pace. Plot is uncomplicated but interesting. Many questions remain unanswered at the end. For example how Hadrian was connected with Redrum Industries in the first place, what is EvrHEALTH, and more. I am looking forward to reading next volume in this series - Kill Factor: Serpent Head. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Who is Hadrian? </p>
+
+
+<h2> review.date </h2>
+  02-20-2012  
+<h2> review.text </h2>
+
+ <p> I thought this movie book was well written and it instantly grabbed my attention. This story reminded me of Universal Soldier and how humans were "made" stronger, etc. I look forward to learning more about Hadrian, Magenta, Doc, and the rest as well as Redrum.  I can't wait for more to come because of course it leaves you hanging with more questions than answers. I received this from 711 Press. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kill Factor </p>
+
+
+<h2> review.date </h2>
+  11-20-2012  
+<h2> review.text </h2>
+
+ <p> I am an adrenaline junkie and I am always looking for a good, fast-paced action story.  I bought this book based on the recommendation of a friend at work and it was just what I was looking for: exciting, well-written with tight action and a great storyline.  The main character Hadrian is particularly well developed - a mix of tough bad a**, quirk and heart.  He is a very easy character to connect with and one that I couldn't help rooting for throughout the book.  I love the part early in the book where he has to blow up his trusty tractor (that he worked the farm with as part of his cover) and he spends a moment mourning the loss of his "friend".  It was a lovely little detail to make him relatable and it made me smile.  Attention to details like this throughout the book really elevated the writing.  I would recommend this book to anyone who likes action or adventure or is a fan of the Bourne Trilogy or the other writings of Ludlam.  Two thumbs up! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great main character, exciting storyline and excellent writing make this an action book that is a must-read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

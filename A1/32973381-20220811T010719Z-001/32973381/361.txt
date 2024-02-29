@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1616146702 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Go to BookTV.org  for an in-depth interview of the author. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Disclaimer: I have not read this book. I intend to purchase and read it. However, to get this review on the Amazon site, I had to rate it so I am giving it 5 stars based on the erudite discussion mentioned in the title of my review.  As many of the other so-called "reviewers" evidently have not read Austin's book either, I post this for any who might want get a truthful overview the content of this book.  The author was interviewed on BookTV.org this past weekend (obviously taped before the "freeping" on this site). The thoughtful discussion of this subject is available for viewing at:[...] </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The tea party is so cool, now even commies want in ! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Standard liberal lies about our Founding Fathers.Did George Washington actually lead an army, or just send Hillary's great great great grandmother, Henrieta, to Lexington Green and Concord Bridge ?Did Thomas Jefferson really write the 4th amendment because he didn't want to get busted selling crack ?Does the phrase "The Right of the People" actually mean "the right of the people" or is it a skull and bones code phrase for an orgy invitation ?Is the Washington Monument really giant Koch ?Don't worry, Marxist professors like this author wouldn't lie.... ;) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Read this book if you want a rational, balanced perspective of our founding fathers </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you are a rightwing or leftwing extremist, you will not like this book.If you want a reasonable, not too technical perspective on the misuse of history by propagandists, this is the book for you.As other reviewers has pointed out, a right-wing group has made a concerted effort to give this book a low rating. All but one negative review was written on the same day and they only give one or two line jabs that provide no specifics. Pretty lame.If you really have a beef with the book, give specific references to where you think the book is wrong and provide reasonable evidence why the author got it wrong. I welcome a good rebuttal to this book and would like to learn from other's knowledge and perspectives.If you can only view things from a rightwing or leftwing perspective do the following:1. Express your irrational fears and hype by typing it out on your computer, the longer the better.2. Print a copy3. Most importantly, for the collective good, burn or shred said copy.4. Go out and find rational people you can express yourself to that can disagree without ranting or being abusive.5. Learn from your new friends.This is a good book and I hope more authors will stand up to propagandists that seek demonize people who seek a more rational discourse. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> from a buff </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a buff of the 18th and early 19th century and love the ideals of the era. Although I may feel like I know some of the key figures like old friends, I learned so much from reading this book. I suggested a former law school student who is even more well-read in history and has studied constitutional law that he could learn a lot in reading this book. He felt he couldn't possibly learn anything so it was fun to read a passage from time to time and for them to show interest and say that they learned a new fact. This gives me an even greater appreciation of the Constitution and the Founding Fathers. I loved the logical development of the book. I also like how the author invites others to disagree with him and think it is healthy to have debate on both sides that lead to compromise. He has a very intersting take on how having different partisan views on both sides of an issue  is so vital to a healthy Republic while being too bipartisan may be a danger. He also relates how the country is designed so everyone wins sometimes. He said that neither side should be made to feel disenfranchised by never winning.  He also has a fine analysis of how to interpret the consitution using the actual text rather than trying to piece together statements made over a lifetime by any of the founding fathers. I listen to sound arguments on both the Right and the Left and this book really shows how many of the arguments today by the Left and the Right were found in varying degrees in the Founding Fathers. It shows how the Left and the Right have their rightful place in our Country. It makes me feel even more blessed to be an American. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Research that Values Integrity! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> That's Not What They Meant!  Reclaiming the Founding Fathers From America's Right Wing by Michael Austin"That's Not What They Meant!" is a very solid book that makes light of the extreme positions held by a faction of conservatives.  It's a book that exposes those who distort America's Founding history in order to support a very narrow political agenda.  Academician and author Michael Austin a self-proclaimed moderate takes the reader on a historical journey that focuses on debunking the myth that the Founding Fathers were always on the same page on important issues of their own day.  This enlightening 259-page book includes the following nine chapters:  1. How I Learned to Stop Worrying about Glenn Beck and Write This Book, 2. Founderstein: How to Turn Six Dead White Guys into One Political Monster, 3. The Fallacy of "Original Intent",  4. The Founders on Religion and Liberty Chapter, 5. States' Rights/States' Wrongs: How the Right Hijacked Federalism, 6. The Jeffersonian Myth and the Hamiltonian Bogeyman, 7. Grover Norquist and the Tax Pledge versus Alexander Hamilton and Good Government, 8. Courting Disaster: The Dumb Right-Wing Attack on the Federal Judiciary, and 9. Why America, the Constitution, and God Will (Probably) Survive.Positives:1. A well-researched, well-written book.2. Even-handed and accessible prose. Mr. Austin writes in a clear manner without resorting to hyperbole.3. Fascinating topic in the hands of an author who values integrity in research.4. The disingenuous practice of "Founderstein".  Many examples of such deceitful tactics throughout the book.5. A recurring theme that resonates throughout this interesting book, "It is simply wrong to meld the thoughts of a group of independent individuals from the eighteenth and early nineteenth centuries, who were frequently at odds with one another over major constitutional issues, into a single all-purpose abstraction to fit a particular agenda of twenty-first-century zealots."6. Thought-provoking.  "The problems of this nation and of the world are now ours to solve. We can still find great inspiration from the Founders, but it is our world now, not theirs."  My sentiments exactly.7. How the far right has established a monopoly on American patriotism.8. Religion and politics.  "From all this religious diversity emerged a fairly coherent Founding compromise: America would be an officially secular nation that would vigorously protect everybody's freedom of worship and belief."9. Find out where the inception of the term "Founding Fathers" came from.10. Mark Levin and Glenn Beck get the bulk of shots in this book.  "Figures such as Mark Levin, Sean Hannity, and Glenn Beck have taken a conspicuously modern mixture of economic libertarianism and religious authoritarianism, combined it with an aggressively simplistic view of America's Founding history, and produced a cohort of mythical heroes whose opinions did not deviate in any significant way from their own." Here is another great point. "The real question here is, how can someone who claims to revere the Founding Fathers justify such utter disregard for the integrity of their words?"11. A lot of meaningful history in this book. Enlightening. The four main political factions between 1777 and 1800.12. Find out what Tea Party conservatives cherry pick from the Founding Fathers. Many of their myths debunked.  Great stuff.13. Solid conclusions.  "Their real legacy to us is a political system--a system of disagreement, debate, and compromise--that has kept democracy vibrant in America for more than two hundred years."14. The problem with proof texting. "Proof texting sometimes looks like scholarship, but it is a fundamentally different operation. Scholars draw conclusions from their research; proof texters draw research from their conclusions."15. An excellent discussion on original intent. " One of my primary assertions in this book is that original intent, while a reasonable strategy for understanding the meaning of literature, is a spectacularly bad standard for interpreting the law of the land."16. The issue of slavery and how it relates to state rights or wrongs.  "More than any other issue in American history, slavery demonstrates the validity of Madison's most important contribution to political theory: that small political bodies, such as states, pose a greater risk to freedom than large nations."17.  A great discussion on the three most important controversies involving Hamilton and Jefferson.18. The dangers of the Grover Norquist's tax pledge.  Just the facts please and Austin delivers. "Economists and analysts from across the political spectrum believe the debt crisis can only be solved with both entitlement reforms and tax increases, and, by a margin of almost two to one, the American people agree."19. The senseless war on the federal judiciary.  "The Supreme Court has a great deal of power today, but only because the other branches of government--and the majority of the American people--recognize it as the legitimate final authority on what the Constitution means."20. Find out what mattered most to the Founders...something they can all on agree on.21. Excellent supporting appendices.22. Notes included.Negatives:1. The kindle version loses something in formatting.  Charts didn't translate as well.2. A bit repetitive.In summary, I really enjoyed reading this book.  It's refreshing to read an even-handed book with integrity on this important topic.  Austin deserves credit for his exhaustive research and for debunking many of the myths advocated by the extreme right.  As the author so eloquently stated, "The purpose of this book is to call out the incoherence of the right wing's historical narrative. To do this, I will examine some of the most significant debates that the Founders themselves participated in--debates that conservative extremists almost always ignore because they contradict the golden-age myth their rhetoric requires."  Mission accomplished, get this book!Further recommendations:  "That's Not What They Meant About Guns!" by the same author, "Wrapped in the Flag: A Personal History of America's Radical Right" by Claire Conner, "Birth Control, Insurance Coverage, and the Religious Right" by A.F. Alexander, "The Conservative Assault on the Constitution" by Erwin Chemerinsky, "Congress Shall Make No Law" by Robert Boston, "The Oath: The Obama White House and The Supreme Court" by Jeffrey Toobin, "My Beloved World" by Sonia Sotomayor, "Rights from Wrongs: A Secular Theory of the Origins of Rights" by Alan Dershowitz, "Constitution" by shmoop Civics Series, and "America's Unwritten Constitution: The Precedents and Principles We Live By" and "The Bill of Rights: Creation and Reconstruction" by Akhil Reed Amar. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I've been wishing someone would write this book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Every time someone makes a claim about what &#34;is in the constitution&#34; I find myself wishing that someone would actually fact check that.  Michael Austin has done that.  Bless his heart! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> You want original sources, they're in here </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great analysis with plenty of material from original sources. Well-balanced and well written. If you're tired of hearing opinions about what the Founders meant, this book will show you what they actually said. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a book for our times </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-07-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I take an amateur's interest in U.S. constitutional history--add that to years of becoming increasingly frustrated at the way the framers of the Constitution (or their words, anyway) are violated to prove that the country is in a sinkhole of ruin, and you can bet this book hit a really sweet spot for me. Austin does a brilliant job of illustrating how easy/sleazy it is to cherry pick one's way through the Federalist Papers and contemporary writings to arrive at a political position, and how dishonest the bad habit of proof-texting is. In fact, this was the most effective part of the book for me (Chapter Four might make good required reading for aspiring scholars everywhere). In an age when going to the source has never been easier, deliberately ignoring historical context when creating an argument about what the Founders meant is sort of pathetic. As Homer Simpson said, they have the Internet on computers now. You can't just present a pastiche of quotes in lieu of a coherent argument about, for example, what the Founders thought of limited government, and get away with it. I mean, people do, and they have shockingly large audiences, but Austin will hold your feet to the fire if you try it.I enjoyed the conversational tone of the book. It's a fast read (186 pages without the indices) and fairly succinct in terms of its treatment of enormous issues like original intent and judicial review, which is part of its appeal. Austin doesn't need to exhaust the reader or the subject to make his point that the Founding Fathers were no more a monolithic band of amiable yeomen with identical opinions than are today's politicos. They had brutal differences among themselves. And yet they had to do the horrible but necessary thing: compromise. This book is a superb reminder that we do, too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sorting through the rhetoric from America's right wing </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Over the years, different political factions have tried to claim the Founding Fathers as their own, saying that their views align perfectly with those of the men who founded America, and clearly anyone who disagrees with them (and therefore the Framers) is unpatriotic and just plain wrong. What so many people don't seem to realize is that Founders were not a homogeneous group; they were a diverse group of men who did not agree on everything, and thus anybody willing to do a little research can find quotes from that era that show how the Founders agreed with them. The Founders argued and fought and eventually compromised their way to the Constitution that still guides us today as we govern ourselves. Austin shows that our government works because we don't agree and are forced to compromise on the issues we are passionate about. In "That's Not What They Meant!" he explores such topics as "original intent" (and why he thinks it's the wrong way to interpret the Constitution); Jefferson vs. Hamilton; the role of the Supreme Court; and state government vs. federal government. Austin himself uses proof-text quotes to show just how diverse of a spectrum the Founders' views covered. His writing primarily focuses on refuting modern right-wing writings, but only because conservatives are the ones currently using the Founders to prove that they (and only they) are true Americans. This could be one of the most important books written in recent years on the subject of Constitutional interpretation. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sophomoric Sophistry </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book purports to be about what what the Fathers 'really' meant when they wrote the Constitution. It is more a deconstruction of the Constitution than anything else. like Lewis Carroll's Humpty Dumpty, to this egg-head, words mean precisely what he chooses them to mean--neither more nor less.Consider that the Founders had been laboring under an inadequate Articles of Confederation for the previous 4 years, had been at war for the 8 previous to that and i the ten years before the Revolution, had gone from a pretty much Laissez-faire environment to what we would now call a police state.The Second Amendment, the current target of this administration, was not just a licence for anyone to have any weapon he chose. It was a call for every citizen to be trained in the use of a weapon to defend his home against those who would plunder it, and the discipline to use that weapon wisely. Freedom depends on an informed, self-controlled populace. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a good review of the founders from Dr. Pangloss </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-13-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> If the author had kept his opinions of the current state of our republic to himself I would have given this 5 stars.He quite frequently uses words like best, greatest, genius, etc. to describe what is merely adequate. This author buys into American exceptionalism totally and completely.The author makes it clear that this is a book "reclaiming the Founding Fathers from America's right wing" but he cannot help but take pot shots at far-left straw men whose opinions never actually appear and are attributed to no one. We are left knowing only that "the far-left" terribly abuses the Founding Fathers in some vague and unspecified manner thus proving the author is non-partisan.If you can ignore the authors claims about how great the American Republic is, that gridlock signifies how things are supposed to work (yes he states that quite clearly) and just focus on his claims concerning the historical context in which the US Constitution was constructed and how the far-right horribly distorts history to their own ends you might enjoy the book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Countering Freeper Nonsense </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have not read this book. Just 5 starts to counter the Freepers who haven't read it either.  If they hate it must be something very good about it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pop Culture Beware </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Mr. Austin succeeds in showing unequivocally that the shrill blare of right-wing radio is also turgidly dumb, that it really is a religion in which authentic historical discourse doesn't count for much. The book demonstrates that it is simply FALSE that the consensus of the founding fathers as expressed in the Constitution is the government which governs best is the government that governs least.  This position was actually the prevailing idea of those who voted against the acceptance of the Constitution and revered the Articles of Confederation. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> learning to Think </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-10-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this book because I've always been interested in what our founding fathers thought. The author explains how the Tea Party and right-wingers put words in the mouths of our founders. In doing so, he teaches us all how to think; he provides a host of information for those of us who don't want to fall into the same trap. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> That's Not What They Meant! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I intended to buy this for the Kindle but the first time I tried it didn't appear on the book list. I knew Amazon warns you if you try to order a book you already have, so I ordered it again. This time it did show on the Kindle, so I thought everything was OK.  Later a hard copy arrived in the mail.  Evidently the first attempt resulted in the purchase of a hard copy.  I would have returned it, but that is more trouble than it is worth.However, the book was all I that expected, and hence the 5 star rating! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> About what they really meant </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-21-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The book is much more complex than the short summary, and much broader.  It is not so much a refutation of the right wing as it is a clarification of the complexity of what the founding fathers meant -- because they did not have a unified voice or meaning.  The book explores the broad range of intent, desire and purpose that went into the constitution and the founding of America and is clear about the many voices that existed and that exist.  Reading the book is an excellent place to start, the sort of thing every high school student should be reading to understand the reality behind the Constitution and the founding of the United States of America, in the proper context.The writing style is clear and direct, the information well presented.  This is readable and approachable without being overly simplistic.  The agenda of the book is far less intrusive than it would appear from the title or the cover, the depth far deeper and well rounded than one might expect from a "refutation" or a "reclamation."I gave a number of copies away for Christmas, and I'm a conservative with a son-in-law that voted for Ron Paul and a wife who saw Romney as a compromise (albeit a good man, but she considers the current president a good man too).If you have ever wondered about the basis for the social contract that is America, been curious about just who the founders were or what they were trying to accomplish or what they meant, tried to understand some of the debates that have circled around the history and the theories of the law and what the Constitution should mean, or even just wanted to be informed and to be a real citizen of the United States, this is a book you should read, and it is a book you can read and understand without being excessively simple, shallow or contrived.Extremely well done, and worth having done. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fair and Balanced </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> First of all, I'd like to thank all the brainless morons who gave this book one star for encouraging me to purchase this book. I'm sure those people's contribution to the United States' intellectual prowess will be noted. Let's hope it is noted with two flushes of a toilet, which is what it deserves -- two flushes to make sure their crap is thoroughly removed.I'm giving this five stars to balance out some of those who one-star bombed this work.Odd, isn't it, how all those mother-freakers (and I say mother-freakers because Amazon won't let me use the actual word, but you know what it is) decided to simultaneously come online -- 14 out of 20 were dated Dec. 8 and one Dec. 9 -- and pan a book they haven't read? It's almost like someone is telling them what to think and do.Full disclosure: I just purchased it, so when I work my way around to it I will come back and give it an actual review. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Re-Constituting America </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> "Falsifiability at its Finest" - Michael Austin's Progressive Interpretation of "What the The Founding Fathers Meant".A poor man's "Cliff Notes, (No disrespect to Cliff Notes).An irresponsible work or art. He is quoting "Glenn Beck"??Best to be read by all to demonstrate how the Education System in America hires only their own.Please read "Dale Carnegie". How to Make Friends and Influence People.OK. I'm Done!  Wow. What a Rush </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Lefty's Guide to Distorting the Constitution </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The author is a lefty whose agenda is to distort and transform the words of the Founding Fathers to fulfill his own socialist and atheistic agenda. Austin has a long history of text torturing and manipulation of the foundational roots of the United States. I purchased this book with the goal of gaining insights into Washington, Jefferson, and Madison, and consider this to have been a complete waste. Avoid this loser. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Lousy Christmas Gift </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I received this book from a well meaning relative for Christmas.  I have read it.  I wish I hadn't.  But, it was like a train wreck.  You can't simply drive by without slowing down and looking from start to finish at the devastation.  I wonder if Mr. Beck has read the book?  The book seems to border on libel in a few locations, especially with respect to Mr. Beck.  Well, I hope I can get my money back or at least trade it for another book.  Sincerely wish that the author wasn't a professor filling our kid's heads with this drivel.  Next year I'm getting the relative who got this for me something very special for Christmas...like a cactus. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

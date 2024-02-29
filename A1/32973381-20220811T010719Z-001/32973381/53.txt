@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B002KNT0M4 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-12-2010  
+<h2> review.text </h2>
+
+ <p> If you have not purchased this device, I recommend looking elsewhere.  If you already have it--or you buy things in the face of one or two negative reviews--you should read on.This GPS holder has two ball and socket connections.  One is secured by a plastic nut.  The other is just a snap in socket much like the one on your windshield GPS holder.  The bottom ball/socket is secure enough.  The top one is not.  After a few weeks of use, mine this morning popped loose and the GPS went to the pavement, shattering the LCD display.  In retrospect, if I had known, I would have secured the upper ball and socket with superglue or epoxy.  You still have the lower ball and the handlebar attachment you can adjust.When I bought this, my fear was that the clip that holds the GPS unit was risky.  As it turned out, that part of the bracket is OK.  That top socket, though, is really weak. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CAUTION...PLEASE READ THIS BEFORE YOU BUY </p>
+
+
+<h2> review.date </h2>
+  03-26-2010  
+<h2> review.text </h2>
+
+ <p> Although I've only placed this on my 1998 BMW R1200C and have yet to test it out, I'm sure it's going to work just fine!  I like the convenience of being able to remove it quickly.The speedy delivery was also awesome! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Happy </p>
+
+
+<h2> review.date </h2>
+  04-04-2010  
+<h2> review.text </h2>
+
+ <p> I have only used the Nuvi motorcycle mount once - on a 2 hour ride, but it performed very well. I have a Harley-Davidson Dyna Wide Glide and the handle bar diameter is too large for other mounts I have tried. Being a Harley, my bike has a good bit of vibration, but the mount stayed in place. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lightweight but does the job </p>
+
+
+<h2> review.date </h2>
+  12-23-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this for use on my motorcycle and it works great.  It holds my GPS in place and that's what I was hoping for. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great on my Harley. </p>
+
+
+<h2> review.date </h2>
+  04-15-2011  
+<h2> review.text </h2>
+
+ <p> I use this on my bicycle and it does a good job. The bouncing on the bike does move the GPS bracket on occasions. Recommend using electrical tape on the handle bars then adding the bracket.Update 3/21/12: The plastic "pull strap" broke and the unit is now scrap. What a shame. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Addition </p>
+
+
+<h2> review.date </h2>
+  04-25-2010  
+<h2> review.text </h2>
+
+ <p> Excellent product. Quality made and really holds the unit well. I would recommend it over all others that I've used </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GPS Bike Mount </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> This product is OK&#8230;but the actual GPS holder was designed for an automobile, not a bicycle&#8230;See your competition's version&#8230;made by Garmin for Garmin&#8230;It is far superior then the version you are selling and may also have been cheaper. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Holder Issues </p>
+
+
+<h2> review.date </h2>
+  01-01-2012  
+<h2> review.text </h2>
+
+ <p> I drive a full dress Harley Davidson and this mount keeps my GPS right where I want it and can withstand the vibration when I am idling.  It is a great product and seller. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Garmin Motorcycle mount </p>
+
+
+<h2> review.date </h2>
+  06-05-2014  
+<h2> review.text </h2>
+
+ <p> To trust your expensive Garmin on a motorcycle mount posses some serious issues, at least it did with me.  But even though my Harley will vibrate your brains loose, the Garmin stays put.  Great product and a smart price as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product </p>
+
+
+<h2> review.date </h2>
+  02-13-2013  
+<h2> review.text </h2>
+
+ <p> In my country the roads are really bumpy. Never had a problem with my Bracket and my GPS Garmin N&uuml;vi 205W. Always in place. I recommend it!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Raelly nice! </p>
+
+
+<h2> review.date </h2>
+  03-20-2010  
+<h2> review.text </h2>
+
+ <p> I have tried this mount on my mountain bike just once. So far, the mount works great. It holds the GPS unit in place even on a bumpy ride. Hopefully, it'll work that way consistently. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> With just limited # of time use, works fine so far! </p>
+
+
+<h2> review.date </h2>
+  07-07-2010  
+<h2> review.text </h2>
+
+ <p> I used this mount on a recent 225 mile ride to northern Michigan on a Kawasaki dual purpose motorcycle.  This trip was on paved roads where the speed limits were 60 mph and below.  This mount performed flawlessly.  I mounted it on the left handlebar at about the same angle as my instrument cluster.  To help keep the mount in place, I put a single layer of duct tape around the handlebar under the mount.  The duct tape is a tackier surface than the handlebar and gives the rubber on the mount something to grip on to.  I learned this trick from devices I have mounted on my mountain bike.  Pulling the strap extra tight and then locking the one ball joint in place, the other ball joint allows some movement of the GPS to adjust for glare.  On the entire trip to northern Michigan and back, the mount and the GPS did not budge.  It was awesome.  If you've ever traveled Michigan roads, you know that there are some parts where the pavement is buckled and you can get some pretty jarring hits that send you up off the motorcycle saddle.  None of these affected this mount.  I was so impressed, that I am ordering another one for my mountain bike. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for both a motorcycle and mountain bike </p>
+
+
+<h2> review.date </h2>
+  02-12-2011  
+<h2> review.text </h2>
+
+ <p> I'm using this to mount my Garmin Nuvi on the handlebars of my '06 Yamaha Road Warrior.  So far it's managed to stay put and the nav has yet to pop off or move around.  I'm very happy.  Plus, it's easy to remove so someone won't steal it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works like a charm! </p>
+
+
+<h2> review.date </h2>
+  01-09-2014  
+<h2> review.text </h2>
+
+ <p> I've been using this bike mount for two years now, so maybe it's time to post my comments. It works well. I've used it with three different Garmin Nuvi GPSs at this point, with no problem. Different Nuvis use different sized brackets, but that's not a problem. Simply take the bracket that came with your GPS and snap it onto the ball of this mount, and it'll work fine.I did find a deficiency with the product. The unit attaches to your handlebar via a piece of flexible grooved rubber that wraps around the handlebar. Eventually the grooves wear out and the mount will no longer stay in place. That's a bit annoying. HOWEVER, there is a fix for the problem. When the rubber wrap ceased to hold, I simply cut it off, slipped a metal hose clamp into its place, and tightened down the hose clamp. Problem permanently solved.I give the mount four stars instead of five because I had to jury rig the fix described above. The manufacturer should use better material for the handlebar wrap. Otherwise, it's a great little gizmo. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Good - needs a little improvement </p>
+
+
+<h2> review.date </h2>
+  10-20-2012  
+<h2> review.text </h2>
+
+ <p> I know that there are a lot of mounts that can't accommodate larger handlebar diameters, but only get mounts that screw into place to keep them there.  You will break the thumb pull before you are able to tighten the grip enough.Not only that, but the GPS attachment doesn't stay on, either. You will hit a bump, the attachment will pop off, and your GPS will go flying.This mount is only for use where the roads are perfectly smooth, with no potholes or cracks.  My advice: keep looking. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doesn't stay in place </p>
+
+
+<h2> review.date </h2>
+  02-06-2011  
+<h2> review.text </h2>
+
+ <p> I wanted something that would allow me to use the GPS on my bike. This one is simple and cheap enough for that. The only glitch is that the mount will not hold on to the handlebar firmly - too thin. So I had to improvise a rubber ring from some other bike accessory. But after that, it worked fine keeping the GPS in place. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine for bikes </p>
+
+
+<h2> review.date </h2>
+  07-03-2010  
+<h2> review.text </h2>
+
+ <p> I used this mount to mount my Garmin 205W on the handlebars of a Dehon foldable bike (without front suspension).  I really dig the price, but the mount is not as solid as I would have hoped.  You would be CRAZY to use this mount to mount a GPS on the handlebars of a Harley at highway speeds.  My max speeds approach only 20mph and I had to adjust the mount several times during a 2-mile road.  I'll keep it, but only because it's better than my previous mount: A bungee cord and a soft rag. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice price, but not rock-solid </p>
+
+
+<h2> review.date </h2>
+  12-03-2012  
+<h2> review.text </h2>
+
+ <p> Works well and I use it daily on my motorcycle to hold my GPS to the handle bars. Its very secure but I did have to add a small pcs of  rubber between the bars and the connector to keep it from slipping around... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works well use it all the time on my Motorcycle </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B009Z5UGXM <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-17-2013  
+<h2> review.text </h2>
+
+ <p> Great story about the early days of the British Special Forces.  Rough humor, give not quarter and none expected.  No gratuitous sex involved, but kindness and humor found when there is a rest time between operations.  As an ex-GI with 40+ years in the military, I enjoyed the ride. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Train, a WW II novel. </p>
+
+
+<h2> review.date </h2>
+  07-30-2013  
+<h2> review.text </h2>
+
+ <p> A tale of one group of French resistance fighters during WWII, their efforts to take out a train of German soldiers and equioment, and the resulting reprisals by the Nazis.Though fiction, based on some truths in the war.The story is a bridge netween his Commando novel and the next one to come, though it's not necessary to have read the novel to enjoy this tale. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WW II, A Tale of The Resistance </p>
+
+
+<h2> review.date </h2>
+  02-19-2014  
+<h2> review.text </h2>
+
+ <p> A good story respecting the atmosphere of the wartime France. I might download another fiction by Mr Badelaire. I prefer non-fiction, anyway.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good read </p>
+
+
+<h2> review.date </h2>
+  11-05-2012  
+<h2> review.text </h2>
+
+ <p> This is a short story that tides one over until Badelaire's next Commando novel comes out; it provides a bit more information on some of the characters previously met inCOMMANDO: Operation Arrowheadas well as maybe gives a hint of what will be seen in the next Commando novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Superb Short </p>
+
+
+<h2> review.date </h2>
+  09-21-2013  
+<h2> review.text </h2>
+
+ <p> Great read.  Jack has a knack for keeping a story moving a long.  Very good character development.  Waiting for his next book.  Wouldn't miss it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> gripping action </p>
+
+
+<h2> review.date </h2>
+  01-02-2014  
+<h2> review.text </h2>
+
+ <p> Although this was essentially a single chapter or a short story, I really did enjoy the read. I like this era -- WWII France and the resistance in the countryside [the French Maquis]. Although i enjoyed the chapter/story, I felt something was missing. Perhaps Badelaire needs to read more about the era to really &#34;feel&#34; for it and to be able to transfer that emotion to the written page. Also, he could stand some help with his book cover. Here are some tips. This looks a bit home made. There are excellent sites where one can purchase [for a minimal fee] a good stock photo. The colors don't draw me in either. Gray, black, white, red spell danger, but the graphics can stand sharper images and a more engaging singular image [not RR tracks]-- that says ... READ ME!!! Also too much text on the cover. It confuses the reader. A quick look makes the prospective buyer ask what the name of the book is.  Is it &#34;Commando&#34;, or &#34;Resistance&#34; or &#34;The Train to Calais?&#34;  Then the author's name is too tiny.  Otherwise, a good, young writer on his way up the proverbial ladder! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good sample chapter </p>
+
+
+<h2> review.date </h2>
+  03-15-2013  
+<h2> review.text </h2>
+
+ <p> "The Train to Calais" is a WWII short story by author Jack Badelaire. This Kindle e-book was a 175 Kb download (approx. 25 printed pages) and sold for $0.99 at the time of writing this review.Spoilers (general theme)It's June 1941 in Nazi occupied northern France. Our story involves a small band of French resistance fighters and their attempt to attack a troop train heading to the northern coast at Calais.End SpoilersSome thoughts on "The Train to Calais"... may contain some &lt; spoilers> as well.1.) a short, well written and thought provoking WWII story.2.) some interesting personalities within the small band of partisans.3.) the steady ratcheting up of the tension as the train approaches the ambush point was particularly well done.4.) the tale seemed to be able to capture, through the intimate discussions of our group, the feelings and attitudes of both the German occupiers and the average French citizens who lived under their oppressive rule.5.) an ending that while not unexpected, was still emotionally shocking. A situation that the saboteurs must realized might happen before their attack, and then would have to live with the rest of their lives.6.) my only concern for this work was that some of the conversations between members of our party felt somewhat contrived and maybe even a little forced. Almost like the dialogues were intentional geared to promote the setting, rather than the other way round.Conclusion:An intriguing fictional WWII vignette detailing one isolated incident in Nazi occupied France during the summer of 41.As it is... 4 1/2 Stars.Ray Nicholsonraynicholsonsreviews@hotmail.com </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An exciting and tense WWII train ambush... 4 1/2 Stars </p>
+
+
+<h2> review.date </h2>
+  11-29-2013  
+<h2> review.text </h2>
+
+ <p> Tells the story of the resistance in a quick fashion depicting the daily deli as of choices and consequences of those choices. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> quick easy read </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> A great short story about the reality of war and the incredible resistance members who fought withe heart & soul to save the people and country. They often lost there own life  to help complete stranger to safetyWell written </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Good </p>
+
+
+<h2> review.date </h2>
+  06-20-2013  
+<h2> review.text </h2>
+
+ <p> This adds to the story line and makes the next book more understandable. However, I believe the next includes this in the start. I recommend you get samples of this one and the next and compare them. I thinkmyou can save 99 cents this way </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good transition book for the series </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

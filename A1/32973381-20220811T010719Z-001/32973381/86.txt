@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004BDOGSO <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-15-2011  
+<h2> review.text </h2>
+
+ <p> I bought this case for my gaming build and it's great! Stylish and good quality! Never had a problem with it and it was really easy to build in. I recommend this to anyone! It arrived in perfect condition from halfway across the country! Thanks Amazon! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it! </p>
+
+
+<h2> review.date </h2>
+  10-12-2011  
+<h2> review.text </h2>
+
+ <p> As many of you I bought this case for it's impressive cooling performance. I installed my system in the case with an aftermarket CPU cooler and 2 Nvidia GTX 570 graphics cards.This case simply cannot adequately handle the heat buildup between the two SLI cards of this magnitude. My top card was constantly hitting 93 degrees Celsius on 3dMark 11 with the graphics cards fans maxing out. Needless to say this ruled out any overclocking of the video cards. The rest of the system was decently cool, but I believe the problem stems from the motherboard being placed so far above the bottom mounted fans that the air just doesn't flow fast enough in between the two SLI cards.I just switched cases to the Cooler Master HAF X and see a HUGE improvement in my graphics cards temperatures. Idle temperatures are about the same, but my 3dMark 11 temperatures dropped from 93 degrees Celsius to 82 degrees Celsius with graphics fans at 60%!If you are building a high end SLI system this case does not have enough cooling. This case is only adequate for a single card set-up or perhaps a medium build SLI set-up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good case, but not for SLI </p>
+
+
+<h2> review.date </h2>
+  02-17-2011  
+<h2> review.text </h2>
+
+ <p> This is without doubt the easiest case I've ever worked with.  SilverStone has definitely put a lot of thought into how to make life easier for system builders.  Some of the advantages:1) The fans are all pre-wired and come with really long cables so that you won't have any trouble connecting them to your motherboard.  There's also a panel on top of the case that has speed switches for all the included fans.  By the way, all intakes also have removable filters over them for easy cleaning.2) The 5 1/2" drive slots have plastic covers that clamp directly to the case.  This means you can remove one from the middle and not have the others slide down.  There are also no metal plates behind them to make opening a slot a royal pain or cut your fingers.3) There's an astonishing amount of room behind the motherboard and ample holes surrounding the board.  This makes it very easy to route all your cables behind the motherboard.  In most cases, I was able to connect a cable with about a half inch of cable visible from the front of the system.  This makes cable management a dream and helps your system stay cooler.4) They included all sorts of helpful hardware.  Want to use liquid cooling?  There are brackets enclosed to attach the radiator directly to two of the 140 mm bottom fans.  Want to use an SSD?  A bracket is included for that and mounts behind the drive bays where it's out of the way.  There are also a number of very wide cable ties that slide through special slots on the back of the motherboard, helping make the easy cable management even easier.5) Since the motherboard is rotated 90 degrees (a brilliant innovation in case design that drastically improves airflow and cooling) your various wires and connectors are all going to be on top of the case.  The Raven has extra space up there, topped off with a vented cover so that you can route these wires out the back.  An improvement in the Raven 2 vs. the original Raven is that the motherboard is also actually dropped down about 2 1/2 inches from where you would expect it to be, with indentations for where the expansion slots and I/O plate go.  The end result is that you have a solid 4-5 inches to work with before the cable has to bend in order to feed out the back.  This makes the case much more compatible with the cable adapters that you might occasionally need.6) The side panels are very, very easy to remove and put back on.7) I doubt there is a power supply made that won't fit in this case.  It can accommodate way more length than my 1200 watt PSU.  The PSU can also be rotated 180 degrees.  The end result is that whether your PSU has its air intake on the top, bottom, or back end the Raven case will allow you to orient the supply so as to get the best air inflow.At the end of the day, this case provides exceptional cooling and runs very quietly.  You will get noise from your graphics cards, of course.  There's really no way around that.  But because air flowing through the system only passes one hot component before exiting the case the cards stay cooler and that means that their fans don't need to work as hard.  This results in them being quieter.I have definitely found my new favorite case.  On top of that it pairs exceptionally well with the Rampage 3 motherboard due to the fact that this board puts dual SLI graphics cards in the #1 and #3 slots rather than #1 and #2.  The extra space between those cards then means that they don't heat each other up and can really benefit from the enhanced airflow of the Raven case.Update:Now that I've finished building my system and have had the opportunity to do some benchmarking and high-end gaming I am even more impressed.  As others have noticed, the thermals for the Raven are absolutely amazing.My new system replaces one I'd had built and then returned to the manufacturer due to hardware issues.  That system had used theAntec High-End Performance Case P183 V3andASUS P6X58D Premium - LGA 1366 - X58 - DDR3 - USB 3.0 SATA 6 Gb/s - ATX Motherboardwhich I changed out on this new system with the Raven 2 case and theASUS LGA 1366 - Intel X58 - Republic of Gamers - ATX Motherboard Rampage III Extrememotherboard (which is very unusual in that it doesn't put the graphics cards right next to each other when running two-way SLI -- a very smart move.The Antec case is very well known for being a quiet machine and indeed when it was at idle it was completely silent.  The Raven is able to be heard at idle, even from a few feet away.  It's very quiet (more so than my last two computers, in fact) but you know it's running.  The story changes when you actually start gaming, though!  With the P183 case the other board my GPU's were hitting as high as 97C, making the fans speed up to 87%.  This made it a fairly loud system, easily able to be heard over my games.By comparison, the GPU's in the Raven case never got over 68C and the fans topped out at 69%.  I can't hear the system over my game at all.  (I have the fan switches all set to the "low" setting, by the way.  Setting them to high would undoubtedly keep the system even cooler when gaming, but it's extra noise that I don't want the rest of the time.)  So when it matters, the Raven 2 case is actually quieter than one supposedly built for quiet!SilverStone has an absolute winner with the Raven 2.  I could not be happier.  It's easier on my ears and because everything runs so much cooler I expect the components to last a lot longer as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to Work With </p>
+
+
+<h2> review.date </h2>
+  01-09-2011  
+<h2> review.text </h2>
+
+ <p> First off I would like to say that I really wanted to love this case.  It has everything that I was looking for: cable management, room to expand, attractive design, side window, and above all EXCELLENT cooling ability.  If you are considering this case then you probably have it narrowed down to this and the FT02.  Both are the same internally with the only 2 main differences being that the FT02 has sound reduction material and more rigidity (more metal and less plastic than this case).  I chose this case over the FT02 for 2 reasons:1. Probably the biggest source of noise in a air cooled case is the fans.  Sound reduction foam can reduce some of the ambient noise such as vibration.  However, considering that the fans are actually sitting on open spaces makes it useless.  It would be like sound proofing a room and then opening the door and putting a speaker in front of it.2. Price, this case was expensive enough as it is!  $50 for just a little bit more metal wasn't worth it to me.There are plenty of raving (no pun intended) reviews, so I won't repeat...this IS a great case (I gave it 5 stars)!  I am just offering some things to think about.  My problem is that I have been building computers for over 20 years.  During that time, I have noticed that build quality has been going downhill.  This is one of those instances where they should have made it more rigid.  The size and weight of this case is really high.  If the sides of the case are off (during a build, etc) and you DON'T "square your shoulders" before picking it up, the frame will twist/bend slightly.  This is also why I think using screws to attach the side panels instead of a quick release is a good idea, it adds to the stability.  Don't get me wrong, the frame IS solid.  But if you plan to move this computer a lot for LAN parties etc, you may want to keep it in mind.One other thing I don't care for are the plastic drive bays, they are a bit flimsy.  For this price they should be metal (or at least a better quality plastic).  The added rubber grommets make it a tight fit and will fold over when you insert your hard drive.  So for that reason I guess it's a good thing the drive bays bend.  It made it easy install the drive.Now for the part I LOVE!  ...The Raven 2's claim to fame is it's ability to cool.  And WOW does it ever do a great job!  My old case was a basic push/pull system with 2 - 120mm fans (one in front and back).  I'll just let the numbers speak for themselves.  These are my typical system temps at idle...MB  - went from 36c to 28cCPU - went from 42c to 34c  (usingCorsair Cooling Hydro Series H50 All in One High-performance CPU Cooler CWCH50-1on both old computer and new)NB  - went from 54c to 44cSB  - went from 47c to 38cGPU - went from 49c to 42cThe 180mm fans are HUGE!!  They are not silent, but they are very quiet.  I use theScythe "KAZE MASTER ACE " 5.25" Bay Fan Controller- Black (KM02-BK)to control the fan speed.Overall this is a really nice case... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One "cool" case! </p>
+
+
+<h2> review.date </h2>
+  12-09-2012  
+<h2> review.text </h2>
+
+ <p> Loved the common sense used in this case for airflow/heat management.  The cables coming out the top versus the back can lead to some problems on cable length but nothing that cannot be adapted to.  She runs cool and VERY quiet.  Cable management is good.  The only real beef I had with this case was putting the window on the wrong side.  Obviously not enough of a beef for me not to buy it though.  :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Different is good  :) </p>
+
+
+<h2> review.date </h2>
+  12-08-2010  
+<h2> review.text </h2>
+
+ <p> just got it on December 7th and i have to say pictures don't do this bad boy justice the case is massive and its VERY long. It has more than enough room to water cool and the addition of the new HDD hots-swap rack is one of the best parts of the case, excluding the new AP181 Fans. Im one of the lucky ones that ordered this thing fast and got it for $168.99 seeing it now for $178.99 makes me realize it was TOTALLY worth the money. i will write a more in-depth review when i start the new build. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This thing is awesome </p>
+
+
+<h2> review.date </h2>
+  04-26-2011  
+<h2> review.text </h2>
+
+ <p> I really love this case.  Amazing cooling, unusual design, very well thought out.  The 180mm fans line the entire bottom of the case, pushing cool air straight through to an unobstructed grill across the top.  My MB has never seen temps above 27 deg C.  I am a super nerd and have run all my cables through the side panel behind the MB for a clean look and great air flow.  The different orientation of the MB is really nice, rotated 90 deg from the usual arrangement with the IO panel on the back.  The Raven has the IO panel at the top of the case.  This is a much better set up, makes accessing these cables much easier.issues i have with this case are not deal breakers but I feel that they should be mentioned:1.  the space between the side panel and the back of the MB is very tight.  It would have been more convenient for running cables if they had just made this space 1/4" wider, 1/2" extra would have been luxurious.  Having said this I was able to make it work, but getting all the cables behind the back panel so they sit flat in place, was a test of my super nerd powers.2.  there is a cutout on the MB tray for access to the back of the MB at the CPU.  This allows you to put an after market cooler bracket on the back of the MB with out removing/dissasembling your computer.  Unfortunately the cut out is small and did not line properly with my ASUS P8P67 Deluxe MB CPU.  This turned out to not be a big deal for me because i was building my system and put the bracket on before mounting the MB to its tray.3.  Not great buttons, bad quality and bad location, so i put Lamptron vandal proof led buttons on the front for power and reset (super nerd)These are small issues would not prevent me from buying this case again.  No regrets or remorse with this one.  It truely made for a beautiful build.core i5 2500K, ASUS P8P67 Delux, 16 gigs gskill sniper ram, OCZ Vertex 2 SSD, 1Tb WD HD, MSI N560GTX twin frozer II OC, Corsair H60 cooler, Ultra X4 850w power supply, Silverstone Raven 2EW </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best case I have seen, almost perfect </p>
+
+
+<h2> review.date </h2>
+  11-02-2012  
+<h2> review.text </h2>
+
+ <p> I absolutely love the rotated mobo arrangement.  Whoever decided it was a good idea to put the bulk of a computers plug-in ports at the back of the tower (which is typically tucked into some hard-to-reach corner) clearly didn't think things through.  I run a ton of components into my machine, and I'm often unplugging one item and swapping in another.  The top access to the mobo has made it 10x easier to switch back and forth between external components.  For that reason alone, I would recommend this case to anyone who needs to access the "back" plate of the mobo very often.The other thing that I was thoroughly impress with is the temperature performance.  My old case was a Raidmax Smilodon, and my CPU was typically running high 40's to low 50's (Celsius), and my GPU was running mid 50's (and the fan was NOT happy about it).  After switching the components over to this case, my temps for all components have dropped about 10 degrees, and I've got no more fan noise issue.  I don't have a dB meter, but the noise level in my office went from a level 3 hurricane to a quiet whisper.Another big plus about this case is its size.  That could also be viewed as a negative, depending on how you look at it or what type of arrangement you have.  LOOK AT THE DIMENSIONS BEFORE YOU BUY.  That's the best advice I can give.  Due to the 90 degree rotation of the mobo, this case is much shorter than a typical full tower, but it's also much deeper.  Unless you've owned a case with a rotated mobo layout, there's a good chance you've never worked with a case with these dimensions before.  The size also allows for some fantastic cable management.  I'm not an expert system builder by any stretch, but this case made it EASY to get a clean look with no cable clutter.Last thing, if you actually have a use for the hot swap bays, they are fantastic.  I have a ton of digital content due to being in the photography and videography business.  Rather than using external drives to store my data, I just use the hot swap bays, which saves a bit of time on data transfer speeds (vs USB), reduces clutter, and saves money (internal drives are typically cheaper than external).This is easily the best case I've ever owned, and I would highly recommend it if you've got the room. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Case I've Ever Used </p>
+
+
+<h2> review.date </h2>
+  10-03-2011  
+<h2> review.text </h2>
+
+ <p> First off, this item is packaged great, a little difficult to extricate but undamaged so thats a plus. The case has two big fans on the bottom with vent covers that slide underneth them. There are also some smaller fans. This beast won't over heat at least I fail to see how it ever could. The case is rock solid, built like a tank. I will have this thing for a long time. The side panel with the window removes with ease all you need to do is unscrew two things and it slides right out. Easy access to everything. One reviewer said that the directions were not clear. However, I don't find that to be so. My first impression of this case was that the price was a little steep. Well that changed when I opened up this bad boy. The quality, design and mere fact of how cool this thing looks out weighs the price of this case by a long shot. All in all this case is awesome. Great buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Computer Case </p>
+
+
+<h2> review.date </h2>
+  12-01-2012  
+<h2> review.text </h2>
+
+ <p> Simply put, Love this case. Anyone who is tired of having to pull their computer away from the wall to acces the internal components or is looking for a right sideed door case this is a must ecspecially if you like Huge cases. This on is a beast, I love the 90degree mobo offset so all your USB's and monitor cables come out of the top of the case and not behind,simply pull up the stylish vented top cover and there ya go. If you are into hooking up and removing components frequently then just leave the cover off and quick access without straining your neck to look behind your computer to find the correct spot. Aso love the screens under the 3 large adjustable speed bottom intake fans, no more sucking in dust, dog hair, ect into your rig, just open the easy to remove side panel(2 thumb screws) and pull them out one by one to clean. Had to blow out the inside of my system once since I had this case and I live in a very dusty area, my old cases I had to blow out my interior fans atleast twice a month now it just clean 3 screens twice a month.Whatever you have in mind doing to your pc this case can accomodate. Liquid cooling: has radiator brackets included to mount above bottom fans to push and room enough to use 3 120mm fans to pull. Got a large PSU no prob can mount it 2 ways one fan can draw fresh air threw an external vent  or turn it around and draw internal air and help exhaust heat.120mm top mounted exhaust fan to help push out hot air. Video cards mount up and down so no heat pockets can build up under a flat layout and the cool off extremely fast after a full load. Plus fresh air is pumped up directly across them and directly out keeping mine 15-18 degrees cooler under load than a standard mount. Under normal browsing running 2 EVGA GTX580 Classified Ultra's in SLI temp stay at 32-33 degree celcius and under hard gaming running Nvidia Surround across 3x 23&#34; LG Cinema 3D LED Monitors temps get up to 56 degree C. Okay I dont want to write a book here. These cases are just excellent in my opinion. Only downfall is that when running Big Video cards cable management doesnt have enough room to squeeze the extra cables threw and if you are running Quad SLI or 4 cards definately not enough room behind the left side door. Maybe if they was flat cables and not shielded round they might fit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bad to the Bone </p>
+
+
+<h2> review.date </h2>
+  04-27-2011  
+<h2> review.text </h2>
+
+ <p> Well, I received my new Silverstone Raven RV02b-EW PC case Monday afternoon and moved my components into it last night. I started around 6:30p or so and didn't wrap it up until around 1:30a this morning. Given an hour for dinner, that made the gear swap about a 6-hour evolution.Cool stuff I noticed right away is that this case is ROOMY compared to the Antec 900 it is replacing... so much easier to work in. I feel better now about eventually running an SLI setup as this case has much more room, better cable management, and it should run significantly cooler. This case is also significanlty DEEPER than the '900. I also like the way the expansion slots are vertical now. This makes removing and reinstalling the PC's connectors so much easier and convenient. No more having to get behind the case to hook everything up. Now, I just pop the top off and all the connectors are all right there!Stuff I noticed that I didn't like so much, but can live with is how the 3.5" drive bays are oriented. The way the drive cage is configured, I have to put my drives in the bays in a way that makes the 90 degree connectors on my SATA cables face the wrong way. I was also disappointed to learn that my SATA power cable connectors are oriented in the wrong direction as well (because of the orientation of the connector and the way the connectors are daisy-chained, I have to twist the SATA power cable to connect the plugs in the daisy-chain). Since this is more a function of how my cables are constructed, and the fact that you can't see the cables anyway (they're behind the mobo tray), it really isn't that big a deal.Once I got everything installed and checked out the system, I was itching to see if this case cooled any better than my Antec 900. I pleasantly surprised by the difference! My system idle temps decreased by 5C across the board. For those of you into air cooling, 5C is a pretty significant gain in performance. With an ambient room temperature of 20C I got idle temps of 29C-30C in my new case. I'm pretty happy with those temps, considering I'm getting them with an OC of 4.5GHz. While low idle temps are nice, the real test will be with the system under load. I expect the Silverstone's positive pressure "stack cooling" and the massive airflow provided by its three 180mm fans to shine there as well.  Under load the CPU was at 60C (high) and at idle it was at 35C (low).  All in all, I'm VERY pleased with this case an recommend it to anyone looking for roominess and to optimize their air cooling. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An amazing PC case </p>
+
+
+<h2> review.date </h2>
+  07-10-2011  
+<h2> review.text </h2>
+
+ <p> The easiest case I've ever worked in.  Lots of room, clever hard drive bays - they're made of plastic and are accessed on the non Motherboard side of the case. I think there are 6 bays, all individal hard drive holders.  You raise a plastic latch insert the drive and close the latch and your done...No more screws.  I love the window on the Motherboard side of the case allowing a view inside lit in soft blue by the Apollish Fan that comes with the case.  I thought the instructions were poor so I only gave it 4 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A really Big Case </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

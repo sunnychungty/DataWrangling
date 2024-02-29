@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0080ZXA1S <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-22-2012  
+<h2> review.text </h2>
+
+ <p> This book comes with a disclaimer and terms of use. That should have told me right away there were problems. Especially for this portion"he does not warrant or represent at any time that the contents within are accurate due to the rapidly changing nature of the Internet. While all attempts have been made to verify information"What does the internet have to do with insects?  Is that the only place the author researched for this book?  Are all of the photos from free to the public stock?  (a couple of them definitely are, the Goliath from shutterstock and is copyrighted to Kletr)On a book about insects I would expect the author to at least make an attempt to describe the different orders of insects (there are around 30 with 4 being most common, at least according to wikipedia) (see how easy it is to credit a source).  Instead we get one long section on beetles and then little snippets on seemingly random chosen insects.  There is no noticeable method to the organization of the book.As for "Learn To REad" there is nothing inherent in this book that would help a child to learn to read.  i.e. no vocabulary lists, no words to look out for, nothing repetitive.This is the 2nd book that I have downloaded from this series, luckily for free, I do not recommend this book/series for anyone who wants to truly learn about insects. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Is Any of this Original Work? </p>
+
+
+<h2> review.date </h2>
+  05-14-2012  
+<h2> review.text </h2>
+
+ <p> Thank you for providing such nice pictures and information about different kinds of insects.  My boys enjoyed this book and others in the series.  There were very few typos, although I believe one page was repeated. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Engaging book for elementary grades </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> This is a great book for children and adults who want to understand some basic aspects about insect anatomy and want to see lots of good photos. You can also try to identify the unnamed insects. Great parent and child read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Photographs Nature and Science </p>
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> It needs to be more informative, many descriptions are to short and lacking of complementary or explanatory information. Most children will not read a lot of text but helping adults can explain more if they have more information to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It could be better. </p>
+
+
+<h2> review.date </h2>
+  03-16-2013  
+<h2> review.text </h2>
+
+ <p> I have many questions about this book on insects.There are very nice pictures of beetles (for the most part beetles) and other insects but nowhere is credit given to the photographer(s) of the bugs. It seems to me that the pictures and text were gathered from the Internet from many sources and put together in the book. That would be better appreciated if sources were named at the end of the book and credit given to the actual photographers and writers.The pictures are clear and colorful with an abundance of beetles. The text underneath mostly goes with the pictures.But the book isn't broke down into chapters denoting different types of insects. It is just pictures and text with no way of finding a particular insect except by going through the whole book. There is no index at the back of the book either.The book mentions being a "Learn to Read" book but there are lots of difficult words and no reading hints/helps. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Buggy book </p>
+
+
+<h2> review.date </h2>
+  12-20-2012  
+<h2> review.text </h2>
+
+ <p> Not organized. Nice photos, but no real substance to the descriptions.Apparently I must use 9 more words to submit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not organized. </p>
+
+
+<h2> review.date </h2>
+  07-20-2013  
+<h2> review.text </h2>
+
+ <p> CHILDREN WILL LOVE THIS BOOK.THIS BOOK IS SHORT BUT VERY INTERSTING AND FACTUAL.HAS VERY NICE ILLUSTRATIONS.I WOULD RLECOMMEND THIS BOOK TO EVERYONE.CISSYYPL </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short but very interesting </p>
+
+
+<h2> review.date </h2>
+  12-26-2012  
+<h2> review.text </h2>
+
+ <p> My girls love to read about bugs but there are so many more than this book offers.  The kids wanted answers to their questions about many other bugs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too many beetles </p>
+
+
+<h2> review.date </h2>
+  01-23-2013  
+<h2> review.text </h2>
+
+ <p> Well for a 5 year old boy who loves anything creepy this does the job. He picked the book out himself..and has fun scaring this great aunt with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bugs,..Bugs..Bugs..EWE!! </p>
+
+
+<h2> review.date </h2>
+  09-27-2013  
+<h2> review.text </h2>
+
+ <p> As the author ofA, Bee, See: Who are our Pollinators and Why are They in Trouble?I found it to be a good starter book for insect facts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short but interesting </p>
+
+
+<h2> review.date </h2>
+  11-12-2012  
+<h2> review.text </h2>
+
+ <p> Another day, another discovery of someone trying to make a profit off the intellectual property of others. My review for most of these books, when I find them, and when I bother, is mostly the same.  Why? Because with the exception of the titles, and WHICH pictures and sentences they skimmed from the internet, the books are all exactly the same.I discovered this "book" when it was listed, along with fifty other books by the same author (although some of the books list a different author on the inside) as a free resource for homeschooling. I am both a homeschooling mom and a former elementary school teacher with a Master's degree in Literacy, so I'm always interested to see what's out there.This book (and all the other ones in the "series") is nothing more than a collection of pictures skimmed from the internet. Typing "insects" into Google images turns up most of the pictures in this book very quickly, coming from a large variety of websites. The vast majority of pictures in this book are probably being used illegally with no compensation for the owners of the images. (In any case, there are no statements in the book giving credit to the owners of the pictures used, or showing permissions for using them.)Underneath each picture is a random fact about insects. They are not organized in any fashion, and most of them are unrelated to any other information in the book. They are also NOT at a reading level appropriate for early readers, despite the "FOR KIDS! LEARN TO READ!" advertisement on the cover.I suspect these are copied and pasted from somewhere, but I didn't search to find out where. Someone else on a review of one of the books found most of the sentences on Wikipedia.There is no table of contents or any other non-fiction feature you'd want in a children's research book. There is no listing of sources where the facts were obtained.My guess is that these books were copied and pasted together quickly by someone hoping to make a quick dollar off of unsuspecting consumers. (While this book was free when I purchased it, there were MANY books built exactly the same way that had a price tag attached, and I'm sure this book will not always be free.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Copied and Pasted from the internet </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

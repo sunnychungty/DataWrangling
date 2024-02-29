@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B008A36R2Y <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-03-2013  
+<h2> review.text </h2>
+
+ <p> This is an authentic Arduino. I was concerned because it was priced lower than most other vendors, but it is truly authentic and a quality product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Great Price </p>
+
+
+<h2> review.date </h2>
+  04-08-2013  
+<h2> review.text </h2>
+
+ <p> This is the Arudino to get if you want it to be able to act like a keyboard/mouse/joystick when plugged up to a computer. I was able to create software to read joystick style controls, then send out iCade keyboard sequences to an iPad. The standard Arduinos do not have USB &#34;host&#34; support, so their USB port is only a serial port. The Leonardo can be toggled in software so the USB port can appear as a keyboard to the PC/Mac.Note -- this uses a different USB connector than the UNO. My desk is a mess of cables now that I need three types of USB adapters to go to my UNO, Leonardo and Teensy 2.0. Ah, standards. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Like the UNO, but can act as a USB keyboard/mouse/joystick to the computer. </p>
+
+
+<h2> review.date </h2>
+  06-19-2014  
+<h2> review.text </h2>
+
+ <p> This thing is a lot of fun to play with and its pretty powerful, especially for the costs.  It's really well made, I have a few of them and they are built like tanks and you can tell they put a lot of attention to detail into it.  A fun thing to consider is that you can use the USB out to emulate a keyboard, allowing you a lot of options when you're looking for ways to make this interact with existing software. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little box, a lot of fun to play with </p>
+
+
+<h2> review.date </h2>
+  02-11-2013  
+<h2> review.text </h2>
+
+ <p> I have been using this for a while now and I love it.Easy to use, program and VERY versatile!Overall I am very happy with this purchase! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding device! </p>
+
+
+<h2> review.date </h2>
+  10-24-2012  
+<h2> review.text </h2>
+
+ <p> Being a PIC guy I thought I would never buy an Arduino. But the thing is: it is ready. Nothing to design, etch or solder. It simplifies most of your problems... If you need something more from your boards, design one using a PIC24. If you`re considering using something simpler, stick to the arduino.The original board is inexpensive and well built... Deserves a try! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The original, nothing more to say </p>
+
+
+<h2> review.date </h2>
+  12-13-2012  
+<h2> review.text </h2>
+
+ <p> Love this thing.  All of the Arduinos are great products.  This is a genuine arduino Leonardo.  The pre-soldered headers are nice, although if you are decent with a soldering iron, they are 0.1&#34; headers, so it can be done if you already have the headers and order the version without.I have been programming microcontrollers for several years, and the Arduino is a great platform for bringing up a circuit quickly and trying out new concepts, without the fuss of creating a complicated project that is required of other traditionally microcontrollers for programming.  This would make a great gift for someone who loves to play around with electronics, and even those in school looking to get started with electrical concepts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great Arduino </p>
+
+
+<h2> review.date </h2>
+  11-24-2013  
+<h2> review.text </h2>
+
+ <p> I am somewhat torn as to what score to give this item. The first time I ordered from this listing I ended up with a fake arduino with discolored screen printing and bad components that died within a few days. The second time I ordered from this listing I ended up with a good Arduino Leonardo that has been working very well since I received it.In the end this listing is a bit of a gamble and it is hard to guess whether or not you will get a good board. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Buyer Beware </p>
+
+
+<h2> review.date </h2>
+  10-16-2013  
+<h2> review.text </h2>
+
+ <p> So far it has behaved like my DUO when i select the board type to leonardo from the program. Runs all my code and shields the same way so far. Just about what you want to use to interface with your PC i guess. Came in Italian retail packing. Got stickers and a great working board. can handle some high heat devices like adafruit's neopixel shield with just 9V barrel plugged in. Gets real hot itself though too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome, like a Duo. </p>
+
+
+<h2> review.date </h2>
+  04-07-2013  
+<h2> review.text </h2>
+
+ <p> The board comes certified Arduino built in Italy, so it is legit. The boarditselfisamazing. Compared to the bread and butter UNO R3, this board is much smaller of a profile then the UNO. The MicroUSB is so convent and nice to have. It slims down the overall profile of the board and means I now have more options for cables and so forth.The old giant ATMega is gone replaced instead by a much more robust ARM based processor. The chip itself is of the SMD tech, which you can see in they turns of the item. The board came shipped in a little box, but other then that, which isn't about the item and more of shipping/retailer then the board.I would recommend this board as it is the same board as the UNO but half the weight and with more compatibility options. Overall fantastic purchase and I would highly recommend this product to any and all persons interested in the related fields.UPDATE:I have successfully fried this board, rather easily I might add. However! One can not downgrade the product due to user error, and for that I still think the board is amazing. Even though all my digital pins are toast, the MicroUSB connection makes it a hell of a power supply. Just use a wall wart and use the Vin pin or the 3.3V & 5V pins to power your projects. The MircoUSB alone makes the whole product worth it in my opinion. Because I have several devices that utilize the MircoUSB connection, finding a wall wart to power this thing is effortless. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Arduino </p>
+
+
+<h2> review.date </h2>
+  01-16-2013  
+<h2> review.text </h2>
+
+ <p> Each Arduino has its own unique set of features while maintaining the compatibility that defines the Arduino standard.  Leonardo's strong suit, for me, is its ability to communicate with two serial IOs at the same time for a couple of bucks more than the workhorse UNO.  This saves a lot of time when talking to the Arduino thru the USB port and the Arduino talking to another serial device (e.g., a XBee radio) at the same time.  No more plugging and unplugging USB cables every time you want to change a line of code.  WOW! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> IO heaven </p>
+
+
+<h2> review.date </h2>
+  10-25-2013  
+<h2> review.text </h2>
+
+ <p> I bought this (and a few others) for classes and projects in grad school.There was a lot of discussion about counterfeit boards flying around.I want to say that this was neither counterfeit or a problem even thoughit was not bundled in a kit.I have no problems buying - or recommending - these boards. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> worked great </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> You really can't go wrong with a Leonardo board!  It's got the same chip as the 'practice' Esplora board which means built-in USB HID capabilities!  I've replaced all my Uno's with these for that reason.  Great upgrade! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love my Leo'duino! </p>
+
+
+<h2> review.date </h2>
+  07-04-2014  
+<h2> review.text </h2>
+
+ <p> Picked up for learning purposes as well as for fun. Electronics have been a hobby for a long time now and I wanted to go further than just simple projects. There is so much online support for open source hardware that if you get stuck someone may be able to help you out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Take your tinkering to the next level </p>
+
+
+<h2> review.date </h2>
+  07-12-2014  
+<h2> review.text </h2>
+
+ <p> Works - once you load the os on it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  07-27-2013  
+<h2> review.text </h2>
+
+ <p> I bought this so I could create a macro keyboard (this board appears as a HID to the computer it is attached to). Had it up and running within an hour. Especially liked the dedicated SCL and SDA pins. One thing to be careful of is resetting the board, will result in a new com port assignment - making loading a sketch a little more difficult until you get used to this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice update for a duemilanove </p>
+
+
+<h2> review.date </h2>
+  08-05-2013  
+<h2> review.text </h2>
+
+ <p> This board is great given the form factor.  I like having the surface mount ATMEL chip given the low profile.  In my experience the Arduino is a tough little board.  I have never had to replace the ATMEL chip so the socket was not a feature I required.  Also given the mini USB connector is a plus.  All of the other boards I have use this size of connector. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't beat the price </p>
+
+
+<h2> review.date </h2>
+  07-27-2013  
+<h2> review.text </h2>
+
+ <p> This is an Arduino Board with a really pristine look. Plus, it is nice that they are using the USB micro, because just about everyone has one of those cords for their phone nowadays. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pristine Board </p>
+
+
+<h2> review.date </h2>
+  06-14-2014  
+<h2> review.text </h2>
+
+ <p> You can't get better than the original Arduino boards.  Arrived on time in excellent condition.  I use these in conjunction with the regular Arduino Duos. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't get better </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

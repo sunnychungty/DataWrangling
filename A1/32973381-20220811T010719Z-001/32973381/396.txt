@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B003LSTE46 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-27-2011  
+<h2> review.text </h2>
+
+ <p> The story lacked depth to the characters. I understand it is the first of the series but the characters were so one dimensional.As the way they feel in love was to quick. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not even worth the price </p>
+
+
+<h2> review.date </h2>
+  01-07-2012  
+<h2> review.text </h2>
+
+ <p> I stumbled upon this story, and I do love vampire romance, It's that whole eternal love thing. I was pleasantly surprised by these two stories. Yes, they were short, but I knew they were short. The writing was done very well, with no mistakes that I could find, but then again I was enthralled by the story and not looking for them. I don't have a lot of time anymore to read and so I do it before going to bed. I started in on this story, and was still reading a couple hours later with my eyes burning. I couldn't put the book down. The only thing that prevented me from giving this book a 5 star was the ending. I needed more. It was so well written, and I loved every part of it, but then it just ends. I want to have answers to all the things that were brought up. I have looked and don't see a continuation of the book, maybe it will come later, but this has been out a couple of years. Overall an excellent book, very well written, but leaves you wanting more.I'm editing my review from 4 star to 5 star because the book is now continuing. The only thing I didn't like was the unanswered questions. I can't wait to read the next book in this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Story </p>
+
+
+<h2> review.date </h2>
+  03-26-2011  
+<h2> review.text </h2>
+
+ <p> *******Spoiler Alert**********I was really shocked by this work. It's incredibly short for one thing. Granted, a book doesn't need to be long to be an interesting, good work, but this one lacked character and plot development. We see some development from the hero of the story, but it's very minimal. The romance scenes seem very out of no where; these two total strangers just jump each other's bones in the forest? While the heroine's friends are dying in a ditch down below?? How does that make good sense?I thought this was going to be a one-book-wonder. If it was, then I think the lack of development wouldn't have been such a big deal; but, this is meant to be a series, so I really don't understand why the author didn't take more time with it.There are some good bones to this story; however, the delivery is too underdeveloped for me. For .99 cents I guess it's ok, but I really kinda wish I had my dollar back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What? </p>
+
+
+<h2> review.date </h2>
+  03-17-2011  
+<h2> review.text </h2>
+
+ <p> I enjoyed the storyline and was pleased with the suspense as well. The addition of "Found" was a plus.  However, I would have liked to had more information on the backstory of Cameron and Dorian and for the ending to not have been so abrupt.All in all, I would reccommend this to others. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good read </p>
+
+
+<h2> review.date </h2>
+  03-09-2011  
+<h2> review.text </h2>
+
+ <p> This two short story combo is not only a great bargain for readers who love paranormal romance, especially vampires and werewolves, it is an intriguing and really suspense-filled read. I'd like to see a third story focusing on the vampire brothers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Bargain, Two for One Low Price </p>
+
+
+<h2> review.date </h2>
+  06-27-2011  
+<h2> review.text </h2>
+
+ <p> Buying a book on a Kindle, it's hard to know how long the book is going to be in "real" book time. I couldn't believe when the book ended. What happened to Rachel? Did she get away? Maybe I missed it? It was so short - but there were also other loose ends. Hopefully we'll get another book to see what happens to the new vampire. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Is that it? </p>
+
+
+<h2> review.date </h2>
+  10-25-2010  
+<h2> review.text </h2>
+
+ <p> I really liked this--a classic example of a delicious goodguy vampire and a scary-freaky badguy vampire, and a strong heroine with an inappropriate case of the hots for a guy with fangs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> sex and terror </p>
+
+
+<h2> review.date </h2>
+  04-27-2011  
+<h2> review.text </h2>
+
+ <p> good book... or should i say books. bought lost and got found in it as well.... but the only question standing is there or are there going to be more books in this series? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> pretty good. </p>
+
+
+<h2> review.date </h2>
+  03-09-2011  
+<h2> review.text </h2>
+
+ <p> I was completely immersed in the story from the first sentence. A great read with riveting prose and sexy vampires! I enjoyed the good vampire/bad vampire characters and the heroine is one of those I love to follow--strong and believable. Suspenseful action and haunting setting--this short story combo has it all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great, Fun Read for Paranormal Romance Fans </p>
+
+
+<h2> review.date </h2>
+  06-26-2013  
+<h2> review.text </h2>
+
+ <p> I did really like it, but I wish it wasn't a short story, as I like learning more in depth about the characters and their lives and what not. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read </p>
+
+
+<h2> review.date </h2>
+  05-07-2011  
+<h2> review.text </h2>
+
+ <p> A great storyline that soon had me immersed into its depths. I enjoyed the romance and I was soon able to easily follow the storyline and the I loved the way the characters were written into the story.A great read and a vry suspenseful story for anyone to enjoys this genre, good value for your money.Author Laurie BowlerMoon RisingSunrise to SunsetThe Depths of DarknessSerena Embracing DarknessAcross the City </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great storyline </p>
+
+
+<h2> review.date </h2>
+  05-04-2013  
+<h2> review.text </h2>
+
+ <p> That was terrible. It might have been good if it had been an actual story instead of a couple chapters and then an end that wasn't even an end. Awful. I will not read this author again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awful </p>
+
+
+<h2> review.date </h2>
+  05-15-2011  
+<h2> review.text </h2>
+
+ <p> This one was just okay. A lot of the kindle vampire fiction seems to fall into that catagory. The Black Rose Society by Jessica Anders was a lot better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> alright, but could have been better </p>
+
+
+<h2> review.date </h2>
+  02-19-2011  
+<h2> review.text </h2>
+
+ <p> I thought this story would be a short clean read but found that there were too many factors brought in which only muddied the story and didn't make me want to read a second 'book'.  It had an interesting premise but didn't explore anything in any depth and felt more like the first chapter of a book not a stand alone short story.This author could certainly produce a good quality novel with some editing assistance, the writing was fairly smooth and easy to read and the characters (at least initially) were fleshed out reasonably well.I'll wait and see what else she produces before I scratch her of my authors list. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too many loose ends </p>
+
+
+<h2> review.date </h2>
+  06-04-2010  
+<h2> review.text </h2>
+
+ <p> I read another of her books and it was pretty good.  Completely deserved its high ratings.This one, however, has some pretty obvious flaws, which makes me wonder how much editing actually went into it before publishing.For example, within the first few chapters, the word "cheeks" was used.  As in, a person's cheeks on their face.  Only, instead of "cheeks", it was written as "checks".  This was a fairly amateur mistake that I've seen tons of times in fanfiction written by 13 year olds.  Can't say I've EVER seen it in a published novel before.  All the same, I suppose once might have been overlooked ... but this mistake happened TWICE within the first two chapters.The other issue is with the plot itself.  It seems a bit choppy, and just feels rushed all the way through.  The ending is practically nonexistant, leaving more questions than it answers.  What I found especially odd was that upon Rachel and Cameron's meeting, not once did they stop to introduce themselves (I re-read twice just to make sure).  Somehow, though, they know each other's names without them having to say them.  How very sloppy, to have overlooked something that obvious.For only a dollar, the book isn't horrible.  But it certainly isn't worth much more than that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad for the price ... </p>
+
+
+<h2> review.date </h2>
+  05-04-2013  
+<h2> review.text </h2>
+
+ <p> Ready for the claimed! I wish the story was a little longer, but it was a very good read. Lori devoti is a great author and I look forward to reading more of her books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it! </p>
+
+
+<h2> review.date </h2>
+  03-24-2011  
+<h2> review.text </h2>
+
+ <p> This book was very good, I enjoyed it very much. I guess I didnt read the info very good and I bought the second book in series Found along with Lost but it comes with Lost. They are very short books both together might have took me 3 hours and im a slow reader. I would have liked for the first story to end the way the second did but I see why they both ended the way they did. I wish they were longer novels to get deeper in the stories. But you still knew enough to feel for the brother in Found. It was my favorite of the two and was glad it ended the way it did he deserved it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOST AND FOUND </p>
+
+
+<h2> review.date </h2>
+  05-14-2011  
+<h2> review.text </h2>
+
+ <p> This another vampire story looking for true love. There is excitement, love and some fear.  The story is not the best I have ever read but it is a short read for those of us that like our vampire stories. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Vampire fun </p>
+
+
+<h2> review.date </h2>
+  09-02-2013  
+<h2> review.text </h2>
+
+ <p> I borrowed from a friend. It was a cute story.  I wiil read the remaining stories. I would recommend the story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00A4Y62K4 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-16-2014  
+<h2> review.text </h2>
+
+ <p> Not worth a penny-- I watched this, disliking most of the  characters, especially the snotty sister, and when it ended, I thought I had missed something.  No, the scriptwriters just failed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dumb </p>
+
+
+<h2> review.date </h2>
+  03-28-2013  
+<h2> review.text </h2>
+
+ <p> Charming story for those who don't require any car chase scenes or blood baths in order to be entertained for the evening. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Old Fashioned Storytelling </p>
+
+
+<h2> review.date </h2>
+  07-19-2013  
+<h2> review.text </h2>
+
+ <p> Excellent movie of family ties. The beauty in this movie is the love that families share and when there is a need all set aside their hurts and pain and help each other. It takes a bigger person to say I am sorry and to help others. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Family ties are stronger than anything else, especially if you Love Jesus </p>
+
+
+<h2> review.date </h2>
+  04-23-2014  
+<h2> review.text </h2>
+
+ <p> This is a great family movie, and it show's how a family becomes closer together, when a loss hits home..... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Bouquet </p>
+
+
+<h2> review.date </h2>
+  09-12-2013  
+<h2> review.text </h2>
+
+ <p> divergent life pursuits and perceived family favoritism drive the daughters apart, but the loss of a commonly loved father bring them back with the mourning mother in a common effort to save the family flower business. clean, family oriented and a great ending make this an enjoyable movie . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AN ANSWER TO FAMILY SPLITS </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> I really liked this story of two sisters and their mom, trying to re-establish their family's flower business.  This story has everything I appreciate in a moral movie that focuses on a family as they learn how to get along and help each other. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful clean family movie </p>
+
+
+<h2> review.date </h2>
+  02-14-2014  
+<h2> review.text </h2>
+
+ <p> This one was a little predictable, but still a very entertaining story of two sisters who took different paths that both directed them back home when they were needed the most. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good movie </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> Part of the synopsis for this movie stated: "Filled with romance, humor , and hope, it's an endearing story about making time for the ones you love."I would agree there was some romance and humor, but there was definitely hope. Hope in the fact that two daughters who were estranged would not allow the dream of their mother's florist business die with the death of their father. In spite of set backs of all kinds,the teamwork that evolved and closeness of family ties survived and thrived, and yes, the hope again brought success to their efforts to keep the dream alive.This sweet movie will hopefully make you think about the time you set aside for the ones you love. Are you too busy and have too many commitments to take the time to sit down and actually be with a sister, mother, father,brother, significant other, or child? It made me evaluate the time I spend with those I love both family and friends. It is a movie worth watching and discussing. I know you will enjoy it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Great DVD </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> Great love story. Heart warming story. Very clean movie. Great for the whole family. I would recommend it for everyone </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Super cute </p>
+
+
+<h2> review.date </h2>
+  08-23-2013  
+<h2> review.text </h2>
+
+ <p> i liked the story line. also a good movie abouy the value of friends. any one who loves their family and friends. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a warm family and friends movie </p>
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> I really like how through tragedy a family can can come together and take care of unresolved issues in their lives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heart Warming </p>
+
+
+<h2> review.date </h2>
+  08-06-2013  
+<h2> review.text </h2>
+
+ <p> I did really like this movie of a family coming together after a tragedy and bonding instead of falling apart. Although they had to work through past experiences to get to unity at the end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a good movie </p>
+
+
+<h2> review.date </h2>
+  10-05-2013  
+<h2> review.text </h2>
+
+ <p> Good family dvd. Didn't quite expect the ending but very nice for the whole family. Friends enjoyed it too. Enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> liked </p>
+
+
+<h2> review.date </h2>
+  03-19-2014  
+<h2> review.text </h2>
+
+ <p> This is one of those movies you can watch over and over.  Wonderful acting, good story.  Have already watched it several times. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet movie </p>
+
+
+<h2> review.date </h2>
+  12-24-2013  
+<h2> review.text </h2>
+
+ <p> Always love watching Michael Shanks in anything so it was well worth a look see.  He has a gorgeous smile. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Michael Shanks rocks! </p>
+
+
+<h2> review.date </h2>
+  10-23-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed this one.  Keeps your interest, great acting, and great message.  I can recommend it as a good chic flick. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chic Flick </p>
+
+
+<h2> review.date </h2>
+  02-07-2013  
+<h2> review.text </h2>
+
+ <p> As I sit here with tears streaming down my face with the credits rolling in the background, my heart hurts.  The Bouquet is ultimately about change, moving on, family, love, and teamwork. It is also about telling those you love most in life how you feel about them because one day they won't be there.We start out with an adorable older couple Cecil and Bonnie will truly love each other.  They love with the kind of love and acceptance we all wish we had. They are the parents of Terri and Mandy. Terri is living the business life in NY and Mandy has followed her parents love of grassroots life.When tragedy strikes, Terri heads home to be with family. Upon finding out that the family business is suffering she puts herself in charge of updating the business.As with most families there is jealousy, and hurt, to get over before making way for forgiveness.If you enjoy family dramas that focus on the ties that bind us to each other and allow us to forgive others and ourselves through honesty and retribution you will enjoy it. The scenery, the beautiful shots of flowers, the love of family and Mr. Danny Glover all make for a wonderful movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Family Friendly Movie </p>
+
+
+<h2> review.date </h2>
+  04-05-2013  
+<h2> review.text </h2>
+
+ <p> This movie touches on family love and taking parents for granted,  sibling rivalry,  the challenge of parenting very different children,  grief,  and post traumatic stress recovery.  A nice blend of real life challenges and finding your way through. Overall sweet and I enjoyed the flower symbolism. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pleasant and enjoyable </p>
+
+
+<h2> review.date </h2>
+  02-22-2013  
+<h2> review.text </h2>
+
+ <p> If like me you like a clean, well done family movie with a heartfelt message, this one is for you! I spotted this title a while back and I was very happy to have a librarian recommended only this past week!Kristy Swanson of 'What If' stars in this movie along with Michael Shanks, Nicola Canvendish and UNICEF Ambassador Danny Glover amongst others.In 'The Bouquet' Nasser Group North delivers once again a moving story which merits a big accolade for its stunning set, family portrait and of course its warm message.Like many siblings, business savy Terri and ecology lover sister Mandy have grown apart, each invested in their own interest, one living some 2000 miles away and the other, a mere 20 miles away.Despite their rural America warm and caring childhood, neither makes much of an effort to be close to their parents or the family florist business, now struggling.When tragedy occurs, they must reach an agreement and either help each other or see everything their Mum and Dad worked for lost forever.And in doing so, they just might discover love in the air if only they take the time to smell the roses!This wholesome story is directed by Ann Wheeler, an excellent director known for her approach to scripts we can all relate to. Danny Glover (actor/executive producer) in turn is the preacher and friend whose task it is to bring to the family the serious reality of the failing business.The amazing thing is this Christian movie does not rely on Hollywood's Fx but instead showcases some real talents! Bravo!With colourful floral scenes, (the garden and house are breathtaking!), a sweet romantic story to remind us to be closer to our loved ones whilst there is still time and provides entertainement for the whole family!5 Stars!Note to readers: Unless stated otherwise reviews are not requested and reflects only my opinion! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This Christian movie does not rely on Hollywood's Fx but instead showcases some real talents! </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> This was &#34;The Christmas Lodge&#34; (with Michael Shanks, as well) in a different setting. Acting was pitiful, dialogue was terrible, and the story itself was incredibly silly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awful! </p>
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> Another movie filmed in Langley and Chilliwack, BC ~ Awesome message and great storyline, safe for family-viewing and very enjoyable acting. Its staying in the collection! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another movie filmed in BC ....... </p>
+
+
+<h2> review.date </h2>
+  06-10-2013  
+<h2> review.text </h2>
+
+ <p> This film was not offensive in any way but it was week - not enough substance.  Somehow the writing just did not have enough depth to it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Bouquet </p>
+
+
+<h2> review.date </h2>
+  04-22-2014  
+<h2> review.text </h2>
+
+ <p> Nice family movie. Clean, enjoyable.Good story of family and friendspulling together and helping eachother out. I would recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> Two estranged sisters torn apart by their differences suddenly find themselves working together towards a common goal in the heartwarming drama, The Bouquet.For years, overachiever Terri (Kristy Swanson) and her idealistic sister, Mandy (Alberta Mayne), have kept their distance from each other, as well as from their parents struggling florist business. But when a tragic turn of events brings both women home, they discover just how much they need one another in order to continue their family legacy.Filled with romance, humor and hope, it s an endearing story about making time for the ones you love. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bouquet of Truce </p>
+
+
+<h2> review.date </h2>
+  07-19-2013  
+<h2> review.text </h2>
+
+ <p> I am a Michael Shanks fan from way back when he was on Stargate SG-1, so I tend to follow a lot of his movies now. I thought that this movie was quietly wonderful. Sure it didn't have fireworks and lots of loud Hollywood action, but it had a wonderful message about putting family first, which is what I found to be so charming about this. If you prefer movies about family, love, and hope, you should find this movie to be a joy to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Very Enjoyable Movie </p>
+
+
+<h2> review.date </h2>
+  02-06-2013  
+<h2> review.text </h2>
+
+ <p> Valentine's Day is coming and love is in the air! Most women enjoy a "chick flick" to watch on a date with their Valentine and The Bouquet is the perfect feel good movie. While I don't typically enjoy romantic movies, this one had more depth to it where the focus wasn't just on a love story. It's about family, both by birth and by choice, and the ties that can bind or break them.Growing up with a sister close to my age, I can understand the competition, rivalry and jealousy that occurs. There are many dynamics between siblings and fighting for their parents attention is commonplace. Terri and Mandy have had a tumultuous relationship but tragedy forces them to put their differences aside to focus on what really matters.The movie got off to a bit of a slow start for me but by midway I was completely into the movie. It does have a slower pace but that's also the way of life in rural America. It's a good reminder to slow down, smell the flowers and cherish the moments with family and friends that might not be there forever. It's easy to get caught up in jobs, making money and the business of life. It's sad when it takes a tragedy for people to slow down and take stock of what really matters.The Bouquet is a perfect reminder this Valentine's Day to spend time with the ones you love whether it be family, friends or true loves. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Reminder of What's Important in Life </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> Haven't watched this movie yet.  Looks like a &#34;clean&#34; movie, possibly a &#34;G&#34; rated and no killings.  Service was good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looks like a good movie. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00DGKSFJO <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Don't sleep on sister hustle </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> EBay these was some get money bitches! Not your regular drug dealing book! But most def a page Turner for real </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It wasn't surprising </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It was ok. I do not think I will recommend it to anyone. I have read better. The storyline was typical. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Story!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Scarface and Silk Smooth are two of my favorite authors. Scarface out done himself with this one. This story was breath taking. It keep you on rollercoaster ride from beginning to the end. Willow came out telling the truth from the beginning. I wondered why there were only two girls on the cover but you quickly find out why. Roxy was a backstabbing dirty cop who only used the girls for her on reasons. Things just aren't as they seem in this story but Scarface does not disappoint. The only I didn't like was the ending but I guess karma is a real b*tch!!! This story is a must read! It kept me on the edge of my seat the whole time. I read it within a few hours! This story gets 5 stars and then some!!!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Oce again Too Many Grammer errors. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a OK book with a unbelievable storyline.  For instance I got kind of confused when the girls kidnapped and hijacked the white lady at the mall. My confusion came in when they drove the truck though the electronics store and took the stuff. Then were able to get away and back to some cousins house and took the merchandise and put it in a truck and drove off after they let the women out of the trunk.  I was confused because I thought they burned the truck that belonged to the lady they kidnapped. I didn't quite understand who's truck they had and how they were able to drive the wrecked truck through the streets. Just my opinion.  Don't know why the previous reviews didn't mention all the grammatical errors this book had. I don't think I will read the next book coming out, unless there are more than 2 reviews. Good luck to the author with his/her next book! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Thugettes </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just finished reading this book and it was a great read. I wish it was longer but Im trying to get into these short stories... Im so glad that Bam knew her friend well. This was a thugette book for real... Great job Scarface. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Thugettes </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was an ok read good enough that it kept me turning the pages to see what would happen next.  The ending left me wondering did Bam and Willow make it. I'm assuming there will be a part 2. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> scareface </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> 5 stats l will surely enjoy the author till the the day l  ere. Enjoy the greatness of the author </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Thugettes </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I REALLY ENJOYED THIS BOOK. IT GRABBED MY ATTENTION FROM CHARTER ONE AND KEPT IT PAGE AFTER PAGE. THIS WAS MY FIRST READ FROM THIS AUTHOR,, BUT IT DEFINITELY WON'T BE THE LAST. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Gangsta Ladies </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> BB Book club: Thugettes was very entertaining. And it definitely had some surprises in this book. Highly anticipating the sequel to this book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Okay! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nice book, nice storyline the ending was a little bit effing even if that is a word. For it to be short it caught my attention I enjoyed. First time reading anything by this author but I look forward to checking out more of this author's work. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great story. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-31-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Intense story from the beginning.  The characters each draw you into their lives and situations.  I enjoyed the twists and turns of the story.  Great book! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Thugettes </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a good book. Willow, Bam and Roxy are 3 tough young ladies. That seem to be down for each other. It was a shame how Roxy betrayed her friends for something that she had nothing to do with. Lorenzo really needed to have his head examined cause how could he hold his own daughter accountable for what her mother did to his brother and knowing what his brother did to his daughter when she was young. I love Grandma she is really what you call in OG and who will do anything to keep her family safe. Now Bam is one crazy girl who anybody would love to be around. Now her with her hair and food had me cracking up. She is the definition of a true friend. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Alright, bam there it is </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Ok! So this book had me from beginning to end ;) couldn't put it down. Can't wait to read part 2, if your looking for a good read this is it. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

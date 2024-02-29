@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B004MMEI96 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-29-2011  
+<h2> review.text </h2>
+
+ <p> You can feel the difference on noise cancellation with it on/off. But 95% rating is exaggerated. The high frequency noise cancellation is lacking and can not compare with other products in the same price range. Sound effect is also ok, nothing standing out. Overall it is a good headset. Feel it should cost less, at $40-50. For this price with Panasonic brand on it, I am not satisfied. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just OK </p>
+
+
+<h2> review.date </h2>
+  09-30-2013  
+<h2> review.text </h2>
+
+ <p> For the price these are excellent.  I have a tablet that I watch movies on, but the volume is often not loud enough to hear on an airplane.  With these headphones the airplane noise is reduced enough that I can enjoy the movies.  They are comfortable to wear and fold up into a fairly small package, protected by a hard walled case.Recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent budget noise cancelling headphones </p>
+
+
+<h2> review.date </h2>
+  12-01-2011  
+<h2> review.text </h2>
+
+ <p> Hi everyone,I've been searching for a while for noise cancelling headphones which is not expensive as long as it serves its purpose. Based from my lists are the following candidates i've been eyeing recently:Audio Technica ATH-ANC7BSennheiser PXC 450JVC HANC250 NoiseBeats by Dre StudioBose QuietComfort 15Panasonic RP-HC720-KConsidering the price value and since im not a frequent traveller the Bose QC15,Senz PXC450 and Beats are elimited. They all are nice to have but it's just expensive for me.The ATH-ANC7B was in my amazon cart for a while but still i havent checkout because i was thinking of the HANC250 which has more user reviews and they are fairly ok although some are disappointed.When the RP-HC720-K was found in Amazon i could not find any good user reviews because the product is new. i been waiting for a week and the first 4 reviews seems interesting so i give a try since it won't hurt that much for 80 bucks though there are time the price went down as low as 69 bucks only but i already purchased it. damn i missed that bargain deal.To cut the chase for this lengthy story, here it goes:Build Quality - fairly sturdy and it looks nice though the battery compartment needs more improvement.Sound Quality - im not that audiofile but it sounds great on my ears with both NC on/off, i also tried using Fioo E7 portable amp with full bass to level 3 and it surprisingly the bass was not distorted with my billboard song collections.Noise Cancelling - well, by the definition it really does cancel unwanted noise at low frequencies only. I tried it in noisy train stations and cancels noise well though 95% seems overrated but it does the job. I can still hear clearly peoples voice conversations and train announcements while NC is on but the rumbling train noise is cut off.The verdict: considering its price and value. I think im perfectly fine with it. I will update this review with my experience with this new toy as time passes by. I hope you find my review useful.cheers </p>
+
+
+<h2> review.summary </h2>
+
+ <p> First Impressions of Panasonic RP-HC720 </p>
+
+
+<h2> review.date </h2>
+  12-16-2011  
+<h2> review.text </h2>
+
+ <p> Superlative sound and comfort.  With the noise cancelling enabled, I can enjoy string quartets on the subway.  I have seldom been so happy with anything I have purchased. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best headphones I have ever owned </p>
+
+
+<h2> review.date </h2>
+  02-09-2014  
+<h2> review.text </h2>
+
+ <p> This Over-Ear Headphone product has excellent noise-cancelling features. The headphones work both in powered and non-powered mode, the latter giving up the noise-cancelling feature. These headphones are perfect for long distance travel on airplanes or listening to audio in a noisy environment. They compare reasonably well (though are not as well made) to my Bose Over-Ear headphones. At a cost of approximately $100 they are a very good deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> High Quality Noise Cancelling Headphones. </p>
+
+
+<h2> review.date </h2>
+  10-05-2011  
+<h2> review.text </h2>
+
+ <p> These $80 headphones are at least the equal of any of the $200 to $350 competitive models.  Don't let the price fool you.  Panasonic is one of the world leaders in commercial broadcast TV equipment.  They know how to make electronics and they have made a winner here.  The noise cancellation is just incredible.  The fit is just right and the sound reproduction is superb.  Don't pay the Bose marketing fees.  Save your money and you won't be dissapointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding! </p>
+
+
+<h2> review.date </h2>
+  09-07-2013  
+<h2> review.text </h2>
+
+ <p> As population density increases it is helpful to your sanity to be able to live in your own bubble of sound isolation. I purchased these headphones for this purpose, since they have one of the highest listed percentages of noise cancellation (NC). They work as advertised. Also I have learned to like the high quality of physical design by Panasonic engineers, who do not design products that fall apart.  At a price of $85, they are mid-level, and it requires some study to decide who makes the optimum affordable headphone for your purpose.With that in mind I am rating three noise cancelling headphones that I own (purchased from Amazon), with a pair of numbers inserted in the term [fidelity / noise-cancellation]. Higher numbers mean higher performance.Price  Model  fidelity / noise cancellation$85.  Panasonic RP-HC720K  1/3$145  Sony MDR-NC200D  2/2$130  Sennheiser PXC 250  3/1Of these three the Sennheiser have the highest fidelity, but a more modest degree of noise cancellation. Sennheiser produces remarkable presence and I feel like I am sitting in a concert hall. The Panasonic have the highest degree of noise cancellation, and the sound fidelity is fine for speech in an aviation environment. If you want to optimize both features, the Sony with its extensive digital processing is a good choice, but you will not match the fidelity of the Sennheiser which is in a class of its own.Lurking in the background is the NC headphone manufactured by Bose. I cannot afford to try this headphone, and Bose, along with other NC manufacturers, does not provide technical information. It is strictly an issue of &#34;try it and you will like it&#34;. My evaluations above, are strictly subjective.But you should be sure that you need NC technology. Otherwise the NC money is much better put into a professional DJ headphone. Still, as I indicated in the beginning, the noise technology is here that we can escape from noise pollution in a crowded environment, for peace of mind. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Value and high Noise Cancellation </p>
+
+
+<h2> review.date </h2>
+  06-04-2012  
+<h2> review.text </h2>
+
+ <p> great Vaule sounds as good as boss ..& 94% nose reducktion is great .for 100 u cant beet this....Ps i anded the 66.00 Amp and it 4times louder and clearer..... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great Vaule sounds as good as boss </p>
+
+
+<h2> review.date </h2>
+  01-14-2012  
+<h2> review.text </h2>
+
+ <p> Very comfortable for extended listening. Great sound quality and the noise canceling feature in awesome. Totally blocked out the room air conditioner noise in my living room.I'm very satisfied with them </p>
+
+
+<h2> review.summary </h2>
+
+ <p> EXCELLENT PERFORMANCE </p>
+
+
+<h2> review.date </h2>
+  09-29-2012  
+<h2> review.text </h2>
+
+ <p> I used a different Panasonic model RC-HP-500 for quite some time and was quite happy with them, so when its ear-cup got loose, I decided to buy RPHC720K, because the older model is not available anymore.The sound was good and ear-cups provided some sound-proofing, but unfortunately, I have to say that noise canceling does not work at all. I use headphones at home, and also when walking and biking, and the new headphones do not cancel neither the sound of wind nor the humming of dishwasher in the kitchen. I returned them (I believe this is my only second return over the long history of purchases from Amazon) - thanks to Amazon, for making returns so hussle-free! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Noise canceling didn't really work </p>
+
+
+<h2> review.date </h2>
+  01-21-2014  
+<h2> review.text </h2>
+
+ <p> I keep these at work, but at home and for travel I own the bose QC15s.I have to say, I really like these.Pros:Passive mode sound (i.e. when the batteries die, the music keeps going)Decent active noise cancellingPretty good over ear passive noise cancelling as wellComfortableCons:My ears get a little hotI can't speak to sound quality because I don't have the ear for that, but I can say that for me these have been a lifesaver. The price isn't cheap, but compared to the big players in this field it's a steal. The noise cancelling feature works well (maybe not as well as the Bose QC15, but close enough), they are comfortable, and the music keeps going after the batteries die (a feature that is not included in the Bose QC15s).Overall, these are pretty solid NC headphones - I would recommend! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good, almost as good as bose QC15 </p>
+
+
+<h2> review.date </h2>
+  12-03-2012  
+<h2> review.text </h2>
+
+ <p> these can't even cancel out the simplest constant bus noise; the padding is quite stiff, so they are not fitting your face very well all the time: sometimes when I move my head a bit I can notice noises coming in and out; the sound quality itself is okay. I wouldn't have returned if they were not that ugly looking (really thick and cheap plastic), just to listen to music. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> no noise canceling and ugly </p>
+
+
+<h2> review.date </h2>
+  12-28-2011  
+<h2> review.text </h2>
+
+ <p> Comes with a fairly large carrying case, airplane jack adapter, AAA battery, male to male Aux cord (one side being a right angle L plug).Pros:+ Comfortable, foam on the cuffs have a memory effect and becomes adjusted to the curvature of your head the longer you wear it. I've been able to wear this for hours on end and even sleep with these on.+ The sound is above average, in comparison to theKlipsch IMAGE S4 In-Ear Enhanced Bass Noise-Isolating Headphones (Black)the lows and highs are not as a defined and but it is a lot better than your average set of headphones. With noise cancelling on, the audio is noticeably louder and carry a lot more definition.+ Detachable cable, great plus if you've lost headphones because of its audio cable breaking. Easily purchase a new 3.5mm male-male aux cable.+ Noise cancelling does work when it comes to isolating large volumes of sound (cafeteria, noisy restaurant), turning on noise cancelling increases the sound output.+ The cushioned cuffs isolate a fair amount of noise on their own.Cons:- Unable to completely fold, only rotates cups sideways for the carrying case. Not as stylish as other headphones.- If the noise cancelling switch is not fully down in the off position, the right side of the headphone stops working.- Battery compartment is within the headphone, you have to take off the entire cuff in order to change the battery. Hoping the plastic isn't flimsy enough to break.Note: The noise cancelling is limited to a loud and consistent volume of noise. It won't have any effect on a loud thud or a sharp pitch because noise cancelling technology is limited.If AAA battery is empty and the noise cancelling switch is on, sound will not play. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the price if you're willing to put up with its kinks. </p>
+
+
+<h2> review.date </h2>
+  06-12-2012  
+<h2> review.text </h2>
+
+ <p> The Panasonic RP-HC720 Over-Ear Headphones are good, but they're not great.  For their price, they work really well.  It's hard to find reasonably priced noise-canceling headphones, but this pair is suitable for most occasions.  The sound quality is pretty good; decent bass and audio, but it won't please the most discerning of audiophiles.  As for the noise-cancellation, it does a good job of blocking out extraneous noises, but it's not very effective for conversations, televisions, or anything of the like.  If you are trying to listen to music or podcasts in a busy environment, the noise-cancellation serves to make your media more audible.  If, however, you plan on using these headphones purely for noise-cancellation, I'd suggest looking elsewhere.The set proves to be a bit snug -- you will have head-phone hair after wearing these for a few minutes.JVC HANC250 Noise Cancelling Headphones - Blackseems to be a suitable alternative.  Slightly better quality for a slightly higher price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for the Price </p>
+
+
+<h2> review.date </h2>
+  12-20-2013  
+<h2> review.text </h2>
+
+ <p> Good for airplanes but they will cramp your ears.  If you have large ears.  Get another pair.  They are also a bit heavy but no more so than any other over ear headphones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good cancellation, but kind of small. </p>
+
+
+<h2> review.date </h2>
+  01-21-2014  
+<h2> review.text </h2>
+
+ <p> As an expat, I travel on long haul flights quite a lot so before I moved a pair of noise-cancelling headphones was high on my list. I got a pair of these and they have served me well over the past few years.For use on long haul flights the first priority is comfort. These are really super comfortable. They are big enough to go over my entire ears which is key because anything that pushes on your ears is going to get sore eventually. They are also really soft. I often leave these for hours at a time, and sometimes I leave them on (unplugged with noise cancelling on) to sleep in, and they are always comfortable.Second priority is noise cancelling. I think some people have unrealistic expectations for noise cancelling. Noise cancelling technology can only be so effective. It works really well to reduce constant low frequency noises, like the engine noise on a plane. They are not so good at blocking loud high pitched noises like a baby crying. This is the case with any noise cancelling headphones, even the expensive ones sold by Bose.To be honest it is a bit difficult to compare just how good the noise cancelling is on different models, partly because it is difficult to get access to different models in the same setting and partly because judging noise cancelling is kind of subjective. I find the noise cancelling on these to be quite effective. One of the big selling points that led me to this model was Australia's Choice magazine, which in 2010 reviewed these alongside two Bose QuietComfort models. It rated these as second at noise-cancelling to QC15s, and better than QC3s (both of which are substantially more expensive than these headphones).Another good feature is that they still work when the battery runs out (albeit without noise cancelling) - handy if your battery runs down halfway through a flight, although I always try to carry a spare. Of course they come with a two-prong adapter for the older style airline headphone socket. And they pack up neatly into a smallish hard case.Overall these are probably not the best noise cancelling over the ear headphones out there - the Bose QC15 still seem to be the best of breed - but given the price difference, I think they are the best value. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great noise cancelling headphones for the price </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

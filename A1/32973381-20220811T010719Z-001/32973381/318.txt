@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1560976705 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-19-2006  
+<h2> review.text </h2>
+
+ <p> This series is going to be a regular drain on my bank balance for the coming decade, as that is how long it is going to take Fantagraphics to finish publishing this collection, if they stick to their published schedule.Be warned: The Sunday strips are not in colour unlike the Calvin & Hobbes and the Farside collection in which even the black and white strips are printed on colour pages. This quite pisses me off...Finally, a Peanuts collection in chronological order and nothing left out. It's going to be a long wait indeed...I've always thought of creating a bookshelf of hard cover with all my favourite comic strips, when I could afford them... Calvin & Hobbes, Farside, Tintin, Asterix & of course Peanuts.I have the first two, and I'm on my way with Peanuts... It's going to be a long and interesting 11 years... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Completely Awesome... Peanuts 1957-1958 </p>
+
+
+<h2> review.date </h2>
+  11-07-2005  
+<h2> review.text </h2>
+
+ <p> This particular installment of our semiannual "Peanuts" fix catches "Peanuts" at a point in time when Charles M. Schulz had really begun to hit his stride.  Despite a few dated oddities, such as Lucy and Linus spending a week engaged in "stereophonic fussing," the numerous mini- and micro-dramas enacted herein have begun to assume familiar contours.  Charlie Brown is now firmly established as the ultimate loser and fall-guy, whose "soul is full of weeds."  He drops a fly ball to lose a "championship" game (I always wondered how Charlie's team managed to attain that opportunity in the first place, considering how inept they were), fights numerous losing battles with the kite-eating tree, endures constant insults and humiliation at the hands of Lucy, Patty, and Violet, and braves his first "official" Valentine's Day sans Valentines.  (On a more pleasant note, he does begin regular correspondence with his pen-, er, pencil-pal.)  Snoopy, meanwhile, has begun to dance and walk upon his hind legs on a regular basis, though he's still recognizably what he himself might call "a plain ol' 'dog' dog."  Linus is now thoroughly hooked on his blanket, barely surviving both Snoopy's repeated attempts to steal the prized poultice and Lucy's first attempt to wean him from it by force.  The direct references to childhood pastimes (aside from that ol' standby, baseball) are beginning to wane as the characters slip more and more regularly into the "philosophical" mode that would come to be associated with the strip in its next, incredibly lucrative decade.  The vast majority of the strips here have been reprinted at some point, making the few "no-see-ums" all the more intriguing to me.  (My favorite among the latter: Linus explaining what appears to be a cowboy-and-Indian "fake gunfight" as, in fact, a game of "liberals and conservatives."  What would he be using today, multi-megaton bombs?)  This comes with my highest recommendation.  Big surprise, eh? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Familiarity DOESN'T breed contempt </p>
+
+
+<h2> review.date </h2>
+  11-10-2005  
+<h2> review.text </h2>
+
+ <p> Well, actually, once Charles M. Schulz got up to speed, which did not take long, almost every strip was a classic.  Charles M. Schulz is the greatest American cartoonist who ever lived.  Feel free to quote me!  Fantagraphic Books is owed a heaping helping of gratitude for diligence of publication.  Forget those previous publishers that dropped strips from the continuity or even printed the same strip twice in the same title.  Leaving dates in the strip insures accuracy, precluding omissions.  My, if Fantagraphics only printed the Sundays in color, they would deserve 6 stars!!  (So, don't be giving away "Peanuts Jubilee" or other titles that reprinted Sundays in color.)  Includes the entire fuzzy-face saga.  A must buy for fans, public and school libraries.  Hey, academic libraries, bless their pointy little heads, can buy a copy too! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Collected Classic Peanuts </p>
+
+
+<h2> review.date </h2>
+  11-16-2005  
+<h2> review.text </h2>
+
+ <p> The fourth volume of "The Complete Peanuts" series contains more of the same, but in this case there is nothing wrong with that.  Only the nine standard characters appear in this book, which is just enough for a baseball team.  Charlie Brown remains the main character, but Lucy, Snoopy and Linus are all increasing in popularity.  The remaining characters in order of number of appearances from most to least are: Schroeder, Violet, Patty, Shermy, and Pig Pen.There are numerous strips in this collection which have never appeared before, as well as many classics.  There are strips on Stereophonic-Fussing, and Hi-Fi-Fussing; many strips on baseball, including classic sequences where the other team refuses to play and just laughs, where the team is able to win when Charlie Brown is sick, and of course where Charlie Brown drops the fly ball that would have won them the championship (it is never explained how the team makes it to the championship); and the start of the signs advertising Beethoven's Birthday including the number of shopping days.As with the previous books of the series, this one leaves the reader eagerly awaiting the next release. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Encore! </p>
+
+
+<h2> review.date </h2>
+  02-19-2006  
+<h2> review.text </h2>
+
+ <p> Here the Peanuts gang becomes familiar, as they start hitting the usual topics that would develop and blossom over the years. Every one of the main characters has secured their place, and Snoopy starts his development into the multi-faceted character we know and love.Probably the best thing about the book is that we watch Charles M. Schultz modify and mollify his characters. In 1957, quite a few of the Sunday cartoons show Lucy becoming too much the bully, abusing her younger brother viciously without cause and causing no end of pain to Charlie Brown. During 1958, Lucy develops a vulnerability and Linus becomes more an actor, sometimes getting back at his sister and sometimes causing his sister's temper tantrum (it's easier watching her blow up when she has a cause). Schultz could have blown things with Lucy, but with a few modifications between her and Linus, a balance is made that makes things more interesting.Now, here's to next April, and 1959-1960. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hitting Its Stride </p>
+
+
+<h2> review.date </h2>
+  11-09-2005  
+<h2> review.text </h2>
+
+ <p> This fourth volume shows Peanuts keeping the stride it slowly established over the first six years of its existence. Here the characters pretty much look as they will look for decades to come. The cast also becomes more solidified with Charlie Brown, Lucy, Linus, Schroeder, Pig Pen, and of course Snoopy. Shermy, Violet, and Patty show up far less frequently than earlier. Schulz would add more characters later (most notably Woodstock, Peppermint Patty, and Marcie), but here he established his core cast.Snoopy completely comes into his own here, and his image on the cover couldn't be more appropriate. He appears with startingly more frequency throughout 1957 and 1958. By the end of this volume his top spot gets nearly set in stone. And it's not hard to see why. Here the long transformation from the "real" pet dog of the early 1950s to an almost surreal fantasm of a dog nears fruition (he still hasn't put on his WWI goggles or quaffed root beer yet, though). The imitations that began in the last volume continue inexorably here. He becomes a polar bear, a pouncing wild animal, a sea monster, he imitates Lucy, he gets called "ol' Dime a Dozen" and "Fuzzy Face", he imitates a penguin, and, best of all, a vulture. He also begins to really appreciate classical music (he even accompanies Schroeder on violin), sleeps with his head in his dog dish, and violently whips Linus around by his blanket. The extent of his transformation shows on the January 7th, 1958 strip where Charlie Brown says "The teacher told us to make a drawing of a real dog." Snoopy has truly come into his own. And later on, he became the most recognizable character of the Twentieth Century apart from Mickey Mouse.Charlie Brown continues his quest for something meaningful and positive. But, as usual, some snags occur. He singlehandedly loses the baseball championship, is absent for his team's first win, gets tangled up in a truss of kite strings, and says "rats!" an awful lot. The strip on September 4th, 1957 shows Charlie Brown acquiesing in the very depths of his misery. Linus asks him "Doesn't looking at all these stars make you feel sort of insignificant, Charlie Brown?" He answers, "No, I'm so insignificant already it doesn't bother me." Like most of Peanuts, Schulz brilliantly mixes the sad with the funny.Some of Schulz's legacy also shows in this volume. At least two cartoons appear here that must have provided some inspiration for Bill Watterson, creator of the incredible "Calvin And Hobbes". A Sunday strip from Jaunary 26, 1958 shows Linus vengefully sculpting a hideous snow monster to devour Lucy's "snow bunnies".And, on January 18th, 1958 Linus and Charlie Brown wax historical while wiping out on a snowsled. These remind us that Schulz had great influence on more or less all late twentieth century comic strip art. No one yet has emerged from the enormous shadow that "Peanuts" cast on the medium.One of the volume's absolute highlights is the Feburary 23rd, 1959 Sunday strip. Charlie Brown walks through the neighborhood while the other children scorn, mock, and laugh at him. when he finally arrives home he switches on a radio to hear "...and what, in this world, is more delightful than the gay wonderful laughter of little children?" He gives the radio a good boot. This masterpiece of a strip encapsulates the entire story of Charlie Brown. And this volume helps encapsulate the legacy left by one of the greatest comic strips ever created. Not only that, "Peanuts" not only influenced its own medium, but in the 1960s it influenced television, music, Broadway, and humor in general (especially of the self-deprecating sort). As each volume of this great series by Fantagraphics appears, that influence becomes easier and easier to appreciate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Snoopy rises... </p>
+
+
+<h2> review.date </h2>
+  11-06-2005  
+<h2> review.text </h2>
+
+ <p> In this installment of the Peanuts comic strips from 1957-1958, Charles M. Schulz's world is taking recognizeable shape.  Raders who like me were born in the 1950s will begin to recognize the strip as they first read it in the newspapers or in those little 50 cent paperbacks Dell used to put out.  Since we now have all the strips instead of just selections, we can see storylines taking complete shape and gags developing and sometimes repeating themselves with new characters and new slants.Charlie Brown has now evolved into  the chronically depressed loser we all love, Lucy is the sometimes sadistic fussbudget, Linus the budding philosopher, Schroeder the Beethoven fanatic, and Snoopy is . . . Snoopy.  Familiar themes show up for the first time:  Snoopy climbs atop his doghouse (in three-quarter view),Charlie Brown crashes kite after kite and loses one ballgame after another (except when he's home sick!), and Lucy pines away for Schroeder, who's obliviously pounding away at his toy piano.There are some tremendously hilarious sequences, such as Snoopy pretending to be a vulture, and some intriguing reminders of the late 1950s in which these strips were created: hula hoops, hi-fis, fears of fall-out and bombs from space.  These volumes are appearing six months apart, which is far too long to wait, especially since this one promises that the Great Pumpkin will appear in the next installment.  Buy this one now and hope that April will come soon! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Masterpiece Reaching Full Flower </p>
+
+
+<h2> review.date </h2>
+  12-09-2005  
+<h2> review.text </h2>
+
+ <p> What can you possibly say in a review of a book like this?Well, I guess that if you haven't seen the three previous volumes, this is an attempt on the publishers part to reprint all 18,000, yes, 18,000 of the 'Peanuts' cartoon scripts. This particular volume contains the strips from the years 1957 and 1958 (I bet you didn't get that out of the title).The best thing that I can say is 'it's about time.' And then ask a few questions. Why hasn't this been done before? What's the next strip for which this should be done?I guess that if you don't know 'Peanuts' like if you've been a time warp or something, you'd want to know that this book is complete with Charlie Brown, Snoopy (the hairy face series), Lucy and Linus (Beetoven is here in strength, along with his blanket) and the rest.My only complaint, publish more than two a year. At my age I don't know that I'll still be around in 2016. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> At Long Last. </p>
+
+
+<h2> review.date </h2>
+  02-01-2006  
+<h2> review.text </h2>
+
+ <p> Everyone's favorite beagle comes into his own in this fourth volume of the best-selling COMPLETE PEANUTS series.  Snoopy covets Linus's security blanket, indulges in imitations and impressions,joins the baseball team and, toward the end of the book, he even--an epochal development!--starts sleeping on the roof of his doghouse.Of course, fans of Schroeder, Lucy, Linus, Patty, Pig-Pen, Shermy, Violet, and Charlie Brown will also find plenty of hilarious strips to enjoy as well including several hundred that have never seen print in book form before today. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The world of Peanuts is a microcosm, a little human comedy for the innocent reader and for the sophisticated. </p>
+
+
+<h2> review.date </h2>
+  11-04-2005  
+<h2> review.text </h2>
+
+ <p> This is the fourth book in a proposed 25 book series that will publish all of the nearly 18,000 strips in Charles Schulz' Peanuts catalog.  And again, it is a terrific tribute to two years of the man's work, this time chronicling the years 1957 and 1958.  Of the four books published to date, this book had many more strips which I was familiar with than the other three.  But there were still quite a few strips that I have never seen before, making it another fun reading experience.  The strip quality is better in general in this volume as it appears the publishers had access to quality masters to provide reproductions than they had in previous versions (I only noticed one strip that looked a little blurred in this book).  Obviously if you have the other three books, you'll be getting this one and you can expect more of the same great quality.It was also nice to see that the publishers have kept their word where they said that if they found better or more complete strips that they would republish them in future books.  In this book, they republish a strip from the second volume where they didn't have a complete strip (they actually had to have an artist draw the missing panels).  But somebody out there had the complete strip and it has been republished here and is fully documented.My only complaint about the books is that 2 books a year just isn't fast enough!  The year 2016 is a long time to wait for the entire 25 volumes to be complete! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't They Issue These Books Any Faster! </p>
+
+
+<h2> review.date </h2>
+  08-25-2006  
+<h2> review.text </h2>
+
+ <p> There was a time when the newspaper comic strip was HUGE.  In the early 1900s, the success of a newspaper was in part due to the comics it featured.  That era has long since disappeared, and it often seems that the comic strip is a neglected relic.  There are still some good comics out there, but they are getting rarer and the newspapers treat them with less and less respect, cramming many onto a single page that used to hold just a few.Where does Peanuts fit into all this?  Well, it is the most popular comic strip of all time.  Does any other strip have anything close to its legacy of movies, TV shows, plays, books and merchandise?  And happily, it is deserving of its success; it is arguably the best comic strip ever, and certainly one of the top ten or so.  As a result, it is not hard to see why the newspapers continue to publish old strips years after its creator, Charles Schulz had died.  They don't stop printing it or allow another artist to take it over.  The comic strips overall are a pale shadow of what they once were, so repeats of Peanuts can prosper because nothing new can replace them.Volume 4 of the Complete Peanuts is where the characters are really beginning to show their full development.  We have Lucy, the champion fussbudget and Linus, her philosophical brother with a dependence on his security blanket.  Schroeder is the budding musical genius.  Patty, Violet and Shermy are mostly supporting characters at this point; they will be eventually replaced by other characters (but not in this volume).The two key roles, however, are those of Charlie Brown and Snoopy.  Snoopy is up to his usual antics, pretending to be a vulture, grabbing at Linus's blanket and relaxing in his water bowl.  He also starts his practice of lying on top of his dog house, although his first attempts are not all that successful.  Charlie Brown is, well, Charlie Brown, the ultimate loser who the Fates themselves conspire against.  Kites won't fly for him, pens constantly smear and if, by some remote chance, his baseball team is doing okay, they heavens themselves will open up and rain out the game.  His "friends" are often cruel to him (with the exception of the benevolent Linus and the aloof Schroeder).  In a way, the main theme of Peanuts is defined in the very first strip (in volume 1) when Shermy says, "Good old Charlie Brown...How I hate him."  This seems to be the way the whole world thinks of this hapless character.Peanuts may seem to some to be just an overrated strip, but I don't think that's so.  It may be overly merchandised, but the comic itself is a cornerstone of the genre and one of the most influential strips out there.  This volume again shows why Peanuts is one of the all-time greats. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The best comic strip ever? </p>
+
+
+<h2> review.date </h2>
+  06-20-2013  
+<h2> review.text </h2>
+
+ <p> all the peanuts books are fantastic, my kid could sit there for hours and read these. trying to collect them all </p>
+
+
+<h2> review.summary </h2>
+
+ <p> awesome </p>
+
+
+<h2> review.date </h2>
+  12-22-2009  
+<h2> review.text </h2>
+
+ <p> Here we find the years in which Snoopy becomes more of his own character, rather than just the dog that pops up in various comics.  He becomes his own person, develops a complex personality, and, in a way, becomes a voice for Schulz.I loved this set, but found myself laughing 8.9% less (a guesstimate) than in previous years.  But don't let that deter you.  It's Peanuts, and there's no arguing of Schulz's brilliant imagination. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cometh Snoopy </p>
+
+
+<h2> review.date </h2>
+  01-25-2006  
+<h2> review.text </h2>
+
+ <p> Although there are a few cartoons which had never been published in book form (like hi-fi fussing), most of them could be found in collections like Good Ol' Charlie Brown, Snoopy, Peanuts Revisited, You're Out of Your Mind Charlie Brown, But We Love You Charlie Brown and Peanuts Every Sunday.  Charlie Brown is the main character and resumes the role of the melancholy everyman.  He writes his pencil pal often (he's not very good with a pen, he explains) and explains his dad is a barber (like Charles Schulz's real father) and his mother is a housewife and he also has a crazy dog named Snoopy.  He gets made fun of by everyone and goes to the radio for solace, such as it is ("And what can be more delightful than the laughter of little children?").  He also catches the baseball and guess what?  He drops it.  The team goes home and cries- "It depresses a manager to see his team cry" is his only comment!  When he decides to camp out in his backyard, he gets scared by some loud howling (Snoopy, of course!).  For Christmas of 1957, the entire Peanuts gang is scowling at Charlie Brown, just because he has his nametag upside down.  Snoopy continues to do his impersonations, loves to dance and gets 2 nicknames (neither of them appreciated)- Fuzzy Face and Dime a Dozen (well, he may have a fuzzy face, but Snoopy was never a dime a dozen).  Schroeder starts advertising Beethoven's birthday and shows Lucy his pictures from Germany (all of them featuring important landmarks of his hero Beethoven).  Lucy, unimpressed, says "Why would they be so important if they weren't worth money?"  Lucy is nominated as honorary chairperson of the National Fussbudget Association.  Well deserved?  You bet.  She usually leads her Greek Chorus (Violet and Patty) to tear down Charlie Brown.  Also, she always promises Charlie Brown she won't yank the football away (and he always believes her).  When Charlie Brown has trouble flying his kite, Lucy shows her support- "Fly, you stupid kite, fly!"  When Linus has trouble remembering his lines at the Christmas paegant, she knows the right cure!  Linus has become more of a philosopher here ("Have you ever tried to glue crayons back together?") and sometimes gets the best of his older sister Lucy.  When she refuses to let him help make snow bunnies, he makes a snow tyranosaurus rex to stomp the bunnies!  When she ruins his sand castle sculpture with her bicycle, he uses the pliers to unscrew her bike!  He insists on playing baseball with his security blanket and gets annoyed by the question "Hey, Linus, does that thumb taste good?"  Since the Great Pumpkin hadn't yet come into the picture, he joins Charlie Brown and Lucy for tricks or treats ("He's not very good with a scissors!").  Also, he is seen protesting by climbing the schoolyard fence.  "I feel a need to be educated.  In fact, I demand to be educated!"  Just as soon as he demands, he holds both hands up in the air and forgets to hold onto the fence and falls headfirst!  Pig Pen is made fun for his sloppy appearance and makes the world's dirtiest snowman.  Shermy is more of a straight man and would soon be replaced by Linus as Charlie Brown's buddy.  While Peanuts had pretty well established itself in 1957-58, transition would occur in 1959. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Oh, yes, I also have a dog named Snoopy.  He's sort of crazy." </p>
+
+
+<h2> review.date </h2>
+  11-17-2005  
+<h2> review.text </h2>
+
+ <p> Why bother to even review a book we all know is great?  Fantagraphics Books is doing the world a service by gathering these strips together and leading each volume off with a forward by an interested writer; in this case, Jonathan Franzen.  Still, what it's all about is the strips themselves.What I most noticed in this volume is how Snoopy is really coming into himself.  More and more, he's becoming an amazing character, with his great reactions.  The "fuzzy face" strips I still remember from reading them as a kid.  (And you know, adults still speak a couple times over the course of these two years.  I'd forgotten.)Anyway, I'm so happy I started collecting these volumes right away with volume one and I intend to continue collecting them to the end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Brilliant Collection </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

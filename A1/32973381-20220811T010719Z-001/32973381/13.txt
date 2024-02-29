@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0007KK2KG <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-14-2013  
+<h2> review.text </h2>
+
+ <p> If you need a wiring harness to attach a new receiver in your car, this ought to do the trick. It has all the required connections for any standard car setup. The tips of the wires have already been stripped, so you just need to slip off the outer coating to attach to your receivers wiring. Very easy to understand and use. All the colors matched with the new receiver I got, which made it even easier. No complaints on this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What can I say - It's a wiring harness </p>
+
+
+<h2> review.date </h2>
+  03-26-2013  
+<h2> review.text </h2>
+
+ <p> Soldered together with the harness that came with my Pioneer head unit. Works great. Makes it easy to install the head unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as intended </p>
+
+
+<h2> review.date </h2>
+  09-15-2012  
+<h2> review.text </h2>
+
+ <p> Scosche delivers again.  Good construction and the years of experience shows.  Great price and makes the job much simpler during installation.  Even if you are connecting a separate power amp this is still a must. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Quality </p>
+
+
+<h2> review.date </h2>
+  02-28-2013  
+<h2> review.text </h2>
+
+ <p> This is the right harness for the job. The best part is, this harness actually works for powering the antenna in the rear glass of my 2004 STi - so, no manually connecting the wire from the vehicle harness to the remote turn-on lead, as it's already a part of this wiring harness!Otherwise, everything else functions exactly as expected, and the quality is good. No complaints at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good stuff </p>
+
+
+<h2> review.date </h2>
+  08-27-2011  
+<h2> review.text </h2>
+
+ <p> What can I say, used this to put in a Pioneer AVH-P3300BT in my 06 Subaru Legacy 2.5i SE sedan.  Mated the wires one-for-one to the new stereo's wiring, super easy.  Plug is decently thick plastic, not flimsy.  And the wires appeared to be roughly 12-14awg, which are decently sized for not running a separate amp. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good quality harness </p>
+
+
+<h2> review.date </h2>
+  01-09-2013  
+<h2> review.text </h2>
+
+ <p> These allowed for quick install of new car radio. When I sell the car, I can put in original radio with any fuss. Wires were of high quality and high enough wire gauge. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only way to go. </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> This was an exact fit to retrofit the new aftermarket stereo to my Subaru's sound system harness.  Very easy to splice and set up.  Thank you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wires perfectly </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> 2004 WRX -- installed fine.  Good gauge wire, everything worked the first time around and has been installed about a month.  Not sure what else you can say!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works </p>
+
+
+<h2> review.date </h2>
+  06-13-2014  
+<h2> review.text </h2>
+
+ <p> Perfect for my 03 Outback Wagon. Soldered this to the harness that came with the new stereo head and it works. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't chop your factory harness. </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> Fit perfectly in my wife's 02 Impreza TS. Makes installing your stereo a breeze. Snap it in to the stock connector in the car and then just connect the corresponding colored wires to those from your stereo ... done. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect Fit </p>
+
+
+<h2> review.date </h2>
+  06-02-2013  
+<h2> review.text </h2>
+
+ <p> How else can you get a USB input into an old beater?  This did the trick for me, soldered them in-line to the harness from the stereo and viola, the old beater's got some bump. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> '04 Subie Impreza Outback - worked great </p>
+
+
+<h2> review.date </h2>
+  11-14-2011  
+<h2> review.text </h2>
+
+ <p> At first, I thought the wires were a little lightweight, especially power and ground, but then I found that the wires were heavier gauge than my receiver (and the same or better than the car's wiring).The package had clear documentation for the wiring colors (which matched up with my receiver), so it was very easy and straightforward to connect. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works perfectly </p>
+
+
+<h2> review.date </h2>
+  11-10-2011  
+<h2> review.text </h2>
+
+ <p> Perfect fit for my son's "new" 1995 subaru.  We had fun doing the work together and putting in the new stereo system.  Just what I needed! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just What I Needed! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B007HQXGU6 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-22-2014  
+<h2> review.text </h2>
+
+ <p> &#34;Star&#34; rating system needs revising for this book. Considering the absurd plot, cardboard characters, poor grammar and misuse of it, a -3 would seem more appropriate.I'm going to &#34;loose&#34; this book so that no one else in my family can get &#34;a hold&#34; of it {unless they have &#34;all ready&#34; got it}. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hope the author still has his day job </p>
+
+
+<h2> review.date </h2>
+  07-02-2013  
+<h2> review.text </h2>
+
+ <p> I liked it. I found it interesting and a fast read. If you like Charles Todd you will really like this one. A little different from his other books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mission Accomplished </p>
+
+
+<h2> review.date </h2>
+  09-11-2012  
+<h2> review.text </h2>
+
+ <p> Awful. NOT Charles Todd duo of Ian & Bess fame. So many typos and spelling errors. Shame on editor. Such unconvincing dialog. Very disappointed in this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> None </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> I have read several books by Charles Todd and have enjoyed them.  This was not one of them.  The entire premise of the book was very far-fetched.  While I certainly like a happy ending, it's hard to believe that a young man could accomplish all that this man did.  Fortunately for him, he had unlimited financial resources-a convenient event.  He didn't have to work at a job and could own several houses at 20-something while he hunted down his parents' killers. How lucky for him.Perhaps the most annoying aspect of this book was the poor grammar. I found several places where &#34;your&#34; was used when it should have been &#34;you're.&#34; Instead of skis, the word &#34;skies&#34; was used.  That certainly changes the meaning.  Sever was used instead of severe and trail instead of trial.  I was more interested in finding the mistakes than reading the story.  I only wrote down a few but you get the idea. There were way too many.  I'm not sure if it was a poor proof reader or someone not familiar with the English language. Whatever it was, it was a disappointment and a distraction. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Disappointment </p>
+
+
+<h2> review.date </h2>
+  11-08-2012  
+<h2> review.text </h2>
+
+ <p> I've come to expect tight plotting and suspense from Charles Todd.  I've also enjoyed the lack of coincidence in the plot.  This book has neither.  This plot is so filled with improbable events that it reads like a boy's fantasy adventure. I suspect that it is an early work that should have remained lost.The editing is VERY poor.  There are errors on nearly every location.  "Shuttered". instead of "shuddered" and "use to" instead of " used to" for example, are used repeatedly.If this is your first novel by Charles Todd, look at his series for a much better read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A poor example from this author </p>
+
+
+<h2> review.date </h2>
+  10-02-2013  
+<h2> review.text </h2>
+
+ <p> Got off to a rousing start and then the ending just died- as if the authors got tired of the manuscript and gave it just any old ending. Luckily I've read other books by thease authors and really liked them or, based on this book, I would not bother reading another. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sad but true </p>
+
+
+<h2> review.date </h2>
+  01-23-2014  
+<h2> review.text </h2>
+
+ <p> this book is not written by THE charles todd who wrote all the wonderful Inspector Rutledge stories. Poorly written and poorly edited </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not THE Charles todd </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> If there were a way to get a refund I would demand one.  This was utter and complete codswollop!  There was not one well developed character,  the action was simply not credible,  the typos and errors in grammar and punctuation were numerous.  This book is worse than amateurish. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> total rubbish </p>
+
+
+<h2> review.date </h2>
+  04-17-2013  
+<h2> review.text </h2>
+
+ <p> This new author is for me good to great reading. A lover of thickly plotted mysteries, this fits that description...NTN </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Fiction </p>
+
+
+<h2> review.date </h2>
+  04-03-2013  
+<h2> review.text </h2>
+
+ <p> This book is not remotely like the other Todd books I have read. Not worth the time and energy it takes to read it. Many typos also! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wish I' d read the reviews before buying! </p>
+
+
+<h2> review.date </h2>
+  12-09-2012  
+<h2> review.text </h2>
+
+ <p> It's a pretty good story. Mission Accomplished was written in an easy to read style typical of Charles Todd. However, there are so many misspelled and misused words that sometimes the meaning they wished to impart was lost. It's no fun to have to reread all the time to pick up the thread of the story. Maybe Charles Todd had no proof reader or editor? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Review of Mission </p>
+
+
+<h2> review.date </h2>
+  01-12-2014  
+<h2> review.text </h2>
+
+ <p> I have been a Charles Todd fan since the first Ian Rutledge and Bess Crawford books and have read every one since. This book was too full of grammatical mistakes and flat dialogue to be a Charles Todd book. I realize that two people write these books but this did not read like their usual style. The story line was interesting, the main character likable and the overall story line held my interest, but there were too many &#34;off&#34; things that were distracting. All in all it is not a &#34;bad read&#34; just not up to their usual excellent standard. Looking forward to the next Rutledge and the next Crawford. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This was by Charles Todd? </p>
+
+
+<h2> review.date </h2>
+  06-16-2014  
+<h2> review.text </h2>
+
+ <p> On reading this book - 'Mission Accomplished' I was astounded with the unrealistic plot, the very bad grammar and unbelievable bad spelling. I nearly gave up reading this book BUT as I am an avid reader of every 'Charles Todd's' book he has to date written; I persevered. However, I won't be reading any ensuing books of this nature again. Please bring on more of 'Ian Rutledge and Bess Crawford'; I also enjoyed the other stand alone books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not impressed </p>
+
+
+<h2> review.date </h2>
+  10-04-2013  
+<h2> review.text </h2>
+
+ <p> Not as pleasing to me as their world war one era books. Also the proofing was terrible. So many errors, it was distracting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointed </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

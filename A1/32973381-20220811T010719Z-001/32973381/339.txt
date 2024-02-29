@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1592335527 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome pics </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great book! Lots of pics & good info. A must have for those who are learning how to eat healthy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> dissappointed </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I do not enjoy alcoholic beverages. I have not acquired a taste for anything fermented. I am new to the idea of fermented foods. I know the benefit of probiotics. I was hoping this book would inspire me and give me some good recipes. I didn't find anything useful in this book, for me. I'm just not brave enough to try these things. It might be a great book for someone else...I'm just not there yet. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Terrific book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Deidre Rawlings really knows her stuff, something I found out first hand when she designed the recipes for our latest book, "The Great Cholesterol Myth Cookbook". People on our side of the nutritional aisle have been singing the praises of fermented foods for decades, but up till now, most people don't know much about them or how to use them. Not any more. Deidre's new book will completely sell you on why probioitcs are one of the most important elements in your diet (whether from food or supplements or both). More importantly, she shows you how to make fermented foods a part of your regular diet in the most painless and delicious and convenient way. I highly recommend this book!-Jonny Bowden, PhD, CNS aka "The Rogue Nutritionist" (TM)author, "The Great cholesterol Myth", "The 150 Healthiest Foods on Earth", "Living Low Carb" and 11 other books </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fermented Foods...My Medicine </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I sooo LOVE this book on FERMENTED FOODS, so much UNDERSTANDING why we need to eat fermented foods. And GREAT Food Ideas. I've been making and eating Fermented Foods now for 5 months and WOW :) I can't believe how well I'm feeling. So SIMPLE, So AFFORDABLE and So GOOD for my body. I have Autoimmune Diseases BUT...not for much longer. My Motto is: KEEP ON KEEPING ON...MAKING THE EFFORT :)  I'm having a Quality of Life BECAUSE of this book showing me the Kefir WHEY :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> comprehensive guide for the beginner and experienced cook </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-30-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> As a beginner I find this book an invaluable source of information about probiotic foods, the role they play in health, and their preparation, </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very informative book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have enjoyed reading this book because of all the detailed information she gives.  Anyone who is interested in improving their health should read this book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> NOT FOR PEOPLE WHO DON'T USE DAIRY!!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-25-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have to admit, I was a bit surprised, given the number of people nowadays who either don't or can't use dairy, that virtually every single recipe uses whey as the starter. This goes for almost all of the fermented vegetables aside from a couple of fermented cabbage recipes, including sauerkraut, which uses a salt brine starter. The author does note that people who are lactose intolerant would not have a problem with foods fermented with a whey starter. However, there are many people who by choice do not want to use dairy, and I think there should have been some note of that, or perhaps the book should have been called "Lacto-Fermented Foods for Health." I don't dispute the potential that foods fermented with whey might be quite healthy, but again, some people choose not to use dairy.Also, it's worth noting that close to 40% of the book isn't recipes for fermented foods, but information about the benefits of fermented foods for the body and the various types of fermented foods. Most of that information is available elsewhere on the Internet. I gave it a second star because the information, for those who may not know it, is well presented, and the book overall is well laid-out. But again, if whey starter is not your thing, you might want to look elsewhere. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good recipes </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Good recipes. Liked the instructions and the easy to follow instructions. Tasty gives a good basis for own experimentation. Good one </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great book </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have made a lot of things out of this book.  If you like fermented food or have Celiac Disease then this book is for you.  I feel it has helped my stomach.  A new book and was shipped fast. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> none </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> very good info on fermented foods and benefits from to be obtained by inclulding cultured foods in ones diet daily </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Worth my money and my time </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was ignorant to the process of fermentation. I did not even know what it was, why it was good, or why I should be incorporating it into my life and the lives of my family. I went to a garage sale and a young man made fermentation crocks and I knew I liked Kombucha Tea so I bought a crock. When I got home I thought well now I have a crock and I need to know what to do so I went on Amazon and bought two books on the process. I really like this book because it explained to me what fermentation is, why fermentation is good and how I can incorporate fermentation into my daily life. I got a Komucha starter from my neighbor and am now if the process of making my first batch of tea. This is a great book! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Your Body Will Do A Happy Dance! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Packed from beginning to end with lots information on the why's and then the how's of eating and making fermented foods.  I have made sauerkraut and the fermented salsa so far working with both a brine and then the whey method for the salsa.  The salsa tasted like regular fresh homemade but with a pronounced tang.  So far I've only managed to get 2 weeks of fermenting on my cabbage before I've run out of jars in the refrigerator and have to break into another 3 liter jar that is fermenting (3L will hold approx. 3 heads of cabbage shredded and packed) - it's that good.  Have to make more and faster.Side note for information sake.  I've been making my fermented foods in 3L glass jars with the bale and rubber gasket method that I learned about on MOFA (Maine Organic Farmer's Assoc.) and figured it sounded like a less expensive and easier way to go rather than spending big bucks for a fermenting crock.  Check them out and you decide.The only recommendation I can seriously make about buying the book, is to buy the book,  skip the e-book download if you are really serious about using this information.  I bought the e-book and have been about to pull my hair out on a few occasions using it on my iPad.  The pages DO NOT CORRELATE correctly with the numbers so finding a page is very difficult, search pages do not go to the correct page or read it with a pen and make notes.  You will want to refer back and forth when you are reading descriptions of recipes, making Simple Brine, etc. and try to find them, eeeeck!  Buy a used book because you probably will be using it enough that it will be fairly used and loved before you know it anyway and only slightly more than the e-book.Great book, full of tons of information, easy to read and understand. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Healthy Living </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Excellent information.  Easy to follow techniques in fermenting.  Recommend as a starter book to anyone who is interested in gaining better health thru probiotics. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

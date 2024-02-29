@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00A4K98KY <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-29-2012  
+<h2> review.text </h2>
+
+ <p> The heroine and hero were so funny together and complemented each other very well. I love how they're portrayed and it couldn't get any better when they were made mates. I love them. A good book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny and hot </p>
+
+
+<h2> review.date </h2>
+  12-20-2012  
+<h2> review.text </h2>
+
+ <p> Story was good needed a little longer  especially for full story prices but kassanna writes an interesting story and even short her characters are well written </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good story </p>
+
+
+<h2> review.date </h2>
+  03-12-2013  
+<h2> review.text </h2>
+
+ <p> Enjoyed the action and adventure of a female pirate and her pussycat, aka, panther shifter.  Hot jungle chases and sex. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Purrrrfect action </p>
+
+
+<h2> review.date </h2>
+  12-04-2012  
+<h2> review.text </h2>
+
+ <p> What woman wouldnt like her man to be a little pussy. Especially the right kind and the right one.I like big cats those are the best kind when they turn into hotness. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Here kitty kitty. </p>
+
+
+<h2> review.date </h2>
+  02-03-2013  
+<h2> review.text </h2>
+
+ <p> the lady pirate was a real tiger herselfand she had a real scents of humor  as well as sass thetiger/man was strong and very manly . i like the way he took careof her and got rid ofthe bad </p>
+
+
+<h2> review.summary </h2>
+
+ <p> funny and good read </p>
+
+
+<h2> review.date </h2>
+  11-17-2012  
+<h2> review.text </h2>
+
+ <p> Fast paced, exciting and fiery characters.  This is a well layered story with plenty of natural drama.  The H/h have heat and attraction.  The author holds nothing back in the sex scenes. The only draw back....who becomes intimate when chased by ex drug lords and hunters?  Then again, how many sexy, well hung cat shutters are hanging around.?  If you find one that looks like Alex, be sure to give me a ring. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Frisky!!!! </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> Camilla `Milla' Masters is a pirate who transports cargo that is not quite legal; on this particular jaunt she is transporting exotic animals, one of which is a black panther with arresting green eyes. Her ship is caught in a storm and she desperately tries to free the panther from the confines of his cage. He is finally free but she and the big cat are swept overboard into the churning sea.Alejandro Cavalcanti is undercover investigating the poaching of exotic animals, being a shifter he allows himself to be captured hoping that he can shift back into human form and find the people responsible. What he didn't expect was to be shipwrecked on an island and finding his mate.First of all, I have to say that I absolutely love the cover of this book, it grabbed my attention from the start, and then when I read the synopsis of the story I couldn't wait to delve into this book. A Pussy, A Pirate and Poachers was such an enjoyable read. The characters of Milla and Alex melded so well together even though Alex was in panther form for the first part of the book, the author made sure that the reader could still see the interaction between him and Milla. This helped the reader see the growing connection between the two characters and added another layer to their budding relationship. That's why it was so amusing when Milla decided to name him BOB instead of calling him kitty all the time, the reader knew what his reaction would be. I also enjoyed Milla's response when she realized that BOB and Alex were one and the same after thinking Alex was a figment of her imagination, a dream lover.I have read a few books by the author Kassanna and I like how she makes her characters so realistic and down to earth. She allows you as the reader to settle into the characters and get the full enjoyment of who and what they are. She allows you to see the characters not just as characters in a book but as someone you can relate to, which makes for a great reading experience. Also, she always makes sure that the sex between the characters is spicy, which helps to cement the connection between the main characters.A Pussy, A Pirate and Poachers is a book I would recommend as a quick read on a lazy afternoon, hopefully you'll pick up a copy and enjoy it as well.Originally posted at Long and Short Reviews </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot Read! </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> A Pussy, a Pirate, and PoachersBy KassannaReview by Linda Hays-GibbsMilla is a pirate and a poacher.  She is losing her ship to a storm when the story opens.  Milla is trying to release a panther from its cage while the storm rages and suffers several terrible swipes by the beast but she doesn't give up.  She finally releases the cat and they fall into the sea.  She is about to drown when the cat rescues her.  They swim to an island.At first she is afraid of the cat but realizes that he only wants to help her.  He leads her to water and feeds her with fish.  She is just getting used to these circumstances when they find themselves captured by other pirates on the island.Alex is the panther and he is a shifter.  He is a man one moment and a panther the next.  He finds that he is totally in love with the woman.  She has captured him and he finds he is her soul mate.  He goes with her into captivity with the pirates and shifts in the middle of the night into a man.  He tries to comfort the lady by laying beside her as she is having terrible nightmares.  He finds he cannot keep his hands off her and they make love and demolish the bed.The pirates come into the bedroom and see the man change back into a panther and leave.  They decide the panther is worth a lot of money and try to capture him.  He is baited to come back by using Milla.  She is mistreated and he attacks her attackers.  He tries to rescue her several times and they run into great difficulties.It is an endearing tale.  I loved the shifter part and the great love scenes between the two.  It is rather erotic and tantalizing. The humor was fantastic too.  I really enjoyed this story and wish it would have been longer.  It was way too short.  I give her five stars out of five.  It was an enjoyable read and I would love to read more of her work.  Great job Kassanna.Sincerely,Linda Hays-GibbsThis review was written for The Romance Reviews[...][...]TRRLinda Hays-GibbsRTT and RTRReviewerEternal PressAuthorRoseDru@aol.com </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Fun </p>
+
+
+<h2> review.date </h2>
+  04-02-2014  
+<h2> review.text </h2>
+
+ <p> I just finished reading A Pussy, A Pirate, and Poachers by Kassanna. I have to admit, some aspects of the story are phantasmagorical. But once I suspended all of the beliefs I personally carry for the paranormal, it became a fun journey. The story is a lighthearted read, with some conflict and a lot of loving.Our heroine, Milla, is a female pirate. She is ballsy and more than a bit brash in flavor. But her true colors are easy to see from the start of the novel. Essentially, Milla finds herself shipwrecked with a boat load of exotic animals.In all honesty, she seems of dubious character at first, as the ship is filled with animals poached from their natural habitat. However, she redeems herself by refusing to leave the animals trapped on board the sinking vessel. Not to mention, she sends the rest of the crew away without her.The last animal she is able to save before the ship sinks is a panther. But the panther is much more than he seems, in fact, the panther is really a shape shifter, caught in the wrong place and in the wrong skin. The real spice, however, starts when the panther returns the favor and saves her life in the treacherous ocean by treading water with her the entire night.The panther&#8217;s name is Alex and when they find land, all seems to be well. Until the pair stumble onto a nefarious plan in paradise, masterminded by a kingpin.This story is filled with passion and the lovemaking melded well with the attention-catching flavor of the mystical. Kassanna has yet to disappoint me whenever I want something outside of the usual box of romantic suspense. Not to mention, I wouldn&#8217;t mind having a cat if it were just like Alex.-Reviewed by: Jennifer </p>
+
+
+<h2> review.summary </h2>
+
+ <p> filled with passion and the lovemaking melded well with the attention-catching flavor of the mystical </p>
+
+
+<h2> review.date </h2>
+  11-27-2012  
+<h2> review.text </h2>
+
+ <p> I bought this book because of the premise and other review.  It did not keep my attention but I finished it because I paid for it.  The writing was rather amateurish, but that is strictly my opinion.  It may strike a chord with someone else; I prefer a bit more heat, passion, and fluidity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

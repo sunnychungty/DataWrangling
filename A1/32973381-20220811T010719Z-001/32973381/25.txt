@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000N4Z3TQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-05-2008  
+<h2> review.text </h2>
+
+ <p> I bought this tv a little over 1 year ago. The quality is VERY good, and their customer service is even better (in my experience).My tv broke recently, and they were able to extend my warranty for 6 months at no additional cost, so I could get it repaired without having to pay more cash. Who does that kind of thing anymore? I was amazed. And, customer service hold times have been remarkably short.All in all, the television quality is great, compared to higher end models like Sony Bravias... and the customer service will keep me coming back to Samsung for a long, long time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Samsung = excellent service </p>
+
+
+<h2> review.date </h2>
+  05-25-2007  
+<h2> review.text </h2>
+
+ <p> I ordered 2 of these from Amazon/Electronics Expo the weekend of May 19-20.  EE called me Tuesday, May 22 and shipped the same day.  UPS delivered both Thursday May 24 about 1 PM.  Each box was about 40" x 30" x 8" and weighed about 40 pounds.  One person could easily handle one box and easily set up and move one TV.  Both boxes were unopened and the TVs inside were undamaged.We have Comcast cable TV here in Montgomery County, MD and these tvs were to replace 2 Standard Definition older sets, so I called Comcast.  They told me I could go to their office and pick up 2 Digital/HD "boxes" to connect my new tvs to my cable service.  When I got the boxes home and opened everything and connected everything the last instruction was to call Comcast and have the "box" activated.  That failed.  I called another Comcast phone number for problems and talked to one tech after another after another.  The 3rd tech offered to send a tech to install the "boxes" on Saturday.  He meant Saturday, June 2nd.  The Comcast "boxes" are made by Motorola and do not have the new HDMI connection the Samsung TV has, only the lower quality "Component" connection.  I might have to change to satellite instead of cable.With a new TV but no cable service I went upstairs and removed the antenna from my Bose FM radio and tried that on the Samsung.  It worked!  The TV picked up 27 local FREE over the air digital broadcasts.  Some channels were poor quality, but one was super.  The local ABC affiliate broadcasts several digital channels, one is a 720P signal called ABC HD and it is beautiful!  The picture is clear, bright, sharp and colorful!  This TV is a great upgrade from the older 27 inch SD tv it replaces.  It is a little wider but not much and a little lighter.Ratings so far:  Electronics Expo is great, they did everything just right and their price is great!  Samsung gets 5 stars, the picture is great, the sound is good, this is a wonderful entry level HDTV and a big step up from a 27 inch SD tv.  Comcast gets a failing grade, so far.  I hope the tech they send is not "Larry the Cable Guy". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great TV, Comcast cable TV is a problem... </p>
+
+
+<h2> review.date </h2>
+  07-19-2007  
+<h2> review.text </h2>
+
+ <p> Samsung has performed their best workmanship on this set, it's streamlined, compact and refined. However, the DVDs I've played on my upconversion DVD player, and including HD movies I've watched through my Dish Satellite, the blacks and dark grays leave a sandy trail as well as a translucent phase when the movie scene changes. This seems to be a continuing condition on LCD TVs, but I didn't expect it to be so prevalent on the Samsung since they tout their black receptions as being excellent with a 7000 to 1 ratio.Aside from the spongy blacks and dark grays, the picture quality is excellent, the clarity is superfluous and the viewing angles are excellent without distortion. Nontheless, my next flat panel HD TV will be another brand...perhaps a 32" Sanyo, or a Panasonic, or even a Philips for the bedroom wall.I'm the author of the book KISSING FREUD, a thrilling psycho drama/comedy, and the book DUBROVNIK, an exciting spy action/adventure based in the beautiful city of Dubrovnik, Croatia. Both books are available here at [...]/books. Thanks for stopping by. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LCD </p>
+
+
+<h2> review.date </h2>
+  12-04-2007  
+<h2> review.text </h2>
+
+ <p> I purchased this item after reviewing the reviews and scanning through the discussions about the audio drop-out problem.  I was under the impression that Samsung had corrected the problem in sets manufactured after June 2007.Well I received my set and was pleased to see it was manufactured in August 2007.  I hooked everything up and loved the picture quality and the look of the design.  The first day I got one audio drop.  I wrote it off to a bad handshake on the HDMI cable.  Weeks went by with no problems.  I kept the shipping box just in case.  The 30 day return window passed last week and I tossed the box.  Four days later I have such bad audio drop-outs the set is unuseable!Now I have to deal with Samsung Customer Service.  I hope I have the good luck that a few others have posted and Samsung sends someone out to install new boards. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Audio drop-out is a real problem! </p>
+
+
+<h2> review.date </h2>
+  07-01-2007  
+<h2> review.text </h2>
+
+ <p> If the TV worked correctly, I would have a higher rating for it.This TV is new, state of the art, aSamsung LNT3242H 32" LCD HDTVnd it is loaded with all the best features.  However mine is not working correctly. I've waited quite awhile to write this review in hopes it would be repaired but as of two months later, I am still waiting for that to happen.I had gone to electronics stores nearby and physically looked at HDTV's and this was my choice. Then I investigated online for the same TV, it was a huge savings to purchase it through Amazon. My Amazon purchase arrived from Electronics Expo and the transaction and arrival went flawless and very fast.The TV itself has a beautiful case in shiny black plastic and it swivels on its stand. There is a gorgeous picture. The settings are plentiful and easy to follow with descriptions on screen below each option.The problem I am having with this TV is that it refuses to go through the Auto-Program feature and complete. That prevents me from using much of the remote 'features' such as favorites etc. When I change channels it is very  slow to switch to the new channel.  I called the Samsung repair line and they were instantly helpful and the Samsung technician said he had heard of one or two cases with the same problem.  While we were on the phone he faxed my repair needs to a local TV repair service and told me it would be repaired free under warranty. Samsung told me to wait about 15 minutes and call the store which they gave me the number for and set up an appointment for a service call.I called the store and was informed that they were going to check to see if they needed to bring a part and would call me back to set a date and time for repair. After two weeks I called the store back to see if I had misunderstood them?  I was told they were still waiting for the part and would call when it came in.  As of now, I have had the TV for two months and I am still waiting for a phone call and a repair part. I will be calling Samsung again today to see if they can arrive at some better resolution to the malfunction or if they have an alternative service repair company to send.All in all, I was perfectly happy with the Amazon (Electronics Expo) purchase and the delivery but I have very disappointing feelings with the TV and with the local service company that is contracted with Samsung. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful TV -  Alas it is Broken </p>
+
+
+<h2> review.date </h2>
+  03-26-2008  
+<h2> review.text </h2>
+
+ <p> Received this TV via Eagle earlier than expected.  TV looks great and colors are deep.  I researched a lot of similar LCD TV's and was swayed to the Samsung by Consumer Report's review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great deal </p>
+
+
+<h2> review.date </h2>
+  04-07-2008  
+<h2> review.text </h2>
+
+ <p> I already have a Samsung LN-S4095D (40", 1080p) for the family room and I bought the LN-T3242H for my bedroom. It is noticeably lower picture quality than the big Samsung; it's not just the lower resolution - I only ever watch 480i content anyway. The analog tuner is also not so good - PQ is better if I watch the DVR from the room next door on the composite video input. The main thing I notice is that blacks are nice and black but there's not much effort at grayscale rendition.However, it is perfect for the application and less than half the price of the 40" set.I looked at several 32" sets (Vizio, LG, Toshiba) and the Samsung is much better all round. Toshiba is a very thick profile and has next to no input flexibility. Vizio enclosure is ugly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A pretty good TV for the price </p>
+
+
+<h2> review.date </h2>
+  12-13-2007  
+<h2> review.text </h2>
+
+ <p> This is one of the top rated TV's of this size by Consumers Reports.  I could not decide between this and a Plasma so I decided to buy this set for my sun room and get the plasma later for my great room.  When I received the TV  expected it to be good but it is almost unbelievable.  My old set was almost un-viewable in daylight hours because of the sunlight entering the room.  This set has virtually no glare. The colors are bright and vivid and the sound is outstanding I like it so much that I ordered the Samsung LN-T4661F for the Great Room. (Another top rated Consumers Reports for this size)  I received this set and the second verse is same as the first. If anything the second set may have a bit better sound but it is hard to tell.  If you want a glare free TV with great color and outstanding sound I would recommend either set based on the size of your room. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the best </p>
+
+
+<h2> review.date </h2>
+  09-05-2008  
+<h2> review.text </h2>
+
+ <p> Purchased this TV for spare bedroom/den/man cave. Picture is great with digital cable, really good with regular cable. Easy set-up. Perfect size for smaller rooms. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great For Extra Room </p>
+
+
+<h2> review.date </h2>
+  02-05-2008  
+<h2> review.text </h2>
+
+ <p> My Zenith DVR finally died, and when shopping for a replacement, I learned about HDMI, something that my 3-year old boxy Samsung 27" DTV doesn't have. So, I toyed with the idea of getting a new flat LCD TV to improve the picture, reduce the bulk, and take advantage of HDMI and "upconverting".I went to big-box store "BB" to look at the 32" range (larger is too expensive, smaller not really worth it). Surprisingly, at least to me, a Westinghouse looked the best and was toward the lower price range at about 675. Then, I went across the mall to big-box store "CC", where I thought, again surprisingly, a Polaroid looked the best, at about 650.Went back home deciding I would get a TV. A co-worker suggested I go to a large electronics retailer "F" and check them out. I reluctantly did, because online they were fairly expensive.So, I walked around "F", and they were indeed more expensive - except for this TV which was on a 3-day sale for 599. It had one of the better pictures, with more HDMI inputs and a better contrast ratio than my previous candidates.Ring me up!I can boil the "pros" down to "everything", and the "cons" down to "not much"...though if you are really picky...the control buttons are on the right side, near the bottom, just about where you put your hands when changing the angle of the screen from side to side. The buttons are really more like a lever with forward/backward action, not a recessed push button, so you can accidentally bump them until you train yourself not to put your hand there :-) The shiny black finish is very nice, but prone to fingerprints. Thoughtfully, Samsung provides a cleaning cloth. And, it gets pretty hot on the backside near the top vents. I don't know if it is normal for this type of TV, but it does not seem to affect any thing.I think I got a great deal - it cost me less than my old TV, and has a bigger screen with better image. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bingo! </p>
+
+
+<h2> review.date </h2>
+  04-05-2007  
+<h2> review.text </h2>
+
+ <p> I am thoroughly enjoying this TV.  For the price, this TV is inexpensive that has GREAT quality.  I compared this TV to another 32" (Magnavox) the contrast ratio is 800:1 and this TV is 7000:1...WHAT A HUGE DIFFERENCE...and it shows!  My older Magnavox is a tube TV, and I really thought at the time I was watching a quality picture, but now that I've seen the difference Samsung has LCD technology on lock.  This is truly a bang for your buck! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the best... </p>
+
+
+<h2> review.date </h2>
+  01-09-2011  
+<h2> review.text </h2>
+
+ <p> I've owned this television for almost two years.  It has had software glitches since the day it was first turned on.  For instance, you can delete a channel from the lineup, or add a channel to your favorites, but changes are lost the next time you turn it on.Every night at exactly 10:30 this television will increment one channel.  So, no matter what channel you are currently watching, it changes to the next available channel on its own.  Annoying to no end.Now, after playing for a bit, the set goes completely black and then fades back on except instead of the picture returning to view, you get a couple hundred colored vertical lines.  The only way to obtain the picture again is to turn it off and back on.  This anomaly appears indicative of a software crash to me.Contacted Samsung customer service,and lo and behold I was told the problem is with my cable provider.  Hmmmm, given I purchased a new Vizio for my daughter this Christmas which didn't work right out-of-the-box, and was told this exact same thing by Vizio's customer service as well, I can safely assume this is their standard way of weaseling out of being responsible for the junk they sell.Long story short, Samsung (and Vizio) told me to beat feet.  Apparently, they (and many more like them) are in the business of selling throw-away products to clog our landfills within a few months of purchase.I bought this television in Dec 2008 which makes it 25 months old. In this amount of time Samsung stated there were no software updates for it.  I've worked in the software development business for years.  For Samsung to recognize that in 25 months they could not find a single bug to fix tells me they don't even attempt to improve their firmware products.This television is probably no longer available, which is a good thing.  At the time I paid $800 for it.  At this pricepoint, one should expect more than a few years of service.  My last television lasted 25 years.  I bet we will be hard pressed to ever find the current generation of televisions last so long. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't waste your money on Samsung </p>
+
+
+<h2> review.date </h2>
+  06-26-2007  
+<h2> review.text </h2>
+
+ <p> I bought this TV almost a month ago and absolutely loved it. The amazon price is even more excellent. I paid almost 830 for this TV with free white glove delivery. absolutely amazing picture quality. works well with my PS3 and XBOX. only drawback is the sound. however at this price the value offered is very good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent branded TV for good price </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00GGPKS3W <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-07-2013  
+<h2> review.text </h2>
+
+ <p> &#34;I loved this novella! I can't wait to finish the series. Let me start by saying my husband and I are 17 years apart so when I found out Ernest and Jenny's age difference I was so excited to read their story. There are so few stories with major age differences! I really enjoyed Jenny! I loved her dirty mouth, her attitude, and how she went after Ernest in the end. Ernest is totally swoon worthy. Holy HELL! I love a man who can talk dirty yet still sound so sweet and sincere. Hazel eyes just adds to his sex appeal! Yum! Delicious had me hooked right away (my kids just wouldn't let me read)! Delicious was a fun, sexy read. It was easy to follow and kept me interested even when I couldn't just sit and read. I feel this will be a major success for you!&#34;*ARC courtsey of author Dora Sky in exchange for my honest opinion*Thanks again sweet friend! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Leaves you craving more </p>
+
+
+<h2> review.date </h2>
+  11-05-2013  
+<h2> review.text </h2>
+
+ <p> For a novella it was amazing,and definitely worth the waitWarning !! THERE IS A CLIFFHANGER but that only leaves me begging for more </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Definitely </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> I receive this book in exchange for my honest review. And like the most book that I;ve read this year, I didn&#8217;t read the description and I didn&#8217;t know what to expect. But I have to say that I love it so so much. It was so great. And like the title, it was delicious.It was different from the rest of the books that contains sexual explications. And also the actions was very unique.I see my self when I&#8217;ve read about the girl. So antisocial, so into books, and more she loves Christian Grey. I was so surprise to read that. It is nice to see that are still people out there who prefer to read a book than to go in clubs and get drunk.The idea of she meeting him in a bakery store it is so sexy. And that because I love so much sweets.I love that chemistry between Jenny and Ernest. They are so cute and sexual good together. And when I wanted more of theme, boom, the book is finished. WTF? It just make me more addicted and that because of the ending.Now, I&#8217;m anxious to see how things is going to be between Jenny and Ernest. And more to see about that ending that make me so confused.I recommend this book because it was fun to read it, and because, even if is s short story you will fall in love with the characters. It&#8217;s like pure life in this book, not fiction.:) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Love Story! :) </p>
+
+
+<h2> review.date </h2>
+  01-15-2014  
+<h2> review.text </h2>
+
+ <p> Holy Hot Fudge!!! This Novella should have came with a WARNING!!!I'm usually not a fan of Novellas but I was contacted to read and review this book. I'm so glad I did! I was hooked from the first page. I loved it so much I had to purchase it myself! This is a MUST read.The book starts off with Jenny working at a Bakery. Shes about to head off to college in a few weeks and begins to talk about her previous break up. She's wanted in the front, only to find the most breathtaking man. Now, I have to admit when they first introduce you to Ernest, you will probably hate him but only for a little! After that, be prepared to fall in love with the most sexiest alpha male! Everything he says and does is just panty dropping sexy!!!!!!I also really enjoyed the characters. I felt Jenny was very mature for her age and wasn't annoying like most female leads I've read in the past. And Ernest, do I really need to explain!!!I felt even though Jenny and Ernest didn't know each other for very long they had good chemistry. They understood each other, and the sex is UNBELIEVABLE! I honestly did not want this book to end! The author did an amazing job. It was very creative. In fact, it made me want to run out in the middle of the night and buy a chocolate fudge cake!  I'm really looking forward to reading more of Jenny and Ernest. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hot and Delicious Read! </p>
+
+
+<h2> review.date </h2>
+  11-11-2013  
+<h2> review.text </h2>
+
+ <p> I was immediately drawn to this novella. Desserts and a sexy guy? What a great combination! I liked Jenny she's such a feisty chick, and Ernest? I need more! I've been lured in my desirable Ernest and his cocky ways... He is delicious! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Delicious Ernest </p>
+
+
+<h2> review.date </h2>
+  03-26-2014  
+<h2> review.text </h2>
+
+ <p> It had me on my toes from mid to the ending. I definitely cant wait for the next... Dora did a great job and I love Ernest. For Dora fans please check her beauty interview by me on my blog [...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved the story line idea and the sweet </p>
+
+
+<h2> review.date </h2>
+  01-07-2014  
+<h2> review.text </h2>
+
+ <p> ***WARNING THIS INCLUDES SPOILERS***So I just got done reading this book. I'm not gonna lie my initial thought was 'what the hell has chocolate fudge cake gotta do with sex?'Well let me tell you it's hot! . The way Ernest used the cake to pleasure Jenny had me like 'wow get me some of that cake!Now let's get to it.The storyline- It's not the best I've read and it's certainly not the worst. I felt it took a while to get going, then when it finally does it's great but towards the end it feels kind of rushed- like they'd just met and it was 3 weeks later. But... Totally worth the read for that epic sex scene.I loved Jenny's character. Such a down to earth girl who'd had a bad experience in a previous relationship. She's getting ready to go off to college when a hot male dom sweeps her off her feet...Jenny and Ernest's relationship: I wanted/expected more build up of feelings, more descriptive writing and character development. I wanted to know what she felt when she saw him, what it felt like to kiss him. What she felt when he wouldn't pick up the phone. Things like this you expect in romance/erotica novels/novellas. I just wanted to feel more of a connection with the characters.A certain part of the story had me slightly confused, I'd be reading and then all of a sudden it changed topic/direction I.e Jenny talks about the bakery and how since she's been there all she's done is run around like a headless chicken... Then all of sudden she's talking about the gym and how she once went with a character we have yet to be introduced to. Maybe that's just me?Another thing I'd like to point out is there are way too many references to fifty shades and Christian grey. Maybe once is acceptable but I noticed it way too many times. Just be careful of that.Overall I did enjoy the book and it's a great read if your after a quick hit of smut. Looking forward to the next instalment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hmmm cake </p>
+
+
+<h2> review.date </h2>
+  03-29-2014  
+<h2> review.text </h2>
+
+ <p> I thought the story had a lot of potential. Some things for me didn't flow easily and I just couldn't connect with the characters I was hoping I would. I know it was a novella but I felt like there should have been a bit more. I love the Delicious aspect of the story but that about it. I felt like the male was just to much for me and the female just one who falls for him. I knew what was going to happen from the beginning of the story so it didn't hold much interest, but I still wanted to know what happened. But again this is my opinion I know a lot of my girls really enjoyed this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Potential </p>
+
+
+<h2> review.date </h2>
+  05-15-2014  
+<h2> review.text </h2>
+
+ <p> I really, really wanted to like this book. It had a cute premise: young woman is attracted and falls for an older man, who's all alpha and isn't afraid to show it. Sounds good, huh? Yeah it did to me, but the story just lost me. I just didn't get it. Jenny works at this bakery shop and her boss makes fudge cakes. Her fudge cakes have been known to be an aphrodisiac to sex, so this shop is very popular. Ok this plot is interesting, somewhat. But just kinda felt corny. It was mentioned during their sex scenes together, but did it need to be? I just really didn't see a point to it. For me, food and sex don't mix. It's just messy and frustrating.I felt the writing was a bit juvenile. With time writing can only and hopefully get stronger. I understand that this is a novella, so you may not get as much detail as a full length book, but even with some novellas I've read, I found that those novellas gave me more detail and character description and flow then this one. Then, when you got to the end of the novella I was literally scratching my head. It just ended on a cliffhanger no less. Grrrrrr.In the end, it wasn't bad and it wasn't the greatest I read. The author definitely needs to steady the flow of the story and give us a plot that we care about. There is some definite potential but just not my kind of read. Out of a 5, I'm giving this one a 2. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some potential </p>
+
+
+<h2> review.date </h2>
+  12-26-2013  
+<h2> review.text </h2>
+
+ <p> I was captivated by this delightful and intriguing story. I liked both Jenny & Ernest, and didn't mind their age difference. Jenny is quite mature for her age and Ernest is a yummy alpha male with a bit of mystery. I can't wait to find out what happens next! Also, I will definitely be reading more from Dora Sky!!Delicious whetted my appetite for more in the series; looking forward to book 2! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A very  tasty read!  ; ) </p>
+
+
+<h2> review.date </h2>
+  11-16-2013  
+<h2> review.text </h2>
+
+ <p> This was a super short read. Everything happened really fast. I think they should have done a better job on the editing. Not bad for the author's first book. It has potential but needed just a little more background on the characters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 2.5-3 stars </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> Delicious is a short novella by Dora Sky. It focuses on a young 19 year girl named Jenny working in a bakery called Delicious, which happens to be well known for their fudge cake, a cake that is famous for it aphrodisiac qualities. While on work, a dark broody gentleman pops in the shop and soon Jenny finds herself lusting for the dark mysterious stranger that has awaken her sexual desires. When Jenny and her friend Laila are out and about, dark mysterious stranger once again appears. Introductions are made and soon Ernest, the mystery man and Jenny find themselves flirting and lusting for each other. She wants him and he wants her. Following her sexual desires, Jenny succumbs to his advances and finds herself fulfilling this sexual need that only he can fulfill. What delicious secrets are awaiting for Jenny? Is Ernest sweet or did Jenny take a deadly bite?Overall, this book was a quick read. Be prepared for a cliff-hanger ending. If you are looking for a delicious novella of a young girl taking chances and not being afraid to go after what she wants, then go pick up Delicious. I'm hoping that Ms. Sky will let readers know more about Ernest. Looking forward to the next installment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Delicious- Great Debut!! </p>
+
+
+<h2> review.date </h2>
+  12-12-2013  
+<h2> review.text </h2>
+
+ <p> Let me tell how drool worthy Ernest is!!!! Love me a sexy man candy in a novella.I think this was a cute story that had the potential to be a great novella. I think the guy was a breath of fresh air...the girl I couldn't stand but I don't think that's the author's fault I'm just over all female lead characters in books at this point.Lets talk about this cliff hanger. I knew there was one and I'm generally a fan of them. (I have that hate/love relationship with them) But that wasn't a cliff hanger that was &#34;ohhh I don't want to finish so I think I will stop here.&#34; I scrolled through the book twice thinking i missed something.Overall? I do want to see how this series develops and how the author develops as a writer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> cute story </p>
+
+
+<h2> review.date </h2>
+  01-07-2014  
+<h2> review.text </h2>
+
+ <p> OK ok!!!!!! Amazing novella. I really loved the cake idea,  love how they enjoy the fudge cake. Yummm, hands down a great story. Can't wait for the second part. You Miss Dora did really good!!!! Thumbs up!MrsPattyGrey </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yummy yumms!!! &#128540; </p>
+
+
+<h2> review.date </h2>
+  11-05-2013  
+<h2> review.text </h2>
+
+ <p> Great, intriguing novella. Ernest left me wanting more. Seems like what j was given of him wasn't enough. I miss that old man... Lol </p>
+
+
+<h2> review.summary </h2>
+
+ <p> deliciously hot! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

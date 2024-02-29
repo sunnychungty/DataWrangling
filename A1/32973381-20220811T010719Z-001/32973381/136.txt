@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00BC80UX6 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-27-2014  
+<h2> review.text </h2>
+
+ <p> This battery was just what I needed.  I had ordered one previously and it didn't work but I think it was my fault for not sticking with the right numbers.  This one charged up and works fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just what I needed. </p>
+
+
+<h2> review.date </h2>
+  03-10-2014  
+<h2> review.text </h2>
+
+ <p> I do a lot of zooming in and out with my camera, that can drain the battery power faster than normal. It's good to gave extra batteries with me - I bought two and they work just fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great source of power for camera </p>
+
+
+<h2> review.date </h2>
+  07-20-2014  
+<h2> review.text </h2>
+
+ <p> So far, very good, and lasts long. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great so far. </p>
+
+
+<h2> review.date </h2>
+  12-17-2013  
+<h2> review.text </h2>
+
+ <p> I received the battery in good time and it does the job as we find out Fuji lost one on this camera with NOT putting a matching battery to meet the demanding needs of this camera, the Fujifilm FinePix SL1000,  so now we need & have to be MORE battery conscious than what is needed do to Fuji's failing to get, design, supply the customer/user with a battery that have a &#34;high-enough&#34; or sufficient enough power reserve by having the needed and PROPER  mAh capacity.  As you find out the 1700mAh battery does not last long, they could have and SHOULD  have used a 2200mAh or more battery for this camera design because by using the powerful Zoom and it's quick focus it is demanding much more than the poor Fuji designed factory/supplied  battery can supply and what it was &#34;designed-for&#34; Folks. So having one or two extra batteries is not a luxury but a very unfortunate &#34;necessity here. So these batteries function as do the factory/supplied  battery. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of Fuji's unfortunate Design flaws is their small battery capacity, so you have to buy more batteries than other camera's. </p>
+
+
+<h2> review.date </h2>
+  08-24-2013  
+<h2> review.text </h2>
+
+ <p> Works great, no complaints so far. No fires or explosions so far. A must-have for the SL-1000. Three more words ... ah! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No complaints </p>
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> I bought this for a  trip to Alaska, anticipating that my Fuji S1 would be the primary camera that I would be using on the cruise.  I knew one battery, the one that came with camera, would not be enough.  As expected, this battery had a lot of use and performed, it seemed to me, as well as the brand name battery that came with camera.If you are in need of an NP85 battery, this is a good choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Performs As Well As The Fuji Battery </p>
+
+
+<h2> review.date </h2>
+  11-27-2013  
+<h2> review.text </h2>
+
+ <p> The Extra (Replacement) Battery) works fine: It retains the charge very well depending on whether you are taking photos or using the HD video: </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3rd FIJI Camera Purchased </p>
+
+
+<h2> review.date </h2>
+  12-20-2013  
+<h2> review.text </h2>
+
+ <p> This battery is a good spare for the Fuji SL1000 .I use it and no problems with it. Great Item </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good battery </p>
+
+
+<h2> review.date </h2>
+  05-11-2014  
+<h2> review.text </h2>
+
+ <p> When I ordered my new camera, I was initially disappointed that it didn't take AA batteries.  I ordered an extra Li-on battery and it's worked great.  I've found the battery life to be good, even though I use the zoom setting often.  I can take hundreds of shots--sometimes in just an hour--and it's nice to have a backup battery with me at all times.  The price was good, too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great in my camera! </p>
+
+
+<h2> review.date </h2>
+  05-12-2014  
+<h2> review.text </h2>
+
+ <p> It's always good to be prepared as a photographer. Getting a little extra equipment, doesn't hurt,Just get your pocket book ready. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just a back up piece for your camera. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B005WZAAS0 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-20-2013  
+<h2> review.text </h2>
+
+ <p> I didn't realize when I downloaded these they would be for teens...and adult teens.  This first book didn't go in to sex much but I could have done without all the constant thinking about sex.  This book is geared around sex & first enounter. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Childish for adult </p>
+
+
+<h2> review.date </h2>
+  03-27-2013  
+<h2> review.text </h2>
+
+ <p> Telling Zoe was a s***ty idea... I mean really I don't get it...."DON'T TELL ANYONE!!" Mira says.....And you tell Zoe?? I cried because it was dumb.......so who spills the beans about "Queen Bee" or "Gemma"  Guess I'll find out when I get the next book....Damn I need more money.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really?? </p>
+
+
+<h2> review.date </h2>
+  07-20-2013  
+<h2> review.text </h2>
+
+ <p> This is such a fun story! It is my third India Lee book, and I'm officially a fan. I'll read them all! I can't wait for more HDU books too! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this! </p>
+
+
+<h2> review.date </h2>
+  06-09-2013  
+<h2> review.text </h2>
+
+ <p> I really liked the continuing story of Gem and her dual life and friends.  I like how she tries to keep her private life private and her career separate from everything else. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good series </p>
+
+
+<h2> review.date </h2>
+  02-16-2012  
+<h2> review.text </h2>
+
+ <p> I was sadly disappointed in this second book. The author made me dislike all of the characters I had liked in her first book. She turned Gemma into a party girl who didn't care about the feelings of anyone around her. Total let down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It was Pretty Disappointing </p>
+
+
+<h2> review.date </h2>
+  10-21-2011  
+<h2> review.text </h2>
+
+ <p> So the second book in the Hidden Gem series was amazing! I have to say that it lived up to the first one. I was however a bit disappointed in some of the things that Queen Bee/Gemma got up to. They seemed really out of character for her, but I guess that is part of growing up and living in the crazy world that she does. Even with those disappointments I still really enjoyed the book and am really looking forward to the next one, especially with how this one ended! I am for sure hoping that we get to see some Damian, Lucas, and I guess Tyler in the next one. I will admit that I'm not so much a Gemma and Tyler fan as I am a Gemma and Lucas or a Gemma and Damian fan... so bring on more Damian and Lucas and more GAVIN in the next book!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it, but so not happy with where it ends! </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> Okay before I start I have to say that my review will have some spoilers. Sorry I can't help myself. I was so mad at Gemma but at the same time I totally understood what she was going through. I was even asking myself why she couldn't have both guys in both her lives. I'm still 50/50 about Zoe and Harper. Harper reminded me of Madison and I don't know if I can trust Zoe or not. At first I was all excited cause she finally got friends that she could hang out with and it wasn't her Queen Bee circle. But after reading that last chapter I don't know if I can trust Zoe. Hell it might just even be Chase that's leaking photos of the real her. And I have a feeling that the blogger Tara C. Who is always trashing Queen Bee is someone that Gemma knows. I think it's Madison but I'll just have to read the next book to find out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I want to know what happens next </p>
+
+
+<h2> review.date </h2>
+  11-19-2011  
+<h2> review.text </h2>
+
+ <p> If you have read the first book in the series, you will like this one. I just loved that it is so witty, fast-paced, and had lots of romance in it. I loved all the characters and how India still tells us what is happening to the characters that have left from the last book, possibly as a way of bringing them back in the next one? All and all a very enjoyable book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I really liked it! </p>
+
+
+<h2> review.date </h2>
+  05-27-2013  
+<h2> review.text </h2>
+
+ <p> This series by India Lee is amazing!! It's got a little bit of romance and it keeps you wanting more. I didn't give the book five stars because some of the language in this book is awful, especially for some younger readers. I would recommend this book to anyone who love a great story of romance and good friends. I would not recommend this to younger reader because of the language and some of the more inappropriate scences. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really like this series!! </p>
+
+
+<h2> review.date </h2>
+  03-28-2012  
+<h2> review.text </h2>
+
+ <p> I enjoyed Diamond in the Rough, the second novel in the Hidden Gem series by India Lee, but I didn't like it quite as much as I liked the first novel in this series, Hidden Gem.Here's the deal. Gemma kind of drove me crazy in this novel. She was attracted to Lucas. She was attracted to Tyler. She wanted to be with Lucas. She wanted to be with Tyler. AGH. I understand that things are more confusing for her than most people because of her double-identity. I understand that Gemma Hunter was attracted to Lucas and Queen Bee was attracted to Tyler, but at the end of the day, Gemma Hunter and Queen Bee are the same person and she should only be with one person. Personally, her wishy-washiness aggravated me. I get that it was a tough choice to choose between two amazing guys, but she didn't handle the situation very well.Typically, I have one guy that I like above all the rest, but in this series, I am not sure who I am rooting for anymore. Damian, Lucas, and Tyler are all great guys, but none of them are really the perfect match for Gemma, at least not yet.Also, I really missed some of the characters from Hidden Gem. A couple of the characters from Hidden Gem are barely in Diamond in the Rough. Gemma basically spends the entire first half of this novel as Queen Bee. Therefore, we don't really see any of her high school girlfriends.They make a few brief appearances here and there, but they aren't around nearly as much they are in Hidden Gem. In there place are Zoe and Harper, two celebrity wild child rebels. Zoe and Harper grew on me throughout the novel, but I still don't like how they are a vortex of trouble. I guess I like Gemma Hunter - the good girl. Honestly, I missed her high school friends. Surprisingly, I also really missed Gemma's brother, Gavin. I know he didn't have a huge role in Hidden Gem, but his character was refreshing and entertaining, and I missed that in Diamond in the Rough. He makes a few brief appearances, but he isn't around enough.I gave Diamond in the Rough by India Lee 4 STARS (3.5 STARS).-XOXOREADING, EATING AND DREAMINGFOR MORE REVIEWS CHECK OUT MY BLOG ON BLOGSPOT: READING, EATING & DREAMING I WAS BLAIR WALDORF </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Diamond in the Rough (Hidden Gem #2) </p>
+
+
+<h2> review.date </h2>
+  07-20-2013  
+<h2> review.text </h2>
+
+ <p> I truly have no idea what the meaning of this book was. Why did this story have to be told? Where is the connection, the grand scheme, the red thread? I was not able to find it. To be honest it's still a very refreshing novel to read. Not much clich&eacute;s, surprising choices and an interesting story. BUT it felt as an almost exact copy of the first book. The only difference was that this time the focus was on Queen Bee's life instead of ordinary Gemma. And that's not something I'm very happy with. I want a new story if I read a book, if I want the same story, I'll reread the original one.I also wasn't too happy with some of Gemma's choices. Just like Hidden Gem, Gemma wants to have both. And this time it's 100% cheating! What happened to the girl who didn't want to cheat? Who resisted the attraction between Lucas and her because he was with someone else? What happened to that girl? Why is she becoming exactly what she hated to be? And no, even without kissing, it's still cheating. So don't try to make it into something it isn't. Gemma really disappointed me...It's still a lot of fun to read the rabid fan and pop articles, though. I especially like the craziness of T. who tries, in vain, to discover the real identity of Queen Bee to protect her "innocent" Tyler. Hilarious. It's too incredible for words what she writes, time and time again. Which makes reading her parts even funnier. I also liked the addition of a rabid Honey Bee fan, who is as delusional as T. They really cracked me up every time ^^I was less happy with the amount of alcohol that occasionally flows freely. Mainly because everyone is underage. Call me prudish, but I'm not that happy reading about drunken teenagers, time and time again. They didn't invent the legal drinking age for nothing, it is bad for your body when you drink that much. Particularly on a young age. Not that I have a problem with ONE party and a few beers, but wasted teenagers part after party are not my kind of thing.ConclusionA nice copy of the first book. The story was too much of the same to be original and I didn't always like the choices Gemma made. There's a lot of wasted teenagers in this book, which just didn't sit right with me. There's a reason for a minimum drinking age, and the consequences can be far-fetching. Anyhow, it's still a compelling read and I thoroughly enjoyed the delusions of T. and other devoted fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hidden Gem version 2 </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

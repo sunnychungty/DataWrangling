@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B008HJ9UL6 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-19-2013  
+<h2> review.text </h2>
+
+ <p> Salmon is simple - olive oil, garlic & lemon juice; poach or sear.  These recipes have ingredients that are not generally in my kitchen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Salmon recipes </p>
+
+
+<h2> review.date </h2>
+  09-06-2012  
+<h2> review.text </h2>
+
+ <p> My mouth was watering as I read the recipes.  I'm looking forward to trying them on friends and family. It's nice to have in my arsenal a selection of different choices. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Salmon recipes review </p>
+
+
+<h2> review.date </h2>
+  07-09-2012  
+<h2> review.text </h2>
+
+ <p> I had previously purchased and enjoyed the tasty, boneless chicken recipes from this same author and was delighted to see that the high standards set in the chicken book have been followed up here.The recipes in this book are quite easy to make, which is great for as aspiring, beginner home chefs. The range of vegetables suggested really suit the recipes. Many kids don't like salmon, however the fish fingers recipe is a great idea to get them to try it. None of the recipes are too outlandish, so people that enjoy salmon should enjoy the bulk of what they find in this book.My personal favourites were the paprika salmon and the lemon salmon kebabs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> delivers as promised </p>
+
+
+<h2> review.date </h2>
+  07-09-2012  
+<h2> review.text </h2>
+
+ <p> I have been trying to find a good cookbook for fish recipes for ages and I am so happy to say this is it! All the other books and recipes were so complicated and used methods and ingredients I did not really understand. The recipes in this book are easy to follow and so diverse. The book has salad dishes, pastas, marinades, breakfast ideas, you name it. What I like the most, is that they are quick to make. None of the recipes take longer than 40-50 minutes. That's perfect for someone like me who loves to cook, but never has time for it.I loved the Salmon Fish Cakes (I always wanted to learn how to make this) and I made the Salmon Curry for my husband for dinner and he loved it so much he asked me to make it next time his parents visit us. Really happy with this book. Definitely recommend it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So Worth It! </p>
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> Some of the best recipes  have very had.  There are a few that are easy enough for the kids to make </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yummmy </p>
+
+
+<h2> review.date </h2>
+  07-16-2012  
+<h2> review.text </h2>
+
+ <p> Another well formatted informative book from Jenny. Simple, straightforward and delicious recipes, covering curry, pasta, frittata and more. My favourite has to be the Posh Fish Fingers, and my kids love them too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simply Scrumptious! </p>
+
+
+<h2> review.date </h2>
+  07-13-2012  
+<h2> review.text </h2>
+
+ <p> I love the devise range of salmon recipes in this book; from a smoked pate to salmon cannelloni it covers lots of styles.My children love the salmon picnic rolls, which they like to that in their school lunch box. The picnic rolls take about 40 min's to make and there is just over 30 over them in each batch.Most of the recipes are easy to whip up and they are very easy to follow! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So many ways to make salmon! </p>
+
+
+<h2> review.date </h2>
+  01-09-2014  
+<h2> review.text </h2>
+
+ <p> I eat a lot of salmon, and go fishing in the Pacific Northwest yearly for them. While high grade salmon is delicious just baked with some butter, salt, and lemon, those that eat a lot of it may want more complex recipes. Plus, these recipes sound like they would be good with the lower quality pink, or farmed salmon, which is better with some added ingredients.A few of the reviews mention that the recipes have ingredients that are not common in a normal pantry, and I agree. But most of the recipes only require one unusual ingredient, and I'm willing to buy it for a change up in a meal.Many of the unique ingredients are herbs or spices, which the author recommends to buy fresh. I agree with that, Examples are fresh coriander, basil, thyme, dill, chives, ginger, parsley and marjoram.Other not too common ingredients are Thai curry paste, cr&egrave;me frache, jerk seasoning, harissa Moroccan spice, fennel bulb, sherry vinegar, and fresh chervil.I tried the smoked salmon and scrambled eggs, and it was delicious. I'm going to make the baked salmon strips next.In time, I will make all of the recipes in the book. These aren't anything you will find on the internet.Highly recommended for salmon lovers. This book is a keeper. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very simple, but elegant recipes for salmon </p>
+
+
+<h2> review.date </h2>
+  07-09-2012  
+<h2> review.text </h2>
+
+ <p> Overall this book has some great little recipes for cooking salmon. for me, salmon is one of my favorite foods, so I'll be using a lot of the recipes in this book. If you are looking for some different ways to cook salmon, I highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great salmon recipes for salmon lovers! </p>
+
+
+<h2> review.date </h2>
+  11-29-2012  
+<h2> review.text </h2>
+
+ <p> This book has 31 easy to follow recipes for salmon dishes. I was grateful that the author broke away from the most basic recipes for this meaty fish and gave us some new ones to try without making them too complicated. Most of the items you will need to make these dishes can be found in a basic pantry. I thought the book was well organized and easy to follow and I liked the personal touches the author used when describing the perfect meal accompaniments. I look forward to trying a few of these recipes as they are versatile and can be modified easily to meet the needs and desires of your family. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fresh ideas for salmon </p>
+
+
+<h2> review.date </h2>
+  03-13-2013  
+<h2> review.text </h2>
+
+ <p> Lot of good ideas. Easy to do. Simple yet eloquent. Best Salmon menses I have seen in one place. Great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great ideas </p>
+
+
+<h2> review.date </h2>
+  07-08-2012  
+<h2> review.text </h2>
+
+ <p> I've purchased and read other cookbooks by Jenny Collins and I really like her style. The recipes are very easy to follow and I like the mix of simple and complex dishes.Fish is not really something I normally prepare but I really want to start including this in my regular diet starting with salmon. This cookbook, like the others, does not disappoint. There are many recipes that look very tasty to me starting with the Salmon Curry, Salmon Fish Cakes and the Parsley Encrusted Salmon Fillets. I'm adding one of these to my menu planning for the week. Well done on another great cookbook! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great looking salmon recipes! </p>
+
+
+<h2> review.date </h2>
+  07-18-2012  
+<h2> review.text </h2>
+
+ <p> Salmon is a very healthy fish.These wonderful recipes are outstanding.I cannot wait to try them. I was disappointed that nutritional info. was not provided. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simply Healthy Salmon Recipes </p>
+
+
+<h2> review.date </h2>
+  07-09-2012  
+<h2> review.text </h2>
+
+ <p> I loved Jenny's chicken book and I love salmon, so as soon as this book came up, I grabbed it. Once again, the recipes are easy to read and the directions are perfect.I can't wait the make the Salmon En Croute. I will make it for something special, but this group at my house has to have Turkey for Christmas.Her children must have very sophisticated palates to have salmon as their favorite fish. I couldn't get mine to even eat fish.I immediately made one of her wonderful simple recipes. I made the fish cakes and My husband and I really enjoyed them. The nice thing about Jenny's books is that you can usually find what you want to cook already in your freezer or pantry.Buy this book. You can't go wrong. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Great Book by Jenny Collins!!! </p>
+
+
+<h2> review.date </h2>
+  08-07-2012  
+<h2> review.text </h2>
+
+ <p> We eat a lot of Salmon at our house, but we've kind of gotten into a rut with the same couple of recipes. This book is filled with great ideas that I can't wait to try. Finally bought my own BBQ grill and am especially looking forward to the grilled Salmon recipes. The recipes really are quite simple to make. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book if you love Salmon </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> I liked this book, and enjoyed reading all of the recipes, but I have to agree with the other reviewer. The recipes contained a lot of ingredients that I don't have in my kitchen. Also, the formatting was hard to follow because recipes ran together. There were a lot of ingredients in the recipes as well, so they seemed more complicated than the title implied. Sorry! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lots of ingredients </p>
+
+
+<h2> review.date </h2>
+  07-07-2012  
+<h2> review.text </h2>
+
+ <p> I am a HUGE fan of Jenny Collins' cookbooks.  I bought her Chicken cookbook31 Tasty Boneless Chicken Breast Recipesand have made almost every recipe in it.  So I was excited to see her new cookbook with Salmon recipes.  Salmon is a superfood and I've included it in my diet since early Spring.  But it's hard to come up with new ways to prepare it.Jenny has some wonderful salmon recipes in this book.  All of her recipes are simple, easy to prepare, fast and yet elegant.  And they all look delicious!  As with her chicken cookbook these look to be original family recipes.  She has a nice introduction to each recipe which I enjoyed reading.  She also includes the servings, prep time and cooking time.  She's the only author I've seen who provides cooking temperatures in celcius, farenheit and gas mark.  There's also a nice mix of grilled, pan-cooked and oven-cooked recipes.Some of the recipes that I'll be trying first:  Salmon Cooked in an Italian Style Tomato Sauce, Salmon Fish Cakes and Pan-Fried Salmon Fillets with Cheesy New Potatoes.  If you like simple, easy and tasty recipes I'd recommend this cookbook by Jenny Collins. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another FANTASTIC Cookbook! </p>
+
+
+<h2> review.date </h2>
+  02-14-2014  
+<h2> review.text </h2>
+
+ <p> Did not find a single recipe I would even try.  Most of the ingredients were not readily available in my local grocery store.  I think if is geared more to a European market. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not what I expected </p>
+
+
+<h2> review.date </h2>
+  07-07-2012  
+<h2> review.text </h2>
+
+ <p> This book contains a really wide variety of salmonrecipes ranging from oven baked, steamed, smoked, kebabsetc. No matter what your taste is, there is somethingfor everyone.Although this book is specific for Salmon recipes,I don't see any reason why these cannot be adaptedto other types of fish.Each recipe includes yield, prep time and cooking time.The intro to the recipes gives a nice insight into therecipe along with some practical advice and titbits.Overall, a nicely done book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simple Salmon Recipes </p>
+
+
+<h2> review.date </h2>
+  07-11-2012  
+<h2> review.text </h2>
+
+ <p> In my opinion this book will help you discover a very healthy and extremely tasty recipes and dishes that you will want to make over and over again for your friends and family.If you like salmon31 Simple Salmon Recipeswill help you to enjoy the healthy and new way to prepare delicious and tasty salmon dishes.Read, prepare and joy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Salmon is a healthy fish to eat because of high content of vitamin D and Omega 3. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

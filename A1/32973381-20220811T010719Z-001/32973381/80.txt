@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0041UHKIU <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-28-2011  
+<h2> review.text </h2>
+
+ <p> i use ul30 daily**n53 is a good pc**home->ultimate upgraded-fast enough ~ i7-4gb standard ram is enough, 16gb max cap-clear & natural sound-kb layout w/10key...hard to use, i'm using it w/logitech external 10keymy next one ll be u36jc </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good product </p>
+
+
+<h2> review.date </h2>
+  04-04-2011  
+<h2> review.text </h2>
+
+ <p> Purchased this about one month ago and it's almost everything i expected. It's definitely a workhorse and the different power savings features are a plus. The only drawback for me is the short battery life. I recommend purchasing a secondary battery as well if you're on the road alot.All in all, for the price, you can't go wrong with this machine. Definitely a good buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty Awesome Stuff </p>
+
+
+<h2> review.date </h2>
+  02-10-2011  
+<h2> review.text </h2>
+
+ <p> I've had this laptop for a few days now, and I'm extremely satisfied. Here's my take on all the pros and cons of this machine so you can make a more informed purchase.::::::PROS::::::+ Ridiculously awesome deal. I got this when it was 20% off ($860) and free shipping, and within a day after my purchase they ran out of stock, and it came back a day or two later at only 15% discount. Those quickly went out as well, and the discount dropped to 14%. The deal on this is dropping fast, so try to get it as soon as you can.+ Keyboad is very sturdy with very little flex. I've seen another reviewer or two complain about the flex from the keyboard, however I'm concerned they might be commenting on the wrong model. Flexing is indeed an issue on similar items near this series, but in this particular one it feels perfectly fine. The keyboard features a numpad, which it fits in by sharing a few keys, which is a nice bit of optimization. This is actually one of the more comfortable keyboards I've ever used on a laptop. I was really happy when I got to check this out, because this was my only real concern from reading reviews, and I absolutely must have a quality keyboard because I expect to do a lot of written work on this laptop. Luckily, it feels great!+ Turbo Booster is a really nice feature. Your CPU(s) will automatically overclock based upon the current demands on your system. I'm not much for extra-accessory desktop items, but this comes with a nifty blue bar that sits on your desktop and shows you in real time what your CPUs are being overclocked to at that moment. Very useful.+ Awesome transfer speed. Was moving a lot of large files around, unzipping things and the likes, and it moved at a really awesome speed. No doubt thanks to the quad core i7 processor.+ Sound can go up decently loud for a laptop, and has pretty good audio by that same standard. The sound is supposed to be one of the strong selling points for this laptop, but I didn't buy it for that reason, it's just a nice bonus.+ A great mid-level gaming laptop that will improve in performance over time. Right now, there aren't too many games that truly make use of quad core CPUs, however as more and more do, your performance in games should go up. You sacrifice a little bit of performance today, in exchange for a better overall machine and substantially more performance tomorrow. For example, a dual core machine that is clocked higher may out-perform a quad core i7 by as much as 10% in some games, however if you compare it to a game that supports quad core technology, the quad core jumps in performance by 60-80% (example: Dragon Age), which is a huge boost. This machine also supports up to 16GB of ram, so you'll be able to scale up over time accordingly. A great laptop that should last a long time. Be sure to switch over to "performance mode" when you are plugged in and want to game, for maximum performance (remember to turn it off performance mode when you're done).Some games I recommend trying with your new laptop:TheHunter (free) -- this is a free hunting game, that looks absolutely amazing and is hyper realistic.Alien Swarm (free) -- this is a free co-op game on Steam that is based on the source engine, and deals with lots of units on the screen.Dragon Age -- the sequel is coming soon, but the original Dragon Age is probably the best quad core game on the market right now, a good test!StarCraft 2 (get the demo) -- This actually is optimized for dual core and not quad core, but will still be a good test for you.Shogun Total War 2 -- this isn't out yet, but it releases in March and if they are smart, the game will be optimized for quad core technologies. This would be a perfect game to make use of your i7, I just hope they make use of it.::::::CONS::::::- Touchpad will annoy you. Firstly, the touchpad is far off to the left which I find to be an odd design decision considering most people are used to operating a mousing device with their right hand (I'm left-handed, and even I prefer to operate computers with my right hand from years of conditioning). Another problem with the touch pad is that because it's so far to the left, it routinely comes in your way while typing and causes you to mess up or drop keys when your forearm accidentally activates the touchpad. The clicker is also a rough click, which will make this very poor for mobile gaming purposes. The tracking itself is actually fantastic, it feels really good, but because of its positioning and its tendency to get in the way of your typing, you'll want to get a nice wireless mouse, and disable the touchpad from within your windows system. This way, you'll have a good mouse, and won't have to worry about the touchpad getting in your way while typing.- Epic bloatware from ASUS. As with any new computer, I was expecting to wipe it of a bunch of pre-installed junk, but I was really disappointed with how much extra garbage they had pre-installed. I was only expecting to remove a few things, but there were probably around 20 things I had to remove. For this purpose, I would recommend Revo Uninstaller, which is a great free uninstaller that will even delete the registry files along with the programs to make sure there's not any lingering performance setbacks. After you get past this, life is good again.- 1366x768 max resolution. This is a bit disappointing for such an awesome deal, but I bought this knowing this was a limitation on this unit. If you play a lot of high-res games, or need really high res for art/editing projects and the like then this may be a deal breaker, so consider this strongly before making a purchase.- Webcam is not very good. You never want to rely on a laptop webcam, but I was expecting something a bit more useful. This is disappointing because the laptop has a nice shutter-slider security system, which lets you block your webcam's viewing lens at will for extra security even when you have your laptop turned off.- Weight and size is just slightly too much to be truly comfortable using it on your lap, but that's fine. This is more of a mobile desktop replacement than a sit-in-the-car type of laptop. It'll work great on-the-go provided you have a table to work with.- This laptop is basically the width of a 17 inch screened laptop, rather than your standard 15.6. This is because there is a good inch on both sides of the unit being wasted. This difference is obvious when you sit it next to any other standard-sized 15.6 screen laptop, so if you buy this just keep in mind that you're only getting a 15.6 inch screen for what basically amounts to a 17 inch laptop's space.- Glare on the screen can be pretty intense in light conditions, but you'll quickly learn to ignore it (there are also anti-glare screen covers you can buy off of amazon). In fact I've completely forgotten about it up until I began thinking back to my first impressions when opening up the laptop.::::::PRO/CON::::::+/- The hard drive will come in two partitions (windows 7's fault), which means your OS will be installed on about a 100-something gig space, while the rest of the computer space will be allocated to a new D drive. This isn't technically a con, a lot of people do this because there are a lot of advantages to it, but for me personally I wanted both the OS and the main data from the system on the same partition. This was an extremely easy fix that was resolved in about 2 minutes (look up how to merge windows 7 partitions).::::::WHAT TO ALSO GET::::::~ If you're using this for gaming, don't forget to install Direct X. It doesn't come pre-packaged with the driver software. This can be an easy thing to forget!~ Get a laptop cover. This thing collects fingerprints very easily. If you look up this specific model name (N53JQ) they have a nice black and red trimmed sleeve here on amazon that fits it perfectly.~ Wireless mouse. The tracking and feel of the touchpad is great, but there are a lot of problems with where the touchpad is positioned, so make sure you get a wireless mouse (as you really should anyway, touchpads should always be a last resort). I got two wireless mice, a Berklin USB Retractable mouse (which is very tiny and plugs into the USB and has awesome tracking), and a Microsoft Wireless 3500 for more every-day use as well as gaming. Both mice track very well, even on your leg if necessary.~ Electronics cleaning cloth. I got 3M 9027 High Performance Cloth from amazon, hasn't arrived yet but I knew the first day I got it that I wanted to keep this laptop screen clean. I suggest you do the same (plus, it will work on your android, iphone and tablet screens! So it's a good idea to grab one regardless.- Webcam. The webcam that comes stock with this laptop is very poor, but that's easily resolved by investing a few bucks in a high-quality webcam. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best laptop deal on amazon... but get a wireless mouse </p>
+
+
+<h2> review.date </h2>
+  05-15-2011  
+<h2> review.text </h2>
+
+ <p> It is a well thought laptop. It is worth the money. It is used mainly for everything except gaming.Works well with all type of software including Photoshop CS5 and other photography related software.The speakers are definitely a LOT better than any other laptops. It does bring a lot of junk-ware but on line you could find many websites that explain well which software you could safely eliminate. It helps a lot if additional RAM is added.Definitely it is a good buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Speed </p>
+
+
+<h2> review.date </h2>
+  02-08-2011  
+<h2> review.text </h2>
+
+ <p> I recently purchased this laptop through Amazon.  For the past 5 years I was using the first gen unibody white Macbook 13 inch.  I enjoyed my little macbook and it suited all my computing needs. I use my laptop for pretty much everything from email, iTunes, and social media etc.  However, I was also using my Mac for photo editing on Photoshop.  My macbook max ram was 2gigs and it was using the older Intel core duo 1.87ghz processor on OSX 10.4.  For the most part it was doing the job.  However, I wanted a more powerful machine to run Adobe Lightroom 3.  Lightroom 3 requires a minimum of 2gigs of ram. I knew it was time for a more powerful machine.  I started doing my research and was faced with that age old question.  Mac or PC?  Now to me I cant consider myself a hardcore of either. I use a PC at work and at home a Mac.  To be honest, I like both and know the pros and cons of both.In comparison a Macbook pro 15 inch with similar or better specs will run you about $1800-2000.  I just could not justify myself spending the money.  I started doing my research on PC brands Asus, Dell, Samsung, and Sony.  My research boiled it down to the Asus N53JQ-XV1 listed on Amazon for about $1022.  Then I saw the price drop down to $879 and had to pull the trigger!As mentioned in other reviews, the laptop comes with the pre-installed Asus programs/bloat ware. It didn't take long at all to delete this stuff.  Other than that the laptop runs great!  Uploaded Adobe lightroom 3 and began editing a recent batch of pictures.  Runs very fast and smooth.  Windows experience 5.9 and the little processor turbo boost window is neat to look at.  You can't go wrong with a less than $900 lappy that has an I7 processor, 4 gig rams, 500gig HD 7200 rpm, Nvidia GT425 graphics, and USB 3.0 etc.  This is also my first use of Windows 7 coming from the Os-X and XP environment..  So far, I am really enjoying Windows 7.  Microsoft really outdid them selves with Win 7.Aesthetically the laptop is very nice!  IMHO I don't think anyone out there will beat Apple when it comes to aesthetics but who cares right? I don't.  The screen is nice and bright and the speakers sound great. Some reviews on here note that the keyboard had too much flex. I personally think it feels nice and soft.  Compared to my Dell work keyboard it's very comfy for typing.  The mouse is also a little different for me and after a few days I got used to it.I haven't had a chance to game on this laptop.  I'm not much of a PC gamer and I usually stick with my Xbox for that.  That being said, Nvidia included a  30 day free Starcraft 2 trial coupon.  I might give that a try and I'll add more to my review later once played. .Overall I think for the money and the flat out beastly computer power you get.  You can't beat this deal!Review addendum 2/15/11:  I also recently purchased a wireless mouse. The mousepad on this lappy is kinda tricky at times. You will need to adjust the sensitivity settings. I downloaded World of Warcraft and Starcraft 2 from the Blizzard site to see the graphics.  Everythign works great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You can't beat this deal! </p>
+
+
+<h2> review.date </h2>
+  02-20-2011  
+<h2> review.text </h2>
+
+ <p> This laptop is able to handle any graphic load I've loaded on it so far. Black Ops is a breeze, and iRacing performs flawless with all settings at max. You can tell it's working hard from the amount of heat being generated. The air coming out the exhaust side feels like a furnace. I hope the fan never fails, as this would fry pretty quickly.Other than that...* Mouse pad leaves a lot to be desired. It skips around some, and is inconsistent in sensitivity.* Sound is the best I've ever heard on a laptop. Loud and fairly decent acoustics, although lacking bass, but hey... it's a laptop. I wish Bose would get involved with developing sound for laptops, (although that would significantly add to the price).* Keyboard fails to register some hits when typing fast, as if it is slow to scan key input at times. I find the keyboard comfortable, however.* Asus loads this up with a ton of 3rd party junk, and many "Asus Features" that they don't bother to explain.  Most of them are useless or annoying.* Battery life is average.* Asus support sucks. The only way to contact support is via email, that took 8 days to get a response. There is no way to speak with a human.Even worth the faults, I am happy with this laptop, as I was looking mainly for a portable gamer at a reasonable price. This fits the bill. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lots Of Gaming Power - Marginal Quality </p>
+
+
+<h2> review.date </h2>
+  03-06-2011  
+<h2> review.text </h2>
+
+ <p> Added 6GB Ram [10Gb total] (4 GB isn't enough for software development), and it doesn't lag at all when I'm running 2xEclipse, FireFox, Chrome, Internet Explorer, Opera, MediaMonkey, Thunderbird, Notepad++ on a dual external monitors (1 external HDMI + 1 external RGB) setup.Perfect computer for software development, just needs more RAM and you're good to develop gigantic projects. Maybe later on I upgrade to 16 GB RAM. For now, 10 Gb is more than enough, haven't even reached 6Gb RAM capacity with all my applications.The only thing I didn't like is that the graphics display device this computer bundles with  [nVidia GT 425M], doesn't support nView Desktop Manager, I used it on my old HP Compaq 8710 which has an older graphics device, but has support for nView, and it really helps when you need to have several desktops (development/investigation/administration/entertainment/communications).Even then, this computer performed above my expectations.Update 3/21/2011:Computer is still running great.The bundled Atheros Wireless Card hasn't failed me once and has a good range, and it doesn't "block" or disconnect me suddenly with WPA2-AES wireless security; I mention this because other laptop's wireless cards tend to have sudden disconnections when you have to connect using any form of WPA wireless security.The laptop hasn't overheat; if you use the Power4Gear ASUS tool that comes bundled with Win7, you can set the "Minimum Processor State" speed anywhere between 0% to 100%, if you set the "Minimum Processor State" to 0%, the computer is quiet and cool all the time; you can also set the "Minimum Processor Sate" to 100%, but then the CPU fan runs faster and noisier even if you're running only 1 application. I assume that is the application's (Power4Gear) job: to allow you to configure the processor to have maximum throughput all the time (maybe good for gamers, Graphic Designers or benchmark applications, but don't quote me on that). Personally, I didn't notice any extra performance when I set the "Minimum Processor State" to 100%, so I just left it at 0%. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SOLID DEVELOPMENT COMPUTER </p>
+
+
+<h2> review.date </h2>
+  03-08-2011  
+<h2> review.text </h2>
+
+ <p> I bought the XV1. Thank goodness. I've noticed you can also select an XC1 on the same page. They're not the same laptop! The XV1 has a 7200 RPM hard drive and 4 gigs of RAM, while the XC1 has 6 gigs of RAM and a 5200 RPM drive.Maybe this is why people are getting different results. There may be other differences, but those were the ones that stood out to me.I give 4 stars because I'm not happy they stuck two differently modified laptops on the same page. Oh, and the XC1 is $100 more for some reason.As for the laptop itself, it looks great, has a nice screen, has a built-in video camera that I haven't tried yet, has good sound although I'm not as impressed as I'd hoped to be, and arrived in working condition. Comes with 30 day trial of Trend Micro AV, and MS Word Starter is included for free use, although you have to buy Office 10 to get Excel and Powerpoint.Getting the RAM upgraded should be easy, but I found it impossible to open the screws with my screwdriver because they were too tight. The included RAM gives a Windows experience rating of 5.9, and I'll update that once I have the new RAM installed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Look Carefully Before You Buy </p>
+
+
+<h2> review.date </h2>
+  02-15-2012  
+<h2> review.text </h2>
+
+ <p> This is a great laptop except for the fact that the screen absolutely sucks. The color appear weird, the screen responds slowly; not good for gaming, watching movies, or anything the involves the monitor for that matter. I ended up buying a samsung with similar specs and a very good screen. The speaker on the other hand are VERY good. The sound quality is by far the best I've ever hear on a laptop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Specs, Horrible Display </p>
+
+
+<h2> review.date </h2>
+  04-20-2011  
+<h2> review.text </h2>
+
+ <p> so i bought this computerfor less than $1000. put in 16 gig of RAM for $200. this is a fast beautiful machine. the 64 bit windows works superb with Adobe products. no complaints so far. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> novice computer owner </p>
+
+
+<h2> review.date </h2>
+  02-27-2011  
+<h2> review.text </h2>
+
+ <p> This laptop is utterly amazing. And you can't go wrong with Asus' warranty. There is nothing I don't like about it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing power at such a low price. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

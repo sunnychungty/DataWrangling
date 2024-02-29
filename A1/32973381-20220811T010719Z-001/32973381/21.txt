@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000KDUCU0 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-08-2013  
+<h2> review.text </h2>
+
+ <p> I got this off ebay and it`s really cool. Just push the metal clip in the door between the frame and door edge and you`re set. It`s loud too. It makes a great alarm if you stay in motel rooms. Just pinch the clips together and slip it in the door frame. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great alarm </p>
+
+
+<h2> review.date </h2>
+  07-08-2014  
+<h2> review.text </h2>
+
+ <p> This is really a clever idea for use in a hotel or on a bedroom door. While it is fairly loud, you wouldn't be able to use it from far away. The only drawback is the tweezers-like activation. When you are removing it from the door, you have to make sure you keep the tweezers pinched together or it will go off. That can be a problem if you are around other people who are sleeping. Overall, for the price, I like it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I like it. </p>
+
+
+<h2> review.date </h2>
+  02-11-2014  
+<h2> review.text </h2>
+
+ <p> Dead On Arrival.  I couldn't get this thing to work at all even after changing out the batteries.  DOA and a POC. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DOA </p>
+
+
+<h2> review.date </h2>
+  01-20-2014  
+<h2> review.text </h2>
+
+ <p> Santa Clause gave this (O.K. You caught me.  It was me.) to my fianc&eacute;e for Christmas.  She travels alone a lot, and I wanted something to warn her when someone was trying to get into her motel room.  This has worked perfectly.  It&#8217;s light and compact so packing it is easy and simple.  Unless I&#8217;m with her, I&#8217;ll never feel completely confident that she is 100% safe and protected.  This door alarm, however, helps me feel better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I feel a little better. </p>
+
+
+<h2> review.date </h2>
+  06-04-2013  
+<h2> review.text </h2>
+
+ <p> I recently purchased this for an upcoming hotel stay.  I was travelling on my own. This device is easy to carry, install on hotel door, and remove.  Wrap around door handle and place the fork like piece in the door. This is to be used while you are in the room.  Alarm loud enough to wake most anyone to alert of an intruder.  I plan to purchase more for my home. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Travel Piece of Mind </p>
+
+
+<h2> review.date </h2>
+  09-25-2013  
+<h2> review.text </h2>
+
+ <p> Minor addapting and hid it under Flowers by the Wedding Gift Envelop collection box. Police took the Wedding Crasher away!It made the Reception that much more Memerable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loud and Clear </p>
+
+
+<h2> review.date </h2>
+  03-12-2014  
+<h2> review.text </h2>
+
+ <p> Doberman SE-0203OR Traveller Defense Alarm.I've been using motion-sensor alarms for years, I though this was going to be similar.This dingbat contraption depends on a tight door jamb, which is rare, and it won't sound the alarm until someone has already opened the door. By that time it may well be too late to grab your weapon.As if that weren't enough silliness, the dinky alarm sounds more like a bird twittering. i doubt it would awaken me from across the room.I ordered four of these. Opened one to see how it works. The other three go back ASAP! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works, but silly - NOT VERY LOUD, no alarm until the door is open and the perp is  alreasdy in your room </p>
+
+
+<h2> review.date </h2>
+  09-06-2012  
+<h2> review.text </h2>
+
+ <p> great alarm, looks almost exactly like the belle hop. has the button to push for a flashlight.this 1 is louder, even with batteries switched!!!neither brand goes off accidentally if u know what yr doingget this, not the belle hop </p>
+
+
+<h2> review.summary </h2>
+
+ <p> louder then belle hop </p>
+
+
+<h2> review.date </h2>
+  01-03-2014  
+<h2> review.text </h2>
+
+ <p> I thought this might be a handy thing to have while traveling, but the alarm wouldn't sound on the one I received although the light worked. I give Amazon five stars for their no fuss return policy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DOA </p>
+
+
+<h2> review.date </h2>
+  02-24-2013  
+<h2> review.text </h2>
+
+ <p> I received my second one as a gift, so I'm not sure how quickly I got it.  I wanted a second one for other windows or doors when I travel. It's easy to use, compact and lightweight so it's a great gizmo for a little added security. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bright & Loud </p>
+
+
+<h2> review.date </h2>
+  06-25-2014  
+<h2> review.text </h2>
+
+ <p> We were moving and our house sold faster than expected and we ended up in an apartment for a couple of months with two small children.  We got these for security and to make sure kids didn't leave apartment without our knowledge since it was an unfamiliar environment.  They are interesting.  You pull a white plastic piece out and there are these two about 3" long pieces of metal.  They sort of look like a hair barrette.  They want to spread apart and if they do, the alarm goes off.  If you hold them together in a door jamb or inside the orange and white case the alarm quiets.  The alarm is very loud given the whole thing is no bigger than a credit card (other than width which is still &lt; 1 cm).  The only issue I had at all is that the two aforementioned metal prongs are polished slick metal and even though they don't weigh much, if your door jamb isn't pretty tight that piece can slip down, fall out and set off the alarm.  Also, the metal prongs are straight but do have some flex to them.  They were a little trickier to use on a sliding glass door although we did get it to work.  I'm happy I purchased them overall. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fairly well </p>
+
+
+<h2> review.date </h2>
+  04-27-2014  
+<h2> review.text </h2>
+
+ <p> Sometimes the simple solutions are the best. This isn't the most solidly-built, or loudest alarm - but for the price, it does exactly what it advertises at a good value. I travel with this in my carry-on bag for the many hotels I stay in that are missing (shall we say) any kind of lock other than the door handle. Easy to hang on the door, insert the probe, and sleep soundly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simple </p>
+
+
+<h2> review.date </h2>
+  01-25-2014  
+<h2> review.text </h2>
+
+ <p> Good for a temporary fix but it is not that loud.  I purchased a different alarm that is only a fraction of this priced item and is 10 x louder.  This item is simple but a little odd when applying it as a real deterrent.  Try Wireless Home Doors Windows Security Entry Alarm System.  They are like under $1 and the sound it puts off is 10x louder. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice item. </p>
+
+
+<h2> review.date </h2>
+  12-20-2013  
+<h2> review.text </h2>
+
+ <p> Simple, versatile, reliable, effective (loud).  Decent price.  Compact for easy travel packing.  And since it actuates via a mechanical switch (that you easily set), it's not a battery eater like the proximity alarms are.  Good choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just what I wanted for travel </p>
+
+
+<h2> review.date </h2>
+  11-30-2013  
+<h2> review.text </h2>
+
+ <p> Is not loud enough to wake a normal to heavy sleeper. the design is great, works as described and easy to set up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not loud enough </p>
+
+
+<h2> review.date </h2>
+  04-05-2013  
+<h2> review.text </h2>
+
+ <p> I bought this for my mother's sliding glass doors. Using double sided tape to mount the unit to the door frame, no one could see the alarm from outside. Best portable alarm I have seen. And, it also works great as an animal caller should you happen to walk your dogs in the woods! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

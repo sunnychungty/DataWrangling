@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0037NY8AK <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-31-2011  
+<h2> review.text </h2>
+
+ <p> This is a great little device for adding battery life but has two flaws I still can't get over in order to rate it higher. As others have said, when you plug the iTouch into the extended battery, you lose the external speaker and must use headphones. There are many time, such as when the grandkids are playing one of their games, when they don't want to bother with ear phones.Second, not every set of ear phones will work with the juice pack, since the edge near the plug inlet is so tight, there is not enough room to make a complete connection. I had to Dremel away some of this edge to make my favorite ear phones work. I have an adapter so two people can listen simultaneously--except that there is no way the mophie will accept the adapter!I'd love to see mophie come out with solutions to these issues. If/when they do, I'll be getting more units for myself and grandkids. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No External Speaker; Can't Use Some Earphone Plugs </p>
+
+
+<h2> review.date </h2>
+  05-01-2012  
+<h2> review.text </h2>
+
+ <p> Very well thought. Hopefully it performs well. On its 1st charge. I like the gun metal color. Only thing missing is a screen protector. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT PRODUCT... </p>
+
+
+<h2> review.date </h2>
+  11-13-2011  
+<h2> review.text </h2>
+
+ <p> This case is okay. It looks good, hold the ipod firmly, and works. Only problem is that its very uncomortable to hold either way.I highly suggest just go for a regular external battery </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Uncomfortable, just buy an regular external battery </p>
+
+
+<h2> review.date </h2>
+  01-23-2011  
+<h2> review.text </h2>
+
+ <p> I am very positive on this item. I like the fact the bulk is on the bottom not on the sides.It is superbly designed. I also like the fact the headphone plug is on the bottom right sidein normal use in video view and stops the speakers because it no longer annoys mywife when I inadvertently pull out the headphones during the night. It fits my TV Hat! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Gear </p>
+
+
+<h2> review.date </h2>
+  01-20-2012  
+<h2> review.text </h2>
+
+ <p> When ever I want that extra juice, I just turn it on, I can play with my touch while it's recharging, very nice looking case, love how it feels I was so over with the rubber case that kept coming off. I can't believe that I was able to get it for $9.95 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm loving it! </p>
+
+
+<h2> review.date </h2>
+  11-18-2011  
+<h2> review.text </h2>
+
+ <p> love this this. I think it's essential for the battery eating apps that the ipod touch has. It also makes holding the ipod much easer.One big problem though. I've gone through three of them in a year with the same issue. The switch breaks off. Lame. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great! until it breaks </p>
+
+
+<h2> review.date </h2>
+  02-17-2013  
+<h2> review.text </h2>
+
+ <p> found this to replace one that had been worn out. i travel alot so need the extra power. it's a must if one does travel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fantastic </p>
+
+
+<h2> review.date </h2>
+  06-18-2013  
+<h2> review.text </h2>
+
+ <p> This is overdue for a review. I have this product for years and although it's not a big battery pack, it still provide enough juice for my ipod to last the whole day. This was a good purchase at the time but now since new ipods have been coming out, it's definitely time to upgrade. Overall, I say this was worth it and would buy it again if it ever get lost. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great product. </p>
+
+
+<h2> review.date </h2>
+  04-13-2014  
+<h2> review.text </h2>
+
+ <p> Great for the money. Gives you a full charge right in your hand and easy to use. If i ever buy a new iPod Touch i will seriously give thought to buying one of these for it. Great Product!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great charge capactiy </p>
+
+
+<h2> review.date </h2>
+  10-12-2010  
+<h2> review.text </h2>
+
+ <p> It's a really good product. Does exactly what you want it to do. The only drawback is when the ipod touch is in the case you can't hear any sound without ear phones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> mophie juice pack air </p>
+
+
+<h2> review.date </h2>
+  03-28-2011  
+<h2> review.text </h2>
+
+ <p> This is a great little carry case for the iPod. It is slightly rubbery, which makes the iPod much easier to hold onto. All of the buttons are accessible through the case, and it is an attractive look as well.Electrically, after 4 or 5 charge cycles, the battery capacity fell off dramatically on the two I purchased. These gave several hours of added life the first few times, but now they fall off much more quickly, and are down to one bar (on the 4-bar LED battery display) after just an hour or two. M </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice ergonomic design, poor capacity </p>
+
+
+<h2> review.date </h2>
+  01-02-2014  
+<h2> review.text </h2>
+
+ <p> Did not intend to buy this item, but it seems to work well. I was trying to buy a pack for the iPod 4th gen . . . I guess that's what I get for ordering it when I was half asleep. LOLOne thing, when the unit is on the iPod, it does not allow you to plug in a head set. Seller should disclose this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine </p>
+
+
+<h2> review.date </h2>
+  11-05-2011  
+<h2> review.text </h2>
+
+ <p> When left on, the internal battery continues to discharge even after the iPod's battery has been fully charged, so that it is completely discharged within a few hours.  This is a problem only if you forget to turn it off, or if (as in my case) the on-off button is stuck in the "on" position.  Before it broke:  Pros - looks nice, significantly extended the period of time my iPod touch 3g could go between charges, LED on back gives an idea as to how much charge is left.  Cons - Will not fit into any of my telephone cases, the on-off button issue.  Evidence that the pros outweigh the cons:  I am planning to replace the broken one with the same model. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good except for on-off button </p>
+
+
+<h2> review.date </h2>
+  01-14-2012  
+<h2> review.text </h2>
+
+ <p> I've been draining my Ipod Touch all day, waiting for the mophie to "do its thing".Never happened, as in, the battery icon on the Ipod Touch never showed a lightning bolt, no matter how many "low power" alerts I sat through.I did charge the mophie all night, and when I press the button on the back, all four blue leds light up, so its got a full charge that its not sharing with the iTouch.Also,flipping the "power switch" (whatever the heck its supposed to be) to green resulted in the loss of audio after a few seconds. Turn it back to red, wait a few seconds, restart the sound, and its back.Suggestive, on the whole, of either incompatibility with the hardware, software, or defects in manufacturing or (as some have suggested) refurbishing. As regards sound, could be that the mophie isn't passive (that is, has an onboard audio amp, that the switch turns on and off).I'm done wasting time trying to make it work.Recent iOS versions seem to reject a high percentage of third party chargers. So, external batteries that worked once, might not now. Probably should steer away from any product of this sort. Might want to steer away from iPod Touches also, given their small batteries and proprietary charging.On the plus side, the look and feel is exemplary. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It charged, Ipod Touch 3g with iOS 5.01 never did </p>
+
+
+<h2> review.date </h2>
+  12-29-2012  
+<h2> review.text </h2>
+
+ <p> PROS:InexpensiveWorks with iTouch 2Gs and 3GsMore Than Doubles Your Battery LifeSurprisingly LightweightDurable, Does Double-Duty as Protective CaseMicro USB Port Not Only Charges, But Lets You Sync Your iTouch Via iTunesCONS:Have to remove to use 30-pin Apple ConnectorBOTTOM LINE:Not only would I buy it, I'm on my second one for my own iTouch 3G, and got one for my wife as well </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lots of Pros, Very Few Cons </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

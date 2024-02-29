@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00308BB48 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-27-2014  
+<h2> review.text </h2>
+
+ <p> Ving Rhames is excellent as Fighter Sonny Liston and a well told story!! Mr.Rhames is excellent as always and if you like boxing films..you will enjoy this one!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GOOD BOXING BIO </p>
+
+
+<h2> review.date </h2>
+  09-22-2010  
+<h2> review.text </h2>
+
+ <p> Big Ving Rhames fan always thought that Stacy Dash was a super fox appreciate Robert Townsend attempting to tell the story of such a fame and troubled sports figure. But the story moved slow didn't like how he filmed his fight scenes could have been more detailed overall a 3 star for not bad but good content. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a first class fight film </p>
+
+
+<h2> review.date </h2>
+  03-02-2010  
+<h2> review.text </h2>
+
+ <p> I had the chance to watch an advance screening of this film and am looking forward to owning the DVD to see it again. I was pleasantly surprised how great the acting was; Ving Rhames is terrific as Sonny L. Probably my favorite performance, though, was from Nicholas Turturro, who could give Joe Pesci a run for his money! At times, I had to remember that I wasn't watching a documentary (although I'm sure director Robert Townsend took a few liberties!)With the language and occasional violence, obviously this is a film for adults. Highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Never a dull moment - terrific acting </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> I gave this movie to my sister and one to my brother because I am so impressed my the movie. The 3 of us later got together and discussed it . I certainly would recommend it to my friends and I will keep a copy for my collection...good movie! arrived in 2 days as stated. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> movie </p>
+
+
+<h2> review.date </h2>
+  04-06-2011  
+<h2> review.text </h2>
+
+ <p> Ving Rhames is Sonny Liston in a fascinating story of one of the most hated boxers of all time. If you know little about Liston this film will fill in the blanks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ving Rhames is terrific as Sonny Liston </p>
+
+
+<h2> review.date </h2>
+  03-26-2010  
+<h2> review.text </h2>
+
+ <p> I have noticed above on the spec's it says this movie has English Sub-titles, however when I was at Blockbuster as always I check to see if the DVD's are either closed captioned or sub-titled as both my kids are deaf, the DVD cover said nothing about either, so of course I put it back as I do any movie that has niether.So I am wondering if anybody out here that own's this movie can check for me if this things is truly subtitled and would like to thank whom ever in advance.  Thank You,  Fredrick </p>
+
+
+<h2> review.summary </h2>
+
+ <p> About Sub-Titles </p>
+
+
+<h2> review.date </h2>
+  10-23-2010  
+<h2> review.text </h2>
+
+ <p> I knew nothing about Sonny Liston before this film. All I ever knew was that I wanted Ali to win the fight between the two of them since I only developed an interest in the boxing world because of The Greatest. This film gave me an insite into this man's life and I was truly shocked by the things I learned. This is a film worth watching; albeit, I still wanted Ali to win his bout with Liston. Very good movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Phantom Punch </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> Ving Rhames does a fantastic job of being Sonny Liston.  I've seen a few things about Sonny but this movie kinda gives you an inside view of the man and his frame of mind.  Good Job. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boxing </p>
+
+
+<h2> review.date </h2>
+  06-26-2014  
+<h2> review.text </h2>
+
+ <p> I am surprised Townsend would make such a movie!  It was good, but not Sonny Liston as he really was.  I know it's difficult for Hollywood to make a realistic-type movie about celebrities, although they did an excellent job with Ray Charles.  Val Rhames was too old to play Liston, first off, especially in the 1950's and early 60's.  The people who really played a part in Liston's life wasn't there and they were inaccurate in many things.  I knew the &#34;real&#34; Sonny Liston, and although I like Rhames in many parts, I did not like him in this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a true representation </p>
+
+
+<h2> review.date </h2>
+  03-10-2013  
+<h2> review.text </h2>
+
+ <p> Great Movie about a true sportsman. Too bad his life had to end this way. at least he did not give in. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic Movie </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> Interesting book on Sonny Liston, his story and boxing career that not known to me as I was not aware of what Liston did in boxing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Phantom Punch </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

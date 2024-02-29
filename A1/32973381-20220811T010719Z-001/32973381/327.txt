@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1580174094 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-29-2007  
+<h2> review.text </h2>
+
+ <p> with all this cat food recall going on i came to this site to see if i could find a cook book for cat food. i read the reviews on this book and because someone said there were onions in the ingredients and they were bad i almost didnt buy the book. but i decided i could always leave the onions out if i wanted to. well shame on that reviewer, this book doesnt use onions in the recipes..its a shame he or she didnt actually read and comprehend the information. but heres the real scoop. at the end of the book the author gives a few PEOPLE recipes and then gives some added ingredients you can put in the PEOPLE food to make it CAT food. i guess its sort of a share with your cat thing. the one for kabobs has pearl onions on the scewer which anyone with a brain would take off the scewer and discard rather than offer it to a cat. the other one actually tells the reader to remove the onions from the cat recipe.i am planning on trying all the recipes i need to pick up some brewers yeast and some bone meal. i didnt see any instructions to feed onions to cats and those recipes that i looked at very carefully looked good i have a fussy cat so the jury is still out  as to her eating it but the book is worth it even if only one or two keeps her in knoshes. just wanted to set the record straight here. im glad i didnt listen to that reviewer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a really good book </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> Excellent birthday gift for a friend who loves cats.  Book was in great condition and the content was great.  Thank you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent birthday gift for a friend who loves cats </p>
+
+
+<h2> review.date </h2>
+  03-02-2011  
+<h2> review.text </h2>
+
+ <p> Good service and good book.  This will help in the preparation of cat food for my pets.  I don't like commercial ones.  This is a very good guide/recipe book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ShoSho </p>
+
+
+<h2> review.date </h2>
+  05-11-2007  
+<h2> review.text </h2>
+
+ <p> I bought a copy of this book and haven't seen any recipes that call for onions.  Granted, I've only made about half the recipes so far, but I've seen nothing that will harm our cats. Two of the recipes I've made did call for garlic but the amount was so small that it wouldn't have any adverse effect.I've made the Tuna Cakes and the recipe did not call for onions.  The fish chowder recipe makes 5 servings - no mention of onion, and only one clove of garlic was needed.I'm also pleased about the various safety tips throughout the book. I recommend this book to all.Real Food for Dogs: 50 Vet-Approved Recipes to Please the Canine GastronomeThe Kitten Owner's Manual: Solutions to all your Kitten Quandaries in an easy-to-follow question and answer formatCat Toys: How to Make Your Home a Feline Paradise (Storey Country Wisdom Bulletin, a-251) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Are we all rating the same book? </p>
+
+
+<h2> review.date </h2>
+  10-22-2008  
+<h2> review.text </h2>
+
+ <p> I was all set to purchase this book in a grocery store after reviewing the contents and wanting to provide a healthy alternative for my cats.  I had NO idea that onions are not safe for cats, even though I've had one for almost my entire life.  If nothing else, you saved two cats! Thanks!  And Amazon, get this off your shelves!  Here's a great tip for everyone: NEVER buy anything until you read the reviews on Amazon first! This isn't the first time a review has saved me from making a bad buying decision! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thank you to everyone about the warning on this book! </p>
+
+
+<h2> review.date </h2>
+  05-14-2013  
+<h2> review.text </h2>
+
+ <p> It has different recipes for both cats. Pretty easy to make, pets should love this one.A interesting read. Cats require a different diet than dogs. They have to have more protein in their diets than dogs do. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good cat recipe book. </p>
+
+
+<h2> review.date </h2>
+  07-27-2012  
+<h2> review.text </h2>
+
+ <p> I felt compelled to write this review after reading the others on this site. I got this book in 2005 and have used many of the recipes. Apparently I got the revised edition because there are no onions in the recipes. Not even the one on page 23 quoted by the "Abbey is wrong" person. A few in the people recipe section do but the author tells you to leave them out of the portion you give the cat. So I suppose if you have the old edition then that might be a problem. But I don't and I really like this book. My cat has been eating these recipes for almost seven years now and is as healthy as a cat can be. Plus he seems to enjoy eating them, and I enjoy making them for him. So don't immediately reject this book based on some outdated reviews. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty useful book </p>
+
+
+<h2> review.date </h2>
+  10-14-2007  
+<h2> review.text </h2>
+
+ <p> There are no serving sizes per recipe of by weight of cat.  Calories are missing.  How can I feed my cats a healthy diet without this vital information? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Useless </p>
+
+
+<h2> review.date </h2>
+  02-19-2007  
+<h2> review.text </h2>
+
+ <p> Before you even CONSIDER buying this book, take a few seconds to try this instructive little exercise: type "feed onions cats" (without the quotation marks) into your browser's search field, and see what comes up.  ONIONS ARE TOXIC TO CATS.  Cats are obligate carnivores, and many common plant compounds that humans ingest daily are actually poisonous to them.  I wish that there were some way to get this book out of Amazon.com's database.Many thanks to Cat Rescuer (see below) for being the first to spot this unbelievable incompetence and warn unsuspecting cat owners away from this "cookbook".  This review is largely a repetition of what Cat Rescuer has already said; I just added this one on to knock a star off of the book's rating.  Please feel free to do the same. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outright Dangerous </p>
+
+
+<h2> review.date </h2>
+  09-22-2009  
+<h2> review.text </h2>
+
+ <p> As many other reviewers have mentioned, these recipes as originally formulated contain onions, which are toxic to cats.If you are thinking, So what? I can leave to onions out! The new edition doesn't have onions in the recipes, so it must be fine!PLEASE reconsider. This book was obviously written by someone who did not know the first thing about feline nutrition. It just as obviously never underwent any kind of editing by anyone who knew anything about feline nutrition. This is not a small problem: Nutritional deficiencies can cause VERY serious and irreversible health problems in cats. (Would you trust a nutritionist who recommended giving your kids arsenic?) Please find another book, or better yet, talk to your veterinarian. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Please do not buy this book </p>
+
+
+<h2> review.date </h2>
+  04-22-2007  
+<h2> review.text </h2>
+
+ <p> Onions can cause Heinz's Anemia in cats.  I would not take my cat to any vet that approved feeding onions to a cat.  This book has dangerous recipes.  Spend your money on better book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Vet approved??? </p>
+
+
+<h2> review.date </h2>
+  01-07-2010  
+<h2> review.text </h2>
+
+ <p> This book should be recalled and destroyed.Feeding onions to cats??How on earth did this book ever get past the editing stage?Unbelievable! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dangerous Book! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

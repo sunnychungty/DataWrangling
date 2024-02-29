@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000246U1C <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-04-2007  
+<h2> review.text </h2>
+
+ <p> Bought this unit to help my hearing impaired mother-in-law with TV listening. It's portability makes it convenient. Sound quality is fair.Has "humming" noise when TV volume is muted. Occasional high pitch interference is noted. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good but could be better </p>
+
+
+<h2> review.date </h2>
+  04-24-2009  
+<h2> review.text </h2>
+
+ <p> I've been using this setup for a couple years now.  It works great!  Depending on where you set everything up, you may get static but just move it or change the channel.  Works good inside and out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Quality And Portable </p>
+
+
+<h2> review.date </h2>
+  12-01-2007  
+<h2> review.text </h2>
+
+ <p> Transmitting from inside the house to the backyard, for a distance of about 35 feet did not work well.  The audio was noisy and intermittent.Even with a good connection the sound quality is not very good.  There are other solutions for wireless audio that I have tried and they work much better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> mediocre </p>
+
+
+<h2> review.date </h2>
+  09-10-2005  
+<h2> review.text </h2>
+
+ <p> Great sound, flawless automatic tuning.  Invest in 8 NMHI batteries.  The unit will keep them recharged.  Great battery life.  Read the directions - try it their way, first.  Why pay more? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Why so cheap? </p>
+
+
+<h2> review.date </h2>
+  04-17-2008  
+<h2> review.text </h2>
+
+ <p> I purchased this speaker to compliment my Acoustic Research AW-871 Wireless Stereo Speakers for use both inside and outside my home. The setup was remarkably easy (follow the directions) and the sound and output is great for both my stereo system and for the large screen TV. I would and have recommended this setup to friends and family. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does what it is supposed to! </p>
+
+
+<h2> review.date </h2>
+  08-13-2006  
+<h2> review.text </h2>
+
+ <p> I wanted background music on my deck. I bought 2 of these units. They sound very good for this purpose. There is a small amount of hiss, but it really isn't noticeable in my environment. The units have worked dependably for the entire summer.A few notes:- If you use regular batteries, DO NOT PLUG THESE UNITS INTO A WALL RECECPTICLE! The unit will try to charge the baterries and destroy them. Rechargeable batteries are available, but cost a lot. I have used one set of regular batteries all summer. So I question the need for rechargeables other than environmental concerns.- The speakers do not turn on immediately. It takes a few seconds for them to find to correct frequency.- Be careful adjusting the gain level on the transmitter. It has a big impact on the sound you get from the speakers.(Don't bother buying the unit without the transmitter. For the few extra dollars you get a spare transmitter. I hooked one to my TV to broadcast the cable music stations. I connected the other to my reciever.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does what I want </p>
+
+
+<h2> review.date </h2>
+  08-18-2005  
+<h2> review.text </h2>
+
+ <p> After the countless negative reviews I almost didn't buy it.  But I'm glad I did.  You must read the instructions CAREFULLY. The on/off switch is tricky you have to "HOLD" in for a few moments to turn it on and off. Also the signal from the base, when you are not receiving you must adjust the signal so the light on the base is "flashing", a constant light on will not work as well.  I have no complaints about the product and would recommend it to anyone. I have satellite radio and wanted it for football games while grilling outside, again, works fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No problems </p>
+
+
+<h2> review.date </h2>
+  01-07-2007  
+<h2> review.text </h2>
+
+ <p> Acoustic Research AW-811 Indoor/Outdoor Wireless Speaker (single)[REVIEW UPDATE - 02.07.2009]Another discovery I made recently is that the type of audio source you have attached to the antenna makes a big difference as well.  For example, I had to use my tweaks below to make the unit sound good with an iPod Nano (one I found the right channel, it worked great).  However, a Sony PSP will produce a good signal right from the start.  From my computer, I had to do the tweaks.  From my stereo, I had a good signal right off the bat.  So, also try playing with different audio sources and see what your results are.[ORIGINAL REVIEW]Initially, I had problems getting this unit to work (this may have been because my unit didn't ship with instructions).  Like many previous reviewers, I either got no sound at all or couldn't get reception very far away from the transmitter -- and when I did, it was full of static.  But, after a little trial and error, I have it working great and I must say it sounds pretty darn good.One important thing I've discovered is not to plug the speaker in and/or turn it on until you have the transmitter hooked up to your audio source and the blue "Level" light is displaying on the front.  Once you do, turn the speaker on and see if you can get good reception.  From what I have read, for some people, the unit works right off the bat and sounds great.  If you have a solid green light on the front of your speaker and the sound quality works for you, then consider yourself blessed -- you are good to go.  But if, like me, you do have a lot of static or no sound at all, try the following fixes:1. Play with different channel settings on the back of the transmitter; there are only three, and one of them should produce a stronger signal than the other two.  Find the strongest signal to your speaker and leave it there.  DO NOT FORGET to turn the speaker off and on again after each time you change channels on the transmitter!  Yes, running back & forth from the transmitter to the speaker is a hassle, but it's critical that you do this or you'll have trouble getting a green light on the front of the speaker instead of a red light.  In fact, I don't think the next fixes will make any difference if your speaker has a red light with no sound at all -- so it's imperative that you get SOME type of reception (even if it's intermittently blinking green/red) before you try the next two steps.2. Try raising/lowering the transmitter and the speaker itself.  For some reason, my transmitter works better when it's behind my stereo.  You would think that the higher the transmitter, the better the signal, but this hasn't been the case with me.  Additionally, I found that when the speaker is underneath certain things like a wrought iron table, you might get more interference than you would if the speaker was on top of said table, or underneath something like a wooden bench.3. Once you do get reception, try adjusting the level on the transmitter and volume on both the audio source and speaker unit.  From where I am transmitting, my speaker reception is best when I have the transmitter level at about 50%, the volume on the audio source at about 35%, and the volume on the speaker at 100% (you can always turn the speaker down using the volume control on the speaker itself if you don't want it so loud, which is a nice feature).  You won't knock down any buildings with wall of sound at these settings, but for me the reception is crisp and the treble/bass sounds very good.I hope this info is helpful and saves you a little frustration, because it really is a nice little unit.  I'd be interested to any additional tips/suggestions you may have. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Takes a little tweaking </p>
+
+
+<h2> review.date </h2>
+  02-01-2006  
+<h2> review.text </h2>
+
+ <p> good, reliable, works all the time. I am happy </p>
+
+
+<h2> review.summary </h2>
+
+ <p> pretty good quality, does the work </p>
+
+
+<h2> review.date </h2>
+  03-31-2007  
+<h2> review.text </h2>
+
+ <p> This wireless speaker does the job that I want to.  I have connected my iPod docking station and PC audio to my AV system.  As long as I output the audio from the AV system to transmitter, I get the music in the backyard.  Now, I can listen to my favorite MP3 songs and Internet radio in my garden.  The sound quality is okay since I have only one (mono mode), but I don't really care that much.  The only thing I don't like is the power adpater is not meant for outdoor.  However, for the value, I can bear with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works as described, I like it! </p>
+
+
+<h2> review.date </h2>
+  06-13-2007  
+<h2> review.text </h2>
+
+ <p> I needed an outdoor speaker so I could play our CD collection on our Sony Megachanger outside. The AW-811 does everything it's advertised to do. I hooked the transmitting antenna to the headset output of our stereo receiver and the speaker plays just fine outside about 30 feet away. It has good tone and a fair base, and was about $30.00 cheaper than Circuit City. Works for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AR AW-811 Outdoor Wireless Speaker Review </p>
+
+
+<h2> review.date </h2>
+  08-14-2005  
+<h2> review.text </h2>
+
+ <p> I purchased two of these speakers so I could have music outside on the patio.  I plugged them in and got them set up in a couple of rooms in the house.  The sound quality was much better than I expected and I was really happy with my purchase.  Then I put batteries in one.  I read ALL of the instructions first.  Followed those instructions to the letter.  When I turned on the speaker with the batteries, it came on for a fraction of a second and then shut off.  I spent the next hour taking batteries out and in and plugging it in and unplugging it... it never came on again.  Dead.  Money wasted.  The other speaker still works fine and has never seen a battery.  I suspect that there is some faulty wiring in these speakers that causes them to permanently shut off when you use batteries.  Read the other reviews.  I'm not the first to have this problem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It worked great while it worked </p>
+
+
+<h2> review.date </h2>
+  01-17-2013  
+<h2> review.text </h2>
+
+ <p> This makes it easy to take the speaker with you. If you are working in the house, garage, or outside, you can take it with you as needed. You use batteries that can recharge and you never have to replace. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Acoustic Research AW-811 Wireless Speaker. </p>
+
+
+<h2> review.date </h2>
+  10-25-2005  
+<h2> review.text </h2>
+
+ <p> We purchased this item over the internet. Upon receipt of the first unit, we discovered it did NOT work. We had to send it off to the manufacturer, at our expense, via UPS. Did not think we should have had to pay that expense. Upon receipt of second unit we have used and thoroughly enjoy the quality of sound and the portability. Would highly recommend this unit to anyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wireless Portable Sound System </p>
+
+
+<h2> review.date </h2>
+  09-12-2007  
+<h2> review.text </h2>
+
+ <p> I just got this speaker delivered to me today.  It took about 3 minutes to set up and hear it working perfectly.  The only glitch I see is that it took about 30 seconds after the DC power supply was connected to the unit (speaker part) before it "woke" up.  In fact, the same sort of delay was evident once I plugged it into its permanent outlet instead of the one I used to test it.  So, maybe, some of those who tried it didn't wait it out?  Doubtful, I know, but just a thought.  I like the fact that it can get the audio source from either a RCA line out on your component or headphone jack (large adapter incl).  I am not setting the speaker from the source but through a couple of walls and it sounds great!  I think I am going to buy two more..... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked perfectly right out of the box..... </p>
+
+
+<h2> review.date </h2>
+  08-01-2005  
+<h2> review.text </h2>
+
+ <p> Like one of the other reviewers, I use this speaker primarily to listen to Streaming Internet Baseball broadcasts in my yard, while safely keeping my computer indoors.  The range is excellent, and it puts out plenty of volume.  I'm not sure I'd recommend it for audiophile listening, but the sound is definitely as good as a decent radio or boombox.  Plus, the price from Amazon is unbeatable -- Best Buy sells the same thing for over $100!  This is a fine product that performs exactly as advertised. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great! </p>
+
+
+<h2> review.date </h2>
+  09-28-2005  
+<h2> review.text </h2>
+
+ <p> I bought this speaker to use outside on my deck when using the pool, hot tub, etc. Originally I hooked it up to my computer which is on the second floor on the opposite side of the house. I brought it outside, and the reception was great!  The sound is good, but I only have one so it is mono. It's good for background music, but if you really want high quality sound you'll have to spend a little more. The only minor complaints I have are that sometimes it takes a lot of fiddling around with the base unit to get the speaker to pick up the signal. You also need to be flexible about where you put it as it sometimes gets some interference. Ususally moving it a little one way or the other fixes it. Overall I'm very happy with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good speaker at a great price </p>
+
+
+<h2> review.date </h2>
+  08-13-2005  
+<h2> review.text </h2>
+
+ <p> Mine worked great for a little over a month, but the on/off switch had intermittent problems, and the unit finally would only stay on for 30 minutes or so.  Warranty period of course is lapsed.  Don't waste your money on this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked for about a Mont </p>
+
+
+<h2> review.date </h2>
+  07-26-2006  
+<h2> review.text </h2>
+
+ <p> I ordered the AR wireless speaker and headphone combination.  They were shipped separately.  The headphones arrived first and work as desired.  Today the speaker came.  I set it up according to the directions and by chance selected the same channel the headphones were on.  The XMradio, which the headphone transmitter was attached to, immediately came through the wireless speaker.  I am debating whether or not to order another speaker to get stereo.  The quality is as expected from a plastic bucket, as another reviewer called it.  To be used as a weather-proof outdoor speaker it will perform as expected. I am completely satisfied, but can only give a 4 as I'm not over-whelmed with having to use 8 size C batteries with it.Edit - the speaker went south.  It no longer works and is thrown away.  I would not buy another.  I now would give it less than a one star if I could change it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Finally Failed - 11/2006 </p>
+
+
+<h2> review.date </h2>
+  09-11-2005  
+<h2> review.text </h2>
+
+ <p> This speaker is great for bringing with you on the deck, patio, or garage for some background music.  It is easy to set up, and the automatic tuning makes use a snap.  Good price for a decent product.  If you can find eight rechargeable "C" batteries, the AC adapter that comes with this speaker be used charge the eight batteries required to power the speaker as well as power the speaker directly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to use with decent sound </p>
+
+
+<h2> review.date </h2>
+  01-17-2006  
+<h2> review.text </h2>
+
+ <p> Bought two, in spite of the rampant power switch problem comments here.Both worked ~1week/1 bbq session. Both units using a single transmitter in 'stereo' mode. The next usage one speaker stopped turning on. It didn't take any jarring or abuse to stop functioning... Appears to just be a product of using the power switch. Oh, and the power switch is always off, unless you push to turn it explicitly 'on'. So there's no trying to control it's state using the power cord -- the option I thought I'd try pre-order, based on the known-issues with these.I've considered tearing the broken one apart and trying to bypass the switch and splice in a volume potentiometer, as I'm pretty sure everything except the wacky hybrid power/volume switch itself is fine.The remaining speaker works fine. Range wasn't bad either: I could get a signal from the transmitter in my living room to roughly 25yds away in my detached garage, next to my smoker. Not to mention there aren't many good options in this niche (I looked before I leaped). When it works, it works, so it picks up a couple of stars in spite of the issues, due to lack of alternatives.Yes it includes a charger, nice touch. But six c-cell rechargables ran $60+ last I checked. You really have to want to have this unit completely wireless to drop that kind of change on a $50 speaker -- esp. one with this type of failure rate.This unit would probably be fine, if AR would throw out the fancy hybrid switch and put in a couple of simple dedicated-function controls. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well one's still working fine. 1 for 2. </p>
+
+
+<h2> review.date </h2>
+  12-08-2007  
+<h2> review.text </h2>
+
+ <p> This product was purchased because of the concept. It is useful for mp3 player type things. I didn't realize that it would mute the sound on the tv or stereo and only have sound coming from the one speaker. Therefore this is not a speaker system you would use for a party, more for taking outside for washing your car. The sound is fair but still like the idea of it being wireless. Haven't tried it without the wire yet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's ok </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

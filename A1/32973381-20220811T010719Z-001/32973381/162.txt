@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 6303046479 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-15-2008  
+<h2> review.text </h2>
+
+ <p> VHS sucks, but this is one of the better sci fi/horror entries from the 1950's. Let's get this and a few others on DVD already. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Put Monster on DVD for goodness sake </p>
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> Variously known as STRANGER ON CAMPUS, MONSTER IN THE NIGHT, and most commonly MONSTER ON CAMPUS, this 1958 "c" flick is the sort of thing you took your girl to see at the local drive-in.  But although there's nothing original about it, and certainly nothing scary about it, the movie is surprisingly well made and quite watchable.The plot concerns a university professor (Arthur Franz) who has acquired a fish thought previously extinct.  But when a dog drinks the bloody water trickling from the frozen fish remains he grows fangs and turn savage.  Later, and perhaps most entertainingly, a dragon fly nibbles on the fish--and turns into something with a three-foot wing span!  But most unfortunately, the professor in question himself is infected, and transforms into an ape-like creature that runs wild, killing a female admirer, a body guard, and ultimately a forrest ranger.  It's all silly stuff, especially the monster make up, but it all clicks by with such speed that you don't have to be bored with it, and the cast makes it fun.  Arthur Franz and Joanna Moore were memorable character actors, and the film also gives an early glimpse of Troy Donahue.I think the best part of the movie is the giant-sized dragonfly, but there will be something to amuse everyone in this light-weight 1950s horror flick, even though it doesn't have much in the way of horror.  Recommended for the fun of it.GFT, Amazon Reviewer </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What Is It? </p>
+
+
+<h2> review.date </h2>
+  07-03-2001  
+<h2> review.text </h2>
+
+ <p> This is a classic forerunner of the teenage horror genre. A college professor sensitively and believably played by Arthur Franz is exposed to a blood specimen of a thought to be extinct prehistoric fish, which unknowingly turns him into a dangerous bloodthirsty Neanderthal. This is actually a fun and entertaining movie that holds your attention. Competently directed by Jack Arnold (from New Haven). Good cast includes Troy Donahue, Joanna Moore and Whit Bissell. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Camp Horror Classic </p>
+
+
+<h2> review.date </h2>
+  01-09-2007  
+<h2> review.text </h2>
+
+ <p> I Love this movie. It's nothing special but it came from Universal which means it's a cut above AIP and nicely photographed. It's really all about atmosphere and it has a nostalgic 50's look about it. I can't add much to what others have written except to say that Leading Lady Joanna Moore is the mother of Ryan and Tatum O'Neill. You seldom get to see her in a major role. My favorite scene is when Miss Moore runs her 1958 Desoto Fireflite convertible off the road to avoid the rampaging caveman. Thrilling stuff for a teenager in 1959! By the way, Molly Riordan's car is a 1958 Plymouth Belvedere convertible. Just thought some of you misght be curious. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> College Caveman </p>
+
+
+<h2> review.date </h2>
+  03-31-2007  
+<h2> review.text </h2>
+
+ <p> Sometimes you're just in the mood for one of those old black and white 50s sci-fi classics, so corny and low-budget, and yet, oh, so satisfying.  "Monster on Campus" stars handsome Arthur Franz as anthropology Professor Blake, who has just received a rare species of fish unchanged since prehistoric times.  First, a dog (owned by student  Troy Donahue) comes in contact with the fish's blood, and becomes a snarling prehistoric wolf.  Next, a tiny dragonfly drinks some fish blood and becomes as big as a model plane.  And then, Professor Blake is exposed to the blood and, well, you can only guess at the unmitigated horror!This movie was directed by Jack Arnold and continues in the tradition of some of his other films, such as "Creature from the Black Lagoon" - the script is beyond corny but the acting is so sincere you go along with it.  Arthur Franz was the perfect nice-guy who is dedicated to scientific research even at the risk of his own life.  Joanna Moore plays his nubile love interest and later, helpless victim of the Monster.  Troy Donahue is wooden and forgettable in a small part just a year before his breakout role in "A Summer Place."  This is definitely one of those campy "so bad they're good" movies, just right for some cheesy fun. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Get yer cheese right here! </p>
+
+
+<h2> review.date </h2>
+  10-15-2007  
+<h2> review.text </h2>
+
+ <p> This is the last film included on the Ultimate Sci-fi classic collection DVD set. 'Monster on the Campus' is a fast paced typical 50's drive-in horror movie that will evoke some unintentional laughter in parts, but it does have some good qualities as well. There is a good well known cast and the special effects are better than some of the lower budget horror films from the time. The best asset the film has is ....it's fun! This is part of a cool Sci-Fi DVD collection mentioned above. The other films included are really good but, having this to round out the 5 films is fine by me. The DVD transfer looks great...very clean! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SILLY FUN 50'S HORROR FILM WILL ENTERTAIN YOU! </p>
+
+
+<h2> review.date </h2>
+  03-16-2010  
+<h2> review.text </h2>
+
+ <p> Loved this one. Wanted a 4 1/2. It may not be a five star review, that is reserved for true classics. Still, this one delivers on all counts. Under rated Arthur Franz plays it good in this one. Supporting cast, except for his beautiful fiancee' and her father, are pretty much filler. The "special" effects are hokey and thats what makes it loveable. Its hard to think of actors being convincing about plastic fish and bugs [not mention the obvious rubber mask] but these are pluses. Jack Arnold is a master of more for less. Could have been a downer, but makes up for it with a fun story that is played by an earnest lead and allows the issues to be forgotten. Too bad a story like this couldnt be more contemporary. There are no real "messages" to preach about. Just non-stop entertainment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Load of fun </p>
+
+
+<h2> review.date </h2>
+  06-20-2009  
+<h2> review.text </h2>
+
+ <p> I saw this last night for the first time since I was a kid.  I intended to watch a few minutes and head to bed, but found myself strangely engrossed.  It's not Shakespeare, but if you take the movie on its own terms it's good fun.  Some of the complaints you might make -- fairly cheesy monster, ponderous speeches by the scientist -- are staples of the genre, and more than ok.  The transformation scene is definitely NOT the best one ever, but it's all right by the standards of the era.  The image of the first murder victim -- officially she was "scared to death" -- I found quite eery, and if you have one of those moments in a horror movie, you're doing pretty well.  Most impressively, there were many moments when I expected a standard stock response from one of the characters and, instead, the script gave them, surprise, something interesting (and moderately logical) to say.  Everything wasn't completely believable -- I laughed every time the fish made an appearance, and some serious convolutions were required to turn our hero into  the monster.  And the final sacrifice seemed quite unnecessary.  But I still enjoyed these scenes -- when the movie was bad, it was still all right, if you know what I mean. All the four and five star ratings here are kind of extreme, but this is a nice little horror film.Hey, and Troy's performance is far from the most wooden one here.  That honor has to go to Joanna Moore, whose non-acting undermines every scene she appears in.  But she is nice to look at, and screams ok.  And, hey, good driving in that accident scene. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good 50's fun </p>
+
+
+<h2> review.date </h2>
+  10-16-2013  
+<h2> review.text </h2>
+
+ <p> Not a whole lot in the movie, except for the Beginning and the End.i like the Special Effects, better </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty Scary! </p>
+
+
+<h2> review.date </h2>
+  09-23-2002  
+<h2> review.text </h2>
+
+ <p> For my money this is one of the if not the best monster movies ever made. You got the best transformation from human to creature that will rival LON Chaney JR.s Wolfman. This movie was one I had not seen in  over two decades. I can remember this movie from when I was very little, back when parents were not afraid to let kids watch scary movies like this with the  giant dragon fly and the monster itself. Great film all the way through,good story line fine camara work and good acting. I recomend this film to anybody who likes this type of movie. To end this review all I have say is PLEASE PUT IT OUT ON DVD! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> As good as any monster movie ever made. </p>
+
+
+<h2> review.date </h2>
+  07-25-2000  
+<h2> review.text </h2>
+
+ <p> Please bear in mind that this movie was made in the time of silly sci fi's yet it was an attempt to interpret a common theme in mankind--what would we be like if we reverted back to our prehistoric nature.  Having said that,  bear in mind that these movies were the staple of teenage drive-ins and had  to have lots of scares and action.  The movie does just that, and catches  you off-guard at times.  Troy Donahue makes an appearance as a young studly  college student, and he and his girlfriend watch a bug that bit the said  suspicious prehistoric fish turn into a huge prehistoric flying monster,  with big teeth.  A good clean fun movie to watch with a friend and a bag of  popcorn in a dark room some Saturday or Friday evening. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Forerunner to Altered States </p>
+
+
+<h2> review.date </h2>
+  02-23-2002  
+<h2> review.text </h2>
+
+ <p> There is nothing special about this movie.It has your by the numbers 50's horror script and the make-up effects are only slighty better than a complete disaster.But I still enjoyed this picture for two reasons in particular:One being the performance of the lead,Arthur Franz.This guy was stuck with some poor dialogue and a script full of plot holes but he delivers his lines with such conviction that its much easier to forgive the films faux pas'.My other reason is the direction of Jack Arnold.MOTC is the sixth film I've purchased from this director and there is not one in the bunch that I dont recommend.Jack always manages to squeeze every last bit of entertainment value out of the movies he works on.He hasnt always had the best material to work from but they're always fun.He has a way of capturing images that stick in your head long after the picture is over.As for the rest of the movie,the cast is good except for Troy Donahue who plays a very minor role anyway.And the script moves at a brisk pace and chooses excitement over logic which suited me just fine.Once in a while a movie succeeds despite its flaws(see my review of Earth Vs The Flying Saucers).This is one such picture.This movie will make you chuckle rather than groan and you wont be looking at the clock to see if its almost over.Its by no means a classic by for 10 bucks its a worthy purchase.In case your wondering,the other Jack Arnold movies that I recommend seeing are:The Incredible Shrinking Man,Creature From The Black Lagoon,Revenge Of The Creature,Tarantula,and It Came From Outer Space. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Fun Film From Jack Arnold </p>
+
+
+<h2> review.date </h2>
+  11-04-2001  
+<h2> review.text </h2>
+
+ <p> For starters, let me say that I first saw this movie when I was a teenager way back in 1972 on the late-night &quot;Creature Feature.&quot; Once again, the movie was good, but since they showed it on TV they cut out many parts.  And now almost 30 years later-and thanks to the invention of the VCR I am able to see this movie again and again not only because the acting and the special effects are superb, but because it brings back many pleasant memories of my teenage years. And as far as the movie is concerned, the best parts are at the beginning of same when the professor is accidentally bitten by the prehistoric fish and turns into a monster. And the other one is when the giant dragonfly knocks on the window and is later caught and killed by the professor. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Monster on the Campus </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

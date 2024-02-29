@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00GSPW2QG <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very good tablet for OTG researcher </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a research scientist and wanted flexibility in a tablet for using MS Word, PowerPoint, Adobe Acrobat, and a high-level data analysis/graphing program, all running under Win 8.1  Also mail, browser, and a Kindle app.  The HP Omni 10 tablet fits the bill beautifully including a Kindle app that gets my books seamlessly.  SkyDrive/OneDrive keeps my research files available online/offline on my desktop HP Windows workstation and my Omni tablet while traveling.  I just need a wifi connection.  The Omni wifi capability is excellent.  I did buy a Bluetooth mouse since finger/stylus tapping is not efficient especially for my analysis/graphing program.  I could not make the analysis/graphing program function without the mouse for filling in bubbles and data easily.  The mouse I chose was the HP X4000b.  It paired easily and works well.  The tablet keyboard is sufficient for my needs since I don't do a lot of manuscript preparation on the tablet.  I have a 32 GB sd card that works well.  Also micro usb to female usb cables.  The Omni 10 sees my 64 GB flashdrive using the cable from CableMatters.  My one criticism is that Win 8.1 does not allow me to increase the size of icons with the 10 in screen to my personal preference. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not Bad </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-29-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> My time with this tablet has been limited but so far I have been quite happy.  I came from a Surface RT tablet and have to say that having a full version of windows has been refreshing.  The Surface RT had nice hardware and I actually miss the kick stand, but the Omni has resolved the two biggest complaints I had before:1 - Video Support - I was able to install a video codec pack and can now watch all of my videos, including MKV and Media Center recordings.2 - Wireless Display - I can now use Miracast to wirelessly connect to my TV. I guess HDMI out is a good alternative but wireless lets you control things from a distance.A few more observations: The screen seems fine to me and the resolution is great.  I actually prefer the 16:10 ratio vs the Surface's 16:9.  The Wi-Fi is a bit weak at times but good enough for my needs.  Hooking up at 5GHz works fine for streaming HD recordings.  The CPU is great.  Browsing the web on the Surface RT was slow but the Omni is quick and responsive.  The main negatives so far are that the back of the tablet can get very hot at times and the speakers are pretty bad.Overall I am quite impressed with this tablet.  Perhaps any tablet with full windows support would have made my day after the hassles of RT, but the HP Omni has proven to be a solid tablet given the affordable price.Update:Well after just a couple weeks I've run into problems.  Suddenly one day running Internet Explorer started causing my tablet to freeze up.  I tried rebooting several times and each time encountered the same problem.  When I tried doing a system restore to a time before some Windows updates, my tablet stopped booting altogether.  It just hangs at the HP logo now.  And it turns out that since I failed to create a recovery disk while things were working, I can't restore the system now without ordering a recovery USB stick from HP.2nd Update:Not sure how exactly, but after rebooting several times and try to restore Windows a few different ways I was finally able to re-install Windows.  Everything seems to be working now.  I'm still disappointed with HP's recovery option that only gets you part of the way.  I haven't had any issues since then so I guess I'm happy again.  Definitely remembering to make a recovery disk this time before I have issues. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Semi-Perfect Hardware Configuration - I am not an HP fan </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have been doing two things:1) Waiting for a BayTrail tablet using the Z3770 CPU (currently the fastest Atom CPU) - check2) Waiting for any MFG other than HP because I have not had great experiences with them in the past (my hope was ASUS) - missPros:1) BayTrail Z3770 is very fast.  I previously bought and own an ASUS Vivotab Smart which is a great tablet other then the Z2760 CPU can be a tad slow.  I have been using it for over 6 months while I patiently awaited a faster 10" tablet.2) 10" screen size with a resolution of 1920x1200 (1920x1080 was my target).3) Full real Windows 8.1 (not the RT junk) so everything works (including flash sites).4) Very good battery life, sound, and has a micro SD slot for an additional 64GB of storage expansion.5) Killer price for $350 makes this $150 cheaper than the comparable Dell Venue Pro 11.  I don't believe there is another full Win8.1 10" tablet out there at this low of a price.Cons:1) I waited and waited and Amazon never even listed this product so I went to Office Depot (sure now it is on Amazon). I considered taking it back and buying from Amazon, but it is not worth the hassle.2) 2GB of ram, most people seem to think Win8 needs 4GB, but I have not noticed any performance issues (Win32 bit vs Win 64 bit).3) Finger print magnet like all tablets seem to be.4) HP doesn't seem to know this product exists since their website doesn't really list or support it clearly.  Also a severe lack of tablet cases/covers for this is prevalent at this time.  It would be nice to get a case/cover like the iPad (basically a light weight folding stand).5) This product is way under the radar of everyone for some reason - try to find a review on the internet and it is close to impossible.  I don't know why this is; unless HP has built bad will with everyone and people ignore their products.Anyhow - this is a fantastic tablet considering what you get for the price and how well it works!!!The perfect tablet would be a Win8.1 that weighs less than 1lb - a 10" screen seems to be the best for web viewing and not being awkward to handle.Update: I have now had the table for a month.  There are a couple additional items worth noting:1) There is no power led on this tablet - sounds trivial - it is not since you cannot clearly tell when the unit is "charging" or "on" if the SCREEN is out (ie black).  I have twice now had the tablet drain the battery after a Windows update and it would not power on.  Plug in the charger & press the power button, if the screen does not slightly illuminate it is still off.  If you press the Windows key in the center of the tablet it will vibrate no matter if the tablet is off or on.  This is kind of a crazy oversight by HP.  The first time this happened, I thought I would not be able to get power back on and that I would have to RMA the tablet - but it eventually came back after I pressed the power button enough times (crazy magic).2) What crazy engineer at HP thought it would be a good idea to a) have the volume key partially inset around the back of the tablet and why would anyone put the main ports (micro usb, charging, and micro hdmi on the bottom landscape edge of the tablet).  This makes things fun (irony) when you put a case/cover on the tablet and cannot reach the volume button and more entertaining is when you stand the tablet in landscape and all of the ports are now in contact with table/desk you are sitting it on. Try to connect to the micro usb like this...Ah...so you ask do these issues change my overall opinion and rating - the answer is no, this is still a great tablet for the price & hardware that you get!Update 2 (6/7/2014): I now have three of these (used by my brother, my daughter, and myself) and they all work as described above with no issues or problems.  The most recent one I purchased was at the $299.99 price which is a wonderful deal (realize the first two cost $400). Even more shockingly HP has issued an actual BIOS update (which implies they finally realize this is one of their products).  Since Intel is about to release their newest low power CPUs for tablets (likely Q3 for availability) this tablet will fade into oblivion - who knows how low the price will go until stock is depleted...it is definitely worth considering! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I really love this tablet in every way </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really love this tablet in every way,  the only complaint I have, is I am not always able to stream movies from Amazon.  It works great with Netflix, but the sound and pictures skips when I watch HD movies from Amazon.  It tells me to unclick enhanced protection through internet options, but it still skips all over the place.  Very irritating. Not sure whose problem this is. HP's or Amazon.  Otherwise I love the tablet.  Once all the updates are done it works great.  Donna </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Almost a great tablet, but barely usable... </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This could have been a great tablet.  Good price, runs full Win 8 Pro, light weight, high resolution 10&#34; screen, and runs windows/apps quickly (i.e., it isn't sluggish).But the deal-breaker here is the drivers or software or some issue causes the Omni to completely freeze up, get very hot, and quickly eat up the battery (or just get very hot when plugged in and not fully charge).  So, not only does it require constant rebooting, but you also never know if your Omni will be fully charged.  If you search HP's support forums, you'll see that this is the primary issue people are having with their Omni and there isn't a fix for it (besides simply &#34;shutting down&#34; the tablet when not in use).  I'm fairly tech savvy, and have tried a factory restore, updating to all of the latest drivers, and even trying different combinations of Windows updates.  Nothing helps and there is no suggestion of what the problem could be in the windows logs.The Omni has other flaws as well, such as a barely functioning ambient light sensor and a horrible charging adapter/port, but those flaws are minor as compared with the freezing.  Until the freezing issue is fixed, stay far away from the Omni. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Everything you'd want in a windows 8 tablet outweighed by insurmontable issues w/ charging, sound, leaching gbs & overheating! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This unit has everything I'm looking for. It is set up 2 to do all things well.  Til it doesnt. In 5 days I contacted Costco as my 8 remaining gbs evaporated. We set back 2 mfg settings &I started all over. Both ends of the charger are loose & the cord is SHORT. Do the math. Then the unit stopped charging while using til finally I had 2 turn it off 2 charge it;(  I had at this point decided it had 2 go back only 2 burn my fingers on the back metal insignia after playing games. The next day after the Windows update my sound was gone (not the 1st time) & my 6 remaining gbs leached down to 236 mbs. Yes, I returned it & after another exhaustive search decided this model is the only r8 out tthat has EVERYTHING I want on it. I'm hoping this one is a lemon & I will be back in in a few weeks with a glowing review on my new one:) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> the price is falling so this is a great deal </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A full window 8.1 os on a tablet for almost $300 is a good deal.  I had an 8" lenovo window 8 tablet, but returned it within a week.  The screen was too small and everything you touched was wrong.  At 10 inch, it is now much less frustrating, as I also have a touchscreen 11" sony tab and that works fine too.  This has a bigger screen with at least a 1080p, not the tiny 720 for the older 7 & 8 window tablets.  For awhile the window icon didn't work, but after some updates it work again, odd.  Since it is window os you can use flash site and at full web rather then android and apple mobile web without much issues.If you wait a month or so the new window 8 tablet will be coming out that are 64bits processor.  These new tablets will have 4gb of ram rather then the 2gb of the 32bit window 8 tablet here.  So this makes this product a good value for the money. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Win 8.1 Tablet </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Researched all of the sub $400 Win 8.1 tablets and decided that the Omni 10 was the best one for the money.  I looked at he 8" Dell and Lenovo and liked the size and weight, but 8" is just too small for Windows desktop.  The 10" screen is small in desktop, but usable.  The Omni 10 has the best Atom processor available and a much better screen resolution.  The other feature that I really wanted was an HDMI out, which it has.  I used this tablet today hosting a GoToMeeting presentation at a customers office.  It worked beautifully.Pros:1. Excellent battery life.2. Full Windows 8.13. Microsoft Office (less Outlook) included.4. Excellent screen resolution5. Very good screen clarity, sharpness, and brightness6. HDMI out7. Almost the exact size and weight of my iPad 38. Stereo speakers that sound good9. Excellent microphone10. Nice rubberized back that feels good in the hand11. Excellent fit and finish as expected from HP12. Excellent speed and performance13. Bluetooth which allows a keyboard and mouse14. Micro USB allows use of USB devices with a $10 adapter15. Good front and rear cameras16. Much better form factor than the Surface Pro, and much less expensiveCon's;1. Only 2 GB ram2. Win 32 bit OS3. Average WiFi performance4. Very limited cases availableOverall, I really like it and I'm very happy with this purchase. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The perfect tablet. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Even though my old hp Touchpad haven't been surpassed by no Tablet, I waited for hp to present aomething equivalet to tablets on the market.  It's very a very light Tablet and it Works excelently by far.  A very good choice on tablets.  I'm still waiting for more capacity further then a 32. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good tablet, crappy charger </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-26-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> this is a really nice tablet, very much like a windows version of the ipad.  Unfortunately, a tablet is only as good as its charger, and HP foolishly decided to use a proprietary charger with this device rather than the standard micro-USB charger that most phones and tablets use.  And we are now on our 3rd charger in 2 months of use.  Admittedly, HP has been good about sending out a new one each time, one time even replacing the tablet, as the battery had completely died and the unit wouldn't power up.  The problem is, you never know when the charger will stop working.  You think you have the tablet plugged in and charging, and you get up in the morning and you've got a doorstop instead of a tablet.  They really need to redesign the charger on this unit.  When they do, it will be a great tablet. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Product </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A great product. It was easy to set up. I wish it would have had a Full USB 2.0 port like the ASUS T100T. You have to get a Micro USB Adapter OTG cable. It doesn't costs but $2.00 or so. I got one on Amazon.com too for that price and I was up and running. It's worth noting that that cable is not included. This Tablet does include Office 2013 home and student which is very nice. I would have bought the ASUS but the local stores were out of it. I have always had good luck with HP products. Most of my home products are HP. I prefer HP even over Dell at times. I know that some would not agree with that statement. I do however recommend this product to others. The only thing I would have liked also along with the USB port is a longer battery life. It has 8 hours but would have liked the 11 hour battery life like the Ipad and Asus T100. Oh well you have to make sacrifices somewhere. It does have a nice Full HD screen if I'm not mistaken. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great introduction to Windows 8 </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've had mouse and keyboard attached by bluetooth.  Keyboard is perfectly responsive.  My Microsoft  brand Windows 8 mouse lags.  When I tether a wired mouse there's no lag.  I had to change power settings to shut down when I press the power key because the tablet drains quickly in sleep mode.  Much, much faster drain than an iPad.  Windows is very responsive, but if you're used to Apple iOS, there's really no comparison at all.  iOS is 10x more responsive.  So if you're used to an iPad, this experience will not be anywhere close.  But it's still good because you can do so much more work on this tablet with Microsoft Office.  The iOS version of office doesn't even have a search function.  I'll recommend it with 5 stars because of price for value ratio. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> No propblems so far. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-31-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was the only tablet to meet my requirements of :Z3770, 10&#34;-11&#34;, HD screen (16:10), 64Gb (missed that but added a 32Gb micro SD card that&#8217;s class 10), relatively thin and light, HDMI (Mircast is still new) out and 8hr battery.The 32Gb storage is my biggest con, but there is a Registry edit that will allow the Microsoft Store Apps to load to the SD card and that should help the storage limitation. HP is doing a really poor job of marketing and very few accessories available.I bought mine at Office Depot for a fantastic price of $350 w/$25 Microsoft store card, Amazon did not/does not have them in stock </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not the worst but the windows OP system is a problem for me. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> SO I guess three times not a charm with a windows based operating system. I've tried 3 different tablets. Unfortunately, for me, my work requires a windows based tablet for the app we need to use. Ever single tablet I've tried has crashed and frozen and stopped responding.All the tablets I've used have seemed the same. This tablet is working well, when not frozen. I want others to be able to make a better decision than I had the option of.I would have preferred an Android tablet. I'd even go as fast as saying that I'd use an iPad as well.Before someone say's perhaps its my app causing the issue. It's not. On startup my tablet crashed and froze me out of everything. I had to pull the battery on the previous tablet I'd used. This HP does not have a removable battery. On the HP, I have to hold the power button until the unit restarts. Luckily, this has worked every time. Not sure what I'd do if it didn't.I've settled on this tablet. I like it better than the Dell. I suppose if I'm stuck with windows this is the tablet I'd want to be stuck with. Technically, I'd pick a different brand but the Surface I had before this did not have auto focus on the camera which I also needed for the work app.So, I just wanted to throw out there the issues I was having with the tablet. When its not frozen or broken it works awesome.******************************EDIT*************************************As far as I'm concerned at this point all Windows based tablets are best served as drink coasters. Honestly, I've had nothing but problems with every single Windows tablet I've purchased. It freezes dozens of times a day. I use ONE program. Just one. I don't use the internet, I don't download anything so it can't be a virus. All we use is our estimating system and the tablet locks up. Whether we're in the program or not. So, it clearly can't be CCC One. It's definitely the tablet. It locks up on shutdown. It locks up on startup. It just freezes for no reason what-so-ever. I'm not a fan. If my estimating system worked on any other operating system you bet your bottom I'd be using that. I'll never purchase a Windows OP tablet again. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Atom Tablet at an awesome price </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Pros:A Full HD 1920x1200 PanelWindows 8.1 - Intel x86 Quad Core CPU - Full Windows Application compatibility8MP/2MP CamerasMicro-USB, micro-HDMI and SDHC CardPretty good in terms of weight at 1.43LB.Includes Microsoft Office Home and Student Edition 2013 - activatedCons:I haven't seen a 64GB Version of the tablet  yet.I bought this at $349 for 32GB Version and at that price, it would beat many tablets out there.- RakeshDisclosure: I do work for Intel, but my comments here are personal. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Could have been perfect </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Update 06/26/13:Just saw they finally released the 64GB version, only 7 months after they released this one. Should of known that was the reason for the price drop. Still love this one, but would've paid more for the 64GB version. Very annoyed!- - - - - - - - - - - - - - - - - - -Scored this brand new for under 300 made this totally worth the hassle to get it to work right. Out of the box it was buggy. Froze and stuck in update loop after 1st windows update. Had to factory reset to get out of the loop. 2nd time around, windows update ran fine, but some apps were still unstable and caused a lot of freezes. Only after a large win8.1 update and optimizing the system for ssd did the system finally stabilize.Pros:- Atom 3770 strikes a perfect balance of performance and battery life- 1920x1200 screen is much preferred over x1080 for work and reading.- Micro hdmi is a great option for older conference rooms that do not support wireless presentation- Front and back cameras are functional, not the best but they will do in a pinch- Priced just right for this level of computing. 450 and above is too high for this level.- Decent amount of bezel and rubberized backing for a secure grip. And just thick enough for a comfortable hold.Cons:- Not for everyone, must be willing to work through a few bugs and configuration to work right.- 32gb drive is too small, need to be very cautious of what you install or store.- Charging cord is very short making work while charging very difficult- No full sized usb, needs otg adapter to plug in any accessories- Dedicated charging port is great to keep usb port available, but 12v charger means it can't be charged with standard portable usb battery packs.- 2gb ram is ok, but really would have liked to see 4 for some heavier multitasking- Not a lot of good case options, have to use a generic universal 10" tablet case </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Impressed - but too many problems </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-25-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Got this to replace an old laptop (XP) we use when traveling. Of course with this I will be able to get more use out of it while not traveling :-). I am giving it an early 5 stars due to its ease of use and value for the money. One thing none of the descriptions included was that it came with a 4g sd card already installed. Office 2013 Student version included at no cost was a big bonus too! I upgraded it with a 32gb card and now use the 4gb one for a spare on my camera. I will definitely update this after our upcoming trip.Update.... At first it was great, especially for travel, but I ended up having enough issues that I have decided to return it.1. Sometimes it does not want to go into charge mode. End unplugging/plugging back in or having to shutdown and restart before it will charge. The first time I just assumed it was charging until I found out the next morning it had not. Not sure if it is tablet or charger related, but as I said it has happened a couple times.2. System hangs that require powering fully down and back up, or cases where it would not let me log back in with an error saying resources were not available??? Nothing was running!!! Power down/up again.3. Touch sensitivity is not always working in outer edges, so it was either drag out my Bluetooth mouse or try a reboot.4. Screen randomly flickers.I had high hopes for this, and assume products will get better over time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Replaced wife's laptop with this great tablet. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very fast and snappy tablet.Added a 32 GB card, got a USB adapter for keyboard, mouse, and printer.Plugged into an HDMI monitor.Wife very happy, works better than her old laptop and have not had one problem.Battery power is very good.Only thing I do not like is the proprietary A/C adapter, but it not that big of a deal.I want to go buy another one for me!!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Maybe good as a cost-effective laptop, not as a tablet. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have used it for about 4 days now. And this is my first Windows 8(.1) tablet. I own (or owned) numerous Android tablets/iPads, and I have been using Windows 8(.1) on my desktop for a while.Cons1. Very bad screen (the biggest con to me)Yes, the resolution is 1080p, but the quality sucks. I compared it with those of my GT 10.1, GT 3 10.1, iPad 3, and this is the worst in viewing angle, color reproduction and brightness. The color is washed out. I used to think Nexus 10's screen was washed out. I compared Omni to my friend's Nexus 10, and what do you know, Nexus 10's screen suddenly looked colorful and bright! That is, Omni's screen is that bad.I bought this tablet as media consumption device, but with this screen, I gave it up. Also the screen's brightness sometimes slightly flickers even though I have disabled all LCD power saving features and auto brightness. Cheap HP, couldn't you put a nicer screen?Update: the flickering became unnoticeable when I restored the default LCD settings. This is weird because I thought disabling LCD power saving features would make the screen look better, not worse.2. Bad speakersWell, I did not expect much but the speakers are also the worst among all the tablets I have. It is not pleasant listening to music with these speakers. The sound breaks in high volume (Galaxy Tab, iPad do not).Update:The Windows default sounds sound awful on these built-in speakers. For me this became as bad as the first con.I cannot enjoy YouTube or music. I did not realise sound on a tablet is this important.3.Body build qualityThe screen near the middle of the left edge is slightly sunken, so when I hold it, the frame's sharp edge hurts my thumb. I am sure HP did not intentionally sank that part, it must be manufacturing issue.4. FreezesI have experienced freezing about 4 times. Especially when opening the camera. I had to long-press the power button to reboot.Update: It freezed three times while I was playing an old Direct X based full screen game. I found that a lot of people posted about freezing on HP's support page. This is really frustrating. I have never seen any smart device freezes so often as much as this these days.5. Heat problem.If you set the screen brightness to the maximum (you would have to, because the screen is not so bright), and use it for a while, the bottom part of the tablet gets hot even though you use lightweight apps or browsing the web. If you charge it, the bottom parts gets very very hot, almost hurts my hands.Update: I copied a few GBs of files from my desktop over Wi-Fi, having the screen turned off. The center of the backplate got really hot.6. Microphone noiseThere is a very loud constant electronic-like noise (beep beep beep..) while recording through the built-in microphone.Update: After searching Google for this, I found that one user asked about Wi-Fi and microphone interference. I put the tablet into the Airplane mode and recorded my voice. The noise got smaller! So the Wi-Fi signal does seem to be one of the culprit. However the noise still remained, meaning you cannot get clear recording even if you put it into the Airplane mode. If you want to use this tablet for voice chat or recording sound, you might want to think otherwise...Pros1.Very fast processorEverything works so smooth and fast, even though it has a high resolution screen.Update: This is still true. Very pleasant to use Metro IE due to its fast speed. No stutters like I have experienced on my Android tablets or iPad3.2. High resolutionI have already written that the screen's color/brightness/viewing angle suck. That being said, if you are using it as a laptop, and doing some word processing, texts look sharp due to the high resolution. Good for text, bad for other things.3. Good stand-by battery consumptionMake no mistake about this, if you turn on the screen and sets its brightness to the maximum, the battery goes down fast. But when I turned the screen off, the battery went down 2% after about 6 hours. I have a power meter, though I do not remember the values exactly, here are the power consumptions.Charging, screen on doing nothing : about 17 watt, Fully charged, screen off doing nothing : 0.2 watt, Fully charged, screen on, doing nothing: about 7 watt, Fully charged, screen off, playing an MP3: about 0.8 watt.4. You can turn on the tablet by touching the capacitive Windows key.Normally, on Android devices, you can only do this with a physical home button. But this device's capacitive Windows key works when the screen is turned off. I can easily turn it on when the device is laying on the table. The Windows key has vibration, but it feels cheap (does not feel good).Conclusion.If you want a easy-to-use tablet, forget it. This tablet is just impossible to use it holding in hands for a long time. Not good for entertainment purposes. You would rather buy a Galaxy Tab Pro 10.1 or iPad Air. But if you connect a keyboard and a mouse, this could be a cost-effective fast Windows laptop.Question.This is my first Windows 8 tablet, and I find it is fun (not all times, though) to use. Omni 10 could have fit my needs but the screen and unstability just failed me.Is there any Windows tablet that*has a bright colourful screen whose resolution is 1080p or higher.*Good stereo speakers.*Not heavier than Omni 10 (650 grams, I think)*Not smaller than Omni 10 (10 inch or larger)Of course I am willing to pay more than I did for Omni 19. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not too bad </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> First thing, I noticed the memory cover was not secured.  Took me a long time and I just couldn't get it to fit.  HP still uses the old fashion power adapter on this tablet.  Only mini USB & HDMI port available.  Back camera is OK but no flash.  I'm stuck with this unit because the software I used only have very few choices.It is pretty light weight and easy to carry.  It is pretty hard to read the screen out in bright sun especially the camera function.  Speed is very fast.  Stay cool even after a long period of usage.Another issue which is not related to HP.  I couldn't find the right profile case to work with this unit.  There are plenty of cases, but there isn't one made with a back camera hole. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best option for the price </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> There aren't too many reviews of this tablet yet so I thought I'd throw in my 2 cents. I currently own a 1st gen Nexus 7 (Android OS) which I like and still use daily.  I actually purchased the 2013 version but returned it due to a color gradient on the LCD which bothered me (I tried 2 and both had the issue).  I do notice a little of the same on the Omni but it is nowhere near as apparent.  It was easier to justify the purchase of this tablet because it's quite a bit different from the N7.  I get more screen real-estate and I'm able to utilize Win 8 when I need it.  The device was not available here so like others I purchased it at OM when it was on sale.  I didn't get the $25 Microsoft store credit as some did even though it was purchased during the promotional window.  I do not know why but perhaps they ran out.For the money I think this is the Win 8 tablet to have.  I think the Surface is too heavy and if I need that much processing power then I'll get it from my desktop or work laptop.  The Omni 10 is still usable as a tablet without without being too bulky or heavy. I didn't want to see pixels and with the screen resolution and the 10.1" size I'm more than happy in that regard; but less so with Windows' 8 font scaling abilities.  It's nice to be able to surf full web pages, which the device does extremely smoothly in Internet Explorer.  Firefox is next best, albeit it's pretty far behind, with Chrome running really poorly for some reason.  I assume this has something to do with optimizations for the processor but I do not know for sure.  Other Windows apps I've tried run just fine.  In fact, I'm able to play System Shock 2 on it without any issues.  I'm also satisfied with screen brightness but not so much with how it attracts fingerprints.  It's probably to worse screen I've seen in that regard HOWEVER you don't see the smudges when you're using the device (and the backlight is on).  So this review doesn't run on I'll summarize my opinions below:Screen: Very satisfied with resolution and brightness but not so much with the fingerprints.  I'm still somewhat bothered by the slight yellowing of the screen when not looking at it straight on but now wonder if it's a gorilla glass thing...On board storage memory: I would have gone for the 64GB it if was available.  You have the option to add a microSD card but read and write performance is really poor relative to the internal storage.  Internal storage read/write is about 175/58 MB/s while my class 10 Sandisk card clocks in at 23/11 (on my desktop the same cards runs at 45/14).  I do not know if performance is so poor due to hardware or drivers but if it worked faster it would have gone a long way to alleviating the low on-board storage memory (~15GB usable).  It IS still usable however, and most desktop apps can be installed there.Memory: With only 2GB AND shared with the graphics card, I would have expected this thing to fall flat on its face but even running extended desktop on and external 1920x1200 screen it chugs along at about 80-90% memory utilization with a number of programs open.  CPU utilization was around 25% at the time.  I'm surprised but it works and I can't really complain (even though I want to and would have preferred 4GB and a 64 bit version of Win 8).Expandability: It would have been nice if USB3 (even if it had to be at reduced "non-spec" output power) was enabled instead of the just USB2.  The port does work with everything I've plugged into it so far (you'll need to buy a USB OTG cable, to convert it to a full size port, which are really inexpensive).  MicroSD card is nice but it's very slow and I would have preferred a full size SD card option instead.  There's no docking port which is a disappointment as I would have liked to see some full size ports, card reader, HDMI connection, fast charge, etc, that a dock could have provided.  This thing would be more that adequate of a PC for the majority of people out there.Charging: As others have mentioned the charge chord is really short and the plug is circular with 12V output at 1.5A.  This means that you won't be able to use a battery "power pack" to recharge the unit if an AC source is not available.  Also, the proximity of the ports causes interference if you try to use an angled microUSB plug (like many OTG cables have) and have the unit plugged in at the same time so buy an OTG cable with a straight plug.20140202 Update: The electrical connection of the charge cord has been giving me problems.  When I insert it into the device I always need to make sure that it's making contact (via the onscreen icon).  I've had a few instances when I've plugged the tablet in and it didn't charge at all because it didn't have a good connection.  I do not like having to fiddle with these things and here's another good reason why HP should have stuck with a standard micro-USB charge plug.MicroHDMI: Tried it; worked fineBuild quality: Seems really good so far.  I'm pleasantly surprised as some HP devices I've owned have fallen short in that regard.Wireless display:  Unfortunately I don't have a compatible receiver so I could not test.Speaker: Good separation but no better than average overall.  I wasn't expecting much on this front and since you can connect headphones/speaker via headphone jack or bluetooth it's not an issue for me.Cameras: Work fine for Skype but overall they are no better than average.  The main camera performs very poorly at low light so don't expect to be using this for photos or videos unless you're in a bright environment.  CORRECTION: There is a pretty cool photosphere mode in the camera app but the inaccurate eCompass causes it to behave erratically on occasion.eCompass: All over the place (does not work well) and I could not find a way to calibrate it.  Android figure 8 method had no effect.  Looks like no augmented reality night sky viewings with this device unless the compass can be re-calibrated somehow.Windows 8: I knew the app store was bad but I didn't think it was going to be this bad.... thankfully you can use full websites instead of installing apps you would probably normally do on an Android or iOS device which has the added benefit or not using storage space (aside from the cache data).  Some desktop apps, like Google Earth, are very difficult to use without a mouse.  I find the Win 8 softkeyboard more difficult to use than Swype (which is not available) on my android phone and tablet.  In desktop apps, the keyboard needs to be activated manually via the taskbar.  Word suggestions appear by the text and not by the keyboard so hand removal from the tablet is required... WHY DID MS DO THAT?  I wish there was more customization options or 3rd party keyboards available (of which there are none that worked to my satisfaction).UPDATE: As W. Dillon pointed out in the comments the spacebar can be swiped and tapped to choose a suggested word.Issues:  Recorded sound (videos/voice recorder) contains some kind of electrical noise. UPDATE: Noise is from the unit's WiFi radio as turning the WiFi off eliminates the issue.  It's not very loud but I think it's causing issues with voice recognition because it does not work nearly as good as Google voice recognition on my android devices.  I also had a couple of bluescreens but I think that had something to do with an old driver so I'm not going to count it against the tablet.  I've also had my bluetooth keyboard and mouse disconnect a couple of times for no apparent reason.  Cycling bluetooth power off/on on the tablet resolved it for now.UPDATE: The Google app catches my comments at least as well as on my Nexus 7; I wish that the MS voice recognition software worked as well.  Additionally, the blue screen was a result of a "USB Netserver" program that I installed because it happens every time I run that particular piece of software.Surprises and delights: Very usable as a laptop replacement with bluetooth keyboard and mouse and an inexpensive stand.  Comes with MS Office H&S; which is great to use on the tablet in portrait mode and the tablet is so easy to flip on its side that I actually use that "feature".  There is a microSD card included with the recovery options should you need to use it.  I find this to be a much better alternative to taking up on-device storage space a la hidden partitions.Summary:  I'm torn regarding this tablet because of some of its shortcomings (it's so close to being a perfect 5 stars) but it's just such a nice package and performance has thus far exceeded my expectations.  In comparison to the other tablets in this price range I think this one has them all beat even with those shortcomings.  I like it!20140202 Update: Even with all issues I've pointed out in this review I still really like this tablet a lot and I'm glad that I kept it.  I'm concerned about its future, however, as there are very few places that stock it and it still does not seem to be getting the support from HP that it deserves. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

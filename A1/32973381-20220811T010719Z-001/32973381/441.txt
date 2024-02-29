@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B009375QIW <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-05-2013  
+<h2> review.text </h2>
+
+ <p> Jennifer Hayden is becomming one of my favorite authors.  Ms Hayden held me an excellent story line and character development.  Suspense kept me on the edge of my seat. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another job well done by Jennifer Hayden </p>
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> My wife read this book a couple months ago and said- This book is a real in-depth thriller and will keep you involved from front to back without a yawn. Another 5 star book for Jennifer Hayden. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a true thriller from start to finish </p>
+
+
+<h2> review.date </h2>
+  01-04-2013  
+<h2> review.text </h2>
+
+ <p> It was good. I liked the suspense and the romance. I look forward to reading more of Jennifer Hayden's books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great suspense </p>
+
+
+<h2> review.date </h2>
+  05-03-2013  
+<h2> review.text </h2>
+
+ <p> I loved this book and it was so hard to put it down. Will probably read it again soon. Must read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Say Mercy </p>
+
+
+<h2> review.date </h2>
+  03-23-2013  
+<h2> review.text </h2>
+
+ <p> She is returning to her home town for her best friend's wedding.  She passes thru the town to the house she grew up in...where the "bad stuff" happened.  She parked behind the house and tried to think of some childhood memories that might erase the anxiety she was feeling about entering the house and facing the inhabitants of the small town in the coming days.  When she left town, she walked away and did not say "goodbye" to anyone, friend or foe and now she has to confront the past... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Say Mercy </p>
+
+
+<h2> review.date </h2>
+  03-04-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed the story.  Loved the mystery & love story the book had.  Looking forward to reading more of her books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kept me up late @ night reading. </p>
+
+
+<h2> review.date </h2>
+  11-07-2013  
+<h2> review.text </h2>
+
+ <p> very good read. I was hooked on the first page. Really good ending. Keep me wanting to read more.Good Book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really Good Book. </p>
+
+
+<h2> review.date </h2>
+  08-16-2013  
+<h2> review.text </h2>
+
+ <p> I was pleasantly surprised by the twists and turns that this story took me on. If you like a good mystery with heroes heroines and romance, this is a must read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Twists and turns </p>
+
+
+<h2> review.date </h2>
+  01-22-2013  
+<h2> review.text </h2>
+
+ <p> I did enjoy this book! There were a few problems with it though for me. It kept leading up to this big climax and I was waiting and waiting and finally with only a few pages left, everything was revealed! Some of it didn't seem probable, and I was hoping for a slower reveal. I was very surprised at who the killer was and some of the other twists and turns, but  there was so much that happened it could have all come out in a better way. I would still recommend the book. I have read all of Jennifer Hayden's books and I have enjoyed all of them!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I really liked this one!! </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> This is the first book by the author that I thought was just ok. The women in her books are usually stronger and less annoying. I skimmed through a lot of the book to get past these parts. I will keep reading her books because for the most part they are really great!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

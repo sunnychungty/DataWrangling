@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1576751074 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-05-2013  
+<h2> review.text </h2>
+
+ <p> This book changed my life, and is one of the best books I have EVER read, in any field.I believe it may be Brian's best book, which in itself is saying a great deal.AlexAuthor of: [...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This book changed my life </p>
+
+
+<h2> review.date </h2>
+  08-04-2002  
+<h2> review.text </h2>
+
+ <p> From a person who has created success, this book provides fabulous insight into what is required for anyone who wants to be successful.  The book is broken into easy to read chapters and headings for each of the laws, followed by easy to understand descriptions.  Even if you implement just one of the laws, you will see a change in your business.With helpful anecdotes, you will understand why these laws should not be broken.  You will see how these laws provide a successful career pattern for any person.  You don't need a formal education to be able to apply the laws from the book.  The book should be read as soon as you buy it because if you hesitate to read it you will delay your success.I asked several of my successful friends to read the book and tell me what they thought of the "laws".  They all agreed that if there are laws to success then these are the most important ones. I recommended it to several other people working their way up the corporate ladder. As a result of reading the book they were able to climb more than one rung at a time.  If your competitors are reading it, you may soon find yourself looking for a new job.  This book should be required reading for all business students prior to graduation and for all people trying to get ahead in today's world.  You will soon see why there is more to business than the school of "hard knocks". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If You Break Them...You are Losing Out! </p>
+
+
+<h2> review.date </h2>
+  10-04-2000  
+<h2> review.text </h2>
+
+ <p> Brian Tracy has mined the business wisdom of many leaders and sorted the accumulated knowledge into logical groupings. He recites each "law" and then tells you how to apply it. This is the perfect book for the busy businessperson. Most of Tracy's "laws" are just a page or two so you can pick up the book anytime you have a few spare moments.The 100 laws are in eight major categories. To see them, click on Table of Contents in the left-hand column of this page.Brian Tracy is a gifted writer, charismatic speaker and successful consultant. He has attacked this book with the same enthusiasm he displays in his presentations.As the author of 113 books (including revisions and foreign-language editions) and over 500 magazine articles, I highly recommend this book to publishers and businesspeople.  DanPoynter@ParaPublishing.com. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Business Short-Course </p>
+
+
+<h2> review.date </h2>
+  10-30-2000  
+<h2> review.text </h2>
+
+ <p> For the last four years I have read all of the self-help, business, financial, and psychology books I've come across.  Brian Tracy's tape set; The Psychology of Success was the first audio experience I had with this genre of material.  From that time on, I've read, or listened to almost all of Mr. Tracy's material.  While I can't say that this is a better book than Maximum Achievement, it is every bit as good.  Brian Tracy may not use material which he can totally call his own, he portrays it in a way which relates more to us in our time than his predecessors.  I loved this book.  You will too!  Some day I hope to meet him and thank him personally for how much his motivational materials have changed my life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> YOU MAY HAVE READ IT ALL BEFORE-BUT READ THIS REGARDLESS! </p>
+
+
+<h2> review.date </h2>
+  02-08-2001  
+<h2> review.text </h2>
+
+ <p> Are you too busy to read dozens of business books?  Using this one volume can help you obtain most of the benefit from the top books of the last two decades.This book will probably be most appealing to people in their 20s who are trying to make some sense out of how to get ahead, but don't have much education or experience on the subject.Now a 100 ideas sounds like a lot. You should know that Tracy often breaks them into subsets, so the total is really somewhere between 300 and 400 ideas. You'll really feel loaded down before he's done sharing with you.They are all about positive thinking, exchanging value for value, and being persistent. Ben Franklin would approve of the emphasis on improvement. For example, the first set of laws are about Life -- and they read pretty much like a modern version of Think and Grow Rich.Two things bothered me about the book. One was the lack of attribution (except for a list of books at the end). For example, Tracy says that the purpose of a business is to create a customer -- perhaps Peter Drucker's single most famous quote, but you look in vain for quotation marks or a reference to Drucker. The book that Drucker said it in (Management) is not cited in the bibliography.The second thing that bothers me is that in some places Tracy is a little behind the curve. In the Dell-like Internet world, products and service can be customized for each person and that will be the wave of the future. Tracy still talks about segmenting customers rather than individualizing products and customers for each different customer.So you might ask, why should I read this book? Frankly, it's because you probably won't read all of those books in his bibliography. This way, you'll at least get Tracy's take on what all of this means. One of the nice things about his work is he gives you directions for how to begin applying each principle.My final quibble is that there is an appendix with pages of services and products that Tracy sells. I don't think such advertisements belong in a business book that someone has paid for. Skip the appendix.After you have finished reviewing the lists here, I suggest that you think about how you can turn these ideas into good habits.  One useful approach would be to create your own outlines to apply the 100 items to classes of actions and decisions that you make all of the time.  For example, if you are in sales, how should you use these ideas for getting prospects?  After you have that outline, you can develop some measures to tell you whether you are following the outline or not.  When it becomes automatic to do so, keep measuring and make another outline.  In the case of sales, you might look next at identifying what the customer's needs are.  And then keep going.Become a living model of best practices! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Summaries of the Best Business Book Ideas in One Volume! </p>
+
+
+<h2> review.date </h2>
+  10-14-2010  
+<h2> review.text </h2>
+
+ <p> Little or nothing in this book on business success hasn't been said by many others in past decades and centuries, but Brian Tracy is an effective communicator and motivator, hence his own success.  Most of Tracy's advice is indeed sound, and he thus shows plenty of insight into human nature and social functioning.  No one can read this book without learning something useful, or at least being usefully reminded of things they already know but need to put into action more.But on the negative side, Tracy oversimplifies and oversells in many ways.  For example, his definition of success narrowly focuses on business success, especially financial success, and thus doesn't acknowledge the value of balance in life.  If someone chooses to spend less time at work and more time with their children, that's not necessarily wrong (many would say it's right).  Also, the very claim that there are "absolutely unbreakable laws" of business success is silly.  There may be laws of physics, but not laws of business success.  If Tracy could tone down the hype, he would admit that his "laws" are just heuristics which have proven to often foster success, but to varying extents in varying situations, and never with any guarantees.  Sorry, someone in dire circumstances in Somalia or Iraq isn't automatically going to transform their situation simply by following Tracy's "laws."  Circumstances (and luck) do matter.The bottom line is that people who seek the kind of success Tracy describes will surely benefit from this book, but there's also a need to recognize that Tracy's framework is quite narrow and limited.  Set goals, take action, be disciplined, etc., but also take time to smell the roses and spend quality time with people you care about. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Much practical wisdom embedded within much hype </p>
+
+
+<h2> review.date </h2>
+  07-08-2007  
+<h2> review.text </h2>
+
+ <p> "The 100 Absolutely Unbreakable Laws of Business Success" is a collection of principles that range from the popular law of attraction, that has become even more popular through the book "The Secret" and "Ask and it is Given", to the law of compensation which Emerson wrote about brilliantly in his essay titled "Compensation".  Readers will find many examples like these of books that cover one of the "laws" from this book more extensively and prior to this book.  However, the brilliance of this book is its ability to bring so many of these principles into one volume that is easy to read and explained well.  Tracy has put together a winning book that will give you a guideline of the key principles for business success.  I found value in almost every page of this book. I have learned a lot from Tracy's books, this is definitively an achievement enhancer.  Enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A collection of timeless principles explained well </p>
+
+
+<h2> review.date </h2>
+  05-02-2013  
+<h2> review.text </h2>
+
+ <p> Was recommended to read this and really enjoyed it - Something that I can read over and over again and get something new out of it.  Anyone in business I would recommend reading this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Business Bible </p>
+
+
+<h2> review.date </h2>
+  02-19-2001  
+<h2> review.text </h2>
+
+ <p> In The 100 Absolutely Unbreakable Laws Of Business Success, Brian Tracy shares insights and information gained from a thirty year business career to help the aspiring businessman or businesswoman succeed in a competitive marketplace regardless of the service or product they produce or offer. Tracy breaks down his &quot;100 laws&quot; into the nine major categories of Life, Success, Business, Leadership, Money, Economics, Selling, Negotiating, and Time Management. Tracy provides the reader with the source and foundation of each &quot;law&quot;, how it functions in the business world, and how they apply to life and work through the use of specific questions, practical steps, and effective exercises. The Interpretation Of Scripture In Early Judaism And Christianity is clearly and engagingly written, ideal for the non-specialist general reader and aspiring entrepreneur or business manager </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Insights gained from a thirty year business career </p>
+
+
+<h2> review.date </h2>
+  05-05-2008  
+<h2> review.text </h2>
+
+ <p> Maybe I won't go so far as to say this is the best business book I've ever read, but I completely filled up a spiral notebook with notes. In fact, I had to use about 10 pages of another spiral notebook. I think I took more notes from Brian Tracy's 100 ABSOLUTELY UNBREAKABLE LAWS OF BUSINESS SUCCESS than from any other book I have ever read, and I've read an awful lot of books.One thing I really want to point out is that this book is not just about business. This book is about life. In fact, the first chapter is about the Laws of Life. It contains five subchapters, but really, all of the other seven chapters and ninety-three sub chapters have to do with both business and life. These laws apply to marriage, school, politics, you name it. For instance, in chapter two we find the Law of Responsibility. You will see that it applies to every aspect of life in some way. The entirety of chapter seven contains fifteen laws of negotiating that will likely save enough on your next vehicle purchase to pay for a copy of this book for every member of your family!I could go on and on. I just can't think of a part of this book that isn't applicable to every part of life in some way. What I'm saying is, this isn't just a business book! This is a book that will make you a better person, and isn't that really what life is all about?The book is exceptionally well written. There's not a lot of razzle-dazzle, just cold hard stuff you can use to propel your life to a higher level. I recommend a lot of books, but only a select few make it onto my "must read" list. This is certainly one of those must reads. This book gets my highest recommendation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kick your life up a notch,... or two. </p>
+
+
+<h2> review.date </h2>
+  02-20-2008  
+<h2> review.text </h2>
+
+ <p> his ability to distill life-altering concepts into digestable insights is among the very best.  There are hundreds of motivational speakers and writers, but Tracy is one of the most efficient at conveying his message in an understandable format.The 100 Unbreakable Laws of Business Success presents time-tested truths in an easy-to-read style.  Many of these concepts are not Tracy's.  He merely introduces fundamental principles developed by other great thinkers and dishes them up in comprehensible chunks.  It's like getting the philisophies of Earl Nightengale, Ben Franklin, and other giants compressed into one actionable book.If one could simply maintain the discipline to read and meditate on one of these laws every week, the benefits would begin to manifest immediately, and after two years, the reader would be astonished at the results. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I've been a student of Brian Tracy for over a decade, and </p>
+
+
+<h2> review.date </h2>
+  11-12-2000  
+<h2> review.text </h2>
+
+ <p> The title is somewhat misleading. In fact, all of the 100 "laws of business success" which Tracy identifies are broken every day. That's precisely his point: Success awaits those who understand them and follow them; failure awaits those who do not. "The purpose of this book is to share with you a system of proven principles, or `laws,' that have been discovered and rediscovered, practiced and implemented, by the most successful business people everywhere, in every kind of organization, large and small, throughout the history of business enterprise. The practice of these laws will give you the winning edge." Tracy organizes his material as follows:Chapter One: -- The [5] Laws of Life (e.g. Cause and Effect)Chapter Two -- The [14] Laws of Success (e.g. Forced Efficiency)Chapter Three -- The [14] Laws of Business (e.g. Critical Success Factors)Chapter Four -- The [12] Laws of Leadership (e.g. Empathy)Chapter Five -- The [13] Laws of Money (e.g. Accelerating Acceleration)Chapter Six -- The [15] Laws of Selling (e.g.  Positioning)Chapter Seven -- The [14] Laws of Negotiating (e.g. Win-Win or No Deal)Chapter Eight -- The [13] Laws of Time Management (e.g. Sequentiality)Tracy discusses each of these 100 "Laws" and also includes several "corollaries." My guess is that many of the Laws (if not most of them) are already familiar to you. In that event, they have value as reminders. What I found most valuable is Tracy's grouping of them in subject-specific clusters (e.g. The Laws of Negotiating after The Laws of Selling); also, his use of sequences, from one Chapter to another, from one Law to another. Personally, I view the Laws as Guidelines which can help to inform and then direct appropriate decisions in all manner of situations. Also, as I think Tracy would agree, they will be effective if (huge "if") sustained by a firm commitment throughout the given enterprise by everyone involved. As one old adage suggests, "If you don't care where you're going, any road will get you there." It has a corollary: "If you don't care what happens, anything you do (or don't do) won't make any difference anyway." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Valuable Guidelines...Not Unbreakable Laws </p>
+
+
+<h2> review.date </h2>
+  05-08-2001  
+<h2> review.text </h2>
+
+ <p> Human potential expert Brian Tracy has focused the light of Universal Laws through the lens of business and created a most fascinating, richly written guide that can enhance both your personal and professional life. He explains each of the 100 laws in philosophical, behavioral, and practical detail. Then he applies them to various aspects of business, career enhancement, creativity, and financial reward. The book is destined to become a business classic. There is nothing trite, shallow, or gimmicky about this book, and we [...] recommend it highly to all professionals. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Highly Recommended! </p>
+
+
+<h2> review.date </h2>
+  03-23-2013  
+<h2> review.text </h2>
+
+ <p> I can't say enough positive things when it comes to Brain Tracy's work!  Another great book, if you haven't read it - you should! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SOLID!!! </p>
+
+
+<h2> review.date </h2>
+  11-10-2013  
+<h2> review.text </h2>
+
+ <p> Brian Tracy is a master of research and explanation. This book explains in vivid detail the laws that work all of the time in business. Many people have no idea that these laws even exist. This is an excellent book that will enlighten you and help you to achieve greater business success. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The 100 Absolutely Unbreakable Laws of Business Success </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

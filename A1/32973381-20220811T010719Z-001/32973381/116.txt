@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B006JO1YCY <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-02-2013  
+<h2> review.text </h2>
+
+ <p> since i got an ultrabook from Acer, i wanted to buy a small and portable bluetooth speakers to match up with it.  Believe it or not, I tried so many different brands, some are great brands and expensive products, such as Sony & Bose.  also I tried out couple of other brands including Creative D-100.  However, none of them gave me satisfactory bluetooth connection with my ultrabook.Most of them sounded pretty good once they are connected, specially Bose and Sony (of course, they are also very expensive compared to Duo), but the main problem was that once the ultrabook was turned off or in Sleep mode, the bluetooth gets disconnected which I had to remove the bluetooth icon from the setting and re-connect in order for me to use it with bluetooth.  That was the main hassel on all other brands.  But only this London Duo speaker set was able to be connected automatically without removing, re-connecting...etc without all the troubles.  And IT SOUNDS GREAT, VERY LOUD AND CLEAR.  Of course, with bluetooth connection the sound level and clarity get bit inferior compared to using 3.5mm speaker jacks directly without going thru bluetooth, however, no matter what, it works totally awesome.  I had to return so many other bluetooth speakers and now finally I found the only unit that works great with my ultrabook, Acer.  Perhaps, considering so many other speakers not working properly, the cause might be from my ultrabook rather than the other speakers.  But DBEST came out to be the BEST bluetooth speaker for my ultrabook. AWESOME SPEAKER WITH GREAT PRICING.  YOU WILL NOT BE DISAPPOINTED.  Thanks DBEST. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great loud and clear sound and bluetooth works perfect </p>
+
+
+<h2> review.date </h2>
+  09-23-2013  
+<h2> review.text </h2>
+
+ <p> I couldnt be more pleased.Very cool looking,Easy to sync up.And very good sound quality.So far so good,Ive got no complaints. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome </p>
+
+
+<h2> review.date </h2>
+  08-18-2012  
+<h2> review.text </h2>
+
+ <p> These paired immediately with my Galaxy S III phone - no hitches.  The sound is very good for such a compact set of speakers.  I used a longer audio patch cord to get greater separation between the speakers.  I am very happy with these! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Work and sound great </p>
+
+
+<h2> review.date </h2>
+  11-01-2012  
+<h2> review.text </h2>
+
+ <p> Design is very cool, looks great, combining two speakers with a magnetic snap is just awesome, Bluetooth works perfectly, everything is great except the sound.and I am not comparing this with a big size speakers, I had a similar speaker brand iHome iHM60GT with a aux cable. That little dude sounds a lot better and stronger with the bass.Me and my wife both think the same and we are both hobbyist DJ's and serious music listeners.If you need a small portable speakers look for accordion expansion, I think that makes difference.I wanted to like this because of the bluetooth and design but I had to return it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looks cool but sounds bad </p>
+
+
+<h2> review.date </h2>
+  03-09-2013  
+<h2> review.text </h2>
+
+ <p> i bought these for my car after getting a few estimates for a new stereo installation that were around 450$. instead of spending almost 500$ to get a bluetooth stereo in my car i just got these and they are great.the bottoms are magnetized so you can put them together, but what i did was glue 2 magnets on my dash, and set these speakers on them and it holds them perfectly.anyways.... it was a great alternative.These speakers can get very loud, with good quality sound.The batteries last hours, ive had them for about a week and have yet to charge them since the first charge.I can be going 75mph down the high way with a window down and still hear them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> awesome speakers </p>
+
+
+<h2> review.date </h2>
+  03-29-2013  
+<h2> review.text </h2>
+
+ <p> These even-smaller-than-I-expected minis work, sound, and look great. Of course, they are truly tiny, so don't expect hi-fidelity characteristics; but their still-truly-very-nice sound will fill a very-large room, a back yard, or a big terrace. The claimed 45-foot amplification is very fair. The wire connecting the two speakers allows for a 33.5&#34; separation of the two mighty-mites. That's plenty for my occcasional applications; if you need more, it's a standard male-to-male 3.5 mm cable. I especially appreciate these matte-ebony beauts as travel speakers that I can drive with my Windows Phone or Mcrosoft Surface tablet wherever I may land -a large San Miguel de Allende roof garden, for instance. They charge quickly through the handy USB port, last as long as claimed, and immediately mate with any of my bluetooth devices, triple-chiming when they turn on, and once again when they connect within seconds. I turn the speakers' volume adjustment to high and then attenuate it with my device controls. Keep a charged pair in your back pack and share your music wherever. I'm thinking of getting a back-up pair because, with my serious music habit, I would really miss DeseBESTs now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DBEST is right!! </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> We bought these originally to attach to our IPad's when watching movies, etc.  They have great sound for such small speakers.  We just took a vacation and packed these along.  Unfortunately, the airlines broke one of them so when we arrived in the South Pacific we had to do without these.  As soon as we returned we ordered another set.  I would definitely recommend these speakers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Second set </p>
+
+
+<h2> review.date </h2>
+  03-26-2013  
+<h2> review.text </h2>
+
+ <p> Man, this is portable ear candy!  I could not be more pleased.  Pairing was a chinch, operation was immediate, and the response was nothing short of astounding for a package that fits easily in my one hand!If your tablet has an equalizer onboard, I'd tweak the bass up, add the highest treble freq a touch, then sit back and ride!  For travel, a day at the beach, or to bring your music to your motorcycle or auto with a glued on magnet as a base...well, what's not to like?  Think out of the box and enjoy  sharing the moments.  I've used them with my ASUS tablets (TF 101 & TF 700) and Samsung S2-all Androids-with not a hitch.Can you tell that these rocked my boat? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These babies really rock! </p>
+
+
+<h2> review.date </h2>
+  12-28-2011  
+<h2> review.text </h2>
+
+ <p> Small, but they are solid speakers. I have multiple devices and used to run audio cables everywhere. This resulted in a regular period of untangling. So, tired of the tangle, I did some research and ran across a ton of mediocre bluetooth solutions. Most were a single speaker and usually mono. But then I ran across the Dbest London speakers.1.They are tiny and the bass is good for a 2 watt amp.  They are solid and seem to handle music, video, and games well.  And best of all, they are actually stereo. The right speaker is the master, the one with the on/off switch, the usb charging port, and the battery.2.They are supposed to have a 20 hour use via bluetooth and 40 hours, if plugged directly into your computer, phone, or whatever. I've only had them for about 8 hours, so we'll see.3.You can use them while they are charging, so all is well at that point. If you like portability, these are perfect. But if you want killer base, you need a stationary home sound system. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dbest London Mini Bluetooth Stereo bliss </p>
+
+
+<h2> review.date </h2>
+  06-21-2014  
+<h2> review.text </h2>
+
+ <p> Returned it after 5 mins of use, loud but has no bass or depth. I found a pair doing the same thing in Marshalls for 40 that has much better bass. Just dont bother </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awful </p>
+
+
+<h2> review.date </h2>
+  04-07-2012  
+<h2> review.text </h2>
+
+ <p> I would compare the sound coming from this speaker to a quality 6x9 speaker at over half volume. If you blast this speaker it will hurt your ears sitting next to it. There is only detectable distortion at Max volume it is not an issue.The battery life is EXCELLENT and its refreshing to see a company actually reach their claims. You can get 20 hours and I'm not talking about at a whisper. The price is a little steep but if you look at the quality and the fewer times you will have to charge it it's worth it! In this case you a get what you pay for.The range is a minimum of 30 feet on my galaxy s2 before the sound begins to break up.The quality of sound is good to excellent for a radio with speakers 3 times larger and they have some bass. Definitely the best minuture speakers I have ever heard. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing volume for the size LONG battery life! </p>
+
+
+<h2> review.date </h2>
+  06-29-2012  
+<h2> review.text </h2>
+
+ <p> Like others, I'm tired of all the tangled wires. I searched for a portable wireless speaker set, read about Jambox, & Bose -- they seemed awfully expensive.So when I read the sterling reviews here, I decided to give it a go.First -- I am using it with one of my older laptops -- its Bluetooth is 2.0 and the DBest instructions say they don't guarantee its functioning on any version of Bluetooth earlier than 2.1. It took me quite a while to get it paired -- but I don't know if that was because I did not have the Bluetooth properly set up on this laptop -- I don't recall using it before.After an hour, I got it to pair and the sound came through. It was amazing in quality -- everything all the reviewers here say.But it was "too" crystal clear for my taste. The sound was so pure and accurate that there was no "warmth." I don't know how to explain it any other way. I have had headsets that sounded tinny and that of course lacked the warmth, the same as the DBest speakers. But the DBest speakers were not tinny at all, they were amazingly clear and accurate.Anyway -- they did not suit my purpose. I don't think it was the age of my laptop or the problem with its Bluetooth program -- I think I just didn't like the way the DBest speakers sounded. But I think that is a matter of taste and not quality.I just added this review to alert people to possible disappointment. I will be curious if others have a similar take on their sound -- or whether I am an isolated case. I might not have given them an adequate chance. But I sent them back to Amazon the next day. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazingly clear and accurate -- but lacks "warmth".... </p>
+
+
+<h2> review.date </h2>
+  11-21-2012  
+<h2> review.text </h2>
+
+ <p> Work fine as expected.  They have a good sound and an excellent battery life.  We listen to them quite often but we may buy a larger speaker to get a bit more volume. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Speakers </p>
+
+
+<h2> review.date </h2>
+  01-02-2013  
+<h2> review.text </h2>
+
+ <p> I like to use Bluetooth speakers for everything because I move around a lot in my house with my tablet, computer and phone. I was asked to review the DBEST London Duo Rechargeable Bluetooth Mini-Speaker Set. The wireless speakers are connected through Bluetooth Hi-Fi. These were so cute, and I just had to test them out around my place.DESIGNEach speaker fits in the palm of my hand and looks very cool to leave around the house. They are two little black orbs with a reflective red center. They have a really contemporary tech look. The two speakers connect with a wire - they aren't wireless from each other. The two speakers need to be connected together to work.To easily carry around, the speakers can be connected at the bottoms and held together by magnets. It also comes with a mesh pouch to carry it around easily and without damaging it.PROGRAMMINGLike every Bluetooth connection, your device needs to find it. When you turn on the speakers, the device will search for "Speaker". The user guide will provide a password to access the Bluetooth (if it asks for one). When connected, the speakers will beep and you can then use it.iPad SOUNDUsing the speakers with the iPad, it worked well when both the speakers and iPad are close to other. The sound is loud and clear. It's really great when the speakers are in the same room, but when you start moving away [with the iPad] into another room - the sound becomes less clear and static. The sound is still loud, but the connection starts breaking. When I placed the iPad in another room and start the music/video, there is a delay in the connection as well.iPhone SOUNDWhen using the iPhone and the speakers, the sound quality is clear - even when you go into other rooms with the phone. The music is still loud. Similar to the iPad, it is great if you want to watch a movie on your iPhone and cannot hear the standard sound and want it amplified.Android Phone SOUNDThe android connects really well. I placed my phone in the furthest room and played the recording. The Bluetooth speakers were able to capture them clearly and play it loud and clearly. I was pretty amazed at the connection the Android phone had with the speakers.Laptop SOUNDI connected the speakers to my MSi laptop. The sound quality was very clear when close by, but like the iPad, it had some static as I was walking away from the speakers. There was no delay in the start of videos and music when I started it in the other room, but as it played on with some static.BATTERY LIFEAccording to the company, a fully charged speaker can play up to 20 hours wireless or up to 40 hours in wired mode. I have not tested it nonstop, but as I use it every day for a few hours, it has lasted a long time.To charge the main speaker, a USB cable is connected directly to a PC or laptop or a main USB charger. The LED indicator on the speaker will be red when charging and turn blue once the battery is fully charged. According to the user guide, full charging time for a flat battery is 3-4 hours.FINAL THOUGHTSRetailed at $69.99, the duo rechargeable Bluetooth mini-speaker set from DBEST isn't really "the best", but it's pretty good. It's great for `in room' activities, but when the device is moved slightly further away, there seemed to be a problem connecting it clearly. I do like how it looks and being able to place it in the living room for sound when I feel like watching a movie on my iPad on the couch. It looks pretty modern and is good for local use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not "DBEST" but pretty good </p>
+
+
+<h2> review.date </h2>
+  12-28-2012  
+<h2> review.text </h2>
+
+ <p> I bought these because i don't want to waste money on batterys and I wish to be concious of the environment. I was surprised to hear the great quality music and overall sound from these speakers. I used to live in a 10X12 room and the sound was fantastic. Now one of my friends uses it when cleaning rooms at a university. Needless to say, there haven't been any complaints from either of us and I recommend purchase of these speakers. That is if you want a relatively inexpensive set of speakers that are rechargeable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great speakers </p>
+
+
+<h2> review.date </h2>
+  01-10-2013  
+<h2> review.text </h2>
+
+ <p> I just got these today and must say I am pleasantly surprised! I have had these plugged in non-stop for the last 6 hours and cannot believe my ears and eyes! Although I will say this about syncing up my HTC One V phone to these: it took about 5-10 minutes to get them paired up.  It wasn't even an issue of actually getting them to pair up, that was immediate.  However, the sound wasn't coming out of the speakers during that time.  It took me going into my bluetooth settings, looking at the &#34;speakers&#34; showing up, and pressing the  press to pair&#34; option.  That is when it actually synced up.  So, maybe that's my fault.  Anyways, some small complaints: some songs &#34;crackle&#34; for no apparent reason other than they look like they are &#34;buffering&#34; at that particular time. This doesn't happen when the songs are playing via a wired speaker and/or just playing from the internal speaker on the phone. Also, when your device and the speakers get separated by any kind of wall, the music will break up a bit and/or stop for a second or two. Now, the actual sound:  crisp, clear, and as stated by two other reviewers, it does lack &#34;warmth&#34;. It is hard to explain it any other way. That is exactly how to describe it.  It hasn't been 1 whole day so if I have any updates, I will post them here.  All considered, they sound really good, not Bose good, but pretty darned good.  The one other thing that bothers me, even though I didn't pay full price:  the $70 price tag.  For $70, you could buy three (3) X Mini II speakers and get comparable sound. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Close your eyes and you would think your listening to something 10 times bigger! </p>
+
+
+<h2> review.date </h2>
+  10-05-2012  
+<h2> review.text </h2>
+
+ <p> Remember now, they're about the size of a softball so you ain't getting no THX 5.1 certified sound out of these puppies.  They cost as much as the huge, honking Creative Labs wireless speakers but perform so much better.  My iPhone picked them right up.  The ID said "speakers" (ok, lacks imagination but informative enough).  Wireless through the iPhone - not bad.  I will be using them for travel to bring a little music to an empty hotel room.  And, these fit the requirement.Audio - a bit tin'ie, flat.  Some bass gets through.  Good fidelity.  Beats the internal speakers on my iPhone or tablet, so it's a great trade-up.  I connected the audio able directly to an Asus TF700T tablet and the sound was about the same.  I put the tablet to sleep and the speakers stayed connected, media player still running.I unplugged the audio cable, turned off the iPhone, and turned on BT on the tablet.  Pairing was a bit more difficult but only took a minute to fuss with it.  It seems like the order is 1)Turn on the tablet (bluetooth off), 2)Turn on the speakers with the audio cable unplugged, 3)Turn on bluetooth with the tablet and pair.  Repeat as needed until it connects.  The speakers will attempt to connect with the last device it paired with, so switching devices may be a bit cumbersome.On a side note, the audio cable is very short.  It's next to the USB plug, so if you want to charge and play wired at the same time it may be an issue.  Fortunately, all you need is a male-2-female 3.5mm audio extension cable which you can find here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid </p>
+
+
+<h2> review.date </h2>
+  08-16-2012  
+<h2> review.text </h2>
+
+ <p> I just got these and have been listening to them for a half hour. They're good, but do have his much kick as my singleKinivo ZX100 Mini Portable Speaker with Rechargeable Batterythat a got a few days ago for roughly 1/3 the price. But I have to say that the "kick" comes from the fact that my Kinivo actually sends sound waves into the surface it's sitting on, which cause that surface to vibrate, effectively turning it until a subwoofer.But if I remove that one element, the DBEST system has the separation and spaciousness that aren't readily duplicated by a single speaker.At the same time, that does not justify spending 3x for 2 speakers that doesn't sounds as quite as good as one Kinivo. I'm printing out my return label now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not keeping these...Here's Why </p>
+
+
+<h2> review.date </h2>
+  12-17-2012  
+<h2> review.text </h2>
+
+ <p> I've had these for about three weeks and they have performed very well. Synching is very easy and for the size and price the sound quality is quite good.I like that you can separate the speakers as opposed to one solid brick-like cabinet with two speakers a few inches apart.For easy and convenient carrying and travel the speakers easily fit together via magnets.I would recommend this if you want convenient, decently sounding speakers that are very portable and at a sub-$100 price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice quality and overall good performance for the price </p>
+
+
+<h2> review.date </h2>
+  08-15-2012  
+<h2> review.text </h2>
+
+ <p> I just finished repairing a Bose Sound dock for someone and tried my iPod Touch on it. The Bose sound is impressive.But I wanted something smaller, lighter, with a rechargeable battery, Bluetooth, good stereo separation,and ideally much less expensive. All features that the Bose lacks.This little DBEST London Duo comes very, very close to the enjoyment I had from the Bose- and at less than 1/4 the price.At first I understood the reviewer who spoke of too little warmth- as the sound was quite "bright"though completely free of noticeable distortion even at the highest volume.After some research I found that my iPod has a built in equalizer which allowed me to modify thesound output with a choice of about 15 different presets. (You get to it from settings- scroll down to music- choose EQ).After some experimenting I chose "Deep" which tones down the treble and boosts the bass.This brought the sound to a very pleasant balance with these tiny speakers-  and now I cant stop listening to them.They dont have the massive volume of the Bose, nor the overpowering Bass but they easily meet all my desiresfor a really nice addition to my iPod music experience.I will enjoy playing them discreetly next to my big speakers and exposing them after people comment on the nice music.BTW- a couple of facts that I didnt see mentioned before. The connecting cord is 30 inches long and plugs into both units.The two speaker halves cleverly mate together with a magnet that holds them as a pear size unit- and they still play that way.The Bluetooth stayed connected up to about 48 feet line of sight- but this was reduced significantly with walls in the way. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a Bose - but Wow! </p>
+
+
+<h2> review.date </h2>
+  06-05-2012  
+<h2> review.text </h2>
+
+ <p> For their size these are the greatest. I had a little trouble setting these up, but it was minor. A slightly better set up picture would have helped. The confusion came from the unusual USB cord which has two cords out: a 3.5mm male input jack and a micro USB. The 3mm is to be plugged into the computers auto-out and the micro usb is for charging unless the 3mm is plugged in and then it's for charging an auto in. Once I understand what was going on, the diagram was apparent, but it could have been a tad clearer to begin with.In any event I had the whole works running in less than 10 minutes. Hooking the DBEST BT to the Mac took me a few steps because I am new to a Mac - nothing to do with the DBEST speakers. Once they connected and I redirected auto to them - wow! Very nice.I have not had them long enough to comment on battery longevity.These beat the quality of my Macbook Pros inboard speaker(s) by miles.I noticed if I hold these up and aim them at my ears, the sound is fantastic. I think I am going to build a headset with them. &lt;grin> </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DBEST Speaker are great </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

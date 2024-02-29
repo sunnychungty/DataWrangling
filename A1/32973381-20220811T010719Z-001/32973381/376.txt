@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 189319664X <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-11-2008  
+<h2> review.text </h2>
+
+ <p> Some of us will always have that person that makes us ask "What if..."  This books answers that question for you. Good read, a little predictable, but worth the price of admission.  Check it out!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> That first love.... </p>
+
+
+<h2> review.date </h2>
+  10-25-2006  
+<h2> review.text </h2>
+
+ <p> What would you do if you run into your first love after six years? Well David and Jocelyn ran into each other in Philadelphia after not seeing each other after all them years. The reason they broke up was because David cheated on her with her friend. But when they seen each other it was love at first sight again but Jocelyn was married and David was engaged to get married. With the e-mails they finally plan to hook up but they couldn't without a good reason to get away from their mates. So that is when David had to involved his bestfriend Marc and Jocelyn had her sister Marisol to lie about their whereabouts. After all the hard work they finally rekindle the flame and the ball was hit out of the ball park. The flames was hot as a firecracker and both of them played with fired and they got burned.David,Jocelyn,Marc,Marisol,Janelle and Eric takes you on a rollercoaster ride of your life. With all the twists and turns you will not be able to guess the end. That is how good of a writer Dwayne really is. Stay tune for his next book entitle-IN TOO DEEP.  Can't wait to read it.  You go Boy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Buy it ! Reviewer-Big Time Publishing Magazine Book Club </p>
+
+
+<h2> review.date </h2>
+  10-03-2006  
+<h2> review.text </h2>
+
+ <p> DJ may have completely outdone himself with his latest novel, which centers around one man and the two women in his life.  For David, life is going well; he is a successful author and he is engaged to be married to the beautiful, adoring Janelle.  David is happy....or so he thinks.  Fate is determined to throw a monkey wrench into his future plans, in the form of first love Jocelyn, who he runs into while in Philadelphia for a booksigning.  Sparks fly, the feelings are still there, and both find themselves wondering...what if?  The two exchange email addresses, and part ways.But David cannot get Jocelyn out of his mind...and sends her an email confessing his feelings.  Unhappily married, Jocelyn finds herself yearning for David also...and confesses the same.  Soon, the two arrange to meet in Baltimore over a weekend, to spend some time together, and talk.....and thus a love affair is born.  But what of Janelle, and the unconditional love that David has with her?  And what about Eric, seemingly the perfect husband?  It doesn't take long for deception and betrayal to catch up to the secret lovers....and the drama that unfolds is nothing short of gut-wrenching.  When it is all said and done, readers are left to ponder...can we ever recapture what was lost?  Certainly, David and Jocelyn face some difficult choices in this tale.....DJ has recaptured the magic that I found while reading The Womanizers in this novel...it is filled with drama, heartache, and lessons to be learned.  Very enjoyable read.DYB </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AT THE TOP OF HIS GAME WITH THIS ONE........ </p>
+
+
+<h2> review.date </h2>
+  11-21-2008  
+<h2> review.text </h2>
+
+ <p> I've waited so long to get this book because I thought it would be something interesting, but it damn sure wasn't what I was expecting. There was nothing in this book that made you want to fall head first into it. Although it was well written and a good plot and idea but lacked a lot of substance. I thinkMr. Joseph could have taken his time and really tried to make the characters way more intriguing. Maybe I was expecting too much though. I don't mean to say it but it was good just not good enough. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not What I Thought It Would Be! </p>
+
+
+<h2> review.date </h2>
+  09-12-2006  
+<h2> review.text </h2>
+
+ <p> First let me say if you havn't read ANY of Dwayne Joseph's novels you are truly missing out.  There are few author who can turn out one good book after another, DSJ you have truly have a "writing mojo".  This is a fast paced extremely well written book that will only leave you wanting for more. E. Lynn, Eric Pete, Travis Hunter better watch out because this brotha has proven to competion for the big boys!... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thrill-a-licious!!!! </p>
+
+
+<h2> review.date </h2>
+  10-18-2006  
+<h2> review.text </h2>
+
+ <p> I will suggest everyone that loves a good book to read, to pick up this book......This book was the bomb...I had drama,suspense and then some...I hope Dwayne comes out with a part 2...The end of the book is a real twist b/c u think one thing will happen but it doesnt....I know everyone at one point of time have experienced something similair to this matter that happend in the book.....It taught me Not to leave Sugar for Sh%^, if you know what I mean....Dwayne keep up the good work...Cant wait for your next book...Trinilady25 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Always The Best </p>
+
+
+<h2> review.date </h2>
+  07-14-2007  
+<h2> review.text </h2>
+
+ <p> I didn't know this book would be so good. It was so fast-paced that I finished it off in a one night. I shook my head as David and Jocelyn relentlessly went against everything I personally believe in when it comes to relationships and fidelity. Eric and Janelle truly didn't deserve the deceit and treacherous heartbreak that was thrown their ways. I cried tears over Isaiah. Marc, Kim, and Marisol were great supporting characters. The ending actually surprised me. I think Eric did the right thing in the end. Jocelyn was indeed tainted and no longer good enough for him.  As for David and Janelle...I think they really did belong together because in spite of David's unfaithfulness, he truly loved Janelle and she loved him back. Good job by this author.This book doesn't need a follow-up, but I would be happy to read one anyway. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I didn't know before...but I know now! </p>
+
+
+<h2> review.date </h2>
+  10-14-2006  
+<h2> review.text </h2>
+
+ <p> David and Jocelyn had a love affair back in high school and college. David cheated on Jocelyn and that was the end of that.Fast forward 6 years, David is now engaged to Janelle. Jocelyn now married to Eric. But when David and Jocelyn meet at one of David's book signings (he's a successful author)the old flames seem to be rekindled. They exchanged email adresses and starting communicating. David and Jocelyn realize they still have feelings for each other and decide to meet up and see what happens. David starts to neglect Janelle. And Eric has already been neglecting Jocelyn for his work for months.After they meet they realize they need and want to be together. Jocelyn leaves Eric, and David is ready to leave Janelle, but Janelle reads his emails, and breaks it off immediatley. Then reveals she is pregnant. David and Jocelyn move in together, and the drama keeps on coming.Death, lies, betrayal and pain are what lies ahead in this twisted love triangle. Find out what happens when ex lovers meet, and the tangled web they shall weave. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What Happens When former Lover hook up? Nothing but Drama! </p>
+
+
+<h2> review.date </h2>
+  06-11-2007  
+<h2> review.text </h2>
+
+ <p> This is the first book I've read by Dwayne Joseph and I must say that I wasn't disappointed. The book had a slow start but finished up great. This is a good read. I don't think Janelle should've given David a second chance but hey love conquers all....I guess. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Slow start but great finish </p>
+
+
+<h2> review.date </h2>
+  03-07-2007  
+<h2> review.text </h2>
+
+ <p> What first caught my attention about this book was the title because in my head I was singing the Aaliyah song and after I realized that the book was by a friend of mine I knew I had to get it because I knew it was going to be a hot joint.  Well needless to say I finished the book in a cool five hours and was highly impressed.  I have read much work in the literary world as well as read quite a few by Mr. Joseph himself and I got to say every time I read something new Dwayne turns the heat up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Let's Just Say It's On FIRE </p>
+
+
+<h2> review.date </h2>
+  01-11-2008  
+<h2> review.text </h2>
+
+ <p> This book was a page turner.  It was one thing after another.  I couldn't believe how stupid David and Jocelyn were but in the end everything came around and was either good or bad on both of them.  I really liked the ending...I was very surprized.  But that book David published must have said alot to make Janelle change her mind.  But otherwise this was a very good read and I'm going to keep track of the next book to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW...is all I can say </p>
+
+
+<h2> review.date </h2>
+  12-02-2006  
+<h2> review.text </h2>
+
+ <p> I enjoyed this book from the beginning until the end.  It makes you realizes how blessed you really are even when you think you aren't.  I highly recommend this book and hope there is a sequel.  Keep up the good work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Read </p>
+
+
+<h2> review.date </h2>
+  11-30-2006  
+<h2> review.text </h2>
+
+ <p> This was a very good read it grabs you from page one. You'll think twice if you think the grass is greener on the other side. I'm waiting on the sequel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT READ </p>
+
+
+<h2> review.date </h2>
+  02-05-2007  
+<h2> review.text </h2>
+
+ <p> this was my first book by Dwayne S. Joseph it was very well written. it was full of suspense and drama. the ending i didn't agree with but hey to each it's own. it's all about the age old question of first love can the flame be reignited? or should the past just stay in the past? you be the judge get this book and ask yourself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> the grass isn't always greener on the other side..... </p>
+
+
+<h2> review.date </h2>
+  03-22-2010  
+<h2> review.text </h2>
+
+ <p> This book show why Men and Women should not cheat on there mates, The book Start off with action on the first page and has a really good ending. The book is a real fast pace read and truly a page turner you be finish with the book real fast. This is one book that has to be pick up and add to ya book collection. I really enjoy it, Like My girl Aaliyah would say If your girl only knew. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If Your Girl Only Knew </p>
+
+
+<h2> review.date </h2>
+  11-14-2008  
+<h2> review.text </h2>
+
+ <p> This was my first book by this author and I will read others.  The book was slow at first almost boring; however, about page 80 it started to pick up and I really did enjoy the story.  It was well written and it flowed very well.  The characters were very real and boy was there relationship drama.  I felt sorry for David at times, but I'm sure he learned a lot!  Again, great story and I'm looking forward to reading more books by this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Book! </p>
+
+
+<h2> review.date </h2>
+  12-23-2012  
+<h2> review.text </h2>
+
+ <p> I'm glad he got his life towards the end and realized the other chick wasn't even who he thought she was but I think Janelle deserved a little more than an apology. I would've liked to see Dwayne build on their storyline and show how they made it past all the hurt and the pain. I'm glad he kept it real but I could've done without the couple's friends and their storylines. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm glad he realized the error of his ways... </p>
+
+
+<h2> review.date </h2>
+  01-11-2007  
+<h2> review.text </h2>
+
+ <p> You'll have to read this book to find out!!!Old loves David and Jocelyn have a chance meeting years after they've broken up. David is engaged and Jocelyn is married. Their chance meeting leaves them both guessing about what could've happend and while also examining their current relationships. They trade e-mails, meet up again and...well you have an idea what happens.However when the pair decide to take their relationship further fate/real life steps in and a series of events make them question their decision to re-kindle their relationship. You won't want to put this book down...it's that good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can an old love be re-visited??? </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

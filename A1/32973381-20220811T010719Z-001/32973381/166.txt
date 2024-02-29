@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 6304198809 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great science fiction movie with a strange ending. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-26-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I saw this movie at a drive-in theater back in the early 1980's.  Do you know what a drive-in theater is?  Anyway, I have the VHS tape of this movie and have watched it 3 or 4 times over the years.  It's a fascinating sci-fi movie with very good special effects (weird-looking monsters, miniature aliens, UFO's,etc.)  There is a scene where the husband & wife are taking a leisurely stroll through the desert at night. Suddenly, some lights start coming toward them.  Then 2 UFOs fly directly over their heads within 20 feet or so.  That scene is awesome!  I re-played that scene several times just so I could experience the impact of it.  The movie has a great "presence".  What I mean is....it takes you on an adventure into the desert of the American Southwest and holds your attention.  The story line is pretty unique and the ending is very unexpected but rather strange. This is truly a very good cult movie. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Let's All Skip Into The New Age!... </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Jim Davis (MONSTER FROM GREEN HELL) stars in THE DAY TIME ENDED, a movie about alien visitation. This story made me ask the question, &#34;What if George Pal and Ray Harryhausen had dropped acid, and made their own version of CLOSE ENCOUNTERS OF THE THIRD KIND?&#34;. UFOs fly everywhere, for no apparent reason! A mysterious pyramid appears, glowing green and giving a little girl &#34;mind powers&#34;!  A family, led by Davis, runs around their home, then runs around outside! Giant stop-motion monsters fight! More UFOs buzz through the air! Family members are abducted and returned! Titanic crystals grow up, out of the ground! Everyone smiles vacantly, suddenly enlightened and unafraid! THE END! This one's drippy, even for 1979!... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> With a bit of a mind flip, you're into the time slip... </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> `Their lives became a living hell...when past, present and future collided!'  That's the tagline used on the DVD case for The Day Time Ended aka Earth's Final Fury aka Vortex aka Time Warp (1980).  I knew how they felt for 90 minutes, watching this film (the DVD case states approximately 90 minutes, but it was more like 70 to 75 minutes)...okay, maybe it wasn't that bad, but you'd think a film credited with four writers could at least have made sense...rarely have I seen a film so lacking in direction or plot...directed by John `Bud' Cardos (Kingdom of the Spiders, Outlaw of Gor), the film stars Jim Davis (you may remember him as Jock Ewing on TV's Dallas), Dorothy Malone (Peyton Place), Natasha Ryan (Kingdom of the Spiders, The Amityville Horror), Marcy Lafferty, who was once married to William Shatner, both of whom appeared in 1977's Kingdom of the Spiders, along with the above mentioned Ryan, Scott C. Kolden (Sigmund and the Sea Monsters), and Christopher Mitchum (American Commandos, Magic Kid), son of actor Robert Mitchum (I'll saw one thing about Chris is that looking at his credits of low budget, schlocky B films, it doesn't look like he relied on nepotism to get good roles).The film opens with a shot of outer space, and voice over I couldn't hear because of the accompanying music (poor sound editing), and also the sound quality on this DVD was very shoddy.  This goes on for like three minutes, and the gist of it is there's a cosmic phenomena, three super novas colliding at once, and now, some many years later, the effects are reaching the planet Earth...the bulk of the film takes place in some southwestern desert, where patriarch Grant (Davis) has built a solar powered home (looking much like Uncle Owen and Aunt Beru's funky little domicile on Tantooine in the film Star Wars, only not as good), away from all the hustle and bustle.  Next we witness Grant and his son-in-law Richard (Mitchum) picking up the rest of the family at the airport, including Grant's wife Ana (Malone), Grant's daughter and Richard's wife Beth (Lafferty), the granddaughter Jenny (Ryan), and Grant's son Steve (Kolden).  The group returns to the ranch, and soon strange things begin happening in the form of strange green lights inside the house, light switches not working, furniture in disarray, etc.  Also, they begin witnessing lights in the night sky, and even the occasion UFO zipping by...during the night even stranger phenomena begin occurring in the form of really bad CGI and even worse stop motion effects of hostile, misshapen creatures fighting each other in the corral, outside the house.  Apparently the effects of the trinary supernova have torn a new one in the time/space continuum, effectively creating a localized vortex on Grant's property (at least that's what I could get, as the film wasn't as forthcoming as it should have been).  What's an isolationist family to do?  I suppose when the fickle forces of nature give you cosmic lemons, you make cosmic lemonade...I suppose my biggest complaint with this film was its' confusing, muddled, and utterly pointless plot.  It actually took an hour before the audience was let in on what was going on (this was done by the unceremonious dumping of a small but steaming pile of exposition on the audience, as Davis' character, the rural rancher, becomes Mr. Physics during an epiphanic moment when he realizes `we're in a time warp, a vortex, if you will'...later we're treated to a much larger pile as the daughter, who got sucked into the vortex, and later returns relating about as much lameness as I could stand)...prior to that, we were treated to a series of odd (mostly stupid), unrelated events that never really lead anywhere, or had much purpose.  I did get the impression there may have been a good, original concept here, but it was obliterated within the execution.  The special effects are about as good as one might expect within a low budget feature as this, the main bulk of it being stop motion effects with creatures looking much like those (only not as good) from scene in Star Wars, on the Millennium Falcon, where the characters were playing a chess-like game, and minor effects featuring obvious CGI/blue screen work.  The direction was pretty awful, especially noticeable during the scenes where the characters were supposed to react to special effects to be added later.  I could almost imagine how it went... `Okay, now act shocked and scared, as that empty space will be occupied by a horrible monster once we insert it during post production'...'okay, I was going for shocked and scared, not perplexed and moronic'.  The acting was pretty shoddy, but then I would be more inclined to blame this on the script and the director, as the talent was probably as confused as I was with regards to what was supposed to be going on in the film.  Also, I thought the ending to be sort of a cop out.The quality of the full screen, pan and scan print on this DVD isn't great, but I've seen worse.  The real problem lies within the craptacular transfer.  The picture has a stuttering, jittery quality that occurs anytime there's movement on the screen.  I've never witnessed this particular problem before, but it's incredibly annoying, and lasts through nearly the entire film.  The audio's poor, and my player indicates it's PCM 48Khz.  There are a couple of extras featuring a montage of trailers for this film, and three more including Laserblast (1978), Creepozoids (1987), and End of the World (1977), along with some Full Moon Entertainment promotional materials.  Is this film a cult classic?  I'd say more of an oddity...if you're looking for a real cult classic, check out Don Johnson in A Boy and His Dog (1975).  Another thing, the DVD case listed this as being rated R, but that's obviously a mistake...PG would be more applicable.Cookieman108 </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Time Warp In The Mojave Desert </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-27-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> Even though it is clearly made on a very low budget, I honorably disagree with the previous reviewer that THE DAY TIME ENDED is out-and-out junk.  Far worse sci-fi films than this have been made on budgets fifty to a hundred times what it cost to make this film.The story involves a family (led by Jim Davis, Chris Mitchum, and Dorothy Malone) who have moved out to a solar-powered home in the Mojave Desert to escape the terrors of big-city crime in Los Angeles.  When they get to their isolated home, however, they discover that it has been trashed.  Initially, it is thought that motorcycle vandals were the cause.  In fact, however, it is the result of a trinary supernova explosion that occurred two hundred years ago and whose effects are only being felt on Earth now.  Alien beings and their accompanying UFO spacecraft have pulled the family and their house into a mysterious time/space warp, full of weird and sometimes terrifying phonomena.  The coda finds the family venturing across the desert plains to a beautiful futuristic crystal city, with Davis intoning, &quot;Maybe this was all meant to be.&quot;John 'Bud' Cardos, who directed the fine 1977 low-budget horror film KINGDOM OF THE SPIDERS, has set himself a very ambitious task to make a good sci-fi film on a very slim budget.  This film's inspirations are clearly Kubrick's 2001: A SPACE ODYSSEY and Spielberg's CLOSE ENCOUNTERS OF THE THIRD KIND; and while the special effects are, unsurprisingly, not up to the standards of those two masterful movies, I think they hold up pretty well.  The stop-motion dinosaurs and monsters are fairly well done, as are the UFOs and the trinary nova explosions. Most fascinating for me was the eerie green pyramid that the family's youngest daughter (Natasha Ryan) sees, which may have been inspired by Arthur C. Clarke's short story &quot;The Sentinel&quot; (which provided part of the inspiration for 2001).THE DAY TIME ENDED may not qualify as a sci-fi masterpiece, but it certainly deserves to be rediscovered at the very least as a minor sci-fi gem.  One can do far worse than this low-budget film that occasionally looks like a glossy big-budget venture. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent low budget, feel good movie! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-07-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this movie, man.  Family owns an awesome house in the desert that the old man built. KUDOs to the old dude for building such a far out house!  They think bikers messed with it.. But no, weird stuff is happening man.  A mirror fixes itself, water turns on and off via thought.  The little girl has a new imaginary friend out behind the barn, a green glowing Mayan temple looking thing!  Thank God for such things!  The family has an outstanding outdoor barbecue!  I got hungry just watching them pass that mouth watering food around!  Yes, loved it.  The son in law goes to town to do some business, pops open a beer and sips it kinda weird, gonna have to try that myself.  A storm hits.  He heads back home. Meanwhile all kinds of weird stuff is going on... end of the world kinda stuff.  Suddenly their front yard turns into a parking lot for lost otherworldly vehicles, I spotted many interesting craft, freeze frame and see what you can spot!  Cool hovercrafts and massive aircraft, hey, I think the Bermuda Triangle just got dumped on their lawn!  A huge creature attacks, time is passing at a different speed out in the barn than it is back in the house... Very cool, I've experienced this phenomena myself, always cool when that happens!  I thank God for moments like that!  When all looks lost, the little girl and her mother get sucked into the Vortex!  JENNY!  JENNY! Stay outta tha V O R TEX!  OH NO, she was gone with her mother Beth following close behind, now what..  What we have here is a Time Space Warp.. Suddenly the entire family is transported to Heaven!  Yes I'm quite sure that's where they end up.  The new Jerusalem can be seen in the distance.  Holy Angels in flying saucers zoom around.  Hey look!  There's their daughter!  She's been transformed by the Love of God!  There's Jenny, and there's her father! Hey!  Everybody is safe and sound as they walk toward Heaven! All is well, all is as it is meant to be!  Thanks God!  I thank you God for such a wonderful movie.  I love this movie, man.  Thanks God!  (Spoken while pointing both index fingers toward the Heavens!) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Cult Movie Has Been Ruined By The Poor Transfer To DVD </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-12-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> The quality of this DVD is worse than my orignal 10 year old VHS tape. Movement of characters across the screen is jerky, sound is PCM 48Khz 16bit sick stereo (dialogue on left channel, music on right). Picture format is 4:3 Fullframe.You might almost think you were watching a Pirate / Bootleg copy it is SO BAD! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> themeatnpotatoesofitall </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-09-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> a must have.. if you have enjoyed Laser-Blast and EQuinox..this one fits right in there..good retro-powered flic..Quercky and fun..the Stop-motion has a acouple cool scenes..a few live action shots are pretty interesting..I Like it Beacause it's Retro-Powered..Latittude-Zero will give you afew chuckles also..with Cesar Romero (Joker from 60's Batman tv series show) also playing a Bad Guy in that flic..and i think the Guy that played in the Green Slime is also in it..enjoy.. and remember life is only worth living..in if it is an endless eternity of Saturday morning cartoons (and live action tv shows) I smell the..Popcorn?? Retro-Power Rules..another great flic is infra! Infra!!"Infra-Man!!" and whats the hold up (Asian Masters) with my Godzilla vs Gamera movie??What gives??? wer're running out of time..will they still be able to stop beaten the crap out of each other..long enough to team up and save the earth?? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> the day time ended </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-17-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> thisis just a four star  but its about some actors in the past and the style of making it was different than most  its worth the money, unless your a special effects after year 2000 person </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's a time space warp! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-08-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The introduction of this movie is a picture of space with a voiceover talking about linear time and how the narrator now knew that time was not linear, or something like that.  The film then focuses on a family moving to the desert in southern California.  You know we are in trouble when the youngest member of the family, a little girl (Natasha Ryan, who had numerous roles as a child), sees a glowing pyramid thingy back behind the barn.All sorts of interesting things happen after the little girl discovers the glowing pyramid thingy.  The little girl's pony disappears, and then it reappears.  A little stop-motion alien-looking person appears in the little girl's room and does some things that verge on being magical.  Then some sort of spacecraft appears that the little girl says is evil.  The flying craft did try to burn a hole in the girl's closet door, which seems fairly evil.The family appears to be at the center of some sort of phenomena associated with the explosion of three stars several hundred years in the past.  The patriarch of the family, Grant Williams, played by the late Jim Davis in one of his final acting roles, eventually tells us that we are in a time space warp, which is evidenced by the appearance of stuff from the future and the past, including a couple of rather large, vaguely reptilian creatures.The movie is laden with special effects from beginning to end, which run the gamut from what appear to be spaceships, to creatures, and even a futuristic city.  I normally dislike movies that rely too heavily on special effects, because the special effects often serve as a crutch for an awful plot and for awful acting.  In the case of this movie, the special effects are the focus of the film, and the family has the unfortunate luck to be in the wrong place at the wrong time.  The point of the movie is how the family reacts to being at the center of celestial events that transcend space and time.This independent science fiction movie includes the great Dorothy Malone (who has won multiple awards, including an Oscar for best supporting actress for "Written on the Wind") and Christopher Mitchum.  Marcy Lafferty, who was once married to William Shatner and appeared in "Star Trek: The Motion Picture," was nominated for a Saturn Award for best supporting actress in this movie, losing out to Veronica Cartwright in "Alien."Science fiction films were evolving rapidly in the late 1970's and the early 1980's.  Movies such as "Alien," "Star Wars," "Star Trek: The Motion Picture," "Superman," "Close Encounters of the Third Kind," and many others were re-defining science fiction and fantasy.  The films of the era included a mixture of B movies and groundbreaking films as studios sought a formula that would draw audiences.  While this movie falls well short of the great films of the era, the film has some charm to it, and the special effects were quite good given the technological limitations of the era and the budget of the film.I have seen some criticism of the ending, with some people calling the ending strange.  I think the ending was consistent with the tenor of the film.  The point of the movie was surviving the space-time warp, so the ending was merely to indicate that the family had a potential future that did not involve being eaten by a large, reptilian creature.  The ending is consistent with some other films of the era, and many newer films, where the ending contains a level of ambiguity.  However, the ending of the movie was not the point in this case; it was all about the journey.A much bigger problem with this film is the quality of the film itself.  The film has entered the public domain, and sadly, many of these films suffer once they are no longer under copyright.  Anyone can copy the film onto a DVD and sell it, and because the no-name companies that provide these copies come and go, you can never figure out who has the best copy.  My copy was hardly great, though not awful.  My only suggestion is to read the reviews and try to figure out which company seems to be offering the best version.I liked this low-budget film.  The special effects were fun, the actors generally did okay with the material they had.  Yes, there were moments of corniness and strange script lines, which tends to happen in low-budget films, but when you look past the weaknesses, you have a movie fine for a bowl of popcorn and a quiet Saturday evening.Enjoy! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great stop action animation. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-05-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I remember when I first saw this movie. it was during Chrismas break and I didn't have anywhere to go on a snowy night. I turned on the tv and presto, The Day Time ended. It entertained me and got me hooked into watching stop action animation once again. CG is nice, but it isn't the same as SAA. The story is kind of bare, but good enough to show off the creatures and the main actors. They do great stuff with the limited material.this is a fun Saturday afternoon special. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pure Mindless Fun!  Five Stars. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-06-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Kooky science fiction with an abstract, dreamlike approach!  This movie is really entertaining, considering it is almost totally confusing!  The story, such as it is:  A family is having a get-together out at the grandparents' cool solar-powered house isolated way out in the desert.  On the radio is news of a "trinary supernova" (that really happened hundreds of years ago) sending waves of energy across the galaxy.  At some point in mid-barbecue, the family is shocked to see reality fold in upon itself, and they find themselves accosted by storms of lights, flying intelligent vacuum cleaners, giant monsters, and other completely inexplicable things.  At the end, they come to the realization that their entire world has changed, and that there is no way back to their previous life; they now have a new appreciation for how wonderful and awe-inspiring reality really is.I know people tend to criticize this movie, and with good reason, in a sense.  Because it makes no sense; a bunch of effects sequences and no really clear plot or resolution.  Can you imagine being one of the actors in this film...reacting to various and sundry visual effects that were to be added later, gawking, gaping, acting startled or amazed or surprised.  At least in a typical Ray Harryhausen film, the effects were part of a more or less clearly defined story and that would help the actors get their emotional reactions correct.  In this film, the actors have no such anchor, as they react to "yet another weird thing" happening, and another, and so on.  Just watch 'em...they are doing a tough job.After a number of weird encounters with giant monsters, flying vacuum cleaners, and storms of sparkly lights, the grandfather (played by Jim Davis) comes to the conclusion, "You know what this is? It's a time-space warp!" and the grandson says, "Uh...I don't know exactly what that is..."  And, frankly, neither do we, the audience, but we are stuck in this film just as the characters are.After being separated, everyone is brought back together and the mom (played by Marcy Lafferty) explains, "I FELT a series of IMAGES," and they all walk off towards a "city of light" that somehow reminds me of the shimmering Emerald City in "The Wizard of Oz."  The credits roll.  What a strange film!  You can actually fall asleep several times while watching it, and when you wake up, you won't have missed anything important to the plot, because there ain't no plot, to speak of.  Awesome!Well, heck! The first time a person sees this film, it should be immediately understood that nothing that happens is ever really explained, nor is there any ATTEMPT to explain it.  The film just plain isn't interested in pesky details like that!  As soon as the viewer forgets about looking for the story, this very odd film can become very enjoyable.  See it today--pop yourself some popcorn and just see the darn thing.  It's a lot of fun. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> WHERE'S MY PONY? </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> A family decides to build a solar home in the Southern California desert, right in UFO alley during a triple super nova of some distant stars. This causes a visitation by space aliens who transfer their home through time and space at will to the planet of Claymation. The film is transferred poorly to DVD. Just about everything about the film was horrid from the acting to the script to the special effects to the science.The film has gained cult status, why, I do not know. To me it is just a bad Gumby film. It is more suited for children, although they let loose a GD early in the feature. There are better cult films out there with better characters. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great special effects </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-18-2001  
+<h2> REVIEW TEXT </h2>
+
+ <p> The guy who played J.R. 's daddy on Dallas stars in this movie. Space aliens and strange creatures pester a familiy on a secluded ranch. Really nice special effects. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Film is GREAT, DVD transfer SUXs! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-21-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've always loved this movie and have it on a DVD by Brentwood but i wanted a better copy so i bought this- the print looks about the same (and like my brentwood DVD not in widescreen)and the soundtrack seems to be in stereo but the DVD transfer BLOWS! it has odd vert lines on any movement VERY ANNOYING! wait for a better DVD ver or get a vhs copy.  This is going back. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

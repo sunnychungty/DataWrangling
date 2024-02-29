@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00CMJZAOI <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-15-2013  
+<h2> review.text </h2>
+
+ <p> This charger offers two 2.1A USB charging ports for mobile devices, powered from the 12V DC outlet in your vehicle (and rated for 10-24 volts). Worked fine will all my devices (tested with an HTC EVO 4G LTE, a Kindle reader and an iPod Nano).The mobile charger market is dense with options; this one works just fine.Note: This item was provided for review purposes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Charges mobile devices while on the road... </p>
+
+
+<h2> review.date </h2>
+  07-26-2013  
+<h2> review.text </h2>
+
+ <p> Great charger.  They made this one previously with a very bright blue led and I got very distracted at night when I drove because it was too bright and the light got in my eyes.  This one is much much better - the led is less intense and not distracting.The charge ports are both 2.1 amp and they both do it justice. I've attempted to charge my phone at 50% for about 30 minutes and it already charged it a good 11% more for me.  I was able to plug my iPad 2 in there as well and it didn't struggle at all either.  I even charged my phone and my ipad and it didn't hinder performance.It's pretty compact and sticks out about a good 2 inches even after I plug it in fully.  It's a nice snug fit and doesn't want to pop out like some others that I've had in the past.  Doesn't give me a hard time when I'm trying to pull it out either.  Overall, very good - I received this item for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Charger - All 2.1 amp ports </p>
+
+
+<h2> review.date </h2>
+  10-11-2013  
+<h2> review.text </h2>
+
+ <p> I've tried a lot of cheap iphone chargers and this one works very well. I don't have an ipad but this charger does charge 2 iphone 5's very well at the same time. It's a short stubby charger that fits into my 2009 CRV very well. I did have an iphone cable that went bad and it seemed like the charger was to blame but after testing the cable in multiple cars I found that it was the cables fault. Next time I won't be so quick to blame this charger. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Good! </p>
+
+
+<h2> review.date </h2>
+  09-18-2013  
+<h2> review.text </h2>
+
+ <p> Gives me a fast charge on both ports and my nexus 7 tells me that I'm getting a full amp (max for the nexus 7) even when both ports are in use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it! </p>
+
+
+<h2> review.date </h2>
+  05-10-2013  
+<h2> review.text </h2>
+
+ <p> More power means faster charging.  Since it is dual USB ports, each port on the charger has a maximum power of 10W or 2.1A totaling 20W and 4.2A.  With families now that have all kinds of gadgets from smartphones, tablets, handheld video games and so on,  we need all the fastest charging power we can get.  This is great to have on long road trips since we own two iPads and each iPad requires a minimum 2.1A to charge.  It won't be used just for the iPads - got two iPhones?  How about an iPhone, digital camera or a GPS unit?  Many PS units now offer USB cables as power options. Best part is that it charges them fast too.The charger is constructed very well, it is small in size and fits snugly into my 12V socket.  I am really shocked how inexpensive it is being offered since I have seen chargers offering this kind of power charged for double the amount.I was given a sample to test and evaluate in exchange for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So much power in something so small </p>
+
+
+<h2> review.date </h2>
+  05-21-2013  
+<h2> review.text </h2>
+
+ <p> I've been using this Bolse USB charger for the past week in my car, to charge up my iPhone and iPad mini. I use my iPhone's maps program as a GPS while I'm driving, so it can drain the battery pretty quickly. A few hours of driving with the directions program on can easily cause my phone to go through a half of its charge.  So when using the GPS application, I plug my phone into this Bolse USB car charger, and my phone is able to remain changed while still running the directions program. That way when I get where I'm headed to, I can still use my phone for the rest of the day. The battery hasn't been drained all along the way.I also use the second USB port in the charger to power up my iPad mini. So I am able to charge both my iPhone (while using my iPhone) and charge my iPad at the same time. This charger is powerful enough to charge both devices at the same time. This also works will all my other USB charging cables for my devices. My daughter Kindle Fire, my husbands old Casio (non-smartphone) cell phone, and my son's Sony PSP. Any two of these can be charged at the same time with this charger. I've found keep one of these Bolse USB chargers in the car is a lot simpler than trying to track down all the car chargers for the other devices. And several of those devices I don't even have car charger for. So having one of these USB chargers saves on needing to buy a dozen other types of car charging cables for the other electronics. Very handy!A sample unit was provided for reviewing purposes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simpler option than buying separate car chargers for all your devices </p>
+
+
+<h2> review.date </h2>
+  09-30-2013  
+<h2> review.text </h2>
+
+ <p> Been traveling across Europe by myself with a GPS kept charged by this dual USB port car charger.  I exchanged out my iPhone 4S and iPad 1 on the other port keeping both fully charged up, each taking about an hour from 25% to 100%.  I've bought two other Bolse products and am impressed with the quality and reliability.  Their product designs are easy on the eye. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Technology making European travel safe and easy </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> I&#8217;ve had a USB charger in my car for a long time. The first one was about the size of the Bolse Car Turbo Charger, but had only one port. The last one fit flush into the power port, and had two USB ports. But it jiggled in the power port and the USB cables could come out on you.And at best those two kept my phone from going dead. My devices only charged if they were idle.Bolse has a great product that fixes all the problems I had with my previous car USB chargers.  Two ports, snug fit, and it actually charges my phone!Other Bolse products I own have an annoyingly bright blue LED. I was worried that this one would have the same. No such thing! It has a mellow red LED that not only shows that there is power, but actually illuminates the USB ports as well. No more blindly trying to plug in a cable in a dark car!Note: This unit was provided to me free of charge in exchange for an honest review of the product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Charge on the go. </p>
+
+
+<h2> review.date </h2>
+  07-15-2013  
+<h2> review.text </h2>
+
+ <p> With a little coaxing, I managed to get this into our Subaru Outback's cigarette lighter - I'm glad it fit because the dual USB ports are an invaluable addition to our car. Bolse sent me this car charger to try out, this review is my honest opinion.Until car makers start building USB ports in to the dashboard (or until I convince my wife to let me dremel ours), car chargers like this are the way to go! This bolse charger offers 2x2.1A current to two USB ports. Both my wife and I can charge our phones on road trips or have one phone and the GPS (almost obsolete) going at the same time. Either way, having two ports is invaluable if there are multiple people in your car.The charging speed is simply fantastic - as I have said in other reviews I don't want to give charging times from devices that don't have new or even like-new batteries, but subjectively speaking I have noticed and increase in charging speed.As I mentioned, this barely fit in our Subaru Outback (2003), but only because the lighter port is at a very weird angle. Now that it's in, I don't think it's coming out, but no complaints there! The LED could be a little less bright, especially for night-time driving, but a tiny drop of black nail polish or a square of electrical tape will fix that.Overall, Bolse's quality and performance makes this an easy accessory to recommend, especially at this price! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Speed and quality! </p>
+
+
+<h2> review.date </h2>
+  07-26-2013  
+<h2> review.text </h2>
+
+ <p> I love that this Bolse car charger has two USB ports, both with 2.1 amp output.  I own several car chargers, and too often, they have 2 amp and 1 amp ports, making it necessary to me to figure out which is which when I want to plug in my power-hungry iPad.  This model will allow you to charge two tablets at once.  Or two of just about anything that can be charged via USB.  What I really like about this -- and what distinguishes it from competitors -- is the low-profile head.  Most dual-2 amp chargers stick out of the outlet twice as far, and that can get in the way.  The ball-contacts slide easily into the power port, and the device remains fully in place.  The case is a hard, glossy, white plastic with a ridge between the two ports.This charger does not come with any cables, so make sure you have extras stored in the car or remember to take them on the road. (Note:  I received a sample for review.)-- Debbie Lee Wesselmann </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compact, Low-Profle Charger </p>
+
+
+<h2> review.date </h2>
+  05-13-2013  
+<h2> review.text </h2>
+
+ <p> Bolse is definitely stepping up to the plate as they listen to what buyers need and want.  There are households with two cars who may only need a simple car charger, but then there are people who carpool that need a car charge with the capacity to charge up to two tablets simultaneously.  If you are going solo, you can charge up both a smartphone, iPhone, or iPad when you are on-the-go.  This is a spring-loaded, high gloss white charger that fits snugley in my 12V DC lighter socket.  It's only three inches long with a compact size that doesn't interfere with anything.Simultaneous charging is a real plus with the Bolse.  You simply use your own USB devices cables.  The charger is very solid and very stable.  A red LED light on the interface indicates that a charge is in progress. The strategically designed circuit will prevent over-heating, over-charging and excessive current.  Each port on the interface is clearly marked (2.1AMP) as are the input and output specifications on the side.  This is a nice high-performance, dual port charger that is perfect for charging more than one device.SPECS:~  Input:  DC 12-24V~  Output:  DC 5V 2.1A Max~  Material:  PC~  Color:  White~  Dimensions:  1 x 1.25 x 3 inches~  Weight:  1 ounce </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a nice high-performance, dual port charger that is perfect for charging more than one device ... </p>
+
+
+<h2> review.date </h2>
+  06-17-2014  
+<h2> review.text </h2>
+
+ <p> I have been a true believer in Bolse chargers for quite some time - I use two dual outlet High Output 20W wall plug-in units daily - love them - this product provides the same unit features but in your car --- highly recommend this device .. you can charge two full size iPad Air tablets at the same time and quite quickly at that ... will rapidly charge most any USB chargeable device. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great car charger ! </p>
+
+
+<h2> review.date </h2>
+  12-09-2013  
+<h2> review.text </h2>
+
+ <p> Works great! I'm not sure why 1 port is rated for android, and the other for apple. Both ports seem to give out the full 2.1 Amps, so there should be no difference between the two. This charger is the cheapest quality charger I could find that had 2 2.1Amp ports. The amperage does matter since tablets draw more than phones. Other chargers either had 2 amp + 1 amp ports or just 2 1 amp ports - definitely not enough to charge a tablet.There is red light that comes on to let you know the charger is working. Definitely good for piece of mind. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great high amperage 2 port car charger </p>
+
+
+<h2> review.date </h2>
+  09-26-2013  
+<h2> review.text </h2>
+
+ <p> There are a lot of car chargers out there, but what makes this one worth buying?1) There are 2 USB ports2) Of the two ports, one is 2.1amps, one is 1amp. That means you can charge BOTH an iPad/tablet AND a phone at the same time3) Mat white finish is applied where cables are unplugged a lot to keep from scratching. (yes this is just a cosmetic feature, but it makes everyone feel better when there electronics don't get scratched!)4) Replaceable fuseThis car charger simply does what it states. It will charge any device through USB while your 12V plug on your car is on. It provides users with the ability to use GPS pas in their car without completely draining there battery when they get to their destinationWhat would make this product better?The only thing I would change is that I would like a switch on the side of each USB port that allowed you to change the power output. The reason is that it would be nice to be able to charge 2 iPads/tablets at once or 2 phones at once. YES you can charge your phone with a 2.1 amp output, but I'm not sure that it's too good for your battery.Would you buy it for a friend/recommend it?WITHOUT A DOUBT!! At the price point, one cannot go wrong buying this product. RAVPower makes great products and you should not hesitate to order. Take a look at some of the reviews here; people that have issues got a complimentary replacement. That's the sign of a true customer oriented company. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great car charger! </p>
+
+
+<h2> review.date </h2>
+  08-31-2013  
+<h2> review.text </h2>
+
+ <p> I have tried probably half a dozen different car chargers, all one or both of the following 2 flaws:1) they keep to a conservative 500mA which doesn't keep up with the display and GPS on my phone.2) they create a ton of interference in the 100MHz range which makes FM radio reception crappy.This is the first car charger I have run across with neither of those issues.  It charges both devices at the maximum 2.1A allowed by current USB specs, and seems pretty well constructed as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid affordable car charger </p>
+
+
+<h2> review.date </h2>
+  09-26-2013  
+<h2> review.text </h2>
+
+ <p> My wife and I both have iPhones and we both have a hard time remembering to charge them at home. What this means is that we typically throw them on a car charger on our drive to work. My car has a lighter port in the center console, which is great because I can charge things out of sight in my car, but when we both need a charge, we lose the benefit of this hidden charger because we have to plug the other phone into the dashboard.Now we just plug this into the lighter port in the center console and charge both of our phones at once.Easy as that, problem solved! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Problem solved! Great product! </p>
+
+
+<h2> review.date </h2>
+  02-25-2014  
+<h2> review.text </h2>
+
+ <p> The charger not working from time to time and it seems sporadic. Put in another charger and it works. I suspect the charger has poor contact with the car charger. Tried both USB for Android and Apple devices swapping back and forth, still no luck. Do not know what to do with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Labels for Android/Apple are missing. </p>
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> I've tried multiple car chargers in the past and this one seems to be of higher quality construction.  It's been in my car for about a week now being used daily on my commutes to work.  It has a red indicator light to let you know it's functioning and it fits snugly in the socket.  Other brands had a tendency to slip out once in a while but this one seems like it will stay put. So far it has performed flawlessly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bolse is Boss </p>
+
+
+<h2> review.date </h2>
+  07-24-2013  
+<h2> review.text </h2>
+
+ <p> Quickly Replaces a phone charger or any single port car charger!  Charges pretty quickly for phones and tablet's, love that I can charge two phones at once when traveling with a friend or bf or my phone and kindle when daughter is playing on it.  Very handy, must have device for every car, especially considering the price!  Highly recommended!As a reviewer, I must also add that the seller gifted me this item. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Dual Port Car Charger! </p>
+
+
+<h2> review.date </h2>
+  08-03-2013  
+<h2> review.text </h2>
+
+ <p> This car charger is powerful enough to charge two tablets at the same time.  It has two USB ports and each one can output 2.1 Amps at the same time.  I like that the ports output the same current levels as when you are plugging something into the charger you don't have to worry if you are using the right port for your device.  This charger can output 4.2 amps total and that is ideal for use in your car, SUV, truck or mobile home to keep your smart devices fully charged.  At 2.1 amps per port your devices can charge quickly and safely.The unit will not charge two iPads at the same time as only one port can be detected by an iPad.  This is because the iPad requires special circuit impedance that is present in only one of the two ports.  The second port can be used to charge an iPhone or an Android device.The unit is nicely designed and it fits snugly into my car's charger port.  There is a LED on the unit that indicates that the unit is powered.  I like that this is a high powered charger and that it has protection built in for over-heating, over-charging and over-current.  This protects your vehicle, your devices and the charger.This is a nice quality product and it works well.  I rated it as a 5 star product.I was supplied a sample for test and evaluation and I promised a fair and honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A nicely designed and powerful dual USB port car charger! </p>
+
+
+<h2> review.date </h2>
+  09-28-2013  
+<h2> review.text </h2>
+
+ <p> This Bolse Charger would be a fine choice for use in your car if you need to keep both your iPhone and iPad charged simultaneously as I used it.  The unit I received was labeled a bit differently than the one online.  Neither port is labeled "iPad" - both say "2.1A" and are marked identically.  This is a shame because I could not get my iPad to charge on the second port.  Perhaps it is for Android instead (as the images online show), but the unit I got makes no difference.  Either way, I normally only have to charge 1 iPad, but I was hoping to get a unit that could charge two iPads at a time (it is advertised as 4.2A), and this is not that unit.As for normal usage, the Bolse charger works great when hooked to both my iPad in the top port and my iPhone in the bottom port.  It has a great little red LED that lets me know it is on, a welcome addition from my last charger which had no LED.  Thanks to the LED, I can quickly tell which port in my car is powered even when the car is turned off, and make sure I'm not accidentally draining my battery when I am parked.I'm rating it 3 stars because it is a little bulky for an in-car charger compared to many others on the market today (Anker and Pawtec for example).  The extra size would be fine if I could really use it for 4.2A (smaller units are only 3.1A), but since the second port can't charge my iPad, I'm really only using it for 3.1A anyways.Note: I received a free sample of this from the manufacturer with no promise of a positive review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid charger for car use but only 1 port can charge an iPad - also a little big </p>
+
+
+<h2> review.date </h2>
+  08-18-2013  
+<h2> review.text </h2>
+
+ <p> Was able to keep Samsung Galaxy S4 fully charged while using navigation on cross country road trip.  Charging did not cause phone to overheat, charged the phone quickly.  Great product.  Did not try the Apple USB port so can't review that portion of the product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product. </p>
+
+
+<h2> review.date </h2>
+  10-07-2013  
+<h2> review.text </h2>
+
+ <p> I recieved this Bolse USB Car Charger free from the vendor, in exchange for writing an honest review.Our family of six has lots of electronics, and someone always needs to charge theirs when we're in the car.  Sometimes several people discover at the same time that their phone/ipod/ipad wasn't charged before we left home.  Usually we don't have enough ports for everyone, and then we have the argument about who gets to go first.This charger is great for allowing two items to be charged at the same time.  It fits in the cigarette lighter of my MomVan, and only sticks out about an inch.  It fits tightly in the socket, and charged our electronics as fast as any other charger we've used.My only complaint about this type of product (not this product specifically) is that the user has to have the cord with them.  That's one more thing to remember to bring when rushing out the door.This is a good price for a well made item! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Two ports, low profile and good price </p>
+
+
+<h2> review.date </h2>
+  05-20-2013  
+<h2> review.text </h2>
+
+ <p> With two 2.1 amp charge outlets my son's family can charge both their IPads at the same time.  It also charges most devices that don't require as much power.  It fits snugly in our vehicle's lighter socket & works great for me. I don't have any complaints.Because of this charger's compact design (total length is 3") I have more room to plug in my USB cables.Amazon's Product Description is very thorough so I won't repeat it.One Year WarrantyI was provided a sample for an unbiased, honest review and will update my review if my opinion changes.Powerful dual USB port car charger....5 stars! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent car charger....charges 2 IPads at the same time! Over-heat, Over-current & Over-charge protection built in! </p>
+
+
+<h2> review.date </h2>
+  12-08-2013  
+<h2> review.text </h2>
+
+ <p> This is the best 4.2 A car charger that you can buy. I've used it with a Nexus 4 and Nexus 5 and charges amazingly fast. Buy it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best car charger at an amazing price. </p>
+
+
+<h2> review.date </h2>
+  10-13-2013  
+<h2> review.text </h2>
+
+ <p> The Bolse dual port USB car charger has a white glossy finish. It is easy to insert and remove but stays firmly in place.It has two ports with 2.1A each for Apple and other higher-powered devices as well other small electronics. The ports are far enough apart to accommodate two standard USB plugs easily and they have a blue LED indicator to show they are active.This adapter does indeed do a fast job recharging and doesn't overheat. As with most car chargers, you can use a device while simultaneously charging it without any problem.This is a handy little charger that will support two iPads or other Apple devices at full charging capacity, which is unusual, especially in this price range.A sample was provided for testing and unbiased review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bolse USB Turbo car charger&#8212;optimized for larger devices including Apple </p>
+
+
+<h2> review.date </h2>
+  05-11-2013  
+<h2> review.text </h2>
+
+ <p> Bolse 3-Port USB 5.4A/27W High Output USB Port Car Charger is something everyone who travels with electronic devices needs.  There are many car adapted chargers available, but this one is more powerful than most.  It will charge two iPads at once!With the three (3) USB ports available, you get a combined charge of 5.4 Amps (5V).  Most car chargers don't offer this amount of charging power.  The ports are labeled 2.4A, 1.5A and 1.5A, with all being recommended for charging iPods, iPads, tablets, GPS, etc.The unit itself is compact, well-built and light. When plugged in, it illuminates a mild light to show you it is working when you are driving in low light circumstances. Plus, the parallel chargers are sturdy and wide enough (on internal springs) that your charger won't come loose from the car adapter. That had been a problem for me with other car chargers.  This is now the charger I use in my own vehicle after trying others.  The sophisticated circuit design will prevent over-heating or over-charging your device.  Product generously supplied from manufacturer for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Charge Just About Anything - Quickly! </p>
+
+
+<h2> review.date </h2>
+  05-11-2013  
+<h2> review.text </h2>
+
+ <p> In this day and age of small electronic devices, every car should have a USB outlet.  If your car doesn't have one, you can use a USB car charger like the one made by Bolse.  It fits in the power outlet and provides two USB 2.1 amp ports for a fast charge.  I was able to charge two power banks at once as I was driving back and forth to appointments.  It's so handy.The charger itself is small and sleek.  It comes with a little LED light to let me know there is power.  The plastic is high grade, not thin and brittle.  It looks like a classy little thing.I like that it makes a good connection.  Some products don't fit in the power outlet of my Honda Odyssey well.  They lose power every time I run over a bump in the road and I have to wiggle them to make them turn back on.  Not this car charger.  It's a firm fit.There is overcharge protection, which I think is so important.  I don't always remember to unplug my devices when they are fully charged.I really can't think of anything negative to say.  It's a fine product.This product was provided for review by LowerPriceUSA. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Small and sleek </p>
+
+
+<h2> review.date </h2>
+  05-17-2013  
+<h2> review.text </h2>
+
+ <p> I got a similar USB car charger that sports 2 USB slots, it has one speedy 2.1A slot and a regular 1A slot. Now they keep getting better and better.  This car charger can support two tablets at the same time with 2.1A slots for a total of 4.2A.  Sturdy construction and sleek design.  This powers up my GPS and iPhone at the same time.I was provided a sample of this product, so I could use it and write my unbiased review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Powerhouse </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

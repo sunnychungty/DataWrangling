@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B005DPEHNI <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-30-2012  
+<h2> review.text </h2>
+
+ <p> While I tend to prefer Dell LCD monitors for their price/performance ratio.  The Apple LED Cinema Display is a pretty monitor, made all the more convenient with it's connections for a Macbook or Mac Pro.  But, the Apple Monitor stand, while a pretty solid piece of aluminum, it isn't very functional.So, I've long loved my Ergotron LX LCD mounts.  They are a snap to use with my Dells.  Of course, Apple makes you buy this VESA mount adapter in order to use a third party mount.So, does it work?  Yes.  There are several videos with helpful hints for installation.  Is it an elegant solution?  No, Apple should have a VESA mount "ability" built-in, out of the box with their expensive monitors.But, it works.  And, is the only VESA mounting option for your Apple products.  It's just a bummer you have to buy this extra piece when rivals (at 1/2 or 1/4 the price) have VESA mounting ability, out of the box. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only game in town if you want to use a VESA mount with your Apple Monitor </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> This is amazing, it just fits my cinema display 27 thunderbolt as advertised, on time and 5 stars, this makes my life 100% more easier to move my display to the desired place. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It fits perfectly with my Apple Cinema Display 27 Thunderbolt and ergotron arm. </p>
+
+
+<h2> review.date </h2>
+  06-17-2013  
+<h2> review.text </h2>
+
+ <p> The Apple VESA adapter is typical of Apple stuff... finely milled of aluminum, and probably somewhat over-engineered.  The instructions are a little cryptic, but I quickly found a YouTube video that described how to release the stock stand hinge and mount the VESA mount -- a process that involves no fewer than 8 tiny screws.  Once in place, the mount worked fine with my Ergotron Workfit workstation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine once installed </p>
+
+
+<h2> review.date </h2>
+  12-13-2011  
+<h2> review.text </h2>
+
+ <p> I would have given it 5 stars had I not had so much trouble getting it on.Works as described and holds tight.Advice: The instructions say to tilt your iMac forward on the stand for removal, but I found it easier when I tilted it back, inserted the card, and then tilted it forward.Also, you really have to have the top screw on tight to get the side screws to line up. A little tricky at first, but it's to ensure that it stays on!The directions could have been a little clearer, but it does the job! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great, but not as easy to install </p>
+
+
+<h2> review.date </h2>
+  08-30-2013  
+<h2> review.text </h2>
+
+ <p> Easy To install , and screw drives are include . It is only one solution for Apple monitors . Cheap and easy . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy To install </p>
+
+
+<h2> review.date </h2>
+  03-10-2013  
+<h2> review.text </h2>
+
+ <p> OK, so I had to laugh that only Apple can get away with making monitors that don't have the standard VESA mounting holes that every other monitor has, and then selling you Apple-branded adaptors in order to solve the problem. But when you pay $1,000 for new Apple Thunderbolt monitors (as I did) you pretty much want to buy good mounts for them. These kits are very complete, including a special card that allows you to remove the stands that the monitors come with, and all other tools required. Very nice engineering (with a typical Apple price tag to go along with it). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Engineered as only Apple can. </p>
+
+
+<h2> review.date </h2>
+  11-07-2011  
+<h2> review.text </h2>
+
+ <p> Does just as it says, allows you to modify your iMac to install an adjustable desk/arm mount.  Easy to install, step by step instructions included - Apple product so there is no question that it works with the iMac. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent adapter </p>
+
+
+<h2> review.date </h2>
+  02-07-2013  
+<h2> review.text </h2>
+
+ <p> When we use Apple products, we get beautiful, well thought out design.  Then, some of us, want to use the product in just a little different way and things get tough.  This VESA mount is a perfect example.  I have a 27&#34; iMac and wanted to mount it up off the desk.  While the kit is well built, the little torx screws are a pain and the first kit I got one of the screws (a critical one sadly) stripped out on me when the torx driver slipped.After I got the replacement, the adapter mounted just fine and it seems extremely well built.  Check out YouTube for some helpful videos (I didn't make one, but found several that were helpful).  (Tip:  I'm extremely pleased with the service from the seller, J&R; Music World!)From an aesthetic and functional stand point, this is a 5-star product.  However, the design, how it works and how it is installed, leaves me thinking that in the future, I'll get a Mac Mini or laptop and a non-Apple monitor.  It's just too fussy to get installed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful and functional... but a bit of a pain to install </p>
+
+
+<h2> review.date </h2>
+  09-11-2012  
+<h2> review.text </h2>
+
+ <p> The stand that comes with the iMac is great so the decision to buy this VESA mount adapter wasn't easy for me.  I'm glad I did it though as it changed my workstation experience for the better.My motivation in getting the adapter was to free up desk space and get the middle of the monitor at eye level.  Those two things are good benefits and made the purchase worthwhile for me.The adapter is excellent in workmanship and style, as one would expect from Apple.  I viewed instructional videos online to make sure I was installing it correctly.  There is actually a trick to that.The trick to installing this adapter is to screw in the center screw all the way, which requires more force than anticipated.  The two thick side screws will not thread unless the center screw is in far enough.  Other than that, the instructions were easy to follow and nothing really to think about.I recommend this item, and anyway it's the only one that will work with iMac as far as I'm aware. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Truly great key critical piece of hardware that never let me down </p>
+
+
+<h2> review.date </h2>
+  05-19-2012  
+<h2> review.text </h2>
+
+ <p> The 24" must be some old version.  The current small iMacs are 21.5 and you cannot use this product with them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WARNING: This does not work with current smaller iMacs </p>
+
+
+<h2> review.date </h2>
+  01-31-2013  
+<h2> review.text </h2>
+
+ <p> This device is well machined and is a great product.When used with an iMac, you need to be particularly attentive to removing the stand.  The kit comes with a credit card like device to "unlock" the stand, then lean the stand forward to reveal the screws attaching the stand to the mount on the iMac.  You can lock/unlock the stand all you like, but you have to be very careful to make sure the stand is unlocked and latched in place before you remove the screws.  Otherwise, the holder/screws will disappear back inside the iMac holder and it is exceptionally hard to "unlock" that component again...you'll need to fish it out with the credit card unlocked, and some sort of metal hook or... to fish it out. IT IS NOT EASY.  It can be done, but it is not easy.IF you have problems, you can fish around trying to release the stand again without worries about damaging internal components - apparently that stand is self enclosed (per tech support) so you're safe to go about hunting for the release mechanism.So best to make sure the stand is locked in place when you go about removing the screws on the stand.Update - 5 March 2013As a follow up, I wanted to add that I was told by tech support that the iMac stand holder (the piece that pivots from inside the iMac cavity on the back where the stand attaches) can be gotten out with some work. I however have had no such luck after a couple weeks and will be taking my much abused iMac to have it professionally extracted.I was able to get it to pivot just to the opening, but the spring on the holder is very strong. I found that a radiator hose pick works well to manipulate that holder btw if you're have/need to give it a try. The second pick from the bottom of the product image worked best to position it behind the holder and leverage it forward.http://www.amazon.com/Mayhew-60008-Dominator-Radiator-4-Piece/dp/B00448Z248/ref=sr_1_10?ie=UTF8&qid;=1362548700&sr;=8-10&keywords;=radiator+hookThe second pick from the bottom worked best.Good luck. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VESA Mount - Easy...kinda so...kinda not </p>
+
+
+<h2> review.date </h2>
+  03-28-2013  
+<h2> review.text </h2>
+
+ <p> The way the stand is attached to iMacs and Cinema Displays is pretty ingenious, but makes it impossible to attach a standard VESA monitor mount.  This thing does exactly what it says it does.  Attaching it can be a little frightening, you have to really crank down on one screw to get the side holes to line up.  Don't give up, even if it feels like you're about to break it.  Also don't blame me if you break it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does exactly what it advertises </p>
+
+
+<h2> review.date </h2>
+  07-27-2013  
+<h2> review.text </h2>
+
+ <p> I purchased an arm to hold up my iMac.  When I received it I discovered I required an adapter plate to attach the arm to the computer.  Final result is they don't make an adaptor plate (supra) that works with the arm.  I returned both and was charged a $25.00 restocking fee by the makers of the arm.  A telephone conversation with the makers of the arm revealed they knew no one makes an adapter kit for the iMac to fit their arm. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK </p>
+
+
+<h2> review.date </h2>
+  04-12-2014  
+<h2> review.text </h2>
+
+ <p> This part is exactly what you need in order to convert your iMac or Cinema Display into a Vesa Mount. The problem is... you shouldn't have to dish our $40 for it!  Apple should build their products with VESA mounts already in them, so you just remove the stand and you're good to go!This thing takes a lot of work to get on and off, but if you need to VESA mount your device, it'll get the job done. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works Perfectly - But Shouldn't Have To </p>
+
+
+<h2> review.date </h2>
+  04-22-2012  
+<h2> review.text </h2>
+
+ <p> Works Great on my IMAC 27".  The issue is finding a strong enough wall mount to connect it to.  While the Computer weights 31.5 lbs., Mounts on the market are not strong enough to use it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VESA Mount is Easy to use.  Robust </p>
+
+
+<h2> review.date </h2>
+  04-08-2013  
+<h2> review.text </h2>
+
+ <p> Quite possibly the worst designed product that I have ever purchased from Apple. Quality control is either lacking in production or Jonny-Ive had a few too many beers at lunch on the day this was designed.The Adapter plate must be screwed down so tightly by a center screw prior to attaching the two beefy side screws that really hold the plate to the monitor, that you are guaranteed to strip the head with the cheesy torx wrench that is supplied. After sending back my first one after I stripped out the center torx screw when attempting to mount onto my late 2010 27-inch iMac, and reading comments on the Apple store, I found the easy solution to this problem: remove the two grey plastic strips that run along the edge of the adapter plate that sits against the iMac. This provides the extra millimeter or so that you need to get the center screw down tight enough to get the side bolts in.Also pay very close attention to the side bolt mounting holes. I first screwed down the center screw to hand tight with a torx driver and then slowly fed one of the side bots in by a few turns. Next, I gently rotated the entire plate to realign the other hole for the other side bolt. Once you have both side bolts mounted by a few turns then you can keep SLOWLY screwing down the center screw and then finish threading the side bolts in. Lastly, once your iMac is mounted to your monitor arm / video mount, you can carefully slide the plastic strips back into place, or simply cut them down to smaller lengths so they can slip on and protect the back of the iMac. Honestly though, the worst that will happen is you will scratch the back of your iMac some, but who stares at the back of their iMac?? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works, but over-engineered and requires tweaking for 27" iMac </p>
+
+
+<h2> review.date </h2>
+  10-30-2012  
+<h2> review.text </h2>
+
+ <p> Fist I have to admit being biased a little with the idea I have to pay just to put four screws in the back of my late 2009 iMac...  With that said this kit couldn't be designed more poorly from an ease of installation perspective!  Also the mount blocks part of the fan inlet.For those two reasons I took two stars.The good:It does actually workThe bad:There are only three screws yet the designer saw fit to turn three screws into two different screw heads, one a torx and the other an allen.  Why two and why not phillips I can't say.  I can say that the engineers decided to make the screws out of aluminum so I ended up ruining one of the allen heads when I tried to tighten the screw.  Being not ferrous also makes it hard to use my nice magnetic phillips driver had they been phillips headed screws.In total it took me about 40 minutes to install.  Not too bad but considering the actual mount took me less time I think it's evident you must be a patient person to install what amounts to three screws.Tips:During install be gentle with the screws.  They are hard to line up to start the threads, don't worry about the threads, it's the allen head you want to be careful of.  If you have a sensitive significant other then you'll want to wait till they aren't home because you will be cursing.Bottom line is, would I buy it again.  As I know of no other solution to mount an iMac on the wall I am forced to answer yes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pain to install </p>
+
+
+<h2> review.date </h2>
+  02-09-2013  
+<h2> review.text </h2>
+
+ <p> check out youtube and you can get alot of helpful tips to install this unit. It only takes a few minutes and is fairly easy. My one tip for installation is to place the monitor on a very large pillow (couch pillow?) Because you have to move the monitor arm in a strange direction to get it off. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked really well </p>
+
+
+<h2> review.date </h2>
+  05-05-2013  
+<h2> review.text </h2>
+
+ <p> Wasn't too sure about this product when mounting my Mac to the wall, but it was very simple - watching the youtube video helped.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved How Simple </p>
+
+
+<h2> review.date </h2>
+  03-06-2013  
+<h2> review.text </h2>
+
+ <p> Used this to install my Apple LED Cinema Display onto my wall.  It was a bit difficult, but I googled it on youtube, and by watching youtube, I was able to do it.  Very sturdy and looks oem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works perfect </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

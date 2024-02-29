@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1583944990 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-10-2013  
+<h2> review.text </h2>
+
+ <p> The book gives a good overall impression on the mushroom and its different aspect. I also like the recipes...very inspiring. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chaga </p>
+
+
+<h2> review.date </h2>
+  05-20-2014  
+<h2> review.text </h2>
+
+ <p> This small, compact book substantiates hard-line scientific evidence that many on the net claim.  Mr. Wolfe weaves a cohesive & holistic picture about humanity's complex mental, emotional & physical relationship with the prized &#34;King of the Mushrooms.&#34;I can personally attest to Chaga's power which heals both internally & externally.A must read for those seeking a balance between real science including anecdotal reporting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Naturally Scientifically Concise! </p>
+
+
+<h2> review.date </h2>
+  10-08-2012  
+<h2> review.text </h2>
+
+ <p> I live in Alaska where Chaga is in abundance.I was looking for a book that gave health information plus usage.David Wolfe has put it all together with this book.With recipes, some photos, and deep explainations about this amazing fungi. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chaga </p>
+
+
+<h2> review.date </h2>
+  05-27-2014  
+<h2> review.text </h2>
+
+ <p> I would recommend this book to everyone I know and already have! We are blessed to live in a place where there are lots of Birch trees, so we go out and harvest it regularly. Since I've been drinking the tea, I've been able to go off my blood pressure medicine. As the months go by, I'm sure we will realize many other health benefits. It tastes so soothing, hot or cold alike. We also intend to make some of the recipes listed in the book, including Extracts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Book: Chaga </p>
+
+
+<h2> review.date </h2>
+  01-04-2013  
+<h2> review.text </h2>
+
+ <p> My husband is a forager and finds Chaga all through the woods by our house. He is happy with this book as it is teaching him Chaga's uses and ways to harvest it most effectively. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CHAGA </p>
+
+
+<h2> review.date </h2>
+  06-18-2013  
+<h2> review.text </h2>
+
+ <p> I started by being excited that David Wolfe wrote a book and dug right in and got some Chaga.  I loved the product and what it did to me so much that I bought the book and began to relate to the Chage mushroom.  I even went out an harvested some while I was reading it.  I find that his products in the store (the various forms of Chaga) are of the highest quality and I had an idea to start up a phone teleconference for people wanting to talk about Chaga.  Do you get my excitement about the book and the product?  It's amazing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This book is the best!! Information and excitement abounds. </p>
+
+
+<h2> review.date </h2>
+  11-02-2012  
+<h2> review.text </h2>
+
+ <p> Leave it to David Wolfe to leave no stone unturned and no tree unclimbed in his search for chaga, and information about it. I love him, and his insatiable quest for knowledge and chaga. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Everything you ever wanted to know about chaga </p>
+
+
+<h2> review.date </h2>
+  10-28-2012  
+<h2> review.text </h2>
+
+ <p> David Wolfe's book Chaga, King of the Medicinal Mushrooms is so comprehensive, and yet easy to read and understand.  The paperback itself is 5" by 8" with thick semi-glossy pages, lots of wonderful, clear pictures, and bound really well.  The reason I'm saying this, is because this is a book that I'm going be referring to for both the recipes, and the instructions as to harvesting the Chaga mushroom.The pictures of the mushroom show clearly what exactly this medicinal mushroom looks like, because you certainly don't want to harvest, and eat the wrong kind of mushroom.  And of course the pictures of David show a charming, kind, and vital man, which helps to sell his idea of herbal medicine.  His face practically glows with good health, something you can't photoshop in when needed.David first introduces us to Chaga in the wild, showing us how it grows mostly on Birch trees and how it prefers a colder climate. How it was used by Siberian Shamans for healing.  David gives us a list of the remarkable things that Chaga can do for our bodies such as being a 'premier herbal adaptogen(a metabolic regulator that increases an organism's ability to adapt to environmental factors and resist stress), cancer fighter, immune-system modulator, antitumor agent, gastrointestinal(digestive) tonifier, longevity tonic, and a genoprotective(DNA-shielding) agent." page 1David made his case so well, that I went to his website, [...], and ordered some Chaga for myself.  There were different forms of the Chaga, and David explains them all in this book, plus he tells you how to make your own, but that's not going to happen for me, so I too the easy route and pulled out my credit card.Combining the history of Chaga and its ancient uses, along with modern science, David gives you all the information you'll need to make an intelligent decision about your own health.  He also includes other superfoods and herbs, along with the what they do, and scientifically, why they work.  I'm even going to continue with the Horsetail that I was eating to build up my hair(a real motivating factor for me) happy that I've learned that it also is an anti-fungal, and bone-strengthening agent.  I've also read that cancer might start out as a fungus, whether it's true or not, it certainly can't hurt.With so many pharmaceuticals being prescribed now days, it's good to find herbs that can help with some of the same problems, but without the long-never-ending list of side effect that take up half the commercial time for these drugs.David Wolfe's book is an excellent guide to anyone's search for better health through nature. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent information </p>
+
+
+<h2> review.date </h2>
+  09-10-2013  
+<h2> review.text </h2>
+
+ <p> I Have Not Been Able To Completely Immures Myself In This Book Yet; But I Read Enough To Contemplate Adding Some Chaga To My Collection Of Medicinal Mushrooms. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So Far I Love This Book. </p>
+
+
+<h2> review.date </h2>
+  09-30-2012  
+<h2> review.text </h2>
+
+ <p> I hoped this book would contain enough research data to decide whether to start using chaga. It does. That said, it is not exhaustive but I don't blame the author. Superfood research is in its infancy and David is doing for Chaga what he has done with other superfoods like Cacao - supplying enough information and enthusiasm to make the superfood more available so more research can be done. A year ago I couldn't find Chaga on ebay. Now it's there for about $10/lb including shipping - cheap for a superfood. Bravo to all involved. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Good Start </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

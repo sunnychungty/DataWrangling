@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00486UQZQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-14-2011  
+<h2> review.text </h2>
+
+ <p> I got the 32gb version of this today plugged it in and nothing. I left it plugged in a while as i didnt have time to play with it.  When i got around to investigate further its was so hot i couldnt hold it.  It quiet difficult to plug in as well it tried a few a machines and nothing it was doa. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worthless </p>
+
+
+<h2> review.date </h2>
+  04-14-2013  
+<h2> review.text </h2>
+
+ <p> Fast rates very rugged, I have it on my keychain and its fine for the job. The silver does scratch but hat doesn't bother me </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  04-02-2013  
+<h2> review.text </h2>
+
+ <p> This little flash drive is a great purchase. Not much to say about it besides good shape, love the portability and 32 gb is plenty of space. Also as a side note, it is made of metal which is nice. I put it on a dog chain and carry it where ever I go. No issues yet, worth the money.PS. Delivery was prompt. 2 days. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome little flash drive </p>
+
+
+<h2> review.date </h2>
+  10-20-2011  
+<h2> review.text </h2>
+
+ <p> I bought two of these, and have ordered my third. They are physically robust, fast transfer, and HUGE storage. Yes, I have a Cloud drive and it has many advantages. However, there are times that keeping data WITH you is important, convenient, or just plain reassuring. This is my new favorite USB drive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A portable warehouse of data. </p>
+
+
+<h2> review.date </h2>
+  05-23-2013  
+<h2> review.text </h2>
+
+ <p> Total crap material, the paint scratches off the first time you put it on your keychain. Save up and get a real Lacie thumbdrive, real metal </p>
+
+
+<h2> review.summary </h2>
+
+ <p> it's no Lacie </p>
+
+
+<h2> review.date </h2>
+  09-24-2012  
+<h2> review.text </h2>
+
+ <p> The seems to be an excellent product at a decent price. The capacity is pretty large for a USB 2.0 drive: 32GB takes a while at between 9Mb/sec - 35Mb/sec, which are the speeds I get from this drive. I don't think I'd buy a larger drive on USB 2.0. However, the reason I bought this drive was for its shape and durability; I destroy lesser flash drives by taking them to work on my keychain. This drive seems very sturdy, and slips right in among my keys unnoticed. I am very pleased with it in terms of physical footprint, but wish it were a little faster with its read/write speeds. I've owned this drive for about a year now, and even though the paint is faded here and there, it is still going rock solid after being attached to my keychain that has shredded all other previous flash drives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very small outside, very big inside ... excellent drive for keychain </p>
+
+
+<h2> review.date </h2>
+  04-06-2014  
+<h2> review.text </h2>
+
+ <p> I have purchased from this manufacture before un-fortunately I lost those great small jump drives ON THE OTHER HAND this will fit easyily onto my keyring for a positive attachment (unless I loose my car keys). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT ITEM </p>
+
+
+<h2> review.date </h2>
+  11-07-2013  
+<h2> review.text </h2>
+
+ <p> I was looking for something a little smaller and easy to attach to my key ring.  This has a nice solid feel.  It plugs snuggly into the USB port.  I have not had one problem with it.  It is a little wide at the key end and you can't have another device in a USB port next to it.  Even with the space issue I haven't had to many problems with not finding a port that will support it.  The size is great and I expect to get a long life out of this item. I gave it 5 stars, but with the size issue it would probably be more of a 4.7 or so..... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great and solid feel </p>
+
+
+<h2> review.date </h2>
+  02-20-2013  
+<h2> review.text </h2>
+
+ <p> It is a USB  drive, so the behavior is essentially the same as the others; but the construction makes it a pleasure to use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Construction - won't fall off of your chain or break </p>
+
+
+<h2> review.date </h2>
+  01-02-2013  
+<h2> review.text </h2>
+
+ <p> I love this flash drive! It's small, sturdy, and even looks good on my keyring. The only thing that kept me from giving it a 5 is that it is really hard to take it off the key ring since it is thicker than a key.My fix is adding a second, smaller keyring to the flash drive that is easier to take off of my larger keyring. Problem solved but it doesn't look as good... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great little product! </p>
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> I use this flash drive on my Keychain and don't even think about it.  IT's nice, sturdy and strong and nice to have loaded with important files, pictures, etc... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Keychain Flash drive </p>
+
+
+<h2> review.date </h2>
+  11-28-2013  
+<h2> review.text </h2>
+
+ <p> This flashdrive is extremely durable.  The transfer speeds are good enough, I carry it with me in my pocket.  However, the nickel finish seems to be rubbing off, but then again I don't treat it very nicely. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Durable </p>
+
+
+<h2> review.date </h2>
+  11-13-2012  
+<h2> review.text </h2>
+
+ <p> I was pretty skeptical buying this USB drive but after receiving it and testing it out I am glad I did. This is an upgrade from my 8GB Lacie ImAKey which has been working great but is getting full. The Super Talent USB drive build quality is good. You can see a few spots where they didn't quite coat the whole key with chrome to make it look like it was made from 1 piece of metal. The read and write speeds are pretty good for such a small key. I was able to get up to 9.3 MB/s write and 24 MB/s read for larger files (450MB+) and about 5 MB/s write 20 MB/s read for smaller files (200-900KB). It takes it a bit to wind up to full speed when you start writing large files but never gets a chance to get to full speed with smaller ones. It has a 25 MB partition at the beginning of the drive which is no accessible and 29.9 GB partition for storage. The key comes formatted to FAT32 which works fine. I tried to format it to NTFS but got incorrect read/write speeds due to caching so I went back to FAT32. Overall I am happy with this purchase and would recommend it to others. Hopefully it will last a few years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great price for a small USB drive with good performance! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

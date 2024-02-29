@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000FJX21U <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-08-2011  
+<h2> review.text </h2>
+
+ <p> Ok, so a young woman is on the verge of a meltdown?  Now what?  This German film was neither moving nor emotional for me.  A young teacher heads to another town for a teaching position.  She is homely, lonely, weak, frustrated, messy, and much more.  She attempts to make friends with the neighbor girl, but comes on more pesky.  Soon, the neighbor girl decides she has had enough of the weird behavior.As a young teacher, it becomes clear she has no control over the classroom, as the students learn quickly that they can take over.  One student throws a box of chocolate milk at her.Another male teacher gets closer to her, but his interests are best saved for the school.  She doesn't connect with anyone,  including the school staff who view her as meek.There is no musical soundtrack in this film, few characters, none memorable.  It is slow, and the only interesting aspect is wondering when she will create a change, or make some dramatical impression.  The film is about lonliness, alienation, that can lead to mental breakdown as we see a young woman head further into demise.  We don't see events with great turmoil, just basic issues within the mental state.  ...... Rizzo </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't expect anything too moving nor dramatic....Simple plot, simple film </p>
+
+
+<h2> review.date </h2>
+  01-09-2007  
+<h2> review.text </h2>
+
+ <p> I am not sure it would change them, but I think this movie should be seen by every person who tries to interpose himself or herself into friendships where they are not really wanted.  This is especially true of those who convince themselves that they are such nice people everyone should want them in their life, but deep inside really know that they are not wanted.  Of course, the more they feel unwanted, the needier they become and they become all the more desperate to find a friend.  This movie is about what those more socially adept would probably call a loser.Everybody knows someone like Melanie in this movie.  Maybe this movie is an attempt to show socially accepted people how those who are socially inept feel.  It doesn't say what one could do to help a person such as Melanie; but it does present enough for a good discussion about it.  Does anyone really have the obligation to reach out to such a person, especially knowing that they will tend to try to 'take over' your life with their neediness?At one point Melanie's presumed friend says she doesn't want her ex-boyfriend to come to a party she is hosting.  When, as he sees the party from outside the house, he wonders to Melanie if he should come in.  She says it wouldn't be a good idea.  So, he gives flowers to give to her friend.  When the 'friend' finds out Melanie told him not to come, she explodes and asks Melanie to leave the party.  Does one's wish to be free of an unwanted 'friendship' give them the right to treat an already insecure person like that?This movie is full of situations like that, and makes one really think - Am I like that?  Is my treatment of an insecure person like that making his or her life worse?  There is a lot of feeling in this movie.  If it wasn't subtitled, I'd suggest every junior high kid, especially girls, to watch it because it is during those years that the most people feel like Melanie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Feeling of Social Insecurity </p>
+
+
+<h2> review.date </h2>
+  08-13-2010  
+<h2> review.text </h2>
+
+ <p> The Forest for the Trees  (Der Wald vor lauter Baumen)2003  dir. Maren AdeOne Stellar Performance  5*The Forest for the Trees stands or falls on the performance of Eva Lobau as Melanie, and it is on this basis that I give it a guarded 5*'s.  Although a perfectly respectable first effort (a student project), apart from Lobau I would give the film maybe 3.5-4*'s.  But be forewarned that though rewarding,  this is not an *easy* film to watch.  It is disturbing and cringeworthy, and over and over we want to shout (metaphorically) "No!  don't go down into the dark basement with the weird noises" as Melanie digs herself in deeper and deeper.As the film opens, Melanie is moving into a new apartment, assisted by people we later learn are her parents and freshly-ex-husband Bernd.  She then introduces herself to a couple of neighbors with "house warming" gifts, homemade schnaps.  We immediately see the awkwardness, the inappropriateness, that is the crux of the film, though at first Melanie is so cute and so eager to please that it's hardly noticeable, even endearing.Melanie is also beginning a teaching job, taking over mid-term (or at least mid-year) for another teacher.  She meets the eager Thorsten (Jan Neumann), the only teacher even roughly her own age.  This begins one of the two major threads of the film, Melanie's difficulties fitting in at the school, where she is shunned and gossiped about by the clannish teachers and terrorized by the unruly students.At home, testing a pair of binoculars for a class field trip, she sees a neighbor across a courtyard arguing angrily on the phone, then crying on the couch.  Then one morning she sees the woman and follows her (presumably .. just one of many little continuity glitches) to the boutique she works at, and buys a suit for work.  At another encounter at the apartment complex Melanie introduces herself and asks Tina (Daniela Holtz) over for coffee.  Melanie, in her desperate loneliness, goes from cutely awkward/friendly to a pest to creepily intrusive, always playing on Tina's essential politeness and aversion to confrontation, but also making herself useful, as a confidant in Tina's fights with a boyfriend or helping set up a party at the boutique.Meanwhile, things go from bad to worse at the school, until Melanie reaches a breaking point both with Tina and at work.  Yet throughout, she tries to maintain a facade that everything is going well, not hesitating to make up face-saving stories, often shifting on a dime, that probably don't fool anyone.The role of Melanie is exquisitely written and acted, heartbreaking and painful to watch.  Each nuance, each subtle step on the way to her final dissolution, is precisely portrayed and fully believable, and one just aches for her. We may be repulsed by her deceit and manipulation, but at the same time can understand them.  Without a moment of scenery-chewing, Lobau is simply breathtaking, and she is the reason to see this film.This is not to say there are not problems with the film, but they are mostly of the sort common in small indie productions.  There are little fill-in-the-blank continuity ellipses (as mentioned above, we don't actually see Melanie follow Tina to the boutique, but I think we're supposed to infer it).  More to the point I find Melanie's backstory puzzling.  It's not clear why such a painfully shy person would go into teaching, nor how she managed to get through the training, which I assume includes student teaching.  Why didn't she start teaching with her class?  (And is it really typical of German schools for one teacher to teach such a range of ages and topics?)  We are given little hints of the development of her isolation, as when she phones her mother, who tries to quiz her on "what's wrong" when all Melanie wants is to talk, make contact.  But hints only.[SPOILER, sort of, but it's so obscure .... anyway]  And one thing that, even after 3 or 4 rewinds, I just don't get is the very final scene.  Melanie is in her car, driving along, when she simply lets go of the wheel, takes her jacket off and climbs into the back seat and watches the (blurry) scenery go by.  What are we supposed to believe is physically happening here, or is this a fantasy?  Like who's driving?  or is she headed for a crash?  but in that case, she seems to go along smoothly for a long time (is that just good German engineering?).  According to a review on imdb, the director (at Sundance) claimed the ending was "more symbolic than literal" -- but symbolic of what?  Surely the same effect could have been achieved in a literally believable setting.  And why go all "symbolic" at the end of a film that's so relentlessly, painfully realistic? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One Stellar Performance </p>
+
+
+<h2> review.date </h2>
+  01-21-2008  
+<h2> review.text </h2>
+
+ <p> I guess I like things all tied up in bows, but I was left feeling empty and unsatisfied.  I could really sympathize with Melanie and her naive, awkward nature, but I longed for a happy ending or at least one that had resolution.As a teacher I could empathize with her despair at not being able to control a class. ( Been there, done that, and fortunately learned the tricks of the trade.)  But I can't believe the administrator of the school didn't step in to try to solve the problems either through assigning a mentor teacher or by suggesting she consider another line of employment.  Didn't parents complain?  Where was her support network?  I know this is Germany, but surely there is a system in place to help struggling new teachers.The film was good, but had too many holes.  Besides a message of " let's sit and watch a loser destroy herself", I hoped for more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> and the message is........ </p>
+
+
+<h2> review.date </h2>
+  08-22-2009  
+<h2> review.text </h2>
+
+ <p> This film disappointed me.  Although the acting was well-done by all the actors, the camera angles reminded me of a documentary film, shooting from strange angles and often from dark, incoherent places.  Sometimes the audio is inaudible; I kept wanting to turn the volume up and couldn't, thus not understanding all the dialogue.This film was shot in 26 days in both Karlsruhe and Baden-Baden.  There is a certain "live" feel to this production, giving this production a somewhat budget appearance.The story itself was sad.  Melanie (Daniela Holz) starts a new job as a 5th-grade teacher but gets rejected by both the students and the school faculty.  She is left to hang on her own, with colleagues talking about her behind her back.  Her low self esteem keeps her from seeking advice; instead, she crawls deeper into her insecurities.The one man who is her peer turns out to be a creep, and another neighbor woman seems totally inconvenienced by Melanie's presence.  Indeed Melanie desperately tries to develop friendships with other women, only to get rejected.  She's so lonely and desperate yet hides her pain from her own mother, whom she tells nothing of her travails.  Instead, she spends time watching her neighbors through her window, keeping her eye out on one particular woman whom she wanted to have as a friend.All this is quite common in new teachers.  But what did seem out-of-place is her quick resolve at the end of this film.How Melanie resolves her problems, though, proved disappointing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Despair, isolation, rejection </p>
+
+
+<h2> review.date </h2>
+  07-09-2008  
+<h2> review.text </h2>
+
+ <p> An at times hard to watch little film about a socially insecure young woman trying to make a new life in a new city and finding many difficulties. I was instantly struck by the low budget look and feel of this film and it did take awhile to adjust to sets which seemed hastily put together and the oft times confused camera angles. The other reviews here do a good job summing up what goes on throughout the story. I might not re-watch this one for a long time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Your heart goes out to her... </p>
+
+
+<h2> review.date </h2>
+  01-01-2010  
+<h2> review.text </h2>
+
+ <p> It's disappointing that so many people, including professional film reviewers, didn't really get this film.  I don't think that the film is just about the protagonist and her personality deficiencies.  The film is about how society in cities can be self-destructive because people expect others to just keep up when instead we should all make children our priority and ensure that the school faculty and other professionals are aided by their peers and their supervisors so that everyone ultimately benefits.  Instead, much of modern society is cynical and selfish, and our protagonist suffers not just from her own personal inadequacies and youthful insecurities, but because the assistance she should be entitled to at work and the social outreach that could be mutually beneficial for her neighbors is not forthcoming. I thought the film was riveting, real and amazingly acted with such profound realism. Truthfully one of the best films I've ever seen. I've watched it several times, and I totally empathize with the main character.  Those that don't should probably take a closer look at their outlook on the world and its people. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An absolutely amazing character study </p>
+
+
+<h2> review.date </h2>
+  05-17-2013  
+<h2> review.text </h2>
+
+ <p> Seems like someone followed someone with a Handycam. Story is about a newly divorced teacher who has nothing better to do out of boredom to fall within other people's business. Not such a good thing in Germany. That part was correctly stated. However, the end of the movie gives you an empty feeling, finding that the movie should have satisfied you more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very slow </p>
+
+
+<h2> review.date </h2>
+  10-30-2007  
+<h2> review.text </h2>
+
+ <p> I had borrowed this film from a local library and now I am seeking to find a copy for my collection of films which are overlooked and have that true to life feel. As someone that has reached an age and hopefully taste requiring  my selection of films hit a nerve of believability. When the main character, a school teacher, is assigned to work in her first job, I was completely drawn to her performance. I could easily say that one will also find everything about her effort to deal with her students and coworkers a very personal experience eliciting a connection in life. For myself this is what a successful film does and so I am eagerly adding this to my collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nothing is a substitute for Reality </p>
+
+
+<h2> review.date </h2>
+  02-13-2014  
+<h2> review.text </h2>
+
+ <p> Melanie's problem isn't that she's lonely and lacks social skills, or that other people refuse to reach out and help her; it's that she's a sociopath. Here's the dictionary definition of a sociopath: "A person with an antisocial personality disorder, manifested in aggressive, perverted, criminal, or amoral behavior without empathy or remorse."Melanie lies constantly; she almost never tells the truth even when there's no good reason not to, as when asked what her plans are for the evening or the holidays.She aggressively invades other people's lives with no sense of interpersonal boundaries, of other people's right to live their own lives without her. She invades social gatherings to which she has been told she is not invited, and she shuns those to which she HAS been invited. She stalks, spies, listens outside doors and windows, pushes her way into other people's houses.She never sees anything wrong in her OWN behavior - the problem is always somebody else's failure to give her what she needs. She is entirely consumed by her own needs and completely blind to anyone else's needs. She has no business teaching children. She needs intensive psychiatric treatment.She does NOT need for other people to be more compassionate toward her. They ARE compassionate, but she either rejects them because she finds them unattractive (Thorsten) or pursues them and violates their privacy so aggressively (Tina) that she kills their compassion.None of these are signs of a normal but shy person, or of a person who simply hasn't had much practice socializing with other people. These are signs of a person with a serious, deep-rooted and potentially dangerous personality disorder. The fact that even her own mother doesn't want to talk to her shows that her behavior problems did NOT suddenly begin when she moved to Karlsruhe and her new job.She needs a good shrink, not friends. In her present state, she's incapable of friendship or any other normal personal relationship.This is a very good movie, because I and nearly every other reviewer - even those who give the movie bad ratings - relate to Melanie as if she is a real person. Like it or not, this movie does what movies are supposed to do: create a world which the viewer experiences as real. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very effective depiction of a sociopath </p>
+
+
+<h2> review.date </h2>
+  05-14-2010  
+<h2> review.text </h2>
+
+ <p> Shot on DV by student filmmakers, this harrowing, heartbreaking storyof a socially isolated young schoolteacher's gradual breakdown has anamazing, complex central performance, as well as strong supportingwork, and intelligent writing.A major case of substance triumphing over form, lack of money, and lackof experience.  A film that takes you into the heart of loneliness.Not easy or 'fun' to watch, but deeply rewarding. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A special 'student' film with a great lead perfomance </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

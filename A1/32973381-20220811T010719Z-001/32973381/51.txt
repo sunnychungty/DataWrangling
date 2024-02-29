@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B002A6J6IY <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-17-2013  
+<h2> review.text </h2>
+
+ <p> After striking out at Bed Bath & Beyond, Costco and Home Depot, I realized that I had to go online to find a wall mounting rack for my older tv.  This one fits perfectly.  Case closed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly what I needed </p>
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> Purchased this to mount my Panasonic 60&#34; Plasma (TC-P60ST60).  I was originally just going to buy a cheap mount as I have done with all previous TV's, but decided that with spending a bit extra on the TV (love the color reproduction on the unit, highly recommended) that I would get a nice mount.  Couldn't be happier with it.  Holds the unit without sagging at all even with the arm is fully extended.  Very well built. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 60" Plasma </p>
+
+
+<h2> review.date </h2>
+  11-30-2012  
+<h2> review.text </h2>
+
+ <p> When I bought a new 47" TV I wanted a good way to display it, the first thing that came to mind was a wall mount, the store I got the TV from could only offer me a single position non adjustable mount for almost double the price I paid here. This mount is very stable when mounted properly and while I would have found it impossible to mount by myself, it went up easily with two people and has looked and performed great since. The TV will sit about 4" from the wall in the all the way back position, but this is no issue for me, cables have to go somewhere anyway. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very stable and versatile mount. </p>
+
+
+<h2> review.date </h2>
+  06-27-2014  
+<h2> review.text </h2>
+
+ <p> It works great. It's sturdy. Maybe a little to sturdy because it's a little hard to pull it away from the wall, but it's really no big deal. Easy to install. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> Used this one to put a 60&#34; Panasonic plasma on a wall that apparently has 24&#34; spacing between studs. Given the overall weight (this thing is rock solid and really heavy itself), I wish the mounting plate was several inches longer in order to drill a third row of screws into the wall for even better security. The package of mounting accessories that comes with it blew my mind, I needed only a fraction of it to make it work - feels like this set is prepared to handle any situation. Would buy it again in heart beat if I need another one of this caliber. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid, heavy, almost great </p>
+
+
+<h2> review.date </h2>
+  12-29-2011  
+<h2> review.text </h2>
+
+ <p> Let me start by saying that I have a lot of experience with installing TV wall mounts and home improvement projects in general. The overall quality of this wall mount is good and the double articulating arm gives it more stability. The written directions are not very good and the grammar is poor (probably written in China). Some of the issues you should be aware of are as follows:1. They should have added slide stops to the top of the bracket when you hang the TV with the bracket hooks. This would prevent it from being able to slide off either side of the bracket. This is definitely a 2 person job when hanging the TV on the bracket and making sure it is centered and tightened down so it no longer slides.2. I recommend using lock washers with the provided lag bolts that screw through the wall plate into the wall. The lock washers are not provided, but will help maintain tension on the bolts once they are tight. Definitely try to get at least 4 of the lag bolts into 2 studs. 5 & 6 can be installed with the wall anchors provided.3. The brackets mounted to the TV have the tilt adjustment and the support bolts and their lock nuts were not tightened enough. Make sure to tighten the lock nuts so they are completely on the bolt, but the tilt mechanism still works.Other than that the install went fairly easy and I have my 42" LCD TV at a 45 degree angle in the corner. Hopefully this information will help a first time installer or even a more experienced installer with this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Quality LCD/LED/Plasma TV Wall Mount... </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> This unit works great.  A bit heavy so don't miss the studs when installing.  Works as advertised as is fairly simple to put up with two people. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heavy duty for sure </p>
+
+
+<h2> review.date </h2>
+  03-24-2014  
+<h2> review.text </h2>
+
+ <p> and it's got a good range of motion. Very strong and well made. We've got it for a 42&#34; and do like being able to swing it for better viewing depending on what room we're in. Doesn't feel loose or cheap when we do, which was our concern. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> easy to install </p>
+
+
+<h2> review.date </h2>
+  05-05-2013  
+<h2> review.text </h2>
+
+ <p> I've installed my share of TV mounts and this one is well made.  It weighs alot and may take two people to install but I did it by myself using temporary holding screws.  The tilt and pull out operation of the mount is smooth.  It feels and looks sturdy holding my new 55&#34; Plasma TV.  All parts needed to attach a a TV were included in addition to a HDMI cable.  Product is as described and it is a good value. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Large flat screen mount with nice features </p>
+
+
+<h2> review.date </h2>
+  05-14-2013  
+<h2> review.text </h2>
+
+ <p> I used this mount for my Panasonic 50" plasma. I did the entire job without help, but a second person to help hold things would be preferable. If your house has wall studs 16" on center, you are good to go. Just be aware that the midpoint between the two studs you choose is going to be the center point of your TV on the wall. If your house has studs 24" on center, as is usually the case in 2x6 construction, you will need to fasten lumber horizontally on the wall, then fasten the mount to that lumber. The mount base is too short to span studs 24" on center. Horizontally placed lumber could also be used to help position the TV in your desired location when the studs location isn't right for your desired TV placement. This lumber must be at least 1 1/2 inches thick. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great price Great Mount </p>
+
+
+<h2> review.date </h2>
+  07-01-2013  
+<h2> review.text </h2>
+
+ <p> We used this kit to mount our Panasonic VIERA TC-P50ST50 50-Inch TV and it works great.  I like the range of motion it has, we can turn the TV to just about any angle we would need to.  We usually just have it flat against the wall and it sticks out about 4-5 inches from the wall, which is pretty good for us. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice mount </p>
+
+
+<h2> review.date </h2>
+  12-24-2011  
+<h2> review.text </h2>
+
+ <p> Worked fine with my Panasonic 50" Viera.Apparatus is heavy.Like so many products the installation directions are worthless, but installation process is not that difficult. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked fine </p>
+
+
+<h2> review.date </h2>
+  12-09-2011  
+<h2> review.text </h2>
+
+ <p> I usually read instructions. I really do. This is a case of I did not find the other set of directions that were in a different set of packaging. Otherwise it is easy to mount and adjust on a routine basis. I move the direction of my screen all the time and it is really a very stable mounting system unlike the single articulated arm that I had previously. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Read the instructions. Yes both sets. </p>
+
+
+<h2> review.date </h2>
+  12-13-2012  
+<h2> review.text </h2>
+
+ <p> This is a great flat screen tv mount. Like I said it's STURDY! How do I know this? LoL Well after we anchored it into the wall, this of course was a block wall and mounted with tap cons, my husband did a &#34;strength test&#34; on it, by gripping it and doing chin ups on it, and he's an exact 176 lbs. Made for a good laugh at our success. It also has the swivel feature so you can angle it if you might do some furniture arranging for the holidays for everyone to see the screen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sturdy Sturdy Sturdy </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> This is the same quality as those costing much more and it performs beautifully. Installation was a breeze but you do need to have some tools with some grunting ability. If you don't know what I mean then hire a handyman. Great product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hook up </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> we haven't put this one up yet bought the same brand for a 42 inch plasma and it took about 30 minutes to get it done didn't need to buy anything as the bolts were plenty heavy duty and it went right on the studs though we drilled the first hole and made sure our marks were perfect which they did need to be moved a tiny bit but that was our doing just make sure you use the pictures to make sure the TV mount is on correctly the right and left is a view from the front not on the back where you are installing them </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to install </p>
+
+
+<h2> review.date </h2>
+  01-18-2013  
+<h2> review.text </h2>
+
+ <p> This has been a great product for mounting my 46" Panie above the fireplace.  Alot of side to side swiveling range but the tilt is minimal.  DO recruit help for this installation! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Highly recommended </p>
+
+
+<h2> review.date </h2>
+  02-09-2014  
+<h2> review.text </h2>
+
+ <p> I am using this to mount a 55&#34; Samsung TV. Works great.This thing is sturdy, I did not trust the design of other mounts using only two bolts. This uses six bolts total and gives you the assurance you need that your tv won't accidentally become detached from the wall.The maneuverability of the dual support arms is awesome. You can pan, tilt and rotate the TV with ease. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sturdy, Solid and Maneuverable. </p>
+
+
+<h2> review.date </h2>
+  10-28-2009  
+<h2> review.text </h2>
+
+ <p> I needed a wall mount that would swivel in all directions and still be stable for my 32" Panasonic Viera.  I got this yesterday & thought that due to it's inherent weight, it would be difficult to put up & hard to deal with... wrong!  I marked the studs, drilled 4 holes, got my DeWalt driver out for the 4 lag bolts, put it over my shoulder and ran the bolts into place.  Next four screws to the back of the TV, hung it immediately on the hooks, adjusted the set screws and I can tilt, swivel pull out, shove back the TV as easy as you could wish.  I says it can handle up to 50" and I believe it.  there are spacers for mounting a rounded back flat screen as well & as long as you get the bolts well embedded in the stud, it could easily handle a large plasma TV.  The mounting strips for the TV back have holes aplenty to fit most any brand flat screen... Obviously I am very pleased with it & readily give it 5 stars! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great fully mobile flat screen tv mount </p>
+
+
+<h2> review.date </h2>
+  11-16-2012  
+<h2> review.text </h2>
+
+ <p> Bought for a 50" plasma.couple problems...1. Wall mount plate is 16" end to end. Will not work if studs are 16 inch apart or greater.2.  Instructions say to only mount in concrete wall.3.  Once I put my TV on it the arm sagged over an inch. So much that I could not push the TV fully back to the wall because the arm hit the bottom of the wall bracket.4.  TV extremely wobbly when extended 3" or more from wall.5.  The unit I received was not made by Panasonic6. The unit I received did not have 2 extension arms, only one.7.  I don't think this mount could hold my 50" plasma for very long before arm permanently bent.I am returning it and looking for something better.I do have to say that the seller, Hot Sale PHX, is excellent.  Once alerted of my problem they contacted me quickly, apologized for my dissatisfaction, and offered another model replacement bracket or a full refund.One star on productFive stars for sellerGave a three star average. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cheap product. Excellent seller. </p>
+
+
+<h2> review.date </h2>
+  10-02-2013  
+<h2> review.text </h2>
+
+ <p> I found it stout and well built.  The wall plate allows fora fair spread of coverage to match wall studs.  You attachthe wall bracket to the wall, then the back brackets to theTV.  You then &#34;hang&#34; the TV to the wall bracket and tightenlocking screws.  Good design to install.  However you MUSTbe able to find wall studs.Only draw back is that the wider the tv, the less one canswivel or angle it from the wall.Overall good price and very satisfied. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Used for my Panasonic 50" plasma </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

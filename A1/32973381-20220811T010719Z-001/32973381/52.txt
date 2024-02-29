@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B002FA5WE2 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-09-2014  
+<h2> review.text </h2>
+
+ <p> It's a power supply.  I use it to power a BeagleBone Black, and it has presented to issues.Buy with confidence. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Working as designed </p>
+
+
+<h2> review.date </h2>
+  03-09-2014  
+<h2> review.text </h2>
+
+ <p> It fit well and provides plenty of power to my Beaglebone Black, connector fits well, and profile of the &#34;wall wart&#34; allows other devices to plug in next to it making it possible to use all the outlets in my surge protector at the same time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid, fits well, and has a good physical profile </p>
+
+
+<h2> review.date </h2>
+  08-17-2013  
+<h2> review.text </h2>
+
+ <p> Does what it's supposed to, checked the current and voltage - it's good.  It's warm, not hot and the cable length is good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No problems </p>
+
+
+<h2> review.date </h2>
+  04-11-2011  
+<h2> review.text </h2>
+
+ <p> A week ago, myD-Link DGL-4300 Wireless 108G Gaming Routerjust died out of nowhere. Was working fine one moment, dead the next. Wouldn't power up, wouldn't do anything. I was about to throw it away and buy a new router when I decided to do some research and see if this was a common problem. Turns out it was. The power supply (adapter) is prone to going bad.  I ordered this one as a replacement, and as soon as I got it, found out that my router wasn't dead at all. Just the power supply. This thing works just fine and saved me quite a bit of money on buying a new router. Also, ordered on a Saturday, received Monday via free Prime shipping.  Couldn't be happier with such a cheap replacement. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brought my D-Link DGL-4300 back to life! </p>
+
+
+<h2> review.date </h2>
+  06-12-2011  
+<h2> review.text </h2>
+
+ <p> My power supply kept overheating and shutting down the print server. I Couldn't find a Linksys / Cisco replacement.  The power specs and this D-Link adapter are the same BUT you do have to cut the cord and connect the plug from the old dead Linksys adapter.  Has been working great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I use it on my Linksys PSUS4 print server </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> I bought it because it looked similar and had the same voltage and amperage I needed... luckily it was the same everything I needed, it plugged right in and worked! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked on my TV-IP100 & 212 Cameras </p>
+
+
+<h2> review.date </h2>
+  06-05-2014  
+<h2> review.text </h2>
+
+ <p> My Wifi went dead and I checked the power supply and it had gone to IT's Reward.  This unit is an exact replacement and I was up and running as soon as I plugged it in.  Great product-exactly as advertised. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yes, perfect replacement </p>
+
+
+<h2> review.date </h2>
+  12-04-2013  
+<h2> review.text </h2>
+
+ <p> It works well and has slightly higher amp rating than stock D-Link power supply.  I've been using these adapters for several DL 1522 bridge/APs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works well. </p>
+
+
+<h2> review.date </h2>
+  03-12-2014  
+<h2> review.text </h2>
+
+ <p> Works great. Supplies enough current for the beaglebone as well as all of the daughter boards I am connecting. Further, there is a tight connector fit. Works perfect for my needs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beaglebone black power adapter </p>
+
+
+<h2> review.date </h2>
+  10-02-2010  
+<h2> review.text </h2>
+
+ <p> I purchased from GigaCity and was surprised to see I had a 3A AC adapter instead of the 2.5A one advertised here.  Though it was branded D-Link, it was slightly different (larger) than the 2.5A OEM adapter that failed on me.  I shrugged my shoulders and decided to give it a whirl.  I am VERY PLEASED NOW, the adapter works just as well as the old one.  I'm hoping the increased amperage means D-Link "fixed" something with this adapter and am also hoping it won't fail again.  It's been running like a champ for weeks now, so I am very thankful.  I wish the seller had disclosed upfront it was a 3A adapter but said it would still work, would have prevented that pre-trial anxiety.  I hope my review will rest the worries of anyone here who has a failed adapter on a DGL-4300 :)I saved tons of money over replacing the router, since I couldn't just buy a replacement but would've "upgraded." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NOT A 2.5A AC ADAPTER; however, it works! </p>
+
+
+<h2> review.date </h2>
+  07-06-2012  
+<h2> review.text </h2>
+
+ <p> When my Hauppauge HD-DVR suddenly stopped working I went on-line to the forums where I learned that the power supplies are prone to failure. This item was the best-priced option and has 25% more power (2.5a) than the original (2.0a). Now the unit works like a new one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Replacement for HD-DVR </p>
+
+
+<h2> review.date </h2>
+  07-22-2013  
+<h2> review.text </h2>
+
+ <p> I got it in a timely manner.  packaged ok, but nothing special as it was only an AC adapter.  powers on my DIR-615 like a champ. no complaints since I bought it (two months ago) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works </p>
+
+
+<h2> review.date </h2>
+  06-26-2013  
+<h2> review.text </h2>
+
+ <p> i needed a replacement power supply for my silicon dust hd homerun, this worked perfectly. it was exactly as pictured. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works as expected </p>
+
+
+<h2> review.date </h2>
+  06-07-2011  
+<h2> review.text </h2>
+
+ <p> I was surprised to find this at amazon.  I guess D-Link knows they go out.  Great price to not have to buy a new router. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Replacement </p>
+
+
+<h2> review.date </h2>
+  03-01-2013  
+<h2> review.text </h2>
+
+ <p> Thought my router had crapped out on me but it turned out the power surge only killed the adapter.  Works great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great replacement </p>
+
+
+<h2> review.date </h2>
+  09-12-2010  
+<h2> review.text </h2>
+
+ <p> This adapter was exactly like the one it was replacimg and worked great. The price was right also. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NEW Power Supply AC adapter </p>
+
+
+<h2> review.date </h2>
+  09-13-2013  
+<h2> review.text </h2>
+
+ <p> This item saved me quite a bit of money as D-Link's seem to have problems with the power supply going out and the wireless boxes are good.  Glad I read some of the blogs about this.  D-Link needs to find a better supplier of these power supplies. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> D-Link Power Supply </p>
+
+
+<h2> review.date </h2>
+  09-05-2013  
+<h2> review.text </h2>
+
+ <p> This little PSU adapter is working fine with BeagleBone Black board I ordered from Amazon.  It does not get hot and provides enough power for the board. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does what is supposed to do </p>
+
+
+<h2> review.date </h2>
+  07-13-2013  
+<h2> review.text </h2>
+
+ <p> I got this adapter to power a Beaglebone Black board. It requires a fairly steady 5 volts to run properly. When I plugged this adapter in, the power light was blinking off and on, and it wasn't doing anything else.When I put my multimeter to the power adapter I noticed that the voltage was fluctuating steadily between 4 and 5 volts like the ticking of a clock. It was identical to the blinking of the power LED on my board.For something with a more forgiving voltage requirement this may work fine, but if you plan to use it on anything that requires precise voltage, it won't work at all. I'd say to move on and look for a more reliable adapter either way. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not keep a steady voltage </p>
+
+
+<h2> review.date </h2>
+  12-24-2013  
+<h2> review.text </h2>
+
+ <p> Bought it for my beaglebone black and was surprised at the quality which was very nice for the price. The length of the cord is, well very long, easily goes the length of mytable or from behind my tv. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice product </p>
+
+
+<h2> review.date </h2>
+  05-23-2013  
+<h2> review.text </h2>
+
+ <p> I needed a 5V adapter capable of at least 2A to power my Beaglebone Black, and this one works perfectly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good choice for Beaglebone Black </p>
+
+
+<h2> review.date </h2>
+  11-25-2013  
+<h2> review.text </h2>
+
+ <p> like others have found. My powersupply that came with my D-Link suddenly died.  I checked it with a meter to find it was not producing any power.  This one is $4 less than the one form the same seller &#34;from D-link&#34; but seems to be identical to the one I originally had.  Powered right up and the internet is back! LOL </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great price and saved me front trashing a perfectly good wireless router </p>
+
+
+<h2> review.date </h2>
+  01-20-2013  
+<h2> review.text </h2>
+
+ <p> Well my D-Link switch's power adapter died a week ago so I ordered this little thing to replace it. It came quickly and it works, but it was so dirty! I don't know what it was, but there was some kind of ink substance all over the adapter head. My hands were all blue when I grabbed the thing to take a better look at it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works, but... </p>
+
+
+<h2> review.date </h2>
+  06-23-2011  
+<h2> review.text </h2>
+
+ <p> The original of one of my IP Cams gave up.The connection is a blue and fits routerscameras and other devices.We have 7 cameras at 2 locations so I purchasedmore than one. Shipping is the same cost.The price was 55% Less than the original mfgthat was not DLink.whatmorecanyousay </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works with lots of 5v devices </p>
+
+
+<h2> review.date </h2>
+  01-10-2012  
+<h2> review.text </h2>
+
+ <p> This is identical to the one that came with my access point and worked with no problems.  The original probably failed because I stretched the wire too much. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Direct replacement </p>
+
+
+<h2> review.date </h2>
+  05-20-2013  
+<h2> review.text </h2>
+
+ <p> When you want the right part, you don't want to deal with knock-off stuff. This is OEM.  Works perfectly, no issues. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OEM Part = Perfect </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> In the past year I've had two HDHomeRun TV tuners abruptly stop working.  In both cases, the units powered up and were accessible using the HDHomeRun utility, but would not tune to a channel, leaving only a black screen when I attempted to make a recording.The problem was not the tuner itself, but instead a defective 5 VDC power adapter.  Checking the output voltage on an oscilloscope showed that the 5 VDC output had become quite noisy, probably due to a defective filter capacitor.  This adapter can be used as a direct replacement for the original Silicon Dust adapter.  The maximum current rating is higher than that of the original adapter, but that will cause no problems, and in fact is a plus in terms of durability.This adapter is inexpensive and compact, and it works perfectly.  Highly recommended if your HDHomeRun stops working out of warranty. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A perfect replacement for a defective HDHomeRun adapter </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

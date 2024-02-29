@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000WKTG76 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-13-2010  
+<h2> review.text </h2>
+
+ <p> Only reason I didn't give it 5 stars was first one that came was defective and Yamaha customer servce left a lot to be desired so I had to return to Amazon (which as about as easy as you can get). Very good performance and seems very well made. I also like the option of being able to play non US DVDs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Value </p>
+
+
+<h2> review.date </h2>
+  02-19-2010  
+<h2> review.text </h2>
+
+ <p> My $100 Sony DVD player suddenly went dead after less than three years of use, so I invested in this 2007 unit, even though we are in 2010. My previous experience with Yamaha was perfect: a CD player that lasted 15 years. I was attracted to the claims of superior CD playback via top-end Burr-Brown DAC componentry, the extra attraction of SACD playback and the mandatory top quality of video playback. I am not disappointed on any count, and for $80, this may be the best non-Blu Ray unit now sold on Amazon. Snap it up while you can. So far, it plays DVDs flawlessly in what looks like 1080 quality to me on my 32 inch 720p Samsung flatscreen TV from 2007. The playback of ordinary CDs is as-advertised: wonderful. I own a pair of powered Meridian M2 speakers from 1983, still among the best high end gear for stereo playback. This unit has brought out many details I never heard before on jazz and classical CDs. I only own a couple of SACDs by Bob Dylan, and they sound great, too. Too bad SACD never took off. I don't see the need for a Blu-Ray player with a unit of this caliber and my 720p TV. If I were to upgrade to a 1080 TV, I might get a Blu-Ray, but I have no intention of forking over cash for overpriced Blu Ray discs any time soon, unless they suddenly become available at my local library for free. The video quality of this unit, connected via HDMI, is well good enough for me. I am now planning to add a powered subwoofer to see what affect that has on sound reproduction. There is a connection on the back of the Yamaha for just that purpose. My main complaint is that the player does not resume from the spot where it is paused if the disc is removed. You have to hunt through the chapters or tracks. That is quite annoying. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't go wrong with this bargain </p>
+
+
+<h2> review.date </h2>
+  03-14-2011  
+<h2> review.text </h2>
+
+ <p> I was on the look out for good player- excellent upscaling capabilities- solid built quality- support multiple regions (I own more than 100 zone 2 titles....my days outside of the US)This one is 5 stars on all 3 criteria that I had. Some of old DVDs have come to life with this player. And DVDs of recent movies (thanks to better transfer technology offlate) are closest to bluray play back.Update 6/19/2014 - 4 years since I purchased this. Going strong, and I relish the quality of video and audio. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Upscaling Player </p>
+
+
+<h2> review.date </h2>
+  04-07-2010  
+<h2> review.text </h2>
+
+ <p> Ok let me tell you why I purchased this unit, for one I like Yamaha Natural Sound Players I own 2 higher end Yamaha CD players that lasted over 15 years. I had a choice of Denon as well and I liked the Yamaha sound better, build quality is quite good, it does not compair with my highend players but then I did not expect it to. However I must say it is far better then anything else in this price class that's for sure and at this price I would say you can not do better, as all players in this price range are cheep plastic junk.I was quite upset when my original Yamaha's just could not read discs that well any longer, although they still work they just do not track most CD's correctly and are showing there age. I knew that to get the sound quality I was accustomed to could cost quite a bit.I researched other Yamaha CD players simular to my original and they were all around $700 or more so I decided this deck plays CD's and is a Natural Sound Player with very good DA's and may fill my needs I was using my sony DVD player to play CD's while I made my choice ... the Sony sounded like a cheep toy in comparison to my orig Yamaha's and I was not happy at all nothing sounded as it should, it sounded lifeless and harsh with no real depth. So I decided to gave this a shot and im glad I did.Now I am quite happy as the 1800 sounds quite good I have it hooked up to good equipment as well so this review may help others that want this just for audio as I am using it for via its RCA outs, I can't comment on the pic quality but a budy of mine also decided to buy one and said the picture is quite good with a good DVD so I would say its good as he like my self is very picky about image and sound based on what he has told me I would say the PQ is quite good.As for the sound it has good depth and is not harsh nor digital sounding as most cheep machines are. Base response is solid but not as deep as my old higher end units, however it is close. Listen to the Harvest Release Of Pink Floyd's Dark Side Of the Moon if you have it you will be impressed, as the machine reproduces the low freq heart beat with good depth and punch that is missing from most machines in this price class. Equipment in use is as follows ... UREI Mixer Preamp, Carver M-500t Amp, Orig Monster Cable, Belden Pure Audio RCA Cable and Energy Monitors.I hope my review can help others decide. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Sound For CD's </p>
+
+
+<h2> review.date </h2>
+  03-07-2010  
+<h2> review.text </h2>
+
+ <p> I am not someone who understands every technical aspect of a DVD player.  I do however understand good sound, and a good picture.  Upon starting this player up, the picture and sound immediately impressed me, a lot.  Definitely has wow factor there.  I haven't had it too long, and hope it is reliable.Update: May 14, 2013:Player is still working and have had no issues to date! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Happy with his Player </p>
+
+
+<h2> review.date </h2>
+  04-10-2014  
+<h2> review.text </h2>
+
+ <p> The first time I played a DVD on this I was blown away. It's too bad you can't buy these anymore at this price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing </p>
+
+
+<h2> review.date </h2>
+  12-14-2009  
+<h2> review.text </h2>
+
+ <p> I bought this Yamaha to replace a nice upscaling DVD player from Toshiba which my son broke. I chose this Yamaha for both its upscaling reputation and its SACD support.  Feature and performance-wise, I have been very happy with the product.As a DVD player, the S1800 supports DVD-R/RW, DVD+R/RW and DVD-Audio well, in addition to DVD-Video.  For DVD-Video, upscaling to 1080p appears to work really well, even though this is a model from 2007 (hence the big discount offered by Amazon.com).  I have played a variety of DVDs from Pixar animations to old Disney classics to recent action titles and so on, and all look really nice on my Sharp 1080p LCD TV.One good thing about the DVD player is it's quite fast, at least compared to most other DVD players.  From loading a DVD to recalling the menu, there's no trying the user's patience with blank screens.  Another good feature is, as with other upscaling players, by default all 4:3 DVDs is displayed stretch on a 16:9 screen if you use the HDMI connection (and who doesn't nowadays?), but there is a menu item (Setup -> Video -> Widescreen Format -> Pillar Box) that manually overrides the stretch, so you can make 4:3 content look right on your widescreen TV. Just remember to set it back to "off" for 16:9 content. Yes, this is a hassle (i.e., no automatic switching), but this beats the hell out of all those upscaling players on the market that don't let you unstretch 4:3 content over HDMI at all.  We watch a lot of kids' TV shows, so this is a really welcome feature.  (Maybe I should buy another unit and lock the widescreen stretch on each...)As an SACD player this unit takes advantage of Yamaha's experience in building hi-fi systems.  Sound quality from my SACDs (classical music) is truly amazing, revealing subtle details that even my best CD deck failed to reveal before.I have not tried the DivX playback feature, nor the VCD/SVCD support.While the features and performance are laudable, the remote and the manual are truly miserable.  The remote has a big round power button, but the idiot who designed this made it to *only* turn on the player, not turn it off. For the latter function you use the smaller Standby button, which *also* turns on the player!  Most of the buttons are small, and there is no eject button on the remote.  Must be a Japanese thing, since this seems common on Japanese-brand DVD players.  The manual is very difficult to understand.  First, it was written by some idiots.  Second, it was written for the UK/Europe/Russia market.  Luckily, you can figure out 95% of the features and connections on your own, unless you're a complete newbie to DVD players.As to the question why you should get a DVD player while you can now buy a low-end Blu-ray player for as low as $20 more, the answer is twofold.  First, upscaling DVD players are still better at playing DVDs, especially one like this Yamaha which loads DVDs fast.  Second, if you watch a lot of DVDs, you may not want to tax the laser mechanism in a Blu-ray player, which works better reading Blu-ray discs.  Finally, for this model specifically, some of the extra features like DVD-Audio and SACD support are not found on Blu-ray players. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great as an upscaling DVD and SACD player </p>
+
+
+<h2> review.date </h2>
+  01-29-2010  
+<h2> review.text </h2>
+
+ <p> Purchased this player to take the load off my Panasonic DMP-BD60K Blu Ray player and have been more than thrilled with this player. Standard upconversion is slightly better with this Yamaha and audio has a nice full sound as opposed to a thinner although dynamic sound produced by the Panasonic. This is attributable to the Burr-Brown DAC's used in the Yamaha. Overall an unbeatable bargain for [...] bucks and the best standard DVD player I have used and I have used about 15 different players from several manufacturers over the years. In addition, I have had no issues with this unit playing burned DVD's. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unbeatable for the price! </p>
+
+
+<h2> review.date </h2>
+  01-08-2010  
+<h2> review.text </h2>
+
+ <p> This past fall I've "auditioned" six different upscaling DVD players (including the Oppo DV-980H, DV-981HD and Pioneer Elite DV-49AV).  This is absolutely the best one and a definite keeper:1. Very hefty, solid construction (as opposed to the thin, cheapish material of most new players).2. Quiet disc transport3. Intuitive remote4. Excellent audio quality - easily matches or beats the Oppos or Pioneer Elite5. Beautiful image qualityWhen I first got it I felt the color was a bit washed out, but after calibrating the player with a color meter (Brightness, Contrast, Color, Hue) the picture is flat gorgeous.  Its easily better than the Oppo DV-981HD and Pioneer Elite DV-49AV and matches the Oppo DV-980H.  While its not Blu-Ray quality (of course), its still so satisfying that I don't feel deprived or like I'm missing anything when I'm watching an standard DVD.  The upscaling quality is so much better than my Blu-Ray player that I'll never use the Blu-Ray for DVDs - I'll keep both players hooked up to the set.  If it has a con its a minor one - the lack of an eject button on the remote, which isn't that big of a deal since I have to get up anyway to remove the disc from the tray.This player started out at $449 a couple years ago.  I never thought I'd see it go as low as the $79.99 that Amazon is charging for it now.  Its an absolute steal if you want a quality upscaling DVD player (that shames most Blu-Rays for upcoverted DVD image quality) and one that plays a wide variety of other formats (including Divx and SA-CD).  It can also be made region-free for foreign market DVDs with a simple code hack.  Can't recommend it highly enough. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best DVD Player I've Tried (and I've tried a lot of them) </p>
+
+
+<h2> review.date </h2>
+  12-29-2008  
+<h2> review.text </h2>
+
+ <p> I recently upgraded everything in my HT setup, purchasing a newYamaha RX-V1800receiver, as well asPolk RTI A7front speakers,Polk RTI A3rear speakers, aPolk CSI A6center channel and aPolk PSW505 subwooferto go along with my PS3. After sampling some hi-def audio (the PS3 can play SACDs), I purchased this player to take advantage of its ability to send high quality converted DSD signal straight to my receiver through use of this unit's excellent internal DACs for maximum sound quality on SACDs, rather than relying on the PS3 to send it as lower-resolution PCM. I also wanted to be able to access the 24/96 5.1 tracks on DVD-A's instead of settling for the Dolby 5.1 mixdowns you get with a standard DVD player. I ended up getting a great deal on this here at Amazon.So far I've had this item for about a month and I'm very happy with it. I actually wired it to two different inputs on my receiver, one for CD/DVD playback (using HDMI) and another for SACD/DVD-A (using mutlichannel analog). I've tested it with CDs, DVDs, DVD-A's and SACDs, and not only is the sound quality excellent (even standard redbook CDs sound outstanding), but I have not experienced any of the problems I'd heard about with some other multi-format players. Load time is pretty good for all formats (including SACD), and with the discrete analog connections, SACDs and DVD-As sound phenomenal. I've read that some SACD players will insert a pause between tracks, which can be aggravating for certain albums - and I'm happy to report that this player does NOT have that issue. I have a small but growing library of probably 50 or so SACDs/DVD-A's, so this unit has really allowed me to enjoy these titles with the best possible sound quality. When using the discrete analog outputs, setting this unit to 'Audio Direct' and my receiver to 'Pure Direct' allows me to hear high-quality analog signal sent right to the Polks with no additional processing; their dynamic range is really showcased when running multichannel SACD or DVD-A in this fashion.This unit also has something called bass management, a really cool feature for adding subwoofer track to stereo signals. It requires some trial and error to configure properly but it really has the potential to enhance the sound for CDs.In addition to the hi-def sound benefits, the DVD video upconversion is excellent. I tested this using the unit's internal Noise Shaped Video (NSV) processing with Faroudja DCDi to upscale to 1080p via HDMI, and compared it to my receiver's excellent deinterlacer (which kicks in when I hook the player up with component) also scaled to 1080p and the DVD-S1800 has the slightly better picture. I also tested it against the PS3s upscaling, and here the DVD-S1800 wins handily. Picture is clear and very sharp on my 46" 1080p Samsung, with very few visible artifacts and little to no quantization. Sound is superior to the PS3, with a very well-defined soundstage for surround sound media.This unit can handle MP3 or WMA discs, VCD, CD-R and CD-RW, DVD-R and DVD-RW, and can read both PAL and NTSC formats. With this unit you're pretty much all set for everything out there save for Bluray.The DVD-S1800 has an HDMI connection for A/V sources, component for Video, stereo analog as well as optical, digital coaxial, and multichannel analog for audio connections. There's even an RS-232C connection for wired remote access. You can pretty much configure this any way you want/can based on your HT's connection capabilities. HDMI upscaled to 1080p provides the best video quality thanks to this unit's high-quality on board deinterlacer, and multichannel analog for audio will provide superior sound quality. The on-screen menu provided via HDMI/Component is easy to use, but pretty basic.The look and feel is very nice, matching my RX-V1800 in design perfectly with a brushed black aluminum front and amber LED display. It's not too heavy, weighing about 8 lbs., and it isn't very deep either (about 11").Big fan of this unit. This all-purpose catch-all nicely complements both my receiver and PS3, bringing me totally up-to-date in terms of next-gen audio and video. I especially enjoyed listening to the multichannel layers of Pink Floyd'sDark Side of the MoonSACD, Miles Davis'Kind of BlueSACD, Beethoven'sSymphonies 5 & 7SACD, as well as Yes'Fragileon DVD-A.This is a great and inexpensive way to jump into hi-def audio. Even though neither SACD nor DVD-A have really taken off thanks to the rise of compressed music, there are a number of excellent rock and especially classical and jazz albums out there. For me it was worth it, as the 5.1 sound and increased signal resolution really brings out the details that are often hidden or obscured in lesser audio formats. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice device to round out a next-gen home theater </p>
+
+
+<h2> review.date </h2>
+  04-26-2010  
+<h2> review.text </h2>
+
+ <p> I bought the S1800 (which Amazon offered at a very attractive price, brand new) because I'd had trouble with my S1500, an earlier Yamaha foray into this niche: a DVD player that also will play SACDs. The S1500 is bad news, unreliable, and I realized when I got it that it was a "refurbished" device with a short (30-day) warranty. Naturally, the defects became clear only when that period had elapsed. I had to FreeCycle the S1500, no remedy available, but Yamaha's other devices I've owned had all been of such good quality I wasn't quite prepared to write them off. The S1800, I'm glad to say, does everything the S1500 was supposed to but without the maddening defects. Reliable operation, good video, great audio. I particularly like that it has multi-channel analogue outs in addition to the usual digital outs (optical, coax). The only reason I don't give it five stars for ease of use it that it continues Yamaha's quirk of having separate buttons on the remote for power on and power off. It's easy to forget this and get frustrated trying to turn the device off--until you remember the quirk.All things considered, a worthy purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cost-effective DVD/CD/SACD player </p>
+
+
+<h2> review.date </h2>
+  02-06-2010  
+<h2> review.text </h2>
+
+ <p> Other reviewers have covered a lot of the technical aspects and the good qualities of this player, and they were all pretty accurate.  Read some of those reviews first to get an idea of some of the pros of this player.After a month of ownership, I feel like there are also a lot of really bad things about this player that I didn't see mentioned in other reviews.  I wanted to make sure other people were aware of them before they buy this.- Screen saver - even my old $10 DVD player had a good screen saver function, to keep a plasma TV from being ruined by pausing the DVD for too long.  This player has what it calls a "screensaver", but, as far as I can tell, it's a static image of the Yamaha logo - it doesn't move around, it just stays there, and will still ruin your TV.- Screen saver pt 2 - The player only switches to the screen saver when you've paused the DVD.  So if you are on a DVD menu screen, it doesn't seem to ever switch to the screensaver.  This happens to me over and over when I walk out of the room during the movie credits, and come back an hour later to see the TV showing the main menu.- Scratched DVDs - I have a few DVDs that have the tiniest scratches on them, just normal wear and tear kind of stuff - every other DVD player I've tried has no problem playing these DVDs, but this player absolutely freezes completely with them - it doesn't stutter, it doesn't skip, it it just stops - you can't even fast forward over the scratched part, you have to completely jump to the next chapter then rewind.- Resuming playback - several times I've paused a (brand new) DVD for 20 minutes or so, and when I try to resume, the player stutters a bit, then shuts off.- FF/RR - There doesn't seem to be any way to seek to a specific time with this player.  You have to fast forward or rewind to where you want to view from.  Which wouldn't be so bad, except that when you are fast-forwarding or rewinding, then hit play, the player will play from a spot nowhere near what was showing on your TV.  e.g. if you're fast forward to 7:00, then hit play, it will play from 5:00.  I know a lot of DVD players have similar problems, but this one was way worse than most.That's about it.  They might not sound like big things, but trust me, they are the kind of irritations that will build up over time and have you looking for a new player in a month.But, like I said, there are a lot of really good things about this DVD player too - so check out the other reviews, just be sure to keep the problems in mind when you're making your decision. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So many good qualities ruined by a few bad ones... </p>
+
+
+<h2> review.date </h2>
+  02-17-2010  
+<h2> review.text </h2>
+
+ <p> Great picture - upconverts to 1080. I use a HDMI to the TV and the optical out to my receiver. Loads DVD's quickly. The machine is quiet during operation.Feels sturdy and well built. We watch a lot of DVD's and this player seems like it is up to the challange (We do not watch that much "TV" - no cable ot satelite.)Tons of options from features with the remote to hooking it up. One reviewer complained that there was no "eject" button on the remote, no there is not, but you still need to get up and take the DVD out, so I do not see the big deal.Overall I am very impressed with the player.Below is the mod for making this a region "0" player. It works, I bought some Austrailian released DVD's and it played the disc's with no issues.1. Switch the device on (RC or switch)2. Open the disc tray and leave it open3. Type &lt;Clear> 2580 &lt;Subtitle> on the RC4. Close the disc tray5. Wait until the device has completed the loading cycle6. Switch the device off (RC or switch) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid DVD Player </p>
+
+
+<h2> review.date </h2>
+  10-14-2010  
+<h2> review.text </h2>
+
+ <p> This is a great product! If you haven't yet ventured into the realm of multi-channel audio, you seriously need to look into purchasing this player. There are a bunch of sites out there that will explain the different audio formats available these days such as SACD, DVD-Audio, DTS and so on. But if you are an audiophile or just like extremely good sound quality then you really need to consider the Yamaha DVD-S1800BL 1080p Upconverting DVD SACD Player. Oh yeah, it's also a DVD movie player but I only use it for audio and DVD concerts. The picture quality is superb and the sound is nearly flawless. There are a bunch of technical reviews that I used to help make my decision to purchase this fine component and I encourage you to do the same. Oh, and make sure you get a copy of Pink Floyd's Dark Side of the Moon and listen to that in 5.1 surround sound. It could just change your world. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yamaha DVD Audio SACD player </p>
+
+
+<h2> review.date </h2>
+  06-23-2008  
+<h2> review.text </h2>
+
+ <p> I've owned this player a good couple months now and have been very pleased with its performance. Very user friendly GUI and the machine operates easily. Discs load quickly and the transport is dead quiet. The picture quality is excellent be it composite (good), component (better) or HDMI (best). What's even better is the sound quality of CD's and SACD's thanks to four, 2 channel Burr-Brown dacs. It has a nice array of features, such as Audio Direct Mode, SACD Bass Management, SACD On Screen Text, Display Dimmer and an above average set of picture controls. These allow the user to really fine tune the image for optimal picture quality. Furthermore, it does a fantastic job up-converting Standard Definition DVD's to High Definition 1080P. It's also compatible with DVD-A, mp3, wma, divx and jpeg discs as well. The remote, although it's not back lit and lacks an eject button is still very user friendly, ergonomical and makes functional navigation a snap. The users guide is well laid out and easy to understand. Other notable features include, Dolby Digital 5.1 DTS built in decoders, gold plated pin terminals, one optical output, one digital coaxial output, Noise Shaped Video (NSV) with Faroudja DCDi processing that helps eliminate jagged edges and blurring, Wide Screen Mode selections, Screen Saver, Program & Repeat Playback for CD's and Progressive Scan. You could probably spend hundreds more on a universal player and still be hard pressed to get the performance of the S1800. So, if you're not ready to make the leap into blu just yet and want a great sounding CD/SACD and DVD-A player with DVD up-conversion for improved Standard Definition DVD viewing, consider the Yamaha S1800! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yamaha S1800 Upconverting DVD, CD, SACD Universal Player </p>
+
+
+<h2> review.date </h2>
+  11-30-2009  
+<h2> review.text </h2>
+
+ <p> Amazon had a Blu-ray deal for $99.00, though it looks like it's ended ($129.00 is typical price point now).  Other retailers like Wal-Mart still have them.  If you can sacrifice SACD, this is a much better way to go.  For just $20.00, you get 6x the resolution of DVD.  And EVERY Blu-ray player does upconverting.Yes, 6 TIMES more resolution in video.  And the audio quality is lossless (DVD is *very* lossy, it's like an MP3 vs. a CD/SACD).Again, $20.00 more for this functionality.  If you (or the person you're gifting) has an HDTV, Blu-ray is much better than DVD.  And if you don't, you're future-proofing with no need to by Blu-ray when you upgrade.Yamaha makes great products, and this is a highly rated DVD player (I gave it 5 stars).  But given the slight difference in price for Blu-ray, it's really not the best way to go. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Why... When you Can go Blu-ray + Upconverting for $20 more!?! </p>
+
+
+<h2> review.date </h2>
+  03-28-2010  
+<h2> review.text </h2>
+
+ <p> I wanted an SACD player and didn't want to spend several hundred dollars, so this was a good deal, especially with the positive reviews here.  So far, I have found this player to be just as good as the reviews here indicate.  I have it connected to my receiver with 6 analog RCA cables for SACD playback, and a digital optical audio connection for DVDs and CDs (though some CDs sound better when I use the 6-channel option on my receiver).  The player is connected to my HDTV with an HDMI cable.It was easy to get the player connected and set up correctly to play back SACDs and CDs, but it took me some time to figure out how to get the audio right for DVDs.  For my particular setup, that required disabling audio out on HDMI, which was easy enough to do once I figured it out.  The on-screen menu system isn't too bad, especially considering that this unit first appeared in 2007, and the manual isn't as confusing as some I've seen, but neither the manual nor the onscreen menus are especially user-friendly.The player only supports SACD audio out using the 6-channel analog connection, but since most AVRs have these inputs, that should be a non-issue for most user.  I know that several reviewers have been criticized for pointing out that the remote doesn't have a button for opening/closing the disc drawer, but since the remote does have a lot of buttons for other features that are much less frequently used, I think Yamaha should have included the open/close button, too.  Yes, I do realize that one has to get up to remove or insert a disc, but the drawer on this player takes longer to open than on a typical DVD player, so you end up waiting.  Certainly not a big deal, but how hard would it have been to have included this?SACDs sound great on this player, and I don't even have a high-end system.  I've been enjoying listening to hybrid SACDs that were already in my classical collection, and have begun adding new SACDs to my collection.  CDs also sound much better than they did on my Sony Blu-Ray player or my older Denon CD player.DVDs load quicker than on my Blu-Ray player, and the upconversion seems to be at least as good as what the Blu-Ray provided.The build quality of the player is unusually solid and sturdy compared to what you'd find on the shelves in a big box store at this price point, with the drawer mechanism and the buttons less plastic-feeling and more what you'd expect on a higher-end unit.  The remote is relatively straight-forward and not overly cluttered, and except for the open/close button, has what you'd expect.  I use a Harmony One remote, and this player is in Logitech's database so it was easy to add.Overall, this is an excellent value and a good way to add SACD capability to your system, or to upgrade or replace your DVD player.  I've only had it for less than a week, but it seems well made and if it's like other Yamaha components I've owned, should last for a long time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent value, works great </p>
+
+
+<h2> review.date </h2>
+  01-22-2010  
+<h2> review.text </h2>
+
+ <p> UPON SETTING UP THIS PLAYER WITH A HOME THEATER SYSTEM,IT PROVIDED DROP DEAD SOUND AND A SUPERB PICTURE.HOWEVER THE VIDEO PLAYBACK EXPERIENCED SLIGHT PAUSES WITH ALL 8 DVDS PLAYED.THE DISC TRAY ALSO FAILED TO OPEN WITH ONE DISC.IT DID FINALLY OPEN BY UNPLUGGING THE UNIT.YAMAHA IN CALIFORNIA NOTED THAT THE UNIT WAS DEFECTIVE AND THEY COULD NOT CORRECT THE PROBLEM DUE TO ITEM BEING DISCONTINUED.I HAVE RETURNED THE UNIT TO AMAZON VIA THEIR SUPERB SERVICE FOR AN EXCHANGE.AM HOPING FOR A GOOD UNIT THIS TIME.THE PLAYER DEFINITELY REFLECTS A LOT OF QUALITY AND I AM SURPRISED TO SEE A PROBLEM LIKE THIS WITH A NON BLU RAY PLAYER.Well i received the replacement and the pause problem on it is even worse than the original.The problem is primarily with dvd-r discs.They simply will not play without pausing every 5 minutes. i can not rate this player above 2 stars for anyone playing recordable video formats.The only good feature of this tranasction was the Amazon return service;It was excellent and i will order another player from them soon,probably a panasonic . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice player  but problems </p>
+
+
+<h2> review.date </h2>
+  03-17-2010  
+<h2> review.text </h2>
+
+ <p> I bought this to lighten the load from my Panasonic ez28 recorder.  One for playback and one for recording.  This unit is fantastic is all I can say.  Another Yamaha great product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great player. </p>
+
+
+<h2> review.date </h2>
+  04-05-2010  
+<h2> review.text </h2>
+
+ <p> Even at it's current price, it's still a remarkable bargain.  You don't see build quality like this anymore unless you spends hundred's of dollars.  So glad I did'nt go with Sony NS710H, this is sooooo much nicer.  When your wife notices a piece of stereo equipment you know it's quality lol.  I think it's hand's down, no brainer best upconverting DVD player you can buy, being able to play SACD's is just gravy at this price point. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great piece of equipment! </p>
+
+
+<h2> review.date </h2>
+  07-07-2010  
+<h2> review.text </h2>
+
+ <p> As far as the quality and features go, its a great little box!  I don't know if it's normal these days, but, it is much much slower to turn on and load up than my old dead Onkyo from about 10 years ago.  Otherwise, I have no complaints. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Upscaling DVD Player - Slow to turn on </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

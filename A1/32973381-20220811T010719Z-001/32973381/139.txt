@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00BXWQTOU <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-22-2014  
+<h2> review.text </h2>
+
+ <p> The Camera works great (Once you figure out the instructions). Unfortunately this like many items from China comes with convoluted English instructions. Fortunately a British man did a U-Tube review of the item and explained many of the fundamental instructions. Just enter Dash Board Cam HD720 in the U Tube search. The cables are more than adequate. Unless you are willing to remove the &#34;headliner&#34; of your vehicle the wires do fall straight down. For most boomers the screen may be pretty small. The previous camera I had functioned beautifully for five years then just died. So if you gert three out of this one you will have your money's worth. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Except for the English Language instructions it has been  a pleasant experience. </p>
+
+
+<h2> review.date </h2>
+  07-20-2014  
+<h2> review.text </h2>
+
+ <p> remote camera not included in package as advertised. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One Star </p>
+
+
+<h2> review.date </h2>
+  02-20-2014  
+<h2> review.text </h2>
+
+ <p> This camera takes a very nice picture....when it works. Problem is, it doesn't work very often. This freezes up and quits. I lose 10-15 minutes of video through out, in bits here and there. In 2 hours of possible recording, I got less than 1/2 that was watchable.  It either goes black screen, or jumps ahead. It pixelates constantly, taking up seconds. If anything were to happen, this camera would not capture it. I haven't even hooked up the rear lens. Don't know if it works or not. When the card is filled, it does not continue to record over the old stuff, it just quits working. There were no directions, to speak of. Says what the buttons do, but, I can read that on the buttons! Really these people just figure you know how to use the thing. No trouble shoot info. Doesn't tell me enough at any rate. I will be looking for a new one.UPDATE: I want to say, Bravolink has excellent customer service. They have replaced this camera for me, and this one works very well. I had a defective one and this company took care of it. They were prompt and very courteous. I would purchase items from this company in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointed </p>
+
+
+<h2> review.date </h2>
+  06-01-2014  
+<h2> review.text </h2>
+
+ <p> I think it would be unfair to compare this dashcam to much more expensive units.  This is an easy-to-use inexpensive dash cam.The viewing screen is small and the picture quality isn't high.  But it's good enough when all that's required is a basic view, and it's an easy solution to get a rear view.  Sample provided. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good in its price range </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> *Disclosure: I was contacted by a rep for DBPOWER and provided a free sample for the purposes of giving my thoughts on it.*In my normal life, need for a dashcam isn't all that great.  But when I do need/want one, I simply mount up my phone and hit the button.  Full HD, good sound, etc.  This DBPOWER G1WH unit would like to replace my phone, and comes with some features that may and may not be available in app form.Of all the reasons I would rate this product at three stars, it's the industrial design that stands out most.  I mean, I don't believe that the person(s) who designed it actually thought about how it would be used.  Check this out.  In my testing, I found that the unit could only last about 15 minutes on a full battery charge.  That's good enough for say, pulling it out and taking pictures/video of an accident scene or something.  Ok.  But, if you want to record for longer, you will need to supply it with power.  Fair enough.  The unit only mounts as shown in the pictures, with the suction cup overhead.  Ok.  Well, the power connection is on the top of the unit, not the bottom.  So when you have the camera mounted up and plug in the power, the power cable sticks up and then bends backwards toward to your power source.  Unless you have specially run a cable to do otherwise, you now have a cable dangling down in front the the screen and all the way down to the power source.  Not only is this unsightly, but the cord can get in the way, and, there is constant pressure on the power connector which could potentially cause it to fail.  Even using a right angle power cord of your own only partial eliminates this issue.While I'm in complaining mode, I'll add a few more gripes.  All the buttons are also on the top edge, which may make the device hard to operate when installed.  No remote either, so the buttons *must* be used.  Motion based recording works just fine.  Advertised as anti-theft, it seems like a good thing.  Problem 1: the battery doesn't last long enough to get one through the night, so, another power source is needed.  Problem 2: when triggered, it turns the LCD on, more or less advertising the camera's existence to anyone that might want to steal it.  Problem 3: No default recording time in this mode, which results in video after video being started and stopped if there is continuous motion.  (example: Motion triggers recording. 13 seconds later there is more motion.  The camera stops recording then starts a new recording.  Repeat.)  G-shock sensor is just as bad.  When the unit is connected to a TV, one can view what the camera is viewing and take pictures - but can't take video.  So much for using it for live surveillance.  And finally, it feels really cheap.By now, you might be thinking, "With all that complaining, why the heck did you give it four stars??"  It was a debate I had with myself, certainly.  Why?  Because under those gooberish design choices is a pretty decent camera for a relatively low price.  In testing, I took it out during the early dawn light, full daylight, and near dark.  The recording quality did suffer the lower the light got, but, it was passable.  Covering up the LCD, rigging a mount, and plugging it into an AC power source lead me to discover who was poking around in my cube at work and "borrowing" tool.  Recorded audio quality was pretty good too.  Not on par with my phone's recording abilities, but very usable.  Even music wasn't deteriorated beyond recognition or enjoyment.  A number of the days I was testing it out, I made sure it was in direct sunlight the whole day, windows up.  At 103F outside, you can bet it was cooking inside the car.  Did that hurt the camera?  Nope.  It fired right up as soon as I turned the car on and started its recording.  Not once over the two weeks did the mount let go of my windshield, which I carelessly hadn't cleaned first.  Speaking of careless, I dropped it three times, twice on pavement.  Everything still works great.  The digital zoom works well, getting in closer without messing up the picture.  The camera itself does as well as could be hoped for given that it doesn't have a flash.  There is so much about this camera that could make it a great buy, if one can get around the design flaws. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Three stars or four....? </p>
+
+
+<h2> review.date </h2>
+  07-01-2014  
+<h2> review.text </h2>
+
+ <p> This car cam comes with with the video camera / DVR unit, HDMI / Mini HDMI cable, car power adapter, USB cable, mounting bracket and the user manual.I have used one other car cam before that was much more difficult to install because I had to run wires from the front of my truck to the back of it. Now granted it had two camera's one for the front and one for the back. This unit only has one camera but it couldn't have possibly been any easier to install. You can literally take it out of the box and have it installed within five minutes. The camera comes with a suction cup mounting bracket so you will need to slide that into place on the top of the camera. Next you will clean your windshield and mount the bracket but pushing the suction cup into place and flipping the locking button. It has yet to fall off so I think it is sticking as it should. The camera is very lightweight so there should be unlikely that it would fall off the windshield. Then plug the power cable into you vehicles cigarette lighter plug and plug the other end into the camera. Next you will need to insert your memory card into the bottom of the unit. One important thing to note is that this unit doesn't have any built-in memory and you have to insert a memory card into the bottom of it to store the video / pictures on. Therefore you will have to purchase your memory card separately. I would like to have seen at least a small memory card included to get you started even if they would have to raise the price five or ten bucks. The card that you will need to purchase is a micro SD card. I am using a Kingston Micro SD HC memory card and I am getting smooth and reliable video and clear pictures.Once you have it all connected and the memory card installed then you will have to read through the manual and mess around with it for a while before you figure out what settings are best for you. It can take video and pictures both and it has IR lights on it so it can record video in the dark. You can set it up to record all the time like I do or you can set it up to only start recording when their is a collision or large jar. There are different levels of sensitivity to suit your needs. There is also an motion sensor and you can set it up to record only when it senses movement of some sort. I have mine recording continuously but only when there is movement. It will record in bits and pieces and will delete the oldest video when space is needed. If there were an accident and you needed protect the video there is a button on the left side to make sure it doesn't get deleted. You can also manually switch to picture mode and capture still pictures if needed. If you needed to get out of the car and document an accident you can remove the camera from the mounting bracket and carry it with you while recording. There is a lot of flexibility with this camera and it's fairly simple to operate.Another important thing to note is that the battery life in this camera isn't very good. I charge it fully and the power level drops rather fast. I leave it plugged in all the time so it doesn't matter to me but for anyone that planned on using it on battery power you will likely be disappointed. Honestly the battery power is only good for carrying it around to record something.When you want to review the video you can watch it on the camera or you can connect it to your TV or your computer with the included HDMI or USB cable. Another cool option that this camera has is the ability to record audio. The audio is a little bit on the quiet side but does work. This camera has the ability to zoom unlike my last one. It's a little jerky as you zoom in and out but it works. The quality of video with this camera is quite good and the night vision option is an added bonus. My last camera didn't have that option either.Overall there are pro's and con's to this camera but that will be the case with most of them. The lack of memory card was disappointing to me and the short battery life are the two biggest con's. There are much more good things about this camera than bad. Some of the cool options are the night vision, crisp video, audio recording, motion sensing option, expandable memory and easy installation. It's not perfect but I would recommend this as a very good low cost and easy way to add a very decent car cam.Sample provided for review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to install and pretty good car cam DVR but doesn't include memory card </p>
+
+
+<h2> review.date </h2>
+  07-14-2014  
+<h2> review.text </h2>
+
+ <p> This a really good loop video recorder if you can figure the manual. If the company invested in a new manual I would give this 5 stars. The camera is great, can take still or video images, the sound is okay enough to hear what is going on but not high quality sound. You do need a good microSD to work in the unit but other than that is pretty self explanatory to get this up and running. The manual doesn&#8217;t help too but if you have a little knowledge or are savvy you can figure this out. I would recommend this to you if you are just a little savvy.I received this a sample from the manufacturer in exchange for the fair and honest review you read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product - Terrible Manual </p>
+
+
+<h2> review.date </h2>
+  06-29-2014  
+<h2> review.text </h2>
+
+ <p> First off - I like this camera - It isn't perfect, but it sure gets the job done. I now have two of these - bought a backup unit from this company, but have the exact same unit from my first purchase of one from Ebay.This said, using these requires a learning curve. I plugged in on getting the first one and began using it and figured it would be like any other camera. Not quite. Car DVRs have some unique characteristics that you need to get used to:1. Heat - The lenses in these cameras are sensitive to heat and the entire camera will lose focus if it gets too hot. So, when I park after driving with the unit on, I pull the unit down and get it out of the sun. Keeping it cooled to a reasonable level seems to help. I also adjust my air conditioner to blow air up to cool the camera during driving on hot days. Keeping it cooled has helped overall performance.2. Do NOT use a class 10 SD card. Go with class 4 or 6. I was having all kinds of troubles with freezing up of videos.  Once I went to a decent class 4 card, things improved immediately.3. After a couple of months of daily use, the camera began suddenly stopping during record. I could not for the life of me figure what was causing it. After some experimentation, I found that letting the camera stay connected to always on car power and to charge up fully, even though connected to car power during my driving (which you would think wouldn't matter), helped. I have not had a single recording session stop since I started doing this. Give it a try if you are experiencing these symptoms.4. Related to the power charging issue, I found that I also got better performance by turning off the screen during recording. You do this by holding down the left-most button once the unit is on. It takes less power and obviously helps the battery life and to keep the unit running smoothly.5. The rear camera is a really sensitive to reflection in my Mustang. I believe I'll want to position it lower down to catch less of the reflection that from where it is positioned now. Suggest you test this before permanently taping the camera down on your install. Note that the video from the rear camera is indeed much reduced compared to the front camera. Also, make sure, when you put the camera into the car, that the rear camera jack is all the way in. It often feels like it is fully in and you have to really look to be sure.6. I have a second camera, a Kodak camcorder, in the car that I run as a secondary camera and it is positioned to be turnable to catch action as needed. The dual cam unit is fixed and cannot change angles easily. The second camera is good insurance to have as a backup. Once I stop driving, I pull that camera down and take it with me and charge it in the office or at home before the next drive in.7. Back to the SD card. Format it with the utility on the camera. I've had the best luck doing my formats from the camera itself and not with PC formatted cards.8. About once a week, I pull the camera out of the car and download videos to check that I'm getting good video. I use a 32 gb card and I can get about a week's worth of commutes on the card. It pays to check that everything is recording like you *hope* it is doing. Having the backup camera in the car is your insurance that you are indeed getting video no matter what.9. Sound - not the best, but it gets the job done. It is really basic and you do get a lot of road noise in there.10. Resolution - Not the best and it is difficult to get license plates. Here in Northern California, our drivers tend to get nuts on the freeways and pull some really interesting stunts. Rather than depend on the camera to catch the license plate, I read it off so the audio can catch it to be doubly sure I've got it for posterity. I am still mixed about using 1080p versus 720p - I'm still testing the different modes to see what I like - Right now, I'm on 1080p.Overall, a real learning curve. These less expensive cameras do  work, but you need to learn how they actually work and to hit the car camera forums and learn from the pros who have been doing this a long time. The main thing is to pay attention to the camera and learn what is really needs from you to make it work at it's best. Once you do that, you'll have a pleasant experience using the camera to document your driving adventures. Good luck. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good camera - Some lessons learned after several months with one. </p>
+
+
+<h2> review.date </h2>
+  07-12-2014  
+<h2> review.text </h2>
+
+ <p> We all need these in Atlanta, there are lots of bad drivers from Cobb county </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not my fault on camera </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> I don't know what's wrong with it but you cant even understand the audio of this product. I will buy a better quality next time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very poor audio </p>
+
+
+<h2> review.date </h2>
+  05-14-2014  
+<h2> review.text </h2>
+
+ <p> When I received a review sample I read through the existing reviews and found Rodney Cyr's February 23, 2014 and M. Song's April 10, 2014 reviews to be extremely helpful. Since they covered this kit in complete detail I will provide a few observations and experiences during my own testing and use, and reasons why I gave this five stars.My biggest surprise was how easy this was to install. I spent a career reading arcane military tech manuals, so to me the combination of instructions and the clear markings of buttons and ports on the camera were a big help. I will concede that if you are non-technical you may find the instructions a little obtuse, but the design of the camera is pretty intuitive. Or it was to me.Some reviews mentioned that the display came up in Chinese. My unit came up in English, so I am guessing that the default language has been changed for US sales.I have a love/hate relationship with the actual display. I love the fact that the rear view video is displayed as an inset, but my sixty-five year old eyes had some trouble seeing what was going on in the inset. I would love to see a future model come with a button that allows you to swap the rear view to the primary view when you are backing your vehicle. That is a personal wish and not an indication of a flaw. The fact that the small display screen allows both views simultaneously is impressive.Overall, this is an amazing kit that is perfect for looping video for accident analysis if you live in a high-accident area, as well as a convenient way to see what is behind when parallel parking. Of course, it also makes a great trip recorder when traveling through scenic areas. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very functional and easy to use </p>
+
+
+<h2> review.date </h2>
+  03-19-2014  
+<h2> review.text </h2>
+
+ <p> The DB POWER HD 720P X2 Dual Lens Dashboard Car Vehicle Camera Video Recorder records well. The play back is really nice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great </p>
+
+
+<h2> review.date </h2>
+  04-10-2014  
+<h2> review.text </h2>
+
+ <p>  </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great dash camera on budget </p>
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> This is my third dash cam.  By now, I think I know what I want and don't want in a dash cam.  This dash cam combines some of the features I like from the previous two dash cams.  I took it on a two week trip, and it has performed very well.MOUNTINGThis dash cam is suction mounted, as opposed to my previous dash cam which mounted to the rear view mirror.  I prefer suction mounted dash cams because the mirror mounted dash cam blocks my backup cam video.Mounting on my windshield doesn't block my vision at all, because I mount it behind my rear view mirror.  I've had this mounted on my windshield for a couple of weeks in triple digit temperatures and the suction hasn't failed me yet.POWERThe dash cam does have a battery, but it doesn't last long.  I charged it up and it lasted me as I drove to my daughter's school and turned off as I was coming home.  I'd say it was about fifteen minutes.Instead, I use a mini USB cable and plug it into a USB car charger.  Having a cable hang down as I'm driving isn't distracting at all.  I thought it would be with my initial dash cam, but I let it hang and it's just fine.  I do that with all my dash cams.  That way, I never have to worry about turning the dash cam on and off, because it will turn on and off automatically.  It also means I don't have to worry about charging the dash cam.DISPLAYNot all dash cams come with a display.  My first dash cam did not, and it was a pain to have to remove the memory card and check what's being recorded.  This one has a display, which shows exactly what is being filmed.  I can review the videos and program the dash cam without ever removing the dash cam from the car or taking out the memory card.SETTINGSMy first dash cam required me to take out the memory card and use software installed on my computer to change the settings.  My second dash cam could be customized via the display, but it difficult to learn.  This dash cam is the easiest to use.  Changing the settings can be done via the display and it is completely intuitive.  I didn't need to read the instructions, except to figure out how to choose a selection.  FYI, once you make a pick, push the button above the camera as if taking a photo to finalize the setting.WHAT IT'S MISSINGThis dash cam has a wide angle lens.  They all do, but it can view in one direction only.  My second dash cam had two cameras that could be adjusted 360 degrees around the car.My first dash cam not only recorded video, it also had GPS capability, showing the direction, speed, and location on a map that could play alongside the video. Not this dash cam.WHAT THE OTHER TWO DON'T HAVEThis dash cam is supposed to be able to record video if the car gets hit while it's parked and I'm away.  Fortunately I haven't had to see if that works.  I hope if the time comes, it does work.  This is the only one I've owned that makes that claim.OVERALL IMPRESSIONThe is the best of my three dash cams.  It has a display, it doesn't block my backup cam, it's easy to program.  I prefer a suction mount made with the gel pad, but this one is hanging tight so far.  It's a keeper.This product was provided for review by Bravolink. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compared to Two Other Dash Cams </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> I received the product on time despite the sub zero cold weather we had that week. The wide angle lens is only 120 degree lens, so do not expect 160 degree angle as advertized.  This product is good dash cam for the price and the seller have a great follow up with the buyer for any issues.  I would suggest to use the 720P mode instead of the 1080P, you will not able to tell difference.  This product would have been great if is a true 160 degree angle lens and a true 1080P HD dash cam.  I would not mind paying more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 1.5 Inches 1080p Hd & 160 Wide Angle Lens & with 12 Ir Nights for Night Vision </p>
+
+
+<h2> review.date </h2>
+  07-12-2014  
+<h2> review.text </h2>
+
+ <p>  </p>
+
+
+<h2> review.summary </h2>
+
+ <p> instructions? </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> After two days in my car, the unit is working fine.  It is very light-weight, and the suction cup holds it firmly to my windshield.  It also comes with an adhesive pad, but I haven't tried it. The power cable (12v) is long enough to reach an outlet in the back of my car, leaving the other outlets free for other use.Video clips can be either 1, 2, or 5 minutes.  Important videos that need to be saved are, therefore, smaller if you choose 1 or 2 minutes.I haven't yet figured out how to mount the rear-view camera.  It mounts with an adhesive pad, but there is no place in my car that provides a suitable rear-facing surface.  (This is, of course, not the fault of the unit.)  The rear-camera cable is too long for my compact car, but would probably reach to the back of a full-size passenger van.According to the specs, it takes a maximum of 32gb (micro SD) but other users have reported success with 64gb.The video is much better than from my previous auto DVR.  It records sound too, a but muddy but probably adequate.So far I have recorded 105 minutes of driving, using HD (720P) video, and used a little over 5gb, suggesting that I could record about 500 minutes (8+ hours) on my 32gb card.  This was with only the front-view camera.I took off one star for the poor manual.  It took me some time to figure out how to get into the menu to change the options.  The manual wasn't very helpful.  I am trying to find a downloadable manual that might be better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good video and low cost, with a good choice of options, but a poor manual </p>
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> This is a decent little in car dashboard camera that also includes a decent quality image as a backup camera.Just don't expect a manual that is easy to follow or understand.Setup is fairly straight forward, thankfully. You can choose to mount the camera to your window with an included 3M sticky tape or mount it to the windshield with a suction cup. I chose the suction cup option as I don't feel like dealing with residue at some point on my window.The included backup camera is optional, but easy enough to mount/install. I actually just mounted it with the sticky tape to the hatchback of my Outback. It's not as good as mounting to the rear license plate area, but gives me enough visibility to see what I need.You can choose to record 1, 2 or 5 minute clips. 2 minute clips are good if you just want to record something important without too much fuss, you just create more files than you would if you used 5 minutes. Something that would be nice, but not included, is a continuous record option. I don't mind editing my own videos down to size so that would be ideal for me.The image on the screen is OK in quality and you can make out objects nicely. You can choose to display just the front, just the rear or a Picture in Picture version.The DB Power car recorder is a nice device, offers good quality and works well. The manual could be better, but a little common sense will get this mounted and working in 20 minutes.Recommended.I received a free sample for review purposes from the manufacturer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent image quality, easy to use </p>
+
+
+<h2> review.date </h2>
+  07-12-2014  
+<h2> review.text </h2>
+
+ <p> I've been trying out a new toy lately... the DBPOWER Car Dash Recording Camera. It's my first experience with a dashcam, and it's something I want to start using on a regular basis (for video evidence should anything happen in terms of accidents). This isn't a perfect camera, but it's an interesting option for the price.The camera is very light, and it mounts well to a window surface. With the 140 degree angle of viewing, I got a true representation of what I was seeing through my windshield. The video quality was excellent with the 1080p shooting, and you can also set it for lower quality in order to preserve space on your memory card. I ended up with a 1.9GB 20 minute video at 720p (recorded in .mov format), so plan accordingly for what size memory card you'll need. The camera was fairly easy to set up... you turn on the power, the video display comes up, and you can scroll through the options to set things such as auto on/off, the level of shock dampening, video resolution, sound recording, etc. For a dashcam less than $50, the feature set was excellent.There are a few things that bothered me, however. The manual is marginally useful. It's translated from a non-English source, so the phrasing and content is odd (and bizarre) at times. You're pretty much on your own when it comes to options and functionality. The other thing that bothered me was the amount of charge in the battery. I charged the unit completely and then took it out to my car to record a trip at 720p with sound. The battery completely died at the 20 minute mark. It's almost a requirement that you'll have to use the charging cord plugged into an in-car charger to use this, which means you'll have a cord dangling down from the top of the windshield.Bottom line... this isn't a challenge to a camera like a GoPro, but it's only about a quarter of the cost, too. I think this would be a good option for someone who wants to see if a dashcam is something they'd like to use on a regular basis, but they don't want to spend a couple hundred dollars to find out.Disclosure:Obtained From: ManufacturerPayment: Free </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good way to see if you want to use a dashcam on a regular basis... </p>
+
+
+<h2> review.date </h2>
+  07-10-2014  
+<h2> review.text </h2>
+
+ <p> As in other post, you need kind of a hack through the menu brain. I was lucky that I do. Instructions really don't tell you much at all. I am NOT kidding!. FIRST, don't forget to charge it for at least 3 hours!!! If you don't it will keep turning on and off. I learned that from this post. I have mine set to 720p and it looks great in the daytime! As far as night in the city lights it is OK and will catch up close action but not far off. In the day time I can read tag numbers only at stop lights or within 3 to 4 feet from the other car. Second, I can read business signs in the day very clear. And as far as traffic while moving it does great. No jerking video.ONCE the unit is setup using the car charger it is almost set and forget. When the car turns on (DC Power Plug or you plug in and unplug) it starts up automatically and after 3 mintues (I set that in the menus) the screen will go blank and the small blue LED assures you that the unit is recording. When the power is turned off it will stop recording and power down (Settable). I have been getting good results so far the past week with a 32 GB Mem Card CLASS 10. I will keep using it and give an update.WHY THREE STARS? Not sure about it's reliablility yet but so far it is working normal AFTER the painful setting it up. I WOULD give it 4 stars when I am happy with its reliabilty. SO, don't take the 3 stars as bad. Just I am leary of the other post with the problems. I have had only one and that is that the car charger is wired wrong or something. Had to buy a new one from wally world for $7.00. It was thinking with the original that it was connected to a computer. AND YES! WIth the USB to MINI USB cable you can copy and play all your videos with date and time stamps! Neat. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Crossing fingers that it is real. Good so far! </p>
+
+
+<h2> review.date </h2>
+  07-21-2014  
+<h2> review.text </h2>
+
+ <p> So the main camera is 720p and is clear enough to make out license plates while the second camera is 480p and is still clear enough to make out some of the license plates. The power cable and auxiliary camera cable are thin and long enough to wire into a mid-sized SUV (2012 Jeep Grand Cherokee). I threw a SanDisk Ultra 32GB MicroSDHC Class 10 into it and it is recording just fine. The camera is great in the daylight but sucks in the night.I gave it 4 stars because of the bad night vision and the viewing angle is not the best. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I threw a SanDisk Ultra 32GB MicroSDHC Class 10 into it and it is recording just fine. The camera is great in the daylight but . </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00ALNR3E2 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-13-2014  
+<h2> review.text </h2>
+
+ <p> I like this radio. It truly floats and has no issues with water ingress.I purchased this for the 1,2.5,6w power selection along with being able to float and receive weather info and alerts.As a side bonus, it also has a built in bright white led that flashes sos if you enable it (not sure how far this would be visible in an emergency situation though). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So far so good. They work and float. </p>
+
+
+<h2> review.date </h2>
+  08-05-2013  
+<h2> review.text </h2>
+
+ <p> UPDATE:  A test of this feature showed that the Uniden VHF has to be turned on first before the MMSI distress transmission can be sent.  Uniden Customer service was incorrect on how this works, but it does work.A call to Uniden Customer service revealed that the Distress Call button turns on the radio, activates the GPS and sends the MMSI codes out, even if the radio is turned off when that button is activated.  That is a very useful piece of information and feature on both the MHS135 and MHS235 radios.  And for some reason it is not covered in the Owners Manual. In an emergency you do not have to turn on the radio itself or wait for anything else to happen. Just activate the Distress Call button and go.  This is well thought out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DSC calling </p>
+
+
+<h2> review.date </h2>
+  07-26-2013  
+<h2> review.text </h2>
+
+ <p> This was bought to replace an older model that went overboard. Works great, much lighter and it floats! Great for a fumble fingered crew. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good value </p>
+
+
+<h2> review.date </h2>
+  07-11-2014  
+<h2> review.text </h2>
+
+ <p> Never worked.  It was DOA right out of the box. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Never worked. It was DOA right out of the ... </p>
+
+
+<h2> review.date </h2>
+  06-15-2013  
+<h2> review.text </h2>
+
+ <p> It does every thing I wanted ,Great Radio .I wish I had waited for the Blue Tooth though .That is the only reason I did not give it 5 stars </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Two way VHF Radio </p>
+
+
+<h2> review.date </h2>
+  07-15-2013  
+<h2> review.text </h2>
+
+ <p> This is a good radio, and it floats.  The battery hasn't quit on me even with several hours usage at a time there's plenty of juice left.  I don't know why they put the volume control on the panel as an alternate keyed option, that's a little odd but I got used to it.  All in all a good product.  I fish from a kayak, so I attach the hand strap to a small retractable leash on my PFD.  I don't even notice it after a while. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Marine VHF Radio </p>
+
+
+<h2> review.date </h2>
+  07-25-2013  
+<h2> review.text </h2>
+
+ <p> I purchased this radio as a replacement for an older unit I could no longer get batteries for. This radio far exceeds receiving and transmitting range of my other 2 VHF radios. I use it to keep in contact with pilots in remote area's and have been able to clearly hear and transmit up to 20 miles. Absolutely wonderful!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good handheld VHF </p>
+
+
+<h2> review.date </h2>
+  06-08-2014  
+<h2> review.text </h2>
+
+ <p> ... It seems very well built, good quality, BUT, there IS one weak point... the battery packs! Not so much the charge-holding ability (Though I may have more input on this point after more time), but as to it's being WATERPROOF!(?). I took this out on the ocean and of course it got wet. When I inspected my gear at home, I noticed the contacts on the battery pack showed some RUST! Also, I brought the 'AAA' battery pack and opened it, the contacts inside ALSO showed rust!! I'm guessing a quick fix would be to put a small bead of silicone where a waterproof GASKET should be!!! (BAD follow through on the design!!!!). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VERY GOOD! BUT... </p>
+
+
+<h2> review.date </h2>
+  01-01-2014  
+<h2> review.text </h2>
+
+ <p> This is a well made and well regarded emergency marine radio I hope I never have to use. Its in my emergence canoe touring case if I ever need it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For those unwanted emergencies </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> This radio is a great value.  In addition to being a radio, it is a self-contained emergency call system.  Once you program it with an MMSI number (and you should), you need only press the &#34;distress&#34; button, and the Coast Guard will know (a) who you are, (b) exactly where you are (because of the on-board GPS), and (c) that you need help NOW.  You don't need to be able to speak, or to be coherent about your situation.  This puts your 17' sport boat on the same safety footing with larger well-equipped yachts.  It's a great backup for any boat, as an electrical failure, fire, or rapid sinking is always a possibility. Grab and go, even into the drink.As a radio alone, I am not so convinced as to its range and clarity in comparison to other handhelds, which is the only thing preventing a 5-star rating.  I'm sure there are portables that are a little better, but for the price, this little guy does a heck of a lot!  I originally envisioned it as the only VHF radio on my 23' boat, but I will probably ultimately install a fixed radio and a proper antenna as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great value as a safety device, and is also a radio </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> So far so good. reception has been fine. Some comment about battery issues. I understand batters plus sells them if you cant find any where else. Love the radio glad Amazon had it. No complaints. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> never boat with out this </p>
+
+
+<h2> review.date </h2>
+  06-15-2014  
+<h2> review.text </h2>
+
+ <p> The description given by Uniden is very detailed and accurate. Also, I charged it once and it's kept a full charge for over 3 weeks now. I used it to listen to the robotic weather forecast a few times and fooled around with the squelch and other options often too. What I liked about it and got a kick out of was I wanted to ask my dock master something. I was about to take a long walk through the maze of docks and decided to use this. He came in super clear like he was in the boat with me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad for my very first Two-way VHF </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> This radio is very intuitive.  I can easily change channels and regulate volume and squelch.  It stretched my budget a bit to buy it but it is worth every penny.  Compared to other portable VHF radios with similar features, this one is a bargain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great value for a boater looking for reliable communications. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

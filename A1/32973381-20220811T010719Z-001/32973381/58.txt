@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B002QQ8CC4 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I've switched, why haven't you? </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-02-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Being in the IT field (Windows mostly) for about 20 years, I got tired of cleaning out machines at work full of spyware and malware and viruses and bought the mini and I'M IN LOVE for the first time in 20 years!The ONLY thing I don't like, and this is being picky, is no power on, when power is restored and the power button is in the rear of the unit which means leave it on all of the time or put it someplace where you can easily turn it on.  That's my ONE AND ONLY CRITIQUE!  Oh and there's no remote with this unit.  I thought it came with one but it does NOT!  No problem for me since I already have an iPod Touch. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent desktop in a tiny little size </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-30-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I had a Macbook that was hooked up to an external monitor, keyboard, and mouse. I got the ipad the day it came out and have never used my Macbook as a portable device since. So I decided to sell my Macbook and get a Mac Mini instead and it's been a great choice. Good speed, a decent size HD, plenty of ram, and a good video card. It has plenty of ports and setting it up with all my external stuff was a breeze. For those on a budget and who don't need the portability, the Mac Mini is a great choice. It's built solid and extremely quiet. I'm glad I bought it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Glad I switched to MAC! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-05-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Purchased this Mac Mini to replace my Dell desktop. I was thinking about iMac but since I already have a 22" monitor and I wanted to get used to OS X, Mac Mini is my choice.  The total time I spent on setup from unboxing to setting up mac account was less than 15 minutes.  In case anyone wondering about "Frustration-Free Packaging" Amazon still ship the actual retail box but it was packaged securely in a plain brown box and it was very easy to open.  Once it is setup, the software update ran and after rebooting I am all set. It runs very quiet and does not take a lot of desktop space.  Now the hard part is getting used to OS X :-)  Overall I am very happy switching to Mac. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantastic. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-17-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> My Macbook Pro did not care much for the cup of coffee I gave it, so I had to replace it.  I looked at getting another MacBook, but really did not like the idea of paying a premium for a portable machine that rarely left my desk.  Similarly, an Imac was pretty high priced due to the built in monitor, and a Mac Pro is just plain pretty high priced.  I was contemplating building another Windows machine, but I remembered what a pain I've had over the years maintaining them while the past 2 years with my MacBook were a joy.  Unfortunately, I also thought about the fact that I had to replace my Mac computer with another Mac computer or lose all of my programs and data. (At least without going through hoops.)  Fry a Sony, and you can buy any number of Windows computers, fry a Mac and you need a Mac.I decided on this Mac Mini as the least expensive means of replacing my lost processing power/space.  The recovery of my data was incredibly simple, the easiest I've done in 30 years, and most of those were not successful.  I'm definitely now sticking with with a Mac for life.  The time saved in getting going again, less than 12 hours from ordering a replacement and getting it Saturday Overnight delivery, and only taking 30 minutes to do the recovery, in contrast to the days and days I used to spend trying to buy identical HDs for finicky backup programs, and changing all of the device drivers, not to mention activating Windows again through a drone that doesn't know I bought a new machine, was well worth any price difference with this Apple product, even if it had any competition.**** Turns out this is not a problem, see comments **** The only problem I have is that the 2 video ports, the mini-DVI and the Display Port, cannot be used at the same time.  Nowhere is this mentioned in the sales descriptions.  I even purchased the ridiculously priced Apple Display port to VGA adapter to no avail.  So, I had to buy a USB to DVI converter, and the quality and speed of the display is just not there.  It is maddening trying to view a Photoshop picture on one monitor and all of the tool windows on another low picture quality monitor.  If I had known in advance of this limitation I would have taken the time to go to an Apple store to see if it worked OK, and might have ended up with something else.  I haven't had a computer that supported only 1 monitor in over a decade.But, this is a great little machine, and if you really want something to be portable, even small enough to throw in a safe, this thing is about $1,000 less than a comparably priced MacBook Pro with all the advantages of OSX. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Better and better! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-29-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Mac mini is getting better each year. This is the fourth one I've owned (for home and business) starting with a G4 a few years ago.The 2.53GHz 2009 model is quite speedy and has good graphics. You might not want to play high end 3D games with a mini but everything else, including HD video works just great.It's very quiet, with only a whisper of a fan. It'll drive two displays if needed. It has five USB ports which I usually have filled. And Firewire 800 lets me attach a big fast external drive.Highly recommended! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I'm in love - this is way better than a Windoze desktop </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-09-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I received my Mac Mini 4GB within 2 days after ordering from Amazon. I unpacked the box, added an external keyboard and mouse, used the mini-DVI to DVI adapter that comes with the box, to hook it up to my Dell 21" display. It took all of 5 minutes for the Mac Mini to power up, set up my account and I was good to go. This is way, way better than Windows. No bloatware, no anti-virus junk, no annoying pop-ups, none of the garbage that you get with Windows. The box itself is tiny and fits beautifully next to my monitor. I think Apple should just bundle in a keyboard and mouse. Yes, a Mac Mini is pricey relative to a comparable Windows box but it is well worth the aggravation saved.And beside if I need Windows I can just run it within Vmware Fusion or Virtual Box (free).I already own a MacBook Pro and several Windows laptops. I needed a desktop for home use where I could centralize all my music files and photos and this fits the bill perfectly. It's relatively quiet - atleast compared to a Windows machine. It's design is pleasing to the eye. I miss having an iSight camera built in - but I guess you could buy an iMac if a camera and display mattered to you. Snow Leopard looks stunning on my Dell monitor. I also don't like that Apple forces you to spend a lot of money to get their keyboard + mouse but besides those negatives, this is a great computer for home use.Finally, I supposed I could have saved $100 by buying the 2GB model, prying it open and adding my own memory. I was nervous about doing that so I paid $200 extra for the 4GB model. If you plan to run apps such as Aperture/Photoshop, or any virtual machines, you should have atleast 4GB. One downside of the MacMini is that it isn't expandable. But that is a minor downside. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It just works. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-16-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was a pioneer in my family when it came to mac computers. I switched back when I first started law school, and have been using them ever since for home use. This has been my favorite mac yet!For starters, the computer is nearly silent. There is no discernable noise coming from it unless the fan is on, in which case you'll hear noise from the fan! Second, the mac connected to my Samsung P2370HD monitor without a problem. It comes with a mini apple display cable, which you then need to hook up to another DVI cable, which is then connected to your display. I do find that the display connection is somewhat wobbly. Hopefully it will hold up. Also, the mini is always cool to the touch, even when the fan is on.The most important thing for me, however, was that the computer be a fast computer. I can tell you that this mac is really fast. I use the computer primarily to surf the web, use microsoft word, watch videos on YouTube, play music in iTunes, and occasionally watch movies on. I find that the computer is incredibly fast for these tasks.So, to sum up:THE GOOD1. The computer is almost totally silent.2. Runs cool.3. Very fast for every day tasks.4. Hooks up easily to your monitor.THE BAD1. The connection for the display port is loose and wobbly. I have tried to secure it, and have not lost a signal to the monitor yet.I love this computer!!!!!! If you're looking for a no-hassles, fast, little, quiet computer, this is it!!!!Hope this helps!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I love macs !!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-02-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's my fifth mac dating back to a dual processor G4.  I currently have two (24 and 27 inch iMacs) and wanted another small system to be used purely as a video server driving a 52 inch Sharp Aquos.  Typical easy setup and everything has worked flawlessly so far.  No complaints. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great, Great Little Box That's Been Replaced </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-05-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> [Update June 15, 2010: this version of the Mac Mini has been superceded by an even slicker looking, smaller, more powerful model. Unless you can get this model at a great closeout price, I would get the newer Mini. It looks great.]First of all my credentials, I have been writing Mac software since 1992. I've had on my various desks a Mac Plus, Performa 605, PowerBook 100, several iBooks, PowerBook G4s, MacBook, PowerMacs 7600, 8100, G3, G4 and G5, a couple recent generation iMacs and a previous generation Mac Mini. I have seen Macs come and go, and I just love this little desktop. It is exactly what I need for compiling a large desktop application using Apple's development tools. What I need is a reasonably fast processor, Firewire, 4GB of RAM and multiple monitor support. I do not need a huge box filled with disks. I do not need some super fast GPU. I do not need PCI cards. If I did, then yeah, a Mac Pro would be sitting under my desk sucking up the Watts.My company has also provided me with a monstrous, fully loaded, Dell whose case could hold upwards of 30 Mac Mini's. In the one processor intensive task I do--doing a full rebuild of a large C++ application--the Xenon processor and desktop hard drives in the Dell can complete the task in 6 minutes while the Core 2 Duo processor and laptop drives in the Mini can do the task in 13 minutes. If I were doing that task many times a day (as opposed to several times a week) then I would need to move up to a high end iMac or Mac Pro; but I don't and I can live with the more typical single change, compile, link time of 14 seconds on the Mini versus a very erratic 6 seconds on the Dell (for whatever reason Visual Studio on the PC will sometimes take over a minute to do this).Why is this Mac Mini a better value than the MC238LL/A at the lower price? Because it adds more RAM, a larger hard drive, and a slightly faster CPU, and I don't have to pop it open to max it out. All three things together make it worth the extra dough. If you are just going to use it for a home theatre PC, as many people do, then added expense is probably not worth it and you should go with the lesser model.Why would you choose this over a current generation iMac? The iMacs are great machines, and can be ordered as quite the powerhouses with i5 or i7 processors, and with desktop level graphics engines, but they might be overkill and in the long run it may not make sense to be ordering machines where you can't reuse the previous machine's monitor. If you have a monitor already, the Mini will be several hundred dollars cheaper. Also, if the monitor has multiple inputs, the Mini bought today can be retired as a home server in a couple years with the Mini of the future stacked upon it sharing the same monitor. While the newest iMacs can be used as an external Display Port monitor, its still a bit inflexible tying the computer to the display.  Having said this, I like the iMac too, and if you need a monitor and have the room, it may be the way to go.Why is this Mac Mini much better than previous Mac Minis? The Mini has had several value adding changes over the last couple years: going from PowerPC to Intel, adding multiple monitor support, adding FireWire 800 support, and getting a decent GPU in the NVidia 9400M. This is a real computer. Not some dinky Ion laptop. It can do computationally intensive things, like in my case compiling hundreds of thousands of lines of C++ code.  And yet it is tiny, and quiet.So, yeah, I like this box.What about the nearly as compact Dell Inspiron Zino HD? Well presumably you would buy the Mini because it is a Mac. The Zino is certainly cheaper, and is a valid competitor if you were setting up a home theatre PC, and could use the slightly better video card and Blueray option. If I were buying a Mini just to run Windows Media Center, I'd certainly be open to getting a Zino. I don't see an overlap between the uses of this non-home theatre Mini and the more multimedia centric Zino. I think you will find the Mini better made and faster at processor intensive operations: and it's definitely smaller.Anyway, installation could hardly be simpler. Pop it out of the box, plug in a keyboard and mouse. It comes with a mini-DVI to DVI adaptor which will connect to any modern monitor, and you can get a mini-Display Port adaptor separately to add multiple monitor support. Power it up and you will soon be computing.  It's nice, fast and quiet. Plenty of USB ports (5). Add up whatever peripherals you need: speakers, external hard drives (look at getting drives with Firewire 800, they are much faster and reliable than USB 2.0).My wife has an older Mac Mini which she runs Windows Vista in Boot Camp mode and has done so without problem for over a year. I would think this Mini would be even better as a Windows 7 box with the much improved graphics chips allowing for better use of the Aero interface. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> POOR AVCHD / BLURAY SUPPORT </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-12-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Unbelivable that macs do not support AVCHD or bluray nativelly .Anyone who has bought an HD camcorder in the last 3 years will be frustrated trying to use a mac to edit there videos. APPLE's solution is either to use there own codec which either creates very poor qualty videos almost like standard definition  or creating huge files 5 times the size of your original. Even worst is that they deliberately cripple there dvd drives using some feature called Riplock that slows the dvd drive to a crawl if you wish to backup your dvd collection. I gues it's back to windows untill Apple solves these problems </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good things come in small packages </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-03-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've heard this called a "starter mac", but I beg to differ.  For the price and size, it packs a nice punch.Now, I haven't done any benchmarking tests on it, (but most users wouldn't either), and I also wouldn't do anything super resource intensive like professional video editing, but for everyday use, it's quite nice.BEST FEATURES:1.  Size - At 2 inches tall, It fits nicely under my monitor right on the desktop.  All the usb ports, etc. nicely lined up in the back, with the dvd slot on the front.2.  Performance - considering what some other macs cost, this is a good deal.  I was initially concerned that this wouldn't run all the programs I like to use without getting bogged down, but haven't had a problem with anything, including multiple Adobe CS5 programs, which can be unnecessarily resource intensive, or video editing.3.  Peace and quiet - this thing makes no noise at all!  Seriously, you wouldn't even know it's running!4.  Dependable - I've had no issues whatsoever.  I once accidentally forgot to shut it off when we were having terrible power surges.  I was surprised to find that it wasn't affected at all.  No constant reboots, no freezes, just reliability.  Can't say that for any of my Windows PC's.5.  Software - Comes with a nice set of apps that are easy to use.  I especially like imovie, which contains lots of nice features for a built in program.  If you are switching from a PC, definitely take a look at the mac site first, as there is a set of tutorials that will help you make the switch.  Once you get the hang of it, it's definitely super simple to use.In short, although there are those who might refer to this as an entry level mac, it's still quite a nice unit, at a very affordable price and should be more than adequate for most users. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Finally a good value </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-30-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> The previous dual-display-support Mac mini was introduced on 3/3/09. It's been just half year and it is updated already. Considering that the previous model are essentially identical (2.0GHz) and the 2.25GHz 'custom made' model was a $200 option, this is a nice upgrade. With the previous version, the value was in the entry-level model ($599), because the $799 model packs in useless 1GB x 2 and 320GB hard drive, which is practically worthless nowadays, it made sense to buy the entry model and put in the RAM and hard drive.Now the differences are:160GB vs 320GB2GB (1GB x 2) vs 4GB (2GB x 2)processor is 2.53 vs. 2.25GHz160GB is all over my floor anyway, so it's valued at $0.320GB should be valued at $602GB (1GB x 2) = $0, because 1GB modules are all over the floor and worthless.4GB (2GB x 2) = $80 and on the rise.When the actual price difference of $200 and the value difference of $140 tossed into the washer, $60 come out of the wash.This means the 2.53GHz vs 2.25GHz difference is valued at $60. As the added speed is translated into productivity, this $60 difference is well worth it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Oct 2009 Mac mini Computer (MC239LL/A) </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-01-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I thought that existing owners of earlier Mac mini Computers might find my observations useful.I recently purchased a used Mac mini (the MC239LL/A released in Oct 2009) to replace a spring 2006 mini (first generation Intel with Core Duo processor).My 'old' mini has the much maligned GMA 950 graphics processor and, although it has worked OK for playing DVDs (and fine for audio tasks), that seemed to be about as much as it could do (trying to play some high resolution videos was completely unsuccessful with much video 'stuttering' and freeze-ups).When the revised Intel minis were released in the spring of 2009, with the Nvidea GForce 9400M graphics device, I wondered if it might provide a genuine improvement over my 2006 mini.The answer is a resounding yes ! It may not be as fast as a PC with a stand-alone video card but compared to my first generation Intel mini the Oct 2009 mini is a race horse.Although the mini 'Wikipedia' article (a storehouse of information) says that the Oct 2009 minis have to run 'Snow Leopard' that is not correct. I've been running my 2006 mini off an external FireWire drive for several years and, when I got my 'new-used' Oct 2009 mini (once I made sure that it booted OK off its internal drive - with Snow Leopard installed), I hooked-up my FireWire drive and rebooted the Oct 2009 mini .... it came up without any problems (there were a couple of 'changes are detected' messages but I 'clicked-OK' and that was all).What forcefully showed me how much better the Oct 2009 mini was than the spring 2006 mini was that it is now possible to play a DVD, running in Windows XP that is itself being run under VMware's 'Fusion' environment which is running as a Mac OS X application. That was totally impossible on the older mini (spring 2006; first generation Intel CPU). (Note: the software being used to show the DVD in Windows XP is the 'VLC' application. I tried to load an old version of 'WinDVD' but kept getting peculiar error messages and, from everything I read off-the-Web, no-one has been able to get WinDVD to run in a 'virtual' environment. When running XP from 'BootCamp' there was no problem on the old mini to run 'WinDVD 8'.)Now you may be wondering why I bought a used mini from Oct 2009 instead of the recently released (June 2010) minis ? Two reasons : money and some future planes. Although the most recently released minis (June 2010) have an even faster video processor (Nvidea GForce 320M) than the 2009 design from what I've been able to tell (reading) it does not seem to show the great improvement that was immediately apparent when the 2009 minis were first released in March 2009. I was able to buy my Oct 2009 mini for what I thought was a bit more than a hundred dollars less than a new (2010) mini (my 2009 mini has 4 GB RAM) would cost me and, in the not too distant future, I intend opening-up my 'new' mini to gain access to its two SATA ports. My ultimate goal is to have two 3.5 inch SATA drives connected to the 2009 mini and it seemed foolish to spend the money for one of the sleek now 'unibody' minis when I'm planning to do that. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Most underrated computer on the market. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-01-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> The mac mini does it all and then some. I've been a Mac Mini user since 2007 and just recently upgraded to the later 2009 version. The Migration Assistant had all my data and applications (100 GBs worth) moved from the 2007 Mac Mini (mm2007) running Leopard to the 2009 Mac Mini (mm2009) running Snow Leopard in about 3 hours. I did have to update three applications for Snow Leopard but that was expected and wasn't a big deal. In all the transition was smooth and much better then transitions to new PCs I did with Windows before 2007.The performance bump from the mm2007 to the mm2009 is noticeable, especially with video and gaming. Overall the Snow Leopard OS and the upgraded specifications just make for a better "daily driver" experience. That's not to say that the 2007 was bad, it was great actually and left me wanting more; it did well as a multi-functioning computer for the last two years but I did need the extra horsepower for work and soft gaming.Unless you're a hardcore gamer that needs to be able to play the latest games instantly, there really isn't a need for a Windows PC at home. If you need Windows then buy VMWare Fusion, I used VMWare Fusion 1 and 2 on the mm2007 and they worked great running Windows XP within Leopard (needed for telecommuting). I upgraded to VMWare Fusion 3 recently for my mm2009 for giggles and it works great too. Soon I'll be creating a Windows 7 virtual machine with VMWare Fusion 3, why not have the best of both worlds?Alas, instead of selling my original mm2007 version, I bought the Snow Leopard upgrade disk, completely wiped the hard drive and set-forth to create a Mac Mini Home Theater Media Center. The results have been amazing, I have canceled my satellite TV subscription, that's 95 bucks I keep in my pocket each month now. Between Netflix Streaming, [...], Boxee, Plex, EyeTV, and a Terk HDTVa indoor antenna; I can watch anything I use to watch with a paid subscription to satellite TV and record as well for free! (EveTV is a DVR software/hardware system for your Mac, must have!) Oh and the mm2007 is also our home's print server too.In summary, I love the Mac Mini and I plan on upgrading again in two years and finding other areas in my home where my current mm2009 could be of service. That's the future though, for now I'm a very happy Mac Mini user. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mini packs a whallop </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-10-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this to replace an appletv that I was unhappy with in my HTPC setup. For that it is almost overkill... it easily handles anything I throw at it when connected to an HDTV, such as running Boxee, Plex etc., plus it is a real computer unlike the appletv so I can have it do anything else. Excellent value and I may have to buy a couple more for my family and friends. Being able to boot into Windows 7 or run it in a virtual machine is also convenient for those games or apps that haven't seen the light and come out with a Mac version- especially since it comes with 4GB RAM. One thing I was particularly impressed with is that the Mini, or Snow Leopard, or both, natively recognized the screen as an HDTV connection through my MiniDV>DVI>HDMI adapters so I didn't have to tweak any video settings whatsoever and the HDTV essentially acts like a very large computer LCD display. The plethora of ports is also great. Pair it with a wireless keyboard and mouse and an Apple remote and you're basically in HTPC nirvana.I'd recommend this little box as a great purchase for anyone looking for a cheaper way to dabble in Apple computers to replace or supplement an old PC (with a much smaller footprint, too), a supplementary Mac in your house, a replacement for any PowerPC Mac, or anyone wanting to create the ideal home theater PC setup. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfect for TV set top box </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-06-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I own this two units. One is for my home server. One is to attach to my TV. Then my TV became multi-media TV. I can browse web, e-mailing and watching TVs / movies from server. See photos from the server as well. Easy to use, compact and quiet. Very nice. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best Mac mini ever </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-11-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I upgraded my trusty PowerPC G4 Mac mini to the new 2009 Intel Mac mini. What a huge difference. This thing screams. It is one of the fastest Macs I've ever owned. And it is so quiet, I can barely hear it. I love it.If you're looking to buy a new Mac, or interested in buying your first Mac, I highly recommend the new Mac mini. You won't regret it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very Happy with Mac Mini </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-17-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have lots of Mac computers, both the ones I am in charge of at work, and my own at home.This 2.53ghz  Mac Mini is my desktop at work, pushing to the side a MacBook Pro 15" 2.2 ghzWhy?I was using the MacBook Pro mostly as a desktop, driving a 24" monitor, and using the 15" MBP as the secondary monitor.I do a lot of spreadsheet work, and decided the Mac Mini's ability to drive two 24" monitors simultaneously would be a big help.And it sure is.I'm now running a Dell LED 24" and an HP that offers pivot for when I need to view all of a really long document.I am very happy with the purchase.  Even tho the Mini sits about 2 feet from my ears, I can't hear it run. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

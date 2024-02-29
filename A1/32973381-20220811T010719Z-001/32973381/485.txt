@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00IK4OWXE <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> I just finished chained Freedom last night.  I have been very busy lately, so much so that I reluctantly could not get back to this book!  Don't you just hate it when you want to do something, and you can't?Tana, has amazing strength!  She is pulled away from her farm, after she argues with her mother, to be put to work for an evil wizard!  Wizard peaked my interest straight away!  I got the feeling that there really is no wizard!  What???  Just saying!  Every time someone did something bad they were pulled to the  wizard!  Maybe he was eating them or using their souls for the energy?  I'm telling you this book makes you think and think.  I was intrigued by how uplifting Tana was for all those poor captured souls!My dad was a farmer when he was young, as I was growing up he used to tell me stories about how rough it was to farm back in the pioneer days.  This story made me remember my dads stories.  I loved how Natasja Hellenthal put the be nice, be helpful, it pays off in the end value to this story.  I believe as a fellow author of fantasy, that our books are an extension of who we are, what we believe in, mixed with a nice twist of who we could have been maybe.The finding a way out in this book was designed beautifully!  I can honestly say I am a fan!Awesome Job Natasja, I hope mine is as good as yours. :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I loved this! </p>
+
+
+<h2> review.date </h2>
+  05-25-2014  
+<h2> review.text </h2>
+
+ <p> Natasja Hellenthal's short story is a magical and mystical paranormal short story that is neither magical nor mystical. We learn early on to look at it like a true story. This instruction sets the tone for the entire piece. Somewhere underneath it all is the small voice saying that it could be true. Told in first person we are introduced to the horrors of enslavement. Down trodden people with no hope of escape living day by day. Everyone in pain, everyone has given up. Tana longs for freedom.The story is well written, entertaining and easy to follow. It flows at a nice smooth pace. We are able to understand everything that is going on, rooting for our protagonist every step of the way. There are a lot of lessons to be learned along the way. One major lesson was when Tana questioned who the evil one really was. She wondered if the enslaved were evil and perhaps being punished for their wickedness or if the evil one was actually good carrying out some devine order. This was a moment that made me think that that question must have run through the minds of slaves.For a short story, Tana's character is well developed. We learn a lot about Tana, who she is, what she does, who her family is. There are things that has happened in her life that makes you think maybe she is being punished. We see her work and her relationship with her parents. As a historical fiction writer who studied the subject of slavery, I must say that this is a very good paranormal fantasy that touches on the subject in a very intellectual way. Ms. Hellenthal captured the essence of a great slave story and gives us important lessons as we go. I recommend this story highly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Magical </p>
+
+
+<h2> review.date </h2>
+  02-24-2014  
+<h2> review.text </h2>
+
+ <p> An unusual, interesting and downright intriguing 'true story' designed to not only entertain the reader, but also to make them think, what would they do in a similar situation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unusual, interesting and downright intriguing </p>
+
+
+<h2> review.date </h2>
+  05-25-2014  
+<h2> review.text </h2>
+
+ <p> (Downloaded from amazon.com.au) What an Amazing Story. I totally love it. I admire the author dedication for writing an incredible story. This story grabs my attention from the very start of the book and couldn't put it aside till I finish it. It was a wonderful read. From me, I will definitely rate this book and the author's hard efforts a 5-STAR. I highly recommend this book to everyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I totally love it. </p>
+
+
+<h2> review.date </h2>
+  02-22-2014  
+<h2> review.text </h2>
+
+ <p> Tana Woodwolf holds the attention of the townspeople with her story. It's not a fairy tale; it's a true story. And it's her story.With his magic, the Wizard transports people to his remote tower. He forces them to work the land and serve his needs.Current prisoners pass on information to the new prisoners. First, do not try to escape. Second, if you do try to escape, the magical shield will stop you. And third, do not bring yourself to the attention of the Wizard. From time to time, prisoners are summoned to the Wizard's living quarters. They are never seen again.&#34;We had to provide for our own food and needs; if not we would simply wither away and die. Those were the options; live or die while we waited for our unknown destiny up there in the tower, which was most likely death.&#34;Natasja  Hellenthal's Chained Freedom is a short yet powerful paranormal mystery/fantasy. An important lesson is people many times fashion their own prisons. And they hold the power to free themselves. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Freedom versus Imprisonment </p>
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> Chained Freedom by Natasja Hellenthal is a surreal fantasy novella focused on Tana Woodwolf, a young woman questioning the reality of the world she feels confined in. She lives with her mother in a rural setting where people earn their living by the sweat of their brow in the fields of labor beyond their village. Yet she wonders just how much control of their lives they actually enjoy, and soon discovers there are external forces at work that not only manipulate but victimize the residents of her community.Hellenthal continues to explore the parameters of her Comyenti fantasy, this being a follow-up to her ground-breaking Call Off The Search. In this installment, we find a clever shift in reality as Tana and her companion, Fay Rosinhill, realize they are living in a virtual goldfish bowl where a mysterious wizard watches from a mystical tower, the existence of which her fellow villagers are unaware of. The girls find a way to access the tower, yet realize their grip on reality may be threatened by crossing the magical plane. We can perceive the psychological tension in the notion of losing one&#8217;s grip on established reality by crossing over and taking the risk of never coming back. Once again, the author takes us along an uncharted course that takes us to the next level of the fantasy genre.Chances are that this installment may become a segue to further adventures of Tana and Fey, so I suggest you pick up both Call Off The Search and Chained Freedom by Natasja Hellenthal. Get yourself up to speed and enjoy the ride. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shattered Dreams and Reality? </p>
+
+
+<h2> review.date </h2>
+  02-24-2014  
+<h2> review.text </h2>
+
+ <p> Great book that really got my brain spinning on the nature of freedom.This is a classic fairytale told to explore deeper truths and it works perfectly on that level. Why do some people accept their lot while others fight tirelessly against it. Why do some people seem to be unable to see their predicament for what it is.Our prisons come in all shapes and sizes; addictions, relationships, societal norms, yet too often we hold these paradigms dear instead of seeing them for the what they are. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A classic fairytale told to explore deeper truths </p>
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> For me, this story is more like of an intuition or should I say &#34;Got to Believe in Magic&#34; ( laughs...) :-)Seriously though, this tells us overcoming self doubt and believing that everything is possible, that you can always break free from anything; if you can imagine it, you can achieve it; if you can dream it, you can do it!  A fascinating story, I love it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Intriguing! </p>
+
+
+<h2> review.date </h2>
+  04-16-2014  
+<h2> review.text </h2>
+
+ <p> I received this book for an honest review.Chained Freedom is a refreshing story I greatly enjoyed.  I loved how Natasja Hellenthal weaved her message of be good to thy neighbor into her story. Creative and unique. Great job, Natasja! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Refreshing </p>
+
+
+<h2> review.date </h2>
+  07-08-2014  
+<h2> review.text </h2>
+
+ <p> Wow, what a enchanting fairy tale. This book is well written and it captivated my attention from the beginning to the very end. It was a great read. I proudly recommend this book to who ever loves to read charming fairy tales. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A MUST READ fairytale ! </p>
+
+
+<h2> review.date </h2>
+  04-17-2014  
+<h2> review.text </h2>
+
+ <p> Wow I had to keep reading until I get to the end. I makes you want to know what is going to happen. A fairy tell for the adult. (not adult content) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A fairy tell for adults. </p>
+
+
+<h2> review.date </h2>
+  04-19-2014  
+<h2> review.text </h2>
+
+ <p> I received free copy for review purposes.I usually don't read fairy tales, but I'm glad I read this one. It is short, well written and easy to read. There are a lot of metaphors related to our time. In the beginning I thought the whole story was a metaphor to other something else but it turned out to be another thing.really recommended book get a copy now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LIfe is a fairytale </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

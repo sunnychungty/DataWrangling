@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0002MH3HE <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-07-2013  
+<h2> review.text </h2>
+
+ <p> "Plug and Play" is definitely NOT going to happen on this device unless you have all DLink internet equipment. Upon closer reading, I saw it said "only plug and play when using a DLink router." Would've been nice to know before. Plus, it requires constant reboots and rarely allows me to log in. It doesn't accept connections when put in to DHCP mode, which is what I want to use it for. Two stars is pretty generous. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Biggest Lie on Earth </p>
+
+
+<h2> review.date </h2>
+  02-19-2008  
+<h2> review.text </h2>
+
+ <p> Bought adapter to attached my DirecTV DVR to my network. Everything else on the network is Linksys but the form factor and WPA encryption made this device an attractive choice. I believe not all versions of the Linksys adapter support WPA. According to the documentation if I was on a fully D-Link system configuration would be automatic, can not vouch for that. Took me about a hour to get everything working together. This device fails the wife test. My wife just connected a new HP printer to the network, as a novice she would not have been able to hook up the D-Link without help. Did have to upgrade the G820 firmware to 2.20 to get the thing to work. For me it does not run particularly hot and has been stable since being installed a week ago. The small size makes the G820 a perfect fit and the throughput is fine. Given the ongoing price drops with electronics I am surprised the adapter has gone up in price here at Amazon since I bought it. Don't think it was onsale when I bought it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as Advertised </p>
+
+
+<h2> review.date </h2>
+  06-08-2006  
+<h2> review.text </h2>
+
+ <p> This thing gets very hot and requires reboots quite often jsut like others have said.  No firmware updates for it either.  Get it together D-link. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Annoying </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> This one is good if you need 802.11g and I bought it because the connection was G and since it matched 'turbo G' by dlink and has an external antenna connector, I used it, in conjunction with a yagi to maintain a solid connection across 3000 ft for the network. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Used as a bridge for a 3000 ft distance connection </p>
+
+
+<h2> review.date </h2>
+  02-26-2005  
+<h2> review.text </h2>
+
+ <p> Another reviewer indicated that his unit required 2 or 3 reboots to start working again....dunno if I should have tried that. I figured if it slowed down to a crawl and stopped working altogther, plus it ran at 120 degrees (measured with an IR thermometer)....well I just don't need that kind of aggravation. No problem returning the unit for full refund after a conversation with D-Link tech support. It smelled and felt like it cooked itself. Too bad I had high hopes, I ended up getting the Microsoft (groan) version for my son's X-Box. $119.....OUCH!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked fine for 5 minutes </p>
+
+
+<h2> review.date </h2>
+  01-17-2005  
+<h2> review.text </h2>
+
+ <p> UPDATE:  This device has not aged well and is no longer a recommended purchase.  There are better access points from Cisco that do a much better job nowOrgiginal:Finally a wireless game adapater that works with the Xbox & with WPA encryption.  Many game adapters only have the flawed WEP encryption which is almost as bad as having no encryption at all.  When I contacted tech support for many of the other products, the techs recommended turning off the encryption which is pointless since my network must be secured & that was the whole reason I upgraded my router to one that supported the WPA TKIP encryption.The instructions for this router are a little confusing if you have set the router up with anything other than the defaults.  For example, if you have have changed the default IP address of your router & the IP range that the DNS will assign, then you may have a little trouble during set up.  Once I called tech support, the fix was simple, though undocumented, so don't hesitate to call the tech support if you find you are having similar trouble.The link is blazingly fast & have not experience any problems with lag.  Doesn't have problems with microwaves operating near by or other devices that operate in the 2.4ghz range.As for anyone that this is not working for, I would say they probably got a defective unit, because I have tried them all & this one is by far the best of the lot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wireless XBOX with WPA Encryption </p>
+
+
+<h2> review.date </h2>
+  06-26-2013  
+<h2> review.text </h2>
+
+ <p> Straight out of the box the device overheated... and I think fried.Either way. Don't waste your time or money on it. Its best to just move along </p>
+
+
+<h2> review.summary </h2>
+
+ <p> plug and play did not work and got extremely hot in matter of minute </p>
+
+
+<h2> review.date </h2>
+  03-08-2010  
+<h2> review.text </h2>
+
+ <p> It works as advertised and quite reliably hooks up a printer that's too far away from any wired port up to my network, however:1) Setup left a little to be desired, prepare for a mild amount of grief and you'd better be decent at networking.2) No WPA2 support, had to dummy down my wireless to WPA only.Other than that it does a good job so far! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Overall not bad but a few critiques </p>
+
+
+<h2> review.date </h2>
+  01-10-2007  
+<h2> review.text </h2>
+
+ <p> I could not get this unit to work wirelessly with the Sony Locationfree LF-PK1 and an Apple Airport Extreme router.I WAS able to use the Buffalo Technology AirStation Turbo G High Power Wireless Ethernet to stream TV to PSP wirelessly and across the internet.Tech support was fine, the device was just incompatible with my apple router. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Did not work with Apple Airport Extreme and PSP LF-PK1 </p>
+
+
+<h2> review.date </h2>
+  05-29-2007  
+<h2> review.text </h2>
+
+ <p> As others have indicated, this unit is just awful. Runs hot, very difficult to configure, my unit failed within a few weeks. Generally speaking I like DLink stuff because it's simple, down-to-earth, and easy to configure. What a mistake the DWL-G820 has been. It's even been discontinued at the store where I bought it -- too many returns. Pass on this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just awful. Never worked correctly. </p>
+
+
+<h2> review.date </h2>
+  12-02-2004  
+<h2> review.text </h2>
+
+ <p> Over the past 3 weeks I have used the Linksys WET54G and the Microsoft Wireless adapter.  Both worked, but they were a pain to setup.  I tried following the directions the best I could, but it still took 1.5+ hours to setup the Linksys one and over 4 hours to get the Microsoft one to work.  I was able to get the Dlink DWL-G820 running perfectly within 10 minutes.  I have had the DWL-G820 for 3 days and have had no problems with connectivity.Also, a major bonus with the Dlink card is that it supports both WEP and WPA encryption.  From the information I had available at the time, the Microsoft and Linksys adapters seemed to only support WEP (although they may, at some point, release a newer firmware update to allow WPA support).By the way, I paid $80 for this with a $30 mail-in-rebate bringing the total price to around $50.  The MS and Linksys adapters were still over $90 when I bought my Dlink!!!Where's the downside?!?  It's cheaper, better, and smaller to boot! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product </p>
+
+
+<h2> review.date </h2>
+  09-11-2007  
+<h2> review.text </h2>
+
+ <p> not the easiest config but not nearly as bad as other reviews would have you believe. Most of the "doesn't work" reviews can be attributed to user error.It's worked flawlessly on my xbox1 and 360 for 2 years. Strong connection, good speed to both the linksys and dlink routers i have used it with.Beats $99 for the ms 360 wireless adapter and works just as good </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does what it is supposed to </p>
+
+
+<h2> review.date </h2>
+  01-22-2007  
+<h2> review.text </h2>
+
+ <p> I use Dlink DI-624 router. Setup is not easy, I needed quite a bit of helpfrom tech support. It's working fine after that, downloaded a few GB ofdemos from Xbox live and PS3 online, played PS3 online on COD3, no lag.It also works with my PC.I was holding out for the final N router and gaming adapter, but this isgood enough. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works with PS3, Xbox 360, PC, setup is not easy </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

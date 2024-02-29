@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000P6BSEG <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-30-2011  
+<h2> review.text </h2>
+
+ <p> Nice durable product. Got this for a Canon camera which fits perfectly. Good quality product. Be sure you buy it for the right camera (as per your camera size). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product </p>
+
+
+<h2> review.date </h2>
+  10-14-2010  
+<h2> review.text </h2>
+
+ <p> This came with the camera I bought for free and it is a great case. I would recommend it to anyone because it is so compact (of course this is for a small point and shoot camera). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great! </p>
+
+
+<h2> review.date </h2>
+  12-02-2010  
+<h2> review.text </h2>
+
+ <p> These are way too small.  More like a cellphone case than a camera case.  I have a *very* small, compact Olympus FE-350 and I could barely squeeze it in.They are of decent quality, just too small. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too small!!! </p>
+
+
+<h2> review.date </h2>
+  01-01-2010  
+<h2> review.text </h2>
+
+ <p> This arrived as described. Was offered with the Fuji camara and it works well with it. The extra battery fits in the accessory pocket. I am satisfied. Can't beat the price! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Satisfied </p>
+
+
+<h2> review.date </h2>
+  10-10-2010  
+<h2> review.text </h2>
+
+ <p> It perfectly suits my canon sd 780IS. It is not for camera larger than sd 780IS. The quality of the case is very high. I would definitely recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great camera case </p>
+
+
+<h2> review.date </h2>
+  08-01-2009  
+<h2> review.text </h2>
+
+ <p> It's an o.k. case.  I got it for my digital camera, but silly me didn't look at the measurements very carefully and it turned out to be too small.  I'm using it as a cell phone case right now (attached to my briefcase) and it works o.k.  My only issue is with the velcro closure.  It's not quite as sturdy as I would like. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tiny camera case </p>
+
+
+<h2> review.date </h2>
+  10-19-2010  
+<h2> review.text </h2>
+
+ <p> I bought this case for my girlfriend along with the Canon SD940IS and it fits perfectly. It's a great little water resistant case that comes with a strap, perfect to carry around. She loved it right away as it beats having to take the camera out of her purse every time she needed to use it. It also has a little storage compartment for an extra battery or memory card.But be warned, this case is really small and will not fit anything bigger than the Canon SD940IS (This camera is pretty tiny). Other than that no complaints at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little inexpensive camera case. </p>
+
+
+<h2> review.date </h2>
+  12-02-2009  
+<h2> review.text </h2>
+
+ <p> it came with the camera.  but still good.  don't ask me about cannon camera is trash.  wasted my money.  most people say cannon brand is good.  i bought cannon camera at the first time digital camera come out.  camera camera is heavy, but made is japan.  when u recharge the battery. u have to take out from camera.  it is shit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> still good </p>
+
+
+<h2> review.date </h2>
+  01-26-2011  
+<h2> review.text </h2>
+
+ <p> I have several digital cameras so I wanted a few cases for them. This is one of the cases I bought and so far I'm very satisfied. The shoulder strap is a nice feature because I can have my camera ready to take pictures without having to hold it in my hand all the time. I love the little zippered pocket that's included. I put cash and memory cards in it. The case holds my camera nicely and the padding protects it well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice case </p>
+
+
+<h2> review.date </h2>
+  06-23-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this case along with a camera for my daughter, and it works great. It really seems to offer just the right amount of "protection" without making it too bulky. She has dropped it (with camera) a few times, and the camera has not been damaged. I'm not all that crazy about the long strap, and the hooks on the sides that go with it, but I suppose some people prefer that style of carry. The velcro cover is pretty secure, and the camera is easily and quickly accessible. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice case </p>
+
+
+<h2> review.date </h2>
+  11-28-2009  
+<h2> review.text </h2>
+
+ <p> Since I've personally drifted into the world of digital SLRs, I've forgotten what it's like to review compact point/shoot cameras. And in that time, I've forgotten how good Case Logic products are. Sure, they lack the beauty of some cases, but they just work and work well.I bought this as part of a bundle to house a Fuji Finepix J28 as a gift for a relative, and it fits in just fine. The front zipper can hold an extra SD card or an extra battery for the camera if you don't mind a tight squeeze.Overall, it's a $10 bag that works very well without the fanfare of more expensive cases. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great tiny case for your camera </p>
+
+
+<h2> review.date </h2>
+  12-02-2009  
+<h2> review.text </h2>
+
+ <p> This is a nice small camera case that came with Amazon's Fuji FinePix J28 camera package deal over Thanksgiving. The case actually looks darker blue than what is pictured on Amazon, as one previous reviewer indicated. The construction and interior padding is good. Everyone else has mentioned all of the good points. Not much more to add other than it is a smaller type camera case. Keep in mind that the dimensions are 2.8 x 1.2 x 3.8 inches when sizing it for your camera. The additional zippered pocket is good for only a couple of memory chips or a flat lithium type battery. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Inexpensive Case </p>
+
+
+<h2> review.date </h2>
+  09-24-2008  
+<h2> review.text </h2>
+
+ <p> This case fits my camera (canon powershot sd1100) perfectly, and it seems very sturdy with decent padding. I like that you have the option of the long shoulder strap (removable) or a "belt loop" on the back - which considering the tiny size of the case could actually be put on a belt and not get in the way too much. My only complaint is that the inner zip pocket could be a bit more roomy. I keep my spare battery (NB-4L - which isn't very thick)in there and it's a tight squeeze. A memory card would certainly fit fine though. Overall I find this to be a good value case that suits my needs just fine. Would recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Value </p>
+
+
+<h2> review.date </h2>
+  10-13-2010  
+<h2> review.text </h2>
+
+ <p> Nicely designed and well-constructed.  This was advertised on a daily bargain site to which I subscribe, and though I had no pressing need for it, for just over $2 and with free Amazon PRIME shipping, I figured, "Why not?"  The closure is Velcro-like, and there is an internal zipper compartment for things like memory cards.  It is well-padded and appears sturdy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For 2 Bucks, how can you go wrong? </p>
+
+
+<h2> review.date </h2>
+  10-08-2010  
+<h2> review.text </h2>
+
+ <p> I use it for my Canon SD850. Has a snug and perfect fit. Also a little pouch in the front for an extra SD card. Would have loved it if the strap on the back had velcro or something instead of having to slide it into my belt. But can't complain. Recommended !! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Buy </p>
+
+
+<h2> review.date </h2>
+  10-15-2010  
+<h2> review.text </h2>
+
+ <p> I bought a few of the bags for my camera a few years ago. I know it's good quality. So I ordered another 6 when the price was down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really nice bag. I ordered 6 with $3 each. : ) </p>
+
+
+<h2> review.date </h2>
+  12-19-2013  
+<h2> review.text </h2>
+
+ <p> This thing is padded to the top! The Velcro is very secure. It's versatile to wear also - on your belt or around your neck. It has some storage for the SD flash memory cards. The material is somewhat rugged - not a soft feeling case. The inside is soft enough though, so it does not scratch your camera's casing.If my camera drops when it's in this, I think it'll still be fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> bulky, but protective </p>
+
+
+<h2> review.date </h2>
+  12-28-2009  
+<h2> review.text </h2>
+
+ <p> Got this case in a bundle when I purchased my sister's digital camera.  It's a nice case, and it has lots of padding so the camera will stay protected for sure.  It's a small, so no cameras that house AA batteries or any of the thicker digital cameras...only slim ones.  It has a velcro enclosure, which works fine...and a strap like most other cases.This one is a bright red, so it does stand out a bit, and you won't mistakenly grab someone else's one by accident, as is the case at parties since everyone has a black, grey, or blue case.  There's a memory card/battery pouch in the front, so it does have some additional function to it.  It is a little "puffy" as a case, and not a "sleek" one. This case was used with a Fujifilm Finepix J28 which fits great in it.  All in all, it does the job and is put together well.  Another solid case from Case Logic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yup, it's a camera case </p>
+
+
+<h2> review.date </h2>
+  06-28-2011  
+<h2> review.text </h2>
+
+ <p> My girlfriend loved it as a gift for Christmas. It fits her camera perfect. Good quality and design. Would recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  12-27-2009  
+<h2> review.text </h2>
+
+ <p> Case appears to be well made and a perfect fit for the Fuji camera purchased together with the case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little case! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

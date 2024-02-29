@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000256R9G <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-31-2014  
+<h2> review.text </h2>
+
+ <p> I purchased this based on reviews and I'm a little let down.It was easy to get hung up on the sealing and it looks good in my garage. It has a great length and locks when you want it to and rolls back up extremely fast so you might want to hold onto it as it winds back in so it doesn't whack anything.Now for the negative...On the female portion of the plug it is two sided and one side plugs in fine and securely. The other side no matter if it is 2 prong or 3 prong it will not seat properly and leave about an eighth of an inch gap. Since it doesn't seat completely the item you are using will unplug easily.Long story short you can only use one side at a time which for me isn't a problem because I usually only use on or two things at a time which is enough for the side that works.If I could do it all again I would spend a little more and get something different... Until this one breaks or I get sick of it and sell it at a garage sale... It's staying in the garage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job... Almost </p>
+
+
+<h2> review.date </h2>
+  03-17-2010  
+<h2> review.text </h2>
+
+ <p> this cord reel is awesome. such a convenience to have. no hassle with extension cord tangles and winding up the cord. the extension is right there for anywhere around the garage. also it is above so it clears everything when accessing anywhere especially if you have lots of junk in the garage like me. the 30 feet even reaches outside on the driveway. the product is well made and spring for retracting strong. best thing i bought for my garage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product. </p>
+
+
+<h2> review.date </h2>
+  06-19-2011  
+<h2> review.text </h2>
+
+ <p> I've had the Bayco "Model 800" for about 6 years. Super handy for power tools in the workshop, garage, or driveway. "Must Have."Mine has 14 gauge cord, but this "SL-800" has thinner 16 gauge cord. To handle a variety of power tools, I would insist on 14 gauge or heavier. When you need to use a 13-amp, tool, you're not going to interrupt your work to do extension cord eval. Err on the heavy side when buying a cord like this.I'd consider theReelcraft LD2030-143-9 Spring Driven Cord Reel with 30-Feet of 14/3 Cord and Triple Outlet, or theGrizzly H5695 Cord Reel 12awg x 40' .or the Grizzly look-alike at Harbor Freight Tool.My Bayco held up well under moderate use (about 10 times a month).The 3-outlet end is good. The female contacts grip fine, but a stronger grip would be nice.Mine has at least 29 feet of retractable cord, as promised.Slight problem: The last 4 feet doesn't always retract. A little silicone on the cord seems to solve it. Or, I could probably open it up and tighten the spring. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Super Useful, but 16 Gauge Cord is Wimpy </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> It's perfect right in the center of the garage.  One of my handiest tools.Keeps it at hand, and easy to store </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it in the garage </p>
+
+
+<h2> review.date </h2>
+  02-28-2010  
+<h2> review.text </h2>
+
+ <p> With the small gauge wire, be sure not to put much of a load on this. With the cord wound on the reel, the heat has nowhere to go, and the insulation will melt into an unusable mess long before a 20 amp circuit breaker flips.Edit: I should clarify that my review is not based on this specific product, but on what I would consider an identical one purchased elsewhere. Same design, same gauge wire; looked exactly the same. My mother connected two small ceramic space heaters to it with most of the cord still wound on the reel. Result: a melted mass of uselessness that could perhaps have caused a fire. And the 20 amp breaker never flipped. It's confining all that resistance-generated heat into a small area that causes the problem.Other than that, pretty handy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Be careful </p>
+
+
+<h2> review.date </h2>
+  01-22-2013  
+<h2> review.text </h2>
+
+ <p> Just what I needed at a good price. Installs easily and works very well in my garage. Good buy. I recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for the garage </p>
+
+
+<h2> review.date </h2>
+  06-21-2011  
+<h2> review.text </h2>
+
+ <p> I have two of these one in the garage on in my shop. I used this in my garage for several years and loved it! Not only great having it there for all my outside electric needs, but we used the cord hanging down to tell how far to pull in the car (till the plug touched the car windshield)Today I had to rent a diamond wet saw to cut some concrete block. About 30 seconds into the first cut the 20 amp circut breaker tripped in the house. I don't see anything on the cord, but every time you try to plug it in it trips the circut-guess this thing is toast!! I guess I'll look for something with heaver guage wire for a replacement. This is a great product, but with 16 gage wire becareful what you plug into it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked Great untill I plugged in a wet saw </p>
+
+
+<h2> review.date </h2>
+  04-04-2014  
+<h2> review.text </h2>
+
+ <p> I would have bought one of these years ago if I had only known. This is the BEST extension cord I have ever owned, S/P was good as it arrived on time and intact. great product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> omg i love this device! </p>
+
+
+<h2> review.date </h2>
+  01-09-2014  
+<h2> review.text </h2>
+
+ <p> I got this and the LED light (SL-864) and installed them in my garage. I wish I would have done it years ago. I have no complaints or issues with it. Just make sure you get the correct gauge cable for what you plan to do. I used to put all my tools away and be so tired at the end of a project the power cords and light never got rolled up and put away until days later. Now I smile, as they are the easiest thing to put away in my entire garage.I had to adjust my LEDs retraction tension and it took less than 10 minutes. This unit was fine out of the box, but has the same instructions for adjusting the tension. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I should have got this years ago! </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> This is one of those simple things that make life easier and its not hard to install. I've used  mine for a few years and find it to be as good as the day I bought it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> several years and still working like new. </p>
+
+
+<h2> review.date </h2>
+  12-28-2012  
+<h2> review.text </h2>
+
+ <p> I have purchased 3 of these, they are great quality and not made of plastic like some other cheaper ones i have seen.  The housing for the cord is all metal </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Extension Cord </p>
+
+
+<h2> review.date </h2>
+  05-28-2014  
+<h2> review.text </h2>
+
+ <p> Mounted this in my barn for use with an electric leaf blower. Wish it was longer but otherwise works great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product! </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> Hung this in my garage next to my air hose reel and couldn't be more happy.  It s a higher gauge cord (carry less amps) but I have had no problems with  it all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice addition </p>
+
+
+<h2> review.date </h2>
+  01-07-2013  
+<h2> review.text </h2>
+
+ <p> They installed 20 of these at my work, so after checking them out there for a while, I bought one for my garage.  No more cords on the floor!  It has powerful retraction, looks sharp, and was easy to install.  Best garage toy I've bought in a while.UPDATE:  Well after just one Ohio winter, the cord jacket is beginning to split when bent.  The 20 we installed at work are NOT splitting, as they are in a climate controlled environment.  Ergo, these are no good in freezing temperatures.The reel is rated at much lower current than your breaker, so you might burn it out like I did.  No worries, I called Bayco and they politely issued me a replacement reel within days. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> every garage needs one! </p>
+
+
+<h2> review.date </h2>
+  08-02-2013  
+<h2> review.text </h2>
+
+ <p> I wouldn't purchase something like this for a shop, but for home use, it's more than perfect. Easy to install, flexible. Now I have a power cord that reaches every single corner of the garage. Never tangles, always out of the way. Killer purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's fantastic! (Not heavy duty) </p>
+
+
+<h2> review.date </h2>
+  01-28-2014  
+<h2> review.text </h2>
+
+ <p> Great price and great operation with a heavy-duty cord set; quick shipping and best price made this a no-brainer purchase!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works Great </p>
+
+
+<h2> review.date </h2>
+  10-22-2010  
+<h2> review.text </h2>
+
+ <p> I don't have enough wall outlets in my garage so I bought this and mounted it to the ceiling using an extra outlet not used by my garage door opener. It has made a huge improvement and is a perfect addition to the space. I use it all the time as a mini extension cord for using tools in the garage and even outside in the yard or in the driveway since it has enough reach. It pulls out and locks easily and releases easily and winds back up every time without any problems. I have been using it for a couple years now and I don't know what I'd do without it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for any shop </p>
+
+
+<h2> review.date </h2>
+  01-05-2014  
+<h2> review.text </h2>
+
+ <p> This works pretty well for my needs wish the mounting was a little more versatile.  For example would like it if the pin wasn't so hard to get through the holes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This works pretty well for my needs wish the mounting was a little more versatile. </p>
+
+
+<h2> review.date </h2>
+  07-08-2012  
+<h2> review.text </h2>
+
+ <p> It never ceases to amaze me how a company will include bottom of the barrel hardware.  What are they saving maybe fractions of a penny?  The included wood screws are flat heads instead of phillips.  The flat head stripped almost immediately, and as I got to about a 1/4 inch from being screwed in, the screw broke in half.  See photo. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrible quality mounting hardware </p>
+
+
+<h2> review.date </h2>
+  12-08-2005  
+<h2> review.text </h2>
+
+ <p> Last year I moved into a new house and my woodshop now exists in a nice one car garage. The only downside to my new shop (other than its small size) is that the previous owners did not install many outlets. Before I had the time to do so myself, I came across this retractable cord reel. I hung it from the ceiling, dead center just next to the garage door opener (they can thus share the same outlet), and the 30' length easily reaches every corner of my shop. I am sure this length would do equally well in a two car garage too. I especially love the fact that since my main bench and tablesaw are directly below this reel I can quickly run power to either of those without having any cords tripping me at floor level.I have found the construction of this reel to be top notch - the steel housing will last forever and the winding/retracting mechanism inside is very robust. I predict this to be a lifetime tool, never to need replacing.I highly recommend this item, especially to those whose workshops started out life as a garage! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must have for any shop! </p>
+
+
+<h2> review.date </h2>
+  04-07-2014  
+<h2> review.text </h2>
+
+ <p> I bought this for my dad at Christmas time. He seems to love it very much. He put it in his shop. It helps out a lot since now he doesn't have to use a rolled up extension cord that lays on the ground all the time. Perfect for him. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great present idea. </p>
+
+
+<h2> review.date </h2>
+  03-29-2012  
+<h2> review.text </h2>
+
+ <p> As of today, this reel has been for sale at Home Depot (both at the store and online) for $29.97.  I make a great deal of Amazon purchases and if the price were closer, I would consider Amazon.  Home Depot charges no shipping of your purchase exceeds $45.00 so if you have other items to order or if you are able to pick up in person, you'll save about 1/3 more by going with HD this time around.As for the product review, I have found that securing the bracket to the ceiling joist is the way to go.  Screw it in next to the garage door opener and use the same circuit for fast, drop down access to 120V in the middle of the room.  I have converted the single side of my garage into a woodworking shop and this is the perfect addition.  I use a few AC powered hand tools at my work bench which is located in the center of the room.  By simply pulling down on the cord, I have a non-tripping hazard way of using these tools and not having to unplug them all the time.The body is made of steel and feels very solid.  The tension of the cord is such that you give a gentle pull and the cord comes out with the clicking that indicates you are at a locking position.  When it is time to retract the reel, simply pull a bit longer until you have no clicking and the cord can be released to retract the into the shell.Overall the product is well built, serves the purpose you would want it to and over time should provide us with easy access to out of the way extension cord / storage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lower Price </p>
+
+
+<h2> review.date </h2>
+  11-25-2013  
+<h2> review.text </h2>
+
+ <p> lasted about 6 months of light use before it started failing.  Retracting it would cause the circuit breaker to trip.  Eventually it would only provide power based on how far I pulled it out.It's an extension cord, how hard can it be to fix?  Once you open it, it loses all spring tension, at which point it's garbage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> cheap china junk </p>
+
+
+<h2> review.date </h2>
+  07-05-2014  
+<h2> review.text </h2>
+
+ <p> Works well. Well made. Great product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Super </p>
+
+
+<h2> review.date </h2>
+  06-22-2014  
+<h2> review.text </h2>
+
+ <p> This unit was very reasonably priced and it works well.  There is no hang ups when rewinding.  It is smooth in operation and the triple plug is a nice feature.  Buy It! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Reel, Great Price </p>
+
+
+<h2> review.date </h2>
+  11-12-2009  
+<h2> review.text </h2>
+
+ <p> Mounted to a a roof joist, you'll wonder how you ever survived without one.  Mine plugs into the same outlet as my garage door opener and is used all the time for the electric leaf blower, handheld saws, drills, etc. etc. etc.Very good design and function - I'd rank it as FIVE Stars but after a couple of years one of the three outlets got flaky.  I have to really make sure that the plug is inserted firmly, and even then sometimes the power cuts out.  I write it up to iffy quality, although it's probably been run over at least once.I then knock it down another star because with 16 gauge wire it's really only suited to medium / lighter weight applications (10A)  Running a shop vac and table saw simultaneously on this is not a good idea - you notice a definite drop in current and the wire does get warm enough to notice.  I'm sure this is higher than the 10A it's rated for, however, so it's not something you should be doing anyways.There are a couple of alternatives which are 12 gauge wire which gives you 15A capacity.  Some of these are even longer.  I'm planning to get the Grizzly, which is a little more but also 10' longer and 12AWG/15A...Update:  I now have the Grizzly 12 GA which I use for a light duty table saw, router, etc.  I still use this for light duty items, again noting that the 10A recommendation means you shouldn't use this for more than 1250 watt items. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MUST HAVE for garage or shop but consider a heavy duty cousin... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00005A1SY <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-24-2001  
+<h2> review.text </h2>
+
+ <p> Anyone who has seen this will recognise the words of Mrs Doyle! This is really very funny. If you like your comedy a bit strange, you'll love this. The series is set on Craggt Island, somewhere of the coast of Ireland. In a house on the island live 3 priests the catholic church wishes to forget. Father Ted would like to think he is hip and trendy, but fails miserably to impress anyone. With Father Dougal, it is a mystery how he ever became a priest because he is so gormless. Finally, Father Jack is a foul-mouthed drunk, who spends most of his life in a drunken stupor in his armchair.  This unlikely three some get into all sorts of scrapes, and are aided whenever they need a cup of tea by their insane housekeeper, Mrs Doyle.  The laughs are non stop, and the off the wall humour makes you want to watch it again and again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Buy this. Oh, go on. Go on, go on, go on, go on.......GO ON! </p>
+
+
+<h2> review.date </h2>
+  05-04-2013  
+<h2> review.text </h2>
+
+ <p> I am proud to be a Catholic.  Father Ted is a lot of fun without being the least bit insulting to my religion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So funny it caould be dangerous </p>
+
+
+<h2> review.date </h2>
+  01-28-2002  
+<h2> review.text </h2>
+
+ <p> Ready to go to "Funland" where you can do some "freak pointing" and see the "spider-baby"?  Want to hear Father Stone, once again say - "No, I'm fine thanks"?  How about help the Fathers protest a french film and say "Down with this sort of thing" Well, I say "Up with this sort of thing" to the release of Father Ted on DVD!  Within the first few moments of the first Father Ted episode I saw on BBC, I knew I would probably be adding it to my collection.  It belongs next to other essential BBC comedies like Monty Python, Black Adder, Fawlty Towers, and The Young Ones!This is what you get on Father Ted - Complete Series 1 DVD:Episodes:1. Good Luck Father Ted2. Entertaining Father Stone3. The Passion of St. Tibulus4. Competition Time5. And God Created Woman6. Grant Unto Him Eternal RestMenu options: Play in order, Select an episode, Scene selection, and Cast and Crew Bios.  There are really no special features besides the informative bios, but having Father Ted at the push of a button on DVD is special enough for me.  God Bless Father Ted!  Look out for Season 2 available in March 2002! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Oh no, not toilet duck again." </p>
+
+
+<h2> review.date </h2>
+  09-17-2004  
+<h2> review.text </h2>
+
+ <p> absolutely hilarious. A sharp, funny look at religion and some of the eccentricities surrounding those who practice it vocationally.It's difficult to come up with funnier TV than this. If you like british (oh, okay... Irish) comedy, heck, if you have any sense of humor at all, you'll love Father Ted. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> as a pastor, you gotta love this </p>
+
+
+<h2> review.date </h2>
+  09-07-2003  
+<h2> review.text </h2>
+
+ <p> If you are not like many of the other reviewers already familiar with British comedy shows, I think this is one of the best ones to see first. (And probably Fawlty Towers too) There are two reasons why this show is a good one to watchFirst, BBC comedy unlike American is simplistic. There are no need for too many up-coming stars and the route shenanigans. What you see is what you get.Second, other than the typical "what's the moral of the story" that American shows have (which is fine and dandy, but sometimes "Ho, hum"), this show is more about the humble comedic nature of its characters. Father Ted is a down-on-your-luch priest that has the same vices that we all have. Father Dougal is the young inexperienced idiot priest. Father Jack is just a cranky old drunk. And Mrs Doyle is every Irish church lady that some of us have known.I highly recommend this one for anyone who just wants a good laugh. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Humility and Simplicity: BBC comedy </p>
+
+
+<h2> review.date </h2>
+  08-01-2002  
+<h2> review.text </h2>
+
+ <p> I first saw father ted on PBS, and after watching it a little while came to enjoy it. The Cast, Setting, and Everything seems perfect, and the show is FUN to watch. I highly recommend this to people who enjoy a good laugh, and some good television. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Honestly, how could you not like Father Ted? </p>
+
+
+<h2> review.date </h2>
+  02-23-2006  
+<h2> review.text </h2>
+
+ <p> but not as good as seasons two and three. still, really funny. the fun fair episode is one of the best. spinning cat! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great </p>
+
+
+<h2> review.date </h2>
+  06-25-2010  
+<h2> review.text </h2>
+
+ <p> Once upon a time, on an Irish island so small that it didn't appear on the maps, there lived these three priests... yeah, it sounds like the setup for a joke or a really bad religious story. Fortunately it turns out to be the theme for "Father Ted - Complete Series 1," a kooky comedy about some painfully unholy priests -- moderately crude, quite goofy, and full of insanity.On Craggy Island, there's a single Catholic parish run by three priests -- long-suffering Father Ted (Dermot Morgan), half-witted  Father Dougal (Ardal O'Hanlon), and deranged foul-mouthed lecherous alcoholic Father Jack (Frank Kelly). They also have a crazy housekeeper obsessed with tea. The priests aren't exactly holy, since all three have been exiled there for various misdeeds.And as the show opens, Father Ted receives a call from the TV show "Faith of Our Fathers," who wants to come to Craggy Island and interview him. Of course he tries to keep Dougal and Jack from finding out, but his efforts to keep this interview secret go horribly awry.Among their other problems: Ted and Dougal deal with a guest priest who is devastatingly boring, protest the blasphemous pornographic film "The Passion of St. Tibulus" at the hostile bishop's demand, and babysit an alcoholic TV host while preparing for a costume competition. Additionally, Ted develops a crush on a sexy author, and Father Jack is found seemingly dead after chugging a bottle of floor polish.Small warning: "Father Ted" is definitely not for anyone who wants an all-sparklyhappysunshiny depiction of Catholic clergy, because... well, there's a reason these guys were exiled to Craggy Island. Except for despair, I'm pretty sure the priests on this show manage to commit all the seven deadly sins, plus Dougal's unofficial sin of mind-blowing idiocy.And it's quite funny. It's not quite as funny as "Blackadder" or "Fawlty Towers," but it's got plenty of entertaining stuff here. There's lots of slapstick, strange problems ("Ah no, not Toilet Duck again!") and the priests being rather unpriestly ("Father." "Yes Tom?" "I killed a man." "Did you, Tom? I'll have to talk to you later. I'm doing an interview for the television").And there are some running jokes that push the series just over the line into "surreal" -- Father Dougal somehow became a priest despite no solid belief in God, religion, the afterlife or anything except TV celebrities. Not to mention Jack's crazy drunken rants, a couple who constantly inflicts bloody injuries on each other, and Mrs. Doyle's obsession with tea and sandwiches.Morgan is quite good as the "straight man" of the cast, who is the most normal despite having stolen charity money -- he's constantly dealing with the idiocy around him with a kind of resigned patience ("He loved children... they were terrified of him, though"). O'Hanlon is thoroughly entertaining as the peabrained Dougal, Kelly makes a wonderful gnarled old drunken coot ("NUNS! NUNS! Reverse! Reverse!"), and Jim Norton has a small role as a hostile bishop with a dirty little secret."Father Ted - Complete Series 1" features the worst Catholic parish in the world, if you consider both priests and parishioners. But it does make for some very funny comedy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrible is the word, Father! </p>
+
+
+<h2> review.date </h2>
+  05-07-2001  
+<h2> review.text </h2>
+
+ <p> I say &quot;damn, this is a good show!&quot;  This show is just a riot.  Father Ted is a very serious priest in charge of a tiny parish on one of the most miniscule Irish islands.  One of his subordinates is dangerously daft and naive; the other is an insane and senile older priest who reacts catastrophically to just about any kind of stimulant.  It's a sitcom, nothing groundbreaking, but it's sidesplittingly funny.  All the actors involved are talented people, and they work together with a wonderful, natural style - no one is straining for laughs here.  Every episode is rewatchable at least a hundred times.  If you've ever hurled an Andrew Greeley book across the room in anger at its depiction of superhuman, wonderfully understanding Catholic priests, you'll appreciate this show. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> And what do you say to a cup? </p>
+
+
+<h2> review.date </h2>
+  04-07-2008  
+<h2> review.text </h2>
+
+ <p> When life is getting you down, don't go "downtown", get out the Father Ted dvds, curl up with a cuppa tea (or have a few snorts) and laugh till you nearly wet your pants over this wonderfully silly and irreverent series. Oh, I might mention... this is NOT for those types who take everything too seriously. It's just glorious, naughty FUN! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> When life makes you just weep, get out the Father Ted dvds! </p>
+
+
+<h2> review.date </h2>
+  05-30-2010  
+<h2> review.text </h2>
+
+ <p> My wife lived in London for a few years and has a taste for British comedies. I also enjoy them but to a slightly lesser degree. Well, lately she brought the "Father Ted" Series 1 VCR home and we have enjoyed viewing it enough that we finally ordered the Complete Series 2. It's enjoyable and quite funny stuff. Four nutty priests on a bleak glaciated island off Ireland. What a setting for a situation comedy! Actually, I'm a geologist and I find the glacial topography, together with the human hedgerows, a landscape that makes compelling viewing. Some of the glacial topography is textbook stuff and beautifully photographed! And I've never seen a greener landscape!I've enjoyed the episodes, but two factors decrease my viewing pleasure. First, I'm not Catholic and, in fact, I'm not religious, so I miss a lot of the humor slanted in that direction. It's minor, I suppose. A second factor is the laugh track. It's been years and years since I viewed a comedy with a laugh track and I'd forgotten how annoying this supposed aid could be. Personally, I think the series would be much better if the viewer could watch and decide for oneself what is funny and what is not. The laugh track on this series actually decreases the humor of the program. In any case, it's an enjoyable series and my wife and I are now into viewing Series 2, a high compliment.Gary Peterson </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable Series. </p>
+
+
+<h2> review.date </h2>
+  06-04-2003  
+<h2> review.text </h2>
+
+ <p> Okay I admit I am a sucker for UK comedies and have seen a great many of them.  Father Ted is easily amongst the top.Like many English series Father Ted spends no time setting up the characters or setting and just gets the ball rolling.  It is a very farsical and surreal comedy at times which might take some getting used to if you are expecting something more straight forward like a US sitcom.The cast is brilliant and it is too bad Dermot Morgan died at such a young age.  There was at least one more season of Father Ted, before it seem slikely he would have left the series.The DVD is very barebones and sports no extras like the series 2 and 3 DVD's.  No matter this is a must have and a great way to start enjoying this sharply funny UK comedy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brilliant Comedy </p>
+
+
+<h2> review.date </h2>
+  01-09-2002  
+<h2> review.text </h2>
+
+ <p> With the exception of Black Adder and Fawlty Towers, I have never laughed so hard.  A friend and I caught it one night on PBS when I was visiting for Dallas for the North Texas Irish Festival.  I came back home, an addict.  Now I wait with baited breath for the second season DVD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> can't live without it </p>
+
+
+<h2> review.date </h2>
+  01-09-2005  
+<h2> review.text </h2>
+
+ <p> We saw an ad for "Father Ted" on the "Coupling" DVD so we had to get it.  This is the funniest show I have seen in sometime. The humour in the show is very witty and very well written and the characters really grow on you.  Father Jack is the best, I think he is one of the funniest comic characters to come along in some time.  I just wonder why I have not heard of this show until now?  I guess having BBC America may help?  Episode one is great with the Worlds unfunnest fair to the last episode on the disc where Jack dies and leaves a will for Dougal and Ted: Hilarious!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Freak Pointing, Spinning Cat! </p>
+
+
+<h2> review.date </h2>
+  04-24-2012  
+<h2> review.text </h2>
+
+ <p> I always wanted to get the Father Ted series, since I saw the reviews in other BBC videos.  This is one of the funniest videos.  You must include in your collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Brit Com </p>
+
+
+<h2> review.date </h2>
+  02-10-2004  
+<h2> review.text </h2>
+
+ <p> I must admit first off that I only watched the beginning episode on this six-episode DVD before cutting my losses and packing it in. My wife viewed perhaps the first ten minutes before deciding that washing the dishes was a better time investment.The Irish isle of Craggy Island is home to three priests in this BBC comedy mini-series. I use the term &quot;comedy&quot; loosely. There's Father Ted (Dermot Morgan) and his young assistant, Father Dougal Maguire (Ardal O'Hanlon), whose chief duty appears to be caring for the previous parish pastor, the aged Father Jack Hackett (Frank Kelly). In the first episode, at least, Fr. Jack's role is limited to sitting drunk, insensate, or simply in the throes of senile dementia in his favorite chair, aroused only long enough to throw empty booze bottles at the television, drool uncontrollably at the memory of young, Catholic-school girls long past, or shout incoherent deprecations at Father Dougal. Dougal, on the other hand, has the mind and mannerisms of a silly adolescent. Compared to these two, Father Ted is so normal as to be boring. The plot of this first episode also involves the host of a national television broadcast coming to the island to interview Father Ted on the topic of priests in isolated places. (In the only marginally good line whatsoever, Ted tells the visitor over the phone that he'll know he's reached the island when he sees the boats painted with radiation symbols dumping nuclear waste into the sea.)Admittedly, I probably didn't give the series a fair shake. But what I saw was so boring, so tasteless, and so stupid that it doesn't even rise to the abysmal level of current American sitcoms. There are several off-beat British telly comedies available on video to U.S. audiences that are infinitely better, including THE VICAR OF DIBLEY and THE DARLING BUDS OF MAY.The jacket containing the FATHER TED DVD claims that it's the &quot;best comedy about three priests on an island&quot;.  Good heavens, how many can there be? And imagining the plots and quality of the others simply boggles the mind. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wretched </p>
+
+
+<h2> review.date </h2>
+  02-11-2004  
+<h2> review.text </h2>
+
+ <p> Father Ted is perhaps the funniest thing to appear on British T.V. in the last decade.  The plot revolves around the titular Ted, an Irish priest sent to a remote island parish for &quot;financial irregularities&quot; (he took a holiday to Las Vegas, using money from a charity appeal to send a dying child to the Lourdes shrine, that happened to be &quot;resting in his account&quot;).  His companions are the clueless Father Dougal and the alcoholic Father Jack, neither of whom are deemed sane enough to unleash on a real parish.The humour is sharp and surreal, derived from a mixture of Seinfeld-esque vacuity and Red Dwarf-esque situationalism.  The characters are particularly well created and the incongruity of their behavior with their priestly calling adds to the fun factor.The plots in these early episodes are perhaps not as well developed as the later series, but still very very funny, irreverent, and much more subtle than someone chasing a cow, or a vicar being overweight and female in the manner of more traditional British comedies.Discerning viewers who care to sit through more than one episode of this Series will be themselves richly rewarded.  Anyone who doesn't grasp the irony of the statement on the box that this is &quot;possibly the best comedy about three priests on an island...ever!&quot;, should perhaps go write a 351 word letter to their conressman about the declining morals of today's society and then go for a nice lie down and then rent something a little more safe and quiet, like &quot;Last of the Summer Wine&quot;.Anyone who likes alternative British comedy like &quot;The Office&quot;, &quot;Monty Python&quot; or &quot;Blackadder&quot; should snap this up right away. Go on go on go on !!!!P.S. Father Ted was actually made for the U.K's more &quot;hip&quot;, Channel 4, but is licensed to BBC America for sale in the States. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> &quot;The Ants are back Ted...&quot; </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> I have never met any priest quite like any of these three & I doubt I ever will -each is unique in his own way and together they are hilarious. The series is typical British comedy, pretty much over the top, somewhat slapstick but, still in all, good clean fun. The only thing that saves them sometimes is that they are on an island so the path of disaster is confined to a small area. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hilarious </p>
+
+
+<h2> review.date </h2>
+  12-20-2001  
+<h2> review.text </h2>
+
+ <p> How lucky I was to come across this series on BBC America earlier this year. In my opinion, it is the sharpest and funniest British sitcom since BlackAdder. I haven't laughed this much in a long time. The cast is excellent. Father Dougal is a hilarious dim-bulb, but my favorite is definitely Mrs. Doyle. Every scene in which she appears is a comic gem. If you want to see exquisite timing, take a look at the scene in the episode &quot;The Passion of St. Tibulus&quot; when the actor playing Bishop Brennan first arrives. The scene is played out without dialogue, but the tension is hysterical. Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hysterically funny series </p>
+
+
+<h2> review.date </h2>
+  01-24-2010  
+<h2> review.text </h2>
+
+ <p> Hilarity ensues when 3 Irish Catholic priests banished to a remote island off the coast of Ireland come up with ways to amuse themselves. I had already seen the whole series a few years back, and I bought this one for my mother-in-law who has enjoyed it. Pity they don't sell the whole series in one package like they used to, but this way we were able to see if she'd like it at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Father Ted First Season </p>
+
+
+<h2> review.date </h2>
+  11-04-2006  
+<h2> review.text </h2>
+
+ <p> It is probably cheaper and better to buy the box set as there are 5 episodes per disc and 4 discs in total. Father Ted ran for three seasons for a total of 25 episodes. The sound is Dolby 2.0 Stereo. The frame is 1.33:1. Season one episode one introduces us to Craggy Island in "Good Luck, Father Ted". Instantly within the first minute you are hit with several outragous gags involving either Ted refusing tea from a very hyperactive Mrs. Doyle, Dougle's dream about the Spider-baby which he thinks is real or Father Jack attacking the television in his drunken senility. The star of this show though is Tom, the guy with the I SHOT J.R. t-shirt and the shotgun who blows away the friendly crow. "Entertaining Father Stone" is more of the same but here additional priests are introduced, a constant theme that would continue through to the end. Fr. Paul Stone has the reputation of being the most boring man on Earth and nearly drives Ted & co insane. "The Passion of St Tibulus" is a classic episode that involves the hysterical Dougle one-liner about the son that wins all hands down. It also features a real life take on a Irish Bishop who got his cousin in America pregnant. This is the make or break episode that put Father Ted on the map. Repeat viewing is mandatory. "Competition Time" sees Ted, Dougle and Jack compete in a pop idol contest on Craggy Island that is exclusive for priests. From the drunken judge who smashes up the priest's home to the three stages of Elvis competition finale, this is a classic howl-a-second episode.  "And God Created Women" sees Ted up to more priestly things when romantic novelist Polly Clarke seems to be coming onto him.  "Grant Unto Him Eternal Rest" is a funny episode about cocaine cakes and a close call with death. Unfortunately Season one is very short with only 5 episodes. The budget is somewhat limited as it was a UK based Channel 4 funded show of an Irish production. It would not air in Ireland until after Season one was over. It was Ireland that responded in a way that caused Father Ted to become a sensational event where pubs would all go quiet to watch it. Catholic Ireland loved it so much that Father Ted was given a budget boost injection to double the episodes for a 11 episode Season two. Like we said it is probably cheaper and better to buy the box set. *As a note the discs where not in the best condition as Disc 1 had some playback errors in Episodes Two and Three.* </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Feck, arse, girls, go on, go on, go on and get the box set instead. </p>
+
+
+<h2> review.date </h2>
+  01-02-2009  
+<h2> review.text </h2>
+
+ <p> Ted is probably the funniest thing ever likely to be produced on television anywhere in my lifetime. Ever. If you want to start a conversation with someone in Ireland, with the potential to lead to insults and/or fisticuffs, you could stick to the more mundane territory of politics or religion, but why not go a different way..start a heated discussion on the best episode of Ted!The problem with Ted is that, if like me, you have watched each episode of each series (and the Xmas special "they tell me its the biggest lingerie section in Ireland...") dozens of times; your favourite is constantly changing. Its like trying to find the pot of gold at the end of the rainbow, when you think you are there, it feckin well moves again. That's the beauty of Ted; you can watch it time and time again and always see new stuff.The clever thing about, and also what in my view makes it superior to Fawlty Towers in every way) it also its cultural setting. Ireland really is like that sometimes, especially "The Country". The "setting" for Ted (Craggy Island) is generally accepted to be the Aran Islands off Galway (although the parochial house and many of the scenes are actually in Clare). Two of the Aran Islands, Innismore and Innismaan are perpetually locked in a "battle" to as who can claim to be the real "Craggy Island". Which in itself sounds like a plot from Ted.Episodes like "The Passion of St Tibullus", the one with the Holy Stone of Clonrichert and those where Bishop Len Brennan has a son are all based on actual events, and I've been to rural Irish fairs where they almost do have a Tunnel O'Goats (no Spider Baby though).My current favourite is probably "Kicking Bishop Brennan up the Arse", because I love his character so much, "don't you call me Len you little bollix".There has never been anything quite like Ted, before or after. It's nice to see so many American fans, because the humour doesn't really translate in all its true subtlety, even to England. I'm English and Protestant and my Irish Catholic wife tells me I cant understand how close to the fabric of Irish life Ted exists.If you want a little more true Irish humour (to make those who claim Ted is Irish, not Anglo-Irish in origin, happy), I might suggest you track down episodes of "Killiniskully", written by, and starring, Pat Shortt (Tom in the I-shot JR t-shirt) which also gives a flavour of Irish humour from "The Country". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A towering inferno of comedy </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> I love British comedies so I bought this hoping that it would be funny.  Maybe I lost something in translation but I did not care for it.  Other reviewers loved it so maybe I think it was just me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I think I missed the humor in it. </p>
+
+
+<h2> review.date </h2>
+  10-08-2003  
+<h2> review.text </h2>
+
+ <p> I first casually watched this series as an alternative to being bored with expectations set at the moderate bar.  As you might have guessed I was blown out of the water and into the pews by the quick to anger Father Jack.  George Whitefield may have jerked tears from his audience with his eloquence in the Great Awakening, but Father Jack captured my laughter and attention with his drunkeness and hilarious antics.  Stealing most every scene from Fathers Ted and Dougal, I found myself so enthralled by him that I call the series with my friends &quot;Father Jack&quot; and eagerly await series two and three.  Well done.  Praise Jesus </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Father Jack converts the heathens to Father Ted </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

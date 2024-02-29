@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B007KPRRX6 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-26-2012  
+<h2> review.text </h2>
+
+ <p> Being the 'fat kid' is not easy. How do I know? Well I was her. So through out my life I have had to battle with my weight. I have read many books on the subject and this is the perfect introduction for parents who want to ensure that their children are 'super healthy'.There really is no greater gift that you can give your kids. Now that I have kids of my own I try to abide by these principles. So hopefully they will not to have the same struggles. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must read for parents </p>
+
+
+<h2> review.date </h2>
+  12-07-2012  
+<h2> review.text </h2>
+
+ <p> I'll start this review off by saying I'm obese and a parent. I'm worried that my lack of exercise and poor eating habits will have a negative effect on my childs health and well-being.Having read this book, I now have an arsenal of tips and tricks to use to help prevent this...and who knows, maybe I'll shift a few pounds too!Great book, highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Must-Read Book for All Parents and Grand Parents </p>
+
+
+<h2> review.date </h2>
+  03-19-2012  
+<h2> review.text </h2>
+
+ <p> This is a much-needed guide for parents that are concerned about their children's health. I knew that childhood obesity has become a serious problem in modern society, but I had no idea it was this extensive. A full 17% of kids aged 2 to 19 are considered obese? 30% of American children are considered obese? That's absolutely stunning. There is no disputing that obesity also triggers other incredibly serious side effects, the extent to which we haven't even begun to figure out.I love the way Sarah speaks from the heart. It's one thing to see a physician's report, or researchers white paper on the subject of children's obesity, but to get to the heart of the matter there is nothing in the world like a mother sharing her experiences. This book is very well-written and is enjoyable to read. It's a well-rounded, holistic approach that can be easily implemented by anyone.If you are in any way concerned about your child's weight then this book is a must read for you. Buy it now! I promise you will not regret it. Even if you don't believe you have an issue with your child's weight the recipes and information contained in this book are an outstanding resource for promoting children's health. I strongly recommend that educators and health care workers read this information and put it to work. It really is that good.What I really love the most about this book is the fact that Sarah not only lays out exactly what to do to tackle the problem of children's obesity, but comes up with methods that are actually enjoyable while doing it. For anyone that's ever been on a diet or weight loss regimen, we all know that they really are not fun at all. I look forward to reading Sarah's next book and I hope we don't have to wait for it for too long. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SuperSized Help for Kids and Parents Alike! </p>
+
+
+<h2> review.date </h2>
+  03-20-2012  
+<h2> review.text </h2>
+
+ <p> Given the growing obesity in kids today through the first world. It is great to see this author offer a refreshing voice amongst the crowd.The author is not a a trained nutritionist (a fact she discloses) yet excercises considerable insight on the subject.What is useful for families is that the book offers:Valubale info for calorie intake and meal composition.Info on natural sources of vitamins and antioxidants.Tasty options for kids to improve their diet.Easy to follow instructions for parents.The author also puts the responsbility largely with the parents - as it should be. This guide is a useful summary for any parent looking to improve the general health of their family. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> constructive and highly usable nutritional guide </p>
+
+
+<h2> review.date </h2>
+  03-21-2012  
+<h2> review.text </h2>
+
+ <p> I really enjoyed reading this book and could totally relate to a lot of what the author was saying. Society today is always looking for a quick fix and unfortunately its often giving in the form of a pill. The insights this book provides are fantastic for any parent, not just parents of overweight children. The benefits of eating well is a so underrated to many especially when you have a child that has been diagnosed with a behavior problem  and prescribed drugs. This book really is a must read for any parent that's concerned about there children's well being </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book with manageable and practical solutions </p>
+
+
+<h2> review.date </h2>
+  05-16-2012  
+<h2> review.text </h2>
+
+ <p> This book is packed with excellent information about how food not only relates to weight, but behavior as well.  Even if your child is not obese, this book is still a must-read for parents and grandparents.I loved Sarah's other book, "Is It ADHD Or Is It Just Me?" and just like in that book, Supersized to Superhealthy clearly shows that Sarah has done extensive research about the issue.  She talks to the reader in a way makes it easy to relate and offers plenty of information and practical solutions about eating healthy.Great job, Sarah!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent information for everyone! </p>
+
+
+<h2> review.date </h2>
+  03-20-2012  
+<h2> review.text </h2>
+
+ <p> This book by Sarah Curran is exceptional in a number of ways. It is a detailed, easily read book that confronts the problem of childhood obesity in a no nonsense, conversational manner. Full of fascinating facts about our eating habits, and those of our kids, it gives reasons to eat healthy (as if we needed them), hints on what to eat and how much (Supersize it, ma'am? No. Thank you.),what amounts of what foods should be eaten and why and some very interesting tidbits that I didn't know - and I know lots of things. :-)Do you know which VIP organ of your body is composed of 60% fat? Hint: It is not your bottom!Do you know of the different kinds of fats? Which are good for you and which are not?Do you know which food contains MASSIVE amounts of antioxidants and also tastes so yummy it is a delight to eat? I had vaguely heard of them but this book filled in the gaps and made me go and purchase some today! LOL! This one hint alone is worth the price of the book.Did you know that there are varying degrees of "organic"? Sarah Curran does and she explains just what you are getting with each degree.Do you know what the food labels mean? Believe me, the fine print revealed in this book will shock you. Sometimes the word "healthy" when used in relation to certain foods should have the disclaimer "Only if you are an Olympic athlete."!Supersized to Superhealthy is a fantastic book full of fascinating, useful and important information that every parent should have. Sarah Curran has really done her homework here and the book is inspiring and informative.Seriously, the best I have read on this subject. If you have a child, buy it now! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How to help your children live long and prosper! </p>
+
+
+<h2> review.date </h2>
+  05-16-2012  
+<h2> review.text </h2>
+
+ <p> This is a subject I'm extremely concerned about! Make no mistake, this is one of the west's biggest, if not the biggest problem. All parents should take note about childhood obesity. One time I saw a mother feeding a baby chocolate milk from a bottle in the Post Office...anyway I digress.This book is written from the point of view of a mother of three; one of her kids is obese.The author raises some good points about just why so many children are obese these days. Sure it has a lot to do with society, but parents absolutely must take their share of responsibility for how their kids turn out. Genetics can't be blamed either. Just two generations ago obesity was unheard of, the book raises and addresses these questions.In fact in my opinion, in chapter three the author hits the nail right on the head as to why children are becoming more frequently obese in this year 2012. To change this is so simple you wouldn't believe it. I won't spoil what it is for obvious reasons.I can't recommend this book highly enough to parents. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Very Important Book! </p>
+
+
+<h2> review.date </h2>
+  03-18-2012  
+<h2> review.text </h2>
+
+ <p> It's a pleasure to read such a positive book on such a serious subject.There are many views on diet as there are types of food but I find myself agreeing with a very large part of what the author says. What really tips it into five stars is not only Sarah Curran's observation that people must stop laying blame for their child's overweight problems on other people and organisations (bravo!), but the fact she then gives practical ways parents can use to get their children healthy.Don't get me wrong, I do believe the government peddles plenty of misinformation, but why wait for them to get it right when we can do things for ourselves? This book shows parents and grandparents (and teachers) ways to regain control, and healthy messages to pass onto our children.I think it would be interesting for Sarah Curran to do a follow up book or two showing this information, but aimed at children themselves. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Practical ways to help your children become/stay healthy </p>
+
+
+<h2> review.date </h2>
+  03-19-2012  
+<h2> review.text </h2>
+
+ <p> I originally bought this to share with a friend. Someone who has the cutest little girl, but she is becoming dangeroulsy overweight. I actually found that I could not put it down! This is good information not just for parents who have kids that are overweight, but EVERY parent should read this! It is as much about being a good parent to your kids and giving them the best diet you can, while teaching them the benefits to a good, healthy diet. It is up to us, as parents, to teach them right from wrong in all things; especially what they put into their bodies.I really liked the chapter on dealing with birthday parties and special occasions like that. They are tough. It's hard to imaging a kids' birthday party withouth cake, ice cream, cupcakes, soda, candy-filled goodie bags, etc. Sarah does offer some great suggestions there. Also helpful are the numerous recipes that both parents and kids can enjoy. She's got some amazing ideas for breakfasts, lunches, dinners, snacks, and desserts. I'll be putting some of these into my own recipe collection.This book is easily worth 5 stars and is a goldmine of information at many times the price. I highly, highly recommend it to any parent who cares about their children. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Every Parent Should Read This </p>
+
+
+<h2> review.date </h2>
+  05-17-2012  
+<h2> review.text </h2>
+
+ <p> I have just finished reading this book by Sarah Curran.With the childhood obesity problems that are reported upon at the moment, its an ideal time for this book that deals with this emotive topic in a sensative manner."Mom, I'm too fat to play".  What a message for any parent to hear..  and kudos to Sarah for taking notice and doing something to help her 4 yr old son.There is still a lot of false and downright misleading information out there today, and this book helps get the real facts out there.If your child suffers from obesity, then you need this book, its that simple.I purchased this for my son, whos first born is getting overweight.  Hopefully this will guide him in the correct ways to gently correct this problem.Thank you for this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well timed excellent book.. </p>
+
+
+<h2> review.date </h2>
+  05-17-2012  
+<h2> review.text </h2>
+
+ <p> It is really sad to see the number of overweight children. And the number is on the rise. Aside from the health issues many overweight kids may experience at an early age or later as adults due to weight issues, there is also the mental anquish of obesity. As the author points out, her child was only four when he was teased by his playmates.This is an excellent read to draw attention to this growing problem and provide actionable steps to take to help prevent and/or reverse it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stop Childhood Obesity! </p>
+
+
+<h2> review.date </h2>
+  04-02-2012  
+<h2> review.text </h2>
+
+ <p> I am shocked how far we have come away from the common sense of eating.  As a child I remember looking at the fruit pie in the freezer, but quickly gave up thoughts of eating it as it would take 60-70 minutes in the oven!  Today it's just too easy to grab, nuke and devour!  I really enjoyed this book - full of facts, tips and recipes you can implement quickly.  Perfect for the busy family. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For all parents! </p>
+
+
+<h2> review.date </h2>
+  04-01-2012  
+<h2> review.text </h2>
+
+ <p> Grandparents alert!Read this book, It is so full of interesting & informative content. You will not be able to put it down. After  you have read it, send it on to your grand children's parents.Sarah Curran has laid it all on the line. If you are worried about the health of those you love,study what she has to say.  It is about children but it applys toall of us. I think I will put some of the things to practice on my 74 year old child.An easy to read comprehensive study on how to eat a more healthy diet. Hooray for Sarah.Scroll back up and buy this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Must Read for Parents and Grandparents </p>
+
+
+<h2> review.date </h2>
+  03-25-2012  
+<h2> review.text </h2>
+
+ <p> Sarah has had her share of dealing with children with food problems and writes from that perspective. Her book is full of valuable information for any parent trying to help their children have a healthier lifestyle. It is easy to see that she writes from experience and that her knowledge has been hard earned. My first child was very allergic so I, too, have had my share of dealing with food issues. I know how hard it is to deal with them.Not only does Sarah clearly state the problems around food, she also offers some valuable solutions to those problems. Additionally, she has included a number of recipes that compliment the other content of the book.For any parent dealing with food sensitivities, this is an excellent book.Marg RuttanInternational Best Selling Cookbook Author </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well Written Information on Food and Children </p>
+
+
+<h2> review.date </h2>
+  03-19-2012  
+<h2> review.text </h2>
+
+ <p> Fantastic! An excellent, detailed book on a very important subject. This book is a valuable go-to guide for all parents, whether their child is obese or not. Growing up with healthy attitudes about food, weight, and exercise starts when children are young. As parents, we need to stay on top of what our children are eating and how much exercise they are getting, and as Sarah points out, we lead by example.What I love about this book is how the author not only discusses the alarming statistics on childhood obesity, but offers countless practical and manageable solutions to deal with and prevent obesity, right down to quick and easy recipes for breakfast, lunch, dinner, and snacks. She even includes ideas for healthy birthday parties that kids will love! I highlighted several ideas in that chapter that I will put to good use in a month at my four-year-old's birthday party.Once I started reading, I found I couldn't put this book down. It is packed with realistic ideas and tips that any parent can easily incorporate into their routine. The author's down-to-earth writing style and occasional splash of humor made for an enjoyable read as well.Highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Practical, down-to-earth how-to guide for improving your child's health </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

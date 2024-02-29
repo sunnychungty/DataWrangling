@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00A2EXYRU <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-28-2013  
+<h2> review.text </h2>
+
+ <p> I have found that when you try to press apps or areas around the edge of the screen protector portion sometimes your touch does not register the first time. Other than that I like it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just okay. </p>
+
+
+<h2> review.date </h2>
+  08-10-2013  
+<h2> review.text </h2>
+
+ <p> Thank you for making this product.  I really love the way my Apple iPod looks. Thank you very, very much. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful Product! </p>
+
+
+<h2> review.date </h2>
+  01-10-2014  
+<h2> review.text </h2>
+
+ <p> i like the idea of having a case and screen protector all in one but the plastic over the screen isn't very good. When i got it it had a white streak on it kind of when you fold plastic kind of streak. moisture gathers between the screen and the plastic on the case so i have to take the top of every now and then to dry it. I'm thinking of just cutting off the plastic par that goes over the screen maybe that will help. I do like the case makes it alot easier to grab the ipod. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> the plastic cover over the screen is the only thing i don't like </p>
+
+
+<h2> review.date </h2>
+  02-16-2014  
+<h2> review.text </h2>
+
+ <p> poor quality. the rubber pieces covering the headphone & charger ports were incredibly weak and TORE the first day. I ended up having to cut them the rest of the way off because they were just dangling there. The whole rubber covering was flimsy and doesn't fit properly. The inner hard shell is a tad bit too small so you have to FORCE it to clasp shut. The speaker is partially covered by the case on the bottom, so you don't get quality sound. Not to say the device has quality sound in the first place... but it's much worse with the case on. Mine also came with what appears to be hardened glue on it. It doesn't stay black. After only a couple days use, it has started wearing out and losing it's coloring. Great attempt at a knock-off of otter box..... but this particular case has a LONG way to go. Completely unsatisfied; & if they would take it back in this condition after only having it for less than  a week, i would gladly let them have it back. Also, wanted to state that i'm an amazon prime member. supposed to be 2 business days and it took an extra TWO days to get here. smh. Not the post office's fault either. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not what i expected at all </p>
+
+
+<h2> review.date </h2>
+  07-04-2013  
+<h2> review.text </h2>
+
+ <p> This is a perfect match for my phone. Now I don't have to worry about my phone breaking when I drop it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product </p>
+
+
+<h2> review.date </h2>
+  06-19-2014  
+<h2> review.text </h2>
+
+ <p> Once I assembled the Cimo case correctly, it fit my iPod like a glove. However, the &#34;fatal flaw&#34; was apparently the snugness of the case. Once installed, my iPod would not charge. I had to call Apple tech support, set up a Genius Bar appointment at an Apple store, and write to the manufacturer describing this issue. I received a prompt reply telling me that some of the units in their last batch apparently had a similar manufacturing defect. They immediately refunded my entire purchase. I continue to use the unit, but I have to remove it from the case in order to charge it. You may have better results than I experienced. I have mixed feelings about this product. Apple products are designed to perfection. Third party products for Apple hardware cost less than official Apple gear, and most of the time work just as well. Even the Apple technician thought that the Cimo case was well designed. However, I didn't expect that such a simple product would involve so much follow up time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A beautifully designed case with a fatal flaw </p>
+
+
+<h2> review.date </h2>
+  04-06-2014  
+<h2> review.text </h2>
+
+ <p> The case comes with a hard shell and a wrap around rubber cover. The rubber cover does not sit over the hard case properly. The hard case has to be opened to charge the ipod. The port for chargind slightly covers the lightning connector port. There are some platice rises on the hard shell to protect the buttons but that is the same reason the rubber wont sit properly. The bottom portion comes with three rubber buttons. I dont know why but they cause the rubber cover to seperate from the hard shell. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Avoid! </p>
+
+
+<h2> review.date </h2>
+  04-04-2014  
+<h2> review.text </h2>
+
+ <p> Works great, my fiance loved it because its durable, easy to use and protects her itouch I bought for her. Definitely recommend it to others. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product </p>
+
+
+<h2> review.date </h2>
+  12-14-2012  
+<h2> review.text </h2>
+
+ <p> this case fits the new ipod touch 5 snugly and securely in it's plastic shell. the outer rubber skin is thin but feels good to the touch. but the clear plastic faceplate has a minor flaw. it looks like it has thousands of tiny horizontal lines on it. if you view anything white with text you will clearly see them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent Case Has Minor Flaws </p>
+
+
+<h2> review.date </h2>
+  12-16-2012  
+<h2> review.text </h2>
+
+ <p> Easy to install and the outer shell makes it easy to hold and not slip out of your hand also does not slide out of you pocket when you bend over or move around.High recommend to any one who has a new iPod version 5. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love it. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

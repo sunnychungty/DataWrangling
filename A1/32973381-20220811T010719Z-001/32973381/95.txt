@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004GV0IOW <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-16-2013  
+<h2> review.text </h2>
+
+ <p> I want to upgrade my laptop (MSI A6200), this is a Intel i5 based system, I upgraded the OS to Windows 7 64 ultimate, and my original memory was 4g, it is barely enough for the 64 bit windows, I bought the ADATA memory, received it on time, replace the two 2 g memory came with the laptop, and plugin the new one from ADATA, it works great, happy with it.I had in for a week now, the system works fine and performs well, from all the indication, once the system is stable for more than a week, the long term reliability should not be a problem. I will update this in the future if problems pop up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful memory - has no problem with it </p>
+
+
+<h2> review.date </h2>
+  09-19-2012  
+<h2> review.text </h2>
+
+ <p> I installed these in my 8740w which had 2x4GB (HP OEM RAM by Samsung). These matched the speed and timings of the 8Gb installed, and since my laptop has 4 slots, I now have 24GB ram total.HWiNFO32 gives the following Timings (clock speeds in singe channel, double them for dual channel speeds)667 MHz - CL9 | RCD9 | RP9 | RAS24 | RC33533 MHz - CL7 | RCD7 | RP7 | RAS20 | RC27400 MHz - CL6 | RCD6 | RP6 | RAS15 | RC20333 MHz - CL5 | RCD5 | RP5 | RAS12 | RC17 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works Great...CL9, not CL11 </p>
+
+
+<h2> review.date </h2>
+  01-08-2014  
+<h2> review.text </h2>
+
+ <p> I got this to upgrade the memory in my Dell laptop. The laptop is now faster and runs smoother when multitasking. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Upgrade!!! </p>
+
+
+<h2> review.date </h2>
+  08-01-2012  
+<h2> review.text </h2>
+
+ <p> Normally, I'm one to stick with the big brands; Kingston, Crucial, g.skill...  However, I wanted to get something through Amazon and I have had pretty good luck with ADATA (well their flash drives) so I figured why not.  This memory was purchased for my Acer Aspire TimelineX 4830T.  I decided to stick with 1333MHz since this laptop (and most others) apparently can't go any faster, thus no reason to spend more on 1600MHz.Once installed, the system booted right up.  I ran a few tests with memtest and Prime95 without any errors.  I've not done any official benchmarks but this memory seems quite standard.  9-9-9-24 running at 666MHz.  Windows Experience Index (Memory) went from 5.9 to 7.4 after the upgrade.  I still call the whole Experience Index BS but obviously there's quite an improvement there in general!So if you're looking for an inexpensive 8GB kit and don't mind straying away from the more common brands, you really can't go wrong here.  Honestly, my only real complain was the blister pack the RAM was in packaged in! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly as described. </p>
+
+
+<h2> review.date </h2>
+  11-26-2013  
+<h2> review.text </h2>
+
+ <p> Bought this to speed up my Gateway NE56R10u laptop and it did just that. Running windows7 ultimate 64bit. with 6gigs of ram and 300gig hard drive. I was able to play street fighter 4 at 30fps (slow but, playable). well worth the upgrade. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ADATA will not let you down </p>
+
+
+<h2> review.date </h2>
+  08-17-2013  
+<h2> review.text </h2>
+
+ <p> I got this ram because my wife was complaining that her laptop was slow.  with the new ram she said that has speeded up her searches and on line work.  She won't let me touch her laptop so I will have to take her word for it.  The install instructions made it an easy upgrade from 4 GB to 8 GB.  I was done installing in about 5 minutes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ram was perfect fit for my wifes laptop </p>
+
+
+<h2> review.date </h2>
+  04-14-2013  
+<h2> review.text </h2>
+
+ <p> MY HP is running better with this chip and it is a 2gb increase (from 6 gb to 8 gb). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works like a charm </p>
+
+
+<h2> review.date </h2>
+  10-04-2013  
+<h2> review.text </h2>
+
+ <p> Installed perfectly. Recognized perfectly. Have been using it in my work laptop for 6 months or so now. No issues. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect </p>
+
+
+<h2> review.date </h2>
+  03-06-2013  
+<h2> review.text </h2>
+
+ <p> My daughter's HP laptop came with Adata memory. When I decided to up grade my HP Elitebook, I decided to use the same. Well, It arrived in pristine condition. It was exactly what I ordered and my machine recognized and used it immediately upon startup. I can't ask for more. The package says lifetime warranty. I hope I never need to use it. So far, so good. I recommend this memory upgrade. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect </p>
+
+
+<h2> review.date </h2>
+  11-20-2012  
+<h2> review.text </h2>
+
+ <p> I've bought multiple sticks of this RAM with no issues, using them in Lenovo Thinkpads and Macbook Pros. Next time I need more RAM for a laptop, I'll probably buy another stick of ADATA RAM. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good RAM for the price </p>
+
+
+<h2> review.date </h2>
+  07-11-2012  
+<h2> review.text </h2>
+
+ <p> Popped them into an Acer Aspire AS5552-3691Windows 7 64 bit memory score went from 5.4 to 7.7Great low cost upgrade. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works in an Acer Aspire </p>
+
+
+<h2> review.date </h2>
+  07-25-2013  
+<h2> review.text </h2>
+
+ <p> Upgraded with 16GB from 8GB in my Asus laptop w Windows 7 Home Premium.Directions in foreign language not issue for me, didn't need them. Was quick replacement, securely inserted, 1st boot recognized 16GB but didn't adjust usable GB from former. Switched them to opposite bank, 2nd boot had automatically adjusted usable GB from former.  Very pleased with speed boost and improved resource usage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A-DATA Premier Pro Series 16 GB Kit (8 x 2) DDR3 1333Mhz CL11 Dual Channel SODIMM Laptop Memory AD3S1333W8G9-2 </p>
+
+
+<h2> review.date </h2>
+  05-08-2013  
+<h2> review.text </h2>
+
+ <p> I got a refurbished 17&#34; HP laptop and 4 GB of RAM was barely cutting. Added this stick, all is well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The more RAM the better </p>
+
+
+<h2> review.date </h2>
+  07-05-2014  
+<h2> review.text </h2>
+
+ <p> As Posted & great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  02-25-2014  
+<h2> review.text </h2>
+
+ <p> I had some problems trying to get the ram to slide into the second slot of the mobo. If the slot the is not easily fitting in, don't keep on using overly harsh amounts of force. Try popping out the other ram in the first slot and use the angle of the first ram as reference to get the second ram to line up, then slide in and snap. After that hassle, I booted every thing up and my cpu gadget detected 5.9gb of ram in dual channel. Works great and great price! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Upgraded from 4gb to 6gb of ram </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00AXTNY5G <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-12-2013  
+<h2> review.text </h2>
+
+ <p> Whether you are a vegetarian or not, this is a great cookbook to have around! I already follow a rather healthy diet, but found many great recipes in this cookbook to add to my repertoire of menus. Whether you are already a vegetarian or are trying to eat healthier in order to look and feel better, this book will serve as a valuable resource. The author starts the book with plenty of information on the benefits of eating like a vegetarian as well as how to get started if you are not one. It is then followed up with a ton of great recipes! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Cookbook </p>
+
+
+<h2> review.date </h2>
+  07-11-2013  
+<h2> review.text </h2>
+
+ <p> I am not a vegetarian but picked this book up because I am interested in eating healthier.  This book is full of healthy vegetarian recipes that sound absolutely delicious and some I will definitely try in my quest to eat better.The author gives a really helpful section at the beginning on the benefits of becoming a vegetarian and tips on how to do so.  But what I really loved about this book is that the author provides a meat variation, which allows for some flexibility should you want to add a little meat or dairy to the recipes.Very well done and one that I am happy to add to my kindle recipe book collection! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Vegetarian Recipes with a Twist </p>
+
+
+<h2> review.date </h2>
+  07-11-2013  
+<h2> review.text </h2>
+
+ <p> yes I have to admit I eat beef, veal and chicken.  I also enjoy vegetables and often eat vegetarian dishes.  This book offers some delicious vegetarian recipes and what I like is the fact that the author offers the option to add meat if you must have the animal protein.  The recipes are easy to follow and I must admit not being a kitchen type guy I am confident I can whip up these recipes easily.  Great book, great recipes! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Being a Meat Eater This Book Is Awesome </p>
+
+
+<h2> review.date </h2>
+  02-12-2013  
+<h2> review.text </h2>
+
+ <p> This is the second book of vegetarian recipes that come also with a non-vegetarian variation and there are 30 new recipes to add to the volume oneVegetarian Recipes for Meat Eaters: Simply the Best Vegetarian Entr&eacute;es and Main Course Meals with Easy Carnivore Variations, Volume One.I was very happy to have got the first book and I am still glad that there are additional recipes to choose from, but in volume two I found less of them that I want to try.Just a note: most recipes demand quite some time to prepare. I am hoping that the author writes her third volume with something that could be done quickly during the week when we are short of time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Second in a row </p>
+
+
+<h2> review.date </h2>
+  03-02-2013  
+<h2> review.text </h2>
+
+ <p> I have always been a meat eater (I love my vegetables too) however when i read the title, I had to check it out.  I literally got hungry looking over the recipes and the meat variations to each recipe. This book opened my eyes actually. I feel this is an excellent book for those who need more vegetables in their diet for sure. Great easy to read book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Vegetarian Recipes for Meat Eaters book </p>
+
+
+<h2> review.date </h2>
+  03-06-2013  
+<h2> review.text </h2>
+
+ <p> Being a confirmed carnivore I must admit to approaching this book with some trepidation - after all can there really be a replacement for a good steak?Well, the answer is yes there can. The recipes in this book are clear and easy to follow and will certainly open your eyes to a meat free world! And if you can't bear to be completely meat free each recipe offers a meat addition so you don't have to go totally cold turkey! (sorry for the pun)A tasty read highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Vegetarianism for meat eaters! </p>
+
+
+<h2> review.date </h2>
+  07-06-2013  
+<h2> review.text </h2>
+
+ <p> Vegetarian Recipes for Meat Eaters Volume 2 is even BETTER than volume 1! Why?? It's the whole package, from the way it completes the "educational aspect" of this to the recipes. If you loved Volume 1, you're love Volume 2 even more. From recipes such as, "Goat Cheese and Roasted Red Peppers," "Red Pepper and Artichoke Strudel," "Millet Tofu Patties with Horseradish Cream," and "Fennel and Tomato Ravioli with Garlic Oil," to "Spiced Pumpkins with Red Lentil Dressing," and "Cauliflower Cups with Red Pepper Sauce,"... I LOVED them all!!If you'd LOVE to add some variety to your meals that will add a lot of flavor, and healthiness, as well, Volume 2 is a WONDERFUL place to start. However, make sure that you get Volume 1 at the same time since they're meant to be a set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Even better than Volume 1 </p>
+
+
+<h2> review.date </h2>
+  07-19-2013  
+<h2> review.text </h2>
+
+ <p> This is the perfect combination. We all know that we should eat more vegetables and yet most of us don't want to give up our meat. I know I don't. This cookbook gives you the best recipes to add vegetables to your diet without giving up meat. I've tried some of the recipes in the book and they are very tasty. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't give up your meat, but add in more vegetables </p>
+
+
+<h2> review.date </h2>
+  02-20-2013  
+<h2> review.text </h2>
+
+ <p> I liked the layout of this book and the way the recipes are written is easy to follow. It has the typical vegetarian offerings of salads, soups and pasta dishes. The ingredients in the recipes are readily available also. Since my home has both vegetarians and meat eaters, the substitute for meat eaters was appreciated.I gave 4 instead of 5 stars because though the recipe collection was good, they didn't excite me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Collection of Recipes But... </p>
+
+
+<h2> review.date </h2>
+  08-15-2013  
+<h2> review.text </h2>
+
+ <p> I am no vegan by any means, but this cookbook peeked my interest and what you know, I was pleasantly surprised. I tried a few of these recipes so far, some with and some without the meat option and found them very tasty, so much, that I will permanently include some of them, without meat, in my weekly diet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Vegetarian Recipes </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

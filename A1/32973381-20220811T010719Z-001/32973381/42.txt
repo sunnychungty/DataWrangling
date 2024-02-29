@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B001AO0LLI <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-18-2013  
+<h2> review.text </h2>
+
+ <p> Good stand. Serves its purpose and for a cheap, reasonable price. I am satisfied. I also use the stand for a Jib Crane. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  12-29-2013  
+<h2> review.text </h2>
+
+ <p> This stand certainly was a good purchase.  It was easy to setup.  The base is wide so there is no fear of them tipping over when heavy backdrops are used.  We use vinyl backdrops from LemonDrop and they work great on this stand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well constructed and a good value </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> This backdrop stand is very easy to use.  It feels solid, though I do have the PBL sandbags that I will use in high-traffic areas.  The crossbar comes in a separate cardboard box inside the package and not inside the two separate carrying cases for each side, but the crossbar is in two pieces and one piece fits nicely in each bag with the side stands.  I worry that over time the crossbar will bend in the middle, but we'll see how it holds up.  It's plenty study for now, and that worry is well down the road.  The adjustment knobs are not quite as sturdy as the knobs on the PBL Heavy Duty light stands, but I think they'll do just fine.  Though the cases for these are much better than those that came with the light stands.  Overall, much improved over my PVC system that I paid almost $40 to build.  You won't regret ordering this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to Use </p>
+
+
+<h2> review.date </h2>
+  02-14-2013  
+<h2> review.text </h2>
+
+ <p> The stands are much better then I thought. Very durable and easy to fold up. You can't go wrong for the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great stands </p>
+
+
+<h2> review.date </h2>
+  03-02-2012  
+<h2> review.text </h2>
+
+ <p> Since this is my first background stand, I do not have much to compare it to, but I received my purchase yesterday and wasted no time in getting it out of the box and placing a muslin backdrop on it right in my living room.Each stand comes in it's own bag (as pictured in the stock photo). The crossbar does not have it's own bag but there is plenty of room to split it into two and put one in each bag for travel.I was very surprised at how lightweight the stands are, and then even more how sturdy they were once I got them set up. My 2 year old son was playing around them, driving his cars up one of them and they barely budged. The stand even held up with my son decided to lean against the backdrop.Assembly was simple. I did have to push one of the crossbar end pieces back into place, but that was minimal effort.The poles and crossbar are spring loaded and that makes adjustments really easy for even one person.I will be looking into other PBL products based on my purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Stand </p>
+
+
+<h2> review.date </h2>
+  07-01-2012  
+<h2> review.text </h2>
+
+ <p> I ordered this expecting it to be pretty crappy to be honest.I was pleasantly surprised when I got it though.It's nothing like any of the pictures show so I don't know if they sent me a different one or what. The stands are pretty beefy. The Crossbar easily supports my 107x12yard rolls of paper. The crossbar looks nothing like the pictures shown. Mine looks thicker and is designed differently. The footprint of the stands is pretty big though. If you want to use the 107" paper you better have at least 13 feet of clearance from side to side to allow room for the base of the stands when used with 3 out of 4 sections and 15-16 feet when using all 4 at the 12 foot max length.All in all, I am happy with this product, it meets and exceeds my needs and is better than I had anticipated. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than I expected </p>
+
+
+<h2> review.date </h2>
+  01-24-2009  
+<h2> review.text </h2>
+
+ <p> I purchased this background stand as an addition to my equipment. I already had on background stand and was looking to add another one so I could shoot using 2 different backgrounds. I must say This is a excellent background support stand. Very durable and is spring loaded. A solid choice for the money! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid Background Stand! </p>
+
+
+<h2> review.date </h2>
+  10-13-2011  
+<h2> review.text </h2>
+
+ <p> Overall, it is a good price for the money.  It is hard to beat two stands, with crossbar and carry case for $60.  The crossbar is pretty flimsy and I do not know how it will hold up over time.  If you will be moving this around a lot, then I don't know how well it will work.  But for $60 I am happy and I'll order another soon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for the price </p>
+
+
+<h2> review.date </h2>
+  06-02-2013  
+<h2> review.text </h2>
+
+ <p> I bought it for the telescopic bar. The stands are pretty sturdy. The bar has a nifty design, but isn't as strong as I thought it would be. It bowed as soon as I put my 1st backdrop(about 5lbs) on it. I would've preferred to spend a little more for 1 that I would be happy with. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for the price </p>
+
+
+<h2> review.date </h2>
+  10-31-2012  
+<h2> review.text </h2>
+
+ <p> I ordered the SP2000 backdrop support first. It had similar features, but was ten dollars less. It was a piece of junk, and was poorly manufactured. Then, I ordered this PBL backdrop support. I haven't officially used it yet, but have set it up. It is amazing!This is of much better quality than other support stands in this price range. It is very sturdy, and I love how the support bar telescopes. It doesn't lose much, if any stability.The support seams heavy duty, but it is light enough for travel.The only negative... It comes with two separate bags, one for each stand. The support bar comes separately in a box. I wish it came in a nice bag that held it all together.Overall, this is the best backdrop support in this price range. I would rather have this quality stand, and if the bag bothers me enough, I'll buy a bag separately for everything. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great quality for a low price! </p>
+
+
+<h2> review.date </h2>
+  04-04-2009  
+<h2> review.text </h2>
+
+ <p> Superior product.  Sturdy, easy to set up and break down.  Great size range. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Impressed </p>
+
+
+<h2> review.date </h2>
+  02-17-2014  
+<h2> review.text </h2>
+
+ <p> Very sturdy system.  I can easily set it up by myself and take it down.  Seem very durable.  Does the job and I love it.  I would strongly recommend this to other customers looking for something like this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very sturdy! </p>
+
+
+<h2> review.date </h2>
+  10-20-2013  
+<h2> review.text </h2>
+
+ <p> Love this backdrop stand. It's sturdy and is pretty good quality. Breaks down quickly and is very transportable. Great quality and a great price. Goes higher than I need it ask as wide as you would need it to go and is still sturdy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great buy! </p>
+
+
+<h2> review.date </h2>
+  01-06-2013  
+<h2> review.text </h2>
+
+ <p> The item is great and works as described. I would purchase this again if asked. Dont worry, Buy with confidence!The extending top bar is great, but it has a very large minimum size. about 2-3 feet larger than a 53&#34; backdrop </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great item </p>
+
+
+<h2> review.date </h2>
+  12-24-2009  
+<h2> review.text </h2>
+
+ <p> In a time of made in china garbage being put out onto the market, this was a welcome surprise when I unboxed this support system. The cheap pressed Chinese rivets weren't on this system. It actually makes use of nuts and bolts!I used this support system with a 10x20 diamond cloth with no weights on the support stands, and didn't have any problems with adequate support. Never once was I worried about the unit tipping over onto the subject.Now for the made in China parts included. Yes. There were some. The bag to carry the system in does have a made in China label on it. The bag works just fine for transporting the system. If I needed to move it around more I might look for a better method. For the most part, the bag is just used for storing the supports and keeping everything together in my studio. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Low price far exceeds the quality of this backdrop support system </p>
+
+
+<h2> review.date </h2>
+  07-08-2014  
+<h2> review.text </h2>
+
+ <p> Serves the purpose, which is great. But I am truthfully a little disappointed in the quality.  The bar does sag, but I'm not concerned about it collapsing.  The stands are rather flimsy.  I had purchased an 8' PBL light stand and it was great quality and at a good price.  I expected the same workmanship with these, but that's not the case.  They are harder to adjust and more difficult to expand than the 8' stand.  I think I got lucky with the 8' stand and I probably won't be purchasing anything else from them.  They would easily tip without sand bags.  I would have no issue or concern using the 8' stand indoors without sand bags. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Serves the purpose, but not sturdy. </p>
+
+
+<h2> review.date </h2>
+  03-25-2013  
+<h2> review.text </h2>
+
+ <p> It came on time in a few boxes with zipped travel bags. The construction is sturdy and attractive. You'll need to purchase some clips to hold the backdrop fabric to the frame. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprising quality at a low cost </p>
+
+
+<h2> review.date </h2>
+  03-08-2013  
+<h2> review.text </h2>
+
+ <p> reading the box were they came in said two studio light stands......(I DID NOT ORDER THIS) untill i open the box and the other piece missing was inside the box that connects the two stands together. and they are light stands as well.(but thats not the reason i bought them for)these stands have a really wide foot size so there super sturdy. there not the lightest around but i dont care. I preffer having a sturdy background support than one not sturdy and falling over a client( so embarrassing).  As far as the rubber feet go they work perfect. they do actually grip to the floor and do not slide around(unlike the cowboy studio light stands i bought). most of the bolts that come with these stands are replaceable.You can find them in your local hardware store so thats a big plus.the only downside is the bags. I cant seem to get the zippers open with out looking like i'm fighting with the bag. but I rather it be the bag than the stands themselves. happy shopping! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I was about to return it...... </p>
+
+
+<h2> review.date </h2>
+  01-06-2014  
+<h2> review.text </h2>
+
+ <p> I really like this set. I have several different types of backdrop frames and thinking of retiring them with purchasing more of these. It is quality build, I love that the stands extend so far, and the telescoping adjustable length crossbar is pretty awesome. I hang seamless 9ft paper backdrops as well as a few canvas muslins and some custom made fabrics. The durability is moderate at best would be my only negative comment, but at the price and what I want to do with them they are sturdy enough and was what I was expecting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thinking of getting a couple more </p>
+
+
+<h2> review.date </h2>
+  05-05-2014  
+<h2> review.text </h2>
+
+ <p> Even though one leg arrived bent, this stand works perfectly. Great price and holds up my green screen. Love the carrying case! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One leg was bent </p>
+
+
+<h2> review.date </h2>
+  09-22-2009  
+<h2> review.text </h2>
+
+ <p> This kit exceeds it's price value. Although it's not sturdy enough for heavy muslins or vinyl backgrounds, paper rolls and thin cloth are ok. Comes with everything you need (minus the backdrop) all stored in a carry case. Best 12 ft. backdrop kit I've seen under $100! My only complaint is that I wish the crossbar segments would lock in place more secure. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Value </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> This PBL BACKDROP BACKGROUND SUPPORT STAND SYSTEM PHOTOGRAPHY STUDIO VIDEO system is perfect for your needs for any backgrounds. This system is exactly as shown on Amazon. It is very strong and easy to work with. I am using it support a 10 x 13 foot backdrop.No troubles at all. I have taken it up and down a few times to test it's durability...No problems.It comes with carry bags (for all parts) and they are strong and easy to use. The legs are easy to adjust and are quite sturdy. The cross bar on top is very easy to adjust, attaches to the stands easily and is very strong. Everything about this system says strength.I will post a review in a few months if there are any changes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> PBL Does the job </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1591025990 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-22-2013  
+<h2> review.text </h2>
+
+ <p> Ongoing,evoving saga, with typical brain snagging characters whittled and shaped from other venues.  Fun, light reading that passes too fast </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Resnicks saga evolves and continues </p>
+
+
+<h2> review.date </h2>
+  05-17-2010  
+<h2> review.text </h2>
+
+ <p> A++, very good part of the series which is a must read. Dana Van Valin in Colorado </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Starship: Mercenary </p>
+
+
+<h2> review.date </h2>
+  01-13-2008  
+<h2> review.text </h2>
+
+ <p> The cunning Captain Wilson Cole and the cast of the Starship Teddy R. are back in the third novel in this vastly entertaining series. Easily accessible to non-science fiction readers, its larger-than-life, witty and mythic-sized characters propel the book through snappy dialog and clever plotting. I loved this book and it surely will win a spot on my 2008's best list. (C'mon Hugo award givers, isn't it about time Renick won a best novel award?) Fans of Joss Whedon's Buffy the Vampire Slayer and Firefly really should be reading this. Highly Recommened! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This series just keeps getting better! </p>
+
+
+<h2> review.date </h2>
+  12-17-2007  
+<h2> review.text </h2>
+
+ <p> Three thousand years from now, man created the Republic; many alien races joined it.  Now the Republic is at war with the Teroni Federation.  Commander Wilson Cole of the starship Theodore Roosevelt relieved a captain of her command and in doing so saved a planet and millions of lives.  As a reward, he was arrested and awaiting a court-martial, but his squad freed him and they jumped to the Inner Frontier.  They became pirates but for law abiding men and women used to a command structure they found out they were not good at piracy.They become mercenaries selling their services to the highest bidder and found that a bit more honorable.  They save lives including that of freeing a client who is held on a warlike isolationist planet; get the patients out of a hospital before an enemy warlord and his armada bears down on them; stopping a warlord from exterminating an entire planet; and saving a space station that is in neutral territory and where all species are welcome.  Cole uses his brains to come out the victor especially since one of his most trusted of crew joined forces with their enemy.Filled with action, brilliant planning for the success of a mission and characters that readers really care about STARSHIP MERCENARY like its predecessors PIRATE and MUTINY is a fabulous outer space saga.  The hero is an honorable man treated dishonorably by the Republic he swore to protect but he is not bitter.  He spends his time on missions he chooses and caring for each member of his team; and in return they give him their undying loyalty.  Val, the pirate who become Cole's Third Officer, doesn't comprehend how the crew of the Teddy's R can care for one another without demanding more in return.  Mike Resnick is a great galaxy-builder as he describes alien species so readers believe they will exist in the future.Harriet Klausner </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great  spece opera </p>
+
+
+<h2> review.date </h2>
+  09-02-2012  
+<h2> review.text </h2>
+
+ <p> I actually paid full price for the 3 sequels to the first book in this series because I liked the first book so much.I am not sure I got my money's worth.This is not a great book. Just mediocre.I kept reading hoping it would eventually live up to the promise of the first book, but it didn't.Cole just has it too easy. he turns into some kind of tactical genius who somehow figures out exactly what to do, but the stry is never clear about why that is, or how he comes to those decisions. it just happens as much as anything else. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> mediocre </p>
+
+
+<h2> review.date </h2>
+  09-06-2010  
+<h2> review.text </h2>
+
+ <p> This book purchased via Whispernet for my Kindle and it is a very good sci-fi book. Well written, excellent story line and fun to read. Thanks!!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Starship: Mercenary (Starship, Book 3) </p>
+
+
+<h2> review.date </h2>
+  12-23-2007  
+<h2> review.text </h2>
+
+ <p> You have to have read the first two books to read this one.  This is an on going chess game between Resnick, the author, and you, the reader.  The first tdwo set up the story line of a wandering Navy hero without a country with a ship and crew of dedicated followers roaming the edges of space looking for a purpose.  You had the story of them getting kicked out of the navy and then the story of them trying to be "good" pirates.  Each of the first two books has the the hero and the crew evolving to ...  what?  Ah now that is the question or hooked that is used by the author.  There are just so amny jobs in space for a noble hero and crew without a country and a whole navy after their heads.  MERCENARY is the next step for this group.  Here they do what they think is thier best, being a mercenary.  However ethics and morals keep getting in the way and this line of endeavor soon wears out.  An the author has athe reader set up for thenext evolutionary step.  The book is like a Gary Grant screw ball comedy in the way the characters talk and like FIREFLY is the excution of the schemes.  However I like to think of it as "book candy" for your literary sweet tooth.  It is fun and a fast read.  The cast of characters is charming and expanding.  This time the author tells no one story but several stories leading to the next book.  The character of Val is what the author or leading character Wilson seem to want to build around or rarther use to teach the moral of the story.  Oh yes their is a moral to this story and it is brought out in the lst ten pages.  If you are looking for high concept or mind bending ideas this isn't for you.  It is entertainment that makes you laugh and want to read more.  Hey that is pretty darn good thing for a book to do. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> sneaks up on you </p>
+
+
+<h2> review.date </h2>
+  05-09-2008  
+<h2> review.text </h2>
+
+ <p> I liked this book because it was fast paced action, and easy reading. Awaiting the next installlment </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good addition to the series </p>
+
+
+<h2> review.date </h2>
+  03-04-2008  
+<h2> review.text </h2>
+
+ <p> It's 1968 of the Galactic Era, some 3,000 years from Earth's future, and a human-created Republic is in the midst of war. A rescued rogue captain finds himself a key player in the conflict, becoming a mercenary ship forming some unusual partnerships which may ultimately be at odds with his goals and self-interest. Military science fiction at its best, STARSHIP: MERCENARY represents Book 3 in a fast-paced series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Military science fiction at its best </p>
+
+
+<h2> review.date </h2>
+  11-27-2010  
+<h2> review.text </h2>
+
+ <p> I started this book with hope that the action would be mnore interesting and take up more pages then the previous books in the series, but unfortunately, this book followed an almost identical pattern. Very slow at the start, a few interesting moments in the middle, and a very quick action packed ending.The progression is very much on how strategy computer games are played; start out with one ship/planet, conquer a second, etcIt is still an enjoyable read, but a very quick read and definitely not something to go back too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> More of the same old </p>
+
+
+<h2> review.date </h2>
+  08-01-2008  
+<h2> review.text </h2>
+
+ <p> I can't recommend this series enough, frankly.  Resnick has built a fascinating "future history" with his "Birthright" universe, and this book (the third of three) is set smack in the middle of it.Highly recommended for any space opera or military science fiction fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic Conclusion to an Excellent Series! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00004RFG3 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-04-2014  
+<h2> review.text </h2>
+
+ <p> This is another surprise gift for my husband who will love this concert DVD of his favorite group. And the price  was great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> EWF </p>
+
+
+<h2> review.date </h2>
+  02-10-2001  
+<h2> review.text </h2>
+
+ <p> I felt like a kid on X-mas day when this video arrived in the mail and rushed to put it on. It's wonderful!  Earth Wind and Fire is the greatest soul band of all time.  Period.  Their music literally feeds your soul. If you want to hear what live music really should sound like and see what a real peformance should look like, get this tape!I LOVED watching this concert of EWF in the early days. Unfortunately, I never saw them live in the 70s which is why this tape is a true gem.  The lighting and special effects, costumes, dancing and the constant energy of the fellas is overpowering!  It will take you on a stroll down memory lane and have you movin' &amp; groovin' with Maurice, Verdine and Phillip.If you want a piece of history to pass down to your children and their children, get this concert!  Earth Wind and Fire's music stands the test of time and the beauty of their presence and longevity in the industry lies in the fact that they cross all lines -- race, social class, age. Just look into the faces of their audiences and you'll see the love.NOTE: The opening sequence will blow your mind! They just don't make concerts like this any more. Wow! CLB. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shining Stars for U to see! </p>
+
+
+<h2> review.date </h2>
+  03-17-2005  
+<h2> review.text </h2>
+
+ <p> I gave it 4 stars because, it's only 1 hour long,and it doesn't have, After the love is gone. Whyis this still the only EWF concert out, of themin their prime? I know there's more great footageout there! You can buy this dvd for $15.29 at([...]) Sorry Amazon, but you'reover priced on this item. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> THEIR BEST CONCERT ON DVD! </p>
+
+
+<h2> review.date </h2>
+  06-05-2010  
+<h2> review.text </h2>
+
+ <p> Great to see the original members of Earth Wind & Fire again.  They always put on a great show.  Video and sound was excellent. I love this disc and have recommended it to others. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful </p>
+
+
+<h2> review.date </h2>
+  08-13-2005  
+<h2> review.text </h2>
+
+ <p> First of all, let me preface my review by telling you that I am a huge EWF fan.  But this video performance leaves me stone cold.  Not only is the musical performance faked.  But the performance itself looks staged.It looks like a few actual live shots were added into the video along with the mostly staged shots.  And as a result, the video (excluding "That's the way of the World") comes off rather insipid.  That's a shame because EWF has always had a special bond with the audience.  That's mostly missing here.Also, the Darth Vader/Superman act looks rather silly.  Although the laser holographic Eagle is fantastic.  I remember attending the same tour and that opening was much longer and LOUDER than presented on the video.EWF's videography contains far more exciting performances- like the "Live in Japan" DVD.  A better option is the "Chicago/EWF Live at the Greek" DVD (no Maurice though).  Or better still, get the SACD version of "Gratitude" and use your imagination. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fake and Corny. </p>
+
+
+<h2> review.date </h2>
+  02-10-2014  
+<h2> review.text </h2>
+
+ <p> This DVD was a big disappointment the picture is of poor quality , after really watching it I realized the vocal after all were not that great they really couldn't sing , if you just want to watch some form of entertainment this dvd  provides that and nothing more. The stage scene is a joke just poor entertainment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Earth Wind & Fire In Concert </p>
+
+
+<h2> review.date </h2>
+  09-06-2012  
+<h2> review.text </h2>
+
+ <p> I have EWF music, but I ordered this particular concert DVD because I wanted to see a live performance from the group. It was a good concert with most of their popular songs. The DVD arrived as promised and everything is fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Earth Wind Fire </p>
+
+
+<h2> review.date </h2>
+  01-21-2001  
+<h2> review.text </h2>
+
+ <p> Earth,Wind&amp;Fire in there Prime taking names&amp;getting right on the stage a must have.EWF are still the Band. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a must have </p>
+
+
+<h2> review.date </h2>
+  12-24-2010  
+<h2> review.text </h2>
+
+ <p> Not a real live concert - almost entire thing is lip synced. If you want videos then it's fine. If you want a live performance look elsewhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lip synced - very obviously not live music </p>
+
+
+<h2> review.date </h2>
+  07-26-2010  
+<h2> review.text </h2>
+
+ <p> A great concert from back in the day! It really shows just how much they have evolved over the years. It would have been great if other concert DVD's were available that would have captured some of their "acts of magic" (such as the one where they all climbed into a gold pyramid and as it was pulled up towards the ceiling the pyramid opened and they disappeared!)Their performances were truly innovative and exciting!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Vintage Earth Wind & Fire" </p>
+
+
+<h2> review.date </h2>
+  01-02-2014  
+<h2> review.text </h2>
+
+ <p> A instrumental group turns in to one of the greatest groups in music history ,vocals what a show they put on for there fans a classic !!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Legends !!! </p>
+
+
+<h2> review.date </h2>
+  12-23-2003  
+<h2> review.text </h2>
+
+ <p> There are admittedly some flaws with this DVD- meaning it's not long enough, there is over dubbing (done well enough not really intrude unless you're looking for it) and some of their songs like September, Love's Holiday, and After the Love is Gone to name a few that aren't on this and could've made it longer. ALL THAT SAID:  THIS IS ONE OF THE BEST, FUNNEST AND MOST ENJOYABLE 58 MINUTES YOU WILL EVER WATCH!  I love this video. I saw it on &quot;Visions&quot; cable in Alaska back in 1982 back when HBO was the only pay channel and taped this off of that. I LOVE that this is available on DVD. They did a great job on cleaning up the analog recording. Someone else's review took exception to the video quality. I don't know if they wanted 3D or if they were just used to digital to digital. This started as an analog video and as such is limited by that- but the picture is fabulous to me (esepcially in comparison with the crappy copy I had on VHS.)This DVD is hands down one of the best concerts I've ever watch on DVD- with all the energy, fun and honest love for music that the entire band displays it is contagious and so much fun to watch. The camera work is good- they do a great job of getting around to each member of the band - showing them having a good time and even &quot;funning&quot; around. The soprano sax solo by Andrew Woolfolk is smokin' and the &quot;national anthem&quot; of &quot;That's the Way of the World&quot; is so sincere and uplifting. Just a great concert!!!!!This DVD would be worth it to me if it was $50 ( but luckily it's not.) I love this concert. It's full of great music and so much fun- and to quote Mr. Phillip Bailey, the &quot;genius of Maurice White.&quot; </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best concert I've ever seen.... </p>
+
+
+<h2> review.date </h2>
+  05-15-2000  
+<h2> review.text </h2>
+
+ <p> I am SO HAPPY to finally add this long out of print concert to my collection!  The sound is great, and Pioneer did a nice job with the digital remastering of this old HBO concert from almost 20 year ago!  The best part of this experience is seeing most of the original members on  stage, and the only problem that I have with the DVD is it's length, only  58 minutes!  Come on !  At any rate, any true EWF lover will enjoy this  concert, which was during the 1981 'Raise' tour!For TRUE EWF FANS ONLY! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Earth Wind &amp; Fire DVD! </p>
+
+
+<h2> review.date </h2>
+  04-26-2011  
+<h2> review.text </h2>
+
+ <p> THIS IS 1 VIDEO THAT SHOULDNT BEEN MADE.THE COMPANY THAT TRANSFERED THIS TO VIDEO SHOULD BE SHOT.I;VE SEEN LIVE SHOWS OF EWF.THIS VIDEO COMPANY REALLY MADE THEM LOOK LIKE AMATUERS.MUSIC WAS PLAYING AND MUSICIANS WHERE STANDING STILL.PICTURE QUALITY WAS REAL CRAPPY!!!!!!!!!!!!. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DULL EARTH,DULL WIND,DULL FIRE </p>
+
+
+<h2> review.date </h2>
+  07-01-2014  
+<h2> review.text </h2>
+
+ <p> I am a music lover all oldies but goodies music.I am from the seventy.So get up on the funk.peace and soul </p>
+
+
+<h2> review.summary </h2>
+
+ <p> music </p>
+
+
+<h2> review.date </h2>
+  09-24-2009  
+<h2> review.text </h2>
+
+ <p> This is one of the best concerts in the world.  I had the privilage to see EWF in concert and they are unforgetable. This is a must have. A concert you can watch again and again. EWF also have a concert live in Japan that is a must have, but this is a ventage EWF. Their live with Chicago is awesome as well. Verdine is full of energy, the band is cooking as usual. For anyone that like concerts on DVD I would say this is a must. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Like the elements it's essential </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

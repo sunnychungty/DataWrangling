@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000A1IMI6 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-27-2007  
+<h2> review.text </h2>
+
+ <p> You might wonder where writer/directors such as Ray Bradbury or M.Night Shyamalan got their interesting stories and noted end twists.You can basically stop at the 19th century short story genius Ambrose Bierce.Bierce was a world renowned contributor to The San Francisco Examiner owned by mogul William Randolph Hearst, and his 1891 meeting with famous-to-be novelist Gertrude Atherton is the basis for the retelling of three of Bierce's famous "Civil War Stories" that were stinging observations on the actions of mankind under war conditions.Bierce's writings bothered and infuriated most because his observations deglamorized and deglorified war and showed the soldier and the civilian as they in truth Bierce recorded them under such conditions.Campbell Scott portrays Bierce as he is challenged and cajoled by Atherton and Hearst into a "woman's parlour reading" of three of his short stories "One Kind of Officer","Story of a Conscience" and "The Occurrence at Owl Creek Bridge" which has been made famous several times over on two continents.The retelling of these stories,shown as short films, give a great sense of the cynical and ironic that shows in Bierce's writings.This DVD is almost a curiosity if anything.It is not terribly overwhelming in it's production value as much as it is in the 78 minute content of the three stories.It is easy to see how Bierce's stories became foundational for so many to come.Informationally, this is a must for writers and literary people who note the differences between the genre of the short vs. the novel as well as the need for an author to have control over the content of their works. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Curious World of Ambrose Bierce </p>
+
+
+<h2> review.date </h2>
+  12-14-2013  
+<h2> review.text </h2>
+
+ <p> Watching these stories made me feel like I had went back in time to the days of heroes and legends, winners and losers, joyous and sad times. When these stories ended I let it go back to the beginning and watched the entire disc over again. Enjoyed it as much if not more the second time. If Civil War stories is your thing this is a must have!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thought provoking short stories </p>
+
+
+<h2> review.date </h2>
+  01-05-2007  
+<h2> review.text </h2>
+
+ <p> This one is to draw a different audience not a civil war report or product.If it was one of Stephen king film without the civil war background I would have rated differently. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surrealistic and creepy </p>
+
+
+<h2> review.date </h2>
+  08-30-2013  
+<h2> review.text </h2>
+
+ <p> Excellent short stories. These Civil War short stories (three) are great to watch and learn more about the civil war. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short Stories </p>
+
+
+<h2> review.date </h2>
+  09-05-2006  
+<h2> review.text </h2>
+
+ <p> I became a fan of the writings of Ambrose Bierce when I first saw a version of his "Occurence At Owl Creek Bridge" used as an episode of the original "TWILIGHT ZONE."  Needless to say, I was waiting with great anticipation for the completion of this first-ever collection of Bierce's three most famous tales of the Civil War... all featuring his insights and surprise endings.  Campbell Scott is brilliant as the "bitter Bierce" whose understandings of the politics of war seem to greatly surpass the intellectual capabilities of his contemporary goverment leaders.  Vivian Schilling delivers a predictably strong turn as the saucy novelist Gertrude Atherton, and she makes a fine counterpoint to the banter between Bierce and his publisher, William Randolf Hearst (played by newcomer Nathan Darrow) during the set-up for three knock-em-dead Bierce tales.  "Story of A Conscience", "One Kind Of Officer" and an all-new remake of "An Occurence At Owl Creek Bridge" make this collection of CIVIL WAR STORIES a must see for general audiences, and a must buy for collectors, schools, libraries and fans of great drama, great acting and superb battle action. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great action, drama and surprise twists... </p>
+
+
+<h2> review.date </h2>
+  10-23-2011  
+<h2> review.text </h2>
+
+ <p> I bought this for a friend and they enjoyed the book very much and learned how and what the men went through and how they coped with adversity and hardship in a time of crises. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ambrose Bierce-Civil War stories. </p>
+
+
+<h2> review.date </h2>
+  12-12-2006  
+<h2> review.text </h2>
+
+ <p> When I rented the DVD I did not know what to expect.  The subject matter interested me, and on viewing the movie I was delighted.  I had seen one of the three, Occurrance at Owl Creek Bridge, in adapted form on the Twilight Zone or some other series.  The other two stories are in hindsight true to the original short stories, which I have since read.The stories within a story treatment was novel but allows the viewer to get to know the author a bit and his motivation.  The ending where Bierce agrees to continue his employment with Hearst on his terms, is ironic due to his firm anti-war stance and Hearst's future role in plunging the US into the folly of the Spanish American War.  I wonder if a crisis of conscience over his role in formenting that fiasco, did not lead Beirce to revolutionary Mexico and his subsequent disappearance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Treatment of novel short stories. </p>
+
+
+<h2> review.date </h2>
+  04-17-2012  
+<h2> review.text </h2>
+
+ <p> An homage to the American Civil War short stories of Ambrose Bierce who was a big deal back in the day though today I doubt most people know of him. Three short stories of his are brought to life: "An Occurrence at Owl Creek", "One Kind of Officer" and "The Story of Conscience". The filming was clearly done on a budget and the filmmakers paid so much homage to the stories that as a film it moves slow on and off at times. That's a no no in films. As a fan of Bierce I'm willing to overlook that problem. An equally good version of "An Occurrence at Owl Creek" was done by the "Twilight Zone". Campbell Scott stars as Ambrose Bierce in the early introduction of this piece as he spars with famous novelist Gertrude Atherton (telling her that novels are just padded short stories) while a young Randolph Hearst listens on and later employs Bierce after hearing the three tales soon to be delivered.Bierce, a haunted veteran of the American Civil War, was said to have visited some of his old battlefields in old age and then crossed the border into Mexico and was never seen again. The DVD leaves out that Bierce was also doing research on the recent Mexican Revolution and associating with rebels so that may have had something to do with his disappearance as well. I would recommend this film to American Civil War buffs and/or fans of Bierce but not so much to other viewers as it has a slow pacing that modern moviegoers will find unsettling.TONE/MOOD: B; STORY/PLOTTING: C plus to B minus; CHARACTERS/DIALOGUE: B minus; HOMAGE TO BIERCE: B; WHEN WATCHED: mid April 2012; OVERALL GRADE: B minus to B (less for non Bierce fans or non fans of The American Civil War). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MY GRADE: B minus to B (less for non Bierce fans or non fans of The American Civil War) </p>
+
+
+<h2> review.date </h2>
+  11-26-2006  
+<h2> review.text </h2>
+
+ <p> First of all, if you're a Bierce fan, you won't tolerate a lame Hollywood version of the man. You won't be disappointed; Campbell Scott does a great job: He's obtuse and cynical--everything we expect from Bierce.The three stories are beautifully filmed and acted. In the first segment, "One Kind of Officer," the battle scenes go on too long, but the story's payoff makes up for it. The second segment, "Story of a Conscience," is perfectly realized--the best of the three, in my opinon. The third, "Occurence at Owl Creek Bridge" is, of course, the most famous story. It's well done, and it includes story details that were missing from the award-winning 1962 Enrico film. Nevertheless, it doesn't have the emotional impact that the Enrico film had. Enrico nailed the climactic moment so well, I don't think anyone could ever do it better.I hope this film, even though it obviously had limited distribution, will inspire uninformed viewers to get into Bierce. He was such an outrageous character (no less than eight biographies have been written) that his life often overshadows his work--but that's part of the fun.These filmed versions of Bierce's stories really stay true to his intention: to show what an utterly foolish and misguided creature is man, with war being the greatest evidence of his folly.Plus, it's great to see Bierce hanging out with his employer / nemesis, William Randolph Hearst. Great stuff! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent overall </p>
+
+
+<h2> review.date </h2>
+  04-02-2008  
+<h2> review.text </h2>
+
+ <p> bierce's works are amazing and merit further attention by hollywood.  the scenes played like episodes of the twilight zone - appropriately.  contrary to the opinions of the other viewers, i was never pulled into or found believable the characters sipping tea / bourbon / iced tea as bierce succumbed to reading three of his stories.  in the first, i found myself antsy, waiting for something to happen, anticipation building, until, once action began, i, quite viscerally, didn't want it to be happening.  here, i was drawn in.  likewise in his second and third stories, i was fully pulled in.  i found that this was somewhat disappointing, overall.  i would purchase it used or view library collections. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very good </p>
+
+
+<h2> review.date </h2>
+  03-09-2007  
+<h2> review.text </h2>
+
+ <p> This movie starts out like a high school play. I was put off by what seem obvious wigs on the actors, especially on Campbell Scott, who plays Bierce. And I was put off by everyone's stilted, stagy delivery.But before long, the amateurishness lifted, like a curtain rising - and I found myself being absorbed in the recreations of Bierce's opinionated pessimisms, and in the dramatizations of several of his short stories. So stick with it.The story dramatizations take their time. These vignettes aren't for people who demand action and special effects. The first story for example will make you wander in a dense fog on a long-gone Civil War battlefield for long minutes at a time, without anything really happening. But it was this very deliberateness that won me over, that put me in these characters' shoes as they try to decide where their priorities lie - in the abstractions of patriotism and honor - or in their personal relationships with people who have meant something to them. This is so often a slow, foggy, inward process of decision that the pace of the film serves the material well.Bierce's most famous short story, "An Occurrence at Owl Creek Bridge," is well-done here. I don't think it's done quite as well as it was done decades ago as a Twilight Zone episode. But it is still mesmerizing, heart-wrenching.I had known Ambrose Bierce mostly for his "Devil's Dictionary," his collection of epigrammatic, cynical definitions - and for his mysterious disappearance in Mexico almost 100 years ago. I hadn't realized he had written regular columns for William Randolph Hearst's papers, or that he had written so many moving short stories. So this movie was an eye-opener for me. It sent me back to check Bierce's collections of stories off the library shelves. Like me, you might end up being grateful to this movie for allowing you to discover, or to re-discover, an American original, an American genius. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Will Awaken You to a Major Writer </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

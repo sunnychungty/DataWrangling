@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B004VWLEH6 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-31-2013  
+<h2> review.text </h2>
+
+ <p> It is nice to have my bible with me in this form.  Much easierthan carrying my large print edtion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ease of use </p>
+
+
+<h2> review.date </h2>
+  08-28-2013  
+<h2> review.text </h2>
+
+ <p> WELL YOU JUST PLAIN HAVE TO HAVE IT ITS THE BIBLE QUICK SHOOT IN VERSE BOOM IT COMES UP WITH ALL THE PLACESIN BIBLE WHERE ITS FOUND AND WILL TAKE YOU THERE GREAT FOR STUDY RESEARH HANDY PRICED RIGHT </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VERSES </p>
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> Very Good </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best for studying </p>
+
+
+<h2> review.date </h2>
+  01-28-2014  
+<h2> review.text </h2>
+
+ <p> I did not like this version.  It reads nothing like the catholic bible I have.  The wording is different and I found it hard to follow.  Example instead of talking about Love it uses the word Charity. ( 1 Corinthians 13 ). There are other areas that are written different also.  I would like to have my money returned and the book removed from my kindle.  I do not recommend this version. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> search by verse blble </p>
+
+
+<h2> review.date </h2>
+  04-27-2013  
+<h2> review.text </h2>
+
+ <p> Was easy to read and with my reader READING with me everything just seemed to come more to life for me. Revelation is a great book and I will be going through this Bible again. I am a Catholic newly confirmed and this is the first time I have read any Catholic Bible much less an electronic device. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it! </p>
+
+
+<h2> review.date </h2>
+  11-03-2012  
+<h2> review.text </h2>
+
+ <p> I bought this bible download on my Kindle for the voice readback. Looking up chapters is fine. The voice option unfortunatly constantly repeats the chapter and verse which is annoying. If you read it, it's fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bible Review </p>
+
+
+<h2> review.date </h2>
+  12-10-2012  
+<h2> review.text </h2>
+
+ <p> This Bible was relatively easy to navigate through the verses.I was able to find each one that I was searching for and it was helpful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SearchByVerse Bible </p>
+
+
+<h2> review.date </h2>
+  03-27-2014  
+<h2> review.text </h2>
+
+ <p> I bought this kindle Bible because of it's search feature.  I've been disappointed by it's lack of ease of use on my kindle. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A searchable Bible for the kindle </p>
+
+
+<h2> review.date </h2>
+  12-26-2012  
+<h2> review.text </h2>
+
+ <p> I don't know if it is the Kindle or the format of the Bible, but this really isn't very easy to use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as easy to use as I expected </p>
+
+
+<h2> review.date </h2>
+  07-27-2013  
+<h2> review.text </h2>
+
+ <p> See heading...  tried to look up passages from my daily scripture booklet and could not find them.  It stays on my Kindle but I'm not really using it too much anymore. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a complete edition </p>
+
+
+<h2> review.date </h2>
+  09-12-2012  
+<h2> review.text </h2>
+
+ <p> I like this bible.  It's very easy to find the passage that I want to read even faster than if I were using a real book.  The only issue I think I might have is looking like I'm showing off my Android pad in church.  For that reason alone, I'm considering buying a paper book.  I will surely reference this version more often, since it's so easy to use, even when the lights are off. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great bible and easy to search </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

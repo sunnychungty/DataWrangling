@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00CELMUCE <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Worked like a charm </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have used this in the pool 4 times a week in the pool for at least three weeks.  After I figured the best way to mount it on my goggles I love it. I have listened to audio books in fact two books have been completed and I am ready for number three.As they said the control buttons feel a little different then a regular I pod but it was great. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> iPod is excellent, customer service even better! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love the waterproof iPod.  I had read the positive reviews and was skeptical as to how long even a waterproofed iPod would hold up underwater, I've had it for six months now, I swim one mile four times/week and rarely have to recharge, and it's worked perfectly.The first pair of swimbuds (old version) I received started fading in and out after two months, then stopped working.  Todd at Underwater Audio immediately contacted me when I inquired, and sent me replacement buds (new version) at no cost.  They have worked perfectly, and from the other reviews, I am convinced that the original buds I received just had some random defect.  This is the best purchase I ever made for swimming, and it helps the laps fly by.I shop almost exclusively on Amazon (purchasing almost a hundred products a year - both as gifts and for personal use), and I cannot recall another time a seller has been so responsive to a complaint.  Not only is the product excellent, but the company itself does business the right way.  They are a family business, and you can tell they care. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing Amazing Amazing!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've been swimming for years and the tedium of it is sometimes very deterring.Now I'll start off and say I am not an Apple fan and I have avoided their products mainly due to the Ecosystem (iTunes...).So I'll start with the iPod Shuffle and the Apple earphones - they're both fine and they do what they're supposed to.The Apple ear phones have a very short chord which I find annoying and they sound OK.I found they don't fit that perfectly in my ear and annoy me after about 30 minutes.You can get finer sounds of the Shuffle by adding a pair of better quality earphones.iTunes has improved a lot to their credit and I can no longer consider it &#34;virusy&#34; in nature as a program.The Shuffle works as advertised.As for the Underwater Audio headphones and the Shuffle in the water:Swimming with this will just knock your socks off!!Underwater audio and Apple have managed to produce a dream gadget in my opinion.I swam my usual laps and then some...because just when you feel you're done some amazing tune kicks in and helps you push your limits some more.The earphones stay in your ears no matter what style you swim or how fast.This is in the water so don't expect audiophile quality, but you can hear everything clearly and it improves the experience immensely.The Shuffle works perfectly in the water!!I recommend this to anyone who wants to upgrade their swimming experience - this will rock your workout. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great product! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> use it for kiteboarding, stand up paddle boarding, fishing and all the water sports I do.. awesome product 100% recommend it </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for Swimmers </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I don't not enjoy swimming, but after recent surgery, the only exercise I am allowed to do is swim.  I bought this to help keep me motivated and moving.  The sound is amazing when you are under water.  It comes with headphones that are standard apple headphones and also a set of headphones for the water.  The behind the ear straps are removable - which I did.  They recommend dipping the earbuds in vaseline before use.  Really helps keep them set in my ears snugly with great sound.  I can't say enough great things about the sound under water - its surround sound.  I'm swimming regularly and the iPod is so much a part of my success. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantastic! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this gadget! Easy to add music to it from your computer and has enough gigabytes on it to last for a long time. I use it each time I swim and it helps to make the time go by while I am swimming for an hour straight. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Idea, can't swin without it and the best customer service @ Underwater Audio </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> A really nice Ipod which is more addictive than anything, once you started lapping while listening to music you'll never do it without it again.This seller has the best Earbuds ever for swimming, not that it is Harman Kardon quality of sound but it is the best quality of music you get underwater and under pressure, the seller knows it "40$".Now they've extended their warranty to 1 year so no problem would face you I think, one year warranty is good.NOTE: don't plug into a pc and leave it there, cause when a pc is running it will charge normally, when the pc sleeps or shutdown it will drain the battery completely and instantly, so charge and remove it from your pc without shutting the pc down. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Underwater bust </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> My unit was &#34;used, very good condition&#34; from Amazon warehouse deals.  It wouldn't keep a charge and then died the second time I used it in the pool for laps. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Does exactly what it promises </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-25-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I can't say enough good things about this product.  It's so awesome to be able to listen to music while I swim.The mp3 player performs well both and in and out of the water.  I have not had any issues with playback.  Construction is solid, and I have a good feeling it will hold up over many hours in the pool.Like any I-Pod, iTunes is required for adding music.  That's a bit of a bummer if you hate iTunes as much as I do.  But I do agree that the iPod Nano is the best candidate for waterproofing, given it's compact size and tight construction.The only drawback to using an underwater mp3 player is that water can sometimes get in your ear, distorting the music sound.  You can help prevent this by applying a small amount of petroleum jelly to the tip of each ear bud before inserting into your ear, before you get into the water.  For this to work, you can't pull the headphones out of your ear until your swim is over.  And sometimes water still gets in there.  But totally worth it!If you are a swimmer, buy this.  You wont regret it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Brilliant! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was skeptical at first but my husband who's an avid swimmer REALLY wanted to swim laps to music so I took the chance. He loves it and all the other swimmers always ask him about it. This is really an ingenious way to break the monotony of doing laps and an awesome gift for any swimmer! Highly recommend! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Makes me love lap swimming! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love to swim, but for the first time in my life I can swim laps without quitting due to boredom! IPod and earphones are performing very well for me in my backyard pool which runs a salt system. It definitely helps to read the instructions if you've never had an iPod Shuffle. I created and synced several playlists like &#34;40 min. Swim&#34; and &#34;20 min. Swim&#34; etc. that works great to keep me from checking my watch! Sound quality is just fine considering I am outdoors swimming. Why did I wait so long to invest in this? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfection </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Awesome product.  Does exactly what it's supposed to do, and does it well.  If you're looking for an underwater iPod, you can stop looking now... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Shocked At How Well This Works </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was absolutely shocked to find out how well this works. Swimming with music vs. without is like day and night. I can swim twice or three times as long if I'm listening to music. The earphones are good but not great--their sound varies greatly if you have them in the wrong position or if water gets around the seal. Love this, though, and would recommend it to anyone trying to get into swimming, running in the rain, or even just everyday exercise. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great product to use while swimming </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-25-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Perfect, just what I needed to play my music when I am swimming a mile or more.Good quality, delivered on time and reasonably priced.I would recommend this to a friend. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Been swimming a week now and this waterproof iPod works great.  I've gotten several odd looks & people coming up to ask questions about it.  I love having my music while swimming! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The warranty only lasts a year,  so I hope the waterproof function will last </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was less concerned about the waterproof ability of the coated iPod than the swimbuds quality, given previous reviews. My first swim with the iPod shuffle is a positive one - the swimbuds function as underwater earplugs that block water from getting into my ears and I can hear the songs clearly.  It did take me a while to familiarize with the buttons on iPod shuffle, I would suggest to take a look at the iPod shuffle guideline on Apple's website, which gives a quick crush course on how to operate an iPod shuffle.  Overall, over my one hour swim, the underwater iPod functions exactly what I expect it to be.  However, I still think the price is too steep (Apple's iPod shuffle is priced at $49 and with this additive feature of underwater coating from Underwater Audio, Underwater Audio asks for $155, which is 3 times of the original price that Apple asks for).  Furthermore, Underwater Audio only gives 1 year warranty, which is the same compared to what is offered from Apple, but you do run the extra risk of dipping your iPod into chlorine water on a regular basis.  I wonder whether this company has data to show how long the waterproof coating normally lasts. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not Apple's iPod shuffle? </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> --------UPDATE------------Someone reminds me in the comment that 'under water' buys apple's product and process it to make it water proof. So what I bought is not 'fake'.------------ORIGINAL POST------------This may not be a secret, because they state it clearly in the description, but I search through the first 5 pages of comments, and no one mentions that.------this is NOT Apple's  ipod shuffle as we know--------The brand name is 'under water'I was thinking it was the shuffle, until I touched the buttons, my finger or my gut tells me, this is not the Apple's product, with the way it feels.That said, the 'under water' connects to iTunes just like Apple's product, and it passes my first trial in the bathroom, I took a shower with it for 5 minutes. So far so good.The earphone comes with it is no good for any music, maybe good for voice ,but not music. So it is recommended to buy a separate earphone,I bought  'X-1 by H2O Audio Surge Mini Waterproof Headphones' , I thought I could be better but did not expect it to be very good like my iPhone 5 earphone,but it is really better than my expectation as a waterproof headphone.I will update this comment again if it breaks in the future.And here is a WARNING for those who are looking for a waterproof mp3 player, the real one is not water proof, so you don't try with yours if you have one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> What will they think of next? </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great Product and works flawlessly.  I use it several times weekly when I swim.  I've had several swimmers ask about it and where they can buy it.  My response of course is, &#34;at Amazon.com </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

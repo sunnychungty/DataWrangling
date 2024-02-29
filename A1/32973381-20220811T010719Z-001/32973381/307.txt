@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1490510648 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-15-2013  
+<h2> review.text </h2>
+
+ <p> I enjoy horror stories. Specially the ones that keep you up at night reading under the blanket with a flash light. Then with every noise you hear your imagination takes over and you try your hardest not to move or jerk so that your not seen by the "boogie man". To bad your mind gives you away and as soon as it does you...London Lunatic will finish you off. This is one of those stories that gets your heart beating and squeezes until the last punctuation make is seen. Mr. Porter is a fantastic author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Want to stay awake all night? </p>
+
+
+<h2> review.date </h2>
+  08-17-2013  
+<h2> review.text </h2>
+
+ <p> If you are craving late night fright night here is your book. This book will take you on a ride of horrific scares, just when you take a deep breath, close your eyes and get ready  for the next scare, its right around the corner, No its right next to you but you can't see it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Horror you gotta here </p>
+
+
+<h2> review.date </h2>
+  07-18-2013  
+<h2> review.text </h2>
+
+ <p> London Lunatic:A Hellish Book Of Unhold Horror And Teen Mystery by Richard Porter gets your heart a pitter-pattering. If you like to get squeemish - stay up all night in suspense - this is the book for you. :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> London Lunatic:A Hellish Book Of Untold Horror And Teen Mystery - WOW! </p>
+
+
+<h2> review.date </h2>
+  07-16-2013  
+<h2> review.text </h2>
+
+ <p> I am a big fan of the TV Show Criminal Minds, but this story is even too bizarre for that one.  Set in the slums of London, here you have a poor deranged teenager who has no idea of how life works.  Love is the most foreign concept to him in the world. During his short life, only one nice thing has been ever said to him by his mother, and he keeps that close to his heart.  Tortured so bad by so many folks, including himself - there is no way in the world this person could ever know the difference between right and wrong.  Many people do not even know he exists until one minor incident starts a roller coaster of his bizarre actions against a torrent of women, starting of course with his mother.  The author creates scenarios so unreal and gruesome.  Okay for an adult, but I would not allow my teenage niece to read this.  Just reading the title again gives me shivers.  You need a strong stomach for this one!  Great Job! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Title tells it all </p>
+
+
+<h2> review.date </h2>
+  08-25-2013  
+<h2> review.text </h2>
+
+ <p> This book was disgusting only a warped mind would write such things I would not recommend this book to any one First disappointment of all books I have read through Amazon </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disgusting </p>
+
+
+<h2> review.date </h2>
+  07-10-2013  
+<h2> review.text </h2>
+
+ <p> This was the horror book of the century! Typically, I shrug off so-called horror books, I read a lot of them and just not to leave a poor review, I keep my thoughts to myself. The descriptions are hellish and vivid, enough to scare you more than unsolved mysteries! As I said, be careful or you'll develop insomnia! Hope to read more soon! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too Scary For the Weak-Minded </p>
+
+
+<h2> review.date </h2>
+  07-18-2013  
+<h2> review.text </h2>
+
+ <p> Just started reading London Lunatic and really enjoying it. Very descriptive writing without losing focus on the action. Nice pacing and and flow. Will update my review as I get a chance to read more. As a side note to Mr. Porter, I read your biography and wish the best for your health. Good luck sir! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just started, but enjoying it thoroughly </p>
+
+
+<h2> review.date </h2>
+  11-02-2013  
+<h2> review.text </h2>
+
+ <p> This is not a good book for a teenager of any age. Making a girl kill and eat another one?  At least 18 not any younger then that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 18 or older </p>
+
+
+<h2> review.date </h2>
+  07-24-2013  
+<h2> review.text </h2>
+
+ <p> I'd love to know which copy the other readers had.  I was really looking forward to reading this.  I enjoy horror stories and was hoping to discover a new horror writer.  London Lunatic, though...it was just not good.The story itself is interesting- disturbed guy kidnapping women in a London setting, keeps one in his basement and plans to kidnap another.  It just wasn't told well.  The short back story of the "villain", Jonathan, had more depth than the entire book.  The author did do a good job keeping the character consistent with his dialogue and actions, but the overall writing was almost as childlike as the main character.  It proved more of a distraction than a means to connect with the character.There's not much to most of the other characters that make you feel any empathy for them.  There's little distinction between Flossie, Marianne, and Molly by way of character in general.  They share the same voice and if the name was not applied to the dialogue or action, they could be interchangeable.  They needed to be more distinct.  The one character that I did like was an ex-con named Joe.  His character was interesting and the author gave him a bit of a voice.  I think that one character stood out most in the entire story.I have read a lot of horror books, so I'm used to blood and gore, and can appreciate when an author can paint those horrific scenes to carry the story.  In London Lunatic, some of the descriptive scenes were just gratuitous, adding gore for the sake of adding gore.  They didn't really aid the story. Many of the scenes seemed so contrived.  Sometimes a story has a natural flow to it where you feel like even the surprises were meant to be there.  Not this book.  The small twists and "ahas" felt more like the author needed to push the story along and came up with some "how convenient that happened" moments.  A few are acceptable, but too many makes it frustrating and almost pointless to read.I think the worse thing was when the author actually wrote a brief epilogue telling us something about the main character that we were apparently supposed to have figured out.  If you have to tell us, then clearly the point wasn't made.I wanted to like this book, but I just can't recommend it.In summary, London Lunatic was:1) not good2) not a true horror story3) not good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This just wasn't good. </p>
+
+
+<h2> review.date </h2>
+  09-27-2013  
+<h2> review.text </h2>
+
+ <p> Unlike other reviewers; I found the writing well-done and the plot believable. There were some anomalies, such as how a poverty-striken, disturbed young man in the early 1900s (or today)  could get access to chloroform, or the fact that the electric chair described to somebody was never used outside the US (and briefly the Phillipines.) But I didnt let details like that get in the way of reading this great but very gruesome story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heavy on grossness but still good </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

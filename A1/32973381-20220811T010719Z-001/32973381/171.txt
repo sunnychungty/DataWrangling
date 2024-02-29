@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 6305025991 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-05-2008  
+<h2> review.text </h2>
+
+ <p> It is the year 2638; this is the year of the cleansing war; different factions of people such as Alphas (genetically engineered), and the Rebels (natural born) with a few other factions are tossed in.Suddenly the head ruthless Alpha, Capt. Winter (Michael York), is forced to cooperate with an equally determined and suspicious Rebel, Col. Liz Brendan (Harley Jane Kozak) on a mysterious mission through a wormhole to a mysterious Dark Planet.  The only person to get us there is a renegade (Blake Boyd) that neither side likes or trusts.As we are treated to treachery and tragedy, we want to know why?This film has that good and bad independent film feel.Red Planet ~ Benjamin Bratt </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Action packed and treachery abounds </p>
+
+
+<h2> review.date </h2>
+  06-22-2014  
+<h2> review.text </h2>
+
+ <p> My opinion is that this movie is one of the worst I didn't have the stomach to finish watching.The bottom line is bad direction, stilted dialogue, poor special effects.The idea is interesting, but poorly developed.Still, someone may like.My recommendation: If you have Prime, try it. If it grabs you, watch it. But I wouldn't pay to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love science fiction. . .but not this </p>
+
+
+<h2> review.date </h2>
+  04-02-2014  
+<h2> review.text </h2>
+
+ <p> If you are in love with interior sets and endless contrived dialogue then this is the film for you!  Shot inside a hokey simulated space ship on a mission???  I couldn't discover what the mission was or why this merited a film about nada and making no particular sense!  A mind numbing waste of time, in my estimation! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bummer and Dumber </p>
+
+
+<h2> review.date </h2>
+  02-09-2014  
+<h2> review.text </h2>
+
+ <p> What can be said.  Total load.  All copies should be ground up and recycled for plastic bottles or something.  Wow.  I didn't know thye could release things that stink this bad.  Call the EPA! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dark Planet? Dark something. </p>
+
+
+<h2> review.date </h2>
+  04-02-2014  
+<h2> review.text </h2>
+
+ <p> This movie plain and simple was not a good way to spend my time, it was filled with bad acting and was a very slow moving film. I fell asleep twice and ended up not finishing the movie because it was so bad. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Waist of Time ! </p>
+
+
+<h2> review.date </h2>
+  03-27-2014  
+<h2> review.text </h2>
+
+ <p> Who wants to watch anyone being tortured, nothing to keep this space nut interested at all. Very dark cinematography, poor sound, worse plot.  Don't bother watching unless you want to be depressed! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Who wants to watch anyone being tortured.... </p>
+
+
+<h2> review.date </h2>
+  04-10-2014  
+<h2> review.text </h2>
+
+ <p> This movie is perfect if you want something to put you to sleep. Poor acting and awful special effects. I could go on and on but the best advise I can give on this movie is &#34;Don't Bother!&#34; </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't Bother </p>
+
+
+<h2> review.date </h2>
+  09-02-2004  
+<h2> review.text </h2>
+
+ <p> First off, did anyone else think that the doomed lady in the opening scene looked like she worked at McDonalds?  That's just the beginning of an incredibly dull, farfetched, incoherent and out and out boring movie.  Paul Mercurio plays an ace pilot named Anson Hawke, who lost his wife during a mission through an enormous wormhole!!  He is later released from prison to pilot a ship back through that wormhole in search of a mysterious dark planet.  Seems like on earth, there are two sets of people who have survived three world wars:  the Alphas, genetically enhanced humans, and the rebels, real humans or "mutants."  They want to find this dark planet to see if it is habitable, thus mankind can get a new start.  One scene has the ship going through a mine field, wherein the mines actually look like cordless microphones.  The special effects, what little there are, are pedestrian, and obviously shoestring budgeted.  The acting is atrocious:  Harley Jane Kozak taking on the Sigourney Weaver role, but with no muscle; Michael York shamefully overacting as the obvious bad guy; Maria Ford with her clothes on most of the time, which is quite unusual for this comely actress.  If you like tense exciting scifi, this is not the movie to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DULL PLANET </p>
+
+
+<h2> review.date </h2>
+  09-08-2010  
+<h2> review.text </h2>
+
+ <p> Buying this turkey is basically like letting some hood steal your money.  Aside from the fact that "Dark Planet" is a mediocre film at best, this copy of it is "full screen" (a lie from media hype merchants).  Why would anyone want to own this bloody mutilation.  The good news is that the original 1.85:1 version is still available.  Check Amazon's other offerings of "Dark Planet". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cut, cut, slash, slash, mutilate! </p>
+
+
+<h2> review.date </h2>
+  03-15-2014  
+<h2> review.text </h2>
+
+ <p> Horrible acting. I&#34;ve never seen worse FX. Didn't watch long enough to catch the plot line. The only good part of the movie was the promo. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> junk </p>
+
+
+<h2> review.date </h2>
+  12-08-2013  
+<h2> review.text </h2>
+
+ <p> Poor acting. Poor script. Just a plain C- movie in general. Not even worth fireing up the popcorn machine for! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dark Movie Not even worth fireing up the popcorn machine for </p>
+
+
+<h2> review.date </h2>
+  11-12-2010  
+<h2> review.text </h2>
+
+ <p> BEST COMPUTER GRAPHICS available in 1996. There is this group of genetically engineered humans known as "Alphas" (can Huxley still sue?) who seem to lack a lot of emotion. Then there are the Rebels (also technically advanced) who fight against the Alphas, both blaming the other for atrocities. Their space ship seem to travel super fast, i.e. from Earth to Jupiter's moon in a matter of hours, and then to deep space in a day or so. But they can't seem to get to another inhabitable planet unless they go through a wormhole, in this case it is wormhole 762, not to be confused with the movie "Convict 762", done by the same group which ignores the science in their science fiction. Only one man has ever done this, and he is a profiteer, who has no allegiance to either side, but does sweet talk the ladies on both sides. A truce is declared between the Rebels and Alphas so they can jointly enter the wormhole with the profiteer as the navigator. Most of the story deals with the space trip to the wormhole. What we really wanted to see was the planet on the other side, but computer graphics apparently couldn't create a Brave New World in 1996. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BEST COMPUTER GRAPHICS... </p>
+
+
+<h2> review.date </h2>
+  07-03-2013  
+<h2> review.text </h2>
+
+ <p> I love SciFi but this movie makes no sense at all. Hard to believe Michael York attached himself to this project, he's a much better actor than this movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cheesy SciFi </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

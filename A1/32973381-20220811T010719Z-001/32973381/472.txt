@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00EA1UVCM <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-22-2013  
+<h2> review.text </h2>
+
+ <p> I understand that this was free but I thought there would be some kind of comment - not just 20 pictures of paintings. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Van Gogh </p>
+
+
+<h2> review.date </h2>
+  09-28-2013  
+<h2> review.text </h2>
+
+ <p> This is a Kindle of a different flavor. Its great if you can get your child interested in twenty fantastic landscapes. Having a discussion with the child will be critical for the young person to cherish such a work.Twenty Van Gogh's Paintings (Collection) for Kids </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Twenty Van Gogh's Paintings (Collection) for Kids </p>
+
+
+<h2> review.date </h2>
+  08-20-2013  
+<h2> review.text </h2>
+
+ <p> Informative and showcase work of master artist. A must read for children and adults everywhere. I love the clarity of the pictures too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  08-20-2013  
+<h2> review.text </h2>
+
+ <p> I gave this book 3 stars because the pictures are nice.I'm not sure why the author has "for kids" in the title because there is nothing to help kids to appreciate the artwork.  I think it is important for kids to look at famous paintings.  There was no background information and no explanation of the painting or the author.This is the title then the picture.  There are 20 pictures. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just pictures </p>
+
+
+<h2> review.date </h2>
+  10-07-2013  
+<h2> review.text </h2>
+
+ <p> You will find just pictures and no explanations. And rather strange choice of pictures, dark, a bit depressive and none of the most famous pictures. More suitable for kids would be Van Gogh's bright pictures full of sun, flowers and colors and masterpieces that are now common points in the world's heritage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not really for kids </p>
+
+
+<h2> review.date </h2>
+  08-21-2013  
+<h2> review.text </h2>
+
+ <p> Twenty Van Gogh's paintings for kids is not a book by this author.  It is just a collection of paintings...no narrative.  The companion book, "Twenty Claude Monet's Paintings for kids" is the same.  There is nothing about either that makes it "for kids". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not a real book </p>
+
+
+<h2> review.date </h2>
+  08-21-2013  
+<h2> review.text </h2>
+
+ <p> This book contains 20 Van Gogh paintings, one per page.  There is no analysis of them and, while they can be zoomed, the resolution is poor so you still can't see any details.  Not sure why it is "for Kids" except that adults would be more discriminating? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Eh </p>
+
+
+<h2> review.date </h2>
+  09-02-2013  
+<h2> review.text </h2>
+
+ <p> This is fairly good collection of paintings by Vincent Van Gogh. I wished there was some text to give background information about the paintings but still a good introduction to the works of Van Gogh. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Introduction To Van Gogh </p>
+
+
+<h2> review.date </h2>
+  09-18-2013  
+<h2> review.text </h2>
+
+ <p> The photos are small but can be saved to use as wallpaper.I would leave it it didn't stay long with me gone </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Maybe </p>
+
+
+<h2> review.date </h2>
+  10-10-2013  
+<h2> review.text </h2>
+
+ <p> Wonderful pictorial book on some of Van Gogh's paintings.  It could use more information about the paintings, but the images are very good.  Even though it's for kids, parents need to be able to explain the paintings if possible. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Van Gogh Introduction for kids </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

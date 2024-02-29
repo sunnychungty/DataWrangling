@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00B51M0LA <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-15-2013  
+<h2> review.text </h2>
+
+ <p> This is another fascinating book in the "Legends of Rock & Roll" series by author, James Hoag.  James has a clean, straight-forward writing style that keeps the reader entertained and really holds your interest.  I grew up a huge fan of the Doors, and more specifically Jim Morrison.  I found this book to be extremely informative and enjoyable to read and really learned a lot of interesting facts that I did not know.  Well done James! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Powerful Insight Into the Epic 60's Rock Band -- The Doors </p>
+
+
+<h2> review.date </h2>
+  02-09-2013  
+<h2> review.text </h2>
+
+ <p> A great recap of the epic rock group The DOORS. The author spills the beans on the behind the scenes of Jim Morrison, Ray Manzarek, John Densmore and Robby Krieger. I always loved this rock group and the book helped to complete the story for me.Because the author worked in the music industry there is a lot of great information you couldn't find easily elsewhere. From the heated shows to recording in the studio, to the highlights of a rock star and the melt down from drugs... it's all here in this book.An insider's look from the birth of the first album to the peak of fame for this legendary rock band. Viva Jim Morrison! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Long Live The Doors - Great Book ! </p>
+
+
+<h2> review.date </h2>
+  02-04-2013  
+<h2> review.text </h2>
+
+ <p> This is a very easy to read, informative book written by someone who obviously has a passion for rock & roll history, and is able to bring the bands and people alive for those of us who can't quite remember them all, but are interested to know a bit about them. I must admit I didn't know much about The Doors and Jim Morrison before I read this book, but I now feel more educated, and intend to read some of the other books in this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Doors - rock n roll </p>
+
+
+<h2> review.date </h2>
+  03-30-2013  
+<h2> review.text </h2>
+
+ <p> I grew up in the sixties and one of my favorite groups was the Doors.  I can remember being moved by their album Morrison Hotel.  This book was a great read.  I never knew where the name The Doors came from and was fascinated by the explanation.  This book took me through the members, the history and everything else one would want to know about Jim Morrison and the Doors.  I would suggest anyone who is interested in the 60's and 70's rock read this exceptional book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Doors- A Historic Rock Group </p>
+
+
+<h2> review.date </h2>
+  03-11-2013  
+<h2> review.text </h2>
+
+ <p> The aithor deserves a 5 star for wring a detailed and complete timeline of the Doors and their music and publishing.You will like this book particularly if you enjoy Rock and Roll music of the 60 and 70's. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great legends book by James Hoag </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> If you follow my reviews, you know that I am a huge fan of James Hoag. I love the gentle way he writes and captures the mystique of the musicians he writes about and the era in which they lived. Jim Morrison and The Doors is no exception. If you are a "Doors" fan, you'll love this book, if not, you just may be a fan after reading it. Well done Mr. Hoag. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Good One James Hoag! </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> James Hoag does it again with his new book The Doors.  No one from my generation can forget their music; we grew up on it.  James Hoag does a fine job from his Beatles books and now this one.  Kudos James; this one is a home run just like the others. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bring on the memories James Hoag </p>
+
+
+<h2> review.date </h2>
+  03-31-2013  
+<h2> review.text </h2>
+
+ <p> This would be a great gift to give  to anyone you know who was a fan of the DOORS. also for a keep sake too , there is so much information in this book its brimming over the top and about to over flow ..be sure if you into the 60's era to take home a copyJames has obviously spent many a long hour in the 60;s as well as researching the topic to get it just right for his readers , so be sure to take an extra for a much loved gift as well . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must for ROCK 'N ROLL  fans of THE DOORS </p>
+
+
+<h2> review.date </h2>
+  02-01-2013  
+<h2> review.text </h2>
+
+ <p> I was only a teenager in the 60s and not really into the Doors, but since then I have seen the error of my ways and this ebook is a great gap filler for my shameful lack of knowledge about Jim Morrison and the Doors. Contains background on each Doors member, the group and their musical hits and influences </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Doors - For those who were too young to remember </p>
+
+
+<h2> review.date </h2>
+  03-13-2013  
+<h2> review.text </h2>
+
+ <p> Wow! what a ton of info. I had never heard of the 27 Club until this book. It is just so sad what these talented people did to themselves. In Jim Morrison's case, having read this story I now feel the need to go through all of his music again, just to lift the sadness off my shoulders. Oh, Yeah, this is a "Must Read" if ever I've seen one.Well done James Hoag! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An in-depth look at "the doors" </p>
+
+
+<h2> review.date </h2>
+  02-12-2013  
+<h2> review.text </h2>
+
+ <p> I read this book having no preconceptions about Hoag (the author). the Doors, or Jim Morrison. I knew the name of the group back then, and I recognized a number of their songs, but I couldn't have listed a group for the songs, nor songs for the group. nor even associated the songs with each other.Not have I seen Oliver Stone's movie, but I've seen a lot of Doors and Morrison tishirs.I think I'm probably the target audience for Hoag.  Those who are avid fans would probably correct Hoag's errors (whether they are errors or not) and fill in a lot of minutae that Hoag left out.  I'm perfectly happy with the level of detail, am pleased when Hoag expresses an opinion (and he does label his opinions as such.)  His commentary moves right along, pleasantly enough, giving me something to chew on, but not choke on.If you weren't around in the late '60s, you may be familiar with Muzak of Doors tunes.  In that case, I would recommend that you read this book while listening to the tracks on Youtube; you'll probably enjoy the book more.  And I would recommend this book to those who came along too late or were too busy doing other things during Morrison's heyday.  It's no crime to be culturally ignorant; the only shame is remaining that way when this book exists to bring you up to speed so pleasantly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If You Remember The Sixties, Were You Really There? </p>
+
+
+<h2> review.date </h2>
+  03-10-2013  
+<h2> review.text </h2>
+
+ <p> I love the doors and their music so I was excited to read this book. I thought I knew a lot about doors and Jim Morrison but I was wrong.I like how the author started from the beginning and gave a lot facts throughout the book about the life of the doors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> That Was a Great Read! </p>
+
+
+<h2> review.date </h2>
+  03-11-2013  
+<h2> review.text </h2>
+
+ <p> A truly entertaining book. I was hooked from the moment I started reading it.  The writing style flows so readily its as if he is talking with you in person.  I totally enjoyed my journey to the inside of The Doors.  Thanks for this great book!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

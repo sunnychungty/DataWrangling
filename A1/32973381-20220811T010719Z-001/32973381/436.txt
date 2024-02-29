@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B008F6NHFQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-21-2013  
+<h2> review.text </h2>
+
+ <p> What a great story. Appropriate for all ages, in my opinion. Lots of attention to emotional detail as well as great descriptions. It was easy to place myself right into the story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent read </p>
+
+
+<h2> review.date </h2>
+  10-22-2012  
+<h2> review.text </h2>
+
+ <p> I'm giving this two stars since I managed to make it to the end.I picked this up free because the premise seemed interesting. I'm glad I didn't pay for it.Where to start? Overall, the writing is amateurish, without a hint of depth. They do this, they do that, they feel this, they feel that. And their faces, eyes, and mouths are in constant motion. Yes, I know he's smiling. He's ALWAYS smiling, or grinning, or smirking. The author never felt confident enough in the writing or dialogue to let the reader see the characters' expressions in our mind; every frown, smile, raised eyebrow, smirk, etc, is carefully documented.Add to this the most extensive collection of adverbs I think I've ever come across in a book. Every page is crammed with them. At one point I noticed the word "quickly" in four successive paragraphs. Suddenly, immediately, momentarily, happily, unexpectedly, hesitantly, impatiently, briefly. The list goes on and on. Unendingly.Characters rarely just say something, they giggle, tease, gasp, jab, hack, laugh, cackle, breath, squeak, squeal, sigh, snap, scoff, glower, glare, wink, croak... and all sorts of other unnecessary seasoning. It makes the whole thing unpalatable.When they speak, the dialogue is often so stilted it sounds as if these are students in a language class practicing their conversational skills, and failing. "When I was little, my Dad would take me to watch skilled individuals blow glass into different creations."  "...after escaping the riotous crowd in the lobby, I was cornered by a loathsome male..." "Life has unraveled so quickly I can barely wrap my mind around what's gone down."Some of the narrative sounds like it's badly translated: "Thankfully the turmoil had adjourned and I presumed it was due to people retiring for the night." "I had so much to do and an insufficient timetable in which to do it."And yes, I know these are teens, but they go from bestest buddies ever to not speaking to hugging to avoiding each other to crying on each other's shoulders to hurt to loyal to... well, you get the picture. The roller coaster of emotions gave me a sour stomach. The poor main character herself is either stunned, shocked, overwhelmed or on the verge of tears most of the time. That is when she's not giddy with joy. Or staunching the flow of blood from a head wound. Twice.Poor word choice often made this reader flinch. "...he accessed another button." Well, he pushed it. "I drudged off to my room." People "shutter" (should be shudder). Too much of that sort of thing.So why did I keep reading when all this assaulted my sensibilities? Well, since I found the premise interesting, I wanted to see what happened. So I drudged on through, and here's one of my biggest complaints: the reason the bad guys do the bad thing is NEVER EXPLAINED. There is no reason at all for the bad guys to do what they did, except so the good guys can be shocked and stunned some more and have to figure out a way to overcome that challenge. That's not a good enough reason. (And it's not like those bad guys show up in the next book, because it's revealed what happens to them at the end of this one.)Another problem for me is that here are all these people crammed into the moon colony and they all think Earth is uninhabited and they'll die if they go down there... LITTLE SPOILER HERE... and yet when they get there, everything's pretty much normal. Towns, shops, money, cars, electricity, heated pools with neon lighting, digital picture frames, programmable stoves that help you cook. Tons of people showing no ill effects from the virus they've been working 14 years on a vaccine for, yet the moon people can't live without a vaccine... It just didn't hold together for me.There are better books with good plots and good writing out there. Don't waste your time with this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tangled strings... </p>
+
+
+<h2> review.date </h2>
+  11-14-2013  
+<h2> review.text </h2>
+
+ <p> This first book in the trilogy sets the background for the rest, An intriguing premise of teens, raised on the moon, who believe earth is too plague-ridden to be habitable. When Abby has an experience which leads her to question the 'truth' of what shes been told an unexpected tale of deceit unfolds. A light entertaining read. I will read the next book to see what happens next. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Engaging story </p>
+
+
+<h2> review.date </h2>
+  06-07-2013  
+<h2> review.text </h2>
+
+ <p> I made it about halfway through. I will say it was not written for someone like me. Very poor science. What are we teaching in school these days? The story was implausible and poorly told. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonder how it ends? </p>
+
+
+<h2> review.date </h2>
+  05-08-2013  
+<h2> review.text </h2>
+
+ <p> If you enjoy reading about selfish, spoiled rotten narcissistic brats, you will enjoy this book  Once Abby meets Sam, she changes into this most unenjoyable person. And it is constantly "my way or the highway" for her!  She doesn't care about how her actions affect anyone else, just as long as she gets her own way.  She is most immature.  She is consumed with constant anger at those she loves the most when she doesn't get things to go her way.  She really acts like a 5 year old, instead of 17.  When anything happens to disrupt her plans, she throw a tantrum.  Plus she is really filled with herself, thinking she is invincible, so is constantly getting herself into tight circumstances from which someone else has to bail her out.  All of this consumes the first 90% of the story.  The last 10% she becomes the heroine that saves everyone's lives, even performing a few acts of bravery.I have to agree with another reviewer, who said: "Characters rarely just say something, they giggle, tease, gasp, jab, hack, laugh, cackle, breath, squeak, squeal, sigh, snap, scoff, glower, glare, wink, croak and smirk!"  Other than that, details are limited.  Weeks and months fly by in a short paragraph at times.I have no interest in reading the sequel because it appears from the excerpt that Abby is once again impetuously deciding things on her own without checking into the consequences first, so it is probably just a repeat of all her silliness found in the first book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Abby doesn't care about anyone but herself! </p>
+
+
+<h2> review.date </h2>
+  03-07-2013  
+<h2> review.text </h2>
+
+ <p> Abby works in a virtual reality lab trying to find a cure for a disease that has marooned the human race on the moon. Her adventures with Sam and their growing feelings for each other keep you reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Virtual Reality on the Moon </p>
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> I read the whole trilogy. While it wasn't a great book, it worked for me. This is a good 2 or 3 night book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good book </p>
+
+
+<h2> review.date </h2>
+  05-23-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed the idea of people living in a moon colony. The book moved fairly slow at times and there were quite a few typos. Overall, I would recommend it as a good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, but not great </p>
+
+
+<h2> review.date </h2>
+  05-03-2013  
+<h2> review.text </h2>
+
+ <p> Researching a vaccine to inoculate the entire population of the moon so they could finally move back to Earth had occupied her entire life.Until she saw the ghost in her virtual reality pod in the lab.Enjoyable read, can't wait to read the next one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Abby didn't even know her life was boring... </p>
+
+
+<h2> review.date </h2>
+  12-01-2012  
+<h2> review.text </h2>
+
+ <p> I thought this was a very good idea for a book. It takes place on the moon and on the earth and that was all very believable. I was thinking the whole time, this could really happen! The romance developed very well and I enjoyed it until the last half of the book. Then it lagged a little. It wasn't bad, I just wanted to get to the other parts of the story instead of all the dating. I didn't know it was a first book in a series and the last chapter (bonus chapter for book 2) begins a whole new adventure. In my mind I'm going to pretend it ended before that chapter, until I can get around to reading the rest of the books, that is!I usually review Christian books. This is not a Christian book but it was clean. I don't remember any curse words. If there were they weren't offensive to me (I think it may have said hell once) and the romantic stuff was all super squeaky clean. I'd recommend it to my teen audience and would read more from this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting Premise </p>
+
+
+<h2> review.date </h2>
+  10-10-2012  
+<h2> review.text </h2>
+
+ <p> This is a very fascinating book for teens and adults who like good clean reading in Sy-Fy form.  This is programed for Teens and the issues in place in this book is awesome.  Good morale background is shown in this as well.  Am looking forward to reading Kimberly Slivinski's 2nd book "Lunar Strife."  I just bought it.  I'd give this a 9 if I could!Shop for this at Amazon.com for kindleebooks </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Earthly Ties </p>
+
+
+<h2> review.date </h2>
+  02-22-2013  
+<h2> review.text </h2>
+
+ <p> Thank you for writing this book. I enjoyed  your book very much. Please continue to write. I look forward to reading  more of your work. I am intrigued by your earth/ moon concept... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I enjoy your earth/ Moon concept, please keep writing. </p>
+
+
+<h2> review.date </h2>
+  10-16-2012  
+<h2> review.text </h2>
+
+ <p> For me, the book started out slowly and was vaguely confusing. It would have been very easy to give up and go on to something else.I persisted and finished the story of life on a lunar colony and adventures in their Virtual Reality world.Test-Tube teen-aged research scientists attempt to find a cure to a world-wide pandemic caused by a man-made virus. The source of the virus is discovered and the reasons for unleashing it upon the earth will shock many (or maybe not).With a little G-rated romance thrown in to keep things interesting I was glad that I took the time to read this novel aimed at a teen audience. I am still trying to decide if I will read the sequels, though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Enjoyed This Book! </p>
+
+
+<h2> review.date </h2>
+  02-07-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed this book, I was having internet trouble and decided to read a chapter are two before bed instead I ended up staying up until I finished it. Really enjoyed Abby and Sam. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Couldn't stop reading </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00252S6UW <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-04-2009  
+<h2> review.text </h2>
+
+ <p> Bought this to replace an older ipod portable player that didn't support iphone and the newer ipods. I read the reviews carefully before purchasing as I was looking for easy/light portability along with quality sound - and WOW did the Pipe deliver!!  Along with a GREAT price I am totally satisfied with this purchase and highly recommend it! I even use it to listen at home - very good sound for audiobooks too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect travel companion! </p>
+
+
+<h2> review.date </h2>
+  12-17-2009  
+<h2> review.text </h2>
+
+ <p> It is small, about as small as those pump hair sprays, but the sound is huge, I am upstairs right now, and it is blasting out loud sound from downstairs. There is nothing I can say the other reviewers didn't say. Just works great. I didn't buy this to be portable, I bought it for home use,and it is just fantastic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> wow this thing is powerful </p>
+
+
+<h2> review.date </h2>
+  12-16-2009  
+<h2> review.text </h2>
+
+ <p> It works fine if the phone is in airplane mode, but then again you won't be able to use Pandora radio either. If the phone is on, the interference is unbearable and constant. You can even tell that the iPhone is searching for towers... Lousy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unbearable interference with iPhone </p>
+
+
+<h2> review.date </h2>
+  02-19-2010  
+<h2> review.text </h2>
+
+ <p> I went out to the store to find the cheapest speaker port I could for work.  And I ended up being SO impressed with this product!The sound is very good and it's compact size takes up almost no room on my desk.  Much to my delight, it also charges the iPod as it plays!  Every night, I just disconnect the cord from the back, toss it into the original box in my cabinet and lock it up.No huge fuss.I have never needed or used the remote, however.EDIT: I'm at a new desk at work. No music for me. :( I took the speaker home, and we love using it in the bedroom and stretching the cord around the corner into the bathroom to play while we shower! I finally broke out the remote; it comes with batteries and works very well. Perfect for changing music while lying in bed. Highly reccomended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect For Work </p>
+
+
+<h2> review.date </h2>
+  12-22-2009  
+<h2> review.text </h2>
+
+ <p> I bought this on sale here at Amazon for approx. $36.  Bought two of them after hearing the quality at Target.  Paid $72 for two of these (one for my son) for the price of one at Target.  The quality is incredible for the size.  Don't expect booming bass from the pipe but the sound is really very goos considering the size. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pipe Rocks </p>
+
+
+<h2> review.date </h2>
+  10-21-2013  
+<h2> review.text </h2>
+
+ <p> I bought this item about 50 days ago because I was looking for a speaker/dock I could use at work that would also charge my phone. I work an irregular schedule, so I didn't really unbox it and use it until I worked a couple night shifts a few weeks ago. THE SPEAKERS ARE DEFECTIVE, AS IS THE REMOTE. The volume control on this didn't work at all, and all it basically did was raise the volume to intolerable levels no matter what buttons I pressed on the remote or on the speakers themselves. Sadly, I tried to return it today, and I'm outside Amazon's return window.Unfortunately, since I didn't really have a chance to fairly assess these speakers, I can't really comment on their performance other than the unnecessary volume. My 1-star rating (which would be zero stars if at all possible) is for Amazon, which wouldn't allow me to return the device, even though it is defective straight out-of-the-box, and less than 60 days old. I spend a lot of money at Amazon, and I expect better customer service than this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Defective, and Amazon won't accept it for return </p>
+
+
+<h2> review.date </h2>
+  12-06-2011  
+<h2> review.text </h2>
+
+ <p> I was impressed with the "big sound" such a sleek little ipod dock could produce.  Not only does it look cool, but it sounds great and fits right on the night stand.  Great product.  Almost two years powered on and no problems. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really Like It </p>
+
+
+<h2> review.date </h2>
+  02-04-2010  
+<h2> review.text </h2>
+
+ <p> We were all amazed at the sound quality from these tiny speakers.  Other reviews point out it is not very strong on bass notes, but considering the overall sound and small footprint, I think the output is as good as you would want for casual music-listening needs.The great thing is that the setup works well with almost any music device - it comes with a range of dock adapters for iPods and iPhones, and has a cable connector for any device that doesn't fit in the dock.  It was a good choice as a gift for my son, since he has an iPod Nano now but has ambitions to buy himself an iPhone in about a year - the dock adapters will accommodate both devices, and also works for his sisters' older iPods.These speakers were bought from ShopTronics using Amazon fulfillment.  The order came quickly and well packed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> amazing sound in a small package </p>
+
+
+<h2> review.date </h2>
+  12-04-2011  
+<h2> review.text </h2>
+
+ <p> This was ordered for a Christmas gift.  I received it in a timely manner and as promised.  It is a cute little thing.  I has not been used  so I can't speak of the sound or anything.  It is smaller than I thought it would be but still cute.. I like it and since the person getting it for Christmas like Skullcandy items, then I hope he likes it too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute little thing! </p>
+
+
+<h2> review.date </h2>
+  10-07-2013  
+<h2> review.text </h2>
+
+ <p> These are great for podcasts or spoken word, nice big airy sound that makes it easy to hear and understand.  Surprising volume.  Okay but not great for music, because of weak bass.  Work perfectly when plugged in.  I ran all my batteries down the first time I used it, I think because even tho the Ipod was off, I didn't manually turn off the unit.  Once when replacing batteries had to fiddle with them to get them to fit right, but they worked fine after that.  Only volume controls on the bar itself, everything else has to be done with the remote.  We are happy with itand will use it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great for podcasts </p>
+
+
+<h2> review.date </h2>
+  12-06-2011  
+<h2> review.text </h2>
+
+ <p> About 5 weeks after purchasing the Skullcany tube it died, "no sound". It was too late to return it to the Amazon market place seller. I contacted Skullcandy, who informed me that the item had a lifetime waranty. I had to go online and fill out a form to obtain an RA #, then return it by UPS or FED Ex ($13). After doing that you are directed to call Skullcandy, for further instructions. I was then informed that in 4 to 6 weeks I would receive an email issuing me reward points to purchase a new unit. I'm very dubious as to the outcome and why it takes so long. Jumping through hoops like this is a giant pain, and why I wouldn't recommend this product. Ps for the 5 weeks it worked it wasn't half bad. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> what a pain </p>
+
+
+<h2> review.date </h2>
+  01-30-2010  
+<h2> review.text </h2>
+
+ <p> The sound quality of this unit is pretty good. It is good enough for the office where you cannot turn it up very loud anyways. I compared this with my sister's JBL and the JBL can go much higher in volume.As for my iPhone, my comments are similar to other reviewers. The iPhone does work on the docking station, however, when at Home without other devices around. My home does not have as much electronics like the office which is true to many cases. When I brought the Skull to the office, it does produce a lot of interference while on docking station and charging. Luckily another reviewer pointed out I can remove it from the docking station and just plug in the line in from iPhone headset to Skull Line In. (Removed from docking station aka charging area) It works beautifully again. The drawback is you cannot listen to music and charge at the same time. While this is a huge inconvenience, I decided to keep this because I do not want to pay $150+ for JBL while this unit was only $40 bucks for me, on sale at Amazon.Enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not work with iPhone, Works with iPod </p>
+
+
+<h2> review.date </h2>
+  11-07-2013  
+<h2> review.text </h2>
+
+ <p> The sound is lousy.  Sorry I did not return it.  Pay a little more for something that actually sounds halfway decent.  Plus with a Nano it is hard to change the song etc while it is in the dock. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lousy sound quality. </p>
+
+
+<h2> review.date </h2>
+  01-26-2010  
+<h2> review.text </h2>
+
+ <p> I bought two of these for my kids (8 and 11) for Christmas. Easy to set up, simple controls. They do have relatively loud, accurate sound. There isn't a lot of low end, understandably, but the sound is detailed, clear, natural. I prefer this to the muddy, mid-bass heavy sound in many comparable units. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Accurate Sound </p>
+
+
+<h2> review.date </h2>
+  12-15-2009  
+<h2> review.text </h2>
+
+ <p> Well most of it already written...I will talk about 3GS compatibility...Just work superbly with 3GS...very nice remote, limited range otherwise do almost any other remote do on iphone...does not charge iphone when running on batteries, charge when connected on power. I see it more of a nice docking station...Keep things simple, looks stylish and nobody expect it will sounds that good...not very very loud but good for most of the req...Have fun!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cant complain anything </p>
+
+
+<h2> review.date </h2>
+  06-03-2010  
+<h2> review.text </h2>
+
+ <p> With all the "yes it's iphone compatible" and "no, it's not compatible" mixed reviews on Amazon, I decided to drive down to Target and test it out.  I almost ordered it based on the great reviews, but I did not want to take a chance with compatability.  I'm glad I did.  Not only did I CONFIRM it's NOT compatible with iphone 3GS from the floor model, but i also confirmed at how crappy it sounds.  It is a total piece of junk compared to all the others in this price category, which is why it gets the bad review.  i ran it in the dreaded "airplane mode" to test it out.  It sounds like a low quality speaker that is inside a metal coffee can.  It's also TINY.  Which is OK, but hard to tell actual size from the pics.Not only can I not recommend this for Iphone due to compatability (why would you even want it when there are better units at this price that ARE compatible?), but due to it's extremely poor sound quality, i could not recommend it for an ipod either.  It looks cool in the pics (not in person) and that's about it.If you want a recommendation, I bought the Sony ICF-CS10ip which is currently available on Amazon for $79 with free shipping. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> JUNK - too bad </p>
+
+
+<h2> review.date </h2>
+  06-27-2010  
+<h2> review.text </h2>
+
+ <p> I was hesitant to buy this at first only because of the price.  I did go ahead and make the investment though because I liked the quality of sound after listening to the demo at my local Target, and I wanted something small for my desktop to use with my Ipod Nano.  The look and size are perfect since it doesn't take up a lot of space.It comes with an auxillary cable which can be used to plug the speakers into your computer to use with it instead of the IPod, however, quickly learned it won't run off the auxillary cable and batteries alone.  After plugging it up this way, my Nano would not work.  After some troubleshooting, I plugged it into the wall and unplugged the auxillary and it worked just fine.The speakers also come with a small remote which is nice.  Volume is easily controlled with a button on the front.  My biggest complaint would be the on/off button being so small and on the back; this may cause people to forget its on and end up draining their batteries.Overall, I'm very impressed and glad I bought them.  Its exactly what I wanted for my Nano. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Ipod Speakers for the Price </p>
+
+
+<h2> review.date </h2>
+  10-02-2009  
+<h2> review.text </h2>
+
+ <p> This, like many other speaker docks, says it works with iPhone but DOES NOT, at least not without going into airplane mode. Useless. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does NOT work with iPhone </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

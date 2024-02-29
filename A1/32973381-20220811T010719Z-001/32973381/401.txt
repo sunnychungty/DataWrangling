@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004JN0D10 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-08-2013  
+<h2> review.text </h2>
+
+ <p> It's another free instructables book and can be a lot of fun and they're worth the time looking at them. There's a bit of tongue-in-cheek humor in the way theyre put together. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another fun read for those who like books on hacks and the price is unbeatable </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> Little info and kinda useless info. i wouldnt pay for this book. Dont waste your time. not much to say </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NOT MUCH </p>
+
+
+<h2> review.date </h2>
+  05-04-2014  
+<h2> review.text </h2>
+
+ <p> There were a lot of good ideas in this book, but some seem to be a bit of a stretch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Stuff </p>
+
+
+<h2> review.date </h2>
+  09-29-2013  
+<h2> review.text </h2>
+
+ <p> What a waste of time!  If it wasn't free I would want my money back.  Nothing interesting here at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Glad it was free </p>
+
+
+<h2> review.date </h2>
+  07-24-2013  
+<h2> review.text </h2>
+
+ <p> I love any book that makes my life more fun and whimsical or easier and this book does all of the above. I am going to get a copy of this book for anyone just starting out in life not so much for the exact hacks but to give them a fitting way of thinking.  To help them think in a different way. To give them a more critically cognitive way of thinking.  " OWN THE DAY" </p>
+
+
+<h2> review.summary </h2>
+
+ <p> TRULY AMAZING!!! </p>
+
+
+<h2> review.date </h2>
+  01-07-2014  
+<h2> review.text </h2>
+
+ <p> Wish there was some more military and computer hacks but that's just me over all a good book and I recommend you buy now </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  06-09-2014  
+<h2> review.text </h2>
+
+ <p> Very interesting. Quite ingenious and inventive hacks. Useful and fun information and tricks.  Sometimes videos are included, all have photos. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cool </p>
+
+
+<h2> review.date </h2>
+  05-12-2014  
+<h2> review.text </h2>
+
+ <p> It's a series of short &#34;hacks&#34; about stuff that are mostly self-evident. It don't think I finished it, actually. Done </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Barely worth reading </p>
+
+
+<h2> review.date </h2>
+  10-29-2013  
+<h2> review.text </h2>
+
+ <p> There are a few instructables inside that are interesting to read. It's free online and with the Kindle edition, so you can't go wrong.  The Mont Blanc pen hack is cool, if you want a top notch pen without the price. However, most of the hacks in this book are not ones I will use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Instructable hacks in concise location. </p>
+
+
+<h2> review.date </h2>
+  04-12-2014  
+<h2> review.text </h2>
+
+ <p> These pages contain ingenious projects for your diy home shop.I love &#34;outside the box&#34; creative thinkers.  These pages are filledwith money saving ideas and re-works.  All I can say is ORDERTHE BOOk.  I guarantee that you will find some projects thatmake it worth the price.The reviewer is the author of the new Kindle book entitled:SEX EDUCATION IS FOR ADULTS SECRETS TO AMAZINGSEX AND HAPPILY EVER AFTER TOO. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 5 Stars for "outside the box" thinking </p>
+
+
+<h2> review.date </h2>
+  02-22-2011  
+<h2> review.text </h2>
+
+ <p> The sample has the whole TOC, so you can make an informed decision.  All the content is available on their web site for free; you're paying for formattng here.  That said, it's a cute book and well worth the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Check the TOC </p>
+
+
+<h2> review.date </h2>
+  06-23-2013  
+<h2> review.text </h2>
+
+ <p> this is a witty little how to do book.  you can make some cute little projects for very little.  i made the 200.00 pen ,  it was quick and easy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> got this free witty charming </p>
+
+
+<h2> review.date </h2>
+  08-29-2013  
+<h2> review.text </h2>
+
+ <p> Life Hacks is short, to the point, useful and fun.I already knew some of these, but others I had not heard of.It is a VERY quick read, so don't expect a big book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Life Hacks aka Quick tips to make life easier </p>
+
+
+<h2> review.date </h2>
+  09-18-2013  
+<h2> review.text </h2>
+
+ <p> Didn' offer much in the way of new ideas and hard to understand. I might take another look at this book later when I have more time to understand it.My Mistake. On further review it is a very useful collection of ideas and how to apply them. I followed directions the second reading and had great success. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My mistake. </p>
+
+
+<h2> review.date </h2>
+  11-20-2013  
+<h2> review.text </h2>
+
+ <p> It's hard to dislike a free book. The subjects and examples weren't that helpful for my everyday life, but it's interesting if you are into being more resourceful, less wasteful, or creative. The link to other projects were interesting as well. I think I spent more time learing about activated carbon than reading the section that applied to it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> interesting reads and tips </p>
+
+
+<h2> review.date </h2>
+  06-16-2014  
+<h2> review.text </h2>
+
+ <p> This is not so much life hacks as it is a bunch of projects for specific random needs....most people will never need any of this information. For those who do I am sure that the same information is available on the web. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not what I call life hacks </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

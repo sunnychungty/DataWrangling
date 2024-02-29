@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B003NE8B4M <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Action and charm and a proper villain </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have had some bad anime picks recently and so my expectations for this series were mixed. The first few episodes are a bit silly as the characters establish themselves. The absurdity of having a trigger happy veteran sergeant be a schoolboy body guard takes a while to wear off but does have some funny moments. Once the plot gets going it swings along mixing good characterization with a variety of action. It manages to be fun and suspenseful without falling prey to mindless fan service. Treat the first two or three episodes with skepticism and then be prepared to enjoy a well thought out consistent anime. Highly recommended. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Don't panic </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Starts off slow but once it gets going it is a pretty decent show.good action to counter the slow parts. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HighSchool Mobile Suites </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-30-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> For those her enjoy anime series such as gundam or any mobile suite action with a military but yet playful story plot, you will deff. like this series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent a must own! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-26-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> In order to fight the growing threat of terrorism a paramilitary counter terrorism group known as the Mithril organization is established. In addition to combating and obliterating terrorist groups the Mithril organization also takes a keen interest in protecting people known as the whispered. The whispered are mysteriously born possessing knowledge of highly advanced technology and weaponry. As a result the whispered are being targeted by nefarious individuals and groups who wish to obtain this knowledge to serve their own agendas.When the Mithril organization learns that an unsuspecting high school girl is being targeted they send one of their top guys to protect her there is only one problem... the man they've chosen may have a brilliant military mind, but he is completely socially inept. The series blends comedy, drama and action together with expert precision transitioning from comedy hijinks to dramatic dilemmas that culminate in amazing action sequences.The animation is top notch, the characters are intriguing, the story is both hilarious and compelling with an excellent English dub making this series a must own for any anime fan and one of my favorite mecha animes! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An incredible show </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The first of the 3 seasons of FMP which had lots of action and laughs the series as a whole is one of my favorite anime. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> They Just Don't Make 'em Like This Anymore! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-11-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you are an avid anime fan and enjoy action/drama/comedy series then this is for you!  Though it is now several years old, the series is still in my top 10 or 20 of all time.  The balance of drama, action, and comedy is well done and the characters are genuinely likable.Other reviews and the synopsis cover the plot and events pretty well, but if you are a fan of military style anime with some fan service thrown in then definitely pick this up.I recommend watching with the Japanese dialogue and English subtitles.  Souske's Japanese voice is PERFECT!  I also recommend a 13+ age for viewing as a lot of the humor is slightly 'flirty' in nature and young audiences won't get a lot of the humor. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The show is very good when it is trying to be funny, but the plots are hit or miss sometimes. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Bottom Line </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-13-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This anime was enjoyable for me, it really was (especially since I capitalized on it when it was $17.99).  It didn't honestly satisfy my hunger for a good solid action anime though.  The show itself is just fine, and I would reccommend it to most people, but I've never been into the 'Mecha' fighting style.  If you are, then this will be perfect for you.  Now, let me clarify that this is a review of the show, and not of the Blu-Ray disc, format, or packaging (though they seemed all just fine to me anyway!).  I didn't really connect with Sousuke, which was a problem.  You have to be able to connect with the main character.  Though, I sure did really start to enjoy Mr. Sagara in 'FMP? Fumoffu'. My god, that's good anime.  FMP! is a good anime, and worth the buy, but I truly believe you should just watch FMP! so you know the characters for FMP? Fomoffu.  One of my new favourite anime's of all time now.  The bottom line: Buy this as it is enjoyable, but buy it mainly so you can appreciate the sequel 'FMP? Fumoffu', as it is a wonderful, wonderful anime. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mecha action meets off the wall hijinks </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-23-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Here it is, the first series out of three in the Full Metal Panic anime franchise in full HD! Witness how Sousuke Sagara and Kaname Chidori first met and how the action and humorous hijinks ensues(and continues on). The insane, off the wall comedy will at times have you literally almost rolling on the group and the intense Mecha action and drama on the battlefield will hit home. Anyway, on with the review.Video:Although this is a blu-ray remastered release, oddly it's in 4x3, full screen aspect ratio instead of the usual 16x9, widescreen aspect ratio used in high definition media. This means you have to manually configure your TV's aspect ratio to widescreen(16x9) if you want to get rid of the black bars on the left and right sides of the screen, if your TV or blu-ray player doesn't do this automatically. I really don't see why they did this for the blu-ray release. Maybe they couldn't get the rights to the full HD remaster of the series. Who know. Anyhow, aside from that, the video quality is really good. The colors are vibrant, the outlines on the characters, mecha, and etc are very sharp. You don't get any kind of blurry, hazy, or distorted parts whatsoever in any of the episodes.Audio:The HD audio remastering of this version is really good like a lot of blu-ray conversions of once DVD only material. The music is more powerful and clear, the sound effects are more powerful and crisp. Also, the quality of the character's voices was a lot clearer and more dynamic. These are to expected from blu-ray audio, though. The better your audio set up for your TV is, the closer you get to the "theater-like" sound experience.Story:Well, what can I say? It's over the top comedy fused with Mecha action and drama. You get a little bit of everything in this show. Scenes where you will laugh really hard, scenes where you will be gripping the edge of your seat/chair/couch/etc, scenes where you will feel the pain the characters are feeling, and scenes where you will feel warm and fuzzy inside. A very brilliant story, indeed. It has enough mechs and action to drawn in the mecha/action anime fans, enough comedy and romance to attract the comedy and romantic comedy anime fans, and enough gripping drama to lure the drama and "thought provoking" anime fans. A hardcore warrior-minded mercenary boy clueless to the ways of normal, every day civilian life meets violent, tomboy-ish (somewhat)normal civilian girl clueless to the ways of life on the battlefield was never portrayed as well as this. Definitely a must see for any anime fan. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love story in mecha </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> So a civilian girl is a unknown being protected by elite mercenaries. . .however, her bodyguard starts looking at it from a different perspective after being a soldier for most his life.  He seems to cause more trouble based on not having any civilian social skills or civilian encounters as everything is perceived as a threat.  It the girl who falls for the guy. . .but she has competition from the boss lady that is the same age as both of them. . .Imagine a 16 year old girl being a Commanding  Officer of a futuristic submarine. . .sure, maybe in the future.  That's what's great is the possibilities.Different types of mecha and different angles of the storyline, some go towards the romance/get-to-know each other episodes.  Others are heavy hitting battles with losses and struggles.  I liked it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent action series!  I highly recommend this bluray to anyone.  AAAAAA+++++++++. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Excellent action series!  I highly recommend this bluray to anyone.  AAAAAA+++++++++.  This series has lots of action and very serious storyline. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Can't go wrong </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This story surrounds that of military secret force who are out to protect the world against the black technology that only the whispered can know about. High tech machines that can become invisible and a mistakable friendship. This anime will keep you guessing as well as laughin. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One of the best Anime Shows. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-15-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is by far one of the best novel to screen adaptations I have ever seen of a anime, along with spice and wolf and Bleach from it manga. I am so glad that funimation is releasing it on bluray. This show is good becuase it has action,drama, romance and A general disregard for blowing up school property. It is gonna be so nice to have it on bluray, and now sine the novels are complete and more coming out in the states, Kyoto animation should be getting around to continuing the show.I recommend this show to any anime fan that loves high school drama with a Big twist. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Full Metal Awesome!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-14-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> FMP is the story of Kaname and the Mercenary Sousuke. Kaname is a high school student that holds the key to black technology. An advanced form of technology used in military applications. Sousuke is a mercenary assigned to guard her. The problem is that he has been fighting battles since he was a young boy, and he has no common sense or social skills. He is always causing trouble for her, but he's the best candidate to keep her safe. The story follows their adventures from their high school all the way to the battlefield and back again.I bought this series one DVD at a time when it was new. I just got my hands on the new Blu-ray relesae. FMP was great looking in standard definition, but the HD is amazing. There are a lot of animes where the Blu-ray isn't all that much better, but FMP is a great improvement.FMP has everything you could want out of an anime series. Action, comedy, drama, sci-fi, and a bit of romance. It also stars the best voice actors in the business. I have always loved this series and I hope you do too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Full Metal Pleasure </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-05-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Full Metal Panic is a wonderful story filled with all the  elements that makes it a great story. It has action,comedy,drama and a little romance in strange little way. The story has mechs but they don't overwhelm the story. The story's main character Sagara Sousake is a military genius who works for an organization known as Mithrill. An excellent soldier, Sousake finds himself guarding a young woman named Kaname from evil organizations that want to exploit the whispered( People mostly teenagers who have secrets of highly advanced technology hidden within them called Black Technology)These organizations will stop at nothing to gain that technology and thus the storyline.Sousake and kaname are hiliarious together and the supporting cast is just as witty and times comical. There's also much action and drama to the story as well. This is a story I recommend to anyone who enjoys a well rounded story with thought out characters. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Language Matters </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-26-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This anime is great for those people who enjoy a mech anime with a side of comedy. This is fish out water story where mercenary Sousuke who is 16-17 years old has to join a school in Tokyo to watch over a girl named Kaname because of her "whispered" abilities. From there a good action and comedy story takes place. This season is more on the action side which doesn't take away from the fact that it is a great show.If you are into the comedic aspects then watching or purchasing Full Metal Panic!? Fumoffu is for you, not much action in that series.The animation is great for having been produced in 2002, especially compared to shows being produced at the time With that let me discuss the reason for the title above, while the english dub sounds good and no actor is bad, I personally felt that Sousuke's personality and the fact that he is oblivious to everything he is doing wrong is lost with the english dub. Even with the Japanese audio being in stereo I would say stick with that, but if you dislike reading subtitles then the english audio is perfectly fine.I really enjoy when a show or anime can blend together multiple genres and make a successful final product, the only genre that ends up lacking a little bit is the romance but that is a result of the characters personalities and interactions aka Sousuke is again oblivious to everything not military related.Rating: 4.5/5 </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Juvenile, Juvenile </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-03-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> **(CONTAIN SPOILERS)**This series has an interesting concept and starts promisingly. It follows the story of a 17-year-old Sergeant Sousuke Sagara who works for an anti-terrorist military group called Mithril and is assigned to protect another 17-year-old, the most popular girl in high school, Kaname from some unknown dangers (Later we will understand why and who is targeting her). The funny part is our hero Sousuke was raised in the military, and despite of being an excellent soldier, he has absolutely no social skills.  In order to secretly protect Kaname from danger, Sousuke takes on an undercover mission by enrolling to Kaname's high school, you can probably figure out the rest by yourself, he then overreacts every little thing at school and creates all sorts of comedic absurdity, misunderstandings and troubles for the whole class, teacher and of course the hot-headed Kaname who especially can't stand his lack of common sense, later gradually develops a feeling for him.That is the general introduction to the first several episodes and the show reaches its peak when Kaname finally got kidnapped and Sousuke went on a dangerous battle to save her. These episodes are thrilling and done pretty well; however, after this rescue mission is over; all the bad guys have been supposedly killed and apparently there are no more enemies will chase after kaname, the fun suddenly stops. The rest of the episodes seem to go backward by following the exact same formula from the beginning again.  Sousuke goes back to become the socially-retarded undercover high school student and continue to create comedic troubles for everyone at school even though his original mission is finished and the organization (Mitril) got no evidence to suggest that kaname will be targeted again. This part really disappoints me as the creator failed to come up with different and better concepts.  The plots should've moved on and been more creative about the future storylines instead of continuing relying on the same old jokes. Sousuke is a highly skillful Sergeant who works for the anti-terrorist organization, so why can't he be assigned to do another different or more dangerous secret mission besides going back to babysit that spoiled-little princess Kaname again? It's so illogical, unconvincing and wasteful for a talented soldier like Sousuke.On top of that the creator failed to prove the connection between Kaname and the second mission, which begins from ep. 8-12. I mean why is she even needed in these episodes besides making the audience to see how she gets jealous and violent on Sousuke? The second mission doesn't even revolve around her and frankly we are forced to see more kaname's annoying temper than actions. I understand romance is part of the big concept in this series, but these episodes involved Kaname and Sousuke is neither romantic nor sensible. I guess its purpose is to create some childish comedic relief but let's be honest, haven't we seen enough jokes like this in the beginning episodes already?Furthermore, I find it hard to believe Sousuke, a skillful soldier who is capable of mastering all sort of highly-advanced technologies yet has a hard time adapting to normal life. The jokes about him being the most clueless guy in the world are quite refreshing in the beginning, but his character never grows throughout the whole series, which is quite disappointing. Even a 5-year-old is able to learn a few things about life after his/her parents teach him/her; but Sousuke never learns and acts exactly like the same way from before in the end.Lastly, the character Tessa has to be the most annoying one in the show. She is the 16-year-old Captain of Mithril, yet couldn't hold a gun to defend herself to save her own life. She's childish, prudish, over-polite, pacific and lacks of confidence. Although I have some problems with concepts like a teen leading a bunch of grow-ups in a military organization (I just don't buy it), my biggest problem is that the creator couldn't give us a convincing answer how could someone so weak could take up the position of the captain of the anti-terrorist organization. To me this position doesn't suit her one bit, but the creator tried too hard to prove she worths it, which shows in the filler episode (13) where a silly argument breaks out between she and Mellisa Mao, who then challenges her to an AS duel. The outcome proved to be less satisfactory and unconvincing rather than Tessa is a big crybaby.The music and graphics score very high in this series. The opening and closing songs are very catchy and the drawings are quite beautiful, detailed and fluids. But that's about it.All in all, although this series doesn't impress me much in many ways, I would still recommend this one to anyone who enjoys mecha, romance and slapstick comedy. However, I would not recommend it to anyone who ages under 12 since it contains moderate violence, mild profanity and some brief nudity. Make sure you watch a few episodes online before purchasing it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Entertaining Military Comedy </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-08-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Sousuke Sagara is a seventeen year old military specialist with an interesting mission - become a high school student in order to protect Kaname Chidori, who is a "Whispered", a person unknowingly in possession of "Black Technology". Unfortunately, while very knowledgeable of military subjects, Sousuke completely lacks basic social skills. Also working against him is the very thing that makes him a good soldier, a healthy paranoia and quick reflexes, which results in many a innocent student at gunpoint. While Sousuke is intent on guarding Kaname from terrorists, she works hard to protect the school from Sousuke!I started this series without any expectations, and I must say I was quiet pleasantly surprised. Sousuke is quiet an ernest, likable character and Kaname isn't as annoying as I had expected her. Over time I even grew rather fond of her. Sousuke's social inaptitude is the focus of most of the humor, but wasn't too overdone. He does seem incredible dense sometime, but you have to keep in mind the environment that he was raised in, and take into account that he doesn't really care about social correctness and doesn't make much of an effort to learn. The balance between military missions and high school social life is well done and provide an entertaining contrast.I tried watching this show in English for an episode and then gave up and switched to Japanese, which was much better. Sousuke's voice actor in particular did a very good job. The English dub isn't too bad, the Japanese is just much better.If you enjoy this show you will be please to learn that the two OVAs are even better.Full Metal Panic FUMOFFUis 12 episodes of random short stories andFull Metal Panic! The Second Raidis 13 episodes with one storyline. Fumoffu is very entertaining and funnier than the original series. Second Raid is a little darker than the original and the story is much more solid. I recommend all three. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Enjoyed The Series,  Mixed Feelings On The New Box Set </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-16-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Like with another series I had already owned,  the previous box set of this series I had had one disk that was cracked in the middle so instead of buying the older box set I decided I get this much more affordable one.  The set comes in four dvds put into two thinpack dvd case and into paper sleeve like the recent Funimation box sets,  and while it cuts from the previous set of seven dvds the video quality is still the same.  That would be the biggest desicion for myself as I was wondering about the possibility of any video difference or not,  and there isn't though the frame rate runs smoother so the video looks a little clearer and with fewer miniscule frame distortions but nothing majorly different from the earlier released sets.  The one thing that has vastly improved though is the much more clearer audio soundtrack,  unlike the previous set a few years ago this one only has 5.1 English audio or 2.0 Japanese audio as Funimation like with the re-release of Kiddy Grade have tossed away the old 2.0 English audio.  Also I haven't check all the old series release set dvds yet but it looks Like Funimation touched up the subtitles of this newest release to translate and fit what the subbed cast are saying a lot more better which is nice,  also there are pretty much the same we had with the earlier sets with the t.v. promotional spots,  trailers,  and textless intro/ending songs.  If you already have the earlier boxed sets I would say just stick with those unless you need to replace a disc or two,  overall with the exception of a cleaner and clearer audio and fewer disc overall you won't see a major difference between this set and the set that was released a few years ago..The series itself is very entertaining for any mecha or action anime fan as you'll get a good dose of both,  the short basic storyline is you have people called "Whispered" who have innate knowledge of advanced sciences ranging from medical to weapons design and because of this there are a variety of groups who are seeking these unique individuals for their own shadowy agendas.  One of these whispered is our main female character a spunky young japanese High school girl Kaname Chidori who is being targeted by two groups one of which our main male character Sousuke Sagara a young teenage boy and very skilled mercenary fighter is with is chosen to protect her from these nefarious people.  The characters grow on you and the other cast members are all endearing in their own little way as well.  The voice cast were great in their roles both the Japanese and English cast played their roles very well and the soundtrack fits the series too.  So if you're a fan of series like Gundam or action animes or just a good show in general try checking this series out for your anime collection.... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mecha, mercs and babes. Wow. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-19-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Take Macross, update it, put it under the sea, and you have the seed for FMP. Mercs, big battle bots, a love triangle, mutant chicks, advanced weaponry, underwater battle platform / sub (reminded me of the old Stingray series) - this series has it all. Rescue missions, pure revenge, jealousy - these folks face it all. It's a non-stop battle-fest, with an occasional time-out for awkward "he's gotta love me, really!" moments.  Two chicks fawning over the same guy, and he'd rather clean his weapon than be alone with either one. He's more comfortable killing than kissing.  Makes for some interesting moments - actually most of the humor in the series.The battle scenes are pretty realistic, the weaponry well thought out, and the characters well done. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very, very nice; a review of the actual Blu Ray </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-02-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just received this set and have watched through roughly 4 episodes and a little bit.For those that don't know, Full Metal Panic (or FMP) is a show from early 2000 based on a series of short novels. The story involves a boy soldier (well, mercenary), sent by a secret organization to protect a girl who is known to be a "Whispered." Being a "Whispered" means that the person holds knowledge of "black technology" without really knowing they know it. Mostly it's about Sagara Sosuke, the boy soldier, being clumsy with people and having an obvious crush on the girl he is supposed to be protecting. The feeling is mutual and the girl he is protecting, Chidori Kaname, is just as awkward in dealing with Sosuke.Giant robot action is also included as a sort of bonus. Think of the show as a romantic comedy with serious drama and military action thrown in.In terms of the Blu Ray, this release is an upscale of a standard definition release as the studio that animated it, Gonzo, was only animating in SD at the time of its release. Either way, a proper software upscale done on a Blu Ray will always look better than an upscale done through hardware (watching a DVD via the PS3 upscaled to 1080p for instance). This release is no exception.The nice thing here is that the opening sequence is unaffected by the upscale this time around, unlike Funimation's release ofFull Metal Panic! The Second Raid Box Set [Blu-ray] where the opening was improperly encoded and skips frames.Picture quality is nothing short of amazing. Crystal clear and from everything I can tell, there are no artifacts or other weirdness brought in from the upscale. If you had this on DVD and want an upgrade in picture quality, this is a worthy purchase as it looks perfect. If upscaled DVD looks good to you, well there may be no point in upgrading to Blu Ray.Something to keep in mind is that this show was originally done in the 4:3 aspect ratio (SD). The opening, while widescreen, isn't anamorphic and wasn't actually animated in HD, so it will always contain bars at the top and bottom of the picture. This is as it was originally animated and FUNimation has taken no liberties to try and stretch it to a widescreen format, which is appreciated.The opening and endings are the same as the ADV DVD release so the opening/ending title cards are all in English. If you're looking for the Japanese title cards, you'll need to purchase the Japanese releases to have Japanese title cards as they are not included in any ADV or FUNimation release.In terms of audio, you have 2 options. You can watch the show in Stereo Dolby True HD in spoken Japanese (the original show was 2.0 stereo in Japan, so you are getting the audio as originally intended by the Japanese producers for the Japanese market) and  you are also given the option of Dolby True HD 5.1 in spoken English. When ADV released the series oh so many years ago, they upgraded the 2.0 audio to a 5.1 mix in the US. The result in English, for me, is a mixed result as much of the time it still feels like a stereo mix. I also generally watch Anime in Japanese, so I was really just swapping around during action sequences to see how the channel separation sounds and it's good, but nothing amazing.Overall the audio sounds pretty good. There are no drop outs or other audio issues and the added bitrate afforded by Blu Ray and True HD, but then, there weren't really any issues with the original DVD mixes either.Some nice extras are included, including one that wasn't in the original single release from ADV (nor was it included in previous ADV sets). The new extra is the interview with the show's producers and original author of the novels. This was recorded for the Japanese Blu Ray release (or possibly to air during the re-airing of the series on Japanese TV, I'm not sure), I believe, so it actually is encoded in HD, 1080i. It's a look back on the show's release and is really good.There is something missing from the extras. The original DVD release included some production sketches in video form. These do not exist on this release, which means it isn't "complete," however they weren't amazing. It is disappointing they aren't here though.You have 8 episodes per disc, on 3 discs. I was worried there would be audio or video issues trying to cram so many episodes on a disc, however the bit rates are high throughout and it really looks quite amazing.If you love the series and want the release with the best video quality yet released, this is the one to pick up. If you need to have all the extras, you'll need this release (or the DVD equivalent) and the original ADV release for the production sketches.If you've never seen the show and don't own a previous version, this is the one to get.EDIT- one mistake. The ending credits are NOT the same credits ADV used. They have been redone and no longer "scroll" up the screen, which is nice. Still would have been nice to include the original op/ed credits from the Japanese version as an extra if nothing else. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cool </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like the story how the main character is trying to live in a war free zone and thing good action and it's funny </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I guess it's the best looking way... </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-01-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> to watch a anime from the days of 4:9. '~The Second Raid' really is the only one of the three that profited from a Blu-Ray release. Good show but sadly, it doesn't end the overall plot which didn't end with the last release either. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 3 1/2 Stars. A bit disappointing but overall not a bad series. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-13-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this series based on positive reviews I had read including some here on Amazon but I found the series to be mediocre. I've seen Neon Genesis Evangelion, Cowboy Bebop, Samurai Champloo, Samurai 7, and The Fullmetal Alchemist (First Series, not the recently remade one). These are excellent series that I thoroughly enjoyed, Evangelion and Cowboy Bebop being legendary in the anime genre.Full Metal Panic! is the first series I felt was actually mediocre and did not live up to the positive reviews I had read. It took me about 14 episodes of viewing before I felt like I was getting into it, but even after I started to care a bit about the series I didn't care a whole lot.The main problem is that the all of the characters are one-dimensional. The main characters Kaname and Sousuke do start to be developed later on but for the most part they remain one-dimensional. The main villain of the series is even worse, he is as cheesy and one-dimensional as they come. The music isn't anything to write home about either, some of it is decent and some of it is cheesy. The actual animation is the best part of the series.Overall this high school romantic/comedy/action series relies on a formula that gets old after a while. Sousuke is a military guy who approaches every part of his life as if it were a mission, which leads him into some slapstick humor. Kaname is the high school girl with beauty, charm, and smarts. The romance takes place between Sousuke and Kaname and the main villain is evil just for the sake of being evil, oh and to make some money too. That's the formula of the series and I didn't think the creators did enough with it or develop the characters enough.If you are looking for something that has some real substance then you should look elsewhere. The series I listed at the beginning are all much better than this series. If you are a hardcore anime fan and you've gone through most of the top quality anime out there then you might want to give this a shot as it's not a bad series, it's just not an exceptional series and there are many exceptional anime series out there.*edit*I just finished watching season two of this series and I was pleasantly surprised. The creators actually got around to exploring the characters themselves which I felt was missing in the first series. As someone who really enjoys anime, I will have to say that it is worth watching the first season to lead you into an excellent second season. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love this series :) </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-14-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you love mech action combined with classic Japanese high school comedy, then this is your Anime! lol. greta price too. :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Beginning </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is about the merged C.I.A. and the Peace Corp on steroids. After the merger, they become elite mercenaries only letting themselves be hired out for the light side of the Force. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> If you like action.... </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A terrific sci-fi/romance/butt-kickin' series!If you don't already have it, get it!Not to knock season two, I just think this is the one to get. Season 2 for me was more dialogue as opposed to action when compared to this Season One. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

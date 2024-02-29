@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00IWJJ45I <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Get organized and live stress-free </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you want to avoid all the &#34;junks,&#34; and live a freer and much easier life,look no further, as this is the book for you! The book is short, simple,and concise, which makes for an easy and interesting read.The author lists 66 routes to take that will help you unclutter your life,both on the physical (space) and mental (mind) aspects of it. He providesinsights on how well we can get past our stumbling blocks, that make usmiserable. Here, we will find that it is just a matter of knowing and masteringthe techniques to enjoy a freer life!There's more to life, so let's set our minds free and enjoy life to the fullest!Get this book, and you're on your way to a better life! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> What a great tool! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book could benefit literally anyone. We all have mental and physical clutter that holds us back--it's nearly impossible not to. Junk that accumulates in our everyday life starts to weigh us down and hold us back. Mental clutter can feel so heavy that it's a physical sensation and physical clutter causes anxiety, stress, and loss of productivity. This book presents dozens of exercises and tips that are practical and easy to follow. The author writes in a way that is clear and engaging. Great, great resource for any person who wants to live a better life! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Definitely worth trying!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I liked some of the methods used in the book to uncluttered yourself. Mind you , there are 2 types of cluttering both physical and mental. Both can be equally bad as each other and both requires attention. The book has decent methods to try and it seems achievable. I love the tree solution, I will be trying this one, wonder if it will work with a plant or not. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great options for physical and mental clutter </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I liked this book a lot.  It is a fast read and it contains advice not only on Physical Clutter but also Mental Clutter.I really liked the &#8220;Tree&#8221; route in the Mental Clutter section and there were several great ideas that worked for me in the Physical Clutter section.Every person is different and the author&#8217;s mix of 66 routes gives a lot of possible options for individuals to use in the de-cluttering process.Excellent book that left me feeling quite motivated when I finished it.  Definitely recommend. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Clear the Clutter...Clear Your LIfe! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great book on jumping into clutter and clearing up your life.  I expected to learn some tips and advice on the general 'how to' clean out drawers, rooms, spaces in the home.  Maybe even at work too.  And I had I already learned about the idea that clutter on the outside is connected to clutter on the inside.  But I was pleasantly surprised to see how Dr Goodman offers specific tips for both.The book is a fun read, taking you along Route 66 with 66 different tips and ideas on how to tackle clutter (both mental and physical).  And just like taking a road trip, there are many different routes to get to your destination.  Dr Goodman share how you can travel through the tips in this book with a variety of routes, and any of them will get you there.  The main goal is having FUN! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One of my best book decisions </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a problem that many of us have, but don't know we suffer from it. Not until we move to a new place or do spring cleaning do we realize how stuck with our possessions we are. Dr. Andrew M. Goodman delivers here a novel book that every single family can benefit from reading and applying to our lives. I think this is a great first step in making even grander changes in our lives for the better.Un-Clutter is exactly what the doctor ordered! You don't have to be a hoarder or a pack rat to benefit from removing the clutter from your life. Personally, I started small using some of the simpler tips in the book and became more confident to make drastic changes. I'm happier for the better. Not only is my home better off, but my mental state is new and fresh. I think my memory has improved, my mood has lightened, and I finally know the exact location of all of my belongings. Un-clutter! 66 Routes to a Freer Life was one of my best book decisions. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Lots of Good Ideas </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The 66 routes represent different techniques that can be used to reduced physical clutter and mental clutter in your life.  With this many, there is a sense of repetition between some routes, but that's fine.  This isn't a straight recipe to follow.  Instead it's a collection you can browse through to pick and choose ideas to try.  While the goal is to relieve mental clutter, I do not agree with some of the ideas presented near the end of the book.  The underlying concepts suggested lean towards a moral relativism that should not be promoted. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun and easy routes to un-cluttering </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a very helpful book for anyone who would like to un-clutter their life, both the physical and mental side. First, the author helps you think about the things in your life and prepares you to want to eliminate some of that are extraneous. Then he gives you lots of routes to accomplish it. Depending on your personality, some may appeal to you and some may not.I've been struggling to de-clutter for months, and this really got me started. Plus, it was actually fun. I used a combination of the &#34;fast clean out,&#34; &#34;invite someone over,&#34; the &#34;six month box,&#34; and &#34;trusted adviser.&#34; I did a fast clean out, invited some neighbors over, and we drank wine and talked about un-cluttering. I had the things out, plus a box I've been accumulating for months. In fact, I couldn't even remember exactly what was in it. They looked through everything, and took over half of it. Plus, I arranged online for a pickup by Goodwill of the rest.It's a huge boost to have extra space available, and I'm already planning to start on another route, &#34;duplicates.&#34;  It's amazing how quick and easy it was.There is also a nice section on mental un-cluttering, again with many suggestions on how to proceed. This book is a fast read, will inspire you, and is worth getting. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Different Than Many Books on the Subject </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Dr. Goodman focuses on removing physical clutter (40 Routes) from our lives. I felt there was a lot of overlap in many of his methods, but the book would be valuable to those new to the process. He also talks about removing mental clutter (26 Routes) from your life. This is something that I have not seen addressed in un-cluttering books. While it was a welcome topic I felt as if he sped through the discussion of mental clutter. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Kind of "meh" </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Some good ideas, but not really anything I found useful or helpful or applicable. I'm glad it was free. Would not have purchased it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Resourceful and full of ideas </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-30-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The thing that struck me about this book was the amount of different ways to un-clutter your life.  We all have clutter in our lives.  Sometimes it&#8217;s physical clutter, like clothing or trinkets that have taken over your home.  Sometimes it&#8217;s mental clutter where you can&#8217;t clear your head.  Many times, for many people, it&#8217;s both.No one way to un-clutter your life and mind works for everyone, every time.  This book provides a variety of ways and offers useful suggestions.  Often, for me, if I can&#8217;t seem to clear my head, I take a walk.  This doesn't always work, and I&#8217;m glad to have a resource to go to for other ideas.As far as the ideas to un-clutter the physical space around you, I gravitated towards the Toss Box and the Two Items per Week/Month.  These seemed like really simple solutions that anyone can achieve.  I will admit that some of the ideas seemed a bit of a stretch (the Tent, for example), but that doesn't mean that it&#8217;s not a helpful idea to someone.Un-Clutter is a nice, resourceful book to have for ideas to reorganize and un-clutter life. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Just In Time! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was exactly what I needed to jump start my spring cleaning. The book is packed with super helpful tips that will give you some great ideas on decluttering your space and your mind. I can not say enough about it; I have gained a whole new perspective on un-cluttering. It really helps in simplifying your life. I recommend this to anyone who is ready to move out the clutter and make life so much easier. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing advice, easy to read </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is perfect for those people, like myself, that can never keep organized and have a thousand things going on at once (my problem is a physical clutter problem). I think the author makes a good point when he says "Clutter takes over so gradually we don't even see it." - that has definitely been the problem with me and what eventually led me to this book, when I decided to change - I woke up one day and said to myself "this ends now". Hopefully, with the help of what I have learned, and I really am confident in this, I will be able to free up my life and live how I used to.The first thing that stood out to me about the book is the writing style, the delivery is smooth so it doesn't feel boring to read - I usually get about 1/4th through a book and then put it down, never to be read again, but that wasn't the case with Un-Clutter! - it had me engaged from start to finish. Of course, the writing style is worthless if the book doesn't have any substance or share anything valuable at all. Un-Clutter! is absolutely exceptional in this department, the information can be applied by a wide variety of people for many different kinds of clutter-related problems that are being negative to their quality of life, both the physical and mental. There's also plenty of info on how to make money from old clutter, such as by auctions and yard sales. I highly recommend it for anyone that is finally ready to "un-clutter" themselves either physically (such as useless items around the home) or 'un-clutter' themselves mentally through the various exercises that the author shares. Definitely an overall exceptional read, if you ask me! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Lots of good ideas - for both physical and mental clutter. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> You don't often find a decluttering book that addresses mental decluttering, as well as the physical.  That in itself merits reading this book.  Some of the ideas were sort of overlapping, especially in the physical decluttering section.  But they were all quite good.  The author makes you feel you can really accomplish any of the choices you make - you just have to choose those that feel best for you and get started.  I thought this was really a great book - and one you can go to over and over again. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Practical and Informative Guide to Decluttering Your Life </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I ran across &#34;Un-Clutter! 66 Routes to a Freer Life!&#34; recently and decided to give it a try, seeing if it could help me unclutter my home and life.I have to say that the author did a fantastic job in providing a simple but informative guide that goes the distance in offering a wealth of ways to declutter a home; from designating that everyone in the home needs to get rid of two items a week (whether selling, donating or giving away) to trusting a friend to be your &#34;clutter consultant&#34; and help you identify things in your home that you need to get rid of.What I liked about the book is that It's not a one-size fits all kind of decluttering book, it offers countless different ways to approach decluttering your home so that you have options and choices to chose from... allowing you to identify what works for you and your family best. This is a well-written and straightforward book about how to unclutter a home, using a casual but informative writing style to make sure you get the most from the guide.Overall, this proved to be a smart choice for helping me to unclutter my home and I would certainly recommend it for those who want to learn about the countless ways to declutter a house. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Well worth the read </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> For many years I have struggle with mental clutter most of which has often held me back from achieving my goals, so this book has really helped in clearing my mind not only making me feel better but also allowing me  to use my time in a better.Combined with lots of good methods to clear all the physical clutter that we accumulate in our life this book has lots to offer anyone stuck in the rut of life and needing that good shake up to set you freeWell worth the read . </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Unclutter </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-31-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I don&#8217;t know about the rest of the world, but I&#8217;m a keep everything kind of person. Knowing that my life has become a clutter full lifestyle I bought Un-Clutter! 66 Routes to a Freer Life!. The book was a great read and gave many suggestions on how to change physical and mental clutter in our lives. So if your house is like mine you might want to pick up this book. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

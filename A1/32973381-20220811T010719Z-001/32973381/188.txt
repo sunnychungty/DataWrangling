@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00005ABVJ <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-07-2009  
+<h2> review.text </h2>
+
+ <p> Although I'm not a huge horror fan, I recommend this to anyone who is. It was the first true horror film made in Brazil, and features a moaning, wind-howling, disturbing soundtrack, whereby even the cheesiest lines (like the warning from the witch at the start) become atmospheric due to sound effects and delivery.Coffin Joe the undertaker is an unpleasant little oik (with a stylish top hat), and is entertaining due precisely to his exaggerated unpleasant insouciance. All he wants is a son to carry on his bloodlines. He is determined that nothing will stand in the way of his plans, even if it means killing those closest to him... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A few things you should know about 'At Midnight I'll Take Your Soul' </p>
+
+
+<h2> review.date </h2>
+  04-12-2008  
+<h2> review.text </h2>
+
+ <p> Material too bad even for MST3K. This film gets my vote for one of the worst movies of all time. Poorly acted and chock full of misogyny for all of us female viewers out there (he beats up and bloodies a woman before raping her) and before that our villain murders his wife because, he tells her, that her life serves no further purpose because she has failed to give him children and hey, she can't marry again anyway; this is during his torture killing of her via spider...death by spider? Maybe our magician-hat-wearing goofball got the idea from Dr. No, either way, this piece of junk is disgusting. Best part of the movie was THE END. Hopefully this movie will eventually become an unavailable relic of the past. And I see by its "unavailable" status that it has. A dream come true, thanks! And yeah, it's a horror movie all right - a horror OF a movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Coffin Crapola </p>
+
+
+<h2> review.date </h2>
+  12-08-2012  
+<h2> review.text </h2>
+
+ <p> Having heard about COFFIN JOE for years, I finally bought AT MIDNIGHT I'LL TAKE YOUR SOUL (along w/ THIS NIGHT I'LL POSSESS YOUR CORPSE, and EMBODIMENT OF EVIL), and watched it. This is great stuff! Within the first fifteen minutes or so, JOE has already cut off a man's fingers, blasphemed the church, and murdered his wife and his best friend. This guy is pure eeevil alright! For it's time (1963-64), AMITYS is a bleak, horror goldmine. For its budget (or total lack thereof), it's something of a dark little miracle! I find the character of COFFIN JOE to be remorseless, insane, and yet fascinating. This Brazilian classic belongs in every horror collection... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "You Agonize, Because You Cannot Scream!"... </p>
+
+
+<h2> review.date </h2>
+  06-09-2003  
+<h2> review.text </h2>
+
+ <p> this has to be perhaps my dvd box set of all time. here we have a splendid example of foreign/ horror cinema at it's all-time best in one box at such a reasonable price. this is enough to make anyone scream for joy! i love every sick, repulsive moment of the coffin joe trilogy & recommend to any serious collector of great films. here we have atmosphere galore, attractive women, and a thoroughly disgusting but original character who rivals any psychopath or monster we've ever seen in american films. while the films at times may remind one of vincent price or perhaps even russ meyer(further into his film making), mr. marins was way ahead of his time and the world has yet to experience the sppokiest villain ever to grace black and white film. not to mention the pyschedelic color which is truly ghastly to say the very least. in the first story, we find an evil and unholy undertaker terrorizing his hometown in search of a woman to carry his child. it's clearly evident that coffin joe will stop at nothing to get what we wants and the devil take the hindmost. no pun intended here folks. considered quite controversial for it's time, the film was successful in marins native country nevertheless. the second film is nearly twice as horrifying and will leave scratching your head or your skin long after you've ejected the disc from your player. coffin joe returns in the second film still seeking the perfect atheistic woman to carry his child. perhaps fate has smiled on zao du caixo because he meets a woman in this film who shares similiar philosophical beliefs and does wish to carry his child. or does she? to add an even greater surprise, our fiendish friend takes a trip into hell where we really see how the other half live on the other side. or does he? i'm not telling. in the third film, marins gives us a distorted but thoroughly artistic vision of people and their strange vices or sick obsessions. through a series of vignettes, we once again are mortified while marins unfolds takes us a trip. it were as though we took an acid trip as well while watching this one. or did we? surprisngly enough, this one is said to be his masterpiece but has never been played in theatres anywhere to this very day. sad, sad story. thank god for dvd and fantoma. don't bother with purchasing each individual title separetely as you will end up spending way too much money. go ahead and purchase the box set and i know you'll be glad you did. no one in the world will ever have the same efect on you as zao du caixo. also, this is a limited edition coffin box set so get it while you still can. unpleasant dreams, my friends. hahahahahahahahahahaha!!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> three screams.... fffffrom jose mojica marins </p>
+
+
+<h2> review.date </h2>
+  03-08-2010  
+<h2> review.text </h2>
+
+ <p> MIDNIGHT finds Coffin Joe, a black-clad phantom of a gravedigger, terrorizing the denizens of a small town before being cursed by a gypsy woman whom he disrespects. Joe continues his evil ways, undaunted, until he ends up murdering his best friend and raping the woman he lusts after in the pursuit of an heir -- the continuation of blood being the only true meaning in life that the godless Joe believes in. As the midnight hour falls quickly upon him, the spirits of the dead return to collect the soul of their twisted tormentor.Coffin Joe is synonymous with The Boogeyman in Brazil. He is the single most egomaniacal, womanizing, and anti-religious character the screen has ever known, and Marins' performance as the character is absolutely shocking. With his thick beard, clawed fingernails, top hat and cape, he is an unmistakable Horror icon and a force to be reckoned with. The horror in this tale centers around the theme of man completely devoid of the morals and self-restraint instilled by a civilized society, and the destructive nature of that man when he is free of social consequence.It poses the question of whether complete lawlessness, free will with no chance of punishment, and material gains are truly more fulfilling than a pious and subservient lifestyle devoted to an intangible god that offers the prospect of eternal happiness. Although Joe clearly favors a godless existence free of restraint, the climax of the film would suggest that such a life only leads to the ruination of one's self and the destruction of those around them.Having only limited prior experience in film, actor/director Jose Mojica Marins literally had to invent many of the special and optical FX himself, using such crude (yet effective) methods as gluing glitter to each individual frame of the negative in order to achieve many of the bizarre visuals. MIDNIGHT lacks all of the refinement of the European and Hollywood productions of the time, but this only adds to the unique charm and intimate feel of the film. It also offers excellent performances and some of the most incredible Gothic sets outside of the Hammer House of Horror. The fluid camera movements, film composites, and tracking all display the same skill and directorial control of that would have been expected in a much larger picture.There is nothing like MIDNIGHT or Coffin Joe that I have seen anywhere else in the genre. The fact that it was made in the virtually non-existent Brazilian film market only solidifies Marin's unique talent as a filmmaker. Unfortunately, none of his later efforts would recapture the raw power and originality of his first Horror venture, but this film deserves a place in Horror's hallowed halls as one of the strongest Gothic efforts outside of the mainstream circuit.-Carl ManesI Like Horror Movies </p>
+
+
+<h2> review.summary </h2>
+
+ <p> At Midnight I'll Take Your Soul </p>
+
+
+<h2> review.date </h2>
+  08-15-2007  
+<h2> review.text </h2>
+
+ <p> The year is 1963 and in Brazil a lil movie was being shown thatscared a country! At Midnight I'll Take Your Soul was unleashedand to applause and screams became a HIT!!! Jose Mojica Marinsgives a dark performance of a atheist gone MAD! He eats lambon good friday,takes his best friends girl and kills the best friendno one is safe around Ze(coffin joe)He laughs at funerals andslaps girls till they bleed! Coffin Joe indeed! Yes it is 1963and us HORROR FUNATICS(you know who you are)have had are shareof scares,from the great german films of the 20's the greatChaney giving us till this date(aug.16th 07)the scariest facecaptured on film(not a bold statement)we had our beloved monstersHYDE-WOLFMAN-MONSTER-MUMMY-GODZILLA-KONG and DRAC himself!Hammer had started in the old country and we had Mario Bavabut it is now 63 and for some reason we were SOFT in the horrordept. All castles and no blood! That would change for CoffinJoe(and in the same year good ole U.S.A. we had H.G.LewisBlood Feast)Coffin Joe I believe is the first to do fingersin the eye?(I may be wrong) And chops a few fingers offright before your eyes. This is a very fun film and mustbe seen! Coffin Joe brings old with new to form a cascadingwaterfall of genuine shrieks and thrills...See At midnightI'll take your soul...but don't see it alone!Remeber...At midnight I'll take your soul...........DON'T! Disturb Coffin Joe......For he already IS!!!!!!!!!NOTE: I in no way forgot the HORROR masterpiece PSYCHO!I just thought it was Coffin Joe's time and wanted to build him up!Thanks... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A taste of horror..................FROM BRAZIL! </p>
+
+
+<h2> review.date </h2>
+  08-25-2005  
+<h2> review.text </h2>
+
+ <p> At Midnight I Will Take Your Soul is probably one of the best cult horror films you've never seen. Decades ago, this 1963 classic shocked and disturbed Brazilian audiences (it was, in fact, Brazil's first horror movie) and gave birth to a whole Coffin Joe franchise, yet only in recent years has this landmark of horror filmmaking found its way to the shores of America - and it's about time because this is one amazing film. With its expressionistic and existentialistic overtones and a cruel, thoroughly unforgettable protagonist, At Midnight I'll Take Your Soul shines with a dark aura all its own. The stark nature of the black and white cinematography seems to sharpen Coffin Joe's hard edges, accentuate his evil glare, and set the mood perfectly for a thoroughly corrupt soul to face the consequences of his amoral and atheistic challenges to both God and Satan.The character at the center of this film is now well-known as Coffin Joe, but this is actually a mistranslation of his name, Ze do Caixo. The name fits, though, as Ze stalks around in his black top hat and undertaker's getup intimidating and scaring the beeswax out of everyone in town. Everyone fears him, for good reason - those foolish enough to challenge him wind up with missing fingers, ugly stripes all over their bodies from his ruthless whip, or - as happens increasingly in this film - dead. Ze spits in the face of religion, summing up his nihilist philosophy at the very beginning of the film - to put things in a nutshell, he wants to continue his existence by producing a son. His wife Lenita has yet to bear him a child, so he has no more use for her. Instead, he casts his glance toward Terezhina, not caring one iota for the fact that she is the fianc&eacute;e of his only friend in the world, Antonio. Ze is not one to let a silly thing like friendship get in the way of getting what he wants. There are a number of deaths in this film, but I won't ruin things for future viewers by detailing them here. I'll just say that Ze takes great delight in killing, thus giving us some surprisingly gory images (especially for a 1963 film) - Brazilian censors tried to suppress portions of the film, but we now have the luxury of seeing it as it was truly envisioned.The downright evil of the man may not come across as strongly in America or elsewhere as it did in Brazil, however. Eating meat on a holy day surely offended the Catholic audiences of Brazil much more than it will many of today's American viewers. Still, Ze's fury in the face of religion is made obvious to all, as he has a tendency to rail at the God he doesn't believe in and challenge anyone or anything to send him straight to hell. Such scenes of voracious nihilism, set in a graveyard and cast against a backdrop of stormy lightning seemingly serving to vent the anger of heaven itself, play beautifully here.It is amazing just what director Jose Mojica Marins was able to accomplish on such a low budget. The set was limited, especially that of the graveyard and forest, but it hardly shows. No one was willing to play the part of Ze, so Marins took it upon himself to bring his malevolent creation to life - and does a magnificent job. He actually glued glitter onto his negative to create one special effect, but it actually works quite well - and indeed, the special effects are a tremendous plus for this shockingly impressive film. I especially loved the change that appears in Ze's eyes just before he unleashes his fury on another innocent victim.American audiences met Coffin Joe for the first time in 1993; now, with the DVD release, it is time America's horror fans properly introduced themselves to Marin and gave a brave, ingenious director his due. While I haven't seen the DVD itself, I can say that the print of the film that I came across was incredibly sharp and clear in both sight and sound. The film is in Portuguese, of course, but the subtitles are easy to read and correspond very well with what is taking place on the screen. Coffin Joe is a strikingly captivating fiend who revels in his own evil; I daresay I've never encountered a character quite like him. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A truly must-see cult horror classic from Brazil </p>
+
+
+<h2> review.date </h2>
+  08-07-2005  
+<h2> review.text </h2>
+
+ <p> Although cheaply produced and cinematically clumsy, this campy, grotesque Brazilian horror film has several moments of genuine visceral revulsion.  The film's centerpiece outrage -- of the sadistic, amoral Ze Do Caixa (aka: Coffin Joe) eating red meat on Good Friday -- may hold less punch for modern, non-Catholic viewers than it did for Brazilian audiences in the early 'Sixties, but the graphic depiction of a violent, bloody rape and the goring out of one man's eyes will still make many viewers recoil.  Director Jose Mojica Marins played the role of Coffin Joe himself, leering madly and cursing God as he toppled over the flimsy set and knocked over the props.  A Mr. Hyde story with no Dr. Jeckyl to balance things out, the film was apparently a sensation in Brazil and spawned two sequels of an equally lurid nature.  Unless you're a student of low-budget camp, I'm not sure you really need to spend the time on any of these films, but if you do check them out, prepare to be shocked. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Creepy and genuinely disturbing </p>
+
+
+<h2> review.date </h2>
+  10-27-2006  
+<h2> review.text </h2>
+
+ <p> Brazilian producer/director/actor Jos&eacute; Mojica Marins (Coffin Joe) is one of the most enigmatic and fascinating figures lurking on the fringes of the underground film Universe.  Subversive, controversial and always entertaining; Marins, known in Brazil as Z&eacute; do Caixo began his filmic career in 1963 with the atmospheric and wonderful, `At Midnight I'll Take Your Soul'.For a first effort, and with virtually no budget, this is quite an impressive film. It was written, directed, and produced by Z&eacute; do Caixo (literally translated from Portuguese as `Joe of the Grave').  Marins also had to take over the lead actor role when his chosen actor dropped out due to the disturbing nature of the script and sadistic actions he was to undertake during the course of the movie.When one takes into account the circumstances surrounding the filming of this classic, the finished product is even more impressive.  It was shot with scraps of film and likely spliced together with scotch tape.  The atmosphere and aura this film casts upon the screen is quite magickal.  I will not go into plot details, as other reviews have covered this amicably.  The transfer to DVD is excellent on this film (as well as the other two).  Fantoma always seems to do a wonderful job with this facet of DVD production.Following `At Midnight I'll Take Your Soul' (1963), Coffin Joe unleashed `This Night I'll Possess Your Corpse' on the unsuspecting populous.  `This Night I'll Possess Your Corpse' is the proper sequel to `At Midnight...', and even more effective film.  Coffin Joe had a bigger budget, which meant more money for special effects, which meant even more live tarantulas and spiders to victimize his poor actresses with.`This Night...' is even more terrifying and outrageous than it's predecessor and is best know for it's vivid Technicolor depiction of hell.  Dante has nothing on Marins, and this 8+ minute rendering of hell is indelibly etched into my psyche for perpetuity.  This is the only part of Marin's wicked film that was shot in color and the contrast betwixt this vivid, lively, lysergically kissed scene and the rest of the carefully captured black and white motif is quite striking, rendering it all the more effective.The third film in this amazing `trilogy' is inimitable `Awakening of the Beast' (1969).  This delirious tale was banned by the Brazilian government until 1986.  Upon its official release, `Awakening of the Beast' was regarded by many as Marin's Masterpiece.  This film serves as a portrait of drugs and moral decay in modern-day Brazil.  In this incredible work, four subjects are chosen for an experiment.  The experiment involves giving the subject LSD and exposing them to Coffin Joe posters and films.  I will leave it up to the viewer to draw their own conclusions about this perplexing and alluring film.I realize I have not given very many details regarding the plots of these films.  Previous reviewers have done a fine job with this.  I am writing this review to let the interested amongst you know that I find these films to be absolutely essential.  I have made it something of a mission to uncover hidden gems in the filmic Universe.  I had read a few scattered bits here and there regarding a fascinating and sadistic entity named Coffin Joe.  The more I read, the more intrigued I became.The other day whilst bumbling around Amazon I stumbled across this Trilogy.  When I saw that this set was produced by Fantoma I knew I needed it.  When I realized that it came in a coffin with reproduction of original Coffin Joe comic books I began to convulse with anticipation.  I ordered it, expecting to be let down as I usual am when reading too many reviews and essays before viewing a film.  Needless to say I was not let down at all.These are amazing films.  The have an aura, ambience, and allure like none other.  They are utterly perfect for Halloween and are essential for any self-professed horror fan or cinephile.  If you are a fan of obscure horror films, exploitation, or atmospheric `horror-noir' please buy this set immediately.  Of all my recent Amazon purchases, this has been by far the most satisfactory... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Incredible Films from and incredible and Wicked Soul... </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> AT MIDNIGHT I'LL TAKE YOUR SOUL is the movie that Ed Wood wanted to make but lacked the talent to produce.  Filmed with a tiny budget in a tiny studio, this 1963 Brazilian flick is generally thought to be the first horror movie made in Brazil, and it was considered so blasphemous that it was banned in many parts of the country.The story is very simple and direct.  Z&eacute; do Caixo (writer, director, and star Jos&eacute; Mojica Marins) is a small town undertaker and a wildy aggressive atheist who frequently taunts believers by such sacrileges as eating meat on Holy Friday and mocking the dead.  When angered, his eyes go bloodshot, and he viciously attacks his victim.  Covinced that the only possible survival is through a bloodline, he kills his wife because she is infertile, kills his best friend because he wants his girlfriend, and then brutally rapes the woman so she will become pregnant with his child.  She warns him that she will kill herself and then "at midnight I'll take your soul."  Later, on the Day of the Day, Joe begins to suspect there might be something to the idea of an afterlife after all.The movie is cheap, cheap, cheap, but the character Z&eacute; do Caixo, affectionately known by fans as "Coffin Joe," is so extreme, and the plot is so Grand Guignol, that you're never quite sure if you shudder or laugh, and it can easily hold your attention through its fairly short run time.  The DVD includes a brief interview with Marins (sporting his trademark long nails) and other "Coffin Joe" movie trailers, for the character proved so popular he made a number of return visits to the screen.  Recommended for the bizarre fun of it.GFT, Amazon ReviewerIn Memory of Mrs. Marie Madden </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brazilian Grand Guignol in Tacky Black and White </p>
+
+
+<h2> review.date </h2>
+  09-22-2003  
+<h2> review.text </h2>
+
+ <p> Director Jose Mojica Marins took Brazil by storm with the 1963 release of &quot;At Midnight I'll Take Your Soul,&quot; the first entry in what would soon become known as the Coffin Joe franchise. It may be quite surprising that such a low budget black and white film made in Brazil forty years ago would merit a DVD release, but when you watch the movie, you will readily agree that there is something special about Marins's project. After the release of this movie, the Brazilian director churned out numerous sequels that ultimately led to his becoming a pop culture icon in his native land. Marins often turned up in public dressed in the trademark Coffin Joe attire: a black cape, a black top hat, and hook-like fingernails about three inches long (the fingernails are real, by the way, as an interview with Marins confirms). Genre fans in the United States picked up on the Coffin Joe craze and sought out hard to find copies of his films until an American video company released them here few years ago. Now we can watch the horror that is Coffin Joe on DVD. I love it! I cannot wait to see the other two sequels also out on DVD.Coffin Joe's works as an undertaker for a small Brazilian town. He is not a popular figure with the locals, who cannot stand his sadistic bullying or his mocking attitudes towards God and Satan. Joe laughs at the silly superstitions of the townspeople as he chows down on meat on Fridays and heckles people in a religious procession. When Joe isn't preparing bodies for burial, he spends time taunting his wife at home, hitting on his friend's girlfriend, and hanging out at the local pub. Coffin Joe's biggest concern in life is his ability to produce an heir to carry on his &quot;bloodline.&quot; Since his wife suffers from infertility, Joe cannot stand to be around her and must always be on the lookout for a gal who can have children. Perhaps it isn't all that surprising that his desire for offspring attains a murderous mania: after all, a man who doesn't believe in God or an afterlife would have only his physical presence to fall back upon. Reproduction would be the only way to achieve a sort of immortality.Joe's hotheaded antics eventually result in several grisly murders. In the course of his crime spree, he visits a fortuneteller who senses his evil and predicts a series of events that will culminate in Coffin Joe's demise. The undertaker scoffs at such supernatural nonsense and continues on his merry way. In various scenes, Joe murders and brutalizes his way through town. He disposes of his wife with a nasty looking spider, gouges out eyes, cuts off a man's fingers, drowns someone, and flogs a local at the pub. You just know that this guy is eventually going to get what's coming to him, especially after seeing his blasphemous jaunts through the local cemetery where he roars in derision at the dead and questions the very existence of a supreme being. Coffin Joe does finally learn that fooling with the primal forces of creation brings about events of a decidedly unpleasant nature.Marins brilliantly realizes his creation in this film. His performance as Coffin Joe only delves into the melodramatic on a few occasions, for most of the time he exudes an aura of palpable danger. The scenes where the undertaker questions the supreme deity reek of dark atmosphere, made even more intense by the black and white picture. To top the whole thing off, the movie employs some of the eeriest background music I have heard in awhile. The music and pitch black atmosphere help to conceal the low budget production values used in the film. You would swear Coffin Joe is wondering around in a big forest for most of the movie, when in actuality Marins used a very small indoor set for nearly all of his scenes. The best effect in the film occurs during a sequence where Coffin Joe encounters the ghost of one of his victims. In order to create a creepy aura surrounding this walking spirit, Marins glued glitter (yes, glitter!) directly onto the negative. It is simply incredible how well this works on the screen; I have never seen anything like it in any movie I have ever watched. Also, listen for the use of echo boxes during Coffin Joe's blasphemous diatribes, which give the scenes an added dimension of unearthliness. Little tricks like these make &quot;At Midnight I'll Take Your Soul&quot; an immensely entertaining experience.The DVD contains several surprising extras. You get three trailers for three Coffin Joe films and a lengthy interview with Marins about the creation of this project. The most interesting part of this discussion involves Marins's problems with Brazilian film censors at the time of the movie's release. Marins lied to the officials, telling them that he lost the negative of the film because he feared that the censors would confiscate the movie and permanently ruin it. At one time, at least ten different versions of the movie played throughout a Brazilian city. Fortunately, the DVD version is an uncut version of Marins's magical film. The movie's dialogue is in Portuguese, of course, but the subtitles are easy to see and, unlike many Asian films, actually match up with who is speaking. If you are in the mood for something well beyond the ordinary, look no further than &quot;At Midnight I'll Take Your Soul.&quot; </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing Low Budget Film! </p>
+
+
+<h2> review.date </h2>
+  04-17-2014  
+<h2> review.text </h2>
+
+ <p> From the review of ESTA NOITE ENCARNAREI NO TEU CADAVER (Tonight I will Make your Corpse turn Red) in THE ENCYCLOPAEDIA OF HORROR MOVIES, edited by Phil Hardy, Tom Milne and Paul Willeman, (Overland, 1984) p 179: &iexcl;The story simply provides an excuse to indulge in an endless orgy of gore and torture, which produces the ocasional surreal scene but more often leaves an impression of a very sick man&iexcl;s home movie.&iexcl;Well, I can&iexcl;t speak for Mojica Marins&iexcl; follow-up movie which I haven&iexcl;t seen, but you can apply the same for AT MIDNIGHT I&iexcl;ll TAKE YOUR SOUL. Frankly, I was disappointed, mostly in the fact that the Ze de Caxaio (Joe the Grave) character was NOT scary or even creepy. He was more like a mono-brow weirdo town-bully dressed in black! Not frightening at all! The movie drags in parts, but if the Joe character had been truly scary, I think this would have been forgiven or at least, overlooked.  More signficantly, it has been reported in the above mentioned book as well as IMBD, that Mojica Marins was abusive on the set with his actors and small crew.I can see now where Mojica Marins got part of his inspirationCin some of the darker characters played by the late John Carradine. In fact, watching MIDNIGHT, I remembered an old local (San Diego) TV program which ran horror, fantasy and sci-fi movies, "Seymour Presents", where the host (played by actor Larry Vincent of 1971's THE INCREDIBLE TWO-HEADED TRANSPLANT fame) was likewise blackclad, cape and hat and all. Only this guy wasn&iexcl;t evil, but funny.Take a look at the beginning of the 1961 Italian-produced movie, BARABBAS starring Anthony Quinn, or the &iexcl;Main title&iexcl; theme of its soundtrack by Mario Nascimbene. You will notice that Mojica Marins &iexcl;lifted&iexcl; a sound effect on this track used during his opening credit sequence and later in the town bar/pub scene when he bullswhips the lone customer who stands up to him. The sound effect was either duplicated for MIDNIGHT or at least, amplified, but it is the very same one. Check the DVD or the CD of BARABBAS, the latter of which is available by itself or in a combo disc with the earlier ALEXANDER THE GREAT.More interesting as a film curio than anything else.  Two and a half stars as Amazon doesn't give you that option. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> At Midnight I'll Waste Your Time  **1/2 </p>
+
+
+<h2> review.date </h2>
+  01-25-2009  
+<h2> review.text </h2>
+
+ <p> These are great!  They are dark, exaggerated and just brilliant....and to top it of they even come in a coffin with a Coffin Joe comic. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I adore Coffin Joe! </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> I don't typically blind buy movies but I saw this on a shelf and after asking about it on IMDB I got some good feedback so I got it. It was okay. Really, it wasn't creepy enough and I lost interest. However, it had its moments and Coffin Joe was a great character. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> didn't love it but glad I got it </p>
+
+
+<h2> review.date </h2>
+  07-22-2002  
+<h2> review.text </h2>
+
+ <p> Dracula, Frankenstein, Wolfman, and Mummy aside, Coffin Joe was one of the first real modern horror archetypes to grace our movie screens.  Actually he didn't grace any screen in America, because he was a Brazillian creation, and that was where he remained for the most part, until Something Weird Video introduced him stateside in the eighties.  The quality of video was attrocious, but there was no denying the feeling of that suspenseful hook as it went into you.At Midnight I'll Take Your Soul is not a movie that moves at necksnapping pace.  Like all good movies about the darker sides of small towns, it conveys the effect of looking into a terrarium or some kind of cage.  The star attraction of this tiny town cage, is Coffin Joe, the gravedigger, who holds all the citizenry in a spell of bullyish terror.  Without giving too much away, Joe's dilema is that he has no son and his wife is barren.  I'd say this is one man's quest to realize his dream, but you'll laugh at the irony of that statement when you see the movie.This movie could not have been done in anything other than black and white.  It's scratchy, unfocused tone only adds to the dreamlike, hallucinatory quality that the story of this movie is supposed to be made of.  This film also is a triumph of imagination over severe financial constraints.  Shot over a period of scant days, Marins even had the bad luck of having some of the film stock stolen before he even set to shooting.Finally there is the matter of Coffin Joe himself.  Like Freddy, Jason, or Michael Meyers, Joe has threaded himself through many sequels and vignettes.  He is an utterly fascinating example of the complexities of the human psyche.  Malicious, sadistic, there is even a touch of the heroic as he defies god and satan alike in the graveyard.  There is more than one level to his character, and one viewing of this movie alone cannot pigeonhole him.  Marins's (who also directed) portrayal of Coffin Joe is nothing short of electric.  His performace shows that real terror sometimes is not above and beyond in the supernatural, but in what we are capable of doing to each other and to ourselves. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This movie is a must have for any serious horror fan </p>
+
+
+<h2> review.date </h2>
+  04-25-2013  
+<h2> review.text </h2>
+
+ <p> This is one of the best, if not the best classic South American horror film. It is actually one part in a trilogy. I like all three parts, which I still think can be purchased in The Coffin Joe-Coffin Trilogy box set. If not then I know you can purchase the other Coffin Joe films seperately. Great classic foreign shock horror. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Classic Brazillian horror </p>
+
+
+<h2> review.date </h2>
+  11-16-2010  
+<h2> review.text </h2>
+
+ <p> Often, despite all the cgi wizardry, Hollywood movies just don't create a place I WANT to believe in. Then, there are films like AT MIDNIGHT... which create such a sense of place that, despite its obvious shortcomings, I WANT to believe in and walk AROUND in! Where budgetary limitations spawn inventiveness and conviction. Despite the set-bound aspects of most of this film, I am almost always sold on it taking place in an actual village. Whether this is accidental or not is arguable, sure, but, with a few exceptions, I'm sold on the forests Ze' prowls around, the buildings he occupies, and the graveyard (at night) he blasphemes. Often, this is due to a combination of Ze' being such an arresting figure that he completes the illusion, or distracts from it, and the often extraordinary (but not gimmicky) lighting.Jose Mojica Marins' more often than not has such a just-short-of-too over the top presence that he holds together what otherwise might be a B-movie with a few interesting set pieces. The character of Ze' is such an unpredictable, smug knot of contradictions (intentional? the result of inconsistent writing/acting? I found I didn't care). I found myself wishing he was back onscreen during the few fleeting scenes where he's absent. This is a movie that made me laugh out loud, cringe and gape with disbelief. (I was reminded of my very similar reaction to the original INVISIBLE MAN, with its anarchic mayhem which had me feeling almost ashamed to be rooting for "the monster" because he was hilariously and murderously witty and insulting as he rampaged through the village) Those everything-but-the-kitchen-sink opening titles are delirious and, at times, nightmarish in a NIGHT OF THE LIVING DEAD manner of spinning-out-of-control assault on the senses.And the out-of-left-field "why not" embellishments! Like the spinning eyes effect between two scenes, (thankfully- only used once) the reverb and echo on voices, the WTF? negative-image parade of the dead, the lovely shot of the graveyard at night, the puppet owl, the incongruent sound effects... I could go on and on. Sure, it loses its momentum in a few places. And, sure, Marins' scenery-chewing antics in the final reel would've benefited from some trimming (I hate when I'm enjoying a movie and then I find myself wondering when it would just END properly).There's such an overwhelming blanket of dread and delirium over the entire film (except, say, the rather hilarious Ed Wood-ish brief departure where Ze' admonishes a father for mistreating his young son, or, the unfortunate scene where one of the actors appears to be trying not to laugh) that, yes, does invite comparisons to Bava (though, thank goodness Marins didn't have access to a zoom lens!). Sure this isn't for everybody. Sure, it requires a willing suspension of disbelief. But, Ze' makes me want to believe his crackpot indulgences. And I found myself truly saddened to see him get his comeuppance and dissolve into terror and hysteria. That's saying a lot, considering what he DOES to people (especially women) to EARN that fate.I loved it. Escalating delirium is a tough sell in horror movies, and this one sells it in spades. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> an entertaining fever dream in black, white and shades of grey </p>
+
+
+<h2> review.date </h2>
+  11-28-2005  
+<h2> review.text </h2>
+
+ <p> Brazilian filmmaker Jose Mojica Marins spent his career writing, directing and starring in violent psychosexual horror tales filled with graphic images of carnality, brutality, and torture. Not surprisingly, his work was banned in his native country. But now, thanks to DVD, his films are accessible to anyone who has the stomach for this sort of ghoulish fare.AT MIDNIGHT I'LL TAKE YOUR SOUL marked the first time Marins appeared as his onscreen alter ego "Coffin Joe," a villainous Brazilian gravedigger who manages to break all Ten Commandments within as many minutes. This 1963 feature film may be Marins' best, mainly because it's more coherent than most of his other efforts.The Coffin Joe movies are often self-indulgent, tedious affairs, but Marins' complete lack of artistic restraint results in bone chilling moments of undeniable power. It's a body of work that is at once both revolting and compelling. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Coffin Joe at his ghoulish best </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

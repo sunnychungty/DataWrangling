@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B003YH9QHO <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> Glad this book was free ... it was very slow.  I had a hard time just making it to the halfway mark before I put it down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very slow </p>
+
+
+<h2> review.date </h2>
+  06-11-2014  
+<h2> review.text </h2>
+
+ <p> This reads like the most simple minded personal blog ever. The guy can't understand that other people might not feel the same way about things as he does, so he thinks they are misguided or missing out on something in some way. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boring </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> Book was not what I expected,  nothing that inspired me to live a more simple life than the one I am living presently. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Quest of the Simple Life </p>
+
+
+<h2> review.date </h2>
+  10-18-2013  
+<h2> review.text </h2>
+
+ <p> The book is written in the 19th century. Mr. Dawson provides a compelling reason to live the simpler life while, at the same time, advocating change in the cities. He notes while such a life is not for everyone, he advocates for such a life and reminds readers that people everywhere are intelligent. He notes  the misconceptions city people have of those living in the country side, something that has not changed for these hundred and fifty or so years.Mr. Dawson highlights many of the struggles cities everywhere face. This includes crime, crowding, transportation. He has good ideas, some of which were tried. Other ideas, e.g. electric bus, tramways, and other public transportation work in cities and should be expanded. Most people who make cities their home do well without owning an automobile, especially if they carefully consider the cost.Were Mr. Dawson to live today, he would unlikely favor the socialist ideas that many were advocating for in his day. Such a system has proven expensive and flawed with an ossified bureaucracy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  07-05-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed the first half of the book.  Think most people can relate to being miserable in your job and in the concrete jungle.  I was right there with him through the struggle to find the right place.  His descriptions made me feel like I was there.  However, I would have liked to know what his wife and sons really felt about it all.  I would also have liked details on what he did and how he learned to do it.  I rather think we all want to be where we have not been.  And lastly, I felt he was pontificating on why he did right by moving there.  Must admit toward the end I skipped through a lot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yes, But </p>
+
+
+<h2> review.date </h2>
+  06-14-2013  
+<h2> review.text </h2>
+
+ <p> I found the story to be of help to me during my transition from a busy urban career making money to a slower and simpler &#8220;retirement.&#8221; I haven&#8217;t gone as far as he did (e.g., living off the land) but I was inspired by his quest for fulfillment over materialism.  The author writes in a very entertaining way. Except for a few dated remarks about women and such, I think his struggle and the overall message are timeless. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Message is relevant to life and work today </p>
+
+
+<h2> review.date </h2>
+  11-10-2011  
+<h2> review.text </h2>
+
+ <p> In the book "The Quest of the Simple Life" by William Dawson the author both attempts and succeeds in portraying a ideal, which at the time was polar opposite to what his contemporaries were thinking. In short Mr. Dawson was an early 20th century English clerk who worked in a London accounting office. Mr. Dawson's dislike of the position is explained at great Victorian length chapters throughout the first half of the book. The most pressing issue seemed to be that the accounting position while providing for his family offered no fulfillment, and could be accomplished by a "schoolboy with a days training".Events come to a head when Mr. Dawson is let go from his position after 20 years of service. After much searching Mr. Dawson is able to find a perfect country cottage. The process of moving and remodeling the cottage soon teaches much needed lessons in practical live to the Dawson family. They soon find themselves both happier and busier than they ever where in the city.In sum I found the books description of Mr. Dawson's lonely life in London to have striking similarities with current suburban life. And while complaints of lack of social interaction are one of the themes of the book, Mr. Dawson had much more interaction than modern workers. This book is a warning of things to come, showing the problems and providing solutions to society. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "The Quest of the Simple Life" by William Dawson </p>
+
+
+<h2> review.date </h2>
+  12-25-2012  
+<h2> review.text </h2>
+
+ <p> This is not a how-to book, just a book about why a guy wanted to live in the country and the things he enjoyed there. It was an easy read for an older book. It just made me dream about living out in the country and enjoying the same things that he did. Definitely worth the read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Makes me dream </p>
+
+
+<h2> review.date </h2>
+  10-22-2012  
+<h2> review.text </h2>
+
+ <p> This was quite interesting. I enjoyed it a lot it was great reading. Had so much good information. I learned a lot. Was really happy with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good </p>
+
+
+<h2> review.date </h2>
+  06-18-2011  
+<h2> review.text </h2>
+
+ <p> amazing to read the words that many are this very day thinking...and his honest evaluations of the pros and cons of city vs. country, the good, bad, and ugly of both! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> provocative </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

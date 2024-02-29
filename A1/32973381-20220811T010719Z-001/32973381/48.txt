@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B001UQ6E4E <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-18-2011  
+<h2> review.text </h2>
+
+ <p> does a pretty good job for the price, not a great focus system but good and to get somewhere near the 150X claimed the opbect needs to be up inside the clear ring portion which is trick if it is a flat object.  focus is a bit tricky and depth of field is a bit limiting </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful for the price </p>
+
+
+<h2> review.date </h2>
+  12-26-2010  
+<h2> review.text </h2>
+
+ <p> I was looking for a simple and cheap microscope for my 6 year old daughter who expressed an interest.  From the reviews I couldn't quite tell whether this was going to fit the bill.  Overall I'm very happy with the product as is my daughter.  The microscope is quite small and compact which is nice.  It is powered through the USB so there is no need for batteries or a plug.  This does keep you tethered to the computer but for my purposes that was fine.  On a Mac you can direct the video into PhotoBooth to view but the included software wont work on that platform thus no pictures or videos.  On a Windows PC the software installs and allows you to take snapshots and videos.  I've used the microscope on both platforms and both are plug & play.The included stand is also compact and well designed.  It's sturdy and made of metal.  A simple "nut" loosens to allow you to vary the positioning of the microscope with respect to the stand.  In most cases no stand is necessary.  The lens is protected by a tube of clear plastic at the bottom of the microscope.  The lens is recessed by about a inch or more so it would be hard to damage it or get fingerprints on the surface; a potential issue with young kids.  Without the stand you can simply place the microscope directly on top of anything you are viewing to maintain a fixed distance between the subject and microscope and then fine tune the focus.  The focusing is all accomplished with a single dial that takes your from a small magnification to a better magnification.  LEDs located inside the protective tube provide ample illumination.  We looked at a few things like salt, my wedding ring, dollar bills, quarters, hair, fabrics, fingertips, and cuticles and enjoyed seeing things that just weren't possible with our eyes.  If she continues to show interest I may step up the game next year. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice entry-level microscope for young kids </p>
+
+
+<h2> review.date </h2>
+  12-03-2010  
+<h2> review.text </h2>
+
+ <p> Celestron 44302 Handheld Digital MicroscopeThe box states "Computer Requirements - UVC Plug & Play with Windows XP and Vista and MAC 10.4.9 and later..."  However, the software wouldn't install on my MAC and when I contacted Celestron Technical Support, their response in its entirety was "Your best bet is to install VMWare on your Mac.  Use it with WIn 7 32-bit as the OS and VM Tools."  Talk about (a) misleading information about the product and (b) a total lack of care about the customer as demonstrated by this response... Clearly, Celestron ranks at the bottom of honesty and customer support.  I don't even have a PC running XP or Vista anymore so will have to return it to Amazon.  What a hassle. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Won't Work With MAC </p>
+
+
+<h2> review.date </h2>
+  12-26-2009  
+<h2> review.text </h2>
+
+ <p> This device is probably smaller and lighter than you think.  The entire camera (not including stand) is only about 4" long and as big around as a "D" battery.High magnification focusing is touchy with any microscope and the stiff focus wheel on this scope is tricky to turn without moving the whole unit.  At the "150x" setting you can basically touch the front to a flat surface and be in focus, though, which is nice.  The built-in light and auto-irising works well in every situation I've tried.  It remains on constantly whenever the device is connected via USB.  The 1280x1024 resolution seems legit, and you will most likely be limited by your focusing ability rather than the camera.I discarded the lockwasher from the metal stand because otherwise there was not enough thread engagement on the thumbscrew to tighten the stand.The included software does not work on Windows 7.  It installs with no hiccup but when run only pops up a failure dialog and exits.  There is Win 7 capable software available from [...].  The only microscope-specific features of the software seem to be support for the orange capture button on the camera and a measurement tool.On Mac OSX we played with it using iChat.Someone asked if you could solder with it:  The framerate is high enough, but the focal distance is pretty short, so there is not much clearance between the camera and the work.  You could probably get 1" of total clearance at the "low" range if you removed the clear shroud at the base.  This would slightly reduce the effectiveness of the built-in LED lights.  You'd probably need fume extraction to avoid fogging the lens. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A fun toy for all ages with potential as a serious tool </p>
+
+
+<h2> review.date </h2>
+  12-18-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this little microscope to review quality aspects of very small manufactured products at work. I have installed it on a Windows XP desktop PC and on a Windows 7 Professional Laptop. The microscope is "Plug & Play" and it installed instantly on both operating systems with no problems. The install was performed by the operating systems similar to the way thumb drives are installed. I installed the software on both computers after connecting the camera, having the operating systems install the "Plug & Play" software for the camera, and then dis-connecting the camera by pulling the USB connector out of the USB port. That is the only way I found to disconnect it. It does not disconnect like a thumb drive. The XP software came on a disk with the camera. The Windows 7 software had to be downloaded from the manufacturer's web site. Both software packages installed very fast and there were no problems with either install. After the software was installed, I reconnected the microscope, opened the software, and the microscope went right to work. The software works very well on both computers. The only big issue I have is that the light from the 6 built in USB LED lights is not adjustable and you may have to move the camera around somewhat to get a good view with good contrast - especially with metallic or high gloss targets. The pictures are jpeg and the file sizes are large enough to be edited with a good picture editing software. I was surprised at just how good I could make them with enhancements. There are a lot of options on the size and shapes of the pictures you can take with the camera within the software. The camera also can record pretty good wmv format video with sound in a 640 X 480 format.Learning to use the camera takes a little practice and a lot of patients. The stand it mounts on is small but well made. It allows the camera to be moved in many different directions but the range of motion is pretty small.The magnification range is found by a combination of manual and somewhat tedious height adjustment with the stand and adjusting the focus wheel to move within the 10X to 40X focal range. The 150X power is fixed. The image can only be sharply focused manually and must be done carefully because the way the stand is designed, the camera can move out of focal range without warning requiring additional manual manipulation to get it back in range of the focus control.I would recommend the camera and I am planning on purchasing another one. It takes a while to develope a good technique for using the camera but it does a pretty good job once you learn how to use it with the software. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good microscope but requires a little patients!! </p>
+
+
+<h2> review.date </h2>
+  12-21-2010  
+<h2> review.text </h2>
+
+ <p> Celestron 44302 Handheld Digital Microscope.  I paid around $40 plus shipping and handling.  It is a really nice tool to use on your computer.  It will allow you to see very small items, mount specimens on a slide for picture taking of your work.  I look a small hook points, insects, finger injuries and even inspected what was irratating my eyeball.  Nice illumination from Six LEDs and they are almost too brite.  This microscope is a bargain and I use and like it alot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Celestron 44302 Handheld Digital Microscope </p>
+
+
+<h2> review.date </h2>
+  01-23-2014  
+<h2> review.text </h2>
+
+ <p> Have used this primarily for bugs and creatures from the ocean. Can be a little tough to focus. Overall it's well worth the cost and will bring many hours of questions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great with Kids </p>
+
+
+<h2> review.date </h2>
+  08-08-2010  
+<h2> review.text </h2>
+
+ <p> I purchased a Celestron LCD microscope. It is fine for flat objects but fell short when I wanted to examine articles of some size such as 1/8" to 1/4". I bought this one and I am VERY VERY impressed with the value for the money. The software installation was a one minute error free job. It is extremely easy to use and I've found many uses for it in the few days I've owned it. I honestly would have been happy to spend DOUBLE for this item and feel good about it! It is one of the best purchases I've ever made and the BEST purchase when it comes to value for the dollar. The stand is small but well built and did not need any adjustment after many uses. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just BUY it! Worth DOUBLE the price in my opinion </p>
+
+
+<h2> review.date </h2>
+  01-04-2011  
+<h2> review.text </h2>
+
+ <p> I teach a high school course that includes materials science- students must look at grain structure, crystal shapes etc. We had a digital blue microscope that broke after 4 years service- this product looked better and it is- appeears more durable, has a much less "little kids" software interface, and the adjustment mechanism is extremely clever- just continually rotate the barrel to first select a zoom level, then focus that level, then select the next zoom level, etc.The students were genuinely interacting with it, asked how much it cost, whereas they never liked the origional digital microscope. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  06-24-2010  
+<h2> review.text </h2>
+
+ <p> Celestron 44302 Handheld Digital MicroscopeIf you want a toy to show school children "Water Fleas" or the compound eye of a housefly then this product should be fine...otherwise the actual focusing controls are to rigid to be practical for macro photography of small objects...moreover the magnifying scale is to weak for anything on the "microscopic level, but might be semi-useful for bugs and such...On the plus side I would rate the material quality of the product and construction quality as excellent </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Celestron Microscope is a Joke </p>
+
+
+<h2> review.date </h2>
+  12-29-2010  
+<h2> review.text </h2>
+
+ <p> As other reviewers mentioned, I had no trouble getting this to work under Linux.  I'm using Ubuntu 10.04.  All I did was install and run guvcview and it worked right away.Another reviewer complained about the images being over-exposed and I've seen several complaints about the lights being too bright, but I think these are really both autoexposure problems, which can easily be overcome by software and a little user education.  guvcview lets you override the exposure setting, as well as enable/disable backlight compensation.  I initially had washed out images of a white object on a black background, but overriding the exposure allowed me to see the all of the details.  Avoid the temptation to play with brightness & contrast, though, as exposure is usually what you want to adjust.  Brightness & contrast can be useful for exaggerating subtle differences in shading, but shouldn't be used to compensate for underexposure or overexposure.I don't know if the included windows software gives you these controls.  If not, I'd look for a 3rd party software application to use with the device.  It might provide you with a much more satisfying usage experience.Yes, the single control for focus & zoom is not ideal, nor is it easy to actuate without moving the scope.  Both are understandable and acceptable compromises, given the price.  I'd much rather they did this, than cut costs on the sensor, lights, or other aspects.  I'm glad there's a cheap and simple device of this quality and I'm happy I bought it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little device, for the money </p>
+
+
+<h2> review.date </h2>
+  12-05-2010  
+<h2> review.text </h2>
+
+ <p> I am quite disappointed. The device looks good and does not appear to be a toy. I wish I could really use it with my Mac (I do not have a Windows computer). It is suppose to be Mac compatible, but when I try to follow the instructions the screen fills with garbage and I cannot download the device. I cannot get this program to work. Perhaps if I were a computer maven I might be able to use it. If you have a Mac and are just the average computer user, my experience is do not purchase it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doesn't work on my Mac OS10.6.5 </p>
+
+
+<h2> review.date </h2>
+  10-13-2010  
+<h2> review.text </h2>
+
+ <p> If you want to use Celestron 44302 Handheld Digital Microscope with apple computer, then you need to use Apple's built in Photobooth software or Quick time software. Celestron does not provide any software for Apple computer. When you will use it with apple computer you need to capture the picture using the capture button on your computer.  its a good product at a very reasonable price. but I wish they made a dedicated software for apple. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> no drivers or software for mac </p>
+
+
+<h2> review.date </h2>
+  01-06-2010  
+<h2> review.text </h2>
+
+ <p> The good:* Good build quality* Variable magnification, not just the three levels listed.* Easy to use software is included.* Built in light, with auto-iris* Included standThe Not So Good:* Short focal length - 150X requires object to touch the shroud.* Light never shuts off.* Focus wheel is very stiff.* Stand clamps to scope right at the focus wheel - makes it hard to adjust.On a Windows 7 64-bit machine, I plugged the scope in and was recognized immediately by a built-in driver.  I installed the microscope software without an issue and it works fine.Celeston does seem to offer support as well including driver and software:[...]This is the best $50 toy computer microscope you will ever find.  The plus side, is that it is a good tool as well.  The included stand is awkward, so replacing it with a better stand would make this a very good tool.  The scope has a button on top that takes a picture with the included software, but that is almost useless since it will mess up your position or focus, so just click the snapshot button on the software screen instead. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A handy handheld microscope! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

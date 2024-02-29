@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0050YURWM <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-07-2012  
+<h2> review.text </h2>
+
+ <p> This is the first of the Teddy Books and I confess I read the second one first.  I realized this pretty quickly and thought about switching to start at the beginning but I was hooked on the second book and had to finish it.  It was not a problem because other than scattered references and reoccurring characters, the books are stand-alone. The first book is a good place to start though (you get a fuller picture of Teddy) and keep on going until they are all read. I loved this book, I love the characters and the beach community; in fact the beach and the weather are integral to the storyline.  The author's descriptive visuals make the story come alive.  Teddy and her world seem so real and comfortable and her murders so interesting to solve right along with her as they unfold in a natural unhurried and unforced way.  I enjoyed reading this book and I'm sure you will too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm a big fan </p>
+
+
+<h2> review.date </h2>
+  06-01-2013  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this book and it's characters.  Most readers would probably hate the step-by-step descriptions of mundane things like cleaning and cooking, but I really enjoyed them.  The descriptions of the Oregon Coast were very good and the mystery was a good one.  I do see this is the first in a series, but I would not pay full Kindle prices for the books, due to the spelling, grammar, and punctuation issues that were rampant.  However, if Teddy was a real character I would eat a grilled cheese with her any day. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Grilled cheese and wine, please. </p>
+
+
+<h2> review.date </h2>
+  10-26-2013  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this book.  Hated to see it end.  I laughed  and laughed at the humor and also learned how to cook a new &#34;tasty&#34; dish.Highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Huzzi Review </p>
+
+
+<h2> review.date </h2>
+  01-05-2013  
+<h2> review.text </h2>
+
+ <p> This book had all the right elements - intrigue, mystery, a little romance, etc.  The great descriptions of the Northwest were just great - from the salal bushes, rhododendrons, etc. to the surf sounds.  I would have given this book five stars if it weren't for the lack of good editing.  The lack of punctuation was unbelievable - such long, drawn out sentences.  However, it was a great read and the ending full of suspense.  I'll buy more by the author (who will hopefully have improved her grammar skills a bit in subsequent books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fascinating mystery </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed this mystery very much.  It takes place on the Oregon coast.  Since I am familiar with the area, I felt like I was making a visit there.  Great fun!  I liked the story & the characters.  I plan to read more in this series.Well, I should say listen to more, since I mainly use text to speech on my kindle fire 7&#34; HDX.  I absolutely love text to speech.  I can &#34;read&#34; so many more books this way because I can listen while I do other chores.  :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Oregon coast mystery! </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> Teddy, 60-something retiree, has septic tank problems under her purple daisies, which leads to the discovery of a dead body, which leads to a bunch of lookie loos and suspicions of who killed him. I hadn't read the description of the book, so didn't realize this took place on the Oregon coast, but, from the excellent description, I'd pretty well pegged it by the time that was mentioned. In all, this included a lot of very nice description, an interesting, unusual main character, and her everyday life, (that interested me as well), and a plot that was nicely confusing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting book, great character </p>
+
+
+<h2> review.date </h2>
+  11-05-2012  
+<h2> review.text </h2>
+
+ <p> As a resident of Oregon, I could tell within the first couple of chapters that the author had either visited our beautiful coast a lot or was a resident.  The descriptions through the entire book were so exact of the sights and sounds, flora and fauna, and of course the quirky characters.Teddy and her friends are very well developed and enjoyable.  The story line keeps you guessing and the formatting is good.  I thoroughly enjoyed this book and was glad to see that it lends itself to future adventures.Keep up the good work and let us join Teddy at the diner for a cup of coffee or putter in her garden again soon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Her words paint such clear pictures. </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> Good mystery with twists and excitement. Was set on the Oregon Coast which made it feel like home!  The characters were good and the small-town feeling was very believable. A good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty fair mystery </p>
+
+
+<h2> review.date </h2>
+  05-25-2013  
+<h2> review.text </h2>
+
+ <p> When I received this form, I did not remember the book. I 'looked inside' to remind me. I do remember thinking the author had done a good job at editing because the structure was tight and grammatical, yet varied. The book lost me because I could not connect to the characters, and the plot was not interesting to me. I did not finish the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well edited but I could not relate to the flat characters </p>
+
+
+<h2> review.date </h2>
+  01-19-2014  
+<h2> review.text </h2>
+
+ <p> Should be a four star review but alas, just a three this time.  All the tedious food cooking and recipe excesses interspersed throughout the entire novel is somewhat distracting unless you are a foodie. Foodies would give it five stars. The cooking references many will say is part of the charm but in my case, they detracted from what is a really good mystery tale. How about 3.5? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Satisfying Mystery </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

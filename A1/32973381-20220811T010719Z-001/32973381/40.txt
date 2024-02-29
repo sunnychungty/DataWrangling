@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0019CGBHO <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-23-2013  
+<h2> review.text </h2>
+
+ <p> Mostly, I'm satisfied with this product.  Good quality, does what it is advertised to do, economical.  There was, however, one thing about the design that causes me to rate it 4 stars instead of 5. The way that you attach the strap to the cord is that there is a fabric loop at one end that you have to slip the cord through. This is only about 7/8" across, so if the cord has a large connector at both ends, you couldn't get it on, and once on, the strap tends to slip around.  I prefer the style where the strap has a hole at one end; you wrap the strap around the cord, slide the *strap* through the loop, and tighten it around the cord--you put it where you want it and it stays put.  So, next time I'll look for this other style. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good quality, affordable, but wish they had a different way to attach to cords </p>
+
+
+<h2> review.date </h2>
+  09-20-2012  
+<h2> review.text </h2>
+
+ <p> These ties have no way to attach itself to cord that you wish to tie.Oops turns out I need a few more words to post so here they are. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> just lame </p>
+
+
+<h2> review.date </h2>
+  04-02-2013  
+<h2> review.text </h2>
+
+ <p> Wrap it around your cords to bind them or to secure them to something else.I'm using mine to hide all my cables behind one of the supports on my TV stand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does exactly what it says it does. </p>
+
+
+<h2> review.date </h2>
+  06-14-2013  
+<h2> review.text </h2>
+
+ <p> I was getting sick of sliding zip ties around and cutting them, then putting them back on when taking flashlight remote wires off the stock of my Mini-14, so I bought these velcro ties and they work great.  The pull tag on these ties is great for getting a snug fit around the stock of the rifle, and keeping the flashlight remote trigger from sliding around the smooth wood stock.  I highly recommend these instead of zip ties for securing wires to the stock of your rifle. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for shooters </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> I purchased this cable tie to bundle large speaker wires for my entertainment system. They work perfectly. Take note these ties and 10&#34; in length and are made for larger wire bundles. I believe these ties will be used for many years without fail. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product. </p>
+
+
+<h2> review.date </h2>
+  08-04-2012  
+<h2> review.text </h2>
+
+ <p> Perfect for my application, the longer Velcro ties were exactly what I was looking for to conceal wires behind my desk at school.The 7 inch ties were not big enough to fit around the legs of the desk, and these being black blend right in with the color of the desk legs.If you need a cheap, easy, and removable form to manage wires and cables, this is probably your best bet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly what I needed </p>
+
+
+<h2> review.date </h2>
+  07-06-2013  
+<h2> review.text </h2>
+
+ <p> I have used these before at work and knew that they were good quality. I did some checking on reviews of other cable ties, but kept going back to these. Bought them and used them for keeping my computer cables in check. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good quality cable ties </p>
+
+
+<h2> review.date </h2>
+  02-10-2012  
+<h2> review.text </h2>
+
+ <p> I liked these so much I purchased a second set.  They're ten inches, have wonderful velcro closures, and I have used them on everything from computer cables to backpack straps (simply roll these up into the strap, then Velcro it closed around the rolled strap--ta da, no more extra long and hanging straps--much cheaper than Strap Dominators).Nice price, so many uses. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for cables, backpack straps, you name it! </p>
+
+
+<h2> review.date </h2>
+  04-05-2012  
+<h2> review.text </h2>
+
+ <p> This product really helps to keep my cables neat. We use these at work so I knew these would work great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great item </p>
+
+
+<h2> review.date </h2>
+  03-05-2014  
+<h2> review.text </h2>
+
+ <p> Many years ago I purchased a bag of such ties from a professional photo supplier. They were heavy and about an inch or so wide by about a foot long, with a slot at one end to allow slipping over the plug at the end of a power cord. I've lost all but two over the years, and hoped these would be a replacement. They are missing the handy slot and the cloth loop at the end will not pass an electric plug. Also, they are a little short at 10 inches. Too bad I can't buy those old ones... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product </p>
+
+
+<h2> review.date </h2>
+  08-05-2013  
+<h2> review.text </h2>
+
+ <p> Reuseable, secure, easy to use, nice to look at perfect for 110v electrical cords and longer lengths of rope. . I have these and a smaller size for wall warts, ear buds, short hanks of paracord, etc. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> better than zip ties </p>
+
+
+<h2> review.date </h2>
+  12-22-2013  
+<h2> review.text </h2>
+
+ <p> The tab on these Velcro cable tabs makes them quick and easy to adjust and remove. Can be used for most anything. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just the ticket! </p>
+
+
+<h2> review.date </h2>
+  08-11-2013  
+<h2> review.text </h2>
+
+ <p> I bought this to use as a wrist strap for my GoPro Wireless Remote. It works well for the purpose, and it's good to have extras for other random uses as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good length for use as a wrist strap </p>
+
+
+<h2> review.date </h2>
+  02-14-2013  
+<h2> review.text </h2>
+
+ <p> Have only used 2 of the 10 Loop Cable Ties thus far but are great for containing cords.I use these for keeping my extension cords, etc. neatly bound for transporting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tripp Lite P350-10N-10 10-Inch Hook and Loop Cable Ties - 10 Pack </p>
+
+
+<h2> review.date </h2>
+  07-13-2013  
+<h2> review.text </h2>
+
+ <p> I use these to keep all my goal zero spaghetti tidy and organized, there pretty long and I cut many of them down for my applications. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> tidy </p>
+
+
+<h2> review.date </h2>
+  05-03-2013  
+<h2> review.text </h2>
+
+ <p> Nice lightweight alternative to zip ties that can be reused and more ascetically appeasing. The velcro has a good hold to them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Replaces zip ties </p>
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> Unlike zip ties, these can be removed and used again and again! When fastened, they hold tight. When you want to remove them, they let go easily with that distinctive Velcro sound. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Reusable! </p>
+
+
+<h2> review.date </h2>
+  06-14-2013  
+<h2> review.text </h2>
+
+ <p> The Tripp Lite P350-10N-10 10-Inch Hook and Loop Cable Ties - 10 Pack (Black) has worked great for containing the extra length of cable for my mobile antenna on my ham radio. I also use these to stabilize the antenna cable in my vehicle so that it does not move around. At 10 inches long the length is long enough to contain the extra wire so that it is neat and not in the way. The Velcro is strong and does not come loose. These hook and loop cable ties are very easy to use, lightweight, and effective. This is a simple solution to organize unruly wires and cables from a jumbled mess to a tidy group.I would not hesitate buying more if needed and I recommend this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Work Great to Contain Excess Cable or Wires </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1582701210 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-25-2012  
+<h2> review.text </h2>
+
+ <p> I have read many life after death books and this one was way out there and hard to believe. I didnt like the part where he said that when you die you do not have memories from your last life. Well I guess that means you do not connect with fellow loved ones. This book was ridiculous! The only books in my opinion that are real are from Dr.Moody. Case studies... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One word Really! </p>
+
+
+<h2> review.date </h2>
+  12-18-2012  
+<h2> review.text </h2>
+
+ <p> No, I couldn't say whether this is real or not but I am always open to exploration. Hey, I guess I'll see. Meanwhile this was sheer pleasure to read and certainly uplifting! Check it out! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not sure about this one but so what!? </p>
+
+
+<h2> review.date </h2>
+  03-16-2009  
+<h2> review.text </h2>
+
+ <p> This is one of the books in the "Letters from a Living Dead Man" series. It gives very interesting material from a man who passed out of his body around the time of World War I. He dictated the book to one of his friends still in a body. The speaker from within shares interesting experience from his life in the inner worlds. I highly recommend this entire series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Living Dead Man series title </p>
+
+
+<h2> review.date </h2>
+  11-20-2013  
+<h2> review.text </h2>
+
+ <p> Excellent,easy to read book. Elsa Barker had communications from a gentleman that crossed over to the other side.This book is a diary of sorts of his communications. If you believe in life after death,this is inspirational and hopeful of what life may be like on the other side. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Life after death </p>
+
+
+<h2> review.date </h2>
+  01-10-2010  
+<h2> review.text </h2>
+
+ <p> 25 years ago while living in Denver I found the original 1915 book in a musty old Boulder, Co. used book store and included this text with my other purchases. I have never been compelled to seek out books about the after-life but I have always been interested in theological bound spirituality having been brought up (loosely) within the confines of religious rules and parameter's. Purchasing this book was an after-thought. Over the years I strayed from stricter theology and delved into Judaic and Christian Mysticism which broadened my perspective immensely and allowed me to internalize, to personalize my own spirituality.As with most others around me, I've experienced heartache in the death of beloveds (some of them more beloved once gone) but I never obsessed about life after death. Five years ago, while vacationing in an old Colonial Inn in Westchester, NH I had several very, very real encounters with ghosts (it gave me the willies) and indeed since then I have experienced a few more encounters  involving departed family members (giving other family members the willies from the information I conveyed). In no way am I special in this regard but my elderly father says I've always been `sensitive' although he won't delve into specifics, him being a `we live, we die' kind of man. As with the study of mysticism these encounters also broadened my perceptions.Recently, while browsing though a box of old books in our attic, I came across my 1915 book by Elsa Barker and decided to give it a try, again (though I have no memory of reading it the first time). It's true on so many levels that wisdom comes with age (if one is open to the experience and not overly distracted by body aches or disease) thus my reception to specific thoughts and story, written down by the author as `conveyed' to her by Mr. X, were more receptive to the messages he was trying to convey. To sum up the total reading experience, I got the `willies' again but these inborn feelings were joyful, not fearful in origin. And over the years I've learned that in me, the source of that involuntary spontaneous reaction of deep physical joy is spiritual. That knowledge has also expanded my appreciation for what I know, what I don't know, my love of life and our potential beyond.Trying to convey my thoughts and reaction to this book is difficult because reaction is so subjective, so personal in nature. Your reaction may be exactly the same as mine or it may not. All I can tell you is that at the heart of the messages, as written down by the author, resides a deep feeling of authenticity which conveys credibility to readers who are willing and receptive to the experience.  If you decide to not purchase this updated paperback version of the 1915 original I hope your explorations for understanding continue elsewhere and that somewhere, in all the messages and stories you do read you reach an authentic, personal understanding that gives you joy and reinforces your hope of  the same for all our futures. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Year 1915 for "Letters from a Living Dead Man" </p>
+
+
+<h2> review.date </h2>
+  05-18-2006  
+<h2> review.text </h2>
+
+ <p> This is a reissue of a book written and published nearly 100 years ago.  The style reflects the period.  What I enjoyed about this book the most was the way that the letters enticed the reader to consider the nature of reality, the openness one can achieve, and the sense of responsibility one has for oneself and others in any given incarnation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Must for Metaphysics Fans </p>
+
+
+<h2> review.date </h2>
+  01-16-2014  
+<h2> review.text </h2>
+
+ <p> Wanted to believe, but then the guy says that there is a race of people living on Neptune...please. That pretty much blew it for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hummmmm </p>
+
+
+<h2> review.date </h2>
+  01-20-2014  
+<h2> review.text </h2>
+
+ <p> A helpful guide to aide in your examination of your life philosophies and ways.  I found a great number of things to highlight, ponder and discuss. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read </p>
+
+
+<h2> review.date </h2>
+  04-01-2013  
+<h2> review.text </h2>
+
+ <p> After having read a number of present-day books regarding mediums, channeling, etc... it was somewhat encouraging to see that a similar reading from over 100 years ago nearly reflects the same message as we are receiving today.  No, it is not a duplicate, but the differences I feel lie in the culture of that era and that either the spirit and/or the respondent failed to muddle through all of their subjective thoughts and feelings regarding the afterlife.  But, these adjuncts are at a minimum.If you are interested in learning what was being transpired during the initial social wave of interest in spiritism, this is an interesting and, at times, intriguing place to begin........ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Today's message  vs. 1912......not terrribly different </p>
+
+
+<h2> review.date </h2>
+  01-12-2013  
+<h2> review.text </h2>
+
+ <p> "Letters From The Afterlife: A Guide To The Other Side" by Elsa Barker is a channeled book with serious undertones.  At the end of the book (pages 269-276), there is information and pictures on both Judge David Patterson Hatch and Elsa Barker (including details on how they became aware of each other).  There is an abundance of healing information in this book. For example, pages 108-112 explain why imagination is so powerful and how important it is to the quality of one's afterlife to forgive oneself and bravely carry over any past mistakes  upon physical death with self-compassion (pages 159-160). It is also emphasized that expecting more in both the earth life and afterlife can enrich spiritual growth (page 58).  Uplifting details on the Celestial Hierarchy are also featured (pages 186-190).The only area I respectfully disagree with is the stance on reincarnation.  Hatch implies to Barker that spirits are required to reincarnate back on earth (pages 79-82). I admit that my disagreement could stem from both my human ego and personal preference to have my current physical incarnation to be the last physical lifetime on earth.  Additionally, I have full faith that I am going to transition to a more blissful realm upon my physical death and confess that I would prefer to stay in the happier spheres of the non-physical. However, in case Hatch's reincarnation stance is true, I would make sure to do what I have to in order to stay in the non-physical realms for several hundreds of centuries before reincarnating and facilitate my birth into circumstances conducive to great wealth, good luck, good fortune, physical beauty, and high self-confidence. I only say this both from being thankful for my personal blessings and the belief that good karma (either from current or past lifetimes) is part of the life puzzle that explains when some people live charmed lives.After reading this book, I also now believe that there is a risk of spirits unnecessarily setting themselves up for a life of unintended adversity if a soul reincarnates back on earth in a hurry.  I now believe that spirits who take their time in selecting where, when, and with who they reincarnate set themselves up for living out their lives in more favorable circumstances that include the following: loving family members, an abundance of friends, high self-confidence, high intelligence, greater talents and/or awareness of limited gifts, physical beauty, greater financial affluence, and/or birth into families of wealthy socio-economic status.  "Letters From the Afterlife" influenced my beliefs that these advantageous situations are more probable for those who shrewdly take time to more thoroughly plan their life circumstances through before reincarnating back to earth (if reincarnation exists).On the plus side, this book did help me realize a career that I want to actually pursue, but I wish to avoid sharing due to my feeling of right timing.  Additionally, I plan to permanently keep this book because of the helpful information on using imagination to improve life circumstances. "Letters From The Afterlife" by Elsa Barker is good for those who have an open mind on reading about what the afterlife may be. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Letters Inspired By The Afterlife </p>
+
+
+<h2> review.date </h2>
+  04-20-2014  
+<h2> review.text </h2>
+
+ <p> Believe and you will be okay. Try and life becomes more wonderful.Rhythms pick your spirit up all the time - forever.A wonderful reading and a beautiful thought.I am so happy to have read this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This book is really something!!! </p>
+
+
+<h2> review.date </h2>
+  07-10-2014  
+<h2> review.text </h2>
+
+ <p> An amazing book really.  Fascinating </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great read, fascinating. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

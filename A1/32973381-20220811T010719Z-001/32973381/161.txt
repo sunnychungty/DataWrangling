@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 6302945143 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> "He's wacky, he's wild; He's ev'ryone's fav'rite child; It's Life With Mikey..." </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> LIFE WITH MIKEY is scripted and co-produced by Marc Lawrence. He wrote 31 episodes ofFAMILY TIES, the TV sitcom that brought Michael J. Fox to prominence..In this cutesy family comedy of middling quality, Michael Chapman, an ex-kid TV star who bombed out by age 15, now operates with his brother Ed a talent agency for children. Long-suffering Ed (Lane) does all the work while the former "Mikey" (Fox) remains an irresponsible adolescent, even in his early 30s.The main story occurs during the holiday season. It begins with street thief Angie (movie newcomer Vidal) bumping into Mike and picking his pocket. From this unlikely encounter, and from the way she wriggles out of an arrest for a different wallet-snatching, Mike recognizes in the pre-teen girl the makings of a TV commercial star. After much persuasion (and his promise of lots of money), Mike convinces Angie to audition for a series of cookie commercials. Eventually he's able to help Angie achieve success, both with her new career and in school.Mike's mentoring extends to allowing the practically homeless child to stay at his bachelor apartment, a cluttered mess that Angie cleans up. He also gets her to reconcile with a father (Blades) who on his own initiative entered an upstate alcohol abuse program. For her part, Angie's several successes inspire Mike to take control of his own rudderless life.A subplot has Ed Chapman on the edge of quitting the agency for a regular, mundane job. His endless, frustrating search for gifted children at open auditions turns up a parade of non-talents. These quickly-edited sequences of bad singers, dancers, magicians and actors are meant to be humorous, but they fall flat.Young Barry (Krumholtz in his screen debut) is the swell-headed "star" of Mike's and Ed's humble agency. His awkward attempts to hit on new kid Angie fail miserably. (In recent years, Krumholtz appears briefly as "Goldstein" in threeHarold & Kumarcomedies.)When Barry signs with another agent and Angie is caught shoplifting, Ed decides he's finally had enough. The Chapman brothers talent agency is finished. But wait... this is a family movie, right?.Parenthetical number preceding title is a 1 to 10 IMDb viewer poll rating.(5.2) Life With Mikey (1993) - Michael J. Fox/Christina Vidal/Nathan Lane/Cyndi Lauper/David Krumholtz/Tony Hendra/Jerry Lawler/Mandy Patinkin (uncredited: Rub&eacute;n Blades) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Life with Miley </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The story of a child star all grown up.  He becomes a talent scout for children.  Shows what you have to put up with when working with children.  quite enjoyable.  Michael is the perfect choice for this movie.  good see. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awsome </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-21-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> Awsome movie starring Michael J Fox about kids in showbiz. Michael stars as mikey (a former popular child actor) who is now a childs talent agent. He meets Angie, a 12 yr old con-artist in the streets. Mikey takes her in and puts her though a commercial audition. Check it out! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One of Michael's best </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-05-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> This movie is so fun. Michael J. Fox and Nathan Lane are struggling to make stars of their clients, who are kids. The pressures of Hollywood. This movie is a favorite of our family. It also stars Cyndi Lauper and who doesn't love her. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun, Hartwarming </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-29-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Michael did an excellent job in this movie.  I enjoyed it very much.  Had seen it in the theater when it first was released, but enjoyed seeing it again. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> B movie nice for kids to watch </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This movie was good 20 yrs ago...and not its settling into a not good b movie.Nathan Lane is Very good in this.Michael J Fox is annoying and like chalk on a blackboard </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Life with Mikey </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I think the movie is okay, it's supposed to be for young viewers I imagine, but it has bad words and I didn't like that! I don't like movies with bad words or inappropriate content, so even when the movie itself should have been enjoyable the bad words ruined it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cute a different </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> My duaghter loves this movie. It's a favorite of hers around the holidays and it fits in nicely between Thanksgiving and Christmas. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> MJF at his best </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-03-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've been a huge MJF fan ever since Family Ties. I grew up wanting to be Alex P Keaton and later I wanted to be Marty McFly. This movie is both hilarious and well written. It's one of Fox's best IMO. I would put it in his Top 10. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This Movie is Unfair to Michael J. Fox </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-13-2000  
+<h2> REVIEW TEXT </h2>
+
+ <p> I had been putting off watching this movie for a long time.  I'm a fan of Cyndi Lauper, the actress (also Lauper, the singer, but that's not relevant here) and her resume is a little slight.  With the exception of the amazing &quot;Vibes&quot;, the odd &quot;Off and Running&quot; and this, the mind-numbing &quot;Life with Mikey&quot;, there is nothing else to see.  Well, okay, she has an uncredited role as &quot;Picnic Guest&quot; in &quot;Mrs. Parker and the Vicious Circle&quot;, but that hardly counts.So, in order to round out my collection, I bought &quot;Life with Mikey&quot;.  So far, so good.  But then I sat down to watch it.  Sweet mother!Disney never seems to tire of showing us a) adults who have grown up to be big kids or b) unhappy, serious adults who would be better off if only they would loosen up and act like big kids.  Now, I'm actually in favor of this philiosophy, but for some reason it never seems to come across on film.  In this effort, the very funny Michael J. Fox plays Mike Chapman, a former child TV star who grows up to be a Big Kid.  His apartment is a mess, he plays street hockey with the local urchins, he cons women and lies with a twinkle in his eye and we're all supposed to think he's charming as hell.  Problem is, it seems that Fox has been replaced here by his stand-in, a life-size Michael J. Fox robot that has all the facial expressions down, but has none of the talent or charm.Mikey works with his brother Ed (the underappreciated nathan Lane, reduced here to whining and mugging as though his life depended upon it) as a strictly low-rent talent agent for children.  The agency represents a stable of losers and is about to go under until Mikey discovers Angie Vega, a con artist with &quot;talent&quot; who can save the agency, if only she'll agree to stop shoplifting in her off-hours.Cyndi Lauper plays Geena Briganti, the brothers' secretary and the only character with any damned sense in the whole film.This movie is genuinely touching.  I teared up a little when I saw all these genuinely talented child actors hamming it up and pretending to be talentless in order to make the genuinely talentless Christina Vidal look good.  These selfless kids try again and again to undershine every time they share a camera with the little tyke, but it never works.  You're left wondering why the little urchin got the plum cookie role and not the little guy who does Ethel Merman impressions.  Now that's hilarious!  Or how about the dour kid who auditions with a Strindberg monologue?  The screenwriters obviously had more fun writing these kids than they did the heroes.In the end, &quot;Life with Mikey&quot; is a sad, disposable film that deserves no place in the careers of any of the actors involved.  Except maybe Christina Vidal. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Enjoyable comedy </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-27-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Life with Mikey - Michael J Fox is on brilliant form in this entertaining, and occasionally poignant, comedy about growing up, responsibility, and child talent agencies.The movie is funny in a way that only Nathan Lane and Michael J. Fox could provide, and Cyndi Lauper is adorable as the receptionist.  It isn't as touchingly romantic, or as hilarious, as Doc Hollywood but it is another great example of the comedic acting talent of it's cast and especially its leading man. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

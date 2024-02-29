@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0009OWAKU <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-17-2008  
+<h2> review.text </h2>
+
+ <p> I'm on my third one of these and still haven't got one that works properly. Either XP tells me it's a USB 1.1 or it fails when certain devices are plugged into it. If you're lucky, it's a cheap hub if the USB devices you have will work. Otherwise you'll regret it.The light show is really pretty, if you want it for the lights, but they are useless for the hub. They are not for in-use or activity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm 3 for 3 failed with this one. </p>
+
+
+<h2> review.date </h2>
+  09-16-2008  
+<h2> review.text </h2>
+
+ <p> Bought this product about 6-8 months ago. Within about 1 month I had my first experience where it wasn't working for one particular port. I have found it "hiccup" a couple of times since then where the port I'm using doesn't work.It works fine when it works, but I want something to work 100% of time and not have to worry about it possibly not working. This works about 90% of time, but is quite frustrating if you want to do something quickly and its acting flaky that day. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine - when it works. </p>
+
+
+<h2> review.date </h2>
+  11-30-2009  
+<h2> review.text </h2>
+
+ <p> the seller did a great job; he got them to me quickly.  However, on both mini-hubs, I had to plug in devices several times, sometimes plugging them into different ports to get them to work.  One I set up at one of my user's desks so I don't know if she is having problems.  but on my machine, I've had to unplug/replug several times.  And I'm only using simple devices like keyboard, mouse and USB flash drives.  my printers (3) are plugged into the onboard ports.  One machine has XP Pro (32-bit) and the other has Vista 32-bit. Plus, I don't mind the fact that each port is lit (and with a different color), but the flashing light that changes color is rather annoying (it is constantly flashing!) and it seems to serve no purpose at all.  I usually don't have any problems with Sabrent products which is why I am so surprised at this item. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sabrent USB hub disappointing </p>
+
+
+<h2> review.date </h2>
+  03-11-2008  
+<h2> review.text </h2>
+
+ <p> This hub is advertised as supporting USB 2.0 (480 Mbps), but I've tried it with four different computers (all with USB 2.0) and each one recognizes this hub as USB 1.1 (12 Mbps) only. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> USB 2.0 - NOT!!! </p>
+
+
+<h2> review.date </h2>
+  01-31-2014  
+<h2> review.text </h2>
+
+ <p> Didn't even bother trying to return it. Never worked right. Probably could have... You can see right through the case where they left off termination components. As expected with an improperly terminated device; very prone to errors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Junk </p>
+
+
+<h2> review.date </h2>
+  11-13-2008  
+<h2> review.text </h2>
+
+ <p> This one taught me a lesson about going cheap on something that's under $20 to start with.  Even when it does connect a given peripheral, there's no guarantee that it will connect it next time the system is rebooted.  These are low-power-draw peripherals - card reader, Zen MP3 player, MagicJack phone adapter, etc.  Next time I'll spend $20 for something that works.  This one goes into the pit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Useless </p>
+
+
+<h2> review.date </h2>
+  05-01-2009  
+<h2> review.text </h2>
+
+ <p> This hub works great and the location of the inputs are in the right place. I also love the colored LEDS. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sabrent USB Hub </p>
+
+
+<h2> review.date </h2>
+  09-22-2008  
+<h2> review.text </h2>
+
+ <p> I have used usb devices since they barely worked in windows 98 - and i would say a usb hub is a terrific device.  this hub is no exception, as it replaced another 7 port i had, that wouldnt take more than 4 devices. I have had no issues, although i will be putting black tape over the FLASHING lights in the center of the unit - thats my only issue - other than that, i bought a second, as the first i have had for 3 months, and am quite happy with it, except for the flashing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works great </p>
+
+
+<h2> review.date </h2>
+  12-21-2008  
+<h2> review.text </h2>
+
+ <p> Nice to have seven ports, but each is lighted a different color, that's ok..sort of, but there's a center light that changes color and twinkles and is VERY distracting.  I could do without the light show. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Light Show! </p>
+
+
+<h2> review.date </h2>
+  10-27-2009  
+<h2> review.text </h2>
+
+ <p> Woo, have I been tossed back to the 1970s or what!? This device would be just great if it were not for the inability to shut-off the lights. The lights are very bright and if you sometimes work at night the lights could pose a problem.On another note, when attached to either a Windows XP or Windows Vista/Windows 7 machine the device registers something less than High-speed USB as advertised. When used with the supplied power adapter or not the device will not show up as a High-speed 2.0 device. The transfer rates of this device have always been better than those of the earlier USB 1.x but never up to par as a true High-speed USB device.However, I would recommend this product to anyone whose needs aren't as demanding and wouldn't mind the Disco light effects.Thanks for your time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> USB Disco!.. </p>
+
+
+<h2> review.date </h2>
+  01-23-2008  
+<h2> review.text </h2>
+
+ <p> It has an LED for each port that stay on all the time, they ARE NOT port status/activity LEDs like other hubs. It has a multi-color LED flashing all the time.The power adapter is only 1 Amps and is not enough power for a 2.5" external HDD. I tried with a 2Amp supply and the drive works with the hub.I could have bought two strings of LED Christmas lights for what I paid this light show. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Light Show ! </p>
+
+
+<h2> review.date </h2>
+  03-04-2010  
+<h2> review.text </h2>
+
+ <p> It says that it is USB 2.0, but when I plugged in my ipod, I got a message saying that it is recommended to hook my ipod to a 2.0 (faster) USB, which means that it is not a 2.0, It is a bit slow getting anything to show up. Despite that it does work it all you care about is having a hub to hook up everything and are not worried about it speed. It is compatible with Mac's and Windows. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not extactly as advertise </p>
+
+
+<h2> review.date </h2>
+  09-12-2010  
+<h2> review.text </h2>
+
+ <p> Yes, it has a fancy "light show", but is also totally functional.  Have had no issues.  Don't get other reviewers criticisms of the product.  Fair price point. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Don't Get It </p>
+
+
+<h2> review.date </h2>
+  07-18-2013  
+<h2> review.text </h2>
+
+ <p> the product was good and did what it sopose to do but when my kids got a hold of it, it went for the turn for the worst. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Was good but then...... </p>
+
+
+<h2> review.date </h2>
+  09-17-2010  
+<h2> review.text </h2>
+
+ <p> I bought 3 of these. 2 work and 1 doesn't. The light show is fantastic and really a conversation starter. I have had no trouble at all with the 2 that work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hallucinogenic light show with no drugs. </p>
+
+
+<h2> review.date </h2>
+  11-30-2008  
+<h2> review.text </h2>
+
+ <p> I wish I had read these reviews before getting this. The general consensus is correct. Yes, it's cheap, but it's unreliable and flimsy. The port connectors wiggle around, and despite how nice it looks lit up, it won't provide very much power to your devices. For example, I tried to plug in a mix of 5 devices, including a bus-powered synth keyboard, and I noticed the lights went out on some of the connected gadgets. It just wasn't delivering enough juice!Also, absolutely don't expect to get good throughput connecting a hard drive to this. The "High Speed" claim is deceptive and inaccurate: I could only attain USB 1.1 speeds. I repeated this experiment several times with different hard drives plugged into different ports here, all while the Sabrent hub was plugged into the USB adapter as well.On Windows, I also ran into confusion and crashes when trying to plug too many devices in at the same time. I don't know if this is a broader Windows problem or limited to poor-quality USB hubs like this, but it was very tiring to repeatedly restart and incrementally add devices, instead of being able to do them one after another.Please save your time and energy. Spend a few bucks more and get a better hub -- after reading other reviews, I've got a Cables To Go one on the way, and hope it fares much better than this poorly-manufactured nonsense. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An awful, time-wasting mess. Don't buy this one! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

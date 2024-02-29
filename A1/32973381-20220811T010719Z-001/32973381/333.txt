@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1587297930 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-14-2011  
+<h2> review.text </h2>
+
+ <p> Don't ask me why this book has escaped my attention for so long, seeing how much I love Ralph Waldo Emerson's work. While I already knew him as a wonderful poet, I admittedly haven't been all that familiar with his person and life.In First We Read, Then We Write: Emerson On The Creative Process Robert D. Richardson presents a marvelous and engaging little manual digging deep into the central passion of Emerson's life, who was literally in love and addicted to books. Mainly focusing on the important interconnection of reading and writing, it also thematizes the need to reflect on nature for language, the recommendation of keeping a journal or earning the attention of the audience. The reader gains not only an understanding of what fueled Emerson's creative process, but will learn a lot for own literary endeavors. This sophisticated and wonderfully engrossing book is filled with practical hints and speaks to the poet in each of us.I recommend reading this book along with Emerson's The Poet which is one of the most significant works on expressionism in literature. Best enjoyed on a quiet afternoon with no distractions around, this is the kind of book you will want to dip in more than just once and it will reward you with new and deeper insights every time.In short: A delightful little book on my own two passions - reading and writing - this is definitely a must-read for every author!Disclosure of Material Connection: I received this book free from the publisher through the NetGalley.com book review program. I was not required to write a positive review. The opinions I have expressed are my own. I am disclosing this in accordance with the Federal Trade Commission's 16 CFR, Part 255 : "Guides Concerning the Use of Endorsements and Testimonials in Advertising." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A delightful must-read for every author </p>
+
+
+<h2> review.date </h2>
+  02-22-2010  
+<h2> review.text </h2>
+
+ <p> An excellent, wonderfully readable and insightful study of the great Emerson.  A must read for scholars and poets and general readers alike. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Emerson restored </p>
+
+
+<h2> review.date </h2>
+  06-20-2014  
+<h2> review.text </h2>
+
+ <p> Robert Richardson's short book is an extremely close look at Emerson's writings and comments about reading and writing, with enough biographical material to place Emerson's journal and paper extracts in context. While the novella-long essay is informative and occasionally thrilling when revealing bookish sentiments stated so beautifully by both Emerson and Richardson, I think these chapters will be appreciated only by those of us with stacks of books all over the house and doing double service as furniture. Sad. But if one wants to see an example of gorgeous writing, this is one to check out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brilliant writing, lovely phrases, wonderful sentiments </p>
+
+
+<h2> review.date </h2>
+  11-27-2009  
+<h2> review.text </h2>
+
+ <p> If you know a student or fledging author in need of a thoughtful gift, consider the purchase of this book on the essence of that most useful creative art, writing. (Or, buy it for yourself.)Professor Richardson brings a lifetime of acquired knowledge to this fine summary of Ralph Waldo Emerson's scattered expressions related to both reading and writing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No Arithmetic </p>
+
+
+<h2> review.date </h2>
+  07-05-2011  
+<h2> review.text </h2>
+
+ <p> I have spent quite a bit of time reading Emerson.  As much as he frustrates me, he has also been worth reading.I knew of Richardson because of his long works on Emerson and Thoreau.  There are some very good insights in this short book, but found the overall quality a bit uneven. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A bit disappointing... </p>
+
+
+<h2> review.date </h2>
+  10-09-2010  
+<h2> review.text </h2>
+
+ <p> This is an excellent book. All though short and sweet it has so much information and interesting thoughts packed into it.  Anyone interested in being a life long learner should read this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> impressive </p>
+
+
+<h2> review.date </h2>
+  09-28-2009  
+<h2> review.text </h2>
+
+ <p> Weirdly, this is a book Ralph Waldo Emerson would not have liked had it been available to him to read. The author of the book admits that Emerson did not like and would not read books of literary opinion, analysis or criticism, but this is just such a one.From the comments of the first Amazon review of this book and from the high praise by Mary Oliver and Susan Cheever on the back cover of the jacket, I expected to feel just as Charles Woodbury felt when he first heard Emerson lecture in person: "lyric and solvent force."  I did not.At times, reading the author's quoted passages from Emerson's writings, I felt sleepy listening to the dated, metaphoric, oraclular speech of a preacher.  At other times, the reading was tedious since no sooner was a good flow of understanding experienced than it was interrupted by the author's teacherly commentary.Not that this book is a wholly negligible offering, no.  The author does choose very good morsels from selected Emersonian passages that make the writing experience be felt like a hot iron or an oncoming mack truck, particularly since the reader learns that it is the writing process itself and not the finished product that is the bowl from which all sustenance is artfully sipped.  One memorable instance is the advice to write in monosyllables only, a technique that Emerson himself evidently took to heart seldomly if other quoted passages by Emerson found within the book are any evidence.  Still, writing in monosyllables is nonetheless a strategy that can make a lucid and readable writing style.  In this book there are also whole paragraphs devoted to the how-to's of sentence-making from the Emersonian point of view, with an eye on the aphorism or the epigram.  There are, indeed, useful and pragmatic perspectives on writing worth the purchase or persual of the book.To learn to appreciate Emerson better, however, I'd rather read the author's biography on him than read this work.  This book is half-workshop/half-academic analysis and as the author makes plain, since Emerson never wrote an essay on writing, this book is your first-stop shop for access to Emerson's views on creative writing.  But by the end of the last chapter, the reader is boldly told how great Emerson is and was, and while his status might be as great as the author states, this reader wasn't captivated by mere assertions (or the passages of Emerson's own writings) since the evidence for such high praise within the work itself left this reader skeptical based on the number of times Emerson's quoted prose evoked the famous liturgical doze.  It was a real pleasure to know the book is intentionally short.Having written all the above, I found one quotation from Emerson I liked very much, not for the writing at all (oddly lacking in monosyllables), but for the pre-9/11 political thought on conspiracy theory -- and in relation to America's future in the New World Order or the "Green World Religion," as Alan Watt terms it."Things seem to tend downward, to justify despondency, to promote rogues, to defeat the just; and by knaves as by martyrs, the just cause is carried forward.  Although knaves win in every political struggle, although society seems to be delivered over from the hands of one set of criminals into the hands of another set of criminals, as fast as the government is changed, and the march of ciivlization is a train of felonies, yet, general ends are somehow answered."Of course, "general ends" is not quite the same thing as "general welfare," so one needs to ask, whose general ends? The Anglo-American elite? The experts? The Freemasons?  The bankers?  World leaders?  If by "general ends," Emerson means "the general welfare" of the people, how can rogues and criminals achieve such good ends?  (No answer.) And, finally, just what is that just cause?  (Again, no answer.)Note:  You see from the examination of a single Emersonian sentence above that it sounds as if it makes sense but when scrutinized, it falls to pieces.  Are Emerson fans praising his lovely sound at the expense of any sense-making?  I think so. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Honestly, . . . No Big Whoop </p>
+
+
+<h2> review.date </h2>
+  09-08-2010  
+<h2> review.text </h2>
+
+ <p> Instructions: Buy this book -- but don't read it.  Not immediately.  Keep it on hand.  Buy a nice bottle of wine.  Nothing exorbitant, but better than you'd ordinarily buy for yourself.  Save both book and wine for a solitary despairing evening with bad weather.  An evening on which you are pretty much certain that you are a lost cause.  Read book with wine, enough to induce hope or facilitate grieving, but not so much that you are unable to take notes.  As this is a slightly expensive book, and only long enough for one sitting -- and because it is excellent and powerful medicine -- you should save it for when you most need it.  Then, if you like, you can give the book as a gift when visiting a particularly important friend -- in lieu of  the wine, which you drank.Everything Robert D. Richardson writes is phenomenal -- elegant and life-giving.  He has a unique ability to turn gigantic feats of research into pure inspiration.  On the way to learning about Emerson, I learn also how to live.  The biographies of Thoreau, Emerson and James are all essential -- and I hope very much that there is still more to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Strong Medicine, Use Carefully. </p>
+
+
+<h2> review.date </h2>
+  04-15-2010  
+<h2> review.text </h2>
+
+ <p> This book is as much about Ralph Waldo Emerson as it is about reading and writing. It reveals the books he read as well as the way he thought and wrote. Thinking was not part of the title but it was clear that it is every bit as important. Emerson was an intellectual in that he read, thought, and wrote. That is the intellectual's life and anyone aspiring to that life would find this a helpful book. "There is always a right word, and every other that is wrong." This book also discussed the writers who had influenced Emerson; writers like Goethe and Shakespeare. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No other way </p>
+
+
+<h2> review.date </h2>
+  01-02-2014  
+<h2> review.text </h2>
+
+ <p> You wouldn't expect a scholar whose biographies typically run in the 500- to 700- page range to be able to distill in around 100 pages the essence of Ralph Waldo Emerson as reader and writer. Dr. Richardson's little volume is a treasure trove of insights by Emerson and about him, pulling from his published and unpublished works a portrait of a man for whom reading was creative and spiritual food. One does not have to be a fan of Emerson find enormous value in this little book. While it's not by any stretch a &#34;how to&#34; guide, it's hard to imagine anyone who loves words not coming away from this book without a new sense of themselves. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brief, Brilliant Gem of a Book </p>
+
+
+<h2> review.date </h2>
+  09-01-2011  
+<h2> review.text </h2>
+
+ <p> It was nice to break away from fiction for a bit and pick up something different. I thought maybe giving this book a try would relate to my writing classes I'm taking this semester. While not 100% as helpful as I would have liked, I did enjoy what Richardson was trying to get across. The cool thing about this book is that you learn almost as much about Ralph Waldo Emerson as you do the writing process. It's kind of amazing actually. When Richardson talks about how Emerson related nature to writing, I could totally understand where Emerson got his inspiration. It was nice to get writing advice that was a little different than I'm used to.It's hard to rate this book because my grading scale doesn't really have the same standards that non-fictions has...so I'm just going to say that this was a great learning experience and I would highly recommend this book to any writers out there who enjoy Emerson, nature and learning about different writing processes.*I received this book free from the publisher through  &lt;...>. I was not required to write a positive review. The opinions I have expressed are my own. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This was a splendid read! </p>
+
+
+<h2> review.date </h2>
+  05-24-2011  
+<h2> review.text </h2>
+
+ <p> I found this an enjoyable short read with many thought-provoking points for a writer.Robert D Richardson Jr. has done an excellent job of drawing together Emerson's views and philosophies and has presented them in a concise and interesting way.This is not a general book that will appeal to just anyone because of its very particular subject matter, but I think it will be of interest of many writers for its comments and ideas about the creative process and the nature of writing.I received this ebook as a free review copy from NetGalley. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great little read for writers </p>
+
+
+<h2> review.date </h2>
+  01-15-2010  
+<h2> review.text </h2>
+
+ <p> Wow, what a little depth-charge of a book!  With Richardson as our guide, Emerson speaks encouragement and harsh wisdom to would-be writers.  A thrilling read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful book </p>
+
+
+<h2> review.date </h2>
+  02-28-2009  
+<h2> review.text </h2>
+
+ <p> This is a marvelous book on writing as process:  in 12 keen chapters and 98 deft pages, Robert Richardson has elaborated a pithy provocation on Emerson as a fount of pragmatic advice and inspirational wisdom that could turn a scarecrow into a phrase maker, a diarist into a neo-Montaigne.  Though I thought I knew (as reader) the deepest core of Emerson as a figure of self-reliance cum power-making, as a disciplined key to relentless vernacular energy, life-renewing metamorphosis, and the materialiy of perpetual influx, this little book taps into the heart and soul of Emerson as writer:  thereby unlocking the means and power of what Brecht called "producing producers" in the fullest "world American" sense that makes the present sentient, democracy available, and the future (self and world) open to the sentence-by-sentence pragmatics of writing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Emersonian book on Emerson that unlocks writing-as-power... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

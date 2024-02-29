@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B001S86JCQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-25-2009  
+<h2> review.text </h2>
+
+ <p> Great addition to my Leslie dvd collection. You burn a lot of cals in a short time.Large cast, coordinated clothes, good music, upbeat spirit. Easy to follow. And Joann does it all LOW with no boost. Recommend for the intermediate exerciser, not a very beginner.Con: there are no mile markers; you can't quite stop after 1 mileCon: too much chatter from mary kay--either directly with leslie or to other cast members. she's distractingCon: there are only 3 "boosts" and the third one is awkwardly fast. I think it would have been better to have 4 boosts with more of them at the pace of boost #2, just longer time allotted for each boostEven with these cons, I still come back to this dvd regularly. I am very glad i purchased this dvd. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great short intense workout </p>
+
+
+<h2> review.date </h2>
+  03-15-2010  
+<h2> review.text </h2>
+
+ <p> Good Product.  Arrived in good time.  Nice workout.  Would buy product again from this seller. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Leslie Sansone: Walk at Home - The Big Burn - w Miles of Intervals </p>
+
+
+<h2> review.date </h2>
+  05-12-2011  
+<h2> review.text </h2>
+
+ <p> One of Leslie's best in my opinion.  The pace and variety of the routine is great.  My only quibble is the sometimes odd and distracting camera work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Mood-Boosting Workout </p>
+
+
+<h2> review.date </h2>
+  09-16-2010  
+<h2> review.text </h2>
+
+ <p> I love Leslie Sansone's workouts because she got me through my exercise block and now I'm exercising routinely.  On days when I'm walking 2 miles, I like to maximize the impact and I can do that with this workout.  This is pretty classic Leslie, walking with a group.  The intensity is added with intervals of "boosted" walking, which is slow jogging in place with added kicks and knee raises.  These intervals are short, 90 seconds to 2 minutes, but really add a nice level of intensity.  The rest of the walk consists of Leslie's signature 4 moves.  The set is at her studio with the black background, but there is a window that you can see out of and watch a little of what is going on outside.  I like this workout because I feel that I'm getting a little extra in 30 minutes of exercise! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Intensity for a 2 Mile Walk </p>
+
+
+<h2> review.date </h2>
+  12-08-2009  
+<h2> review.text </h2>
+
+ <p> This is a great workout. I worked up a sweat doing it. This is one of my favorites by Leslie. I have many of her DVD's and really enjoy working out with her. Love the walk & jog segments, the BOOSTED walk, it's high energy for a good calorie burn. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it! </p>
+
+
+<h2> review.date </h2>
+  10-28-2011  
+<h2> review.text </h2>
+
+ <p> This one surprised me and I wish I had known about this one sooner because it would have saved me from buying some of the other ones.Leslie is still a chatterbox on this one and misses a few cues because of it. There's also a point where Leslie tells the camera man to follow her while she messes with him to do some kicks. He actually does a couple while he's holding the camera up which is the crazier thing about it.Also, there are no mile markers. You go straight through and Leslie doesn't even announce the mileage until you're at the end of the stretch and she tells you that you've (obviously) done two miles. On the up-side, the workout goes by so quickly that you don't really notice it.The main down side is that you only go through the intervals 3 times. Leslie is never clear if the running intervals are 90 seconds or 2 minutes. She tried to make it seem like they are the same but 90 seconds is not 2 minutes (obviously). It kind of made me wish it was a 3 mile program so you could get at least 5 intervals out of it.Anyway, this a good workout for when you don't have time but still want to do something to get your heart pumping. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Actually Like This One </p>
+
+
+<h2> review.date </h2>
+  01-26-2010  
+<h2> review.text </h2>
+
+ <p> I really love the 2-Mile Big Burn when I'm in a hurry! My husband & I have so many of Leslie's walk at home DVD's. Leslie makes it fun to workout with her. Although we love Leslie, sometimes you need to mute the little Darling so you can focus. Nonetheless, she's a wealth of information. In the beginning try not to mute often because you might miss out on the tips, coaching, info and her postive spiritual attitude about life. I've worked out w/ others and felt like I was in the military, worked out with them for a month and quit. Working out with Leslie, Mary Kay, Carol, Linda and the rest of her group is really like working out with fun friends. I reduced inches all over my body, eating healthy, and feel great. I've been with Leslie and her group for over 1 year, use her DVD's 5x's-6x's a week. We wouldn't trade her for the world! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 2-Mile Big Burn! </p>
+
+
+<h2> review.date </h2>
+  06-28-2010  
+<h2> review.text </h2>
+
+ <p> I love Leslie Sansone's work outs.  Short and yet you get a good work out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Leslie Sansone-The Big Burn </p>
+
+
+<h2> review.date </h2>
+  04-18-2010  
+<h2> review.text </h2>
+
+ <p> I have many Leslie workout tapes and DVDs.  I was not disappointed with this one.  If you are a fan of Leslie and her walking workouts, I think you will be happy with this workout. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very happy with this DVD. </p>
+
+
+<h2> review.date </h2>
+  08-18-2009  
+<h2> review.text </h2>
+
+ <p> I've been doing Leslie's videos for a couple years now and own a lot of them...this will be one of my favorites.  Some of her newer ones haven't been for me, especially the ones where it's just her because I enjoy the group setting.  But this one had a great mix of people and it was fun.  I hadn't seen the guy in it before, he's a friendly upbeat hunk and I enjoyed watching him...more of him please.  Yes, she misses her cues a couple times, yes the mike makes a noise when it gets hit a couple times...all that stuff is what made it fun for me.  Part of what I like about her so much is that she isn't polished and she is goofy.  There is none of this faked voice "and a one and a two" type stuff that is in too many other workout videos. It makes working out with her fun and gets me laughing sometimes.  I'd say the difficulty level on this one on a scale of 1 to 10 would be about a 6 if you do it just like she is.  But you can knock it down or bump it up a few levels according to where you are at.  That is what I did.  I added one more jogging interval while they were doing slower moves because I was in the mood for a little more.  On a day I don't have the energy, I can lower it down some.  There is a music only option if you are someone that doesn't like to hear Leslie's chatter (I do). The only con for me is there isn't any marker that tells you how far along you are. Solid workout and I recommend it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great workout! </p>
+
+
+<h2> review.date </h2>
+  05-19-2011  
+<h2> review.text </h2>
+
+ <p> When you don't have the time and you need to sweat, this works just fine.  Obviously not as long as Leslie's 3,4 and 5 mile workouts, this fits in the "I really need a good workout, but I just don't have the time".  These 30 minutes raise your heart rate and set you sweating, so leave time for a quick shower afterwards.Four stars instead of 5 because the music only version is recorded so low that I needed to push my volume to max to hear it.  This is compared to her "3 Fast Miles" where volume is at about a 7 out of 50, this one is 50 out of 50. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great 30 Minute Workout </p>
+
+
+<h2> review.date </h2>
+  05-30-2009  
+<h2> review.text </h2>
+
+ <p> I have been doing the WATP dvd's for almost a year.  This DVD makes it way right to the top of my list in rotation.Let's list the PROS of this DVD:1.  Music only option (for those of us who are veterans to the WATP series and can follow the steps without instruction)2.  New music to follow3.  The BOOSTED/JOGGING intervals are EXCELLENT.  They aren't just at the end of the DVD or miles.  It starts about 8 minutes in and lasts for about 12 minutes.  That's 12 minutes (thereabouts) of BOOSTED/JOGGING.  It's alternated between kicks, knee lifts, and jogging up and back.4.  Fast paced, doesn't take 30 minutes to break a really good sweat.  You should sweat through the entire DVD.5.  If you are looking for an excellent DVD to repeat (back to back play), this gives an excellent middle of the week or weekend buster to the same old workout.6.  Same great arm, leg, and (dare I say it) aerobic workout!Now let's list the CONS:1.  Leslie has a couple of spots where she is off on her sequences.  But hey, noones perfect and after watching this JUST ONCE, put it on music only--you can do it without her telling you what to do and it makes it simpler.2.  Could be longer.  Yeah, yeah...I am glutton for punishment, but I would LOVE to have an interval training DVD that did the JOGGING/BOOSTED WALKING for more than 33 minutes.  But in a pinch it's a GREAT workout.That's it!  I strongly recommend this particular DVD for anyone who is looking to add a little something extra to their standard workout.  It's just extreme enough to make a difference in the overall performance of workouts and easy enough to do everyday if that's what you choose.Well that's enough for me, time to use this DVD again!Happy walking ;-)Shonene </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AWESOME Boost! </p>
+
+
+<h2> review.date </h2>
+  04-21-2010  
+<h2> review.text </h2>
+
+ <p> Interval training and circuit training are the best and quickest ways to fitness and weight loss, according to scientists and people in the medical community. This is a good video. I enjoy most all of Leslie's workouts --- even though many are pretty much the same. If you own six of them, you pretty much own them all. Having said that, she doesn't do interval training on many of them --- certainly not her earlier ones. Probably because interval training is fairly new to many people. I hope she uses this type of training in all of her future videos. Debbie Rocker does and I really get a lot out of her walks.On the bad side, I like the one mile walks and I can't really get this one to work for me. If I start on mile two it begins with no warm up but does have a cooldown. If I start on mile one, it has a warm-up but no cooldown. She claims you can choose to do one or two miles. But, in reality, it doesn't work.Leslie seems to take lots of shortcuts in her videos lately and it's at the expense of providing good options to her fans. But for those who enjoy the two miles, this is a whale of a workout and you'll burn a ton of calories. No doubt about that. One of her best. Moreover, the studio looks nice and Leslie looks especially good in this video. She seems to have lost weight and looks better than when she was younger.Highly recommended.- Susanna K. Hutcheson </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The right way to get fit according to current science </p>
+
+
+<h2> review.date </h2>
+  12-04-2010  
+<h2> review.text </h2>
+
+ <p> I have been using this walk-at-home video for several weeks now and enjoy the pace and length of this one.  I have purchased Leslie Sansone work out DVDs in the past and this one is a welcome addition to my library. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good walk-at-home video </p>
+
+
+<h2> review.date </h2>
+  12-23-2009  
+<h2> review.text </h2>
+
+ <p> Ok, like many ppl who have left reviews, I too, am a Leslie Sansone fan. I enjoy her DVDs for the Basic movements as there isn't much to think about in way of choreography, therefore I can really focus on my intensity. I have had this DVD for a while and I popped it in today after not doing her interval workouts in quite some time. If I could rate this DVD, I would give it 4.5 Stars...here's why:Cons (Let's get them out of the way to focus on the good!):* She does hit her mic several times throughout the workout so you here that banging* The music is a little lower, but I believe there is a "music only" option...I could be wrong hereSemi-Con (this doesn't bother me...it may for some)* She has the camera guy follow her so she can instruct another crew member to do some kicks. I thought it was cute; some may not.Pros:* 2 Miles with 3 Intervals approx 90 seconds to 2 minutes per interval* Unlike Walk Slim were Steve was the object of some teasing...it's pretty light here and not distracting at all* Steve and Jo Anne modify the High Impact while Leslie and the rest do the High Impact* The Intervals and walking are NOT discombobulated. Some ppl have said they seem like they are all over the place; I do not feel that they are. I hate motions and patterns that feel that way, this does not.* Steady cool down and stretch; some other DVDs of her's seem to have a very short cool down and some offer no stretch.I really did like this workout. After I finished it today I had the energy to do another 2 Miles from a moderate paced walk of hers. If you have the Walk Slim Series, it's similar to her 2 Fast Miles, but I personally enjoy this one the best of the 2; the set is brighter in her studio for Big Burn vs Darker in Walk Slim (both shot at the same location). Unlike 4 Fast Miles which has 5 Intervals, this has 3 so it's shorter in length and duration; perfect for gaining endurance for walks like 4 Fast Miles and 4 Really Big Miles...even 3 Weight Loss Miles which was released a few years back (another Must-Have!!).This DVD kept my Heart Rate soaring and I was really surprized at just how high. I have been conditioned a long time so higher heart rates tend to not feel as high for some reason; a good thing I suppose. When I check my HRM (Polar F6) it read that my average HR was 140 and my Max was 172! I really had the energy today and put my all into this workout. If you do the same, you can get some pretty impressive numbers. For the 4 total miles I did (Big Burn and a Classic Walk) I logged 542 calories burned in 60 minutes. I find that impressive for a Leslie Sansone 60 minute workout!! That's more than I burned doing the same intensity of Step Aerobics!!Aside from the few "cons", I like this DVD and would recommend it to anyone. Be prepared to sweat and huff and puff!!! If You don't then I think it's time for a more challenging instructor! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 4.5 Stars if I could... </p>
+
+
+<h2> review.date </h2>
+  02-08-2013  
+<h2> review.text </h2>
+
+ <p> The filming is a bit uneven, but I do like the working.  You have 3 jogging intervals placed within the basic Leslie Sansone workout.  It really makes the workout go by quickly.  Leslie is encouraging, but not as &#34;Cheerleader from Hell&#34; as some instructors.  I have several of her workouts.  This is one of my favorites. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this workout </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

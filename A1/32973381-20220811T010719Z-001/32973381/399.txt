@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0047O2AN0 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This book was  so so </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really like this series and the concept behind it. I just felt like this one was filled with a little too much drama. Noah was hurt and taken to the hospital, then again, and again. Not to mention Remus was too. I would have appreciated a little less drama. There were some facts that were misplaced after reading some of the other books. It made everything just a bit confusing. But a good book and I will continue reading this series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Oddly, I liked this one alot </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> It wasn't the best from this author, but I really got invested with the characters and their love story. The whole abusive father and brother was a bit much. But I liked Noah's guts and ability to look at life as a gift even after being kidnapped by demons and abused/ignored by his entire family. Remus was a great match for him and their passion was intense.This is a series that yo-yos back and forth for me. I love one then hate the next and so on. This one I liked. I think the family aspect worked in the this story where it didn't the Caleb or Stephan books. The family was there to support and protect, not be the brains for the chacters. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 3.5 out of 5 stars... </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-25-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have to admit that I didn't enjoy this book as much as the 1st oneMicah [The Marius Brothers 1] (Siren Publishing Classic ManLove), but it was still good!  The only reason I give this book 3.5 stars instead of 5 is because Remus' mate Noah isn't as strong as Micah's mate Riley.  Just a peeve of mine; I like the mates to be well-suited as far as strengths/weaknesses go.  There was A LOT of angst involving Noah and his family, and Remus was just a little too soft for me (maybe Noah just brought out that side of him).  It'll be interesting to see if Noah's father and brother come back in later books to cause more grief.  Anyway, I'm still looking for more background on this family, but all in all, I'm still going to read every book in this series!  I still believe this story line is going to be very interesting.  I can only hope Ms. Flynn doesn't disappoint!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cry Babies! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Don't get  me wrong, I am all for men who cries, but come on! I love these kinds of series but this one disappointed me. Bad.. just bad. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One of the wost book even </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-16-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> What a mistake I made picking up this book. The story (if we call call it that) have no substance. And what's up with this constantly weeping warrior? Just terrible. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ehh i wouldn't </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book has a bunch of the same boring dialog with the too much involved family and not enough of the main characters just getting to know each other and developing their relationship. was a really hard book to read tough to get beyond the first couple of pages. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Remus The Marius Brothers </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-21-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Oh my god this whole series has been amazing. Had my legs twitching like crazy. Keep on it dear lady. Makes me wanna send my hot stuff with MxM love. Mine are rp but sooo mmmm okok enough this hehe. Keep writing lady, you are so on track. I am buying everyone of them, just look at my invoice. (yes you permission to copy without the personal info) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hot Read </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-12-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Kidnapped, abused and left for dead was exactly what Noah experienced. You would think once he was rescued from the demons he would be safe, but for Noah the demons are nothing compared to facing his family.Noah is definitely damaged goods and he has every right to be. Even when his life is in turbulence he is still able to appreciate what others to do for him. He may not care for himself but it is clear that he cares for those whom help him. He definitely has a heart of gold, which has room for all of those who care to get to really know him.Remus is a big strong warrior who turns into a fluffy bunny when his mate is around. I love it! The Marius family has always been known as fierce warriors but who would have thought the huge man would be so compassionate. The immense amount of emotion Remus has for his mate as soon as he sees him is amazing.The story was full of conflicts which this developing couple, as well as the Marius family, faces without flinching, and these serve to show how much they care for one another. This family sticks together no matter what and now that Noah is part of it he gets to see it full force. While all of the main conflicts were wrapped up neatly in this story I did question the conclusiveness of a few minor situations, one being the conflict with the demons that kidnapped Noah to begin with. There was a semblance of a conclusion but I just would have liked to a little more follow up once Noah was found. Because these conflicts were minor in the grand scheme of the story the plot was still a thoroughly enjoyable experience. Plus the conflict between Noah and his father really trumped everything else.While the story itself was excellent the story had a few fundamental issues. For example a missing word in a few sentences. Also on a few occasions characters were referred to with the wrong name. It did disrupt the flow of the story because I would have to figure out inaccuracies so that I could understand exactly what the author was trying to convey.I think all-in-all this was a really good story with some great notable characters. Not only will the main characters remain with me for a while but so will the supporting cast, which I know I will see much more of in the future.Originally posted at Whipped Cream Reviews </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> went into it with high hopes </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-25-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> i was disappointed with this book. The beginning was great but as it progressed I got more and more disappointed. If he had so much money why didn't he just move out. And buying all those sex toys i mean for someone who just start to have it come on totally not believable. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A page turner </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-01-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I missed church yesterday. I kept saying one more page, ok I'll just finish this chapter. The story was funny, romantic, exciting, and suspenseful. I got nervous there when Noah got kidnapped by his brother and his crazy friend. the only thing I didn't really like that the main character who is this big time demon hunter would cry so easily. In short this book is well priced and it's well worth the cost. Buy the book. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

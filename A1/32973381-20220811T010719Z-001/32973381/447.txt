@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00A5DCCKI <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wow </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I wasn't sure how I felt about this book half way through. It wasn't quite like the others...wasn't sure where the story was going. But am I glad I continued! What a story!!! Brilliance, heroism, love, sorrow, epic battles...all written exceptionally well. Beautiful end! Absolutely recommend this series for young and older! You're going to want to start from the very beginning to make sure you get to know all of the characters. Definitely books I'll 're-read! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Thank you for your arrival! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have to say I am only 3/4 of the way through this book but it's everything I expected and more. Action packed, intricate, tying up all the loose ends and unanswered questions. I have been waiting for some time for this to come out as have many others I'm sure. They need to announce this book more publicly though. Since I am the first reviewer I'm sure others just are not aware it is out yet. I just happened to search for it as Amazon isn't always good about announcing the new books that I'm waiting for.Needless to say I cannot give a review on the full book yet as I have no finished it. Though I can say that thus far it's everything I've been waiting for! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> SOOOOO good </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-19-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved this series. It kept me interested and it was a lot of fun. I hope the author will write some more great stories. Enjoy! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Good Read </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> An interesting combination of all kinds of ancient peoples and beliefs, UFO's and other interesting real or imaginary materials.  I enjoyed the characters which were believable and engaging.  This is a young adult book, however I find that like Eragon and Twilight young adult books are faster paced and less tedious to read when I want to relax and read for pure enjoyment. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pretty good :) </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Okay, what a crazy, weird story. lol I ended up reading all the others in this series. lol Great angle on the alien stories. :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good trilogy </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Good entertaining read. Hope to see more sci-fy from Laurence in the future. It's always good to read fun, exciting stories and not have to worry about foul language lurking in the midst. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good ending to the trilogy </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Much more violent and many more adult themes than first book (in case your child wants to read it). Much better plot development than the second book. Interesting themes throughout - humanity, community, heroism, truth. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Enjoyed it, quite the surprise ending, no spoilers here.  Clean. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I always enjoy authors that try to write family friendly Sci-Fi.  This is no exception.  It does have a definite 'white man abused native american' slant to it, and a 'we are destroying the world we live on' slant to it.  This one was seemed much longer than the first two.  It was neat because about half way through the book you are thinking it is over, but then you glance down and you still have tons of pages left, which makes you wonder, &#34;What could possibly happen next?&#34;.  It just get's better after that.Very clean, a couple uses of the h word, no other swearing to speak of.  A few kissing scenes.  Some minor violence. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Oh my God what magnificent trilogy! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have just experienced a most moving and incredible journey created by an amazing computer programmer and author.  Laurence Moroney is a wonderful and talented author.  You Must buy this trilogy and read it, I couldn't put it down for three days as I read all three.  I loved it!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An absolute must read </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The end was so touching and heartfelt it made me cry . And so many had to die in the end it is just like a war . I wish this could happen to the earth to become unified </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Absolutely incredible!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I absolutely loved this last book of the series. It left my breathless, speachless and with a wet eye as the faith of my favorite characters are for ever changed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> As good as it can get </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the final book in the series. The first one was fairly good. The second one was quite good. This one goes beyond the second. It is nothing short of fantastic. All of the characters are very real. The books deal with issues of prejudice, hate and the fact that we should be one people united, not one people divided over loads of things that are not that majorly important.In this one the enemy aliens have one goal; destroy the Earth and kill every single human being on it. Opposing them is a mix of adults and youngsters from the training program, fighting together in a battle that is a desperate last stand in the finest traditions of such battles. The book also shows what we could be if we were willing to set aside petty disagreements.The series is highly excellent and is one of the few series that I would place on my must read list. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Finally for the Series </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've just completed the series and loved all three books. So why the 4 star rating? The age of the main characters. Since the series takes place over about two years the characters age of twelve at the beginning took away from, what to me, what was a very plausible storyline. I could truly see how this could happen in our world today.The characters seemed way too mature for their age. Yes, I know they were very smart, but twelve is still twelve. I think fifteen would have been a better age especially since several fall in love. Way off for being twelve.Other than that each of the books is very good. There is no sex or language in these books so would be good for teenagers also. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

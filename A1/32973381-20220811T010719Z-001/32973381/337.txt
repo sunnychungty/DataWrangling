@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1591844193 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-29-2011  
+<h2> review.text </h2>
+
+ <p> This beautiful business parable is one of the best leadership books I've read. Juicy content. Delicious prose. Actionable content. I sat down one afternoon to read the first chapter and didn't get up again until I had finished. Ben's week trying to convince a high-quality chair manufacturer to pursue a merger not only changed his life. It has changed mine. I had so many aha's about my own philosophy of leadership and how to engender peak performance from my clients. GET THIS BOOK IMMEDIATELY! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is at the top of my best books this fall! </p>
+
+
+<h2> review.date </h2>
+  09-26-2011  
+<h2> review.text </h2>
+
+ <p> I'm sorry to be the voice of cynicism here, and I'm sure many people will disagree with me. I found this book to be a little too "nice guys win" for the current state of business today.It's actually my entire problem with all three of the books in this series, and whereas the message is a NIIIIIICCEE one, it just feels a little too saccharin. The first book lays out some great laws, but the message seems to get more and more fantasy-land with each book.Granted- I'm from New York!This story surrounds a totally out-of-date and frankly out-of-touch business that seems to have no place in the real-world current market. It has a place in the world of the book, but it just seems like complete fantasy to me.I agree with many of the principles laid out here, and I would like to find the world where the chair manufacturer behaves like this company does, but in the world of Wal-Marts, I just don't believe it.The core message of the book- that business is not about you, but rather who you are supposed to be serving- is of course a good one to remember. I think it's easy to forget, and sometimes even easy to mistake.Please forgive me for the cynicism, it's just that the world of this book doesn't square with the experience I see in the marketplace. It made for some great reading, and I read it in two short sittings, eager to find out what was happening next. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Niiiiice book, a little too sweet for reality. </p>
+
+
+<h2> review.date </h2>
+  12-08-2011  
+<h2> review.text </h2>
+
+ <p> The "Go-Giver" series of books by Bob Burg and John David Mann are extraordinary. These books made a huge impact on me and the way I look at how I do business, since the very first one, and now continuing with "It's Not About You."It's remarkable how Bob and John are able to see us all so clearly...and to lead us through transformation just as effortlessly. The lessons aren't always what you expect, and that's what makes them so brilliant. The heart, the honesty, the understanding of the balance between giving and receiving that are present in the "Go-Giver" philosophy are what every entrepreneur and small business owner should strive toward."It's Not About You" is one of the best books on leadership that I've come across, and one that made me want to be a better leader, and dare I say, a better person. I keep this book close at hand because the wisdom is something I go back to again and again...and will, for years to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> As Poignant As The Other Go-Giver Books...Brilliantly Done. </p>
+
+
+<h2> review.date </h2>
+  09-20-2011  
+<h2> review.text </h2>
+
+ <p> Read the Go-Giver a couple of years ago and thought it was great. This book is even better. Sometimes authors are "one hit wonders" but not Bob Burg and John David Mann. They have developed another engaging parable - and bring your tissue. The story is compelling and you will get sucked in to the characters - all the while learning some important lessons (most likely learned early in life) but that we still fail to apply on a daily basis. The book is very motivational and a definite - recommend! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> They have done it again! </p>
+
+
+<h2> review.date </h2>
+  09-23-2011  
+<h2> review.text </h2>
+
+ <p> "The less you say, the more influence you'll have."So says Aunt Elle, eccentric mentor and perhaps the most memorable character, in bestselling authors Bob Burg and John David Mann's latest release, It's Not About You. A third in the Go-Giver series, this compact, powerful read follows the precedent set by their first book, The Go-Giver. Written in the easy teaching style of a parable, the book's story unfolds once again in Pindar's town and, while it centers on a mostly new cast of characters, there are cameos and subtle references to the earlier book that Go-Giver fans will have fun detecting.Reminiscent of Dale Carnegie's How to Win Friends and Influence People, It's Not About You focuses on influence by becoming a servant and leadership. It compares the general cubicle-job employee and manager's idea of leadership (manipulating and convincing people) to the true responsibilities of genuine leadership (making others' concerns a priority and maintaining strong character), while also demonstrating the long-term rewards of being a great leader.Some books we love simply because of their entertaining plot or intriguing characters; It's Not About You not only includes these elements, it also imparts timely and timeless leadership lessons by taking the reader on a transformational journey. Over the course of one week, Ben, the main character, tries to convince a struggling company to agree to a merger with his firm. Instead, he finds himself undergoing a crash course in leadership, from a variety of characters and life circumstances, that leaves him in a very different place by week's end.What makes the book so impactful is its way of storytelling that draws us in and lets us identify with Ben's journey on a personal level, making the lessons both easy to remember and readily applicable to situations in our own lives.Ben keeps a journal about the tips he gains every day, summarizing Burg and Mann's main points at the end of every chapter. This ordinary-man point of view keeps the book from being a lecture, allowing us to learn the lessons along with Ben and take them in as if they had come from our own personal experience.As the authors put it, "Leadership is not something you can put on and take off, like a set of clothes. Your capacity to influence is not something you can rehearse, like a speech in a play."Darren Hardy, publisher of Success magazine, hails the book as "a manifesto for twenty-first-century leadership." Dr. Mollie Marti, coauthor of The 12 Critical Factors of Business Success, calls it "[a] powerful story that will stay with you long after you turn the last page." Both descriptions work, and that is precisely the book's strength: whether you are looking for a solid guide to leadership or a moving human story, It's Not About You offers both. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Whether you are looking for a solid guide to leadership or a moving human story, It's Not About You offers both. </p>
+
+
+<h2> review.date </h2>
+  05-30-2013  
+<h2> review.text </h2>
+
+ <p> I bought this book about a year ago and read it in one sitting.  It is a simple little read and very inspiring.  I still think about this book and the characters quite often and it influences the decisions i make at work as a manager.  It is a shame that most people who like to call themselves "managers", "leaders", "supervisors", "executives" or whatever word you want to call them dont practice the basic theme of this book.  Work and the working environment would be alot different if they did. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute </p>
+
+
+<h2> review.date </h2>
+  09-20-2011  
+<h2> review.text </h2>
+
+ <p> Having read The Go-Giver and Go-Givers Sell More I had high expectations for It's Not About You.  I was not disappointed. It focuses on the Law of Influence and how important it is in building your business.  It teaches how to put others needs ahead of yours, not to forget about who you are as a business person, but that your main focus is to put your client's interests first.  It's Not About You asks important questions, forces you to reflect on how much you focus on your client's needs and is a great, entertaining story overall.  Bob Burg and John David Mann have successfully created another must have book for every business person's library. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Are you Focusing On Your Client's Needs or Your Own? </p>
+
+
+<h2> review.date </h2>
+  11-30-2011  
+<h2> review.text </h2>
+
+ <p> This book was fun, enlightening, and engaging... I couldn't put it down.  I personally enjoy parables... especially when they impart a powerful message. But what drew me to this book is when co-author Bob Burg on a Twitter chat (#SMManners) one evening shared the title... "It's Not About You"!  Wow I resonated with that!  And as I sat with that title alone, it provided me a wonderful opportunity to solidify and refine my approach both personally and professionally.  So after reading the entire book, I'm looking forward to contemplating the main character Ben's 5 keys to legendary leadership and exploring how I can further integrate them into my business practice!Read the book... discover the keys... and enjoy the process that follows! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This Book Holds Many Keys To Business Success! </p>
+
+
+<h2> review.date </h2>
+  12-28-2012  
+<h2> review.text </h2>
+
+ <p> This would be my favourite book of 2012! That's a tall ask I know, though its been written for each of us personally as it touches your business heart on so many levels. I thoroughly enjoyed it, it's a book to keep and one that I have referred to countless friends and clients. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Real life wisdom </p>
+
+
+<h2> review.date </h2>
+  11-20-2013  
+<h2> review.text </h2>
+
+ <p> Even the second time through, it just makes so much sense! Details over looked before, thoughts that connect more the second time. Don't buy this book to read it, buy this book to read it multiple time! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a great refresher </p>
+
+
+<h2> review.date </h2>
+  06-23-2013  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this business book for several reasons:1. It is short and succinct, just 118 pages2. The business advice is embedded within the narrative, which is a memorable parable3. The take-aways are summarized at the end of each chapter and at the end of the bookI suspect that many business tomes are never read cover-to-cover, because reading through pages of dense text in "business speak" can just bore you into a coma (and having read many of those during my MBA courses, I speak from great experience !) "It's Not About You" is quite different though - you will not be able to put it down until you've turned the last page.The story-line is that Ben, recently promoted into the Mergers & Acquisitions group, is given a short period of time to convince the principals of an old family run business to agree to be acquired. He attacks the challenge with a view to getting them to see things his way. While meeting with his friend Claire for advice, he also meets Aunt Elle. He tries to dismiss her as a curious old woman, but she starts to ask probing questions that cause him to rethink his approach to the challenge. She taught him that pull is the substance of influence - not push; and that the less you say the more influence you'll have; tact is the language of strength; place other people's interests first; the more humble you are the more personal power you have.There's a nice surprise finish to the book. You really don't know until the final pages whether the merger will go through. The business lessons were driven home by the parable in a very compelling way. The message of the tale resonates, and will definitely help you to remember the lessons learned. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Highly Readable Fictionalized Business Book That Resonates </p>
+
+
+<h2> review.date </h2>
+  09-21-2011  
+<h2> review.text </h2>
+
+ <p> As the title suggests, it is a short book - 120 pages.I love the title. Ties into the Humility Imperative site I spoke about earlier.The book is written "storybook style". Not my favorite style but i do know people learn from stories. And it is cute and well written.It tells the story Ben who learns a number of powerful business/leadership lessons:1. Hold the Vision - clearly I agree with this one. Vision is the first step to success.2. Build your People. Again, the only way to succeed is by leverage.3. Do the Work. Stating the obvious. Do the work to succeed. Work ethic was one of my competitive advantages.4. Stand for Something. And this does not mean just standing from more profit or more sales.5. Share the Mantle. Success always involves way more than the leader despite the popular business press often trying to make a hero out of just one person. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Title Says it All </p>
+
+
+<h2> review.date </h2>
+  09-30-2011  
+<h2> review.text </h2>
+
+ <p> Once again Bob Burg and John David Mann have written a book that has the ability to transform by giving you new ways for looking at life and business.  My favorite Aunt Elleism is going to be "he reacted, I responded".  Wouldn't the world be a better place if we all thought before we "re"acted and were able to give a response instead?  Give this book to everyone in your company and watch what happens! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The power to transform </p>
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> the book was okay.  Some good points made but not something I would rave to people and say they absolutely must read </p>
+
+
+<h2> review.summary </h2>
+
+ <p> story </p>
+
+
+<h2> review.date </h2>
+  09-20-2011  
+<h2> review.text </h2>
+
+ <p> I didn't realize it was possible to REALLY fall in love with a book...up until now! I would suggest clearing your calendar before you begin reading, because you won't want to leave.  The characters are so real and endearing and they leap from the page right into your heart.  The lessons this parable teaches go straight to the heart as well and seriously have the potential to improve businesses and relationships around the globe.  5 Stars are not nearly enough for this gem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Classic Before The Ink Was Dry </p>
+
+
+<h2> review.date </h2>
+  09-20-2011  
+<h2> review.text </h2>
+
+ <p> I listened on Audible.  The authors took turns reading chapters of this story.  They easily conveyed the powerful imagery through voice inflection and varying pitch.  They made it easy and fun to listen to.The main character, Ben, learns five keys to legendary leadership:1. Hold the Vision2. Build your People3. Do the Work4. Stand for Something5. Share the MantleThis is organizational leadership built on character and principles.  Thanks for showing us the way, Bob and John.If you likedThe Go-Giver: A Little Story About a Powerful Business Idea, you'll love It's Not About You! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Listened and loved it! </p>
+
+
+<h2> review.date </h2>
+  09-23-2011  
+<h2> review.text </h2>
+
+ <p> John David Mann and Bob Burg have once again collaborated on an AMAZING book.  The story was well written, easy to read, and filled with incredible lessons for everyone in their businesses AND their lives.This is one of those books that you should buy for yourself (today, if you are reading this review), and then buy for others as well.  Read it now, then again in a few months so you really get the insights. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW!  So many great lessons!  This could be Life-Changing for many! </p>
+
+
+<h2> review.date </h2>
+  12-02-2012  
+<h2> review.text </h2>
+
+ <p> After reading,The Slight Edge, by Jeff Olsen, we accepted his challenge to read at least 10 pages a day in a good (life improving) book.  This is just such a book.  It is written like a novel, telling a fun to read story following a man moving up in his company through the process of a semi-hostile business acquisition where he ultimately learns how to serve others to accomplish his heart's desires and so succeed in business and life.The book has a couple of storied links tying it to the authors book,The Go-Giver; which is also an excellent book written in the same novel style.  We keep both of these books in our personal library of self-mastery books and use them both as part of our home school curriculum and as tools to help others discover self-mastery. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Good Book and a Fun Read </p>
+
+
+<h2> review.date </h2>
+  05-31-2013  
+<h2> review.text </h2>
+
+ <p> As far as books go this might not be a top 10 book you keep coming back to but it certainly will be the book you refer to when you know you need a little more focus...and in the right areas. Much like many of my other 'self help' style books this is a great journey that really will get a good deal of use over the reminder of your personal and professional life.The story really ties together well with characters you can relate to, a situation we can all imagine or transpose onto our own lives and issues faced the we have all stared down. That makes this very easy to synthesis into our own issues.While I think you could easily read (or listen) to the whole book in one session I would like to think that this is better absorbed in bites that can be digested and savoured. I found myself reading a few chapters and then wanting to change the world as I applied the lessons I took from the experience. I cannot say that everyone will feel the same but certainly this is a book that if you do read it in one session you will be coming back again to get the texture and flavour of each chapter.Books like these have become very popular now..Soup, The Energy Bus, Who moved my cheese and Zapped (Last 2 are the older generation of this style) but it is easy to see why. Learning through storytelling (much like leading through storytelling) has become a whole field that is very effective. This book is no different and certainly up there with some of the best. I really took a lot out of this and have already felt the change (as well as seen the change) in my style back to the centre. If you are a leader and have potentially lost your way, or a leader that wants to stay on the right path then this is for you...in fact if you are an aspiring leader then here is a chance to get a head start on everyone else... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So now you tell me... </p>
+
+
+<h2> review.date </h2>
+  01-26-2012  
+<h2> review.text </h2>
+
+ <p> There are so many books about leadership, but this one stands out in telling the reader a story that dramatically illustrates how a person achieves the qualities of authentic leadership. The tale shows how to influence others and effectively lead them to actions that best serve the organization. The title, "It's not about you" is spot-on. The book leads to understanding five keys to "legendary leadership" summarized at the conclusion. Enjoyable to read with much to offer anyone who seeks to be a more effective leader! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A WELL TOLD STORY ABOUT BECOMING A LEADER </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

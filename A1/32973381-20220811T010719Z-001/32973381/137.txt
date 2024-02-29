@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00BKNMPHW <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Case workes well and still going strong with 6 mths of use by a 5 y/o. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Case is perfect for my daughter. The Stylus they sent us was red though not the pink like the case we bought. but the case works beautifully. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Four Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> great gift </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Rotating cover rocks </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the second of these cases that I've bought. The design is great; the rotating cover means I can prop up my Tab 2 7.0 in portrait or landscape mode. The color is brighter than I was expecting, but I'll get used to it... or it might darken with age and use. The black one on my other tablet is still going strong, with no obvious signs of use or wear. I expect the same from this one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's okay </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Fits my Galaxy Tab 7 perfectly, great protection in my opinion, but I have to hold it with my hand if I want my tablet to stand. It doesn't matter if it's horizontal or vertical, it won't stay put for longer than a minute before it falls. Besides that, I like this cover & the color (I got navy blue). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 360 Degree Rotating Cover Case for Samsung Galaxy Tab 2 7.0 7-inch Tablet,... </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Love it so far and it's doing the job. Great quality for the price, very versatile product and my wife and I both are enjoying them. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> this product fits my galaxy tab2 7" perfectly&#65281; </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> i bought this case for my mother's galaxy tab2 7&#34; tablet, it is in nice purple colour and it fits the tablet perfecly!it is easy to carry around, and my mom love the pen very much.but we do not like the screen protector, it seems not 100% for our tablet, it fits the 3100 model. but the size is right, and we are still satisfy with it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great case </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is what I keep my tablet in now, and it does a pretty good job of protecting it. It has not gotten damaged and the case has a strap so that it stays shut. It rotates pretty well and the screen protector actually stayed on and was somewhat easy to put on. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great package deal </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This case is very nice and sturdy, seems well made for the cost.  I love the fact the tablet can be viewed either portrait or landscape easily with just a turn of the case.  The case does have the typical smell that fake leather cases have, but after owning a few of these, I know it will go away after a week or two.  The stylus and the screen protector are just bonuses for how cheap this was. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I am satisfied </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Firstly, I must commend the seller for the delivery time. I knew that the package was coming from China so I expected a longgg wait. I placed this order on May 14th, 2013 and the estimated delivery time was June 10th! BUT I received it May 31st which I was quite happy about.The package came with a 360 degree case which fit perfectly well for my Samsung Galaxy Tab 2 (7 inch). It rotated properly there is the hole for the camera at the back which some other cases don't provide.Also included was a stylus which works well and small cloth the clean the screen on the Tab and one screen protector which i was mostly happy about the only thing i didn't like was that a small portion of the screen saver...at the edge of the screen won't stick  down completely but it still doesn't attempt to peel off or anything.The kickstand has 2 levels which works pretty good on landscape but with the portrait the higher level of the kickstand can't seem to find a balance on portrait but i guess it wasn't meant to work that way? but the lower level on the kickstand works really good.There is also a sort of elastic band which holds the case together while it's close.Overall, I am satisfied with this combo, it gets the job done is sturdy and for the price you can't go wrong! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Decent cover </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Cover is pretty good. I would of thought the leather would of been higher quality but considering it was directly from a factory in china I guess I should of seem it coming or checked to see if it was from the us or a us company </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Samsung Case </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Excellent quality and very good price.  Came with a screen protector and a stylus.  Sadly, the stylus was defective and only worked for a few hours. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Protection and Handy to Use </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> You tablet will be safer and easier to use in a case like this one.  It fits well, works well, and does the job, at a fair price.Very pleased with it, glad I have one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Satisfactory case with a few weaknesses </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The shipment arrived on time. Product is as described and of satisfactory, but not superior, quality. The folding design does not have a clasp to hold the folio case closed. The tablet snaps inside the case securely and the rotating case design works smoothly. But when tilted in any viewing position, the slightest bump causes the angled tablet to flop down and collapse flat; this is annoying but causes no damage. I was surprised that my sealed, new white case for Samsing Galaxy Tab 2 (7-inch) was dirty and slightly worn, inside and out, as though it had been used by a person with very dirty hands. The white outer case is fake leather and easy to clean, but the matching white interior color may not be a good choice, since the fuzzy, soft inner lining is difficult to clean. Good enough to keep, and the bonus screen protector, stylus, and cleaning cloth add some value. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works just as described! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great cover!  Love the ability to rotate for whatever angle is needed.  It protects the tablet, looks great & is very convenient. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Meh </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It blocks the remote control function on it because of the overlapping case. No fix for it rather than buying a new case or cutting away the material blocking it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice Galaxy case </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nice look and feel.  Drawbacks are not very stable when standing the tablet at the tallest upright postion, tends to fall over.  Other possible draw back is there is no place to actually store the included stylus, so have to hook it on the outside of the case. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This was a gift for my niece and she LOVE IT </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Exactly what my niece did want. She told me that the cover fit perfectly on her Tab and that she LOVE IT :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Standard Functionality for the Price </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this for my mother's new Galaxy Tab 2.0. I love the colour and the design was aesthetically pleasing enough. It was definitely better than the other stuff available. I also found the price to be reasonable and I liked that extra value was added (stylus + screen protector). From trial and error, we were able to figure that one groove was best for landscape orientation while the other was best for portrait orientation. If the wrong groove is used, the tablet falls backwards.Pros:- The tablet fits securely into the grooves of the firm tablet-holder- Swivel feature is great- Space has been left at the side of the tablet to ensure that the 'wake/sleep' and volume buttons can be pressed- The stylus does work- There is a strap that holds the cover together once closed, unlike other covers that can swing open at any pointCons:- The cover is not meant to be folded back while using tablet in palm. The swivel feature in this case is annoying- Closing the cover does not put the device to sleep- There is no where to actually store the stylus. We just hook it on to the cover like a normal penOverall, we are both happy with this product. It loses one star because it's not perfect. I'd still recommend it over any other. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> looks nice </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> perfect size and price, I bought this as a gift and looks pretty nice, so far the persona that received it is pretty happy with my gift </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> OK product </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The screen protector came bent because it was in a paper envelope. The case itself doesn't fit very well. I guess that's to be expected for this price range. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> FINALLY </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I finally found a case that my tablet snaps into instead of slides in. My previous case you just slid the case in and it was far from stable. I do, however, wish the rotating part was constructed differently because going &#8594; that way is heavy and the tablet falls sometimes. It is impossible to use it  &#8593; that way. Otherwise it would get 5 stars. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My wife loves this case </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This case works for every situation or position. It protects the tablet very well. It is durable and the stylus/tapper is nice for touching smaller areas in games or typing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 360 Degree Rotating Cover Case for Samsung Galaxy Tab 2 </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I Buy this product for my brother, he like it very much all i can say about it.....100% Good. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> not bad </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> decent quality, not keen on its swivel but i can deal with it. but it was well put together. I think my issue is mostly i should have got one with out a swivel </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Decent case with a few issues </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This case is good fits well case snaps right into place.My biggest issue with this case is that the tablet has an ir sensor to control the tv yet the case was not built with this in mind...which means that you have to remove each time you want to utilize this feature.The grooves to make this tablet stand are not built well, the grooves are misalligned and the tablet just slides right out of the slits. This case is good for protection but the swivel feature & the standing feature are all but useless. (Ordered 2 same issues for both.) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Its does it's job </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's not a bad cover, but it looks too simple. Not sure where I can put the stylus and I wonder if there is a proper place to keep. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great case </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Purchased for my niece she loved it it was the perfect size and added protection. Great value will definitly purchase again in a different color. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Flimsy...but okay. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this for my Samsung Galaxy Tab 7&#34;. The fit is perfect. The color is a soft pink, though there appears to be batch variations. As the one purchased for a friend was a bit more of an intense pink. The two horizontal angles are good for TV watching. The vertical angles are best for when the device is resting on a table. The cardboard used in the construction seems to be flimsy. It's a shame, because the overall design, versatility, a look are above average for me.I especially liked that the set included a screen protector, pen, and folio cover. When applying the screen protector, clean the screen really well and mist the screen with a little water. Similar to how ArmorSuit is applied. This will help to reduce bubbles. When applying the screen protector, clean the screen. I am not sure I would make the same purchase again, but I will not return it. If I did purchase another one, I would get one that made holding it in its case more comfortable. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It protects the tablet </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> But its bulky, hard to use the camera.  The stylus that is included is junk.  I would have preferred the thinner fold only model. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Tablet. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Love love it.  Everything about it.  Took a min to realize that it would stand up.  I am so spoiled to coming in office and jumping on desk top.  Well tablet is not getting alot of use yet. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

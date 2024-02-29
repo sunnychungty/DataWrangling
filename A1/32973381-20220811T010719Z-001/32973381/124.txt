@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B007ZGAL6U <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-14-2013  
+<h2> review.text </h2>
+
+ <p> Ordered these in Pink....I thought it was only 1 got 2 of them..there Great for the price! love the color too!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love My Pink Smart Cover!! </p>
+
+
+<h2> review.date </h2>
+  08-28-2013  
+<h2> review.text </h2>
+
+ <p> I purchased this as a gift to my mother for Mother's Day and she loved half of it. My qualm is the front cover is obviously not an official Apple cover and performs very poorly. It does not latch properly, does not lock/unlock the screen as it lacks the magnets to do so, and has a gray underside as opposed to being pink on both. Overall, this case is a nice combo, but not if you are looking for functionality out of the front cover. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great back protector, terrible front cover </p>
+
+
+<h2> review.date </h2>
+  11-21-2012  
+<h2> review.text </h2>
+
+ <p> It's cheaper than the Apple iPad case, and does exactly what it's supposed to do.  I bought this case, and a  KHOMO DUAL CASE: Black Polyurethane Smart Cover FRONT + Black Rubberized Hard Back Protector case for a friend, and I'll have to admit, I like his better!  His was a flat black back, not the crystal.  It has a better feel; this feels a little cheaper.  I do like that it snaps on and off easily so I can clean it when needed.  I've had it for 6 months and I have noticed that the stand isn't as strong as it used to be (it was never really strong to begin with), so I recommend getting a separate stand if you'll be typing/tapping on it while it's at an angle.  I did get it for about $10, so for that price, it's a great case.  I don't think I'd pay more, though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice case </p>
+
+
+<h2> review.date </h2>
+  12-04-2012  
+<h2> review.text </h2>
+
+ <p> Pecfect fit!!! Great for my iPad 4th generation! You will love this product and price is just right! Can't complaint about anything yet but would recommend this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute! </p>
+
+
+<h2> review.date </h2>
+  01-08-2013  
+<h2> review.text </h2>
+
+ <p> I liked the case but it kept turning my screen off. Couldn't use my iPad when the case was on. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No Good </p>
+
+
+<h2> review.date </h2>
+  12-30-2012  
+<h2> review.text </h2>
+
+ <p> The only thing I don't like is its price; the 50% of its current price is th ideal value for the product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good quality product </p>
+
+
+<h2> review.date </h2>
+  12-16-2012  
+<h2> review.text </h2>
+
+ <p> This works great with our girls new iPad. Love the smart cover. Works great. Would definitely recommend to anyone else. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Case </p>
+
+
+<h2> review.date </h2>
+  04-12-2013  
+<h2> review.text </h2>
+
+ <p> Why waste $50 on the Apple brand version of this when you can find one that does the same thing for way cheaper? Works great, no problems at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great, way cheaper than Apple brand </p>
+
+
+<h2> review.date </h2>
+  09-02-2013  
+<h2> review.text </h2>
+
+ <p> Fits well and I like the color but it frequently puts my iPad to sleep when the cover is open. Can be annoying. If not for that, it would have five stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's only okay because... </p>
+
+
+<h2> review.date </h2>
+  01-05-2014  
+<h2> review.text </h2>
+
+ <p> This case is cute and looks great.  It is not too sturdy though.  It comes out of the case when you try to fold it to use the stand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Case </p>
+
+
+<h2> review.date </h2>
+  06-13-2013  
+<h2> review.text </h2>
+
+ <p> This is just as nice as the big name brand, and at a better price. My daughter also has an iPad, but her name name brand cover doesn't have a back to it. She was so surprised that mine worked just as well, and protected the back, too. Loads of color choices, too. I think I'm going to get another color, "just because". My advice? BUY IT! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent cover! </p>
+
+
+<h2> review.date </h2>
+  06-02-2013  
+<h2> review.text </h2>
+
+ <p> This turns the iPad on and off, and first the newest iPad perfectly. The stand works great. It was a gift for my mom and she loves it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works perfectly </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

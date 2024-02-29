@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B007W7PJ78 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-06-2013  
+<h2> review.text </h2>
+
+ <p> and it certainly lights up things. Use it for your Kindle or regular books. Works good, takes some pressure to turn on so doesn't look like it will turn on accidently. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's a light, </p>
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> Lightweight and works to light my Kindle reader (wish I had a paper white one tho).  I would definitely recommend this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VERY NICE LIGHT! </p>
+
+
+<h2> review.date </h2>
+  03-09-2014  
+<h2> review.text </h2>
+
+ <p> Bought this for my mom, as she broke the light on her Kindle Keyboard case.  The price was a bit steep I thought, but it absolutely gets gets the job done.Build quality seems solid and it feels like it would handle a fair amount of abuse. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bright Light </p>
+
+
+<h2> review.date </h2>
+  01-15-2014  
+<h2> review.text </h2>
+
+ <p> This is not your spot light, but it does the job if your in a low lighting situation, go for it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does OK </p>
+
+
+<h2> review.date </h2>
+  06-01-2014  
+<h2> review.text </h2>
+
+ <p> Was on a trip and would use it to get up at night and go to the bathroom.  I have even used it on my Kindle and it is great for that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Multi uses. </p>
+
+
+<h2> review.date </h2>
+  02-08-2014  
+<h2> review.text </h2>
+
+ <p> I paid $20 for it a year ago and it still works fine. I use it on a Kindle, and also make use of it as a keyboard light on a laptop PC. It is just a small LED which gives a small area of light, but enough for my needs. Sturdy and descent battery life (I get about 14-15 hours out of a pair). Batteries are pretty cheap if bought in bulk. Very good product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Happy with this purchase </p>
+
+
+<h2> review.date </h2>
+  12-19-2013  
+<h2> review.text </h2>
+
+ <p> I like to read late at night. This was the perfect thing for me. It attaches right on my case and the adjustable neck is great. The only thing I wish for is that it came with an extra battery! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for low to no light reading! </p>
+
+
+<h2> review.date </h2>
+  03-21-2013  
+<h2> review.text </h2>
+
+ <p> This light is BRIGHT!!! If I try to read while my husband is sleeping, it will immediately wake him up! However, there are a number of good points. I read every single night for at least 30 minutes. Have had this light for 4 months and it is still going strong. The black color matches my kindle exactly! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Light is very bright but works well </p>
+
+
+<h2> review.date </h2>
+  04-04-2014  
+<h2> review.text </h2>
+
+ <p> Ezcellent very last very long time and battery replacement is simple I have tried many and this one is by far the best on the market today very powerful it just can not be beat. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Best There Is! </p>
+
+
+<h2> review.date </h2>
+  12-18-2013  
+<h2> review.text </h2>
+
+ <p> When I received this light I looked at it and said how is that tiny light going to work?  I had just shut down my computer and shut off the lamp and the room was quite dark. I dropped my phone and turned on the little light to see if I could find it, and WOW, it was brighter than my flashlight!  Love this thing </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic little light </p>
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> It's cheap and it does the job, but it's not the greatest either. For one, the light isn't very evenly diffused on the kindle, so reading in bed with the light off is an uneven experience - the glare off the kindle display makes the center easy to read and the edges much less so.The clamp is adequate, but it does slide around a little. I suppose any tighter and you'd risk marring the finish.It's a decent alternative to those lighted covers, and you get what you pay for, but it's not perfect. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad, but not ideal either </p>
+
+
+<h2> review.date </h2>
+  02-22-2014  
+<h2> review.text </h2>
+
+ <p> The intensity varies a bit with battery age as you would expect but it never bothers my wife at night when I read in bed.  Battery life is very good and replacement batteries are cheap on Amazon.  Much lighter than the double  A battery lights offered here.I have purchased three of these.  Switch went bad on one after several years.  I bought a new one and keep another as reserve out of fear I might have to go a night without reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great light </p>
+
+
+<h2> review.date </h2>
+  01-12-2014  
+<h2> review.text </h2>
+
+ <p> This is a simple straight forward solution.  There is plenty of light.  I bought two for different Kindle versions used by our family.  Just clip it on and you are good to go! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as advertised </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

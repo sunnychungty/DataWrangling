@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00008WIX5 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-20-2010  
+<h2> review.text </h2>
+
+ <p> So you say you want to get those follow shots, trucking shots without zooming, or Hitchcock zooms but simply do not have the money for a professional dolly? This is your solution! It's cheap, fits almost any tripod (excluding tripods with really large footprints unless you don't fully open the legs), rolls easily over hard surfaces and carpet alike, and even has brakes on the wheels for steady shots. I think this is such a cool little setup, and the shot options it can give your video for such a low price really makes it worth while. I personally have one large heavy tripod for still shots and a medium lighter tripod that I leave attached to the dolly (the dolly will add stability to a less well built tripod), and I find it really gives me lots of possible options. If you are even considering dolly shots in your pictures at some point and time but wrote them off as impossible or simply decided to freehand them, buy this and you'll find a cheap option to make those shots professionally and easily! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A well-priced inventive dolly solution! </p>
+
+
+<h2> review.date </h2>
+  02-02-2012  
+<h2> review.text </h2>
+
+ <p> We were looking for a cheap way to shoot some dolly shoots. The tiniest imperfection of the floor transmits to the camera and vibrates same. One of our guys is trying to adapt fat, soft, wheels to this to see if that modification will improve things. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For video, use only on the smoothest floors </p>
+
+
+<h2> review.date </h2>
+  04-28-2013  
+<h2> review.text </h2>
+
+ <p> Convenient but one of the points that secured the tripod cam loose trapping my tripod leg in.  Had to use paper and crazy glue to reattach </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ITs okay </p>
+
+
+<h2> review.date </h2>
+  09-21-2012  
+<h2> review.text </h2>
+
+ <p> Well built and a good price.The stock wheels transmit every little bump to the frame and thus, your camera. Out of the box this dolly is for convenience in moving equipment, not for performance during camera-in-motion shots. I intend to change out the wheels for 6" pneumatic casters as Andrew did in his video review. Seems like an inexpensive modification which still keeps the price low compared to other packaged solutions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well built and convenient, modifiable for better performance </p>
+
+
+<h2> review.date </h2>
+  06-27-2010  
+<h2> review.text </h2>
+
+ <p> This product is nice. The construction is solid, and the wheels are heavy. But don't be thinking that you're going to get jitter-free shots with this dolly on older hardwood floors or unpolished concrete. Any imperfection in the surface will be visible in the frame when the wheels roll over it. But it's cheaper and easier to set up than tracks, and for the price you pay, you can get acceptable to very good moving shots with this dolly on smooth solid surfaces and on some carpeted floors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sturdy and smooth. </p>
+
+
+<h2> review.date </h2>
+  08-25-2009  
+<h2> review.text </h2>
+
+ <p> I have found the Tiffin W3 dolly with 3 inch wheels smooth rolling over grouted tiles,easy adjusted for different tri-pod sizes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must for studio situations. </p>
+
+
+<h2> review.date </h2>
+  10-29-2010  
+<h2> review.text </h2>
+
+ <p> Has a strong build, but is it sensitive. Don't get me wrong, it does the job, and long as you're not trying to move too fast with it, you should be fine. As most other reviews say, only good for smooth, even surfaces. I used it in my kitchen with linoleum flooring, ever so slightly raised simple square pattern design, and yes, you could notice how this made the video playback jump or seem bumpy. On second thought, when testing this again, same flooring and moving a little slower with it, was much less noticeable. I think the camera stability control took care of any uneven bumpiness. Using a canon vixia hf s10; not revered for it's image stability control, but at a slower pace it works.This thing is great on tiled wood flooring and carpet. For carpet, I tried two different kinds, one very smooth, short haired - worked great; and the other, little thicker and more coarse (plus the dogs tore it up so there's some scratched up fibers, rough patches, etc) - worked very well. Granted some of the thicker rough patches gave it some tiny trouble, but not much.Bottom line, you get what you pay for. Don't expect miracles to be made with this thing, but it's good for small productions and/or student work, long as it's all on smooth surfaces. If your camera has stability image control, slow down the speed of your tracking shots a little, and the stability control should take care of the rest. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Eh, get what you pay for. </p>
+
+
+<h2> review.date </h2>
+  11-11-2010  
+<h2> review.text </h2>
+
+ <p> You can't beat a dolly for this price and quality. It's like buying a dolly from Wally World without Wally World's quality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Value </p>
+
+
+<h2> review.date </h2>
+  01-23-2014  
+<h2> review.text </h2>
+
+ <p> It arrived on time and in brand new condition, just as advertised.  I have used it a couple of times and it has performed well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Camera Dolly </p>
+
+
+<h2> review.date </h2>
+  05-21-2013  
+<h2> review.text </h2>
+
+ <p> The wheels have lumps that cause the video camera to jump very slightly as you slide.  Not good for professional looking shots. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent, but has 'bumps" </p>
+
+
+<h2> review.date </h2>
+  10-23-2010  
+<h2> review.text </h2>
+
+ <p> This is terrific for holding your tripod stable, and allowing you to move it easily.  Here are my pros and cons for this product:Pros:SturdySteelEasy to lock tripod legs inFolds and easy to storeMake moving tripod around a breezeGreat for panning shots over super-smooth surfacesCons:Don't try moving shots over anything bumpier than smooth glassWish wheels had a little more give so that every bump isn't transferred to the camera; maybe something like urethaneThe price changes are all over the map!That's about it for the cons, but not being able to do panning shots is a big disappointment.  However, the portability *almost* makes up for it.In summary, get it for its construction, but be careful about the surfaces you want to roll over while shooting.  Your videos will look like you're nervous. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good! But... </p>
+
+
+<h2> review.date </h2>
+  04-11-2010  
+<h2> review.text </h2>
+
+ <p> Because of the low price I was hesitant to get it at first. After reading the reviews I decided to go ahead and get it. The quality is very good, it is simple to install on your tripod and turns same into a professional studio tripod. I have already used it in a studio session (I don't think outside would be where you want to use it)and wonder how I could do without it for so long. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to use. Excellent quality. </p>
+
+
+<h2> review.date </h2>
+  06-05-2010  
+<h2> review.text </h2>
+
+ <p> Quite happy with the product, very sturdy, excellent wheels, well worth the trouble for anyone who does video and is on a budget. Will it stand the test of time, only time will tell. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> First Impression </p>
+
+
+<h2> review.date </h2>
+  03-09-2009  
+<h2> review.text </h2>
+
+ <p> Hello Dolly,Where have you been all my life?This is a well made and easily set up.Makes moving your camera and tripod effortless.The wheels lock firmly into place making your tripod very stable.When the wheels are unlocked by the touch of your toe the dolly rolls really smooth...I wont set up without it.Nice Dolly / Nice Price / Way better than strapping on roller skates :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hello Dolly </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> I like the Tiffen Universal Folding Dolly with handle.  However, it doesn't come with a carrying bag which &#34;sucks&#34; because all other sellers I've researched &#34;the Ravelli&#34; offer a carrying bag to safeguard the dolly.  And, makes it some much easier to transport.  I also found a lower price for the same item.  So, I'm a little disappointed with the purchase, but more than satisfied with the quality of the tripod dolly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "A little disappointed"  great dolly but no carrying case? </p>
+
+
+<h2> review.date </h2>
+  08-04-2013  
+<h2> review.text </h2>
+
+ <p> This is the second one of these dolly's I've ordered, and i was very happy with the first one. Nice and sturdy.  But when this one arrived, it was a totally different brand. I didn't bother sending it back as the one I got worked just fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the one I ordered... </p>
+
+
+<h2> review.date </h2>
+  10-21-2011  
+<h2> review.text </h2>
+
+ <p> This product was far more than I expected!  It is very durable and is a very nice product.  I was shocked at how great the stand was. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Nice </p>
+
+
+<h2> review.date </h2>
+  10-20-2010  
+<h2> review.text </h2>
+
+ <p> I have spent a lot of time looking for a simple and easily portable dolly. Tiffen, Opteka, and Ravelli all make affordable dollies but they all lacked one option any camera operator needs for a dolly, pneumatic wheels. I was impressed by a product called the "Orbit Dolly" but the price is ridiculously high (starting at $1700). The "Orbit Dolly" is the only dolly I found that had a pneumatic wheel option, and it's an extra $300 option at that. That is way to expensive for such a cheap to manufacture part. So I set out to buy an affordable dolly and add my own pneumatic wheels.There are two main differences between this dolly and the "Orbit Dolly". First, the "Orbit Dolly" has interchangeable wheels. You can switch the wheels from a hard acyclic to a soft pneumatic rubber for use on both hard and Carpeted surfaces. Second, the "Orbit Dolly" can be calibrated to move in a circle or arc around the subject your are shooting. Those are both nice features but hardly with the $2000 proce tag.The Tiffen dolly is easily capable of mimicking the "Orbit Dolly" (minus the adjustable arc setting) with one do-it-yourself upgrade. I didn't want to or really have $2000 to spend on what to me is a very simple piece of equipment. So I ordered this dolly with the intention of adding pneumatic wheels. I began to hunt the internet for a company that sold pneumatic casters that would be compatible with this dolly. I found "Caster City" located in California. Now the casters cost $100 dollars more then the dolly for a combined price of $200. But it's worth the difference in price between this and the "Orbit Dolly".After I ordered the wheels I went to the hardware store and purchased three 1/2 chrome plated nuts, three locking washers and three regular 1/2 inch washers along with a 1/2 inch drill bit for drilling metal.I removed the original wheels, pushed the tripod leg locking brackets back about an inch and drilled out a 1/2 inch whole where the original wheels used to be mounted. Then I placed the locking washer on the new casters, ran the 1/2 by 1 and 1/2 inch threaded bolts of the new casters through the whole and placed the regular washer on threaded bolt and tightened the 1/2 inch nut onto the bolt. It works perfectly and now I can use the tripod on both hard and soft surfaces with out having to worry about the dolly bouncing or hopping on different surfaces.The dolly is light weight and made mostly of aluminum and some plastic. The legs expand and lock into place with a spring mounted pin for two of the legs, the other leg is permanently locked into place. The legs easily collapse back in to place by releasing the locking pins. The center of the unit has a handle for easy portability and storage.I highly recommend purchasing this dolly as well as adding the pneumatic wheels. I do not regret it, and I will be purchasing at least one more of these dollies which I will also upgrade. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Dolly, But I recommend one DYI upgrade... </p>
+
+
+<h2> review.date </h2>
+  08-03-2013  
+<h2> review.text </h2>
+
+ <p> I have a large commercial studio-- if it weighs a lot -- PUT IT ON WHEELS--I have purchased  6 of these for rolling video platforms and boom Speedotron heads </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Studio requirement </p>
+
+
+<h2> review.date </h2>
+  08-31-2013  
+<h2> review.text </h2>
+
+ <p> Bought this dolly as I was tired of constantly picking up my tripod for fine adjustments, and carrying around.  I work in a large building, and being able to just roll my equipment around is a big help when having to go across the building.  I can just mount the tripod and camera, hang my bag under the tripod, and roll it while my other hand can carry any large and bulky items.  Great price, VERY sturdy.  Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love it </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

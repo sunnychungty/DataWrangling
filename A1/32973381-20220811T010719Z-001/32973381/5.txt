@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00009R8DD <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-04-2009  
+<h2> review.text </h2>
+
+ <p> Works great. I see alot of people end up taping velcro to their flash because they dont like adding the task of taking this simple velcro piece off. Simple solution. Leave it on like the taped velcro you would put on. Plus with this you can take it off easily and your flash still looks awesome. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for its application </p>
+
+
+<h2> review.date </h2>
+  03-23-2007  
+<h2> review.text </h2>
+
+ <p> It works, is better than sicking Velcro stickers to the flash and the rubber backing is tacky and will hold it in place.BUT I think a Sto-Fen (do an amazon search for it) that you trim the top off and stick Velcro stickers to the Sto-Fen would work better. It would be more stable and less prone to slipping.Also in those times that you need to prep everything and start shooting quickly. You could get the mod'd Sto-Fen on faster than this strap and get shooting in half the time. Yes we are talking seconds faster but that could mean the difference of a great shot or no shot.It would cost more than this strap, but the few extra bucks would make a better holder.I plan to make one. When I do and if I remember I will write a follow up on it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works but.... </p>
+
+
+<h2> review.date </h2>
+  01-11-2007  
+<h2> review.text </h2>
+
+ <p> The Lumiquest Cinch Strap is a great addition to my photo gear.  This is my preferred method of attaching my Lumiquest SoftBox and my Proxax System to my flash.  I'd much rather use this than adhering anything to my flash.  Someday I will sell the flash and I do not want to sell it with any glue residue adhered to it.  This product works as advertised. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cinch Strap </p>
+
+
+<h2> review.date </h2>
+  01-05-2008  
+<h2> review.text </h2>
+
+ <p> The cinch strap is great, so you don't have to glue velcro to your flash.  It makes the diffuser more interchangeable, if you have more than one flash, or can let a friend borrow it for theirs.  Also, with velcro glued to the flash, I wasn't sure if it would still fit into its case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great alternative to adhesive velcro! </p>
+
+
+<h2> review.date </h2>
+  11-23-2010  
+<h2> review.text </h2>
+
+ <p>  </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ruining your day can be a cinch </p>
+
+
+<h2> review.date </h2>
+  01-29-2010  
+<h2> review.text </h2>
+
+ <p> I bought it to attach the LumiQuest Mini Softbox to a Nikon SB-400.  I works as expected.  The rubber underside of the strap grips strongly.  Since the SB-400 is "small", the strap almost wraps around twice.  The Softbox attaches as expected, solid.  The whole rig fits nicely on top of a Nikon D40 with no inteference.The Strap is a simple idea that probably could be homemade (velcro felt material on one side, triangle-cut rubber backing on the other along with a strip of velcro "hook/grippers" at one end...)  I'm glad I bought it though because the fit & finish is really good quality (matching the LumiQuest Softbox in build quality).A worthy purchase. I matches the LumiQuest products, but if I need another one, I'll probably just make one... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I like it... probably could have made one DIY! </p>
+
+
+<h2> review.date </h2>
+  05-09-2007  
+<h2> review.text </h2>
+
+ <p> This strap works as advertised without the mess of glue residues. It's a good addition and how I wish we could buy something longer for other uses ofcourse besides using it with lumiquest diffusers etc. etc. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as advertised </p>
+
+
+<h2> review.date </h2>
+  05-27-2008  
+<h2> review.text </h2>
+
+ <p> Like others, I didn't want to attach sticky velcro pads to my nice, new Nikon SB600 flashgun. The cinch strap does an admirable job of attaching the diffusion hood to the flash, but it doubles the assembly time. The soft rubber triangular pattern on the underside of the strap grips the flash body very well, but doesn't lock it completely solid. It does get displaced slightly after a few mins of manhandling the camera. If you put the flash on a tripod, this is not a concern, but if you're hand-holding the camera and moving about a lot, it might be.I have bitten the bullet, stopped using the cinch strap and just stuck the 4 pieces of velcro to the flashgun now. Much quicker to set up and holds the diffuser more rigidly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works, but is it really worth it? </p>
+
+
+<h2> review.date </h2>
+  04-05-2011  
+<h2> review.text </h2>
+
+ <p> Not sure how to review this product -- it's not the most excellent product ever, and does exactly what it's designed to do.  I think I may have overpaid for it.  Meh. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Um, a review? </p>
+
+
+<h2> review.date </h2>
+  11-16-2007  
+<h2> review.text </h2>
+
+ <p> if you have the lumiquest systems, this is a must have.  I was afraid that it would slide around maybe, but not at all.  ...and with this you can swap between flashes and/or not have to stick anything to your flash. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must have  accessory </p>
+
+
+<h2> review.date </h2>
+  07-03-2009  
+<h2> review.text </h2>
+
+ <p> Update at the bottom (04-dec-2009)I bough the Cinch Strap over a year ago and so far has worked not only for the Lumiquest products but for almost everything i wanted to attach to my flash. Considering that i bough this for the Pocket Bouncer, i can't imagine how it would be without this strap keeping it in place since i an event photographer and when you work in a fast paced environment you need to keep everything tight to its position.I must say the rubber isn't the best to keep it from moving, it does the job pretty well. I wish the strap was a bit more elastic so i would get a better grip. Thats why i only give it 4 stars.I received mine the first week of May 2008 and up to this day i use it in a everyday basis with absolute no regret other than i did not bough more than just one.Update 04-dec-2009:Now after 19 months of use mine still in great shape and almost keeping it's original shape, i never leave it at home when i have a job. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great item to complete Lumiquest products </p>
+
+
+<h2> review.date </h2>
+  05-19-2014  
+<h2> review.text </h2>
+
+ <p> These guys come in really handy for more than just attaching Lumiquest products to a speedlight!  I keep one of these in my camera bag at all times even though I permanently attach velcro to all of my speedlights.  One never knows when one needs some velcro on demand, and this makes it possible in an instant.Oh, and Lumiquest kind of rocks anyway.  I like their products in general and their warranties makes it easy to decide to check them out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Handy! </p>
+
+
+<h2> review.date </h2>
+  07-25-2013  
+<h2> review.text </h2>
+
+ <p> This is great for attaching accessories (like diffusers) to your flash without having something permanent or sticky added to the flash unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for attaching accessories to your flash </p>
+
+
+<h2> review.date </h2>
+  02-03-2010  
+<h2> review.text </h2>
+
+ <p> You could probably come up with something on your own that does the job- rubber bands, tape, etc. However this fits perfectly and you don't have to leave Velcro on your flash body. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cinch Strap </p>
+
+
+<h2> review.date </h2>
+  06-06-2008  
+<h2> review.text </h2>
+
+ <p> Use the LumiQuest Cinch Strap instead of the standard method of securing flash modifiers, (which is to attach small Velcro squares to your flash permanently).  To use the strap, you simply wrap it around your flash first, then attach your accessory to the Velcro side of the Cinch Strap.The rubbing backing which touches your flash, grips enough to ensure that your flash modifier stays securely on your flash.  You can remove the Cinch Strap at anytime and reuse it over and over.  The Cinch Strap works with all LumiQuest flash modifiers and is highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great accessory for LumiQuest flash modifiers. </p>
+
+
+<h2> review.date </h2>
+  06-22-2009  
+<h2> review.text </h2>
+
+ <p> If you are considering any of the Lumiquest products, this cinch strap is a must.  The included velcro is okay for a temporary fix, but not permanently (personal opinion).  I believe Lumiquest should include the cinch strap with the flash modifiers.  Just my .02 cents.  I had to purchase two because I have two flashes. Arghhh!  It works great though! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Essential for Lumiquest Flash Modifiers... </p>
+
+
+<h2> review.date </h2>
+  03-20-2010  
+<h2> review.text </h2>
+
+ <p> It's a rubber/hook and loop strap. It works fine. You can make one yourself if you go to a craft store. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Overpriced. </p>
+
+
+<h2> review.date </h2>
+  01-26-2011  
+<h2> review.text </h2>
+
+ <p> If you want to maintain the look of your flash using Lumiquest attachments this is the way to go. Easy to install and remove and has not failed me in the short time that I have owned them, (bought one for each flash I own). The attachments are very secure when using this strap. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Flash preserver </p>
+
+
+<h2> review.date </h2>
+  12-01-2007  
+<h2> review.text </h2>
+
+ <p> I bought this with the ProMax System and it just does not hold in place.  I did not want to put velcro on my flash but thats what I had to do.  I will still use this but only to keep the ProMax System tight on the flash. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Almost useless </p>
+
+
+<h2> review.date </h2>
+  06-23-2011  
+<h2> review.text </h2>
+
+ <p> I'm not sure you can give a piece of Velcro a bad rating, someone might. It works great with my gel holder, snugs up to my Polaroid 144az very well. If you don't want to put sticky velcro on your flash, but want to use a soft box or gel holder, this is for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It is what it is. </p>
+
+
+<h2> review.date </h2>
+  11-10-2010  
+<h2> review.text </h2>
+
+ <p> If you do not want to mark your falsh gun forever with glue and you are using accesories to disperse light this is the best choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Useful thing </p>
+
+
+<h2> review.date </h2>
+  02-07-2010  
+<h2> review.text </h2>
+
+ <p> Lumiquest Promax SystemThe product does what it is supposed to. If you are in a situation where there are limitations in bouncing (high dark ceilings for example), then the diffuser fixture facing forward works very well. The other reflector shields are less useful to me than the plain white one with the diffuser attached, but opinions may well vary here.It takes a while to get the attachment set up at the right angles on your flash, and the flash has to be kept upright all of the time, so your camera will be a bit taller than perhaps desired for all situations. The attachment should be set up before the photo event, since it takes time and attention not usually found in a quick candid moment. But, other than that, I found little not to like.The unit is a tad pricy, but my results have been so satisfying that I consider it worth the money. Definitely buy the cinch strap. It works, and saves time, and does not require you to stick Velcro tags on your flash (at possibly the wrong positions!).You will have to watch the video tutorials on the web to get a good feel for its proper use, since there is no manual at all - just a small, flimsy, badly printed piece of paper. The carton in which it comes actually has more helpful information on it than this paper. This is why I give it 4 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well worth the money and effort </p>
+
+
+<h2> review.date </h2>
+  09-22-2010  
+<h2> review.text </h2>
+
+ <p> Shortly after unboxing my new Nikon SB600, I began what had become something of a tradition for me these last 25 years: "The Fastening Of The Self-adhesive Velcro Tabs". A solemn ritual this, familiar to all photographers who use any of the myriad bounce flash, softbox, and other diffusers with their portable electronic flash units. Peeling back the release paper from the three furry strips, I precisely aligned each one to its exact intended position, and pressed them firmly home. Pausing to inspect my handiwork, there came a flash of horror at the thought of what I had just done. Not to put too sharp a point on it, but basically, I had just glued a three-piece 'fro toupee onto my brand new $300 Nikon flash. Talk about remorse! This is no $39 Quantaray; what the hell was I thinking? So maybe it wasn't the same as painting a mustache on the Mona Lisa, but still! Immediately I commenced removing said Velcro before the amazingly tenacious adhesive could cure. Still, it wasn't easy and it required a little Goof-Off solvent to restore the flash at last to its pristine, unmolested state.So the question remained...if not the fearsome Velcro strips, just how do I intend to fasten a LumiQuest pocket bouncer to this costly, new, and above all 'bald' flash? The idea came to me that I could obtain one of those wide, heavy duty rubberband like straps, place it onto the flash head, and glue 3 more Velcro strips to it in their correct positions. Which meant finding a place that sells those rubbery strappy things, fitting the flash with one of the correct size, and finally anteing up another $5 for 3 more Velcro strips. Someone, I thought, must have had to solve this problem before, so I began Googling (I say it's a word!) around the web. The search led me right back here to Amazon where I found the subject of this review, the LumiQuest Cinchstrap. I have to admit to some skepticism as to whether its triangular rubber patches would securely hold a pocket bouncer in place, but I pulled the trigger anyway. So how did it work out? Well, since my five minutes are almost up, let me cut right to the chase and tell you: This strap hugs the body of your flash like a grizzly bear! It could hold a beauty-dish firmly in place. And as for those that were apprehensive about fastening and unfastening the Cinch Strap all the time, there's a simple solution to that, too...just leave it on all the time! The worst that can happen is other photographers will recognize it and take you for the serious shooter you are. The best thing is when you finally DO remove it for whatever reason, your flash head will look just like new.Don't you love happy endings! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect solution! </p>
+
+
+<h2> review.date </h2>
+  07-01-2008  
+<h2> review.text </h2>
+
+ <p> I got this Cinch Strap in conjunction with the LumiQuest ProMax Mini SoftBox and the LumiQuest ProMax Pocket Bouncer and I personally feel that this is a great 'package' for shooting images of people in a room or outdoors.This Cinch Strap I felt beneficial as I did not want to place the included double-sticky-back hook-n-loop Velcro(tm) directly onto the flash head.This strap takes care of that issue for me in that it straps around the flash unit head and fastens to itself and then the various flash diffusers attach to it.I found the combined price and ease of use as well as aesthetics to be well worth it.It gets a great THUMBS UP!! from me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Cinch for LumiQuest products </p>
+
+
+<h2> review.date </h2>
+  02-11-2011  
+<h2> review.text </h2>
+
+ <p> This is a very useful and, importantly, non-destructive way to attach light deflectors or similar devices to a flash without leaving permanent marks or residue. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LumiQuest Cinch Strap - a better way </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1893196348 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-16-2007  
+<h2> review.text </h2>
+
+ <p> Boy oh boy, this was a great read!  One of the best I've read during the year!Laquisha - I loved the growth in her over the course of the book (even though I'm not feeling her name).  She knew when it was time to change the outrageous hairdos, attire and her outlook on life. I was so proud of her. She had definitely been "upgraded".  LOLAnd didn't she luck up meeting a kind, attentive doctor?  I kept thinking "he couldn't possibly be interested in Laquisha, they're from two different worlds".  It was beautiful that he noticed her potential.  Other than her daughter's antics, they had very little stress in their marriage.Tate - what a selfish son of a @itch. He may have had a successful career but his personality sucked.  I guess he heard the word "NO" from the females one time too many during his adolescent years.  LOLTate definitely met his match with the beautiful, Tangela. She was a bit neurotic when it came to loving Tate.  She lost herself for a moment but she bounced back when she decided to return to school and pursue her dreams.Daneisha - this child is the perfect example of a good girl gone bad. She's off the hook. All of her home training when out of the window once she discovered boys.I hope La Tonya doesn't make we wait long for her next book based on the trials and tribulations of Daneisha. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Introducing La Tonya Williams </p>
+
+
+<h2> review.date </h2>
+  06-28-2006  
+<h2> review.text </h2>
+
+ <p> In Make You Love Me, Tate Gibson, a fine, well-educated brother, will not commit to either Carmela, who wants a husband or to LeQuisha, who needs a father for her three children. Now that Tate, a real mama's boy, has most of the finer things in life and he seems to be a real catch for any woman, he decides to become a player and work his options to the max. He and LeQuisha have an on-again/off-again relationship because of the baby daddy drama. Then he meets Tangela, a virgin, who believes that he is her soul mate and will do anything to get him. So, he continues to have sex with the other women, so he can keep his virgin pure. When he decides to break it off with Carmela, she goes berserk and causes him serious problems. After Tate disrespects her, LeQuisha decides to better herself and goes back to school and life picks up for her and her three kids. But with a sizzling combination of sexual indiscretion and female competition, Tate gets caught up at first and then realizes that being a player is not what it is cracked up to be. Afterall, Tangela seems to be the perfect trophy wife.  And Tate has to make his own decision. LaTonya Williams writes a page-turning story full of love and decisions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Undecided </p>
+
+
+<h2> review.date </h2>
+  08-13-2006  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this book and am feelin the author also, keep doing your thing girl. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> make you love me </p>
+
+
+<h2> review.date </h2>
+  11-03-2009  
+<h2> review.text </h2>
+
+ <p> Tate Gibson is a true player and trying to juggle three women at the same time almost was his undoing. One of his "ladies" LeQuisha at first seemed to be willing to play herself just for the love of someone not worthy but in the end she seemed to grow up and really be a good person. Tangie Tate's other girl was young minded and at times just seemed to be annoying. Carmela was never truly a factor and I wonder why the author's synopsis ever really gave her any mention. This book was just ok it had no real WOW! factor or held any real special meaning. I mean the premise of player vs too many women has been done before many many times. The unfortunate death of LeQuisha's sister was a bit surprising but way unnecessary and I felt the author just threw that in for no apparent reason it didn't make the characters any more or less stronger. The sudden antics of LeQuisha's daughter was a trip and that might have been the best part. This book was just ok but still recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Read </p>
+
+
+<h2> review.date </h2>
+  06-18-2006  
+<h2> review.text </h2>
+
+ <p> There is no doubt that Tangela will cherish and save her precious temple for her future husband.  Goal oriented, she is a college student majoring in journalism and her parents couldn't be more proud.  The good reverend always knew that Tangela would make something of her life.  During a night of good food and fun at her friend Terri's wedding, Tangela meets what she assumes is her soulmate, Tate.  Will she have trouble keeping her promise to remain a virgin?  Has Tate finally given up his player card for this young beauty?LeQuisha has been dealt a rough hand most of her life.  Loaded down with three children and her kids' father behind bars, LeQuisha could use the assistance of a good man.  With only a high school education and a job at Dillard's Department Store, LeQuisha finally meets what she is looking for.  Tate is such a good catch.  With his hazel eyes, good paying good and great bedroom skills, LeQuisha will not stop until she makes him her husband.Tate can remember a time when no woman would look twice at him.  With his nerdy features, he knew that he would be a virgin forever.  After a quick 360 and a six figure bank account, Tate has to fight off women with a stick.  Trying to make up for lost time, he quickly sees that being a player is not what it is cracked up to be.  Tangela's good looks and promising career could be just the trophy wife Tate needs in his life.  LeQuisha can throw down in the kitchen and reminds him so much of his mama.  What choice will Tate make?  Will his choice be the right one or will he realize that being a player is just too hard to give up?La Tonya keeps her readers turning the pages with laughter, tears and pure erotic moments. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you don't love me, I will love myself </p>
+
+
+<h2> review.date </h2>
+  05-28-2006  
+<h2> review.text </h2>
+
+ <p> This was an excellent book from Ms. Williams. It was far better than the first book. I was hooked reading about Tate, Tangy and LeQuisha, Carmela doesn't actually have a lot of invovement in the story. Tate is a succesful, educated, sexy brotha,he was basically embarrased by Quisha, b/c she was "ghetto" at one point, waiting for a man to marry her and make her life better. LeQuisha really develops through out the story and turns out to be pretty decent, going to school and trying to better herself. Tate deals with Tangy even though she was a virgin, and gets her pregnant the first time, and that leads to lots of drama. LeQuisha gets her life together and finds new love, and a new career. This was really good story and the best part is there will be a spin-off about Daneisha, LaQuisha's out of control daughter! I am really looking forward to that! Good job Ms.LaTonya! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> She made me love it!! </p>
+
+
+<h2> review.date </h2>
+  08-13-2006  
+<h2> review.text </h2>
+
+ <p> I loved it and I can't wait until her next novel Messin Up.  Do your thang girl, do your thang.  You have a fan here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Go Girl </p>
+
+
+<h2> review.date </h2>
+  06-18-2006  
+<h2> review.text </h2>
+
+ <p> Tate appears to be all of that, fine, educated, built and he knows how to expertly put it down.  Coming up in a house filled with love, Tate didn't officially earn his player's status until he became more established financially.  Now that he's had a taste of the various pies, he wasn't ready to settle down with just one serving.LeQuisha works as a sales associate/nail tech and is a single mother that is desperately pursuing a serious relationship.  With kids, who wouldn't want a father figure and a husband?  Off and on rendezvous wasn't what she was after, but decided something was better than nothing.Tangela is a college student, pursuing a degree in journalism.  Self love and respect kept her from becoming too involved with men.  Instead she was waiting for marriage to bestow her precious virginity on her husband.Tate has his hands full at work as he adds juggling to his resume.  Although LeQuisha is more experienced and willing, Tangy is still in the race holding a few cards of her own.  Can Tate stop thinking with the wrong head in time to make the right decisions?In MAKE YOU LOVE ME the sex and desperation leak off of the pages.  Laugh, cry, associate with and pity the frolics some people are willing to do for love then ask yourself, what are you willing to do for love?MAKE YOU LOVE ME quickly entraps you like the daily soaps.  One minute you're caught up and the next you can't wait to see how it'll end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Who loves you baby? </p>
+
+
+<h2> review.date </h2>
+  04-03-2006  
+<h2> review.text </h2>
+
+ <p> I was so surprised by the ending- you know how to keep a person interested in reading your next book, too. I could truly relate to the issues that we see in our daily lives, of how people make mistakes not realizing how it affects other people. Truly a must read- I did in 2 days. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the Love Story the cover implies- the making love part is true though </p>
+
+
+<h2> review.date </h2>
+  06-18-2006  
+<h2> review.text </h2>
+
+ <p> Two women think that they have found the perfect man.LeQuisha is a hardworking single mother of three  Holding down two jobs, she's making it, but she sure could use the support, help and comfort of a man.  Tate Gibson is looking like the ONE.Tangela is a young college student committed to her studies and remaining a virgin until married.  After dating men that don't want to wait for sex, she is wanting a man that is willing to understand and wait.  Tate Gibson is looking like the ONE.Ladies man Tate has the best of both worlds.  He's handsome, has a nice job, a laid out condo, drives a BMW and can lay the pipe well.  What woman wouldn't want him?  In LeQuisha, he's found a woman that handles her business in and out of the bedroom, but her "ghetto" ways and children are hindrances.  In Tangela, he's found a beautiful woman with similar career goals, but her virginity and sometimes childish behavior is a turnoff.Long nails, fabulous hairdos and three crumb snatchers OR spoiled, youthful antics and clothes burning...which will be the deal breaker?LaTonya Y. Williams has given readers another solid effort with a mix of drama, jealousy, greed, love and lust.  "Make You Love Me" is a book worth reading from a writer worth watching. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Deal or No Deal </p>
+
+
+<h2> review.date </h2>
+  12-04-2006  
+<h2> review.text </h2>
+
+ <p> Make You Love Me is a very good book from beginning to end. It is based on one man and his many women. The author, La Tonya Y. Williams did a great job with the characters, plot and ending. I am looking forward to reading the sequel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good book </p>
+
+
+<h2> review.date </h2>
+  09-29-2008  
+<h2> review.text </h2>
+
+ <p> I enjoyed reading Make You Love Me. Lots of drama! This was the first time I was introduced to this author.  I am looking forward to the sequel or the next book (Messin Up).  I was surprised at how Tate ended up in the end. Lots of drama! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Bad! </p>
+
+
+<h2> review.date </h2>
+  05-15-2006  
+<h2> review.text </h2>
+
+ <p> Make You Love Me is a quick good read. The book is filled with drama...drama...and more drama...with the twists and turns, you will find it hard to put down. It will make a good book for discussion for book clubs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Page Turner You Don't Want to Miss </p>
+
+
+<h2> review.date </h2>
+  06-12-2006  
+<h2> review.text </h2>
+
+ <p> This was actually good. Tate ia playa for real.He bangs Carmela, in his and her office, but that's it.He bangs LeQuisha but that's it, or at least that's what he thinks. Even though he talks bad to her and she still claims her lvoe for him, after all she is a single mother, raising three well behaved kids who is lookng for a husband.He soon mets Tangy, a college student who is a virgin.Tate goes through all these women, until someone gets pregnant, someone gets fed up, and the otha he lets loose.This book is filled with drama, and women who want the fine man, with the good job and the good sex. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick read </p>
+
+
+<h2> review.date </h2>
+  05-12-2006  
+<h2> review.text </h2>
+
+ <p> What will a woman do for love???LaTonya Williams' second novel "Make You Love Me" is fiyah! I really enjoyed this book. The book centers around the life of Tate Gibson, a twenty something male in Jacksonville, FL who thinks, well let me rephase that "KNOWS" he is all that.  He is a senior claims rep @ a insurance company making 6 figures, drives a BMW, and has a condo on the beach. He has women throwing themselves at him left and right. He juggles 3 women at a time - LeQuisha the ghetto queen, Tangela the college virgin, and Carmela - his co worker. His cheating ways catch up with him and comes back to bite him. Will he settle down with either one of them? Will these women find out about the other women? If you love drama and suspense, Make You Love Me is definitely a book to add to your list. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> In the words of Jennifer Holliday - You're Gonna Loveeeeeee Me!!!!!! </p>
+
+
+<h2> review.date </h2>
+  04-20-2007  
+<h2> review.text </h2>
+
+ <p> Kudo's to Ms. Williams for this hot joint!!!She begins it with the introduction of our central character, a true playa-playa named Tate Gibson.  Tate has it going on and he knows it.  Good looking, single, no children, great job, sharp ride, the whole package, and every woman wants him.  The only problem is he's has too many willing and able ladies.There's the office affair, then there's LeQuisha, who's an around the way girl that he believes is beneath his status, but she fulfills all other needs plus she has three rugrats to boot.  Then enters Tangela, and she is all that he feels that he needs.Needless to say, there is an abundance of drama in this crazy mix brimming with sexual trysts, threats, lies, cheating, you name it, Ms. Williams has 'brung it!"Excellent job!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Back then they didn't want me, now I'm HOTTT, they all on me.... </p>
+
+
+<h2> review.date </h2>
+  05-27-2006  
+<h2> review.text </h2>
+
+ <p> Geek turn pretty boy Tate Gibson had the best of all worlds parents who love him, an apt on the beach, a 6 figure income,  and 3 lady friends who will do what ever it takes  keep him happy.  Lady # 1 LeQuisha has 3 children and is looking for  a daddy and a husband.  Lady # 2 Carmela, works for Tate, but thinks with the money they both make they could have a wonderful life together.  Lady # 3 Tangela (Tangy)  is a preachers kid, college student, and a virgin.It's an ill wind that never changes, however as Tate decides it's time for changes in  he his life.  His life has spun totally out of control, he is on the Virge of loosing his job, all of his buddies have turned in their player cards.La Tonya  gave us drama, twist, and more drama from start to finish, but at the same time a  lesson in how we as ladies  allow ourselves to be mistreated.  The characters and sub characters reach out and grab you til you feel as if they are your sisters, mothers, cousins and best friend.Read Make You Love Me by La Tonya Y Williams you will laugh, cry and just get down right pi@@#*. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too Little, Too Late </p>
+
+
+<h2> review.date </h2>
+  03-30-2006  
+<h2> review.text </h2>
+
+ <p> Latonya Williams is back on the scene with a page-turning new novel titled Make You Love Me.  Main character, Tate Gibson is the cat's meow.  Attractive, intelligent, barely 30 and making at least $70K annually, he is a good catch to most women and has three desperate women on his belt notch to prove it.  Reared in a two-parent, middle income, loving, Christian home, there is no explanation for Tate's bad boy, wayward ways.  Unless you count-his desire to sow his wild oats at all cost, his mama boy persona, or the women who so eagerly allow him to abuse them with his cheating, non-committal ways. Each of the women in his life is out to make him love only her but is he really worth it and at what price?Meet LeQuisha, single mom of three trailed by an eternal cloud of baby momma drama and working two low-wage jobs to support her family.  Tate represents her dream man the one that she will sacrifice her kids for if it means she can become Mrs. Tate Gibson.  Surprisingly, LeQuisha does want to better her lifestyle and has returned to college to advance her career while she waits indefinitely for Tate to want her as much as she wants him.  But, there is something about Tate that makes her do wrong when she wants to do right.Tangela is every player's dream, fantasy women.  She is young, sexy, naive, college-educated and childless and a virgin; with the latter being Tate's primary attraction to her.  When he is ready to settle down, Tangela is the type of woman he envisions spending the rest of his life with.  In the meantime, he has two other women to meet his sexual exploits and will go to any means to keep Tangela from finding out about either of them.  What he does not realize is that Tangela might not be as innocent as she leads on to be.Finally, there is Hurricane Carmela.  Think Glenn Close in Fatal Attraction multiplied exponentially.  Carmela is a prime example of why one should not play where they work.  When Tate tries to break it off with Carmela, she goes for the jugular and schemes to make his life miserable and him desirable to no one but her.  Carmela plays dirty and for keeps; she is proof that there is nothing like the wrath of a scorned woman as her fury reaches far and wide.  Just when Tate thinks he has escaped and made a clean break, Carmela reminds him that he can run but he cannot hide.Every woman wants to make Tate love her, but who will be able to get this party till you drop, playa-playa, commitment phobia brother to slow down and settle for a one-woman relationship?  What antics will they try in order to achieve their objective of becoming Mrs. Tate Gibson?Reminiscent of contemporary fiction novels from the 90s, Make You Love Me reminded me that even though it is a New Millennium, the dating scene -complete with games from egotistical and arrogant men and insecure and desperate women-remains the same.  As such, although the storyline was a quick and easy read, with sensual plot twists and turns, the storyline was very familiar and traveled terrain already explored and written about frequently.  However, Make You Love Me should do well as there is still a strong audience for books that include colorful characters that you love to hate; non-stop drama; tales of deceit, betrayal and secrets; and cheating, disrespectful and mistrustful mates to boot.Reviewed by YasminAPOOO BookClub </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One Man, Three Women! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

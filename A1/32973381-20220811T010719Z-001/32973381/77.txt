@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B003ZM17RA <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Solid Reception </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I put this adapter in a desktop PC essentially a floor above the router.  It was easy to setup, easy to install, and has worked flawlessly.  Not that I am really asking it to perform in less than ideal circumstances, but I have no complaints.  And the price was right. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works with DS-212j </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Plugged it into a Synology DS-212j and it gets WiFi.  Setup was easy but that is attributed to the DS-212j and not to the AirStation.  Nice and small so could be left full-time in the USB socket of a laptop if you had one with a non functioning Wi-Fi adapter. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Petit, but packs a punch! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Worked like a charm on my NAS, and I've not run into any downtime or other problems.The less tech savvy might need someone to help you set it up right, but for me was plug-n-play. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great...less filling! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-31-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wanted an easy way to attach to system in the garage w/o running cables.  This device works like a champ - small, fast enough, super simple install.  It stays in the system all the time.  For what I paid?  Bargain of the new year.  Works so well I just bought 2 more. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cheap, works well. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Small, cheap, works as advertised.  Don't expect Windows to find this device and run it properly though.  The driver disc is a MUST. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great with XP, doesn't work with System 7 </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It works very well with XP. You don't need the manager, Windows will handle the wireless connections -- provided the service Wireless Zero Configuration is activated on your computer.I've tried everything imaginable to make it work with my Win7 system, to no avail. Then I read the reviews at NewEgg and saw that others had the same problem. As far as I could tell, no one managed to use it with Win 7. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent Wireless Adapter </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-08-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have two Buffalo hard drives and they've survived for 5 years and numerous drops.  So, I had no reason not to purchase this wireless adapter for my HP Mini.It was easy to install.  I popped the disc into the optical drive and the drivers installed easily.  Then, I popped the adapter into the USB port and within seconds I was connected to the Internet.I've been online for hours now without any issues.  It's an excellent product.  I've still got to try it on the iMac though. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent device </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Excellent device, works flawlessly in windows, linux, mac, android. And even support packet injection. :) . Will recommend to friends. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not very fast </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-29-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Dodgy quality and performance. Definitely noticed less performance when switching from my main wireless adapter. Will only use this for emergencies. The size makes it useful for a backup. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> you need a usb extender!!!... </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-13-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> The signal jumps like none other on my desktop which stays still 65 mbps to 5.5 mbps in a flash.update as of 9/28/2011I've gotten this to work I found a usb extender that was 3 ft. long and plugged it up and now I get 58.5 and 65.0 mega bytes per second. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works without hassle on Linux </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I dual boot Linux Mint (15) and Win7.  I set this up in Win7.  You'll need the disk for that by the way so don't throw it out.  Windows won't find drivers for this on it's own.  Then I rebooted into Linux and while the desktop was coming up I was thinking about where to start to get this to work.  Before I could lay a hand on the keyboard it popped up and told me it was connected to my router.  It must store the password on the device because I didn't have to enter it under Linux.Side note, this doesn't get as good of range as the built in wireless on that laptop.  I bought it because I can't get that to work under Linux.  So if you're thinking "how does this get good reception with such a small antenna?", the answer is it doesn't.  It's about 40' away and going through three walls.  I get about 50% out of it.  YMMV.Edit:  I also have a Buffalo router.  Together they have an automatic push button authentication.  It could have been the previous pairing under windows that allowed it to authenticate automatically under Linux.  I'm not sure. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> BUFFALO AirStation N150 Wireless USB Adapter - WLI-UC-GNM </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased this for my laptop that was having issues with the internal WiFi card.  I have owned another Buffalo product that lasted for years, so I had high expectations for this product.  I have been using it for about a month with only one dropped connection.  I docked a star because I have been streaming video from a source on my network for years and had never had issues with buffering.  I am seeing some buffering that I will have to attribute to transfer speeds.  Otherwise I am completely satisfied with the performance. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Small but mighty </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Tiny but mighty. Working great and easy to setup. Works great in my small apartment which is about 800 sq ft </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1600783384 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-15-2013  
+<h2> review.text </h2>
+
+ <p> The books starts of a bit slow as it takes time to justify the how's and why's of what it is going to have you doing.  However, the workouts are quick and intense.  You basically get more done in less time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Takes all of the guess work out of figuring out workout routines </p>
+
+
+<h2> review.date </h2>
+  06-30-2013  
+<h2> review.text </h2>
+
+ <p> This book presents a compelling argument for the necessity of training for intensity. Since I had applied the principles of strength training that I learned from this book, I have gained tremendous strength and even endurance during my workouts. For even better results, I had combined the diet principles of David Zinczenko's new book 8-hour Diet to the workout principles/examples in this book! Stoked for more SUPER results! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Train for intensity! BOOM! </p>
+
+
+<h2> review.date </h2>
+  02-27-2010  
+<h2> review.text </h2>
+
+ <p> A well-organized guide for the man determined to get in shape the correct (i.e., old-fashioned) way: a gym routine that addresses all major muscle groups  - using weights. Great photographs and the perfect size to take along to the gym. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent resource for getting back into shape </p>
+
+
+<h2> review.date </h2>
+  03-31-2011  
+<h2> review.text </h2>
+
+ <p> If you are looking for one book that has all the answers, you will never find it.  If you are looking for a well-organized, basic, concise summary of a variety of training methods without too much scientific theory, this book is worth the money.  If terms like EDT, interval training, Tabata, and supersets are new to you, then you will learn something.  If your fitness bookshelf is crowded, this book may not teach you anything new.  Beginners will also enjoy the exercise section and the nutrition and supplement guides.  Beginners will also enjoy the workout variety--working out is certainly more fun if you add some variety.  I don't know if the book actually contains 101 workouts, but it does contain a number of unique routines.Even if you don't follow a specific program exactly (I rarely do), you should find some techniques that you could incorporate into your own routine.Personally, I am continually looking for variety to keep my workouts interesting and effective, and I enjoy reading books to learn and to get different viewpoints; therefore, since the price is right, I think this book is worthwhile. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent summary of a variety of workout options </p>
+
+
+<h2> review.date </h2>
+  03-03-2011  
+<h2> review.text </h2>
+
+ <p> This book is for beginners, experienced Athletes might find a couple of new tips but nothing really special. You won't get fast results unless you do Interval training like I do. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you have experience, you will learn a little bit. </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> This is amazing exercise book. It goes into a number of way you can add intensity to your workout. I rarely ever follow a workout plan to the letter of the law, but with this one there were a couple of programs in it that I can't wait to try out. Get this it's well worth the money especially if you need to add intensity to your workout! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you need to add intensity get this book!!! </p>
+
+
+<h2> review.date </h2>
+  09-20-2010  
+<h2> review.text </h2>
+
+ <p> This book in nicely put together, it covers ALL areas of weight lifting from basic exercises to the more complex ones, if you've been teetering on the edge of working out and being a couch potato this book will certainly give you that extra motivation to start pumping some Iron, and for those that are already committed fully this book just fuels the desire.Leroy FordBuild Your Dream Body (Volume 1) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This book just fuels the desire </p>
+
+
+<h2> review.date </h2>
+  01-04-2012  
+<h2> review.text </h2>
+
+ <p> I was getting bored by performing the same rutines in the gym. With this book I have great programs krafted to push you to get better performance while you maintain fun in the gym. Very professionaly written, it suits if you are just working out regularly to stay fit, but it is even better for those aiming to get a beachbody. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly what you need to not get bored </p>
+
+
+<h2> review.date </h2>
+  04-03-2014  
+<h2> review.text </h2>
+
+ <p> This isn't a bad book of workouts, but it isn't particularly innovative either.  Most of the types of workouts that you can find in this book can be found online or in off the shelf magazines.  This book can be good for providing some basic templates, but you might find yourself having to make your own adjustments. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Meh,,,,average </p>
+
+
+<h2> review.date </h2>
+  11-23-2010  
+<h2> review.text </h2>
+
+ <p> This is the worst bodybuilding book I have ever acquired. Full of pictures and very little information. Anyone that gave this 5 stars is either working for the publisher or cannot read. Don't waste your money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pathetic </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00DXG5ODQ <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-04-2013  
+<h2> review.text </h2>
+
+ <p> I love to find new recipes to help me in my quest to eat clean. This book offers so many recipes that I never knew about and that can easily be made with a blender or Nutribullet. The recipes are all easy to follow and do not require out of the ordinary ingredients that are hard to find. If you are trying to eat clean, this book will give you more delicious ideas to add to your diet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Delicious Clean Recipes </p>
+
+
+<h2> review.date </h2>
+  08-11-2013  
+<h2> review.text </h2>
+
+ <p> I really like this book. Good solid and healthy information. I have read a lot of blender, juicing and smoothie books. This one ranks in the top 5 for me. Lots of new ideas. Certainly worth having this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I like this one </p>
+
+
+<h2> review.date </h2>
+  12-27-2013  
+<h2> review.text </h2>
+
+ <p> I got a Nutribullet for Christmas.  Yay for me that I stumbled across this book.  I love the recipes.  Also she gives very good information about the veggies and fruits roles in the smoothies.  You also get a bonus section with additional healthy smoothies.  Great book.  I highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful recipes </p>
+
+
+<h2> review.date </h2>
+  07-14-2014  
+<h2> review.text </h2>
+
+ <p> The book is thorough and it gives me plenty of recipes to make smoothies with, and it was free who could ask for anything more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The book is thorough and it gives me plenty of ... </p>
+
+
+<h2> review.date </h2>
+  12-05-2013  
+<h2> review.text </h2>
+
+ <p> I do agree with the author that the type of blender makes a difference! I find the texture of smoothies made from high speed blender uniquely different from those of conventional blender, with the right combination of ingredients, you can really whip out an awesome &#34;meal&#34; right from your kitchen almost instantly! With this recipe books and a fully stocked fridge, you're on the highway to a healthy eating. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great healthy recipe for people living on the fast lane </p>
+
+
+<h2> review.date </h2>
+  12-09-2013  
+<h2> review.text </h2>
+
+ <p> This is exactly the book I was looking for. It is a great guide to clean eating and drinking. With these awesome recipes, I feel good during the day and I also sleep much better.The recipes are all very easy to do and the explanations are excellent. I love these smoothies and juices. I also bought a new blender according to this book's tips. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Live and sleep better! </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> All that holiday chocolate has been building up in my system and I guess I have been eating too much holiday treats & sweets. I found a very valuable and helpful book that is more of a lifestyle approach to clean eating and smoothie drinks than a boring text only recipe book because in addition to the smoothie recipes it not only features inspirational illustrations that guide the reader through the book, but it also shows how the author herself has gone through the process of consuming smoothies in order to achieve her health and weight loss goals. I did not know of these powerful health benefits of smoothies, but this book inspires me to fix some of these delicious looking and healthy smoothies for myself and the time during Christmas where everything is too rich too heavy and too fat seems perfect to me to get started with something like this.What I also find valuable is that the author has been going through the experience of consuming satisfying smoothies on a daily basis and like this she has been able to fight her Asthma very effectively via such a smoothie lifestyle. Who does not need more health in one's life so I am excited to discover more of these smoothies and see what they are going to do for my own health.Overal, the book taught me about the many health benefits of smoothies so that I can chose exactly which smoothie to prepare in order to target a specific health benefit that I am looking on. I can't wait to test out some more of these scrumptious looking and healthy smoothies during the holiday season in order to keep my system clean and to prevent any sicknesses throughout the most critical days of the year. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blender Recipes I Love </p>
+
+
+<h2> review.date </h2>
+  12-30-2013  
+<h2> review.text </h2>
+
+ <p> I have a Bullet.....and make my smoothies daily. I prefer to make my own desserts out of fruit and almond milk, so this has been a wonderful guide. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Such Fun </p>
+
+
+<h2> review.date </h2>
+  08-07-2013  
+<h2> review.text </h2>
+
+ <p> Inside this book, the author shows you how to use powerful smoothie makers to tear through kale, chard, frozen berries,  walnuts, coconut, chia seeds, almonds, & other clean food ingredients and transforms them into these heavenly tasty smoothies when she is done. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blender recipes </p>
+
+
+<h2> review.date </h2>
+  12-01-2013  
+<h2> review.text </h2>
+
+ <p> That's what your body will be if you follow these recipes and endeavor to live a healthier lifestyle through Clean Eating and Drinking...  My friend, Steven introduced me to the wonders of Smoothies, Juicing, and Clean Eating, and I have been hooked ever since... Juliana Baldec's smoothie recipes look AMAZING, and with the Holidays coming up, they will be a welcome Healthy Alternative to all of the crap, processed and junk food that usually accompanies the Season! I only have a regular high-speed blender at the moment, but after this book, I may even ask Santa for a Nutribullet! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Lean, Mean "Healthy" Machine... </p>
+
+
+<h2> review.date </h2>
+  12-02-2013  
+<h2> review.text </h2>
+
+ <p> Just what I was looking for, good, tasty recipes for smoothies and juicing. Would recommend this book for any other smoothie enthusiast. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great recipes!! </p>
+
+
+<h2> review.date </h2>
+  12-03-2013  
+<h2> review.text </h2>
+
+ <p> There is a good assortment of smoothies(none made with dairy milk) and juices for me to pick my 3 favorites right away.  When you get to the Ricotta Dinner, be sure to page down one more press of the button.  My Kindle made it appear that it was the last smoothie.  It isn't.  It's an entire meal that you can make using the nutribullet or your high speed blender. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good assortment of clear and easy blender recipes </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00EO3H5UC <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-12-2014  
+<h2> review.text </h2>
+
+ <p> pretty good story line with plenty of action </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  04-04-2014  
+<h2> review.text </h2>
+
+ <p> A World War II novel about an intelligence operation in the African desert that grows in an unlikely manner.  If you or an agnostic or atheist, you might not enjoy this interesting story because of the strong religious preferences of one of the main characters.  This is a fast read that you won't want to put down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Behind the lines Intrigue </p>
+
+
+<h2> review.date </h2>
+  12-31-2013  
+<h2> review.text </h2>
+
+ <p> Historical on the edge book! Kept me in suspense,but I was a bit surprised by the out come! Good read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Historical </p>
+
+
+<h2> review.date </h2>
+  04-24-2014  
+<h2> review.text </h2>
+
+ <p> There were many positives as well as negatives about this book.Positives:1) The story's plot was interesting. You wanted to know what was going to happen. Really wanted to know.2) The fight scenes were engaging and descriptive, unlike some books I could mention... it seemed to describe real action.3) The historical blended well with the fictional aspect and made things intriguing. I felt like I learned things I didn't know before about that section of the war.4) It was nice to have Christian values and concepts brought into a novel.Negatives:1) The plot felt forced in quite a few areas. Why did Dane make a troublemaker Russian stay with them. There was no &#34;have to&#34; here.. it felt like it was contrived to give tension to the book, not like it was something that could be avoided.2) While the actions were realistic, the emotional aspect was shallow. It felt like all the characters said and did what the author wanted them to.... like they were puppets on a string being jerked around this way and that for the story's sake... like it wasn't really them, just emotions pasted onto cardboard figures. It felt fake, fake, fake.3) I really didn't care for the amount of lust and leering and graphic descriptions of the russian mistreating the main girl character. I felt like that was thrown in for ... modernity's sake? It would have been better without all that... or only 5% of it.4) While I appreciated the Christian concepts discussed and the gospel presentation, this also felt like it was slapped on and shallow. Don't get me wrong, I am a Christian and hold dearly to my beliefs, but this came across like the author thought &#34;Oh, right, need to make them believe certain ways by the end of the story&#34;.... slap on shallow corny conversation .... I felt like ... the &#34;converts&#34; fell for everything too quickly and did &#34;what they were supposed to&#34; without seeing a deep change... just switching out the &#34;unsaved&#34; for &#34;saved&#34; sign hanging around their neck.  And it was a little much to have us see the Russian in hell, screaming for all of eternity.....So, to sum it up, the plot is interesting and informative, but the character's are shallow - emotionally and spiritually. This could be a really good book - after it was edited and tightened up a couple notches. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting Plot, shallow emotions </p>
+
+
+<h2> review.date </h2>
+  10-11-2013  
+<h2> review.text </h2>
+
+ <p> Dane Shaw rhymes with Dwayne Straw, a very well written war story. I am sure a lot of  soldiers received God as their savior, that also was well presented. I intend to read the sequel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> Those brave men that risked their lives to defeat the delusional Germans are well represented by the two leading characters with an innocent woman trapped in the winds of war;  Though I understand the religious fervor of the author  I found the religious passages a little bit over used. In all,  the novel was engrossing  and well paced. Conrad </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dilemma in the Desert </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> Could not put the book down.  It kept my interest though the entire book.  That is soooooo unusual for me.  I highly recommend you read this book.  It is excellent with the characters and the action. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent </p>
+
+
+<h2> review.date </h2>
+  04-22-2014  
+<h2> review.text </h2>
+
+ <p> However when I got to the part about a romantic rivalry between an officer and an enlisted man over a woman they just met while on a covert operation behind enemy lines I couldn't read any further.  When I have read all of the material tht is available free on Amazon, I might get back to it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Started out Well </p>
+
+
+<h2> review.date </h2>
+  05-28-2014  
+<h2> review.text </h2>
+
+ <p> I really liked this book. The historical background info was great and I learned some things I didn't know,always a good thing.this book has the good,bad and ugly of humanity. Great action that I could actually envisage due to the authors descriptions. Looking for more by this author.Would definitely recommend to my friends. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Read </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> This story was interesting in the different twist that it took.  The characters where a good mix of good and bad.  well written with a  good sense of timing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good drama </p>
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> Great read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  09-23-2013  
+<h2> review.text </h2>
+
+ <p> Great adventure story with just a touch of romance! This is written from a Christian viewpoint and the hero is not only resourceful and brave but he relies on The Lord for wisdom and help in time of need. I really enjoyed reading this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great WWII Christian fiction war story! </p>
+
+
+<h2> review.date </h2>
+  02-20-2014  
+<h2> review.text </h2>
+
+ <p> I chose because I like the belic themeThough I prefer the historic real booksIt was ok. But what I expected </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dilemma in the Desert </p>
+
+
+<h2> review.date </h2>
+  05-25-2014  
+<h2> review.text </h2>
+
+ <p> Very poorly written, I no it's fiction but any reference to history has been poorly researched, agin the book is made up of character description which kills the story line </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rubbish </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

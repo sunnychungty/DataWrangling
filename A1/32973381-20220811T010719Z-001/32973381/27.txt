@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000O3IH6M <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-05-2007  
+<h2> review.text </h2>
+
+ <p> I got this product after a long research. Put the first CD (The lord of the Rings) and image quality was disappointed. Up-conversion was the worst.Returned this product quickly and got and Oppo 981HD. What a difference!!If you are looking for a good DVD player don't buy this, instead buy an Oppo 981HD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very low quality </p>
+
+
+<h2> review.date </h2>
+  05-26-2014  
+<h2> review.text </h2>
+
+ <p> You can get a lot of mp3's and even mp4's on a DVD. I have never played a commercial DVD on it, I have a better player for those.I have never found any other DVD player that can play mp3's and mp4's. And these days used ones are very inexpensive.The navigation (e.g., file names, file name order, number of folders, etc. could be better. I just have to put up with that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a very rare device that plays MP3's and MP4's (and DIVX) on DVD's. </p>
+
+
+<h2> review.date </h2>
+  08-31-2007  
+<h2> review.text </h2>
+
+ <p> I just purchased this player about a week ago, and it is great.  It is quiet, sturdy, starts up quick and looks cool.  I have it hooked up with an HDMI cable to an okay 32 in. 720p LCD Visio TV that accepts 1080i input.  I can tell you this..... the movies have never looked and sounded better.  I popped in a DVD and played with the player's settings to get it just right.  This DVD player has many Sound enhancement options and many Video enhancement features to help get a better picture.  Read the manual, its good with helping you set it up to your likings.  Very Satisfied with my purchase, thank you very much. 5 stars ***** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I like it!!! </p>
+
+
+<h2> review.date </h2>
+  09-28-2007  
+<h2> review.text </h2>
+
+ <p> The quality of the picture is excellent. I don't have an HD setup, but it seems as though the quality, even on LD is somehow enhanced. Very happy with it. The tray for the DVD seems a bit on the flimsy side and caution is needed. Also, from advertising that I read about this, I was under the impression that it could play Dual Layer, but it won't play DL that's been generated on a PC. It makes that very clear in the owner's manual. You may want to download a copy of the owner's manual to verify it will play what you want it to. But otherwise, a 1000% better than the DVD player I used to have. It is a well designed quality product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Generally Pleased </p>
+
+
+<h2> review.date </h2>
+  07-08-2007  
+<h2> review.text </h2>
+
+ <p> I have been a big fan of this company since the 80's. Lately they have been eclipsed by some other players in the game. (LG, Samsung, etc.) I am glad to see they still have the goods. This DVD player rocks. Tons of features and performs flawlessly. Great picture, sound, and functionality. I am waiting for my HDMI cable so I can watch my DVD's at 720p HD !!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Panasonic Does It Again </p>
+
+
+<h2> review.date </h2>
+  07-14-2007  
+<h2> review.text </h2>
+
+ <p> I have both an S53 and a Philips 5982 running to a 1080P Philips 42" 7422.The S53 is inferior in picture quality.  It is blurrier, loses detail, loses color accuracy, and loses grey shadows.  The Philips 5982 outperformed it in every regard to the picture quality.Audiowise, the Panny has more options for audio with Dialogue Enhancer, but those filters seems to lose some of the fine details.  You are better off messing with your TV audio or Stereo audio than using any Panny filters.Colorwise, I could not really change any settings with the S53.  The Philips allowed for RGB values to be altered which I was really hoping for on the S53.  I could alter the screen settings like Cinema1, Cinema2, Multimedia, etc and that was it.  There is an HD enchancer that makes the image sharper...it made it too sharp to my eyes and I leave it off.The only thing I liked was the remote and menu.  Much better than Philips and more functions.It's sitting in my bedroom with my 26" bedroom 720P HDTV, so I can't complain too much about it.  My set accepts the 1080i signal and it looks good on a small screen.  I would not recommend it for a large screen in the living room. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mediocre Player </p>
+
+
+<h2> review.date </h2>
+  06-12-2008  
+<h2> review.text </h2>
+
+ <p> I've had this product for 2 months.  So far I can't find anything to complain about.  It plays store bought and my home recorded DVD's with no problems.  The picture quality is flawless.If I needed another DVD player, I would buy this one again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Flawless </p>
+
+
+<h2> review.date </h2>
+  10-01-2007  
+<h2> review.text </h2>
+
+ <p> When this unit came out I rushed out to buy it since I own the model S52 that came right before it.I love the S52.It has all the adjustments one would ever need to get a great picture.What a letdown the S53 was.The picture is fair but Panasonic took all the user adjustments off this model.You are stuck with the factory presets like skin,normal,etc.There is no adjustment for gamma on this machine.If you have a scene with alot of black and you can't see the details,you have to either turn up the brightness or live with it.I thought I would be getting the same player as the S52 but with the added joy of upconverting my movies to 1080P.I have just bought a Philips 47" ambilight 1080P television.This tv has to be seen to be believed.Philips 47PFL7432D 47" 1080p LCD HDTV with AmbilightThe one thing that I really do like about the S53 over the S52 is the open tray function on the remote.The S52 does not have this feature. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dissappointed </p>
+
+
+<h2> review.date </h2>
+  05-29-2007  
+<h2> review.text </h2>
+
+ <p> Widescreen DVD's don't of course look like HD with this, but still pretty darn good. Very fast player response. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Flawless, great buy </p>
+
+
+<h2> review.date </h2>
+  07-01-2007  
+<h2> review.text </h2>
+
+ <p> Looked at the Sony DVP NS75H as a competing model with the Panasonic player.  Both had great picture quality for a non HD player.  The panasonic edged out the sony in sound output.  (using HDMI connectors).  One great feature is the digital voice enhancer so you can hear people speak on the dvd and not have to turn it up too loud.The included instruction manual could have been written better, confusing.  Sony's was a bit more user friendly.  The menus for the panasonic are OK, more thought should have been put into this to make it more intuitive.  Similar with the Sony player, maybe a bit easier.I ended up with this unit over the sony bc of sound features.  Also, no blue annoying light as on the sony player. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great DVD player with strong sound output </p>
+
+
+<h2> review.date </h2>
+  07-29-2007  
+<h2> review.text </h2>
+
+ <p> It sounds good, looks good and has lots of features. Very easy to set up. Can't go wrong at this price! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Player </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

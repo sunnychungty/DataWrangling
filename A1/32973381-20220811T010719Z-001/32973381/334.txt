@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1590808495 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-18-2013  
+<h2> review.text </h2>
+
+ <p> This author ROCKS! I have not read a book yet that I did not love and I have read every book she has written. Great story, can't wait until the second book comes out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great book by Jen Wylie! </p>
+
+
+<h2> review.date </h2>
+  07-30-2011  
+<h2> review.text </h2>
+
+ <p> Shara is a healer. She falls in love with a soldier who turns out to be the king's son. The very same king that hired her to do a job for his army. Forbidden love is powerful and it overcomes a major hurdle in this story. But then, that's the beauty of this book. There's a whole lot more to 'Sweet Light' than just that.Jennifer Wylie crafted and defined men exceeding well in this book. Three of them are after Shara's heart and neither is less than a worthy man. Jen didn't excoriate these characters, though they each have flaws. To read a story of love and the challenges love faces, and then to enjoy it; as an alpha male, this book pleased me to no end.First, the story is unlike any other. Shara the healer does her job exceedingly well. Even as she's broken, beaten, downtrodden, and cast aside at times, Shara is powerful. And not aggressively so. Shara is a pleasant character who sets up the roles of the others so well, bringing a light to the whole story that doesn't seem to exist in other books.You'll find love, magic, fantasy, and a whole lot of wow in this book. Then comes the plot twist. One so profound and unforeseen, it takes the story to another level entirely. Without dropping a spoiler here, Shara is more than meets the eye and you'll need an e-reader to flip the pages faster.A.T. Russell, Author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet Light is for men. </p>
+
+
+<h2> review.date </h2>
+  10-27-2011  
+<h2> review.text </h2>
+
+ <p> Sweet Light by Jennifer Wylie is a wonderful and interesting read. I enjoyed the story because it went past the superficial ideals of love, into a deeper level of love. In Sweet Light we see different levels of love played through out the story. We meet Tirel, Shara's past lover. It is obvious that the feelings between the two have not yet died. Shara's relationship with David is pure and unblemished in the beginning and than we have her relationship with Dric. Although more like a friendship there's a lot of tension between the two, more than Shara likes to admit. I thought it was great that the relationships through out the book were deep and complex and I think Wylie did an excellent job playing with them. Overall, I found it refreshing that David's character is not your average knight in shining armor. Although a skilled swordsman, his battle wounds run deep. I loved that David's character was realistic. Wylie did a wonderful job displaying David's vulnerabilities. When we first meet David, he is wounded and mute. There is nothing strong about him but rather Shara is the strong one. I found this an extremely interesting set up. My only complaint is that the end seems unfinished or unresolved, but maybe we'll see a second book. I highly recommend this novel if you're a lover of romance/fantasy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderfully Written! </p>
+
+
+<h2> review.date </h2>
+  06-20-2011  
+<h2> review.text </h2>
+
+ <p> Title: Sweet LightAuthor: Jen WylieGenre: Fantasy/RomancePublisher: Echelon Press May 2011Format: E-bookISBN: 0012590045Shara is a Healer. She is raised since childhood inside the walls of Healer Hall, a community of people who employ their own traditions and beliefs. When she earns the rank of Journeyman she moves to the barbaric kingdom of Glendor to be the court healer.War befalls the kingdom and Shara is thrust into a world that she was not trained to handle. The battle lines of war are grim, bloody places and Shara is ill equipped for the job. When a surprise attack happens on her camp she is forced to flee on horseback alone. She stumbles upon a seriously injured solider and they begin a journey back to Glendor that takes longer than they expected.During the long and difficult journey Shara falls in love with her charge. Little does she know that he is not just any solider, but someone who should be off limits to her heart. By the time she learns her love's true identity she is already in love.But falling in love with the solider is the least of her worries. As her healing powers grow so do the number of men in her life and Shara begins to discover that decisions of the heart are more difficult than she once thought.I read this book in a day. It was so easy to slip into this world and the story just picks you up and sweeps you along until you look up and realize that you have read half the book. I became invested with these characters quickly and just couldn't wait to see where the story was going.Shara was innocent but not blind. She was able to access a situation quickly and make decisions based on what she thought was right. I liked her honesty and ability to win people over by just being herself. I found the place and customs in which she was raised to be a lot different from what I have learned/read about people in those ancient times. I enjoyed reading about her healing abilities and marveled at the way she was able to look within herself to gain knowledge about her own body. This book was a great look at a paranormal ability that one doesn't get to read about often.David was another character that I liked. I found myself feeling oddly protective of him at the beginning of the book. He was an endearing, innocent and sometimes child-like character that I was drawn to. I always wanted to know more about him. His cousin, Dric, was another character in the book that I took a great liking too. He was gruff on the exterior but inside he was a romantic, a quality in a large warrior that I happen to very much like.I found myself reading and reading trying to get to the end to see where the story was going and what was going to happen to the characters. I was a little let down with the way the story progressed. Not really with the plot but perhaps the details. I wanted to know more. I wanted to know why. Why the things that happened did happen. Sure, there were reasons but I felt a little unsatisfied by them. At the end of the book David does things so out of character and while I understood the reason I still wanted to know more. What of these people with dark powers? Where did they come from, what was their motivation and what were they hoping to gain in having David complete the task they set out for him to do? And why was Shara so attracted to three men? I understood two of the attractions but there was never a definite answer to the third man, Dric. And really, did it matter who she was attracted to once she had made her choice? I don't really want to get into specific examples because then I would be giving away the book and what fun would that be?Clearly, Sweet Light is a good read. I read it so fast that my saying different would be loony. I am left to wonder if there will be a sequel and if there is what will be revealed. I sincerely hope there will be another one because I would love to spend more time with these engaging characters. In the name of summer I encourage to pick up this book and give it a shot. I bet that before you know it the characters will befriend you and the book will be read.This review is written by Cambria Hebert </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Read this! </p>
+
+
+<h2> review.date </h2>
+  04-02-2012  
+<h2> review.text </h2>
+
+ <p> I absolutely LOVED this book!!! Everything about it made me want to read more and more and more! I stayed up all night reading this book and when my mom interrupted me when I was at a really good part, I actually got mad and was just itching to get back to reading the entire time I had to talk to her. Yeah, it's one of those books :) Shara was such a good main character for this book, with her subtle beauty and growth in confidence and power. I loved following her story and feeling everything she felt as not one, not two, but THREE men fell in love with her. When I thought about the three different guys that liked one girl, I was like there is NO way I am going to like a book like this, but I loved it! I must say my favorite of the three guys was Dric, with his protective ways and an overall strong, manly aura about him. I can't tell you who she actually end up with, but I really liked how it ended. Maybe there's room for another book about this storyline? I hope so since it's Jen Wylie's debut novel! I would love to see more of Anna, David's sister, because she worked so hard to make everybody around her happy that I don't even know if she was happy herself. But the only problem that I had with Sweet Light is I felt like some things moved too fast. I would have loved for things to develop more slowly so that I could have more time enjoying the emotions and moments with the characters. I don't know, maybe I just didn't want this book to end! It was such a good fantasy romance that had a hint of the historical genre (with kings, castles, and battles), which is exactly my cup of tea. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Had me reading all night long! </p>
+
+
+<h2> review.date </h2>
+  09-20-2011  
+<h2> review.text </h2>
+
+ <p> Sweet light was an enchanting read that pulled you in with its remarkable imagery and host of memorable characters. Though this book was set in a medieval time and the characters had to deal with very different circumstances, they were definitely relatable. The emotions and internal battles they faced were similar to many that we face in the course of our lives.The characters themselves were highly entertaining. Shara was a heartwarming heroine who really grows a lot through the course of the book. My favorite character was Princess Anna she was a charming girl and had spunk. She was not the type of person to be pushed around. Anna was also the person who helped Shara and David both when times got rough. For a fantastic read look no further than "Sweet light". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enchanting </p>
+
+
+<h2> review.date </h2>
+  10-13-2011  
+<h2> review.text </h2>
+
+ <p> There are 3 different love interests in this story which is different than any story I have read. Could it be overwhelming? Sure, but I didn't feel that way, in fact it was very easy to see why each person fit with Shara and you learn to love them as she does. I had a difficult time deciding myself whom I thought was the better fit.What impressed me the most about the story is the wonderful way in which we are brought into the characters minds. I was drawn in with the inner turmoils and decisions that had to be made. It's a story that will make you swoon and break your heart.There are some violent parts and maybe more fitting for older teens and adults like like a great adventure and memorable characters.It's one of those stories that will always keep you guessing. I really liked Shara, I felt she made a very strong character, admirable and smart.As with most books it took me awhile to get into the book, what was happening and who the characters are in this world. I began to really enjoy the story around the middle of the book and it became more intense through the end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 4 stars </p>
+
+
+<h2> review.date </h2>
+  01-04-2014  
+<h2> review.text </h2>
+
+ <p> I really love how she is able to create an entire world and make it very believable.  All of her characters really come to life and they are all very likeable and feel like real people.  She has created such a large world with so many characters she couldn't finish the story in just one book.  She is currently working on the sequel and I am early looking forward to this.  I was so caught up in the story, the characters and the world I read this in one day!  I love Jen's books and I highly recommend them to anyone! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing world with great characters </p>
+
+
+<h2> review.date </h2>
+  12-14-2011  
+<h2> review.text </h2>
+
+ <p> I don't even know where to begin with this one. It was very Celtic influenced which is something I loved about it, it included healers which again, love, and then there was an injured prince, and lots of kissing, which was again love.I'll admit I got lost when it came to Dric, Tirel and Yael, and I didn't like the shifting POV's I mean sometimes you can get away with it, and other times, I worry about it adding to the story or taking away from it. In a lot of cases it left me confused.The violence factor is a little high and I was concerned about some of the references to adult themes, so I'm torn about calling it YA or Adult, but maybe it's just New Adult, that would make the most sense to me. A lot of the violence was jarring and immediate, not to mention eye opening.Thankfully readers you can rest assured that while this doesn't have a happily ever after ending, it does have a satisfying ending and there's no cliff hanger.I wonder if Jen is planning a sequel to it, I look forward to it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet celtic tale </p>
+
+
+<h2> review.date </h2>
+  11-10-2011  
+<h2> review.text </h2>
+
+ <p> Although this book could have benefited from a more thorough editing, the author's heart is in her writing. Sweet Light is a romantic tale with several intriguing characters. Some sex and violence make it inappropriate for younger readers, but for High Schoolers and above, it should pose no problem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Romantic Tale </p>
+
+
+<h2> review.date </h2>
+  04-12-2012  
+<h2> review.text </h2>
+
+ <p> I am a man and not given to read romance novels.  But I am also human and could not put this one down.  It has enough adventure and dire moments to keep me in it.  I liked being exposed to a world of fantasy like Lord Of The Rings, where the main character has the power to heal.  She is called upon to use her powers and also choose from three men who have come into her life in amazing ways.  I liked the settings, the character development and the rush of energy.  Now I want more.  I highly recommend this book for all of us who grew up reading fantasy books and who yerned to somehow be transported away from the everyday happenings of our existence.  People who read Narnia and the like will love this also.  I gave it a high five as I was drawn in unexpectedly and pleasantly surprised.  Not ashamed to admit I like reading romance infused novels now as long as there is some violence.  Don't judge me guys.  Great debut novel and eagerly await the sequel.Reggie RidgwayAuthor of In The Midnight Hour also published by Echelon Press </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love Story With A Twist </p>
+
+
+<h2> review.date </h2>
+  08-02-2011  
+<h2> review.text </h2>
+
+ <p> Shara is a trainee healer, sent to work at the battle-front in Jen Wylie's intriguing fantasy novel, Sweet Light. The fantasy world is nicely drawn, with details revealing themselves convincingly through circumstance and dialog. There's plenty of depth and scope--a world of healers, its political interactions with other peoples around it, kings and politicians, soldiers and spies, plus a touch of magic. Shara's battle's not going the way her leaders hoped, and soon she's running away through the forest, where she comes upon a wounded, and oddly silent soldier. With nothing but the medicines in her pouch and the herbs of the forest to help her, she determines to help, and so begins a beautiful relationship that carries through the book.The concept of soul-ties is nicely developed as Shara falls in love. The absence of her previous lover leaves her angry, but what might his return bring to her? The impossibility of her present relationship brings pain, but what are the alternatives? Pulled three ways, aided and abetted by the friend who pleads her cause, she seems to find resolution only to have it quickly snatched away.The novel reads like two parts in a longer series and I found myself wishing by the end that there was more. So many unanswered questions remain, and the world is too big to be left without exploring them. There's a feeling of incompleteness, even though the story's told. Perhaps that's a compliment to the author's imagination, that her characters remain with the reader. An enjoyable romantic fantasy crying out for a sequel, Sweet Light is a complex look at the human heart, prejudice, loyalty and love.Disclosure: The author gave me a free ecopy of this novel in exchange for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Divided love and loyalties in a complex world </p>
+
+
+<h2> review.date </h2>
+  06-25-2011  
+<h2> review.text </h2>
+
+ <p> This book had me from the very first page. I find it hard to believe that this is Jen Wylie's debut novel. It was great! It wasn't all mushy romance, more like action fantasy romance. I wasn't sure who to root for in this story.Our main heroine, Shara, is a healer who is put in a war-time situation. While fleeing for her life, she comes across a wounded solider who she tries to nurse back to health. Shara's healing power is just starting to show itself, so she doesn't know how to use it to save the soldier. They must travel back to a safe place without getting captured and while our wounded solider is healing. The story moves along very quickly and we come to find love and hope in the strangest of places. Shara ends up with three different men who would love to take her as their own. Who will she choose? Where does her heart truly lie? Even at the end of the book, I was still wondering what would happen if .....If there is ever a sequel to this story, I would pick it up in a heartbeat!*** Note: I was not paid for this review, but I given a copy of this book for reviewing purposes.  The opinions expressed are my own. *** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Read! </p>
+
+
+<h2> review.date </h2>
+  06-15-2011  
+<h2> review.text </h2>
+
+ <p> Following what is in one's heart and allowing love to prevail brings this story to an ultimate "Sweet Light."This story begins with Shara, a gifted healer, fleeing a bloody battle and rescuing an injured soldier who has fallen beneath her horse's hooves in the midst. Caring for him and trying to find their way home, love begins to bloom between the couple in spite of the obstacles that lay between them. Follow their journey, as their relationship builds and sometimes wears very thin, with outside influences from mystical elements and their involvements with others from their past. Will their love for one another be strong enough to pull them through? Come read and see!This is Jen Wylie's debut novel and I found it to be a very enjoyable book. She has blended a sweet romance with some fantasy elements and combined them into a very good storyline. Her characters are very real in their actions and dialogue and they all blend together very smoothly til the very end, which in itself, left me wondering if there is going to be more to this story to tell. I guess I will just have to wait and see.I would highly recommend this book to anyone who enjoys a light romance with little fantasy additions.This book was kindly provided to me by it's wonderful author for my honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Light Romance with Wonderful characters </p>
+
+
+<h2> review.date </h2>
+  06-25-2011  
+<h2> review.text </h2>
+
+ <p> Shara is a Healer. In her homeland, Healers are gifted with magic that they use to help others. It's sacred, and she comes from a land that is far different from Glendor, where she's been summoned to during a war. After their camp is attacked, she rides off on horseback and stumbles across an injured soldier. She nurses him back to health, and they set off on a journey back to their home. Even though the soldier can't speak, Shara is falling in love with him more and more every day, until the moment his identity is revealed to her. She knows she's not supposed to love him, but she can't help it, and this sets in motion a chain of events and a downward spiral with love interests as her heart is provoked by not just one man, but by three.Jen Wylie is one of my favorite authors. Not only can she tell amazing stories, she does so with passion and in a way that is completely unlike anything on the market. Sweet Light is original, and I was sucked into the world, feeling everything that Shara felt.This story is filled with magic, fantasy, and romance. Although David was the first guy on the scene, I have to admit I'm kind of a Team Tirel girl myself. There's just something about him that makes me go all weak in the knees. Sigh. But I think any reader will have a difficult time choosing any of the three. They each offer Shara something wonderful in their own way.A little ways past the half of the book, things turn dark. I did NOT see it coming. I was completely blindsided. I always know which way a story is going to go, but I didn't see this. It gripped my heart, and I couldn't flip the pages fast enough. Shara is tested time and time again. She's an amazingly strong character, and I don't give spoilers, but I'm satisfied with the ending--how everything turned out for her. Any other ending and I would have been climbing the walls. This is definitely an emotional read. Beautiful prose and beautiful story. I recommend it to any and everyone who love Fantasy and Romance! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> YA Bound </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

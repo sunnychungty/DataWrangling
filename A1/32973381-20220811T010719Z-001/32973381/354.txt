@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1603090002 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-30-2009  
+<h2> review.text </h2>
+
+ <p> Don't get me wrong -- I enjoyed the first "Extraordinary Gentlemen" series (and hated the movie) but I found this volume to be a bit dull, and couldn't help detecting a strong whiff of self-satisfaction wafting out of the script. "What a clever boy am I!" is the constant undercurrent to it all, even though Moore seems to have little new to offer his readers that we haven't seen before, time and again. Plus, the story is so slow-moving and inert -- I found it a chore to get through, particularly the extended "musical" sequences that are intended as an homage to Brecht and Weill: sheer torture. This was okay, I guess, but personally I found myself frequently bored with most of the book. (Axton) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pompous and overly self-satisfied </p>
+
+
+<h2> review.date </h2>
+  08-26-2012  
+<h2> review.text </h2>
+
+ <p> This is one of those cases. While the first two League volumes were taut stories that blended elements together so brilliantly as to resemble nuclear fusion, and Black Dossier was a love-it-or-hate-it 'sourcebook' whose references you needed to understand to even follow... I'm actually not sure what "Century: 1910" is supposed to be.It's competently done, of course. The art and presentation and every character's actions feel so natural and put together with such effortless mastery that you know from the first few pages that you're reading Moore. There's coloring that adds to the atmosphere of the scenes, lots of visual allusions to other works, all that stuff. The only problem is that as it goes on, this work becomes more about the references to fiction you might not have engaged with, and less about the central characters and story. I understand the charm of having every person, place and thing be part of this overworld of combined un-reality. The trouble is that the central plot for this (and all the "Century" books) is a little thin, and if you're not into Alistair Crowley and Moore's ideas about the collective unconscious, it'll make you roll your eyes. I don't follow the central conflict of these stories. From the first, the aim of the antagonists is vague and they don't have the substance of those from earlier in the series.It also indulges in something that's interesting to see attempted but hardly ever fulfilling, namely music in comics - I like reading lyrics, but can you really get into a musical you don't hear? As cleverly as it's implemented (especially in one dark, alley-treading scene of murder that's at once reminiscent of and an inversion of Alan Moore's other graphic novel "From Hell"), I don't feel like the comic is better for having had it than more pages of direct story.I mean, all right, if anyone was going to make a 1910-set story about stories colliding set to the score of "The Threepenny Opera" and centered around the prophesied magical baby from "The Moonchild," then this is the best they could possibly do it. O'Neill's a goddamn master at putting details in every panel, Moore's operating on a different level from even other giant talents like Ellis and Morrison, them working together is always going to produce something stunning. It IS stunning. But unlike volumes one and two, and even Black Dossier, this doesn't feel vital. It's just a spot of fun, no matter how well put-together it is, and if there is a deeper charm to it, then it eludes me.If you want to get into the work of these creators, this is not the place to begin. Chances are that if you're a committed Leaguer, you'll already know it by this point and want to continue on with the series, but if you've felt doubt before now, try switching over to one of Alan Moore's other extraordinary works. Hell, even his run on WildC.A.T.S. feels like it has more thematic weight to it at times. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You know when something's done so well you HAVE to be impressed by it? </p>
+
+
+<h2> review.date </h2>
+  05-21-2009  
+<h2> review.text </h2>
+
+ <p> THE LEAGUE OF EXTRAORDINARY GENTLEMEN, Alan Moore & Kevin O'Neill's motley crew of Victorian-era literary figures, returns for a fourth outing, and the results are extraordinary, indeed.The first in a trilogy, CENTURY: 1910 sees an modified League, consisting of Mina Murray, Allan Quatermain (Masquerading as his own son, thanks to his newly immortal condition, as seen in THE LEAGUE OF EXTRAORDINARY GENTLEMEN: THE BLACK DOSSIER), Carnacki, Raffles, and Orlando, dispatched by Mycroft Holmes to prevent the apocalyptic vision received by Carnacki from becoming a reality. To say more about the story would do potential readers a disservice. (I will say that the story involves Captain Nemo and his equally hardcase Daughter Janni, the Ripper murders, Aleister Crowley, and Bertolt Brecht and Kurt Weill's musical THE THREEPENNY OPERA. An odd, but pleasing, mixture.)The misgivings I had at the end of Volume II of LOEG still hold true, to an extent: Without the depraved personalities of Hyde, Griffin, and Nemo, the remaining members of The League are less than interesting. Mina and Allan are as boring as ever, and Raffles and Carnacki are not much better. Only Orlando delivers even a fraction of the personality that's been missing since Hyde and Griffin exited Moore's grand stage. However, the "new" characters (New to More's playground, at least- Jenny Diver, Jack MacHeath, Suki Tawdry, Oliver Haddo, and Norton, the "Prisoner of London") make for some interesting moments, and O'Neill's art is as grotesquely lovely and detailed as ever. The League itself, as always, is more of a group of passive observers than active participants- They seem very ineffective for such a highly-regarded team. However, I enjoyed the book immensely, and I wish there wasn't going to be the inevitable years-long wait before the next chapter. (Just as an aside, Moore, as usual, doesn't completely play fair with the reader, having a very important section of the book, Nemo's dialogue with his daughter, written in a completely untranslated foreign language. Jess Nevin's annotations for CENTURY: 1910 provide a complete translation, as well as invaluable background information that make the reading experience much more pleasurable for people who are not steeped in Victorian literature. The annotations for CENTURY:1910 are easily found online through a Google search, and are well worth hunting down.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The League Returns! </p>
+
+
+<h2> review.date </h2>
+  06-21-2009  
+<h2> review.text </h2>
+
+ <p> ... about Alan Moore's latest installment in the LXG serial.  The premise remains entertaining - lifting literary (and with MacHeath, cultural) figures and transplanting them in a new plot never grows dull for me.  However, the direction Moore takes readers, at this point, puzzles me.Set in the years immeadiately prior to the First World War, there are several plot lines that develop simultaneously - Jenni (Nemo's daughter) seeking to avoid her father's legacy (ultimately unsuccessfully), while Mina Harker, Thomas Carnacki, Orlando and Raffles seek to prevent the end of their (Edwardian) world.  WIth the beginning of World War One, of course, this too will come to pass.  As with previous Moore serials, there is a sense of the unfinished here, by definition; yet one gets a sense that Moore had attempted to provide some sense of closure to the plot lines he introduces in the short-term - in this, he (sorry for the pun), fell short.O'Neill's artwork continues to impress, as does Moore's biting social criticism of the age, and of humankind's brutality in general.  As a fan of the time period (and of Moore's and O'Neill's work) I will certainly follow the story, with the hope and anticipation that loose ends will be tied together and that when the series is finished, there will be a stronger sense of carthsis.  For the first installment, it does little more than provide the first act to a three-act play. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I have mixed feelings ... </p>
+
+
+<h2> review.date </h2>
+  05-26-2009  
+<h2> review.text </h2>
+
+ <p> I have a theory about The League of Extraordinary Gentleman: The Black Dossier.  My understanding is that it was the last Alan Moore book published by DC Comics (under its subsidiary Wildstorm) and my suspicion is that this was Mr. Moore's revenge on a publisher to which he held no great love. Looking at the reviews on Amazon `The Black Dossier' is either a literary masterpiece or an unreadable mess. I side with the later crowd. 1910 on the other hand is published by Top Shelf Comics which is completely independent of any major publisher so I was hoping the volume III might return the League to its roots.1910 is far better than the Black Dossier but still comes up short. Somehow I think that Alan Moore is missing what made the original League so popular. For me it was fascinating to see popular literary characters brought together to form a super group and in many cases the characters contained exceptional abilities that today would be termed super powers. In the end the group fought each other even more than they fought external foes. In particular Hawley Griffin (The Invisible Man) and Mr. Hyde prove to be completely uncontrollable. The new team includes Carnacki the Ghost Hunter and A.J. Raffles the Gentleman Thief. What? You've never heard of Carnacki and Raffles? Join 99% of the public. Not only are the new members FAR more obscure they are also dull as dishwater. The interleague squabbling consists mainly of the semi-immortal, gender shifting Orlando from The Black Dossier being so annoying that the other members want to slap him.If nothing else The League of Extraordinary Gentleman may inspire readers to learn more about the literary references in the stories. I ended up hitting Wikipedia for Carnacki and A.J. Raffles but I have to confess found them kind of boring and didn't investigate deeply. There certainly is no lack of characters from the early 1900's that Moore could have used so I'd be curious as to how he made these choices.When Alan Moore is at the top of his game he is the best comic writer ever and when he's off he's still really good (Black Dossier being the one exception). This is a really good book but it's not a great book and it pales in comparison to volumes one and two. I'll definitely get the next volume when it comes out but I won't be on pins and needles waiting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better Than Black Dossier But Weaker Than Volumes One And Two </p>
+
+
+<h2> review.date </h2>
+  10-27-2013  
+<h2> review.text </h2>
+
+ <p> This series is a fun reworking of classic stories. It is a blast to seehow this mash up plays out. The illustration/art work is wonderful--nosurprise considering Moore's other work. Buy it and enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun series </p>
+
+
+<h2> review.date </h2>
+  05-15-2009  
+<h2> review.text </h2>
+
+ <p> After the diffuse "Black Dossier", this is a terrific return to form. There were times when it was so good I gasped out loud.The title of this first installment (of three) is "What Keeps Mankind Alive?", and if that doesn't excite you--if you don't get that he's taking on The Threepenny Opera--then you probably won't get this book at all. The way Moore's "Jenny Diver" is entangled with that of Brecht is by itself worth the price of admission.The League, such as it is, now consists of three immortals: Mina Murray, Allan Quartermain, and Orlando; plus Thomas Carnacki, the Ghost Finder, and the Gentleman Burglar, A.J. Raffles.I can't say more without spoiling things, alas, but I will mention that the "Earl of Gurney" who plays a significant (but unseen) role in the denouement is the protagonist of Peter Barnes's brilliant black comedy "The Ruling Class."It's not an action comic, and it's not a Hollywood movie. The heroes aren't always central, and they sometimes fail. It's much more like a prose novel, where characters come and go and not everything gets spelled out. Moore's allusions here are less universal than in the first LoEG, but it's worth chasing down the footnotes. (The prose backmatter incorporates parodies of Clarke's "2001" and Reage's "Story of O", among other surprises.)I need also to say that this is the best work I ever seen from Kevin O'Neill, which is saying something. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Alan Moore back at full throttle </p>
+
+
+<h2> review.date </h2>
+  07-10-2011  
+<h2> review.text </h2>
+
+ <p> This is another good installment in a series that never quite lives up to its promise.  At least there is less of Moore attempting to write prose "in the style of..."  What I like about the league is the sheer intensity of the references - surely a mocking joke on post-modernism and the pastiche as well as a celebration of them.  The series on this level does not write down to its audience and Moore cleverly blends high and low cultural elements.  These books are for well read readers and don't pander to popular taste however the story Moore builds out of his splendid box of tricks could have sprung from any pulp writer of the last two hundred years and I know this is part one and some development into a more interesting plot is evident  but the fact is part 2 set in 1969 will involve pages of new characters and new references leaving Mina and Alan's development almost non-existent.  That said it is good fun and I love the addition of Carnacki and Raffles (a particular favourite of mine). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Comic Opera </p>
+
+
+<h2> review.date </h2>
+  07-28-2013  
+<h2> review.text </h2>
+
+ <p> Alan Moore begins his Century series in 1910, and the League, while not what it once was, is still a powerful organization of the British Government. They investigate murders and a shadowy cult they believe is planning a global catastrophe.The highlight of 1910 is the coming-of-age tale of Janni Dakkar. Seeing her evolution as a character was a thrill. In addition to her, Moore has written a ton of music into this novel through his side-characters that do a good job of illustrating the themes of the novel, though they can be a bit heavy-handed. And while the literary references have started to get more obscure, they're still fairly recognizable.The main problem with 1910 is that it's too short. And I don't just mean that as 'I wanted it to go on forever'. I mean it as 'Moore rushes through several plot points too fast for them to be satisfying'.Like Watchmen and the other League novels, Moore ended this story with a companion piece called 'Minions of the Moon'. This piece provides plenty of interesting back story on the characters, along with it's own worthwhile League Adventure in it's own right. Unfortunately, Moore decided to write it at a Nathaniel Hawthorne level of overly-complicated-and-pretentious writing. Still I wouldn't recommend that you skip it.All in all, I thought this book was enjoyable and worth the money, but they were downhill afterwards, so if you don't like this one, don't bother with 1969 and 2009. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The best of the Century novels. </p>
+
+
+<h2> review.date </h2>
+  06-22-2009  
+<h2> review.text </h2>
+
+ <p> This graphic novel chronicles a case by the 1910 version of The League of Extraordinary Gentlemen.  This version of the League features Mina Murray, Allan Quatermain, Orlando, Thomas Carnacki and Raffles.  The storyline is a loose adaptation of the musicalThe Threepenny Opera.  This is a good comic book, but it's somewhat confusing if you're not familiar with The Threepenny Opera (as I am not). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Could that someone be Mack the Knife? </p>
+
+
+<h2> review.date </h2>
+  05-22-2009  
+<h2> review.text </h2>
+
+ <p> Century: 1910 is the third volume of Alan Moore and Kevin O'Neill's much-lauded League of Extraordinary Gentlemen series. Mina Murray and the (alleged) son of Allan Quatermain are joined by a new group of literary characters: thieving Raffles, occultist Carnacki and gender-bending Orlando. They're on a quest to unearth the secret plot of a clandestine occult group.Meanwhile, Captain Nemo is on his deathbed. After he argues with his young daughter, Janni, about taking over the family business (aka piracy aboard the Nautilus), she takes off for England and begins working as a barmaid under an assumed name. When this change of lifestyle yields less than acceptable results, she summons the Nautilus to come for her and the pirate crew, led by Janni, come face to face with the New League.Then they fight, make up and part ways and the book ends.This was a bit of a pain in the rear, until further research into the matter led me to discover that 1910 is merely the lead-in to two more volumes of League set to take place later in the 1900's. While I do enjoy Moore's literary mash-up concept (I also ordered a hardcover edition of Lost Girls that ships in about a month), these characters are just not as appealing as the original group. Quatermain doesn't do anything adventuresome, Mina doesn't vamp-out and Carnacki and Raffles are dry. The only lively characters in the book are Orlando (who is `more than friends' with both Murray and Quatermain, though it's only implied in this volume) and Janni (who was created by Moore for this book and has no basis in literature that I know of). The book is saved solely by those two characters, O'Neill's gorgeous, detailed art and the sometimes somber sometimes humorous musical styling of two minor cast members, a whore and a murderer.Still, lukewarm Moore is better than alot of other writers' best efforts and O'Neill's good as ever. I'll be picking up the next volume for sure. 7/10 and high hopes for future additions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lukewarm Moore is Better Than Alot of Other Writers' Best Efforts </p>
+
+
+<h2> review.date </h2>
+  07-30-2011  
+<h2> review.text </h2>
+
+ <p> As a fan of the LoEG, I had to pick this up.  The new League is back deal with a new threat.  The main character of the story is Nemo's daughter Janni who is the most interesting part of the book.  Probably the most developed of the characters.Speaking of such you might want to look up Carnacki the Ghost Hunter and A.J. Raffles the Gentleman Thief.One thing that is great about this issue is the artwork; O'Neill again does a great job.  The oft maligned Black Dossier will be special to me as I once met O'Neill at a showing of the Black Dossier and he drew a picture of Nemo in my copy.I do wish the story had been better crafted.  For example, Mina was around but didn't have an opportunity to do her vamp side.Carnacki and Raffles were supposed to be interesting and it time they might but I was not fascinated by them as I was with Hyde and the Invisible man.Overall, it's an ok story and I will give the forth version a try. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as good as the first two. </p>
+
+
+<h2> review.date </h2>
+  06-25-2009  
+<h2> review.text </h2>
+
+ <p> The intermediate outing of this series, "The Black Dossier", was a tat of disappointment after the first 2 volumes of "The League of Extraordinary Gentlemen". It was good, but it was all over the map. This start of a new sequence lifts the series back to greatness of those two earlier volumes. Although the "Threepenny Opera" riffs throughout this tale may be a couple of decades early, they are very well played. They are definitely 20th Century. As much as Moore played with Martian mythology in Vol. 2, he now plays with German expressionism. I hope that future issues will explore the literature of the 20th Century with similar gusto. Personally I look forward to the 1930's Pulp Era of America if the creators wish to go that direction. I hope that there will be 10 Century issues - one for every decade. Words and images merge well to display all of the diverse characters at their best. Keep your eye out for further glimpses into this marvelous alternate literary universe. Highly Reccommended </p>
+
+
+<h2> review.summary </h2>
+
+ <p> First of Hopefully a Decade of Decades </p>
+
+
+<h2> review.date </h2>
+  03-18-2010  
+<h2> review.text </h2>
+
+ <p> This work felt like a too-short return to the League after an experimental hiatus with the Black Dossier. The comic develops old relationship and spawns new legacies to be continue in later works. There is one significant plot line, but overall this comic felt too short to satisfy. Sequel? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Review of Moore's LEG 1910 </p>
+
+
+<h2> review.date </h2>
+  05-13-2009  
+<h2> review.text </h2>
+
+ <p> Well, well, here we go again.  After "The Black Dossier", which I found tremendously disappointing after so long a wait (v2 itself having been a bit of a let-down from the preceding one), Moore and O'Neill's famous Victorian adventure heroes return for an adventure with an actual plot.  The first of three 'graphic novellas' (it's basically just a slim graphic novel) telling the story of an overarching plot in the 20th century, the events of this one were alluded to in the "Dossier".  Plot details are discussed herein, so be warned.Moore said he wanted this to function both as part one of three and as a story in its own right, hence the decision to abandon the more traditional 22-page single-issue format of previous installments in favour of larger bundles.  In that sense, he has succeeded.  "1910" has both an internal narrative arc and an ending that augurs future plot developments.  On the question of how compelling this story is by itself, I would say reasonably so, moreso than either "The Black Dossier" or "League v.2", though many of my problems with this property remain.As alluded to in "The Black Dossier", this story picks up in 1910, with the League consisting of old standbys Mina Murray (not yet a blonde), Allan Quatermain ("Junior"), Thomas Carnacki (from W. H. Hodgson's "The Casebook of Carnacki the Ghost Finder", originally serialized in "The Strand"), A. J. Raffles (another magazine serial character, created by Arthur Conan Doyle's brother-in-law, E. W. Hornung), and a male Orlando (Virginia Woolf's novel of the same name; a major figure in "The Black Dossier").  The reign of Edward VII has ended, and the inauguration of George V is impending, with the Great War that will bring to a definitive end this period in world history whispering on the horizon.  Our crew is following Carnacki's premonitory dreams which involve the moon-child cult of Oliver Haddo (Aleister Crowley's "Moonchild") and the return to town of Jack MacHeath.  Meanwhile, in a separate plot, Janni, the daughter of Captain Nemo, arrives in London hoping to escape her father's wish for her to succeed him.Sexual perversion and violence against women has been a recurring theme in Moore's work (in his early classic, "Watchmen"), and repeatedly throughout the "League" books Moore seems to be depicting the nature of Victorian society (he did something similar in "From Hell", which also featured Jack the Ripper, though in a very different light to how he's shown here).  Moore has taken some criticism for his use of rape as a plot device in the past, so those critics will find more to criticize here, as the poor Janni, violated by some wharfside scum, summons her father's men to wreak deadly vengeance on the waterfront before assuming her father's identity as Nemo.  It's certainly not an act portrayed lightly, of course (and never was in his work), but as a plot element it can perhaps get a bit tiresome.  Moore has already done many stories about how, as he ends here, human civilization runs on "monstrous deeds".From a narrative perspective, this story repeats some of the problems I had with earlier iterations of this group:  the main characters don't do or accomplish much in the course of the story, there's little character development (only, really, in Janni's case, and that's a fairly standard story that Moore doesn't add anything new to here), or any of the things that make Moore's best work special.  The most notable feature is probably Moore's extensive use of written music, as both MacHeath and a seaside madame named Suki spend more or less all their screentime 'singing' (which comes across to the reader as rhymed narration or monologues).  This is a unique use of the comic book format that I'm not sure would really work in a visual medium, given the time that passes between panels of the song.  As with Moore's "From Hell", there's a great deal of criticism of Britain's class structure here, and the hypocrisy of the upper class of this era.  Kevin O'Neill's art is customarily good.This is probably the best whole installment of the "League" franchise since the original volume in 1999.  All the same, I cannot escape the feeling that there are more interesting things Moore could be doing with his time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Moore goes Edwardian. </p>
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> I think this was an attempt at a musical, graphic novel. There was a LOT of singing, which is funny because you can't actually hear it. But they were singing what was going on in the story. Walking through the chaos. There really didn't seem to be much plot to this. I enjoyed the prose pieces at the end much more than the graphic novel section which seemed to be a mere setup for future adventures (a new villain?). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too much singing, not enough plot </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

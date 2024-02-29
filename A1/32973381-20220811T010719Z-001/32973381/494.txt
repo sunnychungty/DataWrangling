@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00K2BGUII <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> This is a book that should be a first read for anyone interested in investing.  A candlestick chart is a basic you need to know how to read, and this book provides all the information you need to understand how to read them.  I highly recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A FIRST READ RESOURCE </p>
+
+
+<h2> review.date </h2>
+  05-25-2014  
+<h2> review.text </h2>
+
+ <p> Yes this book IS short, but it provides good information. So why candlesticks? Chapter 1 explains the why; Need to know how to read a candlestick chart? Chapter 2; provides a visual and context to support the graph. Mechanics of a candle, examples of a candlestick (red and green), and trend analysis are all complimented by graphs throughout the chapters in this book. Just enough information to get your feet wet with Candlestick Charts, its a great addition to any traders library. This book can be defined as a reference guide, thus I recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short BUT....Worth it! </p>
+
+
+<h2> review.date </h2>
+  06-14-2014  
+<h2> review.text </h2>
+
+ <p> I really like how this book reminds you to always use support and resistance when using and analyzing with candlestick charts. With Forex trading the candlestick charts are very helpful in the way that you can focus in on how long certain trend and turns in the market have lasted. It&#8217;s such a simple strategy and one I plan on using. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to Understand </p>
+
+
+<h2> review.date </h2>
+  05-21-2014  
+<h2> review.text </h2>
+
+ <p> I highly recommend this book. Candlestick charts is one of the easiest ways to gauge the market attitude and motion. This book is the ideal book to have in order to read the candlestick charts. You will find pertinent information in order to reap success. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I recommend this book without reservation </p>
+
+
+<h2> review.date </h2>
+  05-23-2014  
+<h2> review.text </h2>
+
+ <p> This is a quick read but packs in a lot of information that I really hadn't thought about, or didn't realize even existed.  I knew about the principle of candlestick charts, but really hadn't put much thought into what they were.  I hadn't given them enough notice to see that the various parts of the charts were integral to the use of them.  It was great to understand that not only color, but shape and wick length were primary in seeing the rises and falls in the market.I recommend this book to the early investor, it really makes you take a second look at these charts with a whole new understanding of their function and insight. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Interesting In-Depth Look </p>
+
+
+<h2> review.date </h2>
+  05-27-2014  
+<h2> review.text </h2>
+
+ <p> This is a basic guide of candlestick chart only for new traders. With this information you shouldn't trade because it is incomplete. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Basic </p>
+
+
+<h2> review.date </h2>
+  06-28-2014  
+<h2> review.text </h2>
+
+ <p> Your complete beginners guide to reading candlestick charts. If you're a complete beginner when it comes to candlestick charts and candestick patterns, this book was written for you. In this book you will discover candlestick charts. You will learn exactly how they work and how to read them, how to use them to identify market trends, and how to learn and utilize candlestick patterns. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Illustrations </p>
+
+
+<h2> review.date </h2>
+  05-16-2014  
+<h2> review.text </h2>
+
+ <p> Candlestick Charts: Your Complete Beginner's Guide to Reading Candlesticks Charts, covers all of the basic trading method and it also explains how to combine it with technical analysis tools. A very good trading information that gives you an edge of the trading day.  Even if you have no experience with candlesticks, this guide will help on style of trading that will enhance your understanding of the markets. It provides: candlesticks construction, analysis, reversal / continuation patterns, it also gives info on technical analysis tools - trends, support, resistance, momentum indicators, and volume and alternative charting methods. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short Yet Informative </p>
+
+
+<h2> review.date </h2>
+  05-25-2014  
+<h2> review.text </h2>
+
+ <p> Candlestick Charts is a good text that all beginning traders needs in order to understand what the other books mean when they show graphs.  What made author Daniels book unique was its basic explanation of what the candlestick indicators mean and how investors use these indicators to show trends.  What I took from the text was the fact that these charts are almost indespensible in researching things like trend analysis which is reading trends among multiple markets.  Candlesticks seem to be more important in showing the trader how not to lose money as opposed to dealing exclusively in how to make money.  The successful trader will learn how to read these indicators to accurately show when a given stock is trending upwards as opposed to trending lower over a set period of time.  Another book that I wish I had read first as this makes other texts more understandable.  A good read.  The only qualm I may have with the book is its simplicity makes you wonder if there is more to it than just this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better Understanding </p>
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> This book explained in a simple yet detailed manner how to read candlestick charts and save time by using them to identify market trends. I found the tips for understanding patterns useful along with the charts provided. I recently read &#8216;Support and Resistance&#8217; by Kenneth Walker and I think it complements this book well if you are new to trading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very easy to follow and to the point. </p>
+
+
+<h2> review.date </h2>
+  05-23-2014  
+<h2> review.text </h2>
+
+ <p> The concept of Candlestick Charting originated in Japan in the 1700&#8217;s long before the bar system was developed by the West.  Homma, a Japanese futures trader discovered that the emotions of traders had a tremendous influence on the market.  In fact, when added to the equation the result was a big difference between the value and price of an asset.  In simple terms, Candlestick Chart analysis is used to measure the market emotions surrounding a certain stock.  The system is complex and sometimes hard to understand but is very popular with traders.  Similar to bar charts, the daily line of a candlestick chart shows the open, close, high and low of the market on a given day.  The wide part or Real Body shows whether the closing price was higher/lower than the opening price.  The Candlesticks shadows indicate the highs/lows and how they compare to the open and close.  Candlesticks are used by analysts to determine when to enter and exit trading.  Christopher Daniels does a great job illustrating the principles of Candlestick Charts for the beginner.  I highly recommend for traders researching charts and patterns and how they can be used to identify market trends. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Candlestick Charting: What Is It? </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

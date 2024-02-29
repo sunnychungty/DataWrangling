@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B002OT4NN0 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-13-2013  
+<h2> review.text </h2>
+
+ <p> Works great! Especially for the price. Just make sure you air it out after each swim/dive. The greatest feature that I had no idea it had.... you can hear under water! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  04-13-2011  
+<h2> review.text </h2>
+
+ <p> worked well after doing the cardboard cutout 'shim' in the front and side so that it would fit snugly enough in the case for buttons to work.  for $35 I dont mind having to do that, as long as the water seal is legit.  went snorkeling every day for a week and water never leaked in at all.  I'm always very careful to inspect the rubber gasket every time for any tiny salt or sand particles that could compromise its seal.I'd recommend this based on the price,  and reasonable durability.  It's annoying that it didn't fit my Flip properly, but as I said that issue was remedied easily enough. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked well, but only after the famous cardboard modification </p>
+
+
+<h2> review.date </h2>
+  11-13-2010  
+<h2> review.text </h2>
+
+ <p> I bought this to use with my flip on a vacation that involved a lot of water activities.  It was great.  100% water tight.  There is wrist band for it that nice so you can just drop it and keep swimming when you want to.  And it floats! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> under water vacation must have. </p>
+
+
+<h2> review.date </h2>
+  05-22-2013  
+<h2> review.text </h2>
+
+ <p> You have to hit the record button before closing the case otherwise it is impossible to get your flip to start recording! Not a deal breaker but it is a pain in the ass when you're hands are already wet and you have to dry them, open the case, press record, close the case and then begin. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One design flaw... </p>
+
+
+<h2> review.date </h2>
+  07-19-2012  
+<h2> review.text </h2>
+
+ <p> Great waterproof case for 2nd Generation Flip Ultra HD, but too big for 3rd Generation Flip.  There's another waterproof case out there better suited for the 3rd generation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NOT FOR 3RD GENERATION FLIP!!! </p>
+
+
+<h2> review.date </h2>
+  05-24-2010  
+<h2> review.text </h2>
+
+ <p> This camera enclosure keeps the water out, and takes great video underwater.  I could not be more happy!Awesome!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT IDEA </p>
+
+
+<h2> review.date </h2>
+  10-07-2013  
+<h2> review.text </h2>
+
+ <p> Love the flip. Works great. No leakage. No water. Does the job. Very strudy as well. Has been dropped a few times and always works. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  10-19-2010  
+<h2> review.text </h2>
+
+ <p> What more can I say than, it does what it says it can. Keeps your flip cam dry, even if its submerged under total water! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Reliable </p>
+
+
+<h2> review.date </h2>
+  02-06-2010  
+<h2> review.text </h2>
+
+ <p> If like me, you are looking at this for scuba diving, you will need to look elsewhere. This housing, even though it is made of the same exact materials as the commonly available housings for digital compact cameras, such as theCanon WP-DC22 Waterproof Case for Canon PowerShot SD1100ISis rated only to 30 feet, not 130 as the Canon ones. One can only assume that this is due to a poor design of the buttons and latch mechanism, which would also account for the significant price difference between this housing and the Canon ones. If you are looking for an inexpensive underwater video option for scuba diving, I would get a Canon digital compact and a housing for that instead.This housing has two other flaws, which appear touched upon by others as well. First, the manual is woefully inadequate if you are not used to underwater housings. It fails to point out that you must clean, lubricate, and generally be extremely careful with the o-ring. As this is an introductory video housing, and it does not come with any o-ring lube, I would expect the failure rate to be alarming.Second, as another review pointed out, you cannot fit the camera in the housing with the camera strap still on it. This seems to be a design oversight that could have easily been prevented by making the housing a quarter inch wider instead. It would not be so bad if the strap was easier to remove, but as it is impossible to do so without tools, it makes for a frustrating mount within the housing.If you are only snorkeling then I suppose this housing is acceptable. If you want to actually scuba dive, look elsewhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not suitable for scuba diving </p>
+
+
+<h2> review.date </h2>
+  02-14-2013  
+<h2> review.text </h2>
+
+ <p> I bought this for my Flip Ultra HD.  Of course I was nervous to try it because Flip Cameras cannot be fixed, just basically trashed and replaced.  If you ruin your camera, the movies don't really come off too easily either.So, I used this on a cruise vacation.  The camera was protected and it worked well with the case.  The only two issues I found is that the sound is somewhat muffled, and if you don't hang onto it, this will sink to the bottom of the ocean.  One small grain of sand or hair could break the seal too, so be very careful.I like having the option though to use my camera in the water/rain if necessary.  Now though, you can get fully waterproof cameras that are just as good as the flip, so I wonder if this is sort of old news...Either way, it is kind of cool.  Just be careful because the plastic scratches easily! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works Well </p>
+
+
+<h2> review.date </h2>
+  06-30-2011  
+<h2> review.text </h2>
+
+ <p>  </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I have so much fun with this! </p>
+
+
+<h2> review.date </h2>
+  11-26-2013  
+<h2> review.text </h2>
+
+ <p> Works great! Never a leak or worry with this case. Been to multiple waterparks, tubing trips, hours in the pool, lakes, oceans, and never a drop of water inside!Of course it's a little bulky but hey, keeps your camera nice and safe! Lots of fun with this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great case! Seen many of waters! </p>
+
+
+<h2> review.date </h2>
+  05-30-2010  
+<h2> review.text </h2>
+
+ <p> I have to admit that it took a major leap of faith jumping in the ocean with my recently purchased Flip Ultra HD camera. The Underwater Case did its job perfectly, though, allowing us to get some highly entertaining video while snorkeling in Belize. It's pretty rare these days that a $35 accessory could bring so much enjoyment, but combine the Underwater Case with a Flip camera, and you have the least expensive underwater video setup one could imagine. The camera's controls are easy to use with the case on, and I was pleasantly surprised at the video quality. If you own a Flip, and have any watersports planned, for the price of this case it is a no-brainer. One related suggestion: purchase a set of Sanyo Eneloop rechargeable batteries and use them instead of the batteries that come with the Flip UltraHD. I wondered if the batteries would go flat in the water, but we shot a good 45 minutes of snorkeling with no problem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Opens a whole new world for the Flip </p>
+
+
+<h2> review.date </h2>
+  05-05-2010  
+<h2> review.text </h2>
+
+ <p> This is awesome... this fits the ultra HD like a glove. We did not have one issue with it during our 7 day family cruise.  It was in the pool, the hot tub, going down the water slide, the ocean, and at the turtle farm. It does make the microphone sound a little echoey, but it is in the plastic bubble. This stood up to my daughters bouncing it around on her write and banging into the side of the pool or whatever and did not have a problem at all. You can't even see any scratches on it. I wish I could find something this affordable for my camera. This is great even just as protection for your camera. It a little bulky, but I actually like that, it makes it much easier to hold the Ultra HD in your hand if you have big hands.Worth the money for sure if you have kids that want to use your camera. Or need some water protection for whatever you want to do or wherever you want to use it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome... </p>
+
+
+<h2> review.date </h2>
+  09-17-2013  
+<h2> review.text </h2>
+
+ <p> Worked great.  Too bad Cisco had to go in and buy FLIP and then dismantle it the way they did.  If only that announcement had come before we invested in more to enhance our user experience with our FLIP. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked well </p>
+
+
+<h2> review.date </h2>
+  06-20-2010  
+<h2> review.text </h2>
+
+ <p> I love this thing and for the price you can't beat it, it works great and even looks cool. It even works as a "oops" case, pretty tough and all the buttons work. The only thing i dont like is that fact that it does not float with the camera in it. It floats when empty, but the weight of the flip cam will make it sink, slowly. Keep your wrist-let on! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works awesome but doesn't float with the camera in it! </p>
+
+
+<h2> review.date </h2>
+  07-25-2010  
+<h2> review.text </h2>
+
+ <p> This housing is rated at 35 ft depth, however, the housing compresses below about 6 ft and presses all the buttons simultaneously.  This has been reported in several other reviews and I concur.  With all the buttons pressed simultaneously, the best you can do is start recording and submerge, because you lose all control of the Flip.  Other than that, it is a very good product for shallow snorkelling and pool use.  I would give it 5 stars for that use.Very happy with Amazon's service with this item! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> U/W housing interferes with Flip use for shallow scuba dive 6 ft. or above </p>
+
+
+<h2> review.date </h2>
+  01-20-2010  
+<h2> review.text </h2>
+
+ <p> I have not had much time to play around with the case but from I have seen, it seems pretty well made and solid. I did a paper test before trying it with my camera. While the case was submerged under water, I pressed the various controls and buttons and no water had leaked through. The manual for the case is less than desired. I have bought under water enclosure for one of my digital cameras and it suggested to lube the "o" ring before use. There was no such instruction for this case but apparently it does not need because it seems to work fine.I am surprised that this case is only good for 30 feet. I have a one of those cheap plastic bag camera cases which is good for much deeper depths.Overall, I am very happy with this case and should suit my needs just fine. I purchased the case so I could capture footage while snowboarding. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Flip Video Underwater Case </p>
+
+
+<h2> review.date </h2>
+  09-16-2011  
+<h2> review.text </h2>
+
+ <p> We tested this product in our pool and it is definitely waterproof!  Got some underwater shots.  Next up, video from a tube being pulled behind a boat... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Definitely waterproof </p>
+
+
+<h2> review.date </h2>
+  01-11-2010  
+<h2> review.text </h2>
+
+ <p> There's little doubt that the folks at Flip have revolutionized the point & click pocket size HD video market. Kudos to them for that. As with all new products there's always room for improvement. This underwater case works just fine but, in my humble opinion, based upon two other point & click waterproof cases I own this particular case has a minor nuisance design flaw. The flaw is that the camera's wrist strap must be removed before the case can be used because the case is not designed in such a way that the wrist strap can be enclosed in the case. I consider this a design flaw only because I own two other point & click underwater camera cases and they both have room to enclose the camera's wrist strap. If you're in a pinch and want to use this case, you'll need to have a toothpick or earring handy to remove the camera's wrist strap. Had Flip designed this case in such a manner that the camera's wrist strap could be safely enclosed then I think it warrants five stars. It is hoped that subsequent issues of this product will result in a design change making it just a little bit better. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine but flawed design </p>
+
+
+<h2> review.date </h2>
+  04-18-2012  
+<h2> review.text </h2>
+
+ <p> Better built than the picture shows I snorkel dived down 20+ feet without a problem. The only minus is viewing the screen is difficult while wearing a dive mask. Also excellent protection for your camera if roughing it in the back country. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Flip video underwater case </p>
+
+
+<h2> review.date </h2>
+  02-15-2010  
+<h2> review.text </h2>
+
+ <p> This is one of the first accessories that I've purchased for my Flip UltraHD, and it's been the most worthy investment.The case doesn't degrade the quality of the flip at all (in my opinion), even the sound picks up quite well! I generally leave my flip in this case, and then have the ability to film underwater when and whenever I choose to do so. The case itself is perfect, not a leak or a scratch on it after bringing it to the Bahamas just this past christmas. We've used it in a multitude of pools and beaches and haven't had a single issue with it.Great product! Have a Flip? Buy it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect underwater case, great quality! </p>
+
+
+<h2> review.date </h2>
+  05-10-2013  
+<h2> review.text </h2>
+
+ <p> The original description says that the case floats.  It does if the flip video is not in it.  Be sure to strap it to your wrist so as not to lose it in a lake.  It is slow sinking. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does not float </p>
+
+
+<h2> review.date </h2>
+  01-19-2013  
+<h2> review.text </h2>
+
+ <p> I've used it for over a year now and no leaks. It works really good. The Flip doesn't have many buttons, but all are usable when inside the case.The only wish would be that it had a camera/tripod mount. I glued a nut to the bottom of mine, so I can now attach it to a camera mount. This comes in handy when I used it while kayaking or on my bike when I get caught in the rain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

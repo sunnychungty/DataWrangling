@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0041O5XU8 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfect </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Originally purchased for a 14" Samsung laptop (QX410-S02), I've had this sleeve for about a year now. High quality, great look, snug fit for my laptop with my logitech unifying dongle slightly jutting out - just all around perfect for my needs. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Magnet? </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-14-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> There is a magnet which holds the flap in place. Not sure if you want to use that next to your laptop's hard drive. Unless of course, you have a SSD in your laptop. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Well Made Laptop Sleeve </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This Toshiba laptop sleeve will protect other laptops/notebooks of its screen size (!4 inch) quite well. I have been using with my Dell Inspiron 13z and have found it to offer better cushioning than the neoprene 13.3 inch sleeve that I had purchased for it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Missing something to be great </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this sleeve for my 13" Macbook Pro. It fits generously. I can even throw my iPad 2 in. It is a sleeve, you cant put charger or anything that thick in. Very convenient to carry from office to library. Fit well in my 15" backpack. The magnetic lock is useful. I like it so far. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> computer case </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-07-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> The sleeve fit my toshiba 14 inch laptop perfectly.  It protectsit fairly well.  Not the best one I've seen but for the priceit was a good deal. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I got it for free so a normal Sleeve is great. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-16-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I got it for free, even son the quality is naice and it makes its job but it is not a premium product i think </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wish it was less bulky and has pocket for ac adapter </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-10-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wish it was less bulky and heavy, had a pocket for ac adapter. Otherwise, it's fine.Presario CQ43 fits in nicely, so HP owners can also buy this one safely. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> delicate but a bit tight for my dell xps 14 </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-09-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> good choice for business occasion. Delicately made. But I think it is more fit for laptops of business use such as thinkpad T4xx,or Dell latitude 54/64xx. As to my dell XPS 14, it is a bit tight.You don't have to care that this case is made for toshiba because the trademake of toshiba on the case is quite small and dark. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 14inch case? </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-05-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a little too big for my 14" Toshiba M645 and too small if I have the 12-cell il-ion battery pack on the laptop.  Other than it not fitting properly, it seems to be made very well for the $5 I paid for it.  Item was in its own plastic bag in the Amazon box with a few other items.  Only 3 stars for it being too big for my Toshiba 14inch laptop, then too small for it with the 12-cell battery. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice fit and good quality </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I wasn't sure it was going to fit since I have an HP Folio and not a Toshiba.  But it fit perfectly, snug but not tight.  And it has a very professional look to it.  It makes a nice and business-friendly way to carry my laptop to meetings, etc.  It also goes smoothly through TSA security without removing the laptop.  Arrived promptly and priced right.  I am very glad I got this instead of a neoprene zippered sleeve. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

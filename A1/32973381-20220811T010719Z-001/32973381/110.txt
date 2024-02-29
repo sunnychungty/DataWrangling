@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B005CKAPR6 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-14-2011  
+<h2> review.text </h2>
+
+ <p> When I first saw this pop up on amazon I was very skeptical,  I know you usually get what you pay for.  After getting this I realized when you spend $500-$1000+ on a rig and follow focus you pay for the brand name (red rock, zaucto, etc).This rig/follow focus seems very sturdy.  When I took it out of the box I was expecting a very light cheap set up, but the whole thing has a very high quality feel.  The only thing that I could see maybe breaking years down the road are the blue thumb tightening screws since they are plastic.The follow focus is very nice, the whole system has no play.  The final gear to the lens has a SMALL amount of play nothing I am concerned about.  The gear for the lens stays in place and I have not had any issues, I just need one for each lens now.  I trimmed about an inch off the end so I didn't have as much hanging off the end and I can still get around all the lenses I have.The mounting block has 4 tripod mounting holes and is made of nice solid metal.  All the rails are very high quality and seem very sturdy.The only part of this that is not amazing is the shoulder mount,  I didn't expect it to be amazing from the pictures.  It really needs the shoulder and either a mono pod or a 2nd support for the torso.Overall if you are an indie HD DSLR film maker or are looking for a cheap non DIY follow focus rig this is a nice high quality rig that I will be shooting with for years to come.  I would highly recommend this to a friend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing rig for the price! </p>
+
+
+<h2> review.date </h2>
+  04-28-2012  
+<h2> review.text </h2>
+
+ <p> This rig seems like it's good quality.  It's solid, fits together well and supports the camera such that even longer lenses can be used with the follow focus.  They seem to have fixed the issue with holes being tight - in fact, it's almost the opposite - if you don't crank down on the plastic tabs that hold the screws, you'll find that things are a little loose.  They scares me a bit since they are plastic....  but so far, it's taken my cranking well.Overall it's a good value, and I will be using it a lot.  However, it would be better if the clamps worked without fear that things are loose.  There's expensive gear up there that I don't want moving around.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good </p>
+
+
+<h2> review.date </h2>
+  12-03-2011  
+<h2> review.text </h2>
+
+ <p> For the price, this is a great starter or secondary. The machining on the various parts isn't the most precise, so some things fit tighter than others. The follow focus has just a slight bit of play, minor enough not to be an issue for me. The shoulder pad is odd and the connection to the rod is weak, but a little modification and it works pretty well. Overall, I like it, I use it and I probably wouldn't want to pay much more for it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Suprised by the quality </p>
+
+
+<h2> review.date </h2>
+  10-02-2011  
+<h2> review.text </h2>
+
+ <p> Overall, the rig is very nice. I'm happy with it. Easy to hold, and the mount is broad enough to use HD DSLR or full sized camcorder like the Canon XH-A1. I have only tried it out around the house, making home movies of our new puppy, but even though there's no counterweight, it isn't heavy on your arms.Hand Grips are comfortable. The machining isn't quite precise, as the holes are VERY tight, and it is difficult to slip the rods through. I needed to pry it open with a flat sided screwdriver. However, the threads are tight and responsive. The thumbscrews are plastic, so we'll see how long they last. But I think it is a great option for newbies who can't afford Zacuto or Cinevate rigs.If you are looking for other options, I would choose eBay. There are better rigs and better prices. I also saw this same item that came straight from the factory for $290. That set includes a chintzy matte box that looks pretty useless (I bought it because I needed a follow focus). I am keeping the one I bought from Amazon because at least I can return it if I need to. I've contact ePhoto through their website twice thus far asking about their LED lights, but no response. So this is a "take what you get" Here is the list of second hand items[...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice discount value buy for HDDSLR shooters, enthusiasts and burgeoning pros alike </p>
+
+
+<h2> review.date </h2>
+  03-26-2013  
+<h2> review.text </h2>
+
+ <p> I got a box full of parts.  While some may be completely comfortable with putting together things without instructions, I'm not one of them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Instructions would be nice.... </p>
+
+
+<h2> review.date </h2>
+  06-14-2012  
+<h2> review.text </h2>
+
+ <p> This is my first rig for my Canon 60D and it works great. The shoulder rest part is a little clunky and tends to slip around a bit. The follow focus fit three of my lenses. It should be noted it's very difficult to adjust the zoom while the follow focus is attached but I think that is the case with any rig. One thing I feel is missing is a handle in the middle. When I take on hand off to adjust focus I find myself preferring to have a handle in the middle for easier one handed operation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the price </p>
+
+
+<h2> review.date </h2>
+  03-30-2012  
+<h2> review.text </h2>
+
+ <p> I'm very pleased with this rig. It took me a few hours to find the best setup, but once I got it, it felt good to use. The only thing stopping me from giving it 5 stars is the follow focus. It feels a little spongy, but not enough to consider it unusable.Overall, I do recommend this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works well and feels good </p>
+
+
+<h2> review.date </h2>
+  05-20-2013  
+<h2> review.text </h2>
+
+ <p> Very Solid rig for the DSLR shooter, flexible and easy to add onto. My only complaint is that the focus follow will not allow use with a camera body attached to a Battery Grip and Quick Release Plate ( i know, very picky, but had to be honest). The Rig has great balance and is very easy to manipulate whether its just a camera on it, or if it is a full rig with audio recorder, boom, and light attached. Works well when mounted on a tripod to give grips and stability.  Overall very good buy for the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Solid </p>
+
+
+<h2> review.date </h2>
+  06-27-2012  
+<h2> review.text </h2>
+
+ <p> For $260, you should get a lot more bang for your buck. The knobs are plastic, the rails are short and the shoulder piece isn't supportive or comfortable. I ended up mashing parts of this together with another rig I had so I didn't end up wanting to kill myself for spending so much on such low quality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not worth the money. </p>
+
+
+<h2> review.date </h2>
+  02-29-2012  
+<h2> review.text </h2>
+
+ <p> Ok let me preface this that I'm all about supporting the manufacturer to spur innovation, jobs in the US, etc etc. HOWEVER, have you seen the prices for a "Name Brand" DSLR rig from Zacuto or Red Rock Micro? I've been eyeing a shoulder rig to compliment myManfrotto 501HDV,546BK Video Kit with 501HDV Head and 546B Tripod (Black)andManfrotto 561BHDV-1 Fluid Video Monopod with Headkit for video work at weddings but never bit the bullet due to the price since I've already got an amazing monopod with the Manfrotto 561. I saw this pop up on my Amazon suggested list one day and figured for the price I would give it a shot, and I'm happy I did. I don't own a Red Rock rig but I can't imagine it being much different from this. High quality aluminum rods, everything felt really sturdy and the follow focus worked very well. It really makes you wonder what the markup is on a Name Brand rig, if ePhoto can get away with selling this for so cheap.As for use, does it work? For it's purpose it does very well, but of course I have some suggestions. I wish it had a counter weight on the shoulder pad to balance a small DSLR better and feel more heavy in my hands, but it certainly works better than hand holding the camera. After a short use I feel I'm gripping it hard to keep it steady against my shoulder but it may also just be me learning a new system over the things I am currently using. I also bought a Steadicam from Amazon, the portableSteadicam Merlin Stabilizer, Stabilization System for Camcorders And HD DSLR Cameras up to Five Pounds. "Includes Free Travel Case for any Video camera up to 5 pounds ($119 VALUE)"which again is twice the price of this shoulder rig from e-Photo. Is it better? Yes. Does it take longer to set up? Yes. The Steadicam is nice but honestly a pain to work with for something like weddings where you are changing shots frequently. I've had the Steadicam for over a year now and while I can balance it pretty quickly for different lenses, it's still a commitment that you can't switch up during something like the vows at a wedding. I would recommend this shoulder rig over a Steadicam for event work, weddings, and documentaries where shots are unplanned.Overall this is a great value for the price, and while it is a commitment to buy it is a much cheaper alternative to the name brand items that do the same exact thing. I'm hoping that ePhoto will come up with some more similarly priced models with a bit more features that would be serious competitors to the high end name brand DSLR rigs. Thanks ePhoto and thanks Amazon for carrying this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What These Rigs SHOULD Cost </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

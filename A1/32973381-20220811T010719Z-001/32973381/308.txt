@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1493611437 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-05-2014  
+<h2> review.text </h2>
+
+ <p> Really held my interest.  Had a lot of the F word.  Way more than I really care to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Four Stars </p>
+
+
+<h2> review.date </h2>
+  05-28-2014  
+<h2> review.text </h2>
+
+ <p> I love the pace of the book, from start to finish. There is passion and intrigue but there is never a dull moment. This book has it all: big time bad guys, dedicated good guys, murder, mayhem, and of course romance. Shelley Young has done it again! I'm a big fan. Can't wait for the next one to come out, so hurry up - are you listening, Shelley??? Loved this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is an intense read! Shelley Young has done it again! </p>
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> much better, actually.Good plot, strong characters, steady pacing.I recommend this book to people wanting a bit of grit without much grime.I look forward to reading more from this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not what i expected </p>
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> Enjoyed this book.Many interesting characters ,several different stories to follow.Will pick up the sequel.As this book gave enough depth to the characters ,that a reader wants to see what's next </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good reading </p>
+
+
+<h2> review.date </h2>
+  06-28-2014  
+<h2> review.text </h2>
+
+ <p> Possibly the best book I&#8217;ve read this year. Without a doubt this should be a TV series. Shelley Young is an extremely talented novelist. I have nothing but admiration for those writers who can frame a plot, build a subplot followed by another subplot and then shrewdly fuse them all together, but Young does this with such style and panache! .I say this should be a TV series because there are so many &#8216;Oh shit&#8217; moments that leave chapters suspended on a cliff-hanger. And just when you think the story has unfolded and offered all it has to give the roots become more profound and the reader is drawn back in again with exceptional skill.This is the first book this year that is what I call a &#8216;Can&#8217;t wait to get back to my book&#8217; books.So who would play the main characters? Without a doubt Danny Glover would play Jesse Richards. I couldn&#8217;t help but picture him throughout the book. The kind of burned-out cop bumbling cop with a lot of experience but out of his depth. Aaliyah I couldn&#8217;t help but picture as a Rihanna lookalike, especially when she sported her beautiful red afro, or perhaps Diana Ross in the 70&#8217;s. I&#8217;m aware Aaliyah is white, born to black parents, but in my mind I pictured her as black and couldn&#8217;t shake the image. So Rihanna could play her.Tom Cruise would be ideal to play Dardian Dreshaj &#8230;.. if he were a little taller, so perhaps George Clooney would work.Either way, I absolutely loved this book. It&#8217;s a real skill to write a murderer that the reader likes. I don&#8217;t want to be a spoiler, so I won&#8217;t say more except that I thoroughly recommend this book.And please SOMEBODY PICK UP ON THIS STORY AND MAKE IT INTO A TV SERIES! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Should be a TV series! </p>
+
+
+<h2> review.date </h2>
+  02-22-2014  
+<h2> review.text </h2>
+
+ <p> I love the world Shelley Young created. The book starts off with action that sucks you in and then doesn't let up from there.It's also well written and edited, which isn't always the case with Kindle books. There's just the right amount of detail to make you feel in the center of what's going on, without distracting you with endless descriptions of things that don't matter. The balance is sophisticated.I will make it a point to read anything she writes in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unique, Fast-Paced and Fascinating </p>
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> The Blood Feud was a great fast read, kept me guessing through most of the book, then when I thought it was all coming together the author would throw in another plot twist! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  06-27-2014  
+<h2> review.text </h2>
+
+ <p> This is a terrific read. The author has created a unique character and built a story around him. If any criticism is due, it's because he let the min character become "too human", instead of continuing his mysterious ways. I look forward to future stories about Padukshem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrific read </p>
+
+
+<h2> review.date </h2>
+  06-20-2014  
+<h2> review.text </h2>
+
+ <p> I&#8217;m into writing romance, whether it be YA Paranormal [my first self-published novel; my W.I.Ps. of adult Contemporary, YA Urban Fantasy, as well as Flash Fiction.  This book is the first book I&#8217;ve read for this genre, and although it&#8217;s somewhat lengthy at over 500 pages I&#8217;ve found it to be quite delightful.The book&#8217;s pacing is quite good as the action of the storyline keeps the reader wanting to read more. Helping to get over the length are the twists which have been perfectly placed which keeps the reader guessing as what is about to happen next. The mix of suspense, action and murder turns out to be a perfect blend of the three.While some reviewers might point to the editing as a negative, it didn&#8217;t come into play as many poorly edited books usually do; which is why I decided it to give it 5 STARS. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A PERFECT BLEND OF SUSPENSE, ACTION and MURDER </p>
+
+
+<h2> review.date </h2>
+  06-25-2014  
+<h2> review.text </h2>
+
+ <p> Everyone gets in on the action which keeps you glued to the page.  A fun read at the beach or in the mountains. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable Thriller </p>
+
+
+<h2> review.date </h2>
+  06-02-2014  
+<h2> review.text </h2>
+
+ <p> I enjoyed this story a lot. I would have given it five stars except that the editing is weak. I saw a lot of typos and a few grammar problems. Normally that turns me off, but the story was good enough to keep me reading anyway. Fix those mistakes and it's a winner! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good read! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

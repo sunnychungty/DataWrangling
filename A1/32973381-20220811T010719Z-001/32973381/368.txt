@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1844168212 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-29-2012  
+<h2> review.text </h2>
+
+ <p> Dan Abnett's writing NEVER fails to impress. Deep, realistic characters and expansive worlds that the reader can almost taste and smell. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gaunt's at it again </p>
+
+
+<h2> review.date </h2>
+  10-13-2011  
+<h2> review.text </h2>
+
+ <p> The Tanith regiment roars back in this new book highlighting one of the best regiments of the Imperial Guard.  After a year of garrison duty, Gaunt prepares for what could be the most pivotal assignment not only of his career, but for the entire Sabbat Crusade.  Using information gleaned from the turncoat Son of Sek, he plans to infiltrate a fortified space hulk conrolled by Sek in order to gain valuable information, as well as a chance to throw the forces of Chaos into confusion.  Along with a new commisar, new fungs (frakking new guys) from Verghast and Belladon, three Adeptes Astares from three chapters, and a surprise from his past he takes an ancient ship to meet the challenge, and hopefully bring the Crusade closer to completion.DAn Abnett brings the Ghosts to life in his writing, from the introductions of the new characters, to the lives of the camp followers, to the battle sequences both in space and on the hulk.  Fan of the 40k series and new comers will enjoy this book as he is one of the best writers that the Warhammer universe has to offer.  A must read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tanith First and Only!!!!! </p>
+
+
+<h2> review.date </h2>
+  12-13-2012  
+<h2> review.text </h2>
+
+ <p> Unlike previous titles the Tanith Ghost dont get to use their camo cloaks and their stealth capabilities.While the story is good, it seems wrong to use masters at infiltration is a straight forward boarding action.Still, its is a good book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Ghost are back! </p>
+
+
+<h2> review.date </h2>
+  12-19-2012  
+<h2> review.text </h2>
+
+ <p> In my opinion, Dan Abnett is the best writer Gamer's Workshop has. While Salvation's Reach was not his best Gaunt's Ghosts book, it was still a very good read. I hope Abnett continues this series. As long as he keeps writing, I will keep reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Writer </p>
+
+
+<h2> review.date </h2>
+  02-17-2012  
+<h2> review.text </h2>
+
+ <p> The G.G. franchise is HUGE in the number of characters it contains.It has become obvious that the interesting character pool is fragmented and getting shot to pieces by war.Blood Pact was an odd GG book as it went to some pains to bring in a few new characters and to deepen others.  Blood Pact did not clean up the scene enough.This tidies up a HUGE amount about those characters and then goes on to show their strengths and weaknesses in the battle scenes.It also fulfilled a bit of Abnett's expressed need to write a book with space battles in it.Overall very nice and the few reviews that talk about too much narrative on characters need to understand this book was needed.  This refreshed and flushed out the atmosphere.  I found the narrative satisfying as it put some to rest/action and others in needed context.As for Gaunt not being there as much his staff is mature and needed him to back off from the day to day hands on just a bit.  Having run an ever changing organization of around 200 people NOT in combat I would say this is a pretty good description of a Colonel's role.  As for not enough combat I think there was just enough to keep me going.  Without this book the series would have become another poorly characterized and dull 40K space opera.A note on Abnett vs 40K writers in general.I have been both a tournament level 40K player and semi professional painter of thousands of 40K figs and vehicles so I have seen the best and worst of the actual 40K players/readers/writers.Almost ALL of the other writers of 40K fiction write page after page of poorly staged battle scenes with characters no one could possibly care about.  My least favorites are the many 10,000 year old supposed genetic "supermen" with the vocabulary and tactical sense of a mentally challenged 12 year old.  These tomes are barely fit for 14 year old gamer psychopaths.  They do page after page of this: The invincible (insert heroes name here) used his (insert weapon name here) to kill the utterly evil (insert opponents description here) and then he stopped to say (insert inane observation here).  Their stuff is not only dull but repetitive and often so bad they are unreadable.I liked this book but the 14 year old psychopaths won't. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Had to be done to both tidy up and create some characters </p>
+
+
+<h2> review.date </h2>
+  11-05-2012  
+<h2> review.text </h2>
+
+ <p> ... with great action and interesting characters.If you're reading this review, then you likely fall into one of two categories:1)You've read previous books in the Gaunt's Ghosts series. In this case here's the only sentence you'll actually care about: yes, this book is just as good as the previous ones.or2)You're new to the series and wondering if you should read this book. I very much recommend the Gaunt's Ghosts series because Dan Abnett is able to, as mentioned above, write great action and create interesting characters. The books aren't just good Warhammer 40k books, but good science fiction (or maybe more accurately military scifi). As for skipping strait to this particular book, I wouldn't necessarily recommend it - the plot is derived from events in Blood Pact, which is intended to be the first book in this particular "chapter" of the Gaunt's Ghosts novels. Having said that, Abnett does fill in the main points, making this book accessible to newcomers.One final point of note: there is a space battle in this book that is very well done. Enough so that after reading that part I was very interested and went online to look up more info on Battlefleet Gothic, the tabletop miniatures space battle game set in the Warhammer 40k universe. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dan Abnett Does it Again... </p>
+
+
+<h2> review.date </h2>
+  03-15-2012  
+<h2> review.text </h2>
+
+ <p> First posted on Amazon.co.uk on 18 October 2011This one is especially for military sci-fi fans, although many others might enjoy it also. It is the last installment in the Gaunt's Ghosts series, with the usual ingredients that have made this series into a hit. Note that unlike other series, you do not necessarily need to read the 12 (or is it 13 now?) previous episodes to keep up with this one, which I found surprisingly self-sufficient. You may wish to do so, however, because they are well worth it. Having read all of the previous episodes, I was wondering what Abnett could come up with next to avoid this book from being a repeat of previous adventures. The answer is: quite a lot!First, he has introduced three Space Marines from three different chapters that participate in the Salvation's Reach mission alongside the Ghosts but under Gaunt's operational command. The inter-play between the Marines and the "mere humans" is interesting, even if not entirely original. So are the hints that Abnett drops here and there about the Marines being themselves "human" (although genetically modified and enhanced), bound to duty, fighting an eternal war and somewhat doomed. This theme had started to appear in Prospero Burns. A similar sub-theme seems to be borrowed from the Night Lords' series to portray the Space Marines feelings with nostalgia dominating the lot (yes: they do have feelings!) as they see the now rare assault craft they will be using and remember the thousands that they used to have.Second, the intrigue starts of with an infiltration and an attempt to assassinate the "traitor" that is helping the Imperials. This is linked with a major naval battle when Gaunt's fregate transporting his whole regiment is ambushed by Chaos ships at its meeting place with an Imperial Battle Group. I found the encounter quite fantastic -it felt real - and I just couldn't let the book go until I finished it. One little grip, however: the screaming Chaos ships, all possessed by Daemons, of course, was a bit over the top...Another nice touch was the assault on the target - a fortified ennemy arsenal protected by a huge ring of debris accumulated over tens of thousand of years - and the attempt to get hold of its secrets and (presumably) its technology. I won't say anymore here because I don't want to spoil the plot...Two more little grips, however:- one, was when, right at the end of the book, a Chaos battleship seems to appear as Gaunt's frigate is departing from Salvation's Reach, but doesn't attack, although it's vastly superior to the frigate and did attack it previously under less favorable conditions. Is this a typo that the editor failed to spot?- another is that we are made to believe that spreading messages supposed to come from one Chaos faction would be enough to convince the other faction that it has just been attacked by its supposed allies. I doubt that any Chaos faction would be that stupid and that kind of expectation is rather unrealistic, to put it mildly, especially when the attackers have been obliged to leave their dead behind.All in all, a great read which I finished within a day (told you I couldn't let go of the book!). I hope you'll enjoy it at least as much as I did... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gaunt's Ghosts (and Dan Abnett) do it again! (with a few additional twists), </p>
+
+
+<h2> review.date </h2>
+  10-10-2011  
+<h2> review.text </h2>
+
+ <p> Book Thirteen in the Gaunt's Ghosts series marks an end and a beginning. It has the feel of a great Navy ship turning about in a high wind and reminds me of something Norman Mailer said in a television interview he gave after the publication of his novel, "Ancient Evenings" (Abacus 1997), when asked about its length: "it takes me a hundred pages to turn a barge." What Mailer really meant was that his story and plot were so detailed and rich that it took him time and description to move it along. "Salvation's Reach" (Games Workshop Ltd. 2011) is not overly long nor complicated; in fact, I wanted more, but the novel does feel like a turning, a shift in the force, as it were: people die and new characters arrive; several new plot lines emerge; and new themes surface. No matter the new elements and the obvious thrust forward, there is also is a harkening back to previous stories and the appearance of characters from previous novels that complicate and enrich Gaunt's life. As characters surface from Gaunt's past, the man alone is no longer alone.The novel begins with Rawne and the creation of a new sub-unit within the Tanith Regiment: The Suicide Kings. The Suicide Kings, chosen by Rawne, are vying for the responsibility of protecting the double-triple agent Mabbon Etogaur. Mabbon, once an Imperial Guard, who defected to the Blood Pact and then to the Sons of Sek, a chaos war band, similar to the Blood Pact and loyal to Magister Sek, has devised a plan with Gaunt and Lord Militant Cybon to create an internecine struggle between the Blood Pact and the Sons of Sek. The plot of the novel might simply be described as Gaunt's planting the cheese in the trap. The trap is Salvation's Reach, a massive construct of space debris, where the Sons of Sek are based. Once again, Abnett has created a fabulous, wondrous battleground.To set the trap, the Tanith is joined by new units and three Space Marines. Once they arrive at Salvation's Reach great mayhem ensues; however, most of the novel is set in space aboard an ancient ship of the line, refurbished and released from storage, the Highness Ser Armaduke.Abnett said in a recent video-blog on Youtube that he would like to write an Imperial Navy novel. In his description of the Armaduke's voyage through the Warp and its subsequent battles, he has displayed his sea legs; nevertheless, the heart-rending battle within the narrow corridors of Salvation's Reach is where Abnett shines. Without giving anything away, get out your handkerchiefs because I dare you to finish the novel without a tear.Salvation's Reach, although transitional, alludes to almost all of Abnett's 40Ks work and creates new themes and introduces new characters that freshen the franchise and open the field for more novels and greater adventures. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Abnett Clears the Deck </p>
+
+
+<h2> review.date </h2>
+  11-23-2012  
+<h2> review.text </h2>
+
+ <p> After a relatively quiet installment, Gaunt's Ghosts return to action in a big way.  The Tanith First and Only get reinforcements and several new characters and they soon need them.  Information from an enemy defector leads them to the space hulk Salvation's Reach where the Chaos forces are preparing terrible new weapons.  Fighting alongside a (very) small group of Space Marines the Ghosts must infiltrate Salvation's Reach, overcoming traps and enemy forces to disable the base.Salvation's Reach showcases Dan Abnett's considerable strengths.  In the first fifty pages he introduces a dozen new characters, catches up with countless old ones and makes them all memorable.  The battles whether in space or in the dark corridors of Salvation's Reach are dramatic and well-told.My only complaint is one I've had before, this long-running series has many characters and Abnett is reluctant to let go of them, at least until the last 50 pages.  Several times he teases the audience with the death of some minor character only to have them show up fine (well alive at least) a few pages later.  While several minor characters do die, it's not until the final act.  This pattern has endured for several volumes and is one of the few things holding this series back from greatness.  I swear Dan, no one will complain if Trooper Cant dies in the first 50 pages of the next book.But anyway, Gaunt's Ghosts remain a reliable source of entertainment and a fun read.  Pick this one up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another fine installment </p>
+
+
+<h2> review.date </h2>
+  12-03-2011  
+<h2> review.text </h2>
+
+ <p> I've been a fan of Gaunt's ghosts since book number 1. I loved the action and how Gaunt would lead the team against insurmountable odds.In Salvation's Reach, I found myself skimming through page after page of descriptions that filled up pages, but didn't move the story forward. Wait until it's out in paperback so you can read the beginning and the end.It looks like Mr. Abnett is cranking out books to fulfill a contract and not taking the time to develop the story because he knows that we, his fans, can't wait for what happens to Gaunt's Ghosts next. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't waste your time or money </p>
+
+
+<h2> review.date </h2>
+  11-10-2011  
+<h2> review.text </h2>
+
+ <p> I've said it before and I'll say it again. Dan Abnett is the best author within the hallowed ranks of the Black Library. And Gaunt's Ghosts? Easily the best series in the entirety of Warhammer 40,000 lore. Thirteen stories in and you'd wonder just how many more battles these soldiers could endure. Logic would dictate that the series must have lost some momentum after such a long run, right? Wrong. The Gaunt's Ghosts novels feature the best characters, the best plots, and the best battles to be found in the grim darkness of the future. Salvation's Reach does not falter on this front.The real driving force behind Abnett's Ghost series is the cast of colorful and deep characters. Most novels have one or two major characters with several supporting characters in varying degrees of complexity. Salvation's Reach has an enormous cast. We have an accumulation of twelve other books worth of characters. Sure there have been casualties over the series, including some very beloved characters. But there has never been a shortage of heroes and villains in the ranks of the Tanith First and Only. Prior to the dangerous mission Salvation's Reach revolves around, an influx of reinforcements comes to bolster the depleted ranks of the Ghosts. These new characters add a plethora of new plot threads and through the character development heavy first half of the book we get a feel for how these characters will effect the regiment. Then of course there are the old favorites, soldiers like Rawne and Mad Larkin as well as my personal favorite the priest Zweil. Many of these favorites have come a long way since the beginning of the series, Rawne especially, and I love seeing them adapt to new roles. When these characters are in danger you feel for them. The only problem seems to be that the cast is so extensive that I've forgotten some characters, but it has been a while since I read the other books in the series.The plot is top notch as expected from an Abnett crafted tale. Gaunt's newest mission revolves around inside information provided by a triple-defector. With the defector's information the regiment is charged with infiltrating an enemy held space station and retrieving important information. The first half of the book is heavy on character development but don't confuse this for a slow burner. The character development is awesome. The new relationships that arise, the old relationships that take new turns, all of it pulls reader deeper into the world of these characters. The best thing about this book and the series as a whole is that it doesn't retread worn ground. No two Gaunt's Ghosts books are alike. From jungle fighting to sieges, from urban combat to road-trips, from insurrections to brutal ship boarding combat there is always a different angle. Salvation's Reach includes a very well written naval battle that has the Ghosts sitting on the sidelines for once. The only problem as far as plot was concerned was that the book felt like it ended too soon. The ending felt rather rushed, and though I didn't expect some plot threads to be completely tied up I did hope for some closure that seemed to be lacking. I feel like the book really could have benefitted from another thirty or forty pages.Minor gripes aside, Salvation's Reach is a fantastic book. If you love Gaunt and his merry band of Ghosts then you will not be disappointed. But what are you wasting time reading this review for? After all, do you want to live forever? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gaunt's Ghosts Going Strong </p>
+
+
+<h2> review.date </h2>
+  10-30-2011  
+<h2> review.text </h2>
+
+ <p> Ive read Gaunts ghosts since the first book came out, and i was impressed by this book. i wont get into the plot as you should find out for yourself, however i can say that this book focuses less on the battle and more on the actual story and character progression including a few twists that involve previous events from much earlier in the series that show just how good dan abnett is at creating a series with epic characters and a good plot. If you've read the previous novels get this book, otherwise please at least read the background events to where you know whats going on otherwise its not as good. This book is about the bast characters and how the've developed, good characters are lost and new ones gained and i cant wait till the next novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best of the Gaunts Ghosts </p>
+
+
+<h2> review.date </h2>
+  12-05-2012  
+<h2> review.text </h2>
+
+ <p> Salvation's Reach, the thirteenth Gaunt's Ghost novel, tells the continuing story of the Tanith First and Only (an Imperial Guard regiment serving in the Sabbat Crusades in the Warhammer 40,000 universe) as they prepare to disembark on a mission that promises to be as incredibly dangerous as it is secret and supposedly crucial towards allowing the Crusade forces fighting the evil Archenemy to regain the upper hand. What follows is a story that really spends a lot of time developing where the characters are at this point in the timeline, while tying off a few loose ends, and then dumping them into a fight for their lives that kills off more than a few long standing characters. That, however, is usually par for the course for the Tanith First and Only.While it has been a while since I've reread some of the most recent Ghosts books, Salvation's Reach felt very different to me compared to what I remember from the last several. Most of the military action is left for the end of the book and we really seem to spend most of our time just living among the titular Ghosts. Abnett's writing also felt a little different in this one. He opens several chapters with these sort of detached, descriptive poignant pieces that set a tone for the story in general as it moves along. They felt out of place at first but I came to eventually enjoy the mood they set. Salvation's Reach also seems to be somewhat shorter then what I've come to expect from a Gaunt's Ghosts novel.Despite the slight changes in what I've expected, the book really does seem to be pointing towards a last hurrah for the Tanith First and Only and I finished the last page with the usual longing I have at the end of every Ghosts novel. These men and woman are people I have watched live, fight, and die for years and it's always hard to say goodbye to those who will be leaving forever and to those who I only have to wait for the next book to see again. Still, given the nature of the ending of Salvation's Reach (it felt a bit like a cliffhanger), I find myself only worried for what the Tanith First and Only has ahead of them.Overall, it felt different and, really, was different. It's refreshing to be moving out of the shadow of Gereon story arc, but the Ghosts and Abnett himself seems to have changed a bit from their experience. Still, a very solid book both in the Warhammer 40,000 universe and in the science fiction genre in general. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid Entertainment, but a Different Feel for the First and Only </p>
+
+
+<h2> review.date </h2>
+  02-24-2012  
+<h2> review.text </h2>
+
+ <p> Great to see Abnett still writing about Gaunt and his Ghosts... absolutely love this series and all of Abnett's works... Highly recomend this series for any Warhammer 40k fans... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Seeing the Ghosts out of there element... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

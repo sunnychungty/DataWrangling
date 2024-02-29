@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00005KHKH <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-05-2005  
+<h2> review.text </h2>
+
+ <p> I gave this set a unfair one star review but I recently viewed the product. It's the best dvd you can get on WWF Raw during it's peak years a little 97 thru end of 99.First dvd shows all the big names of the day-Austin, Rock, D-X, Undertaker, Kane, and they even have a section dedicated to Val Venis. I like reliving the glory days of Austin when he was fighting Vinnie Mac. The feature is an hour and two minutes but well worth watching and there are some bonus matches. The matches are usually short but still entertaining. The only problem with the matches on Vol 1 and 2 is they don't say who wrestles, just a caption of something that happened in the match.Volume 2 is good and longer by almost an hour. It shows all the highlights of 99 and it has some very good matches on this set. There was a excellent I Quit Match between Triple H and The Rock but the ending really sucked. Triple H was going to pedigree The Rock thru a table but the Corportion comes down and threaten's Triple H's girlfriend at the time, Chyna and he quits. She then turns on him. A crappy finish even though I could really careless about Chyna or Triple H.Overall, a five star set all the way. It's the best overview of Raw, even if it's only a few years of a show that has been on for 16 years. A must own for fans who miss the glory days of wrestling. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WWF Best of Raw 1-2 </p>
+
+
+<h2> review.date </h2>
+  07-21-2002  
+<h2> review.text </h2>
+
+ <p> This DVD is awesome. Even if you own one of the Best of Raw Volumes, you should still get this. The Best of Raw footage in Volume 1 talks about DX, Shawn Michaels and Undertaker, Kane, Steve Austin, The Rock and the Nation, Mankind, Vince McMahon and Val Venis.Some of the extras in Volume 1 are:-The Rock vs X-Pac(Intercontinental Title)-The Rock, Ken Shamrock, and Mankind vs Undertaker and Kane-Steve Austin vs Brisco and Patterson(Street Fight)-Mankind vs Undertaker(Hardcore Match)-Mankind vs Mark HenryVolume 2 is better with The Rock and Sock Connection, More on the McMahon/Austin feud and the beginning of &quot;The Game&quot;. Also the Corporate Ministry and the debuts of Chris Jericho and Big Show. The extras are really great on here too.Some of the extras in Volume 2 are:-Triple H vs The Rock(&quot;I Quit&quot; Match for the WWF Title)-Chyna vs Patterson and Brisco-Test vs British Bulldog(Cage Match)-Undertaker vs Big Show-Mankind vs The Rock(Ladder Match for the WWF Title)-Hardy Boys vs Edge &amp; Christian(T.I.T. Tourney)-Hardy Boys vs The Acolytes(WWF Tag Team Championship)The extras alone on this DVD are worth the money. The footage on this is just extra. Get out and buy this DVD!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> RAW at its Best </p>
+
+
+<h2> review.date </h2>
+  08-08-2007  
+<h2> review.text </h2>
+
+ <p> I bought this off of ebay, and MAN was I suprised of all the extras on the 2 disc.  If you are a collector of the old WWF dvds, like I am, this is a MUST OWN.  Believe you me, you will not regret it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT COLLECTION! </p>
+
+
+<h2> review.date </h2>
+  03-25-2008  
+<h2> review.text </h2>
+
+ <p> Don't let the title confuse you as this isn't a retro look at the history of RAW unlike the 10 & 15 year anniversary DVD sets that would come out later.  These two "volumes" were just highlights of feuds, storylines, and character developments in the WWF during the beginning of the "Attitude Era" in 1998-1999.Volume One covered the character developments of the WWF top characters throughout the year of 1998 (my personal favorite year).  Steve Austin is covered with highlights of him winning the WWF Title & the early months of the feud with Mr. McMahon including such incidents as Vince getting arrested, Austin screwed out of the title, the zamboni & cement truck incidents, Austin being fired & later rehired by Shane McMahon.  The Rock's profile showcased the problems between him & Faarooq that led to him taking over The Nation.  Triple H taking over D-Generation X, taking on new members in the New Age Outlaws & X-Pac, and all the havoc they caused with WCW (the Nitro invasion) & The Nation (the infamous paraody) is shown.  Mick Foley's personalities from Mankind to Dude Love to Cactus Jack is shown including Terry Funk's arrival as "Chainsaw Charlie" is shown before showing Foley's "Cactus Jack" character leaving because the fans didn't apprechate him.  The Undertaker/Kane story from Kane's debut & buildup to their WM14 match is showcased along with footage of both men later injuring Vince McMahon and Undertaker reuniting Paul Bearer.  Val Venis' rise (no pun intended) into the WWF is also looked at along with the feud with Kaientai revolving around Val sleeping with their manager's wife.Volume Two picks up a little bit after where Volume One left off.  The Rock winning the WWF Title & becoming the corporate champion and how started the Austin/Taker "Buried Alive" feud that evolved over the next month kicks off the documentry.  Highlights of Mankind winning the WWF Title & the trading of the belt between him & the Rock were showcased next along with highlights from their ladder match on RAW where Rock won the belt back.  Vince training for the Royal Rumble is showcased next before moving on to the story behind Mark Henry & Chyna including footage of their date and the incident with Chyna's "friend" Samy.  Undertaker is covered from the stalking of Stephanie, his Ministry merging with the Corporation, and his higher power being revealed as Vince McMahon himself.  The Rock is up next as the incidents involving Austin's beer truck, his feud with Austin surrounding the Smoking Skull belt, and his exit from the Corporation is highlighted.  The evolution from Triple H in DX to becoming "The Game" is showcased next including footage of him winning the WWF Title for the first time.  Speaking of Triple H, the breakup & reunion of DX is also covered along with the beginning of the McMahon-Helsmley era.  The debut of "Y2J" Chris Jericho & his feud with Chyna over the Intercontinental Title is also shown.  The Rock N' Sock Connection is showcased through their tag team title victory & the famous "This Is Your Life" segment with comments from The Rock.  The documentry closes out with a highlight package of 1999.During this volume of the DVD set, two matches were shown during the documentry.The Corporate Royal Rumble - A Royal Rumble match between the Corporation & DX with the highlight being Chyna eliminating Mr. McMahon to gain the #30 spot in the Royal Rumble.Vince McMahon vs. Shane McMahon - The Corporate Ministry attacked Vince before the match so it was mostly Shane beating down his dad before Vince came with with the stunner for the win.Other complete matches were available in the DVD extras section:Stone Cold's Mystery Partner (Steve Austin & Vince McMahon vs. The Rock & D'Lo Brown) - Vince picked himself as Austin's mystery partner for this match after he made himself the special referee for Austin's upcoming match against Dude Love.  So this was just a glorified handicap match for Vince to continue to stack the deck against Austin with Patterson & Brisco getting involved on the outside as well before Dude Love came in at the end.The Stooges At Work (Steve Austin vs. Pat Patterson & Gerald Brisco) - Commissioner Sgt. Slaughter was the referee and even knocked down Austin at the beginning of the match causing a double team before Austin quickly recovered & of course, "stomped a mudhole" in both men, Slaughter, and Dude Love who also got involved before McMahon got involved dressed up as a fan from the audience.Where's The Undertaker? (Hell In The Cell Match: Steve Austin & Undertaker vs. Kane & Mankind) - This happened two weeks before the King Of The Ring. This was more of a segment than anything else as Austin fought both Kane & Mankind outside the cell while Undertaker locked the door & beat up Paul Bearer in the cell. Kane went onto the top to try to get in the cell before Austin followed & they got into a brawl there. This lasted around 5 mins. & again, was more of a segment than an actual match.Intercontinental Champion The Rock vs. X-Pac - Earlier in the night, Triple H lost the European Title to D'Lo Brown so this was DX's turn to try to take a title away from The Nation.  This was an average back & forth match between the two that saw D'Lo, Triple H, and even Chyna getting involved at times.Undertaker vs. Mankind - Mankind returned to RAW weeks after being attacked by Kane at SummerSlam & both men came to the ring with sledgehammers.  They were brawling on the outside with Undertaker using the ringsteps on Mankind's fingers & throwing him through a plywood table.  From there, Kane got involved along with chairs being used as well with The Rock making a cameo appearence at the end.Undertaker & Kane vs. The Rock, Mankind, Ken Shamrock - For some reason, this match is under the title of "European Title On The Line" eventhough the European Title has absolutely nothing to do with this match.  The story here was that the 3 man team couldn't get along with each other as they fought each other in a cage match the night before at the Breakdown PPV...and that was evident as all 3 partners were fighting each other for minutes before Undertaker & Kane even came out to the ring.  From there, it was just an average match with the partners still fighting & throwing cheap shots at each other on occassion.Mr. Socko's Debut (Mankind vs. Mark Henry) - This was short & nothing much past the first time Mankind used Mr. Socko in a match.Shane Gets Gold (Shane McMahon & Kane vs. European Champion X-Pac & Triple H) - This was on RAW the night after the St. Valentine's Day Masscre PPV with the European Title.  This was a short match that went back & forth between the DX team & Kane. Shane got tagged in & got beat down before Chyna interfeared to aid Shane McMahon pinning X-Pac to win the European Title.Chyna Goes Jewery Shopping (Chyna vs. Pat Patterson & Gerald Brisco) - Nothing more past a comedic match between all three with such moments as Patterson & Brisco constantly bickering against each other, copping feels on Chyna's chest & going for a low blow...on a woman."All Right, All Right - I Quit!" (I Quit Match: WWF Champion The Rock vs. Triple H) - This was mostly a brawl between both men going all over the ringside area complete with both men giving responces to the "Do you quit?" question like only The Rock & Triple H could.  Triple H kept beating down The Rock until the Corporation threatened Chyna so Triple H quit only for her to turn on Triple H & join the Corporation.Hardcore Banana Split (Hardcore Champion Hardcore Holly vs. Bart Gunn) - The story here was that they were former tag team partners (New Midnight Express) & Bob Holly was the only person Bart Gunn didn't knock out in the brawl for all. Typical weapons/brawling fest with a few funny props like a watermelon & flour sack before a masked "Dr. Death" Steve Williams threw Gunn off the stage for Holly to get the win.A Death Defying Leap (Steel Cage Match: Test vs. British BUlldog) - Mostly a brawl but nothing special past Test's & Shane McMahon's dives off the top of the cage.A Mammoth Showdown (WWF Champion Undertaker vs. Big Show) - This is the infamous match where Big Show chokeslams Undertaker through the ring.Tag Titles Up For Grabs (WWF Tag Team Champions Acolytes vs. Hardy Boyz) - Bradshaw was playing off a concussion given to him by Kane on Heat.  Real short match that saw the Hardy Boyz gain their first of many World Tag Team Championships.Kane Speaks (WWF Tag Team Champions Acolytes vs. Kane & X-Pac) - Another short match that show Kane & Pac win back the tag team titles complete with Kane saying his first words in his normal voice..."SUCK IT!"The Voice Box Gimmick (WWF Tag Team Champions The Rock & Mankind vs. Kane & Triple H) - Triple H volunteered as Kane's partner since X-Pac no showed the match.  This was mostly about Kane not trusting Triple H thoughout the match so he refused to tag him which ended up having Triple H attack Kane with the sledgehammer.The T.I.T. Tourney (Edge & Christian vs. Hardy Boyz) - This was the second match in their series for Terri's managerial services and was a quick fast paced match.  They would go on to have more memorable & better encounters.Other DVD extras include Steve Austin tossing the Intercontinental Title into a river, Shawn Michaels calling out Undertaker before their Royal Rumble match, Austin confronting Vince about if he wants him to become WWF Champion, Kane tombstoning the Phoenix Suns' gorilla, the Austin vs. McMahon "match" that resulted in Dude Love's return, Paul Bearer & Kane digging up Undertaker's parents, the "Love Shack" segment where Foley denounced the Dude Love gimmick before McMahon motivates him into his hardcore match with Terry Funk, and Triple H (dressed as Goldust) uses a flame thrower on Kane.In the end, if you were a fan of the attitude era of the WWF then it's a nice look back during the early WWF years of the big wrestling boom during the "Monday Night Wars."  I recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Early Years Of WWF Attitude </p>
+
+
+<h2> review.date </h2>
+  12-08-2005  
+<h2> review.text </h2>
+
+ <p> I am telling you guys, if you were a fan of the Attitude era (and most people were)this is the one out of print WWF DVD to pay an arm and a leg for. This 2 disc set features so many classic moments from 1997-1999. You can see Chris Jericho's debut in its entirity! I would pay 20 bucks just for that. The night of the "Genesis" of DX in 98 and the reformation of DX in 99. What about when Austin and Vince were to go 1 on 1 but Dude Love came out. All that and so many more classic moments. Best of all, the attitude logo is not blurred. This will make up for the lack of extras on the monday night war dvd.And of course complete matches......5-11-98. Austin/Vince vs. Rock/D-Lo.5-18-98. Austin vs Patterson/Brisco in a Street Fight.6-15-98. Austin/Undertaker vs Mankind/Kane Hell in a Cell.7-20-98. X-Pac vs Rock for the IC Title.9-14-98. Mankind vs Undertaker no holds barred.9-28-98. Shamrock/Mankind/Rock vs Undertaker/Kane.10-12-98. Mankind vs Mark Henry IC Title Tournament.1-11-99. The Corporate Royal Rumble.1-18-99. Chyna vs Patterson/Brisco.1-25-99. HHH vs Rock I Quit match for the WWF Title. This is also the match where Chyna turned on HHH and joined the Corporation.2-15-99. HHH/X-Pac vs Kane/Shane European title on the line.2-22-99. Bart Gunn vs Hardcore Holly for the Hardcore title.5-3-99. Vince vs Shane for the first time.6-7-99. Big Show vs Undertaker for the WWF Title. This is the match where Show chokeslammed Taker through the ring.7-5-99. Hardyz vs APA for the tag titles.8-9-99. Kane/X-Pac vs APA for the tag titles.8-23-99. Mankind vs HHH for the WWF Title.9-6-99. Rock/Mankind vs HHH/Kane for the tag titles.10-4-99. Edge/Christian vs Hardyz.10-25-99. Test vs Bulldog in a cage match. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must 4 WWF Attitude era fans </p>
+
+
+<h2> review.date </h2>
+  04-14-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed best of raw volume 1,2 it has good matches and good story lines you don't see any more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> wwe fan </p>
+
+
+<h2> review.date </h2>
+  01-26-2005  
+<h2> review.text </h2>
+
+ <p> if there is a seller with this item than please but it for sale on amazon because i really want this dvd but im not paying 50$so if you put it on this site and its in like new- or better and is less than 30$ i assure you i will buy itThank you </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excpensive </p>
+
+
+<h2> review.date </h2>
+  07-25-2001  
+<h2> review.text </h2>
+
+ <p> So many Extras it CRazy definately buy this !! Don't get the Videos!! You wanna get this DVD SET!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome DVD </p>
+
+
+<h2> review.date </h2>
+  01-23-2002  
+<h2> review.text </h2>
+
+ <p> These DVD's are awesome, jam packed with matches and moments highlighted on Raw is War.  Although the first vol. is more centered on Stone Cold and his problems with Vince, they did include some other stuff, maybe on segment of HBK, the nation impersonation of DX, and some other stuff.  They did miss alot of funny, and exciting moments and matches though, but ya can't blame them they covered more than enough for the average fan.  RAW vol. 2 has more matches than moments, especially it's extras, I think every extra is a match.  Not too many highlighted moments from 1999, they could have included some more stuff, I mean come on people this is DVD! This is a really good DVD combo, I do recommend this for sale, it's about 3 hours and some change of non-stop excitement, get it while it's hot!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great WWF DVD!! </p>
+
+
+<h2> review.date </h2>
+  03-11-2002  
+<h2> review.text </h2>
+
+ <p> This DVD starts in 1997 and works it way up to 1999.  There are very many good things that this DVD has going for it.Volume 1&amp;2 includes storylines for Stone Cold, The Rock, Undertaker &amp; Kane, D-X (with HHH leading), Val Venis, Chyna, HHH, and the Rock &amp; Sock saga.Some of the negative aspects include them not adding enough Stone Cold vs McMahon, Shawn Michaels as the leader of DX, The Hart family's part in WWF history in 1997.  The Rock is not featured prominently enough.  But overall, I rate this 4 out of 5 stars.T </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WWF Raw comes to DVD </p>
+
+
+<h2> review.date </h2>
+  12-09-2001  
+<h2> review.text </h2>
+
+ <p> The DVD collection of Best of RAW volume 1 and 2 is incredible. A must for any fan of the wild antics of this Monday night staple. Show some of the great angles of past WWF shows. It begins in 1997 and focuses on the Steve Austin/Vince Mcmahon feud. You also get to see a heel Rock and the Ministry era Undertaker. What makes this disc for for me is the extras that are included. If there was ever a case for DVD over video this is it. You see a meeting of Vince and Austin that is pure classic. I would have liked to have seen more actual wrestling matches especially the cage match with DX vs. Mankind and Chainsaw Charlie the day after WM 14. Still a great DVD. One of the best in the WWF catalog. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A MUST for any WWF RAW fan... </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

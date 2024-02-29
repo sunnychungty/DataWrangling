@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B002AMUDJY <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-10-2013  
+<h2> review.text </h2>
+
+ <p> Not a patch on &#34;The Gathering Storm&#34;. It neither works as a political biography or as history or as a visual story. Brendan Gleeson lumbers throughout without ever morphing into Churchill. The scene and time changes were just annoying. The history sparse, staying with predicatbility and sterotype. It added nothing to what was a significant episode of British history. It does not challenge or entertain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tries too hard to capture the essence of Churchill </p>
+
+
+<h2> review.date </h2>
+  05-01-2014  
+<h2> review.text </h2>
+
+ <p> Have ordered several movies and documentaries on World War ll......My father was killed in that war and buriedin the American Cemetery in Normandy......which was quite a proud experience. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> World War II </p>
+
+
+<h2> review.date </h2>
+  04-15-2012  
+<h2> review.text </h2>
+
+ <p> Into the Storm--Churchill At War-- follows The Gathering Storm.  Churchill struggled to inform the nation that Germany was arming itself for war, but nobody was listening. He was basically put out to pasture. That, it seems, was just the kind of challenge the great Churchill needed. While constantly battling intermittent depression, Churchill fights to become relevant again. His wife, Clementine, stoically supportive has moments where her pain almost wins out over her devotion to her husband, but her courage comes through in the end just as his did. I recommend both The Gathering Storm and Into the Storm for a greater understanding of the history and heroes of that time. I found both to be inspirational. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Churchill At His Best When Things Appeared Hopeless </p>
+
+
+<h2> review.date </h2>
+  12-03-2012  
+<h2> review.text </h2>
+
+ <p> Beautiful acting and accurate scenes of wartime London, intermingled with newsreel cuts as is expected in such films. Overall very good and accurate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Churchill's Moods </p>
+
+
+<h2> review.date </h2>
+  10-03-2011  
+<h2> review.text </h2>
+
+ <p> I watched Into the Storm tonight, a beautiful HBO film starring Brendan Gleeson. I'm not sure if it is because Gleeson has always been one of my more favorite actors, but this film really worked for me. Beautifully played, with a to me quite emotional ending, but also throughout a very strong portrayal of a fierce, intelligent man, with his flaws, and his strength, and his relationship with his wife. Very good.The film starts in the period just leading up to the war, with Chamberlain getting the sack and the far more useful Churchill taking over in a national government. It ends with his losing the post-war election, the film does not extend into his final years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Strong sequel </p>
+
+
+<h2> review.date </h2>
+  05-14-2014  
+<h2> review.text </h2>
+
+ <p> WEAK..  SIMPLE MINDED....WITHOUT FORCE.....POORLY CHOSEN DIALOG OPTIONS.... MALE LEAD SO FAR BEHIND ALBERT FINNEY AS TO BE PITIED. DO NOT WASTE YOUR MONEY OR TIME. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SAD FOLLOW UP TO GATHERING STIRM </p>
+
+
+<h2> review.date </h2>
+  07-17-2011  
+<h2> review.text </h2>
+
+ <p> Here I fall into the trap of comparing one production to another, but since they are so closely related, I cannot help but do so. This appears to be a sequel, or more like a continuation, of THE GATHERING STORM, which was  about Churchill in the pre WW2 years. I have to ask myself if I would have given this another star had I seen it without having seen the other one, and I honestly don't know. I felt that there were jumps in time in this one which were too broad, but then again, WW 2 is a big subject, and unless you have several hours in which to portray it, or even one important man's participation in related events, I suppose it may be necessary to omit large blocks of time. Next comes the comparison-in this one, Brendan Gleeson (Churchill), and Janet McTeer had an uphill battle to begin with, if they were to compare favorably against the likes of Albert Finney and Vanessa Redgrave in the earlier production. In my opinion, they did not quite make the cut. One of the major online rating sites also has the first film rated higher, though not by the margin I feel is appropriate. Overall, I would say that WW 2 history buffs, and those with an intense interest in Churchill should make this a must see. For entertainment alone, there are other films, even other WW 2 films, which might represent a better investment of time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Could have been better </p>
+
+
+<h2> review.date </h2>
+  05-26-2013  
+<h2> review.text </h2>
+
+ <p> Into the storm video, It was okay, didn't like the acting all that well. I will keep since it has history value about PM Churchill. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Into the Storm </p>
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> I was skeptical of spending almost 15 dollars on this second installment of the series. I shouldn't have had any doubts. I was concerned that I would not enjoy Brendan Gleeson as Winston Churchill nearly as much as I did albert Finney. After several minutes I didn't even notice that the actor have changed.This movie actually has less Hollywood drama and more actual history than the previous installment. It was fascinating to be inside the War Room at 10 Downing Street. Seeing the decisions made the shape our world as we know it.It was also commentary on recent ihistory with the vote of socialist power after World War 2.I cannot recommend highly enough to purchase of this movie especially if you have waited for the sequel to The Gathering Storm.This would make a fabulous Christmas gift to anyone interested in any sort of World War Two history.I was very sorry that it ended what seemed to be so soon </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Every bit as good as Gathering Storm </p>
+
+
+<h2> review.date </h2>
+  01-02-2010  
+<h2> review.text </h2>
+
+ <p> After watching the Gathering Storm we wanted to see what came next in terms of the life of W. Churchill.  We were not disappointed by this HPO production or the Gathering Storm, although I liked the actor who played Churchill in Into the Storm a bit better.  If you are a WWII or Churchill scholar you will most likely not like the portrayal of Churchill as it is mostly focused on the tough decisions he had to make under extradorinary conditions.  Historians like to put their political spin on world leaders.  I like to understand what they were up against and how it impacted them personally. It is so much easier to judge someone or the time they were in, in hindsight and from a safe historical distance.After watching Foyles War, a 5 year series on British TV, I wanted to learn more about how the war was viewed from Hastings and the cliffs of Dover, what it was really like for the people that lived 21 miles from Hitler's conquests.  Foyles War is excellent as seen through the eyes of a police officer in Hastings.  These two HBO movies fill in the part about what the leaders were facing as they sent their young men to battle.  Both in this movie and in Foly's War they have reenact the fleat of boats, mostly fishermen, that rescued 330,000 men from Dunkurk with many of them loosing their own lives to save the troops.  In these days of constant bikering and selfish greed it is very uplifting to watch what simple people are able to accomplish when inspired by their leaders. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Touch of WWI and It's Leaders for Those of Us Who Were Not There </p>
+
+
+<h2> review.date </h2>
+  09-04-2013  
+<h2> review.text </h2>
+
+ <p> HBO Films produced and released this excellent film staring Brendan Gleeson as Sir Winston Churchill from around 1938 to the post World War II years.  Mr. Gleeson does an outstanding job of portraying Winston Churchill in his triumph, his courage, his stuborness, his falacies, his focus, and his love for his family and country.  Winston Churchill was often crass, often short tempered, but always focused in achieving his goal of defeating NAZI Germany and saving the British Empire.  Mr. Gleeson portrays all of these characteristics that were prevelant in Churchill.  The supporting actors of this film also do an outstanding job of showing what Churchill's family and friends were going thru during the war years.  This film does not dwell on specific years of World War II, but jumps ahead from 1938-1940 the beginning of the war, Dunkirk, and The Battle of Britain, to 1941 when the USA enters the war and you see the beginning of the friendship between Churchill and Franklin Delano Roosevelt, to the Normandy Invasion of 1944, to the triumph of Great Britain when Germany surrenders in 1945.  Between these film eras you see Churchill at the Tehran Conference when he, Roosevelt, and Josef Stalin meet to discuss the Normandy Invasion, to the Yalta Conference in 1945 when you see Churchill with a declining FDR courting Josef Stalin.  Then the post-war years when Churchill was defeated as Prime Minister and the Labor Party was victorious over the Conservative Party.  Winston Churchill was a "war minister" who led his country bravely during World War II, after the war thhough he was "out of touch" with public opinion and hurt his career in politics when he compared the Labor Party to the Gestapo of Nazi Germany.  This truely hurt his reputation with the British People and his wife warned him not to make that remark during a radio broadcast. But, he did and it cost him in post-war politics.This is an outstanding movie that is suprebly acted by all, great sets and locations, and an interesting story of the triumph of Sir Winston Churchill portrayed excellently by Brendan Gleeson.  Well worth 5 stars!  HIGHLY RECOMMENDED! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding dramatic film of the war years and post war years of Sir Winston Churchill </p>
+
+
+<h2> review.date </h2>
+  10-09-2012  
+<h2> review.text </h2>
+
+ <p> I enjoyed this more than the Gathering Storm with Albert Finney. The take off of Churchill is very good and the disc has a decent transfer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than the Gathering Storm </p>
+
+
+<h2> review.date </h2>
+  01-31-2011  
+<h2> review.text </h2>
+
+ <p> Having watched and loved the gathering storm, I eagerly awaited the release of Into the storm and well, it was fairly good. The acting is good as is the filming but I didn't find the script quite as captivating as the former movie. The editing seemed a bit of a hotchpotch of flashbacks and jumps forward which work if you know the story off by heart but would leave some one who isn't an avid student of history a bit confused at times. I also thought the sequences were a little contrived in order to squeeze in every famous one-liner delivered by Churchill in one movie. I think as much as anything it needed to be longer to do justice to such an extraordinary period in history. Perhaps this should have been a ten part series rather than a two hour movie, or concentrated on just ONE event such as losing the election or the fall of Singapore rather than trying to cover them all in two hours. Having said that it is a well made entertaining movie that captured some if not all of the events and characters of the time. If WWII and Churchill interest you I think you'd quite enjoy this film! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good but not great </p>
+
+
+<h2> review.date </h2>
+  12-16-2013  
+<h2> review.text </h2>
+
+ <p> I love history . It is good to remember how things really were. Also good to remember how important that we had men of honor defending our world. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent portrayal and good history. </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> This is a look at Winston Churchill that is different.  It looks at the man from a more personal side through his years a Prime Minister of Great Britain in WWII. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding film about one of the most important men in WWII </p>
+
+
+<h2> review.date </h2>
+  01-05-2010  
+<h2> review.text </h2>
+
+ <p> This was a good movie, but it was too short! The writers and director could easily make a mini-series about Churchill's life in WWII, instead, they condensed it into a brief summery that last 90 min! As a result, a lot of stuff was left out!Examples: He's trip to Monroco to meet with FDR; the victorys/invasion of North Africa and Italy; FDR's death, are just a few of things that was missed! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too Short </p>
+
+
+<h2> review.date </h2>
+  11-14-2012  
+<h2> review.text </h2>
+
+ <p> For 5 years Winston Churchill guided his struggling nation through WWII. He played one of the most important role in defeating the Nazis. His rhetoric and leadership inspired millions of people to fight against Hitler's war machine. Even so his people turned their back on him after the war was over.This is the continuation of the HBO special "The Gathering Storm". I believe this is the better of the 2. Brendan Gleeson gives one of the most amazing performances of his career. I was completely blown away by this film. This movie shows how Churchill's prowess as a military commander became his political undoing, and threatened his marriage. This is one of the most under appreciated films I've ever seen. If you like history, or just a  good story this film will blow your mind. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Emotional, Compelling, and Entertaining. </p>
+
+
+<h2> review.date </h2>
+  12-27-2012  
+<h2> review.text </h2>
+
+ <p> it tells me I must use so many words to say this is a great movie and make the cut to submit my review </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good movie </p>
+
+
+<h2> review.date </h2>
+  12-05-2009  
+<h2> review.text </h2>
+
+ <p> An excellent HBO production on the life of Churchill during the war years following up on their terrific film, THE GATHERING STORM, leading up to the war years. I didn't think Gleeson was quite as outstanding as Albert Finney in GATHERING STORM or McTeer as Redgrave but they both gave excellent performances. There is no question that Churchill, warts and all, is one of the most fascinating men in modern history. In the GATHERING STORM we learn of Churchill's sense of destiny for his life. In this film we see why he may have indeed been destined for 'such a time as this'. The circumstances are overwhelming for Britain. The future of the country and the empire are literally on the line. The film begins with the very early stages of the war in 1940 and quickly flashes forward to 1945 with Churchill and family vacationing in France by the ocean, waiting for the results of the election for prime minister. These flashbacks and flash forwards are both the strength and weakness of the film. They show us the 'before' and 'after' Churchill but often make it a little confusing at first until you understand what's going on. It also helps to have some knowledge about Churchill and WWII as the scenes are usually fairly short and don't give a lot of context. What you do you get is some very interesting insights into the mind of Churchill in the various war situations. For example, when deciding whether to bomb Dresden, his military advisers are concerned about civilian casualties but Churchill shows no concern for civilians and we learn shortly after the decision that 58,000 civilians are killed and 200,000 lose their occupations due to the destruction of war factories. We learn that he has loved military strategy from a young child and people question whether this might just another 'game' for him. His relationship with 'Clemmy' is also a fascinating one. She is a strong person in her own right and without her, it is doubtful Churchill would have fulfilled his 'destiny' in the way he did. A highly entertaining and informative HBO film. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> THE STORM CHASER!! </p>
+
+
+<h2> review.date </h2>
+  12-08-2012  
+<h2> review.text </h2>
+
+ <p> Enjoyed the very human Winston Churchill. As he aged, his interinspection was interesting.  As a child during the war and starting school the year the war ended this gave me more insight into the times. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> History revisted </p>
+
+
+<h2> review.date </h2>
+  01-05-2010  
+<h2> review.text </h2>
+
+ <p> This excellent companion feature to THE GATHERING STORM follows the head-strong Winston Churchill as he guides his nation to victory in World War II.Brendan Gleeson delivers an uncanny performance as the British Prime Minister, one of the greatest men of the 20th Century.  Janet McTeer is also magnificent as his wife, as is Len Cariou as FDR.  Director Thaddeus O'Sullivan does a fine job of  recreating the time an place.Extras:  audio commentary from producer Frank Doelger and writer Hugh Whitemore, and a featurette. Michael B. Druxman </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Churchill in War </p>
+
+
+<h2> review.date </h2>
+  12-21-2013  
+<h2> review.text </h2>
+
+ <p> It would be fair to say that the Historic content is good as the original book was written by Winston Churchill. It is also fair to say that  Winston Churchill is considered by historians all over the world as the authority on both the First and Second World Wars.Having said that, this film is good but not great, there are several versions and in all honesty  Richard Burton's portrayal of Churchill  in the version of the same film is far superior to this version. I would advise anybody wishing to purchase this film, would be better off researching  and getting the Richard Burton copy. Overall a far better cast, direction, and portrayal.I hope you enjoy which ever you decide upon, I make this judgement based on  my  knowledge of all  Churchill movies I have seen and the fact I have all of his books in my Library (First Editions collected over many years) if you require another further information  please feel free to write </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Into the storm </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> This is not a documentary or biography.  The movie was shot beautifully and the actors are terrific but the dialogue and script were created for entertainment purposes not reality.  I was disappointed with portions of the dialogue.  Nevertheless it turns out to be a good movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good movie </p>
+
+
+<h2> review.date </h2>
+  05-11-2010  
+<h2> review.text </h2>
+
+ <p> Let me begin by saying that Brendan Gleeson's acting is one of the few things that saves what otherwise could have been a disastrous movie. For one thing, the story does a poor job of telling why Churchill was so instrumental to England's survival in WWII. The story is random and bouncing and really does a poor job of showing both Churchill's character and the events he lived in. The first film, "The Gathering Storm," was told much better as it gave a firm view of Churchill and showed who he was and what he was trying to accomplish.While I do enjoy seeing Brendan Gleeson act, Albert Finney did a much better job of catching Churchill's often difficult and brilliant spirit. The rest of the cast, except of Churchill's wife Clementine were almost wall paper.  The best role which went unexplored was Churchill's first encounter with  Montgomery. That bit was brilliant but went unexplored.All in all, I found this very dull and a poor sequel to "The Gathering Storm." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A weak sequel </p>
+
+
+<h2> review.date </h2>
+  02-15-2010  
+<h2> review.text </h2>
+
+ <p> I watched this on background while finishing up my new book and on balance it is certainly most satisfying and I would recommend it to anyone along withIke - Countdown to D-Day.As an admirer of the half of Churchill that was both articulate and a statesman (as opposed to the duplitous half that betrayed every promise made to the Arabs, seeA Peace to End All Peace: The Fall of the Ottoman Empire and the Creation of the Modern Middle EastandWeb of Deceit: The History of Western Complicity in Iraq, from Churchill to Kennedy to George W. Bush), I found the movie adequate but not as inspiring as it could have been.His great speeches on tape are delivered better on tape than in the movie (I do not recommend the books of his speeches, the publishers failed to put them in the original poetic form for proper appreciation and reading).The movie misses a huge opportunity, when Churchill is so very rude to his man-servant, they substituted the wife asking him to stop, boring, to the actual exchange in which the man-servant stands up to Churchill, saying he is very rude, and Churchill's answering, "yes, but I am a great man," to which the man servant has an accepting acknowledgement.The movie also fails to capture the actual nature of the bunker war rooms, something I visit each time I visit London, and they went cheap on Dunkirk, which really was one of England's finest hours.  Had they gone to the trouble of filming Dunkirk, admittedly a great expense, this film would have been a five, I get goose-bumps just thinking about the flotilla of small craft managing to bring back the entire British Army.My favorite book on Churchill isTHE LAST LION: 2 VOLUME BOXED SETby William Manchester, also available individually.For serious documentaries about lessons of war and the underlying malfeasance of war, see:The Fog of War - Eleven Lessons from the life of Robert S. McNamaraWhy We FightThe Good Soldier DVD - Maysles Brothers Award Winning Documentary by Lexy Lovell + Michael Uys </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Satisfying but Not Inspiring </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> Not as great as ''The Gathering Storm'' but well worth seeing it. Anyway anything you can learn about Churchill is a plus. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Churchill... </p>
+
+
+<h2> review.date </h2>
+  10-09-2012  
+<h2> review.text </h2>
+
+ <p> A film about the effect Winston Churchill had on his dear England as they hesitatingly went into WW2. Although different characters portrayed the real life players that they did in "The Gathering Storm", I found it did not affect the continuity between the two films.At first I was slightly confused because the film starts after WW2 when the Churchills were vacationing at an idyllic location on the French western coast. Here the angst is the anticipation of the results of the vote of confidence to keep him on as Prime Minister. As I watched, the delineation of the "flashbacks" became more clear due to the more business aspect tone of the film. This illustrated the struggle to keep up the morale of the English people as the necessity of War becomes clear and then the events in the war. After seeing "All's Quiet on the Western Front" I can understand why the majority of the British were desperate not to enter another devastating war.My favorite part is when King George offered the British citation The Order of the Garter. Winston summed it up when he said calmly that he could not accept the Order of the Garter from the King when the British people had given him the boot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Into the Storm </p>
+
+
+<h2> review.date </h2>
+  04-12-2011  
+<h2> review.text </h2>
+
+ <p> Yes it picks up from where "The Gathering Storm" left off, but the plot was very slow. You finally get to the point where you are almost asleep before you find out that Churchill was voted out and a new Prime Minister replaces him. But, if you love World History; or certain aspects of it, then you will appreciate this movie for your library. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Slow </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> The character of Winston Churchill came through much better, although it was still a too superficial treatment of Churchill's character and motives </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

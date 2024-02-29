@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B007E8GZ2S <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-27-2013  
+<h2> review.text </h2>
+
+ <p> I did it for my book report it was a great book I hope you like it too$1,00,000,000,000 (not price)the BRAVE New world of the FREE Encyclopedia jump to make sure the BRAVE New world of the body searchers and perished soak up the body searchers and home of deliverance and home </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  03-03-2012  
+<h2> review.text </h2>
+
+ <p> This is a great, short book about Elvis life. Just about the most famous side of Elvis, not as close as other books, like that of George Klein. I can recomend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short story of Elvis life </p>
+
+
+<h2> review.date </h2>
+  04-27-2014  
+<h2> review.text </h2>
+
+ <p> Although I already knew much of what was written here, I did gain some new facts. Bottom line - his influence remains undeniable.  Forever "The King of Rock and Roll." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Elvis lives on </p>
+
+
+<h2> review.date </h2>
+  02-22-2013  
+<h2> review.text </h2>
+
+ <p> ENJOYED it . Everything was what l read before. I still like anything written about elvis. He will always be the king. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Elvis bio </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> A very interesting book about Elvis and what we never knew. It has to be hard to live the life he lived - nothing was normal. But he had a talent and charisma that no one else had. His songs just went to your soul and he was mesmerizing. For many of us today - he is still alive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Elvis Presley - the King lives on </p>
+
+
+<h2> review.date </h2>
+  06-11-2012  
+<h2> review.text </h2>
+
+ <p> Music is what it is today because of many great singers and musicians like Elvis. He started the rock and roll revolution and his story embodies what many artists have gone through in their own lives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Music is what it is today because of many great singers and musicians like Elvis </p>
+
+
+<h2> review.date </h2>
+  04-10-2014  
+<h2> review.text </h2>
+
+ <p> I have been an Elvis fan for almost sixty years and there was information here that I didn't know. It isn't sleazy gossip either. I love the story because it is so unlikely. How often does something like this happen? Also, the role of Tom Parker is exposed carefully. I always wondered why Elvis made all those dreadful movies in the sixties. Now I know. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Informative </p>
+
+
+<h2> review.date </h2>
+  06-19-2012  
+<h2> review.text </h2>
+
+ <p> Good work on the bio of Elvis - a great balance of facts and details and quotations. I appreciated that the author kept the book short and concise, and yet at the same time was able to give a clear view of Elvis Presley's life - it is a crime the way that Elvis was cheated by his manager (the "colonel") as well as I sad to see a glaring similarity between the "King of Rock 'n Roll" and the "King of Pop" (Micheal Jackson) in how unscripulous doctors led to their fate (although I feel that Elvis was more impulsive than Jackson). Anyway - very good - short and consice bio. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Bio </p>
+
+
+<h2> review.date </h2>
+  05-11-2012  
+<h2> review.text </h2>
+
+ <p> I just finished reading the short biography of Elvis Presley, as well as John Lennon, as well as Michael Jackson, all written by Joe Bensam. They were enthralling. I especially liked how the author related each life story in segments with one or two life event per segment. This made it easy to find a stopping in reading.A book can be read in several hours. Light reading. Enjoyable </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Three Cheers for Joe </p>
+
+
+<h2> review.date </h2>
+  08-16-2013  
+<h2> review.text </h2>
+
+ <p> Well written book. It was very informational but not targeting just the negative side (his drug use), I felt it gave a well rounded side to his life. His life shouldn't be summed up nor remembered by the way it tragically ended. Would definitely recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Book </p>
+
+
+<h2> review.date </h2>
+  02-07-2013  
+<h2> review.text </h2>
+
+ <p> this is more like an article than a book. VERY short. Kind of a summary of his life in short form. Nothing, and i mean NOTHING new in the book to learn. Disappointing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not good </p>
+
+
+<h2> review.date </h2>
+  11-19-2013  
+<h2> review.text </h2>
+
+ <p> An excellent accounting of Elvis' life, from his childhood until his death.  Sixty pages, which I thought was just the right length.  It was concise, and had no &#34;filler.&#34;  I watched the movie, &#34;Elvis,&#34; with Kurt Russell.  Russell was phenomenal, and made the movie -- the supporting case was great, too.  This movie was 3 hours long, and created for me more questions than it answered.  (I still recommend the movie!)  This book filled in the information that the movie left unexplained.  I found it to be quite complete, especially for a short book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Complete, realistic, answered many questions for me </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

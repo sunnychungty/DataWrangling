@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000LWCTPG <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-15-2014  
+<h2> review.text </h2>
+
+ <p> Easy to connect and works great. I'm splitting the video signal between my computer and big screen tv (25' cable), and the signal seems to be strong, providing nice and crisp picture. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  06-19-2014  
+<h2> review.text </h2>
+
+ <p> I used this to connect 2 TVs to a computer and DVD player for a party.  I was going to have too many people at the house to all fit in 1 room, so I sent the signals to 2 rooms.  Worked out great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sabrent VD-VS2P 2-Port VGA High Resolution Video Splitter </p>
+
+
+<h2> review.date </h2>
+  01-04-2011  
+<h2> review.text </h2>
+
+ <p> I ordered this product for my church because we needed to run the same image to a projector and a flat screen tv in the front but when I tried using  just a splitter the signal wasnt strong enough to make it to the projector. This product amplified the signal and was just what we needed to make our system work! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just what I needed! </p>
+
+
+<h2> review.date </h2>
+  01-17-2010  
+<h2> review.text </h2>
+
+ <p> Originally my computer's VGA port was hooked directly to a 720 line 32" Olevia TV that I use as my main monitor. I run Windows at 800x600 resolution and on the 32" TV monitor the image was crystal clear.When I got a 1080 line 42" Olevia, I wanted to be able to use it as a larger screen 2nd monitor, so I bought this splitter and inserted it between the computer and both TV's. It works beautifully. 800x600 image on both TV's is crystal clear. I can see no difference on my main 32" TV monitor with the splitter in or out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works very well </p>
+
+
+<h2> review.date </h2>
+  01-29-2014  
+<h2> review.text </h2>
+
+ <p> It works, but since I installed it I see flashing white  lines across the screen.  Not all the time,  though.  I have to associate it with the splitter since it wasn't happening before.  Otherwise, it works fine.  I get a  picture on both the tv and the pc monitor, which was what I was hoping for. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works, but... </p>
+
+
+<h2> review.date </h2>
+  11-16-2013  
+<h2> review.text </h2>
+
+ <p> Works exactly as described. You will not be disappointed. Only issue I have is once all the connections are made you end up with wires on all sides of the device, making it difficult to neatly organize them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great buy </p>
+
+
+<h2> review.date </h2>
+  01-21-2014  
+<h2> review.text </h2>
+
+ <p> outputting 2 screens one is 75 ft downline..amazing performance for the price.will definitely purchase again.Thanks for the quality..no complaints at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works better than expected </p>
+
+
+<h2> review.date </h2>
+  11-04-2011  
+<h2> review.text </h2>
+
+ <p> I own a 20 inch Imac and recently bought a second monitor to become more productive .My Mac is virtualized so I can run Windows 7 in it. I watch computer programming tutorials on my secondary monitor while I work with the actual programs on my main monitor.I also watch Hulu on my TV which forces me to connect both the second monitor and the TV to my computer.I expected the video splitter to give me good, crisp images on both but what I got were very poor video signals, lines across my monitors and severe distortion. Needless to say, the text on all my programs was unreadable.I have given up on video splitters for the time being, resorting to connecting and disconnecting my monitors as needed.I ended up returning the item which was a Tiger Direct product purchased through Amazon.No problems with this whatsoever.The people at both Tiger Direct and Amazon were very courteous and efficient and got my refund within a few days. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kinamax 2 Port VGA Video Splitter </p>
+
+
+<h2> review.date </h2>
+  03-04-2011  
+<h2> review.text </h2>
+
+ <p> This unit mirrors VGA signal to two monitors. It works fine after some tweaks, but initially had a problem with my setup that involves MacBook Pro, 24 inch HP monitor, and 25 inch Samsung monitor. For some reason it was giving preference to one of them most of the time, while the other was only displaying message that resolution is not supported. If you need it and want to play with it in order to make it work, it's worth the price. One more think - just don't expect more than you pay for. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works but had initial adjustment issues </p>
+
+
+<h2> review.date </h2>
+  11-12-2011  
+<h2> review.text </h2>
+
+ <p> Splitter works stated, but the loss of quality over a long distances is disappointing.  I have a PC which powers three monitors (one in the kitchen, one in the basement, and one in the garage), to use for quick surfing--I know how dated that sounds, but I put the system together 5+ years ago, so it was somewhat novel then.  Since already in place, I haven't replaced/upgraded the system.  I purchased this with the aim of adding an additional terminal to the setup, as it was cheaper than upgrading to HDMI and/or wireless options given my existing setup.One monitor is 50+ feet from the PC, and the signal quality clearly suffers, but is still viewable.  The quality loss is disappointing, but not fatal, as the setup is not used for any quality media consumption--just some youtube videos and light web-surfing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quality degradation over 50' </p>
+
+
+<h2> review.date </h2>
+  08-03-2013  
+<h2> review.text </h2>
+
+ <p> I bought this to set up multiple monitors for a mechanic friends alignment machine and in this case I only needed to run 3 monitors but it operated flawlessly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very cool. </p>
+
+
+<h2> review.date </h2>
+  03-30-2014  
+<h2> review.text </h2>
+
+ <p> Performs just as advertised. Good value. No downside so far. Arrived on time and in perfect condition. This item fit my needs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Value </p>
+
+
+<h2> review.date </h2>
+  08-29-2013  
+<h2> review.text </h2>
+
+ <p> do not buy a standard, cheap vga splitter.. it won't work right.. this is what you need to split one vga signal into 2 or more monitors - it works very well </p>
+
+
+<h2> review.summary </h2>
+
+ <p> does the job - what you need instead of a traditional splitter cable </p>
+
+
+<h2> review.date </h2>
+  08-19-2011  
+<h2> review.text </h2>
+
+ <p> Bought this product to utilize for a surveillance system so that 3 T.V.'s as well as a monitor could host the signal seen by the cameras through a DVR.  Has worked very well with no apparent signal loss even though I used 50 ft. cables to hook-up each T.V.  I would recommend purchasing if you intend on using VGA as your video source. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VGA Video Splitter </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

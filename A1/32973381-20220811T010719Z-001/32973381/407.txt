@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004YKZO44 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> In Three Days </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A decent book. There were several interesting tidbits in here, but some parts were kind of repetitive or seemed to drag on and on. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Interesting and fun! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Actually, I was expecting a rather dry history of traditions, and was very pleasantly surprised!  Ed has a conversational style that's fun to read, and inserts unexpected treasures -- like a recipe for pancakes in the chapter on Shrove Tuesday.  I think readers of all ages will enjoy this book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> You'll probably learn something </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> You'll probably learn something reading this book... about different ways Easter is celebrated, and the traditions behind it.  It's an interesting read.  I liked it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Interesting Reading for Lent </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed the collection of facts presented in this book. It is, however, quite a short book. Nicely written. A fairly quick read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fascinating facts and great insights </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Fascinating facts and great insights. A very enjoyable trip through the Lenten/Easter season. I enjoyed the many insights in this book and recommend it to anyone with an interest in Christian history </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> history </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> In my religion, we are taught many things. But this book helped expand my faith. I know someone else will enjoy it as well </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> In Three Days </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Fascinating insights.  Evolution of traditions surrounding Easter.  Interesting stories about the early church and religious customs.  Easy to understand.  Inspires further study. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A good read </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> if you are interested in learning more about the life and times of what it was like when Jesus lived this book will help you </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very interesting! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great insights about Easter that I didn't fully understand before.  I recommend this to everyone wanting to learn what Easter is all about. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Intriguing, inspiring, entertaining and accessible </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Whether your church tradition includes or excludes Lent, this slim volume's facts and explanations are so neatly and clearly pulled together they should surely fascinate. From the background of 40 days to the reason for Easter eggs, from the name of a pagan goddess to the history of Passover, from the surprising derivation of the word Carnival to recipes for Dutch pancakes, there's something for everyone.Can you apply thermodynamics to religious festivals? Do you know any good pretzel stories (with monks, of course)? And why did Jesus ride a donkey (or a mule)? Author E. G. Lewis answers these puzzles and more with gently informative writing and fascinating research, questioning everything--even the choice of Sunday for Easter Day.Relaying history and science with equal enthusiasm, the author brings a familiar story and all its background to life, adding depth to characters, revealing reason behind action, unraveling politics, and finding the (often surprising) facts behind legends and modern-day denials of ancient relics. Never demanding that readers agree with his conclusions, E. G. Lewis has created a book that both encourages thought and inspires a search for answers. Beautifully illustrated, helpfully organized, and written in a pleasingly accessible manner, this is the perfect book to accompany Lent, or to share with friends when the subject of Easter comes up, whatever your background.Disclosure: I was lucky enough to be given a copy, which I promptly read and enjoyed. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

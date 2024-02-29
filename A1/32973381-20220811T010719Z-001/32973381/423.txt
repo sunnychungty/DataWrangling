@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0070EP63U <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-09-2014  
+<h2> review.text </h2>
+
+ <p> es una historia  de revista mas larga,  un buen intento, me recordo algo de Cristian Grey.... obviamente caricaturizado, pero si no hay nada mas que hacer entretiene </p>
+
+
+<h2> review.summary </h2>
+
+ <p> sin mayores sorpresas </p>
+
+
+<h2> review.date </h2>
+  12-23-2013  
+<h2> review.text </h2>
+
+ <p> Sorpresa, sorpresa!!!, a lectura de desenvuelve de manera que te mantiene inmersa en la trama y quedas con ganas de m&aacute;s. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Linda Historia </p>
+
+
+<h2> review.date </h2>
+  11-27-2012  
+<h2> review.text </h2>
+
+ <p> ES UN RELATO MUY BUENO, COMO TODO LO QUE ESCRIBEN EN DESEO, ESTAS NOVELAS SIEMPRE ME HAN GUSTADO POR COMO ESTAN ESCRITAS, TAN SENCILLAS DE ENTENDER. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CON MILLONARIO ASI ME CASO!! </p>
+
+
+<h2> review.date </h2>
+  06-26-2013  
+<h2> review.text </h2>
+
+ <p> all the ones in Spanish are my husband's (ramon's kindle ) he is stilll ordering same authors so he must really enjoy them!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> enjoyable really inocent!!!i thought i knew the author , but was wrong. </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> Ella de una relacion pasada que tuvo con su jefe ( sin que este supiera que era su empleada) sale embarazada y tiene morochos, el una vez que se da cuenta que ella le habia mentido al no desirle que era empleada la despide, sin saber que ella pudiera haber quedado embarazada, luego de tener a los ni&ntilde;os, ella decide enfrentarlo y decirle la verdad, pues necesita ayuda economica, para mantenerlos </p>
+
+
+<h2> review.summary </h2>
+
+ <p> el corazon del millonario </p>
+
+
+<h2> review.date </h2>
+  09-27-2013  
+<h2> review.text </h2>
+
+ <p> Una novela rom&aacute;ntica que trata de variar las formas de una contenido similar, el varon millonario joven y apuesto y la apuesta trabajadora de otro nivel que se enamoran. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sorpresiva </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> Una novela que te llega al corazon. Se las recomiendo, no se van a arrepentir. No me canso de leerla </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Me encanto </p>
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> Muuuuy recomendado es una buen&iacute;simo me lo eh le&iacute;do de principio a  fin es real mente una historia q me a conmovido grata mente. =) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ah sido un mega libro!!! </p>
+
+
+<h2> review.date </h2>
+  05-05-2013  
+<h2> review.text </h2>
+
+ <p> NO PUDE DEJAR DE LEERLO. ES MUY ADICTIVO. ME ENCANTA COMO LO CUENTAN, TE TRASLADAS EN T&Uacute; IMAGINACI&Oacute;N A LOS LUGARES QUE DESCRIBEN. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MUY BUENO </p>
+
+
+<h2> review.date </h2>
+  03-15-2013  
+<h2> review.text </h2>
+
+ <p> Que tierna y apassionada historia.  Tan bello leer del amor de padre, como se le encogia else corazon ver a sus bebes.  Y la passion entre los dos amantes era ardiente!  Me encanto este libro de principio a fin - especialmente el fin! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Muy tierna </p>
+
+
+<h2> review.date </h2>
+  01-26-2014  
+<h2> review.text </h2>
+
+ <p> Weird plot but it is a good book to read for school because it is a page turner and tells a lot about life </p>
+
+
+<h2> review.summary </h2>
+
+ <p> weird </p>
+
+
+<h2> review.date </h2>
+  06-07-2013  
+<h2> review.text </h2>
+
+ <p> Es una linda historia, Me gusto los esfuerzos de la pareja, ella por pelear lo que sus ni&ntilde;os merecian y el al enterarse de los bebes, su esfuerzo por ser un buen padre. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Buena </p>
+
+
+<h2> review.date </h2>
+  07-26-2013  
+<h2> review.text </h2>
+
+ <p> Es una bonita historia, tierna, la narraci&oacute;n es suave, sin complicaciones ni largas separaciones. Una lectura agradable para votar el estr&eacute;s. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Muy Bonita </p>
+
+
+<h2> review.date </h2>
+  10-08-2013  
+<h2> review.text </h2>
+
+ <p> Una historia sorprendente, diferente, dulce.... El ambiente muy bien descrito.  Los personajes y sus interrelaciones, inclusive con los ni&ntilde;os fue tan adorable que no te permite dejar de leerlo.  Excelente. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Adorable </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> La historia es sobre una pareja que se conoce en un crucero, se enamora totalmente en una semana (&eacute;l es el due&ntilde;o del crucero y ella es una empleada aunque no se lo dice )... se separan de muy mala manera por una mentira ( u omisi&oacute;n ) de parte de ella, y se reencuentran despu&eacute;s de un tiempo debido a que la protagonista hab&iacute;a quedado embarazada durante esa semana y est&aacute; decidida a pedirle una pensi&oacute;n para mantener a sus hijos ( gemelos! )....obviamente, apenas empieza hay rencores y desconfianza sobre la paternidad, pero en poco tiempo y con los bebes de por medio vuelve a surgir la atracci&oacute;n y el amor entre ellos..En l&iacute;neas generales no disfruto demasiado con estas historias tan b&aacute;sicas pero mientras que no haya un casamiento forzado por un embarazo (muy com&uacute;n en este tipo de libros y que realmente ya se ha vuelto totalmente anacr&oacute;nico en mi opini&oacute;n..) ni personajes que insistan por paginas y paginas con sus rencores o venganzas..  creo que estas lecturas  t&iacute;picas de Harlequin siguen siendo una opci&oacute;n aceptable para una tarde de lluvia o para cuando una est&aacute; de humor para un romance ligero sin demasiado drama ni exigencias.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> El Corazon del millonario </p>
+
+
+<h2> review.date </h2>
+  07-02-2013  
+<h2> review.text </h2>
+
+ <p> Lo lei en un dia y medio, asi de facil es, no tiene muchos giros pero es muy entretenido. Lo unico q no me gusta es el hombre q sale en la caratula del libro, en nada de se parece a lo q me imagine de nick falco ajaja. en fin es buen libro, ojala escribiera otros libros asi como este. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bueno y facil de leer </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> es entretenida y agradable.es facil de leer ,una narrativa detallada en cuanto a la pasion de los personajes haciendote vivir cada momento . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> entretenida </p>
+
+
+<h2> review.date </h2>
+  12-11-2012  
+<h2> review.text </h2>
+
+ <p> &iquest;por que los hombres solo ven cuando "les mientes" ( o mejor les oculta unos peque&ntilde;os detalles) y no ven m&aacute;s alla de su orgullo herido?Bueno asi es como comienza esta historia de un hombre que consigue cualquier mujer que desee pero cuando realmente aparece alguien que valga la pena, hechan todo por la borda solo por omitir un detalle.. pero en fin... Es interesante como ese pasado regresa pero no solo a mover el pasado, si no con un par de gemelos consecuencia de esa semana "especial"Es interesante como dos voluntades chocan y eso puede ayudarles a continuar o definitivamente ir por caminos diferentes. La trama ocurre en su mayor parte en un barco asi que no hay escapatoria para ambos asi que tendr&aacute;n aque hablar de una manera u otra... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tercos y orgullosos </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

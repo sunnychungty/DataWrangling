@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1484063201 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pocket Bug out Bag </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> While it won't have everything, creating a survival tin could help you if you get caught flat footed in an emergency. I wish there was more about packing the tin for maximum effect but still a worthwhile read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Lots of Practicle Tips </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-25-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is written just like it was a survival kit, short and concise. Don't let the brevity fool you, though. There are loads of practicable suggestions and ideas. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good ideas </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Ive read a lot of survivalism books, and this one is basic, simple, everyone can use this guide, and it provided a lot of useful information on how to use the items.  Good concise guide.  Thank you for sharing! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A good starter book for those who have never made one before </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a good reference guide for the beginner or someone who just needs to get a few new ideas on what to put in a tin.  I am no expert but have been carrying a BOB for quite some time and even I picked up a few ideas from this book.  Definitely one to keep in the reference library to fall back on or to pass on to others. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Concise and Jam packed with useful info. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great little book. Just enough detail, presented clearly and explained cogently. I'm very glad I purchased this book. Go buy one! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Out of the many </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is as good a How To book as you need.  I enjoyed the book and went on to adapt my own tin as he suggests. Altogether worth the price even though the subject is covered by many. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Interesting </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm not sure if I'll ever need this but I am working my way through a tin of Altoids just in case. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> surprisingly helpful </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I downloaded this book in bemusement; how can an Altoids tin help me survive? I was pleasantly surprised.The author has obviously done some experimentation, and shows how a pocket-sized tin can help you survive a disaster more safely and comfortably. The writing is concise and engaging.I would recommend this book both to peppers and to any more mainstream person who travels or camps. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good book </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great if u are setting up your survival tin for the first time.  Lots of practical information along with why u should include things. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Helpful </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This little guide gives plenty of helpful ideas but not everything suggested is going to fit in a tin.Still, it gives you enough information to prepare a kit to cover a wide range of situations.When it comes to putting together a survival tin or a BOB, there is no one size fits all solution.  Whatever you carry, it is better than nothing at all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good advice, if a little paranoid </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book contained good advice for a practical way to get some piece of mind in a crisis situation.  The tone is a bit extreme and/or paranoid in places but overall it is a useful book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Basic Overview of a Survival Tin </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Survival Tin: The Survival Kit You Can Carry in Your Pocket by M. Anderson covers potential items to carry in a survival tin. Items covered include: Fire, first aid, food and water, information, light, and miscellaneous items. The author provides examples of potential survival tin containers such as an Altoids tin which can hold 7 cubic inches or a film canister which holds 3 cubic inches. Too many people overestimate the capabilities of a "survival tin" and believe that it provides more utility than it is truly capable. Do you really think a 7 cubic inch tin is going to hold enough useful items to keep you alive in a survival situation! While it may be capable of holding some items don't much out of this kit.The author states, "Paracord works well for makeshift tourniquets." He goes on to say this is not the best method but the truth is this is very bad advice as rope or cord should never be used as a tourniquet due to the pain and damage it can cause. If it was the only option I had and no other choices existed I would use it. I would rather first opt to rip up the shirt off my back and improvise a tourniquet before using paracord. He also talks about using a condom or rubber band as a tourniquet. I think he is stretching the capabilities of these items to perform well in an emergency situation.This book would benefit from a few pictures of survival tins and their specific contents. The author talks a lot about potential items to include in a survival tin but never talks about or shows a finished product.Overall Assessment:The Survival Tin: The Survival Kit You Can Carry in Your Pocket by M. Anderson will provide you with ideas for a survival tin. Most of the information in this book is available for free on the internet. There is no example provided of a complete survival tin kit or pictures of what this would look like. I do not agree with everything that the author states as I think some of the potential contents do not provide much utility for a survival situation. I was not convinced that having a survival tin is really that useful. For individuals who are new to the concept of a survival tin this is a starting point. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

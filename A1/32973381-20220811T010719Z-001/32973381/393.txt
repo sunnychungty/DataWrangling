@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B002DUCNI2 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-08-2012  
+<h2> review.text </h2>
+
+ <p> This book covers the battles around the Chosin Reservoir in North Korea. It is a good read but a little hard to keep track of all the different units and battles, etc.  A better read on this subject is "The Last Stand of Fox Company". If you are a marine, the story of Fox Co. should be required reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Batte for Chosin Reservoi </p>
+
+
+<h2> review.date </h2>
+  07-21-2013  
+<h2> review.text </h2>
+
+ <p> GREAT HISTORY OF THE BATTLES AROUND CHOSIN RESERVOIR  IN KOREA. HAVE NOT READ AN ERIC HAMMEL BOOK YET THAT WAS. NOT WELL RESEARCHED AND WELL WRITTEN. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT </p>
+
+
+<h2> review.date </h2>
+  02-03-2013  
+<h2> review.text </h2>
+
+ <p> This book is a realistic account of battles in Korea.  It is factual, informative and still is emphatic to the soldiers. Well written. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good realistic account of the war in Korea. </p>
+
+
+<h2> review.date </h2>
+  01-06-2014  
+<h2> review.text </h2>
+
+ <p> I have had a hard-bound copy of this books since it came out it the early 1980's and think it is one of the best history books I have ever read.  When I first read this book back then, the Cincinnati Bengals and San Diego Chargers were playing a playoff game and the temperature was cold and the announcers were going on-and-on about how tough the players were to be out in that &#34;bad&#34; weather. Coincidently, this past weekend those same two teams played again and the newer announcers were saying the same thing.  None of the football players experienced anything like the cold that the Marines experienced from the wind blowing down off the Chosin Reservoir in the mountains of North Korea. Plus, the NFL players did not have to worry about ten divisions of Red Chinese Army soldiers trying their best to kill them.This is book is very focused on the experiences of the down-in-the-mud/snow Marines who had to fight their way out of the mountains with their equipment and most important, the wounded and dead.  The ordeal of the Marines at the Chosin Reservoir is one of the great stories of war and human indurance and Eric Hammel does an outstanding job of telling their story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Heroic Ordeal" Says It All </p>
+
+
+<h2> review.date </h2>
+  01-31-2014  
+<h2> review.text </h2>
+
+ <p> My husband had read some other books by this author, and having served in the Army in South Korea, he wanted to read this. It was an interesting read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bought this for my husband </p>
+
+
+<h2> review.date </h2>
+  08-18-2009  
+<h2> review.text </h2>
+
+ <p> Few Military Historians can write a tactical combat narrative as well as Eric Hammel. In his book Chosin he gives you a foxhole-eye view of one of the pivotal battles of the Korean War, in which approx. 30,000 coalition troops (comprised mainly of U.S. Marine and Army units) were surrounded by roughly 150,000 Chinese troops and managed to break out and survive. Hammel's writing has a visceral quality takes you right down to the foxhole level, you'll feel the anticipation as U.S. forces brace to repel wave after wave of Chinese Infantry, you'll also be astonished by the many acts of selfless heroism spotlighted in the book, most of all you'll feel the cold. He does a great job of relating the experience of the common marine/soldier, and the sheer grit, determination and will power it took for them to survive such adverse conditions. Chosin is one of the best books I've read on the conflict, absolutely essential reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A foxhole-eye view of one of the pivotal battles of the Korean War </p>
+
+
+<h2> review.date </h2>
+  11-12-2013  
+<h2> review.text </h2>
+
+ <p> This is NOT a novel... this is history and it reads like a very detailed history book.  If you want to understand the heroric efforts, the amazing feats of our military during the Korean &#34;police action&#34; then read this book.  It is not an easy read,,, it does get to be a bit much detail.... it is not a &#34;fun&#34; read... but I am very glad I have read it and would reccomend it highly... but understand it i a history book... not a historic novel... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Glad I read it... not what I expected... still glad I read it </p>
+
+
+<h2> review.date </h2>
+  12-27-2012  
+<h2> review.text </h2>
+
+ <p> I gave this book as a gift so I don't know what to write.  Great seller and fast shipping as well </p>
+
+
+<h2> review.summary </h2>
+
+ <p> gave as a gift </p>
+
+
+<h2> review.date </h2>
+  06-01-2014  
+<h2> review.text </h2>
+
+ <p> The landing of our Marines at Inchon, Korea was a brilliant military maneurver, reuniting two Divisions, currently seperated by the North Koreans, south of Soeul ! Thus began the sorrowful war of attrition of a Marine Division never before suffered in such numbers as the return from the Chosin Resevoir! This campaign lacked the foresight of its commanders, the weapons and technology to win any conflict! The US forces were woefully lacking in strength, training and understimating the enemy! What followed was a nightmare of withdrawal (&#34;attack in a different direction&#34;) of 74 miles to Hungnam ,made the Little Big Horn look like a minor skirmish!The Marines have never made that same mistake since nor will it submit to a Military Commander with so little foresight and disregard for the men who suffered for that shortsightedness! This story is a must if you really want to understand the why's of the Korean Conflict! Tate </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The First Marines Chosen </p>
+
+
+<h2> review.date </h2>
+  02-22-2011  
+<h2> review.text </h2>
+
+ <p> First off let me say that in some respects this reads like a after action report with more detail,I did not read it in one sitting. I read General O.P. Smith's extract of the letter he wrote to the Commandant of the Marine Corps in "Leatherneck" covering the Chosin operation. This book follows the letter very closely. One of the things I found most interesting in both the book and letter is the fact that they cover the operations of both the 31st and 32d Infantry Regiments of the 7th Infantry Division and their contributions to the success of the withdrawl or as General Smith put it "attacking in a different direction". I say this because most people that know anything about the "War America Forgot" think the Chosin action was strickly a Marine operation. The author gives a great deal of credit to the air support they received both in fighter bombers, air medical evacuation and air drop of needed material. He also covers leadership and what happens when too many links in the chain of command are taken out. I also found the description of General Almond with reference to the over all battle most interesting as Almond here reflects the intelligence estimate of China's entry into the war provided by MacAurthr's headquarters in Japan even after 8th Army had been hit hard by them. All in all I would say this is a fine book and worthy of the men that fought it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The battle America forgot </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00024JBZE <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-05-2013  
+<h2> review.text </h2>
+
+ <p> This is the perfect dvd to jump into the new storyline which introduces Quentin Collins. The dvd contains some of the best episodes from this period and covers a lot of interesting elements such as time travel, i-ching, gypsies, tarot cards, and more. You will be hooked! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the best times to jump into the show! </p>
+
+
+<h2> review.date </h2>
+  12-03-2013  
+<h2> review.text </h2>
+
+ <p> I was 8 years old when the show first aired.  As l grew, Dark Shadows was a show my sister and l would watch after school.  The story lines are good; and don't always go where you think they will.  They keep you guessing.  l enjoy Dark Shadows! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Show </p>
+
+
+<h2> review.date </h2>
+  07-27-2006  
+<h2> review.text </h2>
+
+ <p> After the extremely disappointing set 12, which centered almost completely around the two intolerable children, set 13 is a real breath of fresh air.  For the most part, it reinvigorates my love for the show.  It takes a few episodes, but by about the middle of the first disk Barnabas uses the I-Ching wands to travel back in time to 1897.  The scene where Professor Stokes performs the dark ritual to enable Barnabas to do this is fabulous - this is the kind of stuff I watch the show for.  Pure Gothic suspense.Once in the past, all the actors play different parts.  Barnabas first meets Sandor the gypsy (formerly Professor Stokes), and another gypsy named Magda (formerly Juliet Hoffman).  They live at the old house.  The reason they're there is the matriarch of the Collins family employs Magda to tell the future.  This matriarch is now on her death bed, and the Collins family members are all anxious to see how the will is split up.  Besides Edward and Judith (formerly Roger and Elizabeth Collins), there's also Quentin - we saw a lot of him in DVD set 12, but now we finally get to hear him speak in his New England accent.  Quentin is a real good-for-nothing, returned from England just in time to try to ingratiate himself with grand-mama before she dies, and he's incredibly full of himself.  However, Selby's marvelous acting leaves the character rather sympathetic and not all together unlikable.Once the will is sorted out, the plot lines start coming fast and furious.  Governess Rachel Drummond (formerly Maggie Evans) notices lights on in the tower room and investigates.  We eventually discover the secret - good stuff!  Quentin along with the family lawyer Evan Hanley (formerly Nicolas Blair) conduct a black magic ritual and summon Angelique to help them in their fight against Barnabas.  To say this doesn't turn out the way they intended is a bit of an understatement.  Edward's wife Laura shows up, but Quentin is sure that he saw her die.  There's something very odd about her.  I'm only touching on the high points, there are all sorts of other happenings taking place.  Barnabas is a vampire again, Quentin is turned into a zombie, an insane woman runs loose in the house, Angelique starts blackmailing Barnabas like she always does, it goes on and on.Eventually the children are taken away to Reverend Trask's school, where Rachel ends up as well.  This is unfortunately where it gets bad, as "The Shrieker" is back:  Denise Nickerson, the child actor who plays Nora Collins, and who apparently never saw a line of dialogue that she didn't think could be improved by adding three exclamation points to the end of it.  I'd compare the experience of listening to her to going out to dinner and being seated next to a couple with an infant who won't quit screaming.  It is painful, to say the least.  Young Jamison Collins does his best to annoy as well.  With so many wonderfully intriguing plot lines going on at once, I really can't fathom the thought process that went into putting these two brats at center stage once again.  Our ears have only recently stopped ringing after enduring their squealing barrage in DVD set 12, and now they're doing it again.Fortunately this doesn't happen until the midpoint of disk four;  We can only hope it will be short lived.  Other than that, the rest of the episodes are absolutely fantastic - exactly the sort of stuff that keeps me buying these DVD sets one after another. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent, except the last few episodes </p>
+
+
+<h2> review.date </h2>
+  10-06-2010  
+<h2> review.text </h2>
+
+ <p> if you want to see and enjoy a true art see dark shadows and enjoy what others can only copy at best </p>
+
+
+<h2> review.summary </h2>
+
+ <p> better then twlight and true blood </p>
+
+
+<h2> review.date </h2>
+  05-01-2011  
+<h2> review.text </h2>
+
+ <p> Since I was a child, this was always my favorite show.  I always wanted to see this show.  Finally, my husband and I found the DVD.  We enjoyed it so much we purchased the whole  DVD set .  I'm an adult now.  As a Christmas gift, my husband even gave me "Josette's" Music Box as a gift.  My idol, Barnabas, I finally got to see!!! I even purchased a book that was written, a mug, and a T-Shirt! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wish Come True!!!! </p>
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> This is  alot of fun to watch,just to get a feeel for the sixties way of thinking! Best soap opera of its time! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dark Shadows fan </p>
+
+
+<h2> review.date </h2>
+  10-25-2011  
+<h2> review.text </h2>
+
+ <p> I used to try to walk home as fast as i could from school to watch this, but only got to see the ending or not at all. There were no VCR's etc back then, but wish there had been.  Even though Black & White, it is still spooky and keeps the watcher's interest. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fond Memories </p>
+
+
+<h2> review.date </h2>
+  07-06-2012  
+<h2> review.text </h2>
+
+ <p> Because I am not a patient person I do not like to wait for things to arrive in the mail. Even so, I usually use the free shipping that Amazon offers on orders that are over $25.00. I did that on this order.I watched Dark Shadows when it originally aired back in the 1960's. I was in grade school then and the other kids told me about it. Barnabus Collins was already a part of the show when I started watching it. Many years later I started to rent the videos from Blockbuster and then I began to buy them from Amazon. The nice thing about buying these collections is that I can watch all of the episodes in order! This collection is as good as I expected it to be based upon the other collections that I have bought so far.The master tapes for several episodes have some errors in them and the video producers have chosen to leave them in the DVD's in order to avoid cutting out any content. I am not bothered by that but some perfectionists may be. You will notice things like the sound booms in the scenes, extra people who are not supposed to be in the scenes, vampires who are still seen in mirors, and some of the actors flubbing their lines. This occurs throught the series because of the live taping that was done in the 1960's and 1970's. Again, I am not bothered by any of this and find it quite comical.Mike Serovey, MA, MISMOwner & Webmaster of Mike Serovey Reviews (website)Dark Shadows: DVD Collection 13 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Review of Dark Shadows DVD Collection 13 </p>
+
+
+<h2> review.date </h2>
+  05-08-2011  
+<h2> review.text </h2>
+
+ <p> The residents of Collinwood have fled in fear as the ghost of Quentin Collins takes control of the mansion and possesses the children, and young David lies at death's door. Barnabas uses the I-ching wands to travel to 1897 to solve the mystery and vanquish the ghost. The trip in time is successful, but with a minor complication - in 1897 Barnabas was a vampire chained in his coffin in the Collins mausoleum. Oops, how to get out of that pickle? As for the Collins clan of 1897? Aging matriarch Edith Collins is on her death bed with a doozy of a secret that can only be imparted to oldest son Edward (Louis Edmonds). Meanwhile, the other siblings lie in wait wondering just who will get all the money - spinster Judith Collins (Joan Bennett), nutty Carl (delightfully played by John Karlen) and newly returned prodigal son and delightfully bad Quentin (David Selby).Quentin resorts to dabbling in black magic in an attempt to get a will in his favor, but it has unexpected consequences - albeit a delicious surprise for the viewer - the return of the witch Angelique (Lara Parker). There's also a big nod to Jane Eyre with the mysterious occupant of one of the upstairs rooms, but I'll not spoil that one for you (you'll figure most of it out pretty quick). Kathryn Leigh Scott continues as the long suffering heroine, this time governess Rachel Drummond - who has a deep dark secret connection to the evil Reverend Trask and Trask is most definitely willing to use it to force her back to his school. And if that's not enough to stir the plot pot, towards the end we also see the reappearance of Edward's long missing wife Laura, who arrives with her own hidden agenda and boy, oh boy does Quentin get the shock of his life when he see her (not telling).This set is the best of the series so far. The action and pacing starts at the get-go and rarely lets up, the cast is wonderful (Quentin does get the best lines), and there are plenty of things that go bump in the night, black magic, a witch and a phoenix arisen from the dead. The zombie twist was a wee bit OTT (not telling you who that was), but other than that I was on the edge of my seat all weekend and hardly got anything else done, but oh that ride was worth the guilt trip and the unvacuumed floors ;)FTC disclosure, I obtained this from my county library. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Things are really cooking now... </p>
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> The story just gets better and better!  Twists in the plot, new characters and now Barnabas is back in 1897!  It's fun to see the actors you know as characters in the present play different people in the past.  Wonderful! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Continues Great Gothic Soap Opera! </p>
+
+
+<h2> review.date </h2>
+  05-26-2014  
+<h2> review.text </h2>
+
+ <p> The Gothic soap opera continues to keep going strong as Barnabas Collins uses the power of I-Ching to travel back in time to 1897 to stop Quentin Collins from harming David in the future. This review will contain spoilers! The first time I watched the 1897 episodes, I didn't care much for them but I've been re-watching them and they've gotten better. Barnabas returns to being a vampire again and needs the help of Sandor and Magda the Gypsies to help protect him during the day and keep his secret. Grandmother Edith is slowly dying and needs to tell Edward Collins a family secret. All the Collins's want their share of the inheritance after she dies. When Barnabas shows up, claiming to be a cousin from England, Quentin becomes very suspicious and ends up raising Angelique from the dead to help him. There are lots of interesting characters throughout the 1897 storyline like Crazy Jenny, Count Petofi, Rev. Trask, Garth Blackwood, Aristede, and many more. I highly recommend DARK SHADOWS COLLECTION 13!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Return to 1897!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

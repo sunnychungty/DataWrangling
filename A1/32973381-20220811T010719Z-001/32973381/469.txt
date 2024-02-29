@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00DQ1Y85S <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-09-2014  
+<h2> review.text </h2>
+
+ <p> I discovered several nutritional values of the lemon in this publication. I love love lemons anyway, now I plan on using them more frequently. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very informative </p>
+
+
+<h2> review.date </h2>
+  07-24-2013  
+<h2> review.text </h2>
+
+ <p> I just looked at all these delicious tempting recipes and I can't wait to try one for dinner tonight! The ingredients are just what I always have or are easy to get. Nothing is better with a recipe that includes LEMON! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Recipes look very good! </p>
+
+
+<h2> review.date </h2>
+  10-15-2013  
+<h2> review.text </h2>
+
+ <p> This is an excellent collection of recipes using lemons as well as including some useful tips on the properties of the Lemon.  Thank you for sharing this knowledge. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lemon Recipes:  Delicious, Natural,& Healthy Recipes for Breakfast </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> Lemons are quite expensive in Alaska however the seafood is plentiful. The recipes in this book have my mouth watering. I cook everything from scratch without added chemicals. I am a RN & understand the nutritional value of lemons. Thank you for these recipes, I will use them frequently. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best cookbook I've downloaded in a long time </p>
+
+
+<h2> review.date </h2>
+  05-19-2014  
+<h2> review.text </h2>
+
+ <p> I love the taste of lemons, smooth, cleansing a bit tart...all of it.  I have had and prepared the lemon chicken many times, and am looking forward to preparing many of these recipes for my family. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lemony goodness </p>
+
+
+<h2> review.date </h2>
+  07-27-2013  
+<h2> review.text </h2>
+
+ <p> A very well-formatted book with attractive illustrations for each recipe. There's also a list of supposed health benefits of lemons, as well as their history.The only problem I found was that quite a few of the recies didn't specify how much salt was needed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Where's the salt? </p>
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> This is an interesting. Book on uses for lemons. I found the recipes to be very good, so yummy. Medical information was also good to know. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lemon uses </p>
+
+
+<h2> review.date </h2>
+  05-18-2014  
+<h2> review.text </h2>
+
+ <p> This had some amazing recipes in it. Great history and information on the lemon. The recipes are fresh,interesting, and easy to follow. Gives you some of everything, dinner,dessert,salads,breakfast and cookies. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is yummy </p>
+
+
+<h2> review.date </h2>
+  05-22-2014  
+<h2> review.text </h2>
+
+ <p> &#34;Lemon-Cran Scones&#34; is from Top Chef contestant and host of Lifetime's &#34;Cook Yourself Thin&#34; Candice Kumai's cookbook, &#34;Pretty Delicious&#34; and as explained in Health magazine&#34;Blueberry Lemon Breakfast Quinoa&#34; recipe and picture in this book was posted on allrecipes.com by LilSnoo and not original with this publisher/author.&#34;Sticky Lemon Rolls with Lemon Cream Cheese Glaze&#34; is from the Internet site ivillage.com recipe #156732 including the picture.&#34;Gingerbread Muffins with Lemon Glaze&#34; is from the Internet site sallysbakingaddition.com posted 12/11/2012 including the picture from the site and the publisher of this cookbook cut off the copyright to the picture!  Do you think he/she knew it was &#34;stealing&#34;&#34;Date-Nut Bread with Lemon&#34; is from epicurious.com, #00316 and its reference blog, recipeldoodle.blogspot.com so there's nothing new in this book.&#34;Breakfast Pizza&#34; is really &#34;Blueberry  Lemon Breakfast Pizza&#34; from the Internet site backtoherroots.com owned by Cassie under date of 1/23/2011 including the picture Cassie  (the author of this recipe) took for her product on her copyrighted web site.  This publisher just ripped it all off to try and sell a book when he/she did NONE of the real work.  Cutting and pasting sand stealing is not really hard work. But designing, maintaining, cooking, testing and trying to make a living off your own true efforts is.  Don't support thieves like this publisher.The picture for &#34;Lemon Waffles&#34; is off the mrbreakfast.com site #298 but the recipe ingredients  left off the flour and the directions say to add it with the &#34;icing sugar&#34; and other dry ingredients.  Guess the fake author got lost in the copying/pasting process.And on and on and on it goes.  What a complete and total gyp even when it is free! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nothing new here, all off the Internet and copyrighted cookbooks. </p>
+
+
+<h2> review.date </h2>
+  01-24-2014  
+<h2> review.text </h2>
+
+ <p> I tried a few. Most were successful and very tasty. I would recommend it to anyone who enjoys lemon recipes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Many recipes </p>
+
+
+<h2> review.date </h2>
+  05-15-2014  
+<h2> review.text </h2>
+
+ <p> I can hardly wait to try a few of these out. I'm a huge fan of lemon flavor and love it in desserts and main dishes, so I can recommend this to anyone who loves lemons or who wishes to try something other than chocolate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lemon recipies! </p>
+
+
+<h2> review.date </h2>
+  06-05-2014  
+<h2> review.text </h2>
+
+ <p> But I wanted the recipe of the Lemon cake on cover I couldn't find it. Now that's disappointing I I </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad for recipes </p>
+
+
+<h2> review.date </h2>
+  06-10-2014  
+<h2> review.text </h2>
+
+ <p> Liked but too few .needed many more recipies before I will rate it A#1. Not much more I can write </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love anything lemon </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

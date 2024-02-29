@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00LJDDE5A <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Looking within to Heal! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I found while reading &#34;Healing Your Inner Child&#34; I was seeing back through my past and how they have shaped me to be who i am now. All the wrongs of my childhood. I loved how Miranda explained how these events shaped us and who we are right now. It gave me inspiration to be authentic to myself! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very interesting </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Healing Your Inner Child: Unlocking the Child Within Through Self-Analysis is very interesting read. I found the book fascinating. I ideas and suggestion in here are something I have never heard before and I found them very intriguing. I would definitely recommend you read this book! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For adults of any age. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> While this book is written for adults with a view to healing your own inner child it would serve any parent well to read this entirely. It has a good deal of common sense built in to helping us as adults but I kept thinking how young parents should be as mindful of the issues brought up in this book. I'd recommend this to older adults and young couples with young children. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> How to Reacquaint Yourself With Your Inner Child </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> We are our most honest and creative selves as children, yet it is as children that we are  most fragile and vulnerable.  In her book, Healing Your Inner Child, Miranda Johnson talks about how as we grow older, our maturing selves, influenced by adults, friends, and teaches begin to silence our now inner child.  Hurt and forgotten, the natural spontaneity of the child is now cowed. Miranda goes into great detail about the many ways that we as children are emotionally eclipsed by people of authority. Fortunately we can awaken our inner child and discover our true authentic selves.  It is a journey and not one taken over night, but one worth embarking on.  You will learn to once again play, be creative, enjoy and live life more fully. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very inspirational, I recommend it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Understanding how your &#8216;disappointed or disillusioned&#8217; inner child can impact the rest of your life is quite an amazing concept, and this book outlines it in a clear and yet inspirational way.  Not only does it identify how we can hurt and lock up that &#8216;inner child', but it gives some fantastic strategies for how we can get it back!  I found this book very inspirational as I read through it.  It caused me to sit back, consider, and re-prioritise both where I am at and where I want to go.  I also really appreciated the breakdown of all the contributors to our losing that inner child &#8211; family issues, peer pressure, even teachers and new life structures.  All of this leads to a very helpful section on how to heal.  An inspiring and informative book that applies to anyone who has ever pondered where their inner child went, and how great it would be to heal and unlock it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Heal the child within you </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's good to read something that can help me ease my worries such as this. I have been trying to set free my inner child and as I am capable now of taking care of myself I think it's time for me to follow my own path. I have a controlling parents who wanted me to live my life as they have planned. I think defying your parents is not wrong at all when you know you are following your heart and you are determined that you can be someone better in the path you chose. The most important thing one should always remember is to make sure the path they chose for themselves is also the path to their happiness and fulfillment in life. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Healing </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was written in a compassionate manner that really resonated with me. In addition to understanding your inner child better, you will learn how to listen to and communicate with you inner child as well. A positive read with practical advice. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For adults to understand their selves and children. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a product of a broken family. When I was younger, my dad cheated that caused my parents divorce. The truth is, moving on is too difficult for me until I reached 24. All my younger years were filled with suffering that it is difficult for me to get past the negative events in my life. It was a painful emotional trauma and no one really taught me how to properly deal with it. The author understands the readers very well. It targets the core issues of a broken inner child and gave healing methods to try. This book serves loads of information that I will definitely need when raising my own child. With this book, I have come to know myself more and understand children. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very interesting concept </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is very interesting, it is like trying to look at things in a similar way we used to look at the when we were children. The book talks about bringing out your inner child and help it relearn things.The book will help you overcome childhood issues you had that were repressed and now even if you are not completely aware they are there, they still affect you in your adult life so you need to solve them so you can have a better life. Even things from childhood that were the result of poor or bad guidance from teachers, teachers being practically everyone you learned form in your childhood. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Am still learning from this book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> A good book to remind us that we must forgive ourselves and face our fears/guilt. Easier said than done, of course. But I often go back to this, open a page, and start reading. And I always learn something new about myself. Author provides techniques for healing your inner child, as well as using communication and compassion to improve relationships, with both ourselves and others. I would recommend this book to anyone with an open mind. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

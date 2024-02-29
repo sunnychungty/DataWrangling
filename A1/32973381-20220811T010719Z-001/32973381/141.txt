@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00CGYCNG2 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The best high efficiency PSU for the price. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> At the time of purchase (Q1'14), there were no other power supplies around 1000W with this level of efficiency at this price. This PSU far exceeds the gold standards (nearly at platinum level). Go read TechPowerUp/JonnyGuru for a detailed overview of this unit. While several percentage points in efficiency doesn't seem like much, if you're using your system 24/7 at or near load, it quickly adds up to over the course of a year. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Its a Power Supply. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Plenty of power, got it for 130$ after MIR. Love the cables, I was afraid they were going to be stiff like alot of the others. I also like the way it looks. Not a ton to say about a power supply until I actually put it under load with my planned CF 290x's, so right now its exactly what it says it is. Red VGA cables is a bit of a put-off </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> EVGA is just the best of the best. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Another excellent EVGA product. I can't say enough about it. The quality of the materials used are just top notch, and every product works amazingly right out of the box. I never have to worry about anything I get from them. This power supply is no different. Fully modular lets you choose which cables you need, so you don't clutter your case, allowing excellent air flow. The power supply itself is small, fitting into normal sized cases, and aligning with normal air flow systems.I ran this power supply on a detector the first 3 days of owning it, and the voltages, temps, and levels are all way above gold standard. No choppy voltages, no weak rails, no sound, nothing. Just smooth constant power everywhere you need it, with more to spare. The power supply remains cool to the touch even after a days worth of gaming.  If you are running an enthusiast system, do yourself a favor, get an EVGA power supply. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> High Powered, Smooth, Clean and Quiet! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I had a Corsair HX850 before this.  I was having problems with my system with slow downs, blue screens and shut downs.  I got tired of it and tried to figure out what the problem was.  I then upgraded my whole system except my power supply and a few other things.  I then got this EVGA power supply and things were good.  However, I soon realized that my system slowed down not due to the Corsair, but due to a faulty TV Tuner card.  I removed the tuner and the system is speedy!With that said, this PSU still has better performance than the Corsair as it makes my system as powerful as it is allowed to be.  I even added more RAM (32GB) so this PSU helps.  I feel relief knowing that this PSU will not (has not) shut down, runs quiet, cool, clean and I can overclock my video card without a hiccup and this thing seems as if it has room to spare!With the PC biz designing more and more components to have low power (I guess because the oil is running out), many have compromises these days.  After a while, we may not get or need high powered PSUs.  CPUS are slowing down and getting weaker to support lower power and many PCs or consoles are becoming centered around a GPU in order to lower power.  This PUS works with everything and it does it with excellence!My Corsair was 80Plus Silver - this one is Gold.  This one has all of the latest specs, a nice box and a nice design.  The ONLY thing I did not like were the peripheral cables, they were not flat but round!  They should  haven known better than to make them round and not flat.  I was just able to get my case to shut.  Good thing I just bought a full tower!  They should have fixed that.  One other thing is the SATA cables could have been a few more, but I had just enough.  Yeah, you can use adapters for the molex, but the Corsair did not have too.At the price that I got this for on Amazon along with free shipping and the rebate (which seems like it took years), this was a deal I could not pass up!  I don't have Crossfire or SLI, but at least I know if I wanted that option, this can more than handle it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing Power Supply </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this power supply to replace an aging Antec 900w. I am very picky when I buy power supplies, but I am very impressed with this unit. its whisper quiet and while its on the larger side it still fit in my full tower case. The modular connections were easy to use and setup and it came with a nice bag to store the spares.Overall very impressed! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> VERY NICE! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Ive been waiting to upgrade, and this my friend was a great purchase. I previously owned the 750g and had speculated that I would have a little trouble pushing an SLI setup, with water cooling, fans, monitors and whatnot. I Got the 1000g just so I dont have to worry about that part, and It's fully modular to have sleeved cables if I want to dress it up, the 750g has a couple essential power cords that arent modular. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Power on Command </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-31-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> So far I have had no issues with this monster. Has enough power for everything I have attached and more. Seems like SLI is in the near near future. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This Supernova will blow your mind! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a fantastic Power Supply. The fully modular design just makes the whole deal amazing, i mean where can you get this much power, fully modular, red and black cable design and a 10 year warranty for this price? Nowhere! Just a flat at bang for your buck!They will be sending fireworks sky high!Check this Power Supply out on my YouTube Channel in my build video, Just search for FatedCb </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exceeded my expectations </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am using these to power some high end gpu mining rigs. I also have some XFX PSUs as well.I know Seasonic builds the XFX PSU's - but overall I am impressed with the EVGA ones compared to the XFX PSUs. My reasons for this are:- Long cables. The XFX cables from my 1250W are almost 1/2 the length of the EVGA ones. This could be a pro / con - but generally it is probably better to have cables too long than too short. I really appreciated the extra flexibility the longer cables gave me.- Nicer packaging. XFX packaging is really bland / cheap. EVGA packaging makes you feel like wow you got something really nice.  Also EVGA gives you two nice packets. One that surrounds the PSU (which I'll probably never use - but it's a cool concept). They also have a really nice / high quality packet for holding excess cables.- Plugging in the cables into the back of the PSU felt a little more connected / less wobbly than the XFX.- 10 year warranty. Amazing.So far I've been running two of these at ~950 watts at the wall as measured by kill-a-watt for over a month straight. Yeah it's only been a month, but cheaper PSUs probably would have died.I'm very happy I decided to go with EVGA even though it wasn't a Seasonic, XFX or Corsair PSU. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best One on the Market / Reasonable price / Better Value </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just got my 1000 G2. It was a miracle compared to my former SliverStone 1200W Olympia. 1000 G2 makes way less noise and corrected the problem Olympia was giving where it would restart the PC automatically after shutting down. EVGA's warranty is way better than SilverStone's. I wish this would have come out before I bought the Olympia. Good cable management with a form factor similar to Antec's in which you can add as many cables as needed to power the minimum amount of hardware, so there's no excess cabling. One thing that threw me off was the CPU1 and CPU2 cables because the end that connects to the motherboard is split, and having a huge heat sink in the way and having to connect the cables with huge hands and small clearance was a challenge. Although I was capable of accomplishing this task 10-15 minutes of fiddling around. Overall this is a great product. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great if you want to destroy your PC!!!! Buyer beware!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I received this in the mail (didn't order it from Amazon but from a well-known superstore) brand new. I did troll the reviews on this site along with the "egg". Generally great reviews. I even saw a review on here (and commented on it) that said it destroyed someone's computer. So I did my research and discovered that most of these have problems and there are a great deal of bad ones on the market. EVGA issued a recall on these less than 6 months ago. So I went to the EVGA website and even called customer service. You have to verify (link here: [...]) if you purchased a defective unit. After entering the serial number, in tandem with speaking with customer service, it was verified mine was not defective. So I took the plunge and hoped this would replace my corsair CX750.  BOY WAS I WRONG!!!! I installed this thing, turned it on and everything began to run hot. My graphics card fans (evga 780ti SC) ran extremely fast!  My corsair h100i began flashing red and I got no picture.  To my dismay, this thing took out two of my hard drives...I LOST EVERYTHING!!!! So unless u enjoy destroying your computer, do not purchase. They should use this thing for the purpose of destroying data, because its pretty good at it. I should have listened to the gentlemen who stated the same problem. SHAME ON YOU EVGA!!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best power supply ever made </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a bigger power supply, check your dimensions to make sure it will fit your application space.Pro: Fully modular so you only use what you need and have a very clean install. Awesome cables that are sleeved very well. Very flexible wires for easy manipulation.  Comes with every kind of connector you will need.  Evga has awesome customer service, and it has a very long 10 year warranty!Cons: only size limitations and it is not really a con.This power supply is a beast, it handles my high end gaming system with 2 R9 290's with no problem, I was able to push it to over 800watts with overclocking. Unfortunately my video cards generated too much heat inside the case, and I decided it would be better to split them into 2 systems. Now my sytem is super quiet, efficient and has plenty of GPU power to run whatever I want.Here are some facts you need to know when picking out equipment for a build.1) Never exceed 400 watts of (video cards) power, which translates directly into heat produced, in an enclosed case with air cooling. Your main PCIE16 card will be hotter because of radiant heat from the second card. This will make card 1 throttle more to control the heat, which will equal bad performance. (This exponentially multiplies with more cards.)  It will also lead to all your fans running at 100%  2+ high end video cards (above 200 watts each) I reccommend liquid cooling the GPU's.  Reference "hamster fans" are extremey loud and sound like a hair dryer running, I do not recomended them.2) It is fine to overkill your Power supply! Honestly you should double the wattage of the PS to what you think you will use. It allows for growth and overclocking if you want.  Power Supplies run most efficiently at 50% of thier rated wattage and once you hit 70% efficiency goes down fast, while heat increases.3) One 24vdc rail is the best, and most versatile for multiple video card setups because you do not waist power.4) Fully Modular is the ONLY way to go5) Spend the extra money on a GOLD standard power supply, you will have a super stable and reliable system because you did.6) NEVER use power supply cables from ANOTHER power supply, because they can be wired different at the PS. USE ONLY THE POWER CONNECTORS THAT ARE SUPPLIED with this POWER SUPPLY.  I know this because I have fried components before. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A little noisy </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The only thing i don't like about it, is that sometimes makes a weird sound for a few seconds. Other than that, good product. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fairly affordable, great PSU! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> EVGA has one of the best customer support out there, very close to Asus.This power supply is great for the latest hardware. If you are not sure that 850 watts is enough for your build, you can always get 1000 to be safe.Gold rated, really affordable, and 1000W, this is really a good bang for the buck power supply.Comes from a great company with also a awesome 10 YEAR warranty.You can't beat the value you get with the power supply.Especially with that 10 year warranty, this will last you a LONG time for your future builds and upgrades.]You want a future proof build? Well, this power supply will last you probably the same amount of years the warranty, since 1000W is plenty for the future for additional graphics cards and such! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> mine works </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> it worked right out the box the only down sides to this psu is that the video card cables are bright ass red and everything else is black.  so if you have a red/black mobo ram etc they would look good but in my case i dont so it looks bad with my sabertooth mobo and sapphire toxic cards....quick fix re sleeve or just buy adapters. The second thing is on the evga website there is a recall on some of these psu's so if it doesnt work outside the box or fails a short time after install thats most likely the case. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best PSU I've used. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-31-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I've put together many PCs at this point with all types of different parts from various manufacturers. This is by far my favorite PSU. It is silent. I love my quiet and I can't hear this thing, even at load with an OC'd 4670k, 780 OC and 760 PhysX. My HDD for video storage is now the loudest part of my PC (and WAY louder on spin-up than this PSU ever gets). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Absolutely the highest quality PSU unit on the market! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you guys are looking for the very best PSU on the market then look no further because you have found the one. The EVGA SuperNOVA 1000WG2 is one of the best PSUs I have ever bought, it is extremely well built, super quiet, has great sleeved cables that are nice and long and can even power the most power hungry GPUs that's out there. The warranty is another great thing about this PSU because it's 10 years which is always nice because you never know what might happen in the future. I have had many products die on me a few days after the warranty expires and it's the worst thing that can happen if you invest on an expensive product such as this.The EVGA SuperNOVA 1000WG2 really feels like a premium PSU when holding it and the materials used to make it really make the PSU stand out from the rest of the PSUs that are out there. It feels very well polished and it has a nice clean design that's not cluttered like the rest of the PSUs I have bought. There are plenty of cables in the box that are packaged quite well. I can't hear the fan spinning at all when gaming and even under full load using Prime95 which says a lot about the quality of the PSU. It has high quality Japanese capacitors unlike some PSUs out there that use cheap capacitors. There are so many cables and slots that you can use and I doubt I will ever need more than just a few.Obviously you are paying a premium for this power supply and you are definitely getting something that's worth every penny you spend. I am more than satisfied with it and it has no problem handling my setup. Some people compare this to the Corsair HX1050 or the OCZ Z1000W but the EVGA SuperNOVA 1000WG2 feels like a much better quality PSU than both of them. I'm planning on buying another one for my second rig because I'm planning on doing a 3-way SLI GTX780s and I need the best PSU that's out there. I always trust EVGA when buying one of their products and I always recommend it all of my geeky friends that build computers almost on a weekly basis. I have always had a good experience with their GPUS and now I have fallen in love with their PSUs. I can't recommend this product enough times.The installation process is pretty straight forward and you don't need me to explain how to install it because most of us who purchase these kinds of things are geeks and we know how this stuff works. Another thing that I love about this PSU is that it runs super cool and is whisper quiet. My old PSUs used to make loud noises but this one is inaudible. I have had many PSUs shut down on me while playing games because they would overheat but this one handles everything like a champ.The packaging is also great and it really feels like EVGA really made sure everything was in the right place. This PSU has a nice steel handle which is cool because you can carry your PSU around if you want to try it in other computers. My previous PSUs have been noisy but this one is whisper quite. You really can't go wrong with EVGA because they are hands down the best with their products and customer support. And how can you beat a 10 year warranty?Pros:+10 Year Warranty+Gold Certified+Super Quiet+Great Sleeved Cables+Steel Handle Make It Look Sexy and Easy To Carry+High amperage for even the most power hungry GPUs+Amazing build quality+Clean design+Fully modular+Great Packaging+From EVGACons:-NoneOverall, if you have the cash to spend on a truly high quality PSU then the EVGA SuperNOVA 1000WG2 is the one to get. I have been building and fixing computers for as long as I can remember and I have had a lot of experiences with other PSUs but this one really got my attention. If you are looking for something that's reliable, durable and future-proof then the SuperNOVA 1000WG2 is the PSU you should purchase. The packaging is absolutely insane and comes with a ton of cables. When holding the PSU, you can really feel the high quality materials that EVGA used to make this amazing PSU. I give it a 10/10 for the build quality, sexiness, awesome sleeved cables, warranty and many other features that it has. Strongly recommended!My main rig:Case: Corsair 900DGPU: EVGA GTX TitanCPU: Intel Core i7 4770K @ 4.6GhzPSU: EVGA SuperNOVA 1000WRam: Kingston 16GB of RAMSSD: Samsung 840 Pro 256GBMB: ASUS Sabertooth Z87OS: Windows 7 64bit </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Power Supply </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> All the power I need.  The modular cable system is fantastic (not my first).  I do wish is had just one molex connection not all manufacturers have moved away from this very old power connection.  This PS is made for gamers so it has a lot of VGA connectors for multiple video cards...keep this in mind when purchasing.  I would have liked more sata connections and a cable or two with a single sata connection for SSD hard drives.  I personally don't like to share cables on my solid state drives...this is just my personal choice. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantastic PS </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It is a wonderful power supply unit, I was originally going for the platinum one, but it was not available so I end up buying this one.It has a great presentation and some goodies that comes with the box ;) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent quality, presentation and value </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> EVGA sure takes the time to package their PSUs in a very presentable fashion. Beautiful cables, carrying case, cable pouch and so forth. Out of the box the unit looks solid and well built. It currently drives 3 GPUs and it's working like a charm. Barely gets hot and when it does, its fan and cooling system are silent, for all intents and purposes. Highly recommend for gamers, crypto miners and PC-building enthusiasts. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Top 1 Power Supply, Nice! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> It really is the number one, too stable, low temperature the fan you have is almost perfect to keep it cold and not gain too much heat, which I loved but this source is its style cables red and black colors completely because other sources only with black liners and connectors are different colors. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> out standing </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> great performance with zero noise and zero zero heat .... plenty of power to go around.lots of cables for different configurations </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Supurb Power Supply!!!!!!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just built a brand new gaming computer and needed a power supply that I could trust. I first looked at the corsair series but noticed people were getting failures with them and I just don't have a lot of time to mess with RMA's. Luckily I found this bad boy and tried my luck here, all I have to say is WOW! This power supply worked right out of the box, has been rock stable and has worked for more than 3 weeks now without a hitch. Another thing I love is long warranty's and thats why I chose this PSU as it comes with a EVGA 10 year warranty!! Also it is modular and keeps my computer cable-mess free!! It comes with a lot of cables(all that I needed with extras) and they are wrapped in a mesh material for a more "premium" feel compared to the lower end modular PSU'S. In the end: I would Highly Recommend this Power Supply as EVGA did a wonderful job on this guy! So if your a builder and are looking for a nice reliable power supply with a long warranty, room for overclocking, and with power for future expansion this would be your guy!!***Update 1/4/2014***: Still chugging along! Its been 8 weeks so far and still no problems at all! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00HLJIVWM <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-11-2014  
+<h2> review.text </h2>
+
+ <p> This book is absolutely fantastic , something very unique you won't find anywhere , not boring and the quality is very high , was very surprised , finally found a book worth the reading </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unique and great </p>
+
+
+<h2> review.date </h2>
+  07-14-2014  
+<h2> review.text </h2>
+
+ <p> Had high hopes for this book, but alas, it seems to not contain a lot of creative ideas. I think the title is very misleading; however, there are some decent, but very simple budgeting ideas such as:&#8226; Setting Goals and Timelines for meeting your goals&#8226; Pay off debts with higher interest rate&#8226; Use online financial calculators&#8226; Shop around for health insurance&#8226; Don't shop hungry&#8226; Be diligent to avoid bank feesNothing wrong with any of the ideas above--but they hardly qualify as &#34;Robbing&#34; the credit card company.Chapter 10 is entitled, &#34;HOW TO LEGALLY ROB CREDIT CARD COMPANIES.&#34;  Aha! I thought this is where the really creative ideas would lie. I read this chapter over and over to make sure I wasn't missing anything. Alas, that chapter can be boiled down to these few points:&#8226; Do not work with debt settlement companies&#8226; Tell the creditor you will pay the creditor first who agrees to a settlement of your debt&#8226; Try to negotiate a debt settlementThat's about it. The entire meat of the book is in 2 pages, with just a few simplistic points.&#8730; Some useful information on avoiding debt, budgeting, etc.  But nothing very impressive. There are far better books available. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> &#8730; Try to negotiate a debt settlement </p>
+
+
+<h2> review.date </h2>
+  01-10-2014  
+<h2> review.text </h2>
+
+ <p> In this book, the author talks about budgeting, types of bad debts, How to pay off your credit cards, How to manage your bills, and other vital financial information. I would say this is needed to survive the financial crisis facing most Americans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Lecture </p>
+
+
+<h2> review.date </h2>
+  07-19-2014  
+<h2> review.text </h2>
+
+ <p> Absolutely a great release for the people who want to deal with finances and debt. This guide is truly informative and easy to understand. Many important things are disclosed here, which I found amazing.It helped me to understand and learn new things to deal with the debt which I wanted to learn from a long time. The chapters are well organized and comprehensive. The author did a fantastic job to get rid off of debt and it was done so nicely with proper guidelines. It is such a resourceful book, and I will definitely recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Resourceful </p>
+
+
+<h2> review.date </h2>
+  07-11-2014  
+<h2> review.text </h2>
+
+ <p> I was forced into debt in 2014 after my wife suffered a debilitating condition, causing her to lose her job and our financial independence.  My credit score was severely damaged.  It was a financial crisis and damage control was necessary.  The situation literally trapped my family, as my income dipped while expenses rose exponentially.  How to Legally Rob Credit-Card Companies opened my eyes, I believed it was impossible to effectively deal with bill collectors while recovering my credit score.  I quickly learned that bad credit could make or break your financial future.This guiding light helped me to overcome and attain financial freedom through debt consolidation services.  Gerry Marrs recommendations offered me an alternative to the turmoil created by bankruptcy, bad debt, and late payments to improve my credit score.The book served, as my personal credit advocate, to educate me while offering a logical solution.  It alleviated my stress while I regained financial security.  If you find yourself swimming in an ocean full of bad credit, reach for this lifesaver.  I steadily recovered my original credit score after a few months with assistance from the book.  You can achieve a similar result with patience.  Thanks Mr. Marrs! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Financial Independence Is Always Within Reach </p>
+
+
+<h2> review.date </h2>
+  01-19-2014  
+<h2> review.text </h2>
+
+ <p> Good information but book title is disingenuous.  I did like all the calculators listed as resources in the book.  4 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good information but book title is disingenuous </p>
+
+
+<h2> review.date </h2>
+  07-11-2014  
+<h2> review.text </h2>
+
+ <p> As someone who has never been in debt, I have always feared the possibility of owing a large amount of money. However this book shows how I, or anyone else, can slash away debt. Also, there are helpful tips on how to spend less money, and being able to control spending habits. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Could never be too sure </p>
+
+
+<h2> review.date </h2>
+  07-16-2014  
+<h2> review.text </h2>
+
+ <p> This book is a treasure with new ideas on how to get rid of debt faster. Garry Marrs has filled this book with useful information and discussed on various types of debts and credits. The book is very well written. The author did a great job. Thanks </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very informative </p>
+
+
+<h2> review.date </h2>
+  07-14-2014  
+<h2> review.text </h2>
+
+ <p> I gave this book a 4 because it didn't have anything new for me to try.  The information is sound and parts of it have worked for me in the past. We are in our mid 70's and have a traumatically brain damaged son we are care taking.  Having exhausted all our resources we have medical bills now piling up.  I have gotten us out of debt a number of times in the past using these remedies but emergencies keep occurring.  Would  love to be debt free again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sound advice </p>
+
+
+<h2> review.date </h2>
+  01-08-2014  
+<h2> review.text </h2>
+
+ <p> I was very impressed with the debt relief strategies presented in this book. There were many ideas of how to eliminate debt that I never considered. There was also a variety of ideas on how to raise money to help you pay off your bills. I loved that there were also scripts included for when the dreaded bill collector calls. If you are in debt a lot or a little, you need to read this book. I highly recommend this excellent resource for financial freedom. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Resource for Debt Reduction </p>
+
+
+<h2> review.date </h2>
+  07-11-2014  
+<h2> review.text </h2>
+
+ <p> This book has been an eye-opener for me. Trying different things to earn money the most optimal way as possible. Little did I know that I've been doing everything wrong until I read this book. The lessons, tips and points that are given in this book really gives you an idea on how to take control of your debt and finances. Thanks to this, My bank book has been better that ever. I'm really glad I read this book. I recommend others to read this too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth it. </p>
+
+
+<h2> review.date </h2>
+  07-17-2014  
+<h2> review.text </h2>
+
+ <p> This is my gem collection and it has a great strategy that acts like a magic to reduce your own debt. By this you can make your plan through using the tips and tools of this book and that would be perfect solution to be live a debt free life. It has many ways to calculate and regulate the debt of company without any hesitation.........Well written and described everything in details-more specific and short term plan to reduce debt. I think this is a great science for decreasing loan with new paths and clear process that have to read everyone for future security. Highly appreciated to author! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Magic book! </p>
+
+
+<h2> review.date </h2>
+  01-06-2014  
+<h2> review.text </h2>
+
+ <p> This book is an absolute treasure when it comes to providing new ways and ideas on how to get out of debt faster. It is filled with useful information and numerous links to sites which provide tools to calculate different credit types and debt repayment plans.  It also very clearly explains different planning strategies you can implement to get yourself out of debt quicker, while keeping everything in line with real life scenarios. It highlights and explains in great detail how to set reachable goals which will aid you in achieving success.  This book has been a great source of inspiration for me especially because I am currently paying off a loan, which I borrowed to pay for my first apartment.  I will be using Gerry&#8217;s ideas and planning techniques to pay off this loan as soon as possible. I definitely recommend this book to anyone who is currently in debt or is thinking about getting a loan. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absolute Treasure! </p>
+
+
+<h2> review.date </h2>
+  07-22-2014  
+<h2> review.text </h2>
+
+ <p> All the information in this book is available for free on the internet. I have read all of this before in other places I have searched. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nothing new </p>
+
+
+<h2> review.date </h2>
+  07-20-2014  
+<h2> review.text </h2>
+
+ <p> this book was very informative. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a great book to read </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> The author is completely practical, real, comprehensible, and furthermore, he speaks with true integrity. I am already doing most of what it says. Very practical book. Very helpful, and filled with ideas to bring spending under control. I wasn't expecting much from an e-book but how wrong I was! I wish everyone would read this book whilst young and use it as a financial compass. there are a lot of gems in this book. it did inspire me with new ideas. There are so many things that you can do to save money and help others that you never really would think about doing yourself.Easy to understand ! We think everyone would get something from this reading. I would like to thank the author for sharing his wisdom in such a generous fashion. so many good ideas to help save money. Would highly recommend this book to anyone wanting to retire some day! I got thrilled with this book when I started reading it and one by one I got acquainted with a lot new ideas for becoming debt free. I loved that l could read it on kindle. Once I started reading it, I couldn't stop. This will help a great deal of people with financial growth. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lots of practical information, Very useful </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

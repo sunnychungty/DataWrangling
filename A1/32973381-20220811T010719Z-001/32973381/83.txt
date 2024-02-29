@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0045DPEHW <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-15-2014  
+<h2> review.text </h2>
+
+ <p> This product is very essential especially for electronics, home tools and important products, protection. It is important to have your products protected from unexpected accidents or malfunctions, so why not have it protected by square trade protection plan. I will recommend this item for the protection of your products and the ease of your mind. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a great product </p>
+
+
+<h2> review.date </h2>
+  01-21-2014  
+<h2> review.text </h2>
+
+ <p> Was worth the money to protect our underwater camera when it started to not work right about 6 months after getting it. Filing the claim was easy but the customer service and speed weren't the greatest. It took about 3 months for them to get back to us after finding out the problem and the specifics. After sending 2 or 3 follow up emails we FINALLY heard back and received our money back for the camera. Within 2 weeks of receiving our answer and shipping the camera back we received the check in the mail.Overall its a good service as long as you don't mind slow process time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> After a bit of a wait their service comes thru </p>
+
+
+<h2> review.date </h2>
+  06-15-2012  
+<h2> review.text </h2>
+
+ <p> Two years ago I bought a Kindle II on eBay, and placed a three year SquareTrade Warranty on it. Recently the top right hand corner of the screen developed a retangular area that will no longer display anything but a smear.I called up SquareTrade about my warranty. Online I filled out a short form, and then emailed them my proof of purchase. Luckily I file away emails on everything I buy online, so I had the email from eBay confirming the auction win and the price I paid for the Kindle II.They were supposed to assign a Claims Rep within two days. My claim somehow got stuck in computer status limbo, so I called them today and spoke with a friendly and very helpful rep. He apologized over and over again for the delay, and arranged for an Amazon Gift Card to be emailed to me upon receipt of the unit ... as it is unlikely that it is in any way cost effective for them to do a repair on a Kindle II screen. They emailed me a pre-paid UPS label, and later this afternoon the unit will be on its way to SquareTrade. The middle of next week I'll have my gift card.I couldn't possibly be more satisfied with their warranty process.Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy, competent, friendly </p>
+
+
+<h2> review.date </h2>
+  11-08-2012  
+<h2> review.text </h2>
+
+ <p> If your product in under warranty, this square trade will not cover it, even though the coverage starts the day you buy the product.so lets says you buy a product and then buy the square trade 2 yr contract.  Well the first year you own the product, Square trade won't cover itas long as its under warranty. so I have to wait for the second year to be even able to use the Square trade drops and spells warranty.So I actually only get 1 yr of coverage in reality, and the square trade company can either fix, or replace your product (at their choice not yours)or they can refund your money for the protection warranty.Well if the product is not functionally covered for the first yr because its under factory warranty, and the second year the product model is did continued,then what they have effectively done was used your money for 2 yrs and then give you a refund.Not a scam, but darn close, wouldn't ya say ? or am I just being Blonde...  Hubby thinks so.. But he is the type to spend 10.00 to save $1.00 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> beware !  there is a catch ! </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> As I have said before, after having purchased new stereo equipment, I decided it was necessary to obtain additional coverage for maintenance and accident protection. I have researched many programs on the market, and have found that Square Trade is one of the best available. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Square Trade 2-Year Electronics Protection Plan ($100-125) </p>
+
+
+<h2> review.date </h2>
+  10-05-2011  
+<h2> review.text </h2>
+
+ <p> I was very impressed by the quick service. I had my refund as a credit with Amazon the same day that I returned the defective product. You can't beat that kind of service these days. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A warranty that works! </p>
+
+
+<h2> review.date </h2>
+  05-01-2012  
+<h2> review.text </h2>
+
+ <p> Bought this to cover my husband's birthday gift. It covers drops & spills as well as regular wear & tear. You can't go wrong!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Idea </p>
+
+
+<h2> review.date </h2>
+  01-24-2013  
+<h2> review.text </h2>
+
+ <p> So far Square Trade has lived up to their. Great protection plans at a great price. You can even get a plan on used stuff. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love Square Trade </p>
+
+
+<h2> review.date </h2>
+  12-02-2012  
+<h2> review.text </h2>
+
+ <p> I have purchased ST in the past 4A net book. The net book warranty expired & ST "kicked in". My laptop died & they showed excellence in customer service. I shipped it out w/the prepaid label & box sent. I received it back within the time allotted. Although, I am curious as to why they cover during the initial warranty. I have had an excellent experience with ST. i hope if necessary, I will have the same experience again. The 3 stars is bc I haven't utilized this particular plan. However, they delivered the packaged on time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ST Protection Plan </p>
+
+
+<h2> review.date </h2>
+  08-11-2013  
+<h2> review.text </h2>
+
+ <p> Have the two year electronic accident protection plan for my Fitbit - never had to use it - well not yet anyway - but sure glad I purchased it and had it for just in case I have one of those clumbsy days - would definitely recommend it - complete peace of mind! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Peace of Mind </p>
+
+
+<h2> review.date </h2>
+  12-04-2012  
+<h2> review.text </h2>
+
+ <p> Amazon take care if all the registration needed just call them to ensure your being taking of. Definitely worth the extra buck. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Warranty </p>
+
+
+<h2> review.date </h2>
+  06-18-2014  
+<h2> review.text </h2>
+
+ <p> Perfect protection for any electronic device we use. thanks for offering a good plan square trade!!!! I will purchase again next time </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Protection Plan </p>
+
+
+<h2> review.date </h2>
+  07-08-2012  
+<h2> review.text </h2>
+
+ <p> After I purchased this, I read a Gizmondo article about how this is the best warranty plan out there.  Very happy with the registered.  I will continue to use them for future warranty purchases. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great buy </p>
+
+
+<h2> review.date </h2>
+  01-18-2011  
+<h2> review.text </h2>
+
+ <p> Best prices on all their warrantys. I would TELL ANYONE THAT'S BOUGHT ANY ELECTRONICS to go the SQUARETRADE for the warranty very good deals </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great!!! </p>
+
+
+<h2> review.date </h2>
+  09-30-2011  
+<h2> review.text </h2>
+
+ <p> When I first got the email invite to ensure my e-bay electronics purchase with Square Trade, I was too busy, didn't think  I would need it, didn't think the warranty would be any good, rite?  Wrong, my netbook died within months of having it and I was out of luck! It was under manufacturer's warranty but guess what? The problem wasn't covered under their warranty!  A friend called me later to say her teen's netbook had stopped working properly too and she had the Square Trade insurance coverage, filed a claim and received a decision within no time. Yeah, I felt like Duh.Since then, I do not purchase camera's, cell phones or computers without Square Trade!  I had to file a claim last week on my Android and within 24 hours I had a decision and I was able to recover the money that would had been other wise lost on that phone.  They often offer via email 20% and 30% off discount sales on their coverage, so for the peace of mind, get it. They even emailed me with the packing label, all I had to do was box or pad bag it and drop it off at any UPS pickup AT NO CHARGE. It just doesn't get any easier than that.  That 60 or 90 day window you can purchase it can come and go before you know it. So worth the investment!P.S. You can also get coverage on sales other than E-Bay, Amazon.com, so ask yourself, is the gamble worth it?  Honestly, getting quality service and a refund if merited is much ealier than going through manufacturers warranties; been there, done that.  Electronics are a big part of our livesfor most of us , but they're not perfect and often do malfunction or break in time.(I used to pay $5.00 a month for my phone insurance on Sprint and STILL had to pay an additional fee of $50 if my phone needed to be replaced after manufacturer's warranty had expired, now I think they charge $100 for a replacement UNDER insurance.) Don't save a quarter now to spend a dollar later.  My .2 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Peace of Mind </p>
+
+
+<h2> review.date </h2>
+  06-07-2013  
+<h2> review.text </h2>
+
+ <p> The registration was very fast. I like the fact that they asked for my receipt so that I need not search for it later. Hope I will not use that plan :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice policy </p>
+
+
+<h2> review.date </h2>
+  09-10-2012  
+<h2> review.text </h2>
+
+ <p> I recommended this product to friends and family.  It covers more than the factory warranties and extended warranties.  When we get our new Iphones this is the warranty I'll most likely get it for both of those.  Their reviews are mostly all positive which for any warranty is above average in my opinion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How can you beat it! </p>
+
+
+<h2> review.date </h2>
+  01-05-2014  
+<h2> review.text </h2>
+
+ <p> Its pretty sweet to have something that covers everything that could go wrong with electronics, YAY! thanks ST. Will be buying more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works? </p>
+
+
+<h2> review.date </h2>
+  01-04-2011  
+<h2> review.text </h2>
+
+ <p> I got this warranty for my new Kindle. I was concerned about dropping and breaking it. What actually happened 6 month after I got the kindle was that my dog decided to use the kindle as a chew toy. She destroyed it. I emailed my claim to squaretrade and 2-hr later they approved my claim and will send me the full amount I paid for the kindle (after I send back the broken kindle via UPS prepaid by squaretrade). Squaretrade lives up to their warranty! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great warranty! </p>
+
+
+<h2> review.date </h2>
+  06-14-2014  
+<h2> review.text </h2>
+
+ <p> I bought a Fitbit 1 and thought I better insure it, because I periodically get things wet that shouldn't get wet. Sure enough, a couple of months later, I forgot to take it out of my pocket, and my new Fitbit went in the hot tub with me. They sent me a prepaid FedEx label to send it back to them, and then they sent me a gift certificate to Amazon to order a new replacement. Well worth the money, if you are accident prone like me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is the best plan ever...... </p>
+
+
+<h2> review.date </h2>
+  03-16-2013  
+<h2> review.text </h2>
+
+ <p> They still are excellent protection plans. I recently had to file a claim and I was surprised at how fast and painless the procedure was with Square Trade. They instantly decided my product was not worth trying to fix and arranged shipping right then. Gave me the money back and I went back on line to purchase it again. I bought another protection plan with Square Trade to use with the new item.I have about 6 protection plans with them and this was the first one I had to use. I will always invest in  Square Trade protection plans because they are peace of mind. Too many manufacturers out there don't honor their own guarantees. Thank you Square Trade! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Square Trade was excellent </p>
+
+
+<h2> review.date </h2>
+  07-05-2014  
+<h2> review.text </h2>
+
+ <p> Have never had the need to use but it's always nice to have the protection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice to have the back up. </p>
+
+
+<h2> review.date </h2>
+  11-24-2012  
+<h2> review.text </h2>
+
+ <p> I don't necessarily believe in warranties, but Square Trade seems to be a good company and hopefully if/when I need it, it will come though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Haven't used it but nice to have just in case </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

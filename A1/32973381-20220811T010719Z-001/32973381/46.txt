@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B001KFH6HY <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-01-2013  
+<h2> review.text </h2>
+
+ <p> I have had several of these, they all failed. Dealing with LaCie was the most excruciating part. They sent several replacement drives. They all failed, 2 out of the box, DOA. The company was rude, manipulative  and unprofessional. They tried to blame my computer, (Mac) they said my firewire bus was defective. However all the other drives I have worked just fine on it. They failed as well on the USB system. And all diagnostic programs proved my computer was fine. The tech at the computer shop said the drives were failing. I read other people had the same issues. I finally gave up and walked away with a loss.Do not tempt fate and buy this drive. Or any other LaCie drive. Life is too short to deal with these kind of issues and devious tactics. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty pile of junk </p>
+
+
+<h2> review.date </h2>
+  02-08-2011  
+<h2> review.text </h2>
+
+ <p> I ordered this because I've loved LaCie drives and they have been great for me.  However, the first drive shipped to me from Amazon had a bad front button, and so thanks to Amazon's great replacement/refund policy I was able to get a replacement right away after LaCie tech support confirmed it defective.  The 2nd drive seemed to have the EXACT same problems.  Strange to me, maybe it was a bad group of drives.  Front button unresponsive, not centered.  The serial#'s were only differed by a spread of 10 so the "bad batch" idea was given to me from LaCie.  Nevertheless, I asked for a refund this time, and am rethinking the purchase of this model. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Features for Price - First 2 were DOA though. </p>
+
+
+<h2> review.date </h2>
+  02-18-2010  
+<h2> review.text </h2>
+
+ <p> I completely agree with the people who say that the fan is noisy. I am not sure why but at random times the fan revs up to high speed and sits that way for 5 or 10 minutes, regardless of the temp of the room or of the drive. I can feel the air coming out of the drives vent and it is cool but it is a small issue and the only one that i have had. ( i am guessing that the temp. sensor is poorly positioned inside the case but i don't care enough to open it up and find it).I also read the above reviews and think that some people do not understand how to use this drive. you set the raid type on the drive using the supplied instructions and the little metal key. When you connect the drive to windows (i use 7x64) or mac (i use 10.6) you open the respective disk utility and format the drive as a normal drive. you do not tell windows or os-x that it is a raid drive because the raid functionality is being handled in the drive hardware and should remain invisible to the computer.from the computers point of view it is one big drive and you can partition it or whatever you want but if you tell the computer it is raid you will have problems because you did not read or understand the instructions.Hope this helps.CZR </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good product - noisy fan </p>
+
+
+<h2> review.date </h2>
+  02-25-2010  
+<h2> review.text </h2>
+
+ <p> Good solution if you are looking for a RAID drive setup.  I use the drive in RAID 1 (fully redundant) for peace of mind.  Reviewers are right, the included printed owner's manual is pretty useless.  HOWEVER, you can download a good owner's manual from LACIE website, so that was not an issue for me.  You need to hold a certain button down for a few seconds to change RAID settings (do this before you copy any data to the hard drive), this is super easy to do once you have the good user manual.Over all, happy with the drive so far.  Fan noise is a minor but somewhat annoying issue.  It's not "jet turbine" loud as some people claim, but it is noticeable. The drive is in my bedroom; I turn it off (and my computer) when I go to sleep; cannot imagine trying to sleep w/ it on.  While computer is on, I have music playing and don't notice the fan noise.  My mac mini is whisper quiet, so by comparison the drive is loud. It is not louder than my older external drives and aging windows laptop.  I rated it 4 stars instead of 5 b/c the drive fan does not turn off even after the drive has spun down and is sleep mode.  The fan should turn off at this point. Again, not a big issue.  Get the drive if you really need it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good solution if looking for RAID system </p>
+
+
+<h2> review.date </h2>
+  09-24-2013  
+<h2> review.text </h2>
+
+ <p> Bought my LaCie 2big in Dec 2010 and it's been fine since it arrived. No problems. Just plugged it in and let it sit and spin. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bought mine in Dec 2010, never a problem </p>
+
+
+<h2> review.date </h2>
+  05-10-2011  
+<h2> review.text </h2>
+
+ <p> My desktop is an iMac with 500GB disk, and like many Mac users I use Time Capsule to perform incremental backups in the background. I had previously been using a no-name 1TB USB drive, but it fried last week, and I decided to get a little speed and reliability by replacing it with a dual-disk enclosure that supported RAID and Firewire 800. So I ordered the 2x1TB La Cie from Amazon, and it duly arrived a day earlier than promise. (I see that a lot recently.)Unboxing was easy, and I was soon ready to configure the beast. This requires access to the user manual from the CD (or downloaded). I chose "Mixed" mode, which divides each drive into two partitions; one pair is mirrored for reliability, the other striped for speed. The manual said, "If you choose 'Mixed', the partitioning will already be set up.", but this wasn't the case according to Disk Utility. I poked around for a bit, couldn't see how do do exactly what I wanted, and said, "Screw it, let's just go 'Safe'". {Mirrored.) I quickly set it up and started an initial Time Machine backup.At this point my partner came into the office and asked why I was using the vacuum cleaner. (Actually we don't have a vacuum cleaner, which made it even more puzzling.) I removed my headphones (I'd been listening toLive In Gdanskby David Gilmour), and the noise from the drive hit me. It was louder than the air conditioner, or even the dishwasher. Completely unacceptable for a home office environment.So it's going back. Maybe I'll get a couple of cheap USB drives and do software REAID... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I could overlook the setup issues, but not the noise </p>
+
+
+<h2> review.date </h2>
+  01-25-2013  
+<h2> review.text </h2>
+
+ <p> Love this hard drive.  I've had it for a few months now and so far it is just what it says it is.  I run all my photo's and files off of this and it's so fast when downloading and copying files.  slightly more noisy than my last one but it's just a low fan noise so it doesn't bother me at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic </p>
+
+
+<h2> review.date </h2>
+  02-02-2010  
+<h2> review.text </h2>
+
+ <p> Bought this for my wife who is an Apple junkie. She wanted a time capsule compatible hard drive for her iMac and Macbook. This is a great solution, much cheaper than the wireless Apple backup solutions and works just as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Backup product for Apple computers </p>
+
+
+<h2> review.date </h2>
+  09-14-2009  
+<h2> review.text </h2>
+
+ <p> I purchased this LaCie Quadra 2 to replace a WD Mybook RAID unit.  I did not like the WD unit because its did not seem to be very well built, did not feature drive status lights to tell you about a failed drive, its design made it extremely difficult to replace a failed drive, and its RAID settings required a driver to change on the target machine (which had issues on some MACs).The LaCie case is all metal, very sturdy, and well finned for heat dissipation.The Drives have status indicators and are easily and quickly swappable (hot swappable in some RAID modes)The fan is normally quiet but can be fairly loud on occasionThe unit features ON, OFF, and Auto modes (auto waking/sleeping the drives as use permits)The RAID mode is configurable within the unit itself and is transparent to whatever you hook it up to (other than its size looks different and will need reformatting when you change RAID mode).The performance of this unit is FAR faster than the WD unitI took this unit out of the box, switched its RAID mode, connected it to a MAC to reformat it, then plugged it into my Airport Extreme to share it on my LAN and WAN.  The process took me about 15 minutes and the unit has performed flawlessly in AUTO mode on my Airport EXtreme for the past month.My only worry was when I investigated LaCie's "advance replacement" option for this drive.  They wanted almost half the cost of the drive for it.  I may purchase a second unit for a spare just in case (that gives me two spare drives as well).Anyway, so far I am extremely pleased. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrific Design and Performance </p>
+
+
+<h2> review.date </h2>
+  02-08-2012  
+<h2> review.text </h2>
+
+ <p> This is the third LaCie external drive I've purchased. I've been using eSATA connections and been very pleased with both the speed and reliability. I use the 6TB drive for an external system backup, and a second 2TB for additional file storage. I very much like the RAID options. These drives have performed very well for me, and I highly recommend them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent High Quality External Drive </p>
+
+
+<h2> review.date </h2>
+  04-07-2013  
+<h2> review.text </h2>
+
+ <p> I bought this product after having a previous Western Digital external hard drive fail. I lost a lot of music files, and decided I wanted a hard drive that had duplicate backup, so that I wouldn't lose files in the future.The Pros: large storage, duplicate storage, cooling system built inThe (numerous) Cons:-This drive has "corrupted" MANY of my files, causing them to be salvageable-This drive is VERY loud. In standby mode, it sometimes spins so fast it overheats, and keeps me up at night. Even in the off position it sometimes won't shut down, which means you have to unplug it and risk corrupting files.-This drive has files disappear. Many of my files just won't be there sometimes when I turn it on.-Size. this drive is very large.Don't buy this product, please! You are wasting your money, and may lose files. Buy two compact-USB drives and manually double-backup your data. You will save money, and save your files. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NOT WORTH IT! </p>
+
+
+<h2> review.date </h2>
+  04-13-2012  
+<h2> review.text </h2>
+
+ <p> It took me a while to settle on this drive as what I'm placing my faith in for most of my photo collection.  In the range of 20,000+ photos, I'm somewhat betting the farm (beside some online backup) on this one.  I can say the drive works great with my Macbook Pro over Firewire 800.One quirk about the drive is that it has a power saving feature that shuts off pretty quickly.  Even when not directly accessing it, the drive will boot back up, with what seems as random.  Each time that happens it slows my computer and causes it to pause.  Solution: keep it running all the time it's plugged in.  I then turn off the drive when I don't need to access the files.  Easy solution for me, but might be an annoyance for some.Pros- RAID peace of mindCons- Not exactly a steal- Powering saving mode affects performance on my 2011 Macbook Pro (i7) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So Far, So Good </p>
+
+
+<h2> review.date </h2>
+  04-19-2010  
+<h2> review.text </h2>
+
+ <p> All hard drives are a roll of the dice.  I wanted to buy a mirror box because I'm paranoid, and I had heard that there was an increased risk of double failure with pre-rolled boxes like this (andmy earlier RAID box).  I didn't want to save a few $$$ by rolling my own RAID box because I have neither the time nor the technical expertise.  I also didn't want to go with aDrobobecause A) it's a lot of money to spend and to have to buy additional drives, and B) there's still a risk of single point failure in the Drobo itself.  In the end, I went with LaCie because of what I perceived as a reputation for better boxes with more reliable drives, spent the premium, crossed my fingers, kept the packaging, and hoped for the best.Four months later, I've exhaled and tossed the packaging.  The drive is sturdy, rock solid, plays well with my computers, and is actually not as loud as some reviews I've read seem to suggest! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> All the space I'll need and not that loud! </p>
+
+
+<h2> review.date </h2>
+  10-08-2010  
+<h2> review.text </h2>
+
+ <p> Inital impressions were bad from the start. In order to set it up I had to take it to my IT department. They were amazed at the terrible users manual but managed to format it for my PC and Raid1. Once I got it home, and got over the shock about how loud it was I transferred my 200 gig of files. Then, the next day this drive failed! The obnoxious orb started flashing red/blue and I was also getting the forbidden blue screen with warnings. From what I could make of it that meant one of the drives failed. Three strikes. Done. I returned it for the WD My Book Studio Edition II. Smaller, quiet and seems to work fine. Also less $$. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrible instructions, loud and drive failure </p>
+
+
+<h2> review.date </h2>
+  08-04-2009  
+<h2> review.text </h2>
+
+ <p> I just got this last week. Setup was really easy; I put it into RAID 1 mode for mirroring. This system sure beats my setup on other drives (for those, I use SuperDuper to mirror two sets of two external drives each night). This makes it much more convenient to do it right out of the box, especially with the hot-swappable drives in case one fails.Unlike other reviewers, I haven't noticed it to be very loud at all. Perhaps they have a defective drive. If so, it should be easy to replace it from the retailer you bought it from.Also, I have this drive installed on theLaCie Desk Rack for d2 Hard Drivesalong with two other drives. This helps to save a lot of desk space.If a drive fails in the future and I need to replace it/have it rebuild it, I will update my review to let you know how well (or poor) it worked, but I have high hopes! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great RAID drive </p>
+
+
+<h2> review.date </h2>
+  07-08-2012  
+<h2> review.text </h2>
+
+ <p> When working, this hard drive was ok.  I used it in my living room connected to my HTPC but the unit's fan was way too noisy (easily the loudest hard drive I have ever purchased) and the bright blue button was way too distracting.  So I placed it inside a fan-cooled cabinet and everything worked fine for about 1.5 years. All of a sudden, the device started to fail (though the drives themselves were seemingly ok) as the lights would blink red indicating some sort of hardware issue.  LaCie made me pay to send the drive back to them under warranty (not good) and I got back a refurbished unit which had the same issue.  We went through this same process of them replacing the entire unit about 2-3 more times until I finally got a working one (thankfully I didn't have to pay for shipping these subsequent instances).  About a year and a half later (coincidentally right after the warranty expired), the drives start making sounds like they are failing and/or constantly rebuilding the RAID array.  So I just gave up on them, transferred my data, and do not plan to ever purchase a LaCie RAID external hard drive ever again.  Just didn't really trust the unit anymore to faithfully store and maintain my backups. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Do NOT purchase! </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> I've used this drive to store my iTunes media for the last few years. Never had an issue, nor have either of the drives failed. I have had various LaCie external drives throughout my computing life and never had an issue with any of them. I recommend LaCie HDs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Performs great and looks good too </p>
+
+
+<h2> review.date </h2>
+  05-21-2012  
+<h2> review.text </h2>
+
+ <p> I bought one of these 2.5 years ago and I am returning the 3rd warrantee replacement unit because it failed. This only reflects part of the history, however; the transformers have also been replaced 3 times. If you are using RAID 1 for protection and the data becomes corrupted during a bad write because the unit is failing, all drives will have damaged data. Added to this, if the original replaceable drive sleds were 500gb, LaCie will not support replacing that drive with LaCie sleds of a different (i.e. bigger) capacity EVEN IF THEY ARE SLEDS FOR THAT MODEL DRIVE. They only mention that if you ask when things have gone wrong.I now distrust any external drive with a cheap transformer (wall wart) in general and LaCie drive in particular. I gave them and extra star for their support but, really, they have cost me data so 1-star would have worked too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> They Try But I Cannot Recommend </p>
+
+
+<h2> review.date </h2>
+  06-26-2011  
+<h2> review.text </h2>
+
+ <p> For a hard drive... It's loud!This hard drive when reading or writing sounds like an Xbox 360 with the additional fan assembly attached to the back.Also the big blue button on the front is annoying. Every hour my backup software kicks on and that blue light lights up my bedroom room.In retrospect I now wish I would have bought another Western Digital. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loud </p>
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> It's a snap to install. If you set it to sleep after not being accessed for awhile it's a little slow to wake up. Otherwise it is quite rapid on both rear and write. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Configured as Raid1 it greatly increases security </p>
+
+
+<h2> review.date </h2>
+  09-22-2010  
+<h2> review.text </h2>
+
+ <p> I have had the unit for about a week now and I am extremely pleased with it. I bought this unit after a lot of research to augment an external case using two drives set up in a software RAID 1 configuration. I wanted the Firewire hardware RAID 1 capability this unit provides. First I want to address some of the negative comments here.Noise - Noise level is a very relative experience. The fans in this unit are noticeable but not unreasonably so. My old case also has fans that you can hear. My fans seem to be on all the time but I consider that a good thing as that means drive heat should not be a problem and the air coming out the back seems to always be cool. I would much rather hear fan noise than have the drives getting too hot.RAID - If you don't know what RAID means and are not technically inclined then you probably shouldn't be messing with these settings anyway. The default setup is probably all you need. Contrary to posts I found that changing the setting to RAID 1, which is why I got the unit in the first place, was very easy to do. The only caveat I have on this is LaCies choice to use the Fast and Safe terminology rather than the standard RAID 0 and RAID 1 terms. This might confuse the less knowledgeable user.Manual - I found the included manual to be all that most people would need. It does refer you to the manual on the CD for areas where you might need more information, but for those who don't need to change settings it should be just fine.Pros - FW800 connection, very sturdy design, does not use WD drives, HW RAID, moderately quietCons - none yetI would definitely recommend this unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> External RAID Array </p>
+
+
+<h2> review.date </h2>
+  01-10-2011  
+<h2> review.text </h2>
+
+ <p> Our 2tb drive failed a few days ago. We got a couple years out of it. We hoped it was just another LaCie power supply failure (well known and acknowledged by LaCie) but replaced it and tried numerous times to mount it on several different machines. We also tried changing the access from 800 to 400, even to USB.  None of them recognized the drive.We really wanted to like LaCie products. We have purchased at least ten of their smaller drives, five of those had power supply failures which LaCie was very quick to replace.Sorry but no more LaCie products for us. Probably going to a WD product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No more LaCie products for us </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0082R8OEW <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great story </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed this book. The story line was interesting and kept me hooked until I completed the book.  It was clean and a sweet romance with some trouble added to it.  Julianne needs a husband in order to get her inheritance from her father.  She has 8 months to do it or he will choose one for her.  Her butler finds her a man that she had seen bathing in a lake on her property.  She is attracted to he stable hand and hires him to be her husband. They arrive back in England and fall in love with each other.  But there are some other problems. Julianne's younger sister Maddie wants Andrew aka the stable hand for her own. She causes a lot of problems with the couple and the man she is to marry. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Too sweet and religious for me. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This series is very sweet and good for someone who enjoys religious reading.  Well written and very clean written book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Fielding Brothers Saga 3 </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this series all at once and I am glad I did. I have picked up one right after the other. You know you are reading a gook book when you want to read the next one immediately. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good stories bad editing </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is book three. Book one was a good story with likable characters but very bad editing. Book two was the same but the editing was better. Now comes book two with a very good story but the editing has gotten worse. When Andrew is stepping down from a coach he suddenly becomes ''she&#34;. Later some one is looking at someone else &#34;in disbelieving&#34; not in disbelief. Instead of &#34;suspected&#34; the truth about something someone is &#34;expected&#34; the truth. One of the characters thinks &#34;nah&#34; to herself instead of no and the last line is &#34;Ditto, my love&#34;. Ditto? Really? In a historical novel?Okay, now that I have expressed my displeasure with the sad state of editing in this electronic world I will say that I do really enjoy the stories. They are entertaining, passionate yet clean and have enjoyable characters. I'm just so tired of grammatically reconstructing sentences. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I Felt Like I Was Watching A Soap Opera Unfold </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Once again, I found myself disappointed. I thought I was going to read a &#34;sweet romance&#34;, other reviewers on Amazon called it that, but I found myself reading a soap opera instead. I like Juliana. I liked Andrew. I liked that Andrew married her in earnest instead of a fake marriage. I did have a little trouble with her sleeping with him latter on that count. She thinks they aren't married, and that this relationship is temporary, but she goes along with that anyway.My biggest complaint was her sister though. First, she sixteen! Second, what is she doing hitting on her sister's husband? Third, who tries to sleep with her sister's husband when he's drunk?  That really felt like a soap opera, and just plain trashy! While all of the content was technically clean (not described), the subject matter was not. There was marital sex, there was an almost rape, there was consentual sex with a minor, and an attempted seduction of a married man. I've enjoyed Marie Higgins other books, but this is the second one in this series with iffy content. I'm just done reading this series, but I'll give her other books a try. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Didn't pull me in </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> 'True Loves Deception'  was a chore to finish.  The plot wasn't plausible.  Many of the characters weren't believable.  The movements leading up to the ending were unreal. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ok series </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-31-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Downloaded to kindle app for iPad. Good book for he free price. Love that amazon has these books. Even if you don't have kindle, get the app. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great story! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> As in the first two books in this series, my interest was captured from the very first. Juliana manages to teach her 'pretend husband' gentleman manners to fool her family. Her stepsister tries to break up the marriage for her own selfish desires and it puts an interesting twist in the situation. Loved it!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It was amazing! I loved it!!! The ending its amazing and I love it.All of the review is true, but mainly filler. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 3 1/2 STARS </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed this story overall.  This book, like all the others in this series need some serious editing.  SPOILER! They lost me on this one when the younger step sister (a gently bred young lady) is thrown out of the house.  That simply would not happen in that era.  You might as well send her to a brothel.  Arrangements would have been made to remove her from her family, but see to her needs.  Except for that huge issue, the book was a fun read with great characters. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Loved this book! The adventure between Julianna and Andrew kept me on the edge of my seat. A great read:) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> True Love's Deception </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I can't figure out why this is called the fielding brothers saga since other that the first one the fielding brothers don't play that big a part in the story </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Loved it, loved it!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> OMG, just finished my 3rd book by Marie Higgins and absolutely loved it. You have the ice queen, deception, honor, love, lies and intrigue all rolled into one great book!!! Juliana needs a fake husband fast to get her inheritance to pay her grandmothers debt. The only eligible male is her new stable hand Andrew Dean. She offers him more money that he will earn in a lifetime to pose as he husband. What she doesn't know is that Andrew paid a real priest to marry them. He is welcomed into the family with open arms, a little too much in Maddies case (Juliana's step sister). She tries to break the couple up as they slowly fall in love. Andrew finds out he us the lost son of Matthew Lawrence and he is actually a wealthy and titled gentleman. Juliana and Andrew go through some trials but end up happily ever after!!! Off to book #4. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Loves Deception </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Enjoyed but I have read better.  All of her books in this series are so &#34;the same&#34; that you can almost out guess what is next. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good book </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Book  number two is as good as first book would recommend to friends,keep up the writing,very enjoyable,thank you ,a fan </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Stable Hand, Headstrong Woman and a Jealous Sister, oh my what a story! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Juliana needs a husband in order to save her Grandmother but she does not want to give up her independence.  The solution is to hire a pretend husband but the pickings are slim leaving her with the only choice available--a muck covered stable hand, Andrew.  Juliana offers to pay Andrew to be her husband but she looks down on the servant.  Andrew needs the money so she agrees and tries to tolerate the snobbish and entitled employer.  Juliana deceives her friends and family, Andrew deceives Juliana and Juliana's half sister, Maddie, plots to ruin everything.  The delays in Juliana and Andrew consummating their marriage is cute.  The storyline is unique and makes for an interesting book.  The book is a fast read and the romance is sweet and beige with no soft porn descriptions; however, that does not mean the book is not full of romance and love.The downsides:  There was a twist in the story that is easily figured out early on but it did not diminish the story but I would have liked to see what would have happened to the characters without the twist; Andrew had such dreams of making his own fortune and home, the plot twist seemed to take that away and this is why I gave the story 4 stars.  In addition, the story could have been longer because a few scenes and story-lines felt rushed and not fully fleshed out.I read the book in one setting and enjoyed it enough to get the other books in the series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A hard-to-put down book </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Can't stop reading it until I finish the whole book. This book is as great as the first two in the series </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

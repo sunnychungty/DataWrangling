@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1595544607 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> To Bid Adieu... </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-02-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> It was a bittersweet moment, starting--and finishing--this page-turning tome.  Author Eric Wilson has already hinted that this will most likely be his final foray into the CBA, and his future works will appear in the ABA.  Since the CBA didn't have the foresight to allow him to delve into his Senses series or to continue the excellent tales of Aramis Black, not only did he have to complete his Jerusalem's Undead trilogy, but he also included characters from his previous works (Dark To Mortal Eyes, Expiration Date, The Best of Evil, and A Shred of Truth).  It was cool how he reintroduced us all to Trudi Ubelhaar, Aramis Black (tho' never mentioned by name), Clay Ryker, and even the two male "acquaintances" from ED.  His painstaking research and globetrotting experiences (35 countries explored by the author) also lend a realistic feel to the divergent ethnicities and cultures explored therein.Can't wait till Eric's next offering, God Dances (nonfiction).  And whatever fictional forays the future holds for our fine friend.  :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Perfect Ending </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-16-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> For me it all started with Eric's book "Expiration Date".  From the moment I opened that cover and started reading the words printed there, I was hooked.  Devouring book after book naturally led me straight into the path of Gina Lazarescu, the Nistarim, and the Undead.  Eric did such an amazing job capturing the imagination of readers for the fictional side of the story but also did an unprecedented job of capturing the every day struggles of the real, those who resist.  Words jumping to life, palpable were the feelings of Gina, the Nistarim, and those who resist and not to mention the torment that could be unleashed by the Undead.  I think as Christians sometimes all we have to do is view the suffering around us, watch the evening news, or view our own lives to feel as though the entire worlds suffering is on our shoulders simply because we know the One who holds the answer for those who have no hope, because we know the One who can get rid of the worlds thorns for good if people would just take the time to listen.  With Eric's excellent writing it was an easy jump to imagine myself in the shoes of the Nistarim or even Gina.  I think he most definitely outdid himself with "Valley of Bones", by far my favorite and this is definitely a series (and a writer) that I would recommend to anybody.  I can't wait to see what Eric has planned for us next! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Valley of Bones </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-25-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wow. I really don't know what else to say. Just wow. Eric Wilson, thank you for this powerful and redeeming story. May God bless and keep you and your loved ones.This is the conclusion the Wilson's Jerusalem's Undead trilogy and... I really don't know what I could say about it that others have already said better. If you've read Field of Blood and Haunt of Jackals, then your without a doubt going to read Valley of Bones, and if you have not... you must. Finishing the trilogy, I felt a lot like I did finishing Lord of the Rings and the Chronicles of Narnia - the ending of a story that will live in my heart forever. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Epic Vampire trilogy </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-10-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Vampires, werewolves,It is deftinely not a Stephanie Meyer novel. There are the Akeldama who thirst on Those Who Resist who drink of the Christ' blood in a vial who have been cleansed by the Nazerene's blood.I could write on. But, I would be saying too much. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Huge Payoff! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-20-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Gina Lazarescu is preparing for a final showdown with the Akeldama Collectors. So much has happened in her life recently, especially the revelation that her son Jacob is alive. Cal Nichols, her father, has kept this secret until now to protect Jacob from the Collectors, who will stop at nothing to destroy the Nistarim and Those Who Resist. While Gina wants to go to Jacob now, Cal insists she wait for the right time when the Nistarim can band together to destroy the Collectors. In the meantime, Gina focuses on rebuilding her relationship with her husband, Jed, and preparing for the imminent battle. Unfortunately, for Gina and the Nistarim, the Collectors have deadly plans of their own and are confident they will be victorious.I'm always anxious to see how an author will end a series, and it seems that very few are able to really nail it. Often it's a combination of reader expectations and the writer's unwillingness to fully let go of the story. Admittedly, I had high expectations going into Valley of Bones. Eric Wilson blew me away with the first two installments and I was hoping he would do so again. Thankfully, my expectations were met and quickly exceeded.All of the elements that make Field of Blood and Haunt of Jackals so appealing are on display. From the attention to historical detail, to the strong characters and crisp dialogue, to the balanced action and tension throughout, everything really comes together to hook the reader. What I wanted the most is what everyone is no doubt anticipating: an all out throw down between darkness and light. And boy do we get it. All throughout the series I've felt the story building toward something big and Wilson holds nothing back in giving his fans a huge payoff.Eric Wilson's devoted readers will of course recognize characters from his earlier novels, and they play more of a role here than in the previous Jerusalem's Undead books. I can see where fans unfamiliar with these characters and stories might feel left out at times, but as a fan I loved spending time with Josee and Sarge again, checking up on Clay Ryker, and even getting a nice little nod towards Aramis Black. To his credit, Wilson does a great job of winking at his fans without taking any important plot details away from new readers.In the end, I was left with a bittersweet feeling. On the one hand, I was amazed at how well the plotlines were pulled together and I was floored by the powerful conclusion. On the other hand, I was sad to see the curtain close on so many characters that have become so special to me since I discovered Eric Wilson's writing. I've always thought it was a shame that these novels seemed to fly under the radar of the masses, and I can't help but wonder how great it would be to see the Five Senses and Aramis Black series fleshed out the way Wilson originally imagined them.Even though the Jerusalem's Undead Trilogy has come to a close, I do hope new readers will discover these remarkable novels for years to come. I stated this in my review of Field of Blood, but I feel that it bears repeating: Nowhere else will you find the redemptive power of Christ's blood explored so brilliantly in fiction. This has truly been an incredible journey and I can't wait to see what the future holds for Eric Wilson and his devoted fans. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome Series!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-30-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> There are some books that the author puts to much research into and the book drags along so slowly.  There are also books that you can tell the author didnt do enough research and there are mistakes.  Then there are books like this where the author does his research and is able to put it in the story where it flows and brings everything to light.  Eric Wilson just keeps getting better with each book and brings the Jerusalems Undead series to a close with this the third book in the series.The vampire story has been told numerous times especially in the last few years. But Eric Wilson brings a refreshing breath to the genre and to the struggle of good and evil.  Gina Lazerescu prepares for the final showdown with the Akaldema cluster.  She also finds out that her son is still alive and tries to rebuild her marriage with her husband Jed. I love the way the author mixes all of the research both the historical and the theological.Eric Wilson also works in characters from his previous books and gives little nods to their stories.  You dont need to have read them to enjoy this series but it does make the read more enjoyable.  Im sad to see this story end and will miss the characters as I have grown really close to some of them. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Christain  book </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is very great to read. It has to do with evil and good and it will keep you reading until you are done. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Bittersweet ending of new vampires </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-07-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> 3 books named after actual places. 3 books full of scathing humor and poignant moments. And the third had the best twists with good connections to the author's past books and shows good connections between characters and good subtle references to two certain books from the author- the Aramis Black books.Vampires these days? Meh, they've gone diluted and too mainstream. That's why I was glad to hear about the Jerusalem's Undead Trilogy in the first place- the vampires going back to their origins rather than try to make their own niche in the popular market (which ruins the meaning to me). And it's not only good vs. evil in the traditional sense in this book, but also revolutionary love vs. cold, stinging religion. Belief vs. sight. Normalcy vs. adventure.I could only wish there were more to the story to go with, but there's a reason it's called a trilogy (which saddens me). And the way this story ends is really rejuvenating even after all the heartbreak and humor. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An Epic Conclusion </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-03-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> All epics must have their conclusion. At some point the story must come crashing to a close. And with Valley of Bones, we have the bittersweet conclusion to not just the Jerusalem's Undead trilogy, but to all of Eric Wilson's storylines as a whole. Since the time of the Nazarene, two groups of immortals - The Collectors and the Nistarim - have waged a spiritual chess game for humanity. And now the board is set, the pieces are in place, and the race to start - or stop - Final Vengeance has begun.Rasputin, a Russian mystic infested by a legion of Collectors, had once prophesied that a Black King would usher in this Final Vengeance. Natira, leader of the Akeldama Cluster, is convinced that he is that Black King. He must only find an ancient artifact hidden by Rasputin in order for the games to begin. But the Nistarim have their own secret weapon. For the first time in history, the combined forces of the Collectors and Nistarim collide in one valley in a battle of Biblical proportions. And we are all witnesses to that encounter.Eric Wilson is the master of the meta-arc. Story and character arcs intersect and overlap to form a cohesive whole that finds itself all tied up with Valley of Bones' epic conclusion. Those unfamiliar with Wilson's work outside of the Jerusalem's Undead trilogy will not suffer from not having read his previous novels, but if they have it will open them to the true depths of the story he has created.More than any other author today, Wilson undergirds his writing with solid theological imagery, speaking in metaphor, symbol, and Story to convey the Truth - the truth that Life comes only through the blood of Yeshua the Nazarene. His masterful grasp of theology is evident as he weaves in his theological concepts in a way that only increases the story's suspense and tension.The Jerusalem's Undead trilogy explores Earth's tension between Heaven and Hell and mirrors the tactics of the Nazarene, who Himself spoke in Story in order take abstract theology and didactic teaching and put it in the context of an edge-of-your-seat thriller. For those who have eyes to see and ears to hear, the story Wilson tells is far more than vampires, ancient treasures, and unseen plot twists. Instead, he seeks to take that which is dark to mortal eyes and unveil it through the power of Story. Valley of Bones is the apex of that story. You can't read it and not come away changed. And that's precisely the point. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sad to see this series end! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-29-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> What a great Trilogy. I was so happy for the characters at the end but so sad for the story to be over. If you have not read the first three books, do not start here. This Triology flows from its pages and into your bones. It is hard to find Christian Thrillers and this is one of the best. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wonderful wrap up to an awesome series! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-30-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I think to fully enjoy this book you need to have only read the first two in the series, however if you read the rest of the books by this author you will have the privelege of running into "Old friends" all over the place.  He did a great job of wrapping up the series.  I love the idea of combining Christian fiction with vampires and other supernatural type elements. It's so well written that you will find yourself looking over your shoulder for "collectors" and checking your heart and skin for thorns. Fast paced and exciting. I get tired of books where I can predict everything that will happen, this one was fun because there were twists around every corner. There are just not enough of this type of book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Weak Conclusion--3.5 Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-23-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> **Review contains SPOILERS for Field of Blood and Haunt of Jackals**Valley of Bones continues The Jerusalem's Undead series, picking up where Haunt of Jackals ended, with Gina aka Kate Preston in a terrible car accident with a logging truck.  Using her immortal half, she was able to escape uninjured, with only a few knowing she's survived and the collectors believing she's dead.  She soon meets up with her mother, Nikki and from a distance is able to finally see her son that she believed died seven years earlier.  Unable to physically contact him, she is somewhat content to watch him from the distance and wait until she can finally be united with him.Meanwhile, the Collectors are still plotting to eliminate the Nistarim.  Now led by Natira, the Akeldama cluster begins to explore new options in their quest to destroy mankind.  As the story progresses, four other books by Wilson are brought together, weaving history with mysticism, leading to an epic showdown between two group of undead with the future of mankind at stake.I picked up Valley of Bones fully anticipating to love it.  The series had been awesome up to this point, with Haunt of Jackals being near perfect.  The book starts strong, bringing Nikki and Gina together again and offers some good healing between the two.  I have liked Nikki's character.  She represented a large portion of the world's population who rely on themselves for salvation.  She took pieces of different religions and made one that worked for her, but she never could grasp the concept of surrendering to Jesus and letting him provide salvation.Throughout the series, the reader's been given some great insights and wonderful bits of Biblical truth.  This is truly a masterful series that while original and creative, is rooted in truth.  Valley of Bones continues to offer some good, though often recycled concepts, but struggles at times with presentation.  Very unlike any of Wilson's previous novels, there were scenes that intruded and broke up the flow of the story.  I was surprised when a couple of times the story was interrupted by the sudden appearance of a Christian living scene.  Wilson has always excelled at embedding the ideas he wants to convey without lecture.  I'm not sure what happened with this book, but a couple of times I felt as though I received a sermon.  I've also come to expect an influx of new ideas and different thoughts, but this one largely relied on themes from the previous books and those themes were often repeated multiple times.  I was rather surprised and disappointed by this approach.While it would be nice if all the characters the reader has come to love made it to the end, but alas we get a more realistic story.  At least with each departure, we're given plenty of peace, which is how it should be.  Wilson does a great job of letting each character play their role and exit in a way that is in keeping with their lives.  There are quite a few characters involved and at times it can be a bit confusing keeping up with all of them, especially the Collectors.  Fortunately there is a list of collectors on page 119 detailing their status and whereabouts.As I said earlier, I anticipated this book to be spectacular and absolutely blow me away.  Unfortunately, as Natira so appropriately stated, "The anticipation of an event often overshadowed the event itself."  Perhaps that's the problem I had with this book.  My expectations were very high, but they were not met.  I expected this book to pick up in 2010, shortly after the reunion between Gina and Jacob.  I assumed there would be some flashbacks that filled in the blanks, but I thought the story would pick up with their reunion.  When that didn't happen, it eliminated a large portion of the story that built suspense.  Much of the first two books contained an ongoing tension between the Collectors and Gina.  However, since we know from the last journal entry in Haunt of Jackals she and Jacob reunite, there's little concern about either of them being prematurely discovered or threatened.While the Collectors, mainly Natira are devising new ways to bring around the destruction of mankind, those who resist are safely tucked away and for the most part doing nothing.  Natira became the most interesting part of the story while the rest of the characters seemed to wade through a series of events that did little to progress the story or offer an intriguing storyline.  A large portion of the story seemed to be primarily human interest, discussion of Christian living, and relationship building.  None of those are bad story elements, but that was not what I was expecting and seemed rather out of place in this series.During this part of the book, the other four novels that connect to this series are brought in and those ends tied up as well as a repeating of information from the previous books in this series, but not much new.  This is a major weakness in the book.  I think people who have not read any of Wilson's previous books could pick this one up and not be confused.  There is so little new story, that after the opening section, the book begins to crawl and doesn't pick up again until we finally get to the reunion between Gina and Jacob, more than 300 pages in.  Once that reunion occurs, though, the story picks up pace and the book I was anticipating finally begins.For the most part Wilson has managed to make the different elements of the series work.  We have Jewish mysticism combined with legends, history, and fact.  Things had been placed together in a precarious balance, that though fiction, still made sense.  However, some of that starts to crumble towards the end and with some baffling resultsI hate to say this, but Valley of Bones was disappointing.  The ending helped redeem it, but for the most part it lacked so much of what made this series great.  The first two books thrived on tension, suspense, creative story, and awesome Biblical teaching.  For some reason, those elements either became subdued, overused or missing all together.  Perhaps more importantly, it seemed to lack passion.  The first two books were infused with a passion and enthusiasm that breathed life into the characters.  I want to love this book, but it fell short of what I was anticipating.  It does provide a satisfying ending to not only the Jerusalem's Undead series but the Senses and Aramis Black series as well.  Though Valley of Bones was the weakest of the books in this series, I still strongly encourage readers to pick up the Jerusalem's Undead series.  This is a highly original, creative series, with some excellent dialog, characters, and beautiful imagery. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Valley Of Bones </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-26-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Vampire novels are the trend these days.  However, Jerusalem's Undead trilogy by Eric Wilson, takes it a step further.  Valley Of Bones concludes this epic of spiritual vampires called the Collectors, who are opposed by The Nistarim and Those Who Resist.  Nistarim are saints who were raised from the dead when Christ was crucified.  They work to protect Those Who Resist (believer's who have accepted Christ's sacrifice) and thwart the Collector's schemes to doom mankind.  Gina Lazarescu, daughter of Cal Nichols, a Nistarim, is at the center of the action.  She, her father, and other believers, work to keep Final Vengeance from occuring.  Vampire Collectors, led by Natira, are busy collecting souls, identifying Nistarim, and searching for the Crown Of Thorns worn by Jesus at His crucifiction.  This conclusion has edge of your seat chases as well as thought-provoking twists that will keep you reading until the end. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Take this out!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed this series.  What will the end of the world be like?  And stop asking for more words; hate it being told what I need to say </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Creative, clever, and fascinating </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-21-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Review by Jill WilliamsonI've been waiting and waiting for this one. It's all coming down to one fierce battle in Valley of Bones, the third installment of Eric Wilson's Jerusalem's Dead trilogy. Gina is reunited with her long lost love and gets to meet another family member she hasn't seen in years. Natira and the Akeldama Collectors are working hard to destroy all the Nistarim, but Cal's secret weapon is something they didn't consider.A Christian vampire trilogy. That's what best-selling author Eric Wilson created with his Jerusalem's Dead books. I found all three creative, clever, and fascinating. This third book tied up all the mystery created in books one and two. The final battle was awesome in my mind, though I'd love to see it on the big screen. If you like vampire stories, biblical history, archaeology, and suspense, you must check out this series. If you've already read books one and two? What are you waiting for? Pick up book three asap, because it's an awesome conclusion to the series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Powerful end to the Jerusalem's Undead trilogy </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-30-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wilson has saved the best for last in the Jerusalem's Undead trilogy--and I say that after giving 9 of a possible 10 stars to the first two books. All too often, authors start a trilogy with a great idea, but run out of steam before they reach the end. Not this time.As with Haunt of Jackals, this book opens in the middle of the action after a brief recap and a short prologue. It picks up the separate story threads of Gina Lazarescu, Cal Nichols, and the warring factions of the demonic Akeldama Collectors, vampiric undead brought to unnatural life by the power of Judas's blood. Gina has escaped from her enemies for the time being and has a number of nice quiet moments as she rebuilds damaged relationships and grows personally and spiritually. These scenes are a good counterbalance to the tense--and sometimes violent--cat and mouse games played by the immortal Cal Nichols and the demonic revenant Natira, leader of the Akeldama Collectors. Natira is bent on finding all of the Nistarim, the 36 Concealed Ones raised by Christ through his death and resurrection two millennia ago. They bear the sorrows of humanity, and Natira believes that he can bring about the "Final Vengeance" by destroying them. Cal knows Natira's strategy, but has his own plans . . .Wilson pulls these threads (as well as a few from earlier novels outside the trilogy) together and weaves them all together into a strong and satisfying conclusion to this trilogy. In fact, this book completes the Jerusalem's Undead story so well that it made me go back and raise my rating of one of the earlier books because I now have a clearer picture of what he was doing early on. The only big question left unanswered at the end of Valley of Bones is this: What will Eric Wilson do next?I for one can't wait to find out. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing series! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-01-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was gripping and the story-telling amazing. I could not put these books down! I recommend this series for any christian-fiction enthusiasts. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Fitting Conclusion </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-30-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Eric Wilson holds nothing back in the heart-wrenching finale of his Jerusalem's Undead trilogy, as Gina Lazarescu and the rest of Those Who Resist continue in their struggle against the vampiric Collectors of the Akeldama Cluster.Ever since news of this trilogy reached my ears in 2007, I have eagerly awaited Wilson's take on the vampire legend. Wilson was catapulted to the top of my favorite authors list as soon as I set down his first book, Dark to Mortal Eyes--my first foray into the works of Eric Wilson. And although I have never been a big vampire fan (especially not in this Twilight-saturated culture), I knew that Wilson would turn this new series into something special. Needless to say, when I received an advanced copy of the first book, Field of Blood, in 2008, I was captivated. And now, at last, the journey ends in this stunning conclusion, Valley of Bones.I won't really say much about the plot, here, as Wilson does that far better in the novels themselves, and if you're reading this review, you need to go out and read this trilogy, anyway. Don't let the whole vampire thing scare you away, because that isn't the point of this series. Instead, Wilson uses it as a catalyst to explore deep issues of faith in a refreshing new way. In fact, I would say this is the most eye-opening, faith-reviving series I've read since Dekker's Martyr's Song or Blessed Child novels.The author put a phenomenal amount of research and imagination into this series, and the connections he makes between these stories and his other novels are absolutely mind-blowing; and yet, he makes them in such a way that it isn't necessary to read the older books to understand this series. Instead, it acts as the icing on the cake, the "easter eggs" to his fans, the little--and sometimes big--details that make his books so much fun to read. But for those who have read his previous works, Valley of Bones acts as the finale for them all, bringing back old characters and drawing their storylines to a fitting conclusion, and I think that is one of my favorite parts about this book.I will admit that it takes a little while to really "get into" these books. The storyline doesn't always go in chronological order, jumps around between the good and bad characters, and at first glance just seems so bizarre...but when you grasp what is really going on, you won't be able to put these down. The characters seem fully alive (even the undead ones...ha), the story is epic in scale, and the concept is just so darn cool--and cleverly written, to boot.I really encourage you to give these books a try. If they're not your cup of tea, then try his other novels (2 supernatural suspense books, 2 general mystery books--all 4 excellent and very well written). Eric Wilson is an enormously talented storyteller, and it pains me to see that he doesn't have more readers. He certainly deserves them. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

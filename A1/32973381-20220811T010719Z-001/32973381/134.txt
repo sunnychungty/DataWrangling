@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00AM9WEPI <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-03-2013  
+<h2> review.text </h2>
+
+ <p> Large screen.  Everyone should get one. Fast and excellent speakers. So good that my wife has ordered one for her.  Now if I can just master Windows 8.  I suggest buying Windows 8 for dummies to avoid pulling out your hair. Great computer buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> Fast, with large hard drive and large memory; very good resolution; effective and comprehensive screen setup - photos, mail, web browser, etc. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ideal for my Work </p>
+
+
+<h2> review.date </h2>
+  10-19-2013  
+<h2> review.text </h2>
+
+ <p> The price for the capabilities built into this computer make it an exceptional buy.  I have had Dell computers in the past and the Dell service was part of the decision on this machine.  I did immediately load Windows 8.1 to replace the Win 8.0 that was installed when I received the machine.  The seller did an exceptional job of getting the purchase delivered and in perfect working order.  There was far less crapware loaded than if you purchase the same machine directly from Dell. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VERY nice computer </p>
+
+
+<h2> review.date </h2>
+  09-13-2013  
+<h2> review.text </h2>
+
+ <p> I'm surprised at how much cheaper this model is compared to the other Dell XPS One 27 models.  Windows 8 does take a bit to get used to but overall it is an excellent all-in-one computer.  My only complains are that when the fan runs, it is a little bit louder than what I would like, but I really don't mind it.  The screen is very reflective, but I'm used to this because I've used the Dell Studio XPS 1640 laptop which was also very reflective and the fan was loud on it as well.  So it seems like these are common problems (at least with my experience) with Dell computers.The main complaint that I have about this (which is why I rated it 4 stars instead of 5) is the touch buttons that light up on the bottom-right corner just below the screen.  For whatever reason when I use the pc as a tv through the hdmi input, it sometimes will not work properly.  Like when I want to change the sound it either does nothing or it changes the brightness instead (this is happening when I'm in the "tv mode" and not the "computer mode" where the buttons are supposed to change the brightness instead).  And then it will randomly change the volume after I've been messing with it and I can't get the volume to go back down, even when I tried turning off the pc.  I'm still trying to figure out if this is a hardware issue or a software issue, but it's only happened about 2-3 times and I've had this for about 2 months.  I'll post more on this once I figure out what exactly is causing it.Other than that, this really is an awesome computer!I do have a complaint about the description for this computer that is posted on amazon.  This computer has 6 3.0 usb inputs and not 4.  Also the picture is inaccurate as I have the stand that adjusts at two points.*edit 3/8/2014I finally took the time to mess with the computer and I was able to fix the volume problems with the touch buttons by updating the video and audio drivers on the PC.  So now I honestly don't have any problems with this computer.  So now I'm changing this review to 5 stars instead! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's an awesome computer at an incredible price! </p>
+
+
+<h2> review.date </h2>
+  08-24-2013  
+<h2> review.text </h2>
+
+ <p> I've had my Dell for three months now. Can't beat the Amazon price. Bought mines from legendary Juny and it arrived before the expected delivery day intact. This PC was easy to set up, and is super-quiet and fast. The big screen and resolution is fantastic. I love streaming movies from Amazon, Netflix and Youtube. I haven't had any problems with it at all!Dell Keyboard & MouseThe keyboard I kind of don't like because it looks and feels like a laptop keyboard which makes it hard for me to type. But I've gotten used to it so far. The only good thing about this keyboard is the ease of cleaning it, you don't have to worry about dust or dirt getting into it. I'm used to my Logitech wireless keyboard which keys extend out.The mouse I don't like also because it feels kind of heavy when gliding. I'm used to my Logitech wireless mouse which glides smoothly. But I haven't install them for being lazy.PC SpeakersSpeakers are not that loud. If you want good sound then you have to invest in some good PC speakers. I installed my in expensive Logitech Speaker System with Subwoofer and the sound is loud and crisp.Touch ScreenAmazing resolution and responsive touch screen. Browsing the internet has never been better! I love the fact that I can adjust my browser only using half of the screen, and being able to have space for my note pad at the same time. No more toggling back and forth for me with this 27 inch screen. I truly enjoy Windows 8 on this PC. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This PC Is Simply Amazing! </p>
+
+
+<h2> review.date </h2>
+  09-18-2013  
+<h2> review.text </h2>
+
+ <p> The XPS One 27 definitely has pluses and minuses.  I purchased it at MicroCenter and ended up returning it a few days later.  They were great about the return and made it very easy. This computer is a great concept with the all-in-one and the larger screen.  The quality of the image is sharp for sure. The main issue I personally had may not be everyone's issue but the monitor cannot move up or down to adjust height and you can't push it back.  As a result it juts out from the wall I think close to 7" and unless you have a huge desk, I found this to be really too close - especially with the size of the monitor being so large - with no way to move it back further away from me to comfortably view the screen. Because of the size of the monitor and weight of the monitor, having the monitor move so it were situated further way from you might cause it to be imbalanced as it would mean the monitor would sit further back on the stand, but at the same time, without being able to do this, the computer was not functional to me no matter how great the image and size of the screen were as I kept feeling like I needed to scooch my chair back to view it properly (kind of felt like I was sitting in the first or second row of a movie theater and you wanted to move further back).  My desk space is 30" from front to back to just give you an idea as it's not a small desk.The other issue I had was Windows 8 and my rating of the 3 is not related to Windows 8 at all - as that is not the computer's fault :) I tried Windows 8, adapted to what you needed to do to utilize it easily within a day but I still strongly disliked it.  It just felt like for certain processes that took 1 step on Windows 7 it was taking 2-3 steps on Windows 8.  So it wasn't a lack of familiarity with Windows 8 that was the issue but more so the functionality.  The touch screen was nice and worked well, but just got old kind of fast as I use my computer for work 10 hours a day and using the touchscreen just got annoying.After I returned this computer, I purchased through Dell their new T1700 for almost half the price of this computer on a special deal - but with what seems to be a faster processor (it is the newest Xeon processor) and so the T1700 is lightening fast compared to this all-in-one.  I also purchased a terrific Dell monitor that is ultra sharp 24".  I paid combined about $200 less than the all in one and my new computer has Windows 7.  I'm thrilled to have Windows 7 again and thrilled with the T1700.  I use this mainly for work so having Windows 8 for work was just not efficient - at least to me.So all told I am giving 3 stars due to the stand not being conducive to situating the computer at a comfortable distance away from you for this size of a monitor, and I think for the money you can get a faster computer.  Of course, the feature that is awesome with the all-in-one is that it's an 'all-in-one' and touch screen and everything is combined together. As long as you are okay with Windows 8 and have a large enough desk to situate this computer well on your desk if it's sitting 7" or so away from the wall, then you'll probably really like this computer, in general. I loved the all-in-one idea but for my taste, it still needs to evolve a little more to work through things like computer distance from you/computer stands for the larger monitors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great in Concept but... </p>
+
+
+<h2> review.date </h2>
+  04-20-2013  
+<h2> review.text </h2>
+
+ <p> I've had my Dell two weeks now. Can't beat the Amazon price and it arrived intact despite the beating the box took. Plug in the power cord and it's ready to go. I use this computer all day every day for work and personal. It is also the wireless server for two other laptops in the office running Vista. When away from the office, I access the Dell from my iPad using SplashTop. So I am definitely working it.Hardware: I really love the look and feel of this computer. It is heavy compared to normal monitors, but hey it's all-in-one with glass screen so is as heavy as a HDTV. I received a double articulating stand instead of the one shown. That means I can adjust it front/back and up/down. I have the bottom of the computer almost touching my desk, so it's easier for me to reach the screen. I am quickly getting used to the touchscreen. I increased the default font size so it's easier to touch menus, buttons, resize windows, etc. It's a little less sensitive than my iPad2. The keyboard is nice quality, the mouse generic Dell. The slot DVD drive is quiet and fast, I was able to load a bunch of old software with no trouble (MS Office 2007 in under 5 mins). The camera is fair but not a priority for me. The processor is very fast so I can keep multiple programs open and actually use them. Not to mention the help with networking speed. This is the quietest computer that I've ever worked on. FYI I found that using the lighter colored backgrounds eliminates the screen glare people have complained about.Software: My old computer was Windows Vista so I was worried about learning Windows 8. It was much easier than I'd been led to believe. The main difference is that the previous Start button is now a whole screen. Two important shortcuts - touch the Desktop tile on Start screen to go to the normal desktop; press the Windows key on the keyboard to go to the Start screen. The new Start screen is awesomely customizable. I added a tile which shuts down my computer, and moved the Recycle Bin off the desktop to the Start screen. I removed most of the Start Screen default apps since they are made for smaller tablets and take over the whole screen. Thank you Dell for keeping preloaded software to a minimum! It's easy to add tiles which open the programs on the Desktop so you can multitask as usual. I can understand how people with less screen real estate don't like Windows 8 (big fingers on a small screen) but it's great on this 27 inch screen.All in all I am pleasantly surprised and very satisfied with this computer and the price point. I will call Dell and buy an extended warranty just in case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pleasant Surprise </p>
+
+
+<h2> review.date </h2>
+  06-02-2013  
+<h2> review.text </h2>
+
+ <p> I got this A-I-O with a great expectation. Very nice computer with brilliant screen. The reason I returned it after 3 weeks of wanting to keep it...1. Always ON fan noise is loud (it may be on all the time because I have the i7 processor).  After 3 weeks, it was really bothersome (getting headaches), and I didn't want to turn it on anymore. So I used the Win8's wipe function to clean everything.  Contacted Amazon, they gave me an RMA and UPS picked it up. This is one of the main reason why I trust and buy from Amazon. No hassle, best price, trustworthy, and free delivery/pickup + movies with the Prime membership (discontinued the Netflix).2. Side issues:a. Dell's Core i7 machine performed slower than my Chromebox and Chromebook.b. To draw, the touch is required. To use the touch I needed to pull the computer close like a tablet and tilt it down. The problems are pulling and returning the AIO back to its place without some kind of a track because it is a heavy machine. Need to return the computer back to use the keyboard and mouse for normal work.c. The touch with Chrome, it works sometimes but not always. In short, touch is a waste of money for this heavy machine. Without a touch, Windows 8 is a waste so I might as well save money and stay with Windows 7.  Windows 8 is really nice, but the touch is a must.UPDATE REVIEW: ***** 5 STARSDell released a replacement model with the newest Intel processor (I got the i5 this time, it performs better than the previous i7), low fan noise, better screen resolution, improved tilt. I've had this new model for a couple of weeks, and it's a 5 star AIO computer. With the Window 8.1 Preview I downloaded yesterday the touch from left works better. Slide from top to bottom works better but still a little difficult because the screen is big (I think MS was testing this with a screen 15" or smaller). Big screen is fantastic. This new model is only available through Dell now, but I am sure Amazon will carry it soon.FINAL REVIEW:After using the AIO for months, it is still working like an Eveready rabbit battery.  If I have any problems, it's related to the Windows 8.1. I am starting to use this computer less as the time goes by because of the Windows (maintenance, update, slow to boot, virus worries even with the Kaspersky, figuring out how do things and relearning infrequently used functions, etc).  I use this AIO when I have to use the Windows/Mac peripherals (I will visit eBay when the Fujitsu ScanSnap can do Chrome).  I find myself resorting to ChromeOS because it is quick and easy to use (Chromebook and Chromebox) as I can do everything I need to do without the hassles of maintenance, no virus worries, and very fast.  Lot of people complain about the available applications, and that may be true if you insist on using the traditional desktop applications.  There are equivalent cloud applications and lots more that are easier to use and can do all the things I need to do.  Cloud is great because I can access my information anywhere with any device (freedom from the desk, and I don't have to copy to flash when I want to transport).  Better security with the desktop - I say false sense of extra security because all bets are off when you access the internet.  I used to have crashes and data lost sometimes using the desktop which I don't have now.  And no better or worse when it comes to the data security using the desktop or the cloud.  I am looking forward to the new Chromebox and Chromebase.  Dell *****, ChromeOS *****, Windows8 still required for the programmers, professional computer jockeys, and some peripherals.  My final review is 4 stars because of the Windows (for my purpose). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> New Dell AIO is wonderful </p>
+
+
+<h2> review.date </h2>
+  06-25-2013  
+<h2> review.text </h2>
+
+ <p> Hooked up fast, set up was simple and quick. I'm not the one using the dell, so ill update later if needed, but as for now, the picture looks crisp and very high def. it runs smooth and quick at this time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So far so good </p>
+
+
+<h2> review.date </h2>
+  06-20-2013  
+<h2> review.text </h2>
+
+ <p> Got this machine and it was all set up and ready to go in 30 minutes.  I have a Windows 8 tablet and I was pretty amazed how quickly the 2 devices sync'ed up.  To be fair, I got all my Windows 8 training out of the way on my tablet.  I knew what I needed to do without any fuss.The screen is huge and the resolution is great.  Maps have crisp detail.  Photos show up the beauty of well-taken ones and the graininess of the not-so-great.  There is a lot of envy in my household from the Mac fanatic who does not have a touch screen desk computer. ( BTW this was an inadvertent by-product of this purchase.  )The sound is very good. DVDs play easily.  Haven't tried a real movie yet, nor things such as downloading a movie to take it on the go and play it on my tablet.  I'm still checking out the benefits of Xbox versus Netflix versys Hulu etc.The exterior rim has a couple of USB ports with 4 more on the back for the out of the way things.The hinge holding the screen moves easily yet stays in place.The touch screen is really one of the reasons I bought this and it delivers.  A stylus is handy when on the Desktop side because that's where the images can't be enlarged, so putting a fat index finger on a tiny drop down box doesn't work for me.  Or use the mouse.The mouse and keyboard are adequate.  I like how flat the keyboard is.  Keeps my wrists from bending.What's with the ads that kind of pop up on both the Start screen and the Desktop?  I guess this is a feature of Dell machines.  My tablet, although a Windows 8, is not a Dell and there are no ads. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dell, I love you but your ads really annoy me </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

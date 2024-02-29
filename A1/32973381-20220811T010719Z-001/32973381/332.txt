@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 158617231X <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Dawkins' arguments are dead and buried </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-19-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is one of the best books I've read in a long time. Fr. Crean is a fantastic and witty writer. I've learned so much from this book. His arguments and refutations of Dawkins are clear and concise. In particular, he does an excellent job of refuting materialism and exposing flaws and misunderstanding in Dawkin's writing. Although Dawkin's book doesn't even warrant a refutation, God is No Delusion delivers a shattering one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An Atheist agrees... </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-15-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I read this book with interest in that I always like to take in as much information and opinion/perception as possible. Crean argues extremely well concerning Dawkins' unintelligble position of God's complexity. When I read "The God Delusion" this immediately stood out to me as the fallacy of combination: if X is such then Y is such. Suffice it to say, Dawkins' did not convince me, and I'm an Atheist. I found Dawkins' reasoning to be faulty and obviously, so did Crean. It was only a matter of time before someone pointed this out. However, just because someone can point to a fallacy in a argument means only that THAT argument (God's complexity) is unreasoned and illogical. This does not negate further arguments, better, reasoned, logical arguments against God as that too would be the fallacy of combination. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Clear out the Cobwebs </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-22-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Thomas Crean O.P. has written a remarkably lucid little book refuting Richard Dawkins. In point of fact, 'God is No Delusion' reads at times like a general introduction to Christian apologetics, covering, as it does, topics ranging from arguments for the existence of God, to a refutation of naturalism, materialism, and various arguments for the reliability of the New Testament. Crean writes so clearly, and so convincingly, that its like taking an introductory course in basic Catholic philosophy. For all the years I've spent in school, I wish I had had some courses, perhaps even a whole curriculum!, based on the approach taken in this book. There were too many 'Aha!' moments to count as the fresh breeze of Creans' thought cleared the cobwebs in my mind.I was especially intrigued by Crean's interpretation of Thomas Aquinas' Fifth Way. Whereas most people take Aquinas to be advocating an argument from design (ie: the human eye can't be explained by random mutation, so it must have been designed, and so on), Crean explains the Fifth Way is actually much broader, and much more subtle than is commonly assumed. It is, rather, based on what he calls a 'Principle of Finality' which states that every agent acts in view of an end. Everything that happens in the world, like salt dissolving in water, or electrons moving in an atom, show evidence of having an end which is inexplicable unless you posit an intelligence that assigns an end to each thing. After all, things don't will an end for the themselves, and laws don't exist except in intelligences, therefore, everything that has an end has it because of an intelligent cause. On this reading, the truth or falsity of evolution is entirely beside the point. I won't explain the argument beyond that, but I would highly recommend reading this book, and hope to read more of Crean in the future. And if possible, Fr. Crean, I would appreciate you writing an introduction to Thomistic Philosophy, as well as a whole book devoted to the Fifth Way as you understand it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Brilliance with "Gentleness and Reverence" </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-26-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Crean demolishes Dawkins's errors in elementary philosophy, theology, and even history.  But this is not at all a negative book:  Crean presents the positive case for the true Catholic alternative as clearly as possible in this relatively concise format.In fact, I would recommend that readers begin with the final chapter, "The Two Ways".  Here Crean clearly contrasts the two points of view, sketching numerous arguments in favor of the truth.  A few of his conclusions: "Logically, the atheist must be shameless, that is, inhuman."  Or: "If free will is an illusion, we need pay no attention to those who argue for atheism, since they cannot be thinking and writing as men guided by the truth, but only as driven along by matter."  Or: "Nothing with parts, that is, no material thing, can exist unless something causes its parts to exist together.  That is why the first cause must be spiritual and simple." Or: "Our proper destiny therefore is the immortal possession of the boundless good."  Good News -- he points out that is your free choice whether to possess it.Next, turn briefly to the Preface, where Crean succinctly sets out his goals.  He points out that the first two chapters are more abstruse than the others.  I think that if you have the least familiarity with Dawkins's writing, you can postpone them.  Hopefully you will already have whetted your appetite by reading the last chapter.Chapter 3 treats miracles, and establishes that "Those who lack this preliminary goodwill cannot be convinced by miracles."  This brief review must leave it to the reader to learn what Crean says must not be lacking.Chapter 4 treats the Gospels, including the science of textual criticism.  He shows ways in which Dawkins "is fabricating his evidence".  Astonishingly, Crean is able to write:  "It is interesting to note [Dawkins]'s suggestion that ... St. Luke ... wish[es] to 'press the familiar hot buttons of pagan Hellenistic religions (... worship by kings etc.)'. ... The worship by the three 'kings' is found in Matthew alone.  [Dawkins] should check his sources."Chapter 5, on Morality, is one of the shortest and best -- if you think you have no time for the others, at least read this one.  Crean points out: "A gene cannot be selfish, just as it cannot be altruistic, since it has no self that it can either indulge or renounce."  After such minor points, Crean gets to the heart of the problem with Dawkins's morality.  "Let us ask Professor Dawkins directly: does he think that we have a duty to be good?"  Natural selection might at times favor altruistic behavior, but no duty would arise.  "Without duty, there is no morality."  Crean goes on to explain duty.  At one point, he quotes Dawkins: "He imagines an apologist for religion saying to him, 'Wherever the motive for good comes form, without God there would be no standard for deciding what is good. We could each make up our own definition of the good, and behave accordingly.' ... This is perhaps the most promising statement in [Dawkins's] whole book." Unfortunately, Dawkins goes off on a tangent at this point.This review will have to give short shrift to Chapters 6-8, where the most important topic is natural law, which of course hearkens back to chapter 5.  He shows how Dawkins's "prejudice blunts his own rational powers."  Crean shows that "if the human mind is only the product of a battle between genes, any or all of our judgements may be mere genetically useful delusions."  Dawkins "is not an author who has taken great pains to master his subject" (not genetics, of course, but philosophy, theology, history, etc.); it would seem he has a duty to do so before publishing any more bestsellers outside his professional competence.Here you can reread the final chapter, chapter 9.  Armed with the relatively straightforward logic in chapters 3 through 9, you should feel empowered to tackle Chapter 1, which tackles Dawkins's only argument that belief in God is a delusion, the argument from complexity.  In just six pages, much of which states and clarifies Dawkins's argument, Crean refutes it by showing that it is an inductive argument based on bodily designers that would not apply to God.  Crean is not content to do just this minimum, but goes on to show that Dawkins's argument relies on materialism, which Crean shows to be false.  Indeed, Crean points out that Dawkins himself writes "In the Middle World, ... matter is a useful construct", and asks "If matter is only a useful construct, what remains of the [materialist] claim that everything in existence is made of 'physical stuff'?"  When Dawkins writes "Whatever you are, you are not the stuff of which you are made", Crean comments "Plato could not have put it better."  I must leave the further ramifications of Crean's case against materialism for you to read.Dawkins treats St. Thomas Aquinas's five ways to demonstrate the existence of God in the course of three pages.  Crean considers just the first and fifth ways more deeply, as deeply as the compass of his book permits.  Cleverly, he begins his discussion of the first way, the argument from change, with a change in thought rather than the motion of a material body.  What explains the change in you from not thinking about Shakespeare to doing so?  Thus most economically Crean shows that "The first cause must be a subsistent thought."  From a consideration of the fifth way, the laws of chemistry, and the like, Crean deduces "The first cause is an unlimited intellect" and hence omniscient, "one, unchanging, subsistent act of understanding."  All of this is pretty elementary philosophy, not strictly speaking [revealed] theology, yet Dawkins does not seem to realize that his own arguments are those to show that God is simple, eternal, one, and go a long way toward showing that God's omnipotence and goodness, and several other attributes.  To see all this "It is enough to have an intellect unhampered by sophistry or prejudice."  Regrettably, Crean misses out on a easy refutation of Dawkins's comment on the Fourth Way -- that it would apply to smelliness.  Clearly St. Thomas is referring to perfections or transcendentals, of which he gives being and goodness as examples.)Crean's book would have to be much longer to explicitly refute every one of Dawkins's published errors, but what he has done makes the point over and over again, with commendable gentleness and often with humor.  Crean even allots room to sketch reverently the positive truths that set us free.  Five stars is not enough praise for this book -- it's worth five galaxies at least. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> If you're a believer, you will believe, if you are an atheist, you won't </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-09-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book didn't contain any evidence for a god.  Just more of the same magical thinking that religious people believe it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pseudo-philosophical mumbo-jumbo </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-26-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> The author tries--and I emphasize the word try--to refute Richard Dawkins' attack on religious faith. While the God Delusion is far from flawless, God is no Delusion fails to counter any of its arguments. The author makes absurd claims, e.g. children are less likely than adults to believe in false things--Father Crean doesn't account for the relative adult lack of belief in Santa Claus or the tooth fairy. Crean claims that atheists will never accept any evidence for a divine being. Being an atheist, I will offer him this challenge: show me one instance in history when an amputee has his arm or leg restored through prayer to Jesus. If you can do this, I will become a devout Christian. (Or, slightly more frivously, if God strikes down Christopher Hitchens with a bolt of lightning in his next debate, I will also be convinced). Until then, I remain unconvinced of God, resurrections, holy books, and miracles, and other far-fetched claims of religious people.There are other weaknesses in Crean's argument that I could bring up, but let's not beat a dead horse. (God is good, because,well, he must be, is one). Don't buy this book and don't take it seriously. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Crean Cleans Dawkins' Philosophical Clock </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-11-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Thomas Crean's book is one of the best popular written works to date refuting Dawkins' militant atheist position.  The reason why his book excels while others produce mediocre results? First, Dawkins' book is at best mediocre and unfortunately, people fight average works with mediocrity themselves.  Dawkins wrote a popular polemic, so many others write polemics as well (although, not at the same venomous or even childish level).Crean, instead, writes a more concise, less polemic, yet much more sophisticated work.  He takes Dawkins to task philosophically, and for the most part in just a few pages, develops tightly constructed arguments.  He shows the reader where Dawkins fails by showing Dawkins' poor understanding of sound logical principles (or Dawkins intentional action to avoid sound logic is more my guess).Crean does all this by still making the work a popular book, not an academic one.  I do have some minor quibbles, but nothing that really addresses the subject at hand.  This is a good work and I strongly suggests one who is just entering this territory of Theist- Christians debating the Dawkins' disciples to purchase it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Can be an interesting stand alone book </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have not read Dawkins' book which this particular volume seeks to refute.  Therefore I will review Crean's counter as if it is a stand alone volume.  I should note that the author's perspective is Roman Catholic and thus his main focus is defending an orthodox Catholic view (the author essentially states this in the book).First of all, the author's writing style is quite readable and I overall enjoyed the book.  Topics include simplisity vs. complexity theistic concepts, the possibility of miracles (with a particularly interesting account of Fatama), morality, religious origins, and gospel reliability amongst others.  Parts of the book are extremely interesting, others less so.  On certain issues, I feel the author uses very sound arguementation.  On other issues I may differ with the author or would question his line of reasoning.  Overall I recommend the book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> garbage </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-16-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> And, so where is the proof that god exists?  what a waste of time, the book is worthless.  the God Delusion by Richard Dawkins is the book to read, at least it is based on logic and scientific reasoning. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I'm An Atheist But Enjoyed This Book... </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am an atheist, point blank, end of story. However, I read this book and found it well argued for and very well written. Crean defends his thesis statements well.Even though Crean did not convince me that a God existed, I'm completely convinced that Richard Dawkins does not know what he's talking about, and to be honest I wasn't all that impressed with "The God Delusion."So that's what I think of the book. I don't think I'd believe in God unless I actually saw God face to face, but I won't deny that the arguments contained within this book are very strong and support his claim very well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Drives right through the holes in Dawkins line </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-13-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> God is no Delusion is an excellent and strong answer to Richard DawkinsThe God Delusionwith solid arguments and theological history to demonstrate the gaping hole and twists necessary to discredit Christianity in General and Catholicism in particular.The Book started slow, an atheist reading it will not be persuaded by the difference between a physical and non physical world (although any basic theology student will) but really came into its stride when dealing with ancient sources and the writing of the Gospels.  The highlighting of his weak scripture critiques were also strong.  It also shines when showing how great minds for centuries have thought on many of the things that Dawkins seems to have missed.It is also particularly interesting to note how many brilliant scientific minds were devout, a good cross reference would beHow the Catholic Church Built Western Civilizationdetails contribution after contribution contrary to the picture that Dawkins paints.In some ways it isn't Dawkins fault, his expertise is not Theology and I wouldn't expect him to know about the church fathers, but when he denies a modern eyewitness account of an event that was well attended such as Fatima he goes into the denying the facts to fit his views, this is called "projection".The specific animus against Catholics is nothing new to us.  There is of course the cultural and historical factor as an Englishman, but for believing Catholics the primary cause is a basic truth, one that we have dealt with for centuries.  The goal as C.S. Lewis puts it inScrewtape Lettersis ,"to edge the man away from the Light and out into the Nothing".This book should be required reading for any Catholic, if you are going to defend your faith you need to know the arguments. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> the author of this book clearly is himself, delusional </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> As much as I love reading both sides of the argument, this book hardly poses an argument at all. What a waste of time. Not even worth flipping through, in my opinion. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Could not give 5 stars due to author's blatant sexism.... </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-10-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> God is No Delusion is a wonderful refutation of Richard Dawkins and the movement of scientific atheism that has become popular over the past few decades.  Crean addresses many of Dawkins major 'objections' to God and religion, and he does it in an easily understandable way.  The book gives clear reasons why Dawkins' philosophy is unsound and full of holes.I would have given this book five stars except for the obvious sexism and bigotry that the author injects into the book.  Three such instances come to mind that were the most offensive.  First, when the author states (pg 107) that Dawkins would never employ such an unfeminist an idiom as the quotation of Carlyle, 'men are mostly fools.' Pointing out the fact that Dawkins might be prone to feminism has nothing to do with the point of the book.  It is as if to say that not only is Dawkins' belief in atheism wrong (which I believe it is) but that feminism is wrong as well.  This is just a small example of the rampant sexism that is present in religion today and a large example of why many people go running towards atheism.  Sexism is contradictory to what is in the Gospels, yet the Church teaches it as dogma (yes, I am a cradle Catholic too) that women are inferior to men through practices as the refusal to ordain women and the ban on birth control.A second example of Crean's bigotry is when he makes mention of children being able to know what is patently false and his example in the footnote is of two people of the same sex being able to marry (p 110).  Again, it is as if this author could not resist his chance to push hatred into a book that is supposed to be about why to believe in God.  Many modern professional people have difficulty with this doctrine, and since it is not germane to the conversation, why insert this hot topic at all??Finally, the most insulting of his examples comes on page 133 where he actually compares women's suffrage and the destruction of family life.  So we are to take it that a proper moral family is one in which the man is king and the woman has no say on anything, so much as she is not even intelligent enough to pick her leaders???  We are supposed to believe that this is what God wants? Only a very short sighted sexist individual would even insinuate that women being given their God given equal rights is what caused the decline of the family.  There are many reasons for the changes in family structure that have taken place in the past decades.  I am not going to preach that these changes are all for the better, but I don't think blaming women's rights is the correct or Godly way to look at the situation.  It is a shame that such a good book has to be tarnished with such obvious bigotry.  Crean needs to understand that for many folks, when they see such bigotry and sexism, it makes them question God.  After all, how could a God that is all good, all loving, and merciful condone hatred and sexism?  The answer is that God doesn't, the male dominated Catholic hierarchy does. And we wonder why child molesters are still rampant in our churches?Overall, read the book, but beware of the author's subtle opinions against women and homosexuals.  If you can ignore his ignorace on those topics, the refutation of Dawkins is very good. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A better religion than Christianity </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-11-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> It is interesting that most of the reviewers giving this book five stars are Christians. I would like to invite them to explore my religion, ( Hindoo) which is far older. Our God is also real compassionate. He does not banish those who do not worship him to eternal hell. You can approach him dirsctly, no need for an authorised ( and only) emissary. He does not throw innocent babies in limbo just because they were not baptised(LOL) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sharp presentation destroying Dawkins' arguments </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-12-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Crean has written a well structured presentation of the fallacies (and sometimesabsurdity) of Dawkins' arguments.The first chapter confronts Dawkins' argumentthat all that exist is based on physical reality. This is the most abstractchapter of the book. The point made by Crean is well made: Dawkinsclaims that materialism is a clear and obvious stance ignoringthree millenniums of philosophy. Crean does a short presentationof what Dawkins should have considered to present a balance viewof the question. Some of Dawkins statements are made with suchan arrogant tone that they appear absurd. For example,Crean discusses, in Chapter 2, Dawkins statement:There is absolutely no reason to endow that terminator [i.e.of the first way] with any of the properties normally ascribedto God: omnipotence, omniscience, goodness, creativity,of design, to say nothing of such human attributes as listeningto prayers, forgiving sins and reading innermost thoughts.Crean destroys such a statement to pieces. He remarks: whywould goodness not be consider a human quality whereasreading innermost thoughts is. If Dawkins' followers do notsee the absurdity of this statement they have lost all capacityof critical analysis.Dawkins' sloppy argumentations  continue withsuch mundane mistake of misreading whathe is quoting. For example, in Chapter 4,Crean points out that Dawkins misread a quote of St John's GospelThe passage quoted by Dawkins:"Others said, this is the Christ. But some said, Shall Christcome out of Galilee? Hath not the scripture said, That Christcometh of the seed of David, and out of the town of Bethlehem,where David was?" (Jn 7:41-2)From this passage, Dawkins claims that the followers of Christwere saying that He was not born from the right town. But thisis not what the text says. The statement is not made by *followersof Christ* but by some other people.The lack of knowledge of Dawkins on such matter as exegesis orplain interpretation of Biblical passages is so obvious that Crean had an easy task.Crean remains very patience given Dawkins' absurd and incoherentstatements.I find Chapter 6 the most interesting: Crean clearly showsthat Dawkins' attempt to show that evolution createdhuman as religious and believing in God is a self-refuting argument.It has to be read to be appreciated. Crean arguments are compellingand coherent.Once you finish reading Crean's book you start wonderingif Dawkins' is not actually doing it on purpose to makeup simple arguments easily believable by the unwarywithout considering their strength and coherence. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> God IS no delusion! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-22-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Fr. Crean's refutation is both substantive and a pleasure to read. Crean very fairly, and GOOD-HUMOREDLY, makes quick work of what passes for the "new atheist" arguments and devotes the rest of the book's pages to outlining several very interesting Christian arguments. The book's a valuable addition to my little library and one I'll certainly reread more than a few times. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Intellectual Dishonesty </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-09-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Yet another author enters the realm of ignorance and intellectual dishonesty. The God debate is over and it has been over for a long time. I may argue that a single refutation within the scriptures collapses the very foundation of theism. Numerous elements have been refuted thus his argument is a little too late and are extremely primitive. Morality is innate and human beings do not need deities to know what it takes to support the things that enhance life and what it takes to hinder its essence.  If one day the whole world determines that there never were any gods in the first place...would you go out there and start stealing, raping, and murdering others? I do not think so unless there are psychological and circumstantial problems.  Ask this question to yourself, your parents, your sisters and your friends.  The author should be ashamed of himself. Think people!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

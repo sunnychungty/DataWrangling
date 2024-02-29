@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0036WT3ZM <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Samsung PN58C550 </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-07-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Best picture on HD and screen is not so bright as LCD TV. Unit come with Eternet port but it is not functioning :-( if you want to connect with netflix buy the one with wifi ready. All in all it is a great plasma TV I'm happy with it. Deliverly was fast right on time that they called ahead. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantastic picture </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-18-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> My only complaint is the juice this requires to run this bad boy. It now lives in the man cave for the occasional game or movie. The main TV is LCD. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Reflection </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-16-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> The other reviews covered most everything but reflection. This thing is similar to a mirror and any lights like a lamp will show up in the screen. The frame is also shinny plastic and will reflect lamps etc. Consumer Reports Dec 10 issue rated it very high so we bought it.  The picture is also not super bright compared to a LED.Take a pocket flashlight with you when shopping and check out the reflection. Its a deal breaker. I don't know why Samsung did put an anti reflection coating on the glass. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great TV for the price </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-13-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is actually my second TV purchased through Amazon of this make/model although the first one was the B series and this is the C series. Both are pretty much identical but the C series has a slightly different on-screen interface. I had to purchase a new TV though after only one year as my 4 year old decided to hit the TV pretty hard with the corner of a plastic DVD case. I was surprised that the outer protective "glass" didn't break but instead the inner plasma glass cracked big time in two places. Seems the TV is a big more fragile than it should be but then again it was hit pretty hard.That aside the TV has great picture quality which is why I purchased a second one. I love playing my PS3 games on it and Blu-Ray movies from the PS3 look great. Sound from the TV speakers alone is just barely ok in my large room but I rarely use them unless playing Wii. The PS3 and DVR are connected through my 5.1 surround system to I turn the internal TV speaker off. I had a glitch with my B series where the DVR would cause the picture to flicker for about 3 minutes using HDMI connections until everything was in sync. The B series also had the "buzz" that people talk about but I didn't notice it once the 5.1 was on. This TV the C series I don't have any HDMI flicker issues with the same DVR but I do have slight flicker issues using my Wii on the component connections that I didn't have with the previous B model. I guess the flicker issues moved to the other input :) Overall though it's a great TV and if I need to get a third I probably will get the same one if they're still around. It's great if you just need a monitor to hook up to your home theater and don't necessairly want all the internet widgets and stuff that you ultimately pay a premium for.One thing to note though if you have a home theater system. The TV has an audio out on it but it will not output 5.1 signal to your home theater. All your audio connections have to go to the home theater first. Unfortunately though in my case all my HDMI for picture had to go to the TV as the TV would not read the HDMI signal from my amplifier. At least the B series one didn't.. haven't tried a single cable from the amp to the tv on the C series. I didn't have this problem with my previous JVC so it was frustrating. Probably something with the way it translates the copywrite signal or something.Anyway as mentioned I would definitely recomend this TV. It's a great low cost TV with great picture quality and has been a great addition to my large 20x20 room. Very easy to see from anywhere in the room. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Reasonable features and good value, but picture is difficult to adjust properly </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-21-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great plasma value if you are looking to spend under 1500 for a large set.  I doubt you will find anything else in this rage.This does not have 3D capability and does not have netflix and other apps built in.  I don't knock it for that.I took off one star because the picture quality is very difficult to adjust properly.  I use theDigital Video Essentials: HD Basics [Blu-ray] DVD to adjust my set.  You can get this on netflix, but you wont get the colored lenses which are critical.  I spent several hours adjusting my set and had real difficulty achieving a proper balance of red saturation without getting clipping of the green end.  I also had difficulty getting real clarity without washing out the whites using the contrast and brightness levels.  To be clear, there are TONS of adjustments on this set.  I am very capable, having adjusted several other plasmas for myself and for friends using this same DVD and test patterns.  I am not complaining here because I don't know what I am doing.  The chips in this set are simply a bit too low-end to achieve the proper settings I was able to get from the 8000 series plasmas.  Of course you get what you pay for.  Just don't expect to get the same picture on this set that you would get on one three times the price.  The price difference is not JUST added bells and whistles - which is what most people assume.Buzzing - lots of people here complain about buzzing.  This set buzzes.  All plasmas buzz - some more than others.  Altitude makes it worse.  My set buzzes and I can hear it when everything is on mute, when sources are selected, and when nothing is selected.  I have buzzing when there is nothing connected to the back at all (other than the AC power).  It is neither intolerable or noticeable to most people.  If you are listening for it, you will hear it.  Once you hear it, it might drive you nuts.Another note on delivery (not included in my star rating) - it took FOUR sets before I received one without damage.  The first three sets I received were sent through Pilot Freight which subcontracted to Westchester Putnam Freight for the last mile delivery.  Each of these first three sets came into my house, box opened, screen obviously cracked, back on the truck.  Amazon was terrific about it, but my word to the wise is to carefully check the screen before accepting delivery.  Two of my three screens were obviously cracked (huge spider web).  The third was a much more subtle 2" crack at the bottom - only clearly obvious when you shined a flashlight at the screen.  When inspecting, use a flashlight to methodically scan up and down (or across) the entire surface of the screen.  The box might look perfect (all of mine did), but the screen is cracked.  If they open the back of the truck and your box is laying on its side (not straight up and down) I can almost guarantee your screen will be cracked. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I love my new Sammy Plasma </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-15-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I ended up going the Plasma route after alot of reviewing. I purchased the 58" PN58C550 & absolutely LOVE it..Picture is flawless...and no buzzing!! (reading the forums some sammy plasmas are buzzers some are not. Guess I got a good one!)I went with the 550 series because their is a hack you can do via the remote and turn the TV into a 590 and access the Cinema Smooth Option.I only have about 40 hours of tv watching on mine so far so I haven't calibrated it yet and not played with the picture at all yet. (Samsung & AVS members say leave factory settings than calibrate the tvs around 150 - 200 hours. But picture is still absolutely gorgeous.Colors Pop, They are very sharp & vibrant.  I have this tv in a basement that is basically really dark so I can't comment what this tv is like in a bright setting..but I can telly you its absolutley gorgeous in my control lighted basement.I'm happy again with my electronics purchase and this one is a keeper!!!I hope yours is as well./ </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great TV So Far </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-23-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Set up my unit on 5/21 which I bought from a brick/mortar store (sorry Amazon!), after researching the hell out of it.  My equipment includes a WDTV Media Player (HDMI w/optical out), Nintendo Wii (analog), HD HTPC on the make, and Denon AVR-590(two optical audio inputs and three HDMI inputs).PROS:- NO BUZZING!  YEAH!!- Great picture out of the box - will be fine-tuning things later, but early indications are very positive.  Several units had more features but PQ suffered.  With so many blu-ray players and HTPCs that stream Netflix/Pandora, don't get lured in by feature-laden units that fail to deliver great PQ.- Media Play - plug in any USB or HD into the unit to watch video, listen to music, and view pictures.- Input panel is easy to access - swivel base is a real plus.- The manual states that it can connect to a home network and "can access the Internet through your LAN connection" - this one might be interesting if I could get a third party wireless USB stick to work.  So far, no success - I'll report back on this one.CONS- No memory card access - will attempt access with a card reader.- Cannot tell unit to show subtitles only when muted - 7 different versions available, but none of them allow you to read subtitles when it's muted.- Lack of widgets - I really wanted the web widgets, but wouldn't sacrifice PQ.  With the new HD HPTC almost finished and running WMC 7, it will interesting to see if WMC will be enough.- Sound effects and music sound great through Denon, yet dialogue is sometimes difficult to understand - I suspect that is due to my inability to read the language known as Denon and to configure it accordingly.  Audio is being passed through the Denon with a single HMDI connection to the back of the Samsung.Manufacturers like Sony and Samsung make way too many units.  Once you choose a manufacturer or a set of features you cannot live without, eliminate as many inferior units as possible.  Then, find where your top 3 prospects are sold and get full demos on each including use of the remote.  This was the only way I was able to determine that the 550 would work. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Buzzing </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-27-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Picture seems good but the TV has a very loud buzzing sound.  So loud you can't drown it out with moderate volume on the TV.  Sounds like some of these plasmas have it and others don't.  I'm returning it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice quality for the money </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased from a brick and mortar but do often find the reviews here the most helpful.  And yes Amazon managment I do purchase from you as well.  The tv is very nice right out of the box.  I did some minor adjusting on the video but found that it was very acceptable on the default settings.  I upgraded from my Vizio 48inch and can't imagine how I ever enjoyed watching football on the LCD rather than plasma. My Vizio is now in the bedroom and still very capable of watching prime time tv.  The sound on the Samsung is not as good as the Vizio and sounds a bit tinny, maybe I can adjust it a bit more but think I will invest in a sound bar to augment the internal speakers.  I have yet to connect to the Internet for updates and might update my review after.  No 3D or widgets on this set but on other sets that have those features there was a $$ premium and IMHO some loss of picture quality.Can't say that I went wrong with this set.  Wish the sound was better and my ultimate gift would be a way to add widget features with a future code upgrade. (Probably won't ever happen but hey a guy can dream!) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Plasma TV </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This TV is great!  I have no complaints at all.  Great pic and sound.  The plasma is good for a room that does not have lots of natural light.  I highly recommend this. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Samsung hit a home run with Plasma </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-21-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> It took about 3 weeks of research and stepping into Best Buy, Walmart and Sears before decided on this Flat Screen TV.  The name brand was a pull plus the overall ease of setup and usage based upon online reviews and asking about setup at each store and looking online at Amazon.  It was purchased for a friend and setup in his house.The features are listed below:Product Features* 58" screen measured diagonally from corner to cornerFor optimal viewing in large rooms.* Ultraslim design (2-7/8" deep)Ideal for wall mounting (with optional mounting kit, not included). 600mm x 400mm VESA mount compatible.* Clear Image panelProvides greater picture clarity.* Incredible 2,000,000:1 dynamic contrast ratioFor an arresting viewing experience.* 1080p displayProvides the highest quality progressive-scan picture possible from a high-definition source.* 30W sound systemFor a full listening experience.* InputsInclude 2 component video, 1 PC and 3 HDMI.* 3 HDMI inputsHDMI cable not included. High-speed HDMI cable is the only connection that can deliver a full HDTV experience with a full 1080p picture and digital surround sound.* PC video inputLets you connect your computer to experience high-resolution images.* AllShareLets you sync your PC, mobile phone or digital camera with your TV for sharing photos, movies and more.I purchased a 240 mhz HDMI cable for high quality video streaming from the DVD player to the TV.  The cable company came in to install the HD cable box and delivered a low mhz HDMI so I will need to get one at least 240 mhz to get better quality.The clarity of the images so far have been amazing.  You can see the detail of facial features, or the black pepper flecks on fresh grilled steaks on the food network channel.  The picture was great right out of the box, so having it tuned in will even be better.  Not sure where others are having a buzzing sound problem because this one is silent expect for the crystal clear sound quality pumping out of the stereo speakers.  The room that the TV is set is not really large so the speakers are great.  I'd say the room is about 12 x 16 so if you have a larger room then you may want to get a stereo system for louder sound and more stereo.Stop by and look this over in a morter/brick store and then hop online and pick this up at Amazon, you will not be dissappointed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> NO Buzz on mine </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-08-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> And what a FANTASTIC picture ! this mated with a blu-ray player and movies dont get much better, this TV is just awesome, no other words to describe it. We love it.. only downside is the factory sound.. it stinks, your going to need to a sound system of some sort unless sound just doesnt matter much to you (for my kids cartoons the tv's speakers are fine)  When dad throws in a movie the tv's speakers dont even come close to cutting it.  the Tv gets a BIG 5 star rating from me, the speakers a 3 star, but the outstanding picture quality more than makes up for any poor sound.  ALSO: the remote is pretty awesome and easy to figure out. big plus. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great HD picture out of box, a little buzz </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-05-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Overall great HD picture and good regular picture. I purchased a calibration CD and have found the original settings were significantly better than the "calibrated" picture. I agree with one reivewer's comments that it is very challanging, if not impossible, to properlly balance contrast and brightness. But just using the old eye test the picture looks great out of the box.  I had forgotten about the "Buzzing comments" when I purchased this tv, then one afternoon I heard a buzzing...and then rememberd the comments/reviews. Mine definantly buzzes and I litterally live within 1-2' of sea level, so the altitude theory is out,on my set at least.  With that said, I only notice it when no the tv is on and the volume is off.  While I can hear it from at least 10' (at night anyway) I don't hear it at all with any sort of volume comming through the set.  Also, like most plasmas, there can be a glare, but only if you have a light directly agnled to reflect directly at you through the tv screen. Was able to move the lamps a couple of feet so no longer issue.Over all this is a great value; the tv itself is a good looking tv, the HD picture is excellent, the screen size is perfect, not too big or small, and the buzzing and glare are really non issues (so far). If you can get a similar Panasonic or LG for a similar price consider them, but this is a great TV. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

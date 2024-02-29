@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1933855355 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Maybe the best deal on amazon now! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-26-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this book for $16.47 (it lists for $25.00) and it would be a heck of a buy at twice the price - heck even thrice the price. The book is HEAVY, well bound, highest quality photos both in how taken and how reproduced by Rio Nuevo Press in Tucson. Just a great deal on what will become a classic book on this aspect of popular herpetology.I particularly like that the authors/editors did not try to do it all themselves - they enlisted the help of many other herpetologists, presumably based upon those scholars' specialities, and yet the authors/editors have instituted a great format for each species, including what you'd expect from a field guide, but also much more. I particularly like the occasional personal observations, and of equal worth is the section under each species telling us where best to view this species.Obviously I am a fan now of this book. Anyone else who is interested in the American Southwest's lizard fauna will be too once they have their own copy in hand. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Excellent book...chock full of information on the many lizards to be found in the southwest.  Pages include small map of area for any particular lizard of interest.  Great for hikers, and anyone else who enjoys the many unique wonders of the southwestern desert.Highly recommended. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Reference. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is a good field guide for anyone interested in identifying these fascinating animals.  Living in Arizona, this guide is very helpful. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A great value </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-13-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book should cost so much more for what's in it. It's well worth the money.  This book is too large to be a field guide but it's an excellent resource for anyone who is in the field. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great guide </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-02-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is a must-have for serious herpetologists and the general public alike.  The pictures are beautiful and the natural history on each species is very thorough.  Definitely recommend! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great value for money ! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-21-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is just great value for your hard earned money, if you look at the details, number of photos and well written text this is a MUST buy ! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A huge lizard book that is worth every penny </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-23-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is essential for anybody who is interested in southwestern lizard species. The authors, all 77 of them, have created a field guide that is rich with details about each animal it covers, and it covers a lot. If you are familiar with Lawrence Jones' previous publications, such asAmphibians of the Pacific Northwest, then you will recognize the format of this book and its species accounts. Rather than have pictures, species accounts, and range maps all in separate sections, like Stebbins does inA Field Guide to Western Reptiles and Amphibians (Peterson Field Guide), this book lays them all out together for each species. Therefore, for each species you look at, you'll get the range map*, assorted information (characteristics, habitat, natural history, distribution, variation/subspecies, etc.), and typically 4-5 beautiful photographs of the animal and/or its habitat.  Both formats have their pros and cons, and I find both serve their purposes depending on your specific needs when you open the book. It is something to be aware of, however, if you have a preference one way or the other.Organization is by Family, so it's easiest if you have a little bit of knowledge of taxonomy first. If not, there's a handy quick guide in the back of the book that shows you representative pictures and tells you what page to turn to to find lizards that resemble that. Also included in the book is a checklist for the Southwest, with every species clearly shown with what states it is known to occur in. The book also contains a glossary in the back. One "bad" thing is that the Latin names of the animals are whatever has been most recently assigned, which means that they're not necessarily fully recognized by the community yet. It is something to keep in mind, that not all Latin names are widespread and you may need to do the ol' parentheses trick (i.e., "Phrynosoma coronatum (='blainvilli')."For the list price of $25, or ~$16.50 on Amazon, this book is a steal. It is a monster at 568 pages, but that's 568 pages of great information. It's clear from reading the book that the authors were passionate about writing it; it's even more clear when you read inside that not a single of the 77 contributors received compensation for their work, and that 100% of the proceeds go to supporting The Herpetologists' League. If you are looking for a new, current, go-to book for lizards of the American Southwest, pick up this book. You will not regret it.*Edit 1/13/10: One negative thing I have to say about this book since I've been using it for quite a while now is that I really don't find the range maps to be very intuitive. They are done in the very useful way of color coding subspecies. However, in the interest of saving space(?), the subspecies are not given to you on the map. Instead it tells you to turn to page 559 to see what the color codes mean (for every species). So if you look at that page, it tells you that such and such color means subspecies 1, the next color means subspecies 2, etc. etc. and that the subspecies are numbered alphabetically. Okay, great, that's easy enough. Except when you go back to the subspecies section of whatever species you're interested in, the subspecies are not LISTED alphabetically and are only mentioned in a single block of text (as opposed to a list or separate paragraphs), requiring you to read through the section and then figure out the alphabetical order. I would have GLADLY paid a few extra dollars to have the subspecies names just printed right next to the map; I assume this wasn't done to save a little extra space and keep the pages and price down. It takes much too long as it is right now to figure out which color corresponds to which subspecies. Authors, all of you, you put together a fantastic book and I recommend it without hesitation to anybody interested in lizards. It is GREAT and I thank you for writing it just so I could own it and use it and learn so much more about these lizards. I just don't get why the range maps weren't done in a more user friendly way... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent Resource </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this book!  It is very helpful to me, given that I spend a lot of time at Hueco Tanks State Park and Historic Site (El Paso, TX), I see a lot of lizards, and I like to know what I'm seeing.  This book is very good for that.  It has excellent photos of every species, and plenty of information on where to see each type of lizard as well as the variations.  Also a detailed description for each species, information on range, viewing tips, and natural history.  The first part of the book gives very thorough information on everything you need to know to identify lizards, including information on coloration patterns, scale types and habitats.  Yes, it is too big to take into the field, but if you take photos of what you see, the pictures and other information in the book make identification easy.  I am learning a lot by reading the first part of the book (I read the species information when I'm in the process of identifying the lizards).  It's been a long time since I studied biology, so I've forgotten a lot of the really technical stuff, but this book still makes identification easy.  You don't have to be a biologist to get a lot from it: they explain everything you need to know.  I bought this book based on reviews I read, and have been very pleased with it.  I, too, recommend it highly. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This is a great book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-29-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Don't let the low price fool you...This book deserves to be sold in the [...] range. The general information, photographs, and species accounts are the best I have seen! It is a must have for every herpetologist and naturalist. I was fortunate to meet Larry Jones in the Chiricahuas this summer and he showed me his copy...When I stopped by the Chiricahua Desert Museum, they had just that day gotten in their shipment, Larry had autographed them, and that's where I got mine copy ([...]). [...] </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For the love of lizards </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was written by 77 experts and covers all of the lizard species found in the southwestern US and northern Mexico.  Lizards are beautiful animals and the color photos will knock your eyes out.  All royalties go to herp research. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 6301641876 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> I loved this TV movie years ago.  Took a long time to find it on DVD.  It's really campy sort of like Carnival of Souls. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Aliens Among Us </p>
+
+
+<h2> review.date </h2>
+  10-09-2011  
+<h2> review.text </h2>
+
+ <p> I loved Barbara Eden. So I bought this movie. It's OK. Not her best work, but quite watchable. She doesn't show her belly button here either. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Stranger Within Review </p>
+
+
+<h2> review.date </h2>
+  04-04-2014  
+<h2> review.text </h2>
+
+ <p> Barbara Eden is spinning her wheels as an unexpected, over-40's pregnancy and all the crazy, unexplained behavior of Barbara is what the whole movie is about... a pretty simple explanation by the end, but a lot of sorry buildup for a brief explanation.  An episode of almost an X-files is FAR more satisfying.  I love &#34;Jeannie&#34; and ordered all 5 seasons, but this movie should never have been let out of the bottle.  Barbara and so did her husband, but the whole story was nebulous and avoided being succinct except to say the pregnancy was troubling her.  Gee.  To top it off, the disc was defective although I was gratified to receive a refund.Try &#34;The Brass Bottle&#34; with Tony Randall, Burl Ives and Barbara Eden... 1964 pre-Jeannie and the movie that inspired it!!!  A true classic that is never played on TV and was the inspiration for &#34;I Dream of Jeannie&#34; and was ironic in that she is absolute in her disbelief of anything as silly as a genie - only to star in her own series next year. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jeannie should have kept her bottle!! </p>
+
+
+<h2> review.date </h2>
+  10-16-2011  
+<h2> review.text </h2>
+
+ <p> NOTE ON THE DVD: The DVD Case says the Disc may not play in all DVD devices. The DVD did not play in my DVD player; but it played perfectly on my computer.THE MOVIE: I'm delighted Warner Archive has released this effective "Made For TV" Movie thriller from 1974. When it first aired, the movie scared me so much my mother made me turn the TV off!! While the movie doesn't shock or scare me now,  the performances  and  brisk  pacing (the running time is 74 minutes  hold up extremely well.Ann (Barbara Eden) is pregnant-- but how can that be? Her husband David (George Grizzard) had a vasectomy three years ago. Tension mounts as David and her best friends (Joyce Van Patten and David Doyle) assume Ann had an affair. Ann reluctantly agrees, twice, to have an abortion. But each time she starts for the hospital, she grows mysteriously sick. And she grows miraculously well again-- just as quickly as she became sick. Ann is now determined to keep her baby--at all costs. And then, Ann starts acting EXTREMELY WEIRD!!! She keeps her house at freezing cold temperatures, drinks pots of scalding hot coffee, pours tons of salt on all her foods, reads lengthy books in a matter of seconds, etc. On top of all this, she starts speaking in a freaky language; and her excellent housekeeping skills go completely to pot!!The explanation for all this is ridiculous, but the movie still manages to grip and hold your attention. George Grizzard is very good as the increasingly worried husband. Barbara Eden is excellent, especially as Ann's behavior grows increasingly bizarre and violent. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> FREAKY PREGNANCY: "THE STRANGER WITHIN" </p>
+
+
+<h2> review.date </h2>
+  06-08-2014  
+<h2> review.text </h2>
+
+ <p> When i was little this made for tv movie came out and i was watching portions with my mother... when it aired in like 1972 or was rerun by 1976 or so...I believe my God mother was around and maybe we all watched it...I remember certain portions...barbara eden was wonderful in this!  She went through a lot so she did not ned to be a method actress/actor.  The casting was great!  Now that story was incredible! made to parallel Rosemarys Baby.  Looking at this.. what can you do?... Even if you outguessed the ending?  The husband never noticed the other strange things the wife was doing like that painting.It went exactly with all those trips she been taking.  When she looekd at the husband the way she did.... that means she was not coming back and he never caught on... that's why she was mean.  i remember my mother and Ms Bernice (godmother) they lknew what that look meant. She did that a lot!  that was some creepy ass food that alien made her eat! octopus pigs feet liver and some other nasty s***!  with salt!  When she was in the record store and then reading super fast and not with the fingers....that was scary!  Now you got to remmebr this was a low budget movie with existing technology...The ending was sooo sad!  It wasnt just an alien invasion it was the loss of all those women.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Stranger Within </p>
+
+
+<h2> review.date </h2>
+  03-12-2013  
+<h2> review.text </h2>
+
+ <p> a good scarrie movie that does not have blood runing every where, no bad words, no naked bodes and alein killing people. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Si-fi </p>
+
+
+<h2> review.date </h2>
+  09-16-2012  
+<h2> review.text </h2>
+
+ <p> i have always LOVED this movie since seeing on tv back in the days when there were 13 channels.the story unique and well acted. its a bittersweet retro trip to the good old days. i get a kick out of 70s style colors and avacado green appliances!a great ending! i have already watched 4 times since receiving last wk.  you will be happy to get it. i can understand why it has a cult following. so i guess ive joined a cult! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ITS 1974 AGAIN! </p>
+
+
+<h2> review.date </h2>
+  05-19-2010  
+<h2> review.text </h2>
+
+ <p> This is another present for my Sis.  She expecially asked for it and I am sure she will like it. Making her happy makes me happy </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another gift </p>
+
+
+<h2> review.date </h2>
+  12-13-2009  
+<h2> review.text </h2>
+
+ <p> i bought this film for a family member. they are a barbara eden fan. they loved the movie were very satisfied with the amazon purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> stranger within </p>
+
+
+<h2> review.date </h2>
+  01-04-2013  
+<h2> review.text </h2>
+
+ <p> I loved this movie. i was so into the whole idea of alien abduction and this movie was just so cool. and of course, i liked barbara eden alot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SAW THIS AS A KID </p>
+
+
+<h2> review.date </h2>
+  08-01-2010  
+<h2> review.text </h2>
+
+ <p> My sister and I watched this movie many, many years ago, and I have always hoped it would some day come out on DVD.Barbara Eden is gorgeous (as always), and I kinda love the ending....Very Interesting !!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Stranger Within </p>
+
+
+<h2> review.date </h2>
+  09-11-2010  
+<h2> review.text </h2>
+
+ <p> Never saw this movie before but it reminded me of The Exorcist.Spoiler:Aliens,i wouldn't have thought,i was surprised by the,Spoiler:Ending,Baby Looked Normal.Liked Barbara Eden and her Long Sexy Lashes kind of startled me when she growled,but thought it was good.I rate this movie Excellent,would recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Possession? Nah,close though </p>
+
+
+<h2> review.date </h2>
+  12-11-2006  
+<h2> review.text </h2>
+
+ <p> SPOILERS:Barbara Eden stars in this made for 1974 TV movie with a science fiction flair to it. A woman(Barbara) becomes pregnant and her husband had a vacectomy years ago. So who's the father? That's the big question throughout the movie. During her pregnancy her behavior and personality begins to change, she eats large amounts of salt on her food, she has unexplained outbursts, she drinks scalding hot strong coffee continually, eats raw meat, reads tons of books by scanning them with her finger, her blood type changes, she has mysterious scratches on her face that quickly disappear, she wants to sleep in a freezing cold room with a window wide open, and she talks in a strange tongue. She acts so bizarre her husband doesn't know what has gotten into her.(no pun intended).When the question of abortion comes(husband really doesn't want children) the growing infant keeps that from happening by making Barabara's blood pressure drop & a fever spike that prevents the abortion surgery from going through.SPOILER:Towards the end, after being hypnotized by a friend she tells the story of how she was abducted into a spacecraft by aliens who impregnated her one day when she was out drawing landscapes in the mountains. At the very end, about two dozen women(Barbara included) now with their half alien  infants(they look like normal babies), walk toward a light talking them back into the spacecraft forever. That's the final bizarre scene.It seems Barbara was not the only victim of alien abduction.In the 1970's there was alot of talk of alien abductions and this is where this idea for this made for TV movie came from. It's a OK movie for Barbara Eden fans & the acting is good, the subject is just strange. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rosemary's Baby Meets Close Encounters of the Third Kind. </p>
+
+
+<h2> review.date </h2>
+  05-15-2014  
+<h2> review.text </h2>
+
+ <p> I am a huge fan of the classic 70s horror TV shows and a true fan of Barbara Eden so when you can get a DVD combining the two it's a win win situation. This is a must-have for any 70s fan I highly recommend DVD and seller </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 70's tv </p>
+
+
+<h2> review.date </h2>
+  06-06-2013  
+<h2> review.text </h2>
+
+ <p> I saw this movie originally in 1974 as one of the popular &#34;movie of the week&#34; offering.  As a child I riveted to the screen as Ann Collins (played by Barbara Eden) mysteriously finds herself pregnant even though her husband  was incapable of impregnating her due to a vasectomy.  Was Ann cheating?  She denied it and has no explanation, but even her friends don't believe her when she says she hadn't had an affair.  The rest of the film involves Ann going from a reasonable housewife and artist to a raving lunatic.  The fetus grows at an alarming rate.  Though Matheson was well know for his TV tales of suspense and horror, this script leaves the viewer scratching their heads.  Is this a science fiction or a horror story?  In the pre Close Encounters and ET days, aliens typically were portrayed as not having human beings best interest in mind and come as either conquerors or misunderstood entities that do harm in spite of their best intentions.  It certainly is alarming how the developing baby seems to take control of it's mother, but the audience is kept in the dark for the most part as to what is going on or what the visitors purpose for doing what they've done is.  The film has poor production values and even Eden's decent acting can't compensate for the poorly constructed script.  Special effects are almost non-existent and the ending is somewhat reminiscent of a scene from Stepford Wives and also defies logic.This movies is okay for nostalgia, but has little to offer a modern viewer.  If you look at it as a 70s time capsule dealing with themes of UFOs, paranoia, and a show case of 70s cars and fashions it could be a worth a watch--otherwise a better choice would be Don't Be Afraid of the Dark, which still holds up well in spite of it's low budget and time frame. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the Best Richard Matheson Story--Warning Spoiler Alert! </p>
+
+
+<h2> review.date </h2>
+  10-12-2004  
+<h2> review.text </h2>
+
+ <p> A creepy variation of ROSEMARY'S BABY, THE STRANGER WITHIN stars Barbara Eden playing against type.  The story and plot may be a little derivative but the real treat is to see Barbara Eden as a women with an unsuspected (alien)pregnancy go through emotional tantrums and weird eating binges as the pregnancy takes over her personality and body chemistry (i.e. her blood-type changes and has an appetite for salt). Writer Richard Matheson's (SOMEWHERE IN TIME, TRILOGY OF TERROR), story has the right amount of suspense and terror to sustain a 90-minute tv film although sometimes it becomes a little repetative especially when Barbara Eden's character is in and out of the hospital during the duration of the film.  However, some of the subject matter is probably daring for it's day (early 1970's) with such mentions of vasectomys and alien abductions. Overall, a decent sci-fi horror film made for the small screen that has its moments of suspense and horror. Also its worth a look to see Barbara Eden in a dramatic role and doing some off the wall things (which are tame for 1970's tv standards).  Good support work from actors George Grizzard , David Doyle (tv's CHARLIE'S ANGELS' 'Bosley'), Joyce Van Patten and Nehemiah Persoff(YENTL). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The E.T. Within </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

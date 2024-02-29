@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004TGTJX0 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-04-2013  
+<h2> review.text </h2>
+
+ <p> We have another really well written Masonesque book.  Earl Stanley Garner could not have done any better. I really want to give this 6 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perry Mason again </p>
+
+
+<h2> review.date </h2>
+  07-05-2013  
+<h2> review.text </h2>
+
+ <p> I don't normally enjoy court room drama novels, but this series is different.  The particular book was the highlight of the series so far.  A fun read, with lots of twists and turns.  I appreciate the fact enough clues were left to at least hint at a possible conclusion without giving away exactly how that would come about.  Looking forward to the rest of the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the best of the series </p>
+
+
+<h2> review.date </h2>
+  03-22-2013  
+<h2> review.text </h2>
+
+ <p> I generally like this author and his Steve Winslow character.  Unfortunately, this one was a bit boring and it was a bit of a push to finish.  Maybe it was me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the most interesting of the Steve Winslow Mysteries </p>
+
+
+<h2> review.date </h2>
+  10-10-2013  
+<h2> review.text </h2>
+
+ <p> Loved the book, little too much courtroom detail to wade through but a fun read. Leaves you happy.I'll read more by this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> loved it! </p>
+
+
+<h2> review.date </h2>
+  05-24-2013  
+<h2> review.text </h2>
+
+ <p> Unother mysterious client arrives at the lawyer's door. His client is being set up by greedy relations in an attempt to inhetit his fortune. Steve is able to swing the jury to see one of the family members is the guilty party. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Steve Winslow wins again </p>
+
+
+<h2> review.date </h2>
+  12-06-2012  
+<h2> review.text </h2>
+
+ <p> Have enjoyed the Steve Winslow Mystery books.  This book kept my attention and I found I was neglecting other obligations. That should say alot for a book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> suspense </p>
+
+
+<h2> review.date </h2>
+  06-18-2012  
+<h2> review.text </h2>
+
+ <p> This is my third book in the series by this author.I have to say he's got a amazing analytical mind to come up with these twisters!On this one i figured out early the whodunit stuff;but Parnell says yeah you may see it coming,but i bet i can throw enough twisters at you that you question yourself.I have to say his presentation to the jury left me with my jaw hanging.If ever i were in trouble i want steve winslow on my side.Now on to number 4 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great story </p>
+
+
+<h2> review.date </h2>
+  01-09-2014  
+<h2> review.text </h2>
+
+ <p> I choose this mostly because it was a continuation of prior booksGood suspense not predicableSomewhat funny and suspenseful..Good read </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Part of a series that blend together well </p>
+
+
+<h2> review.date </h2>
+  08-24-2011  
+<h2> review.text </h2>
+
+ <p> Channeling Perry Mason whenever he gets into a bind, Steve Winslow is a part time actor/cab driver with a law degree and virtually no experience, except getting fired.  He's got an office, a girl who reads novels between rare phone calls and a college buddy P.I. who will do work for him on the cuff.He uses his sense of the dramatic, his understanding of the jury as audience and his willingness to appear foolish as his tools to outsmart the D.A., co-opt some big-time corporate attorneys and save his client, when he can figure out who that is. In this one, is it the homeless man, the millionaire or the kid with the green hair?Winslow frequently comments that he doesn't know what he's doing, but in the end he seems like the smartest guy in the room and I'm scratching my head about how he pulled it off.  Fun and satisfying. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hooked on Steve Winslow </p>
+
+
+<h2> review.date </h2>
+  01-15-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed this book as I have of the other Parnell Hall books I have read. I would recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The underground man </p>
+
+
+<h2> review.date </h2>
+  05-10-2013  
+<h2> review.text </h2>
+
+ <p> I am a great fan of the Steve Winslow Mystery series and Parnell Hall keeps you wondering whodunit until the last page.  Great read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Parnell Hall has done it again </p>
+
+
+<h2> review.date </h2>
+  05-14-2013  
+<h2> review.text </h2>
+
+ <p> Good read. I,ve come to expect that from this author. Not fond of the blasphemous exclamations through out but that is his choice. You always get a cool ending with Parnell Hall and and Underground man is no exception. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jerry </p>
+
+
+<h2> review.date </h2>
+  07-16-2013  
+<h2> review.text </h2>
+
+ <p> Boy can steve get into trouble...he does it with both feet and than wades out slowly...this man could give a reader ulcers.  If I wasn't so caught in finding out how it ended I would have put it away for my health.....loved it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow </p>
+
+
+<h2> review.date </h2>
+  03-23-2013  
+<h2> review.text </h2>
+
+ <p> This was a great ending although it did slow down in the middle of the book.  Parnell Hall has a great abiity to write cliff hangers.  Like the relationship he has developed between Steve and his P.I. Mark Taylor </p>
+
+
+<h2> review.summary </h2>
+
+ <p> lots of plot twists </p>
+
+
+<h2> review.date </h2>
+  04-13-2013  
+<h2> review.text </h2>
+
+ <p> i like this author's unique story lines and I like the Winslow character.  Indeed, I think Hall's forte is his character development.  He's also very good at bringing the reader into the story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unique </p>
+
+
+<h2> review.date </h2>
+  06-08-2013  
+<h2> review.text </h2>
+
+ <p> This story may be the best book so far in the Steve WInslow series. Although I was not surprised by the ending it was entertaining and tied up all the loose ends. His other book endings seemed a little farfetched and hurried but all the books are worth the read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable </p>
+
+
+<h2> review.date </h2>
+  04-20-2013  
+<h2> review.text </h2>
+
+ <p> To reward myself with a book purchase is good. To add to my collection of Parnell Hall books is great! To put the book in my Kindle is wonderful. to have it turn out excellent is superb! To know more are available is mind-blowing pleasure!To be in control of my pleasure is awesome! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yes! </p>
+
+
+<h2> review.date </h2>
+  02-24-2013  
+<h2> review.text </h2>
+
+ <p> I kind of figured what was happening through the story. I liked the writing and the story. There was some drama with the detective he uses. I just wish there were more Steve Winslow stories to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great Steve Winslow story. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

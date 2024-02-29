@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000E8BGCO <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-11-2013  
+<h2> review.text </h2>
+
+ <p> What else can you say about a cable?  It works, came in the color and length I ordered it in. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> As advertised </p>
+
+
+<h2> review.date </h2>
+  02-14-2013  
+<h2> review.text </h2>
+
+ <p> Not a great product.  About a month after I got it, the plastic started cracking and peeling so the wiring started showing through on the ends.  The cord just plugs into my laptop which sits on my desk and doesn't move.  The router is in another room so I needed a long run.  Even if I were moving the laptop you would expect this cord to last longer.  I still use the cord since I paid for it but the quality is very low. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Low quality. </p>
+
+
+<h2> review.date </h2>
+  06-09-2013  
+<h2> review.text </h2>
+
+ <p> Plugged right in and there ya go, off to internet connection and Play Station 3 surfing!  OOPS, told to add 4 more words....Fe Fi Fo Fum....  lol </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Did the job </p>
+
+
+<h2> review.date </h2>
+  12-05-2012  
+<h2> review.text </h2>
+
+ <p> Echoing the sentiments of other reviewers, I can't believe I waited this long to stop overpaying for cables of any kind. For my use, this cable does the job as well as cables selling for much more, so why throw away the extra money? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Deal! </p>
+
+
+<h2> review.date </h2>
+  05-26-2011  
+<h2> review.text </h2>
+
+ <p> Works as expected and much cheaper than ones found in local stores. Used to connect a Mac Mini to a Cisco network switch where the jack was part way around the room and I needed to hide the cable somewhat on top of a white conduit. No problems at all but only running 10Mbit Ethernet so that shouldn't tax it very much. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfectly good cat5 cable </p>
+
+
+<h2> review.date </h2>
+  11-22-2009  
+<h2> review.text </h2>
+
+ <p> It works as it is supposed to and for the price is a good value, I have my netflix set up with this and it works good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works great </p>
+
+
+<h2> review.date </h2>
+  03-18-2013  
+<h2> review.text </h2>
+
+ <p> The item initially worked great, but after only 3 months of owning 2 of these cables, they are starting to fray and split open. Disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cheaply made </p>
+
+
+<h2> review.date </h2>
+  12-25-2013  
+<h2> review.text </h2>
+
+ <p> I used for my home network as I wanted a hard wire in addition to my wireless setup - works great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent home cable </p>
+
+
+<h2> review.date </h2>
+  07-28-2013  
+<h2> review.text </h2>
+
+ <p> I have a very hard time paying retail for simple cables.  This one does everything a store brand cable does without unnecessary packaging and excess cost. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Cable </p>
+
+
+<h2> review.date </h2>
+  05-21-2011  
+<h2> review.text </h2>
+
+ <p> It is just a little bit longer for my home but is if fine and now I have my Internet up and running </p>
+
+
+<h2> review.summary </h2>
+
+ <p> RJ45 Ethernet Network Cable 50 ft </p>
+
+
+<h2> review.date </h2>
+  04-12-2012  
+<h2> review.text </h2>
+
+ <p> I used this cable outside from my telephone box, running under my roof overhang, down to another part of my house into my living room. I know this isn't rated for outside use, but it held up fine for the year  plus that I used it for my DSL. Eventually I got cable internet and took this down.The only reason I took off one star was due to a comment and a picture another user posted regarding the individual wires not being twisted as they should be in CAT5 cables. I didn't look to see if mine were twisted, and I don't quite know the implications of this (or if there would be any for a casual user), but it may be something to keep in mind.If you need this for casual use or are not bothered by the chance the wires may not be twisted, I'd definitely recommend it. Hope this was helpful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Used outside for over a year with no problems </p>
+
+
+<h2> review.date </h2>
+  01-07-2012  
+<h2> review.text </h2>
+
+ <p> I ordered two of these cables.  To my surprise, they arrived much sooner than the quickest estimate, having been shipped by priority mail w/confirmation.  Each cable came in it's own poly bag, stuffed inside a priority mail envelope.  The priority mail envelope was pretty beat up, but the poly bags with the cables inside were pristine.I suspect the damage to the priority envelope was a result of putting two cables into one priority mail envelope.  HOWEVER, I am still giving a five star rating. A quality product at a great price!The cables are very flexible, which is good for me, because they were very easy to install up and around doors.  I'd definitely order again from this company, but more than likely, if I had occasion to order more than one cable, I'd probably order them separately, in order to avoid a "stuffed" envelope. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great! </p>
+
+
+<h2> review.date </h2>
+  09-19-2010  
+<h2> review.text </h2>
+
+ <p> Great Price, shipped fast and in good condition.Kenneth McCormickWebmasterAbout Facts Net </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product for the price. </p>
+
+
+<h2> review.date </h2>
+  02-17-2010  
+<h2> review.text </h2>
+
+ <p> A LAN/ethernet cable will always beat wireless in speed AND security--and Amazon prices are less than half the cost at any discount store you are likely to find--but--by the same token Cat6 cables via Amazon are so cheap you might as well spend a bit more and get the best--whether you need it right now. Just read the reviews and make sure you get a &#34;genuine&#34; cat6 cable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good cable but cat5 is obsolete--spend a few dollars for a cat6 cable. </p>
+
+
+<h2> review.date </h2>
+  01-21-2012  
+<h2> review.text </h2>
+
+ <p> These were shipped quickly and exactly what I needed for my office. I had rearranged my office and needed a long, white cord to blend against my baseboards. I would recommend this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly what I needed </p>
+
+
+<h2> review.date </h2>
+  11-29-2011  
+<h2> review.text </h2>
+
+ <p> Well, there really isn't much to say about the cord. It works. However, I put it underneath my carpet, and when I took it out from under it to rearrange the location of my router, I found that the cord had been split open. It still works, but the casing on it is broke. Fair warning. Four out of five, just because the casing is split open. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does it's job well. </p>
+
+
+<h2> review.date </h2>
+  01-31-2013  
+<h2> review.text </h2>
+
+ <p> This is the package that gets you a wired connection from one or two rooms away when your wireless won't do. OR maybe you don't use wireless, want more security, this will get you around the house quite a ways. Good quality build too </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 10connects outta ten&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; </p>
+
+
+<h2> review.date </h2>
+  01-17-2013  
+<h2> review.text </h2>
+
+ <p> Not too much to say about this. It's a CAT5 cable, it's 50 feet long, and it works. It allowed me to hide my home server away out of site. It is a rather flimsy cable though, definitely no shielding in it, which I knew ahead of time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's a cable. </p>
+
+
+<h2> review.date </h2>
+  06-07-2012  
+<h2> review.text </h2>
+
+ <p> This item was exactly what I ordered. It came on time and it works well. I am happy with my purchase. 2 thumbs up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  11-27-2012  
+<h2> review.text </h2>
+
+ <p> It works but there is no label on the cable to show me it is 5E and not cheap 5 but anyway i purchase  6E now for gaming </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works but not sure its E </p>
+
+
+<h2> review.date </h2>
+  01-05-2013  
+<h2> review.text </h2>
+
+ <p> using to connect something of importance and it proves worth buy, if I were to buy in store 20 times the amount </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works </p>
+
+
+<h2> review.date </h2>
+  07-29-2007  
+<h2> review.text </h2>
+
+ <p> If you need a long connection, you can pay easily upwards of $30 in a local store, but why pay more to get a molded plug 50 ft CAT5e cable?  Even with shipping, it still saves one a lot of money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Why pay more? </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> It was cheap so I guess a 1 year lifetime might be expected... Ordering 2 this time incase it fails a year from now... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stopped working </p>
+
+
+<h2> review.date </h2>
+  03-23-2013  
+<h2> review.text </h2>
+
+ <p> The little tab which is suposed to lock it in releases or comes loose if the unit moves, not snapping firmly in place like the high bucks cables. Would not use in a school or kids room at all or around gamers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK for never moving installations only! </p>
+
+
+<h2> review.date </h2>
+  11-08-2010  
+<h2> review.text </h2>
+
+ <p> You can find cheaper cables here on Amazon, but this one has superior quality. I am not finding it hard to connect or disconnect the cable from the computer as mentioned by other users - the white protective hood is soft and it's easy to press and click it out (maybe a design change?).I like that the connector housing is a bit larger and sturdier as it gives some space between the cord and computer and prevents it from getting all twisted up as I drag the laptop around (I didn't get the 50ft cord to sit still)Overall, very happy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> High Quality cable </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

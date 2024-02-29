@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0000C89IU <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-06-2006  
+<h2> review.text </h2>
+
+ <p> Season two is definetly where the stories take off. Wonderfully funny and emotionally moving, all in one great set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best so far </p>
+
+
+<h2> review.date </h2>
+  12-15-2011  
+<h2> review.text </h2>
+
+ <p> I eagerly await the others to be released!  I only have the first 4 Seasons.  But, they are good and I can't wait to see what happens in the other season.  As always, it is very quiet and relaxing to watch these shows ~ love them to death! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Enjoyable and Relaxing! </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> It is for the whole family type movie...with good values and the characters are real and they are very entertaining to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Road to Avonlea Season 2 </p>
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> got started and had to get all seven seasons </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  05-16-2010  
+<h2> review.text </h2>
+
+ <p> My library ordered this, but the third disc has episodes 6, 7, 8, 9 from Season 1!!!!! What a mess. I am going to suggest that the library send it back. Check your box if you order this! Yours might be wrong also! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wrong Disc </p>
+
+
+<h2> review.date </h2>
+  08-29-2008  
+<h2> review.text </h2>
+
+ <p> This product was exactly what I was hoping for and there was absolutely no problems! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful! </p>
+
+
+<h2> review.date </h2>
+  04-22-2007  
+<h2> review.text </h2>
+
+ <p> I loved this series when it was on.  I watched it while I was in college and back then the Disney Channel was a premium station so I paid extra for it just so I could watch this show.  These sets are just too expensive.  I guess not enough people buy them to make it possible for the producer to offer them at the lower price you see for other TV series but I think a lot more people would buy them if they were priced lower.  I know I would! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too expensive! </p>
+
+
+<h2> review.date </h2>
+  10-14-2009  
+<h2> review.text </h2>
+
+ <p> the second season of Road to Avonlea is just as lively and full of character and spunk as the first one. the first season ended with sarah deciding to stay in avonlea with her family instead of returning to Montreal with her father, and the second season takes up where the first left off. this season focuses on allowing the audience to acquaint themselves with the residents of avonlea, instead of using the people of avonlea to develop sarah's character, which is what i felt the first season did more. in many of the episodes sarah doesn't play an inciting role as she did in the first season, she's just more along for the ride here, which unfortunately forshadows future seasons. i personally most enjoy the episodes that focus on the king family, and while i value and enjoy the time given to going into the lives of some of the other town members, i wanted the story to focus more on the king children/ adults. i loved marilla and rachel in anne of green gables, i already know who they are and have watched the anne movies enough times over to have familiarized myself with their personalities and dynamic. seeing them in road to avonlea is nice and provides familiarity, but i find that i don't really enjoy the episodes focused on them as i do when they're just side characters as i already know who they are.but the focus on other people provides the viewers with an outside perspective of the king family. this is one of the reasons this show is so rich and intricately woven. the story isn't told from just one perspective, but from many perspectives. so one minute we are seeing from the perspective of one person, and the next from another who shows us a different perspective on the first person. so for example, if we were to see from hetty king's perspective, we would see her pride and sense of honour and need to do what's right, but from say, rachel lynd's perspective, or many of the other town's people, even sarah sometimes, hetty is stubborn and heartless and cares only for the king name. so we get two sides of the story.this is as good, if not better than the first season as the children are a bit older, and therefore a bit better at acting, and the chatacters and story are fleshed out a bit more. great continuation </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great </p>
+
+
+<h2> review.date </h2>
+  05-08-2013  
+<h2> review.text </h2>
+
+ <p> My husband introduced me to Anne of Green Gables after we were married...his sisters made him watch it over and over growing up. I loved it! I then remembered my Grandma watching a show called Avonlea when I was a kid, I never sat down and watched it with her...but after seeing the Anne movies I had to give them a try. When I saw how much they were I decided to rent some first. We rented season 1 and 2 and my kids (2, 4, and 6 at the time) and I loved them! I love all the RTA seasons even more than Little House. We own all but one of the seasons now...but we will get it next month! I watch these over and over with my kids, my five year old son even loves them. He thinks Felix and Gus are so cool! I would say from a conservative Christian perspective that there were a few episodes (out of all the seasons combined not out of each one) that I wont show my young children until they are older. I just put a sticky note on the outside of the case to remind myself which one I don't want them to watch. Some episodes in this series the children are quite naughty, but it makes for good discussions with my children afterwards. Sometimes Amazon's price is good...sometimes not. Season 4 I bought from Amazon but Season 3 I found a better deal on ebay.. I bought the HD ones and mine are great quality...I hate the case though, I put mine into clear DVD cases of my own because I felt like I was going to scratch them taking them in and out of what they came in. These are the cases I use http://www.amazon.com/Memorex-Slim-Video-Storage-Cases/dp/B0001MKU48/ref=wl_it_dp_o_pC_nS_nC?ie=UTF8&colid=WMJ1V2M7LYW&coliid=I2ZC05DAKRKRW4 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Favorite series ever </p>
+
+
+<h2> review.date </h2>
+  05-06-2013  
+<h2> review.text </h2>
+
+ <p> I love the Anne of Green Gables series and this is a nice spin off to the series.  Great for families with children. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it </p>
+
+
+<h2> review.date </h2>
+  04-22-2010  
+<h2> review.text </h2>
+
+ <p> The DVDs were great but the box was all broken apart.  Enjoyed the series though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Road To Avonlea Season 2 </p>
+
+
+<h2> review.date </h2>
+  06-02-2014  
+<h2> review.text </h2>
+
+ <p> My sister likes this series so I bought it for her as a gift.  She can watch it on DVD now, when it's not available on TV. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gift for My Sister </p>
+
+
+<h2> review.date </h2>
+  01-24-2013  
+<h2> review.text </h2>
+
+ <p> Its rare to find shows now a days that don&#8217;t have swearing, sexual content or violence. Its refreshing to watch shows like this and the Anne of Green Gables series. I highly recommend this series to any family who has values and likes to sit down as a family to watch TV that is appropriate for all ages. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just as Great as Season 1 </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> I bought this (and all the other seasons) as a present for my mom. She loves it! The sets made in Canada were better processed than the one set Disney put out. There are a few missing episodes in the first season on both the Disney and the Canadian but the Canadian is much better processed. The only complaint is in the packaging. The discs are hard to get out. Otherwise, this series is well worth the ticket for admission. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Present I Ever Bought!!!! </p>
+
+
+<h2> review.date </h2>
+  07-04-2014  
+<h2> review.text </h2>
+
+ <p> They did a wonderful job with the people they picked to play the different characters in the Road to Avonlea series.  I am not afraid something will all of a sudden be put in there that I cannot let my grandchildren see.  I laughed at several scenes because they are so real when it comes to family.  Would I recommend this for family viewing?  The answer is yes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Road to Avonlea  truly family friendly </p>
+
+
+<h2> review.date </h2>
+  09-25-2007  
+<h2> review.text </h2>
+
+ <p> I loved every minute of it. The actors are terrific.  Although it is expensive. It is well worth the price. Highly Recommend Season 2. I enjoyed it as much as I enjoyed Season 1. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth every penny............ </p>
+
+
+<h2> review.date </h2>
+  12-27-2010  
+<h2> review.text </h2>
+
+ <p> Looking through the Amazon listings for the "Road to Avonlea" series can be a little confusing, if you're trying to figure out exactly which edition of the series you're getting.The programme is slowly being re-released on DVD by the Sullivan company in a new edition described as a "widescreen hi-def digital restoration."  Well, that's all to the good, but please keep in mind that these are NOT high-definition Blu-ray releases.  They are standard DVDs which will play on any DVD machine.  I think it's extremely misleading to use the term "HI-DEF" in the promotional material.That said, these new releases are vastly superior to the old DVD sets, which had terrible quality-control issues and generally looked dreadful, with picture quality so grainy that the episodes looked like they were shot through a screen door.  The new transfers are very clean and sharp, and presented in a 1.78:1 aspect ratio---fitting the screen width of modern widescreen televisions.  Now, the series was shot on 35 mm film stock, which has an aspect ratio of 1.33:1.  So, these new releases do re-frame the picture slightly, cropping a bit off the top and bottom of the film frame.  However, I've done frame-to-frame comparisons of the old and new transfers, and I see that while there is a little cropping at the top and bottom, at the same time on the new version there is a little more picture visible on each side of the frame (which had been cropped off in the original release).  So, it's a bit of a trade-off in terms of how much of the picture you're getting, when comparing the old and new versions.  But the quality of the new transfers is so extremely superior to the old, I can't say I mind missing that tiny bit of picture from the upper and lower portions of the screen at all.A quick way to tell which edition of the series you're buying, is to look at the covers.  The new transfers have a wide bar of solid colour running across the top of the DVD case, with "Road to Avonlea" printed in large capital letters.  As of this writing (December 2010), the first three seasons have been re-released in this new format, and I do hope the remaining seasons will follow, as this is an EXCELLENT series! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Technical note </p>
+
+
+<h2> review.date </h2>
+  07-17-2010  
+<h2> review.text </h2>
+
+ <p> Wonderfull now in HD and in WideScreen!And about the fellow who wrote the review:  "Warning, do not purchase! this package is factory error. the third disc in this pack looks ok with correct writing on it, but when you watch it, it is actually the third disc of the first series."  I ignored his warning and purchased this set anyway.  And the DVDs were correct!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful in HD and WideScreen! </p>
+
+
+<h2> review.date </h2>
+  08-19-2006  
+<h2> review.text </h2>
+
+ <p> Charming children and adults get into fun predicaments.If you liked "Little House on the Prairie" or "Anne of Green Gables"; you should like this. Seasons 1-6 are excellent.Beautiful scenery, period costumes and sets, pretty dresses, farm, horses, a little humor, realistic characters, likeable characters, lively pace, and inviting activities, carry you to a nicer place.This season has some interesting episodes:~Michael York guest-stars in two episodes as a mysterious, sea captain in search of buried treasure ("All That Glitters").~"Old Quarrels, Old Love", about the rivalry and friendship of Rachel Lynde and Hetty King has an excellent ending that is subtle and touching; without words, yet moving.~Sarah's cousin comes to visit; famous stage actress, Miss Pigeon Plumtree; a melodramatic episode.~There's lots of humor in the episode, "A Mother's Love" (writer: Suzette Couture) where Sarah leads Felicity to believe she was switched at birth with a girl of a poor family.Mr. Sullivan spared no expense to create warm and humorous escapades.This series has been my best money value; dividing the 13-episodes by the cost: $5113 episodes = $3.92 per 46-minute episode. Sells new in Canada for $80. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Charming. </p>
+
+
+<h2> review.date </h2>
+  03-09-2013  
+<h2> review.text </h2>
+
+ <p> This set was a bit long in getting to me but I was very pleased with it and used it as a gift! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Avonla DVD </p>
+
+
+<h2> review.date </h2>
+  06-22-2013  
+<h2> review.text </h2>
+
+ <p> My mom loves the series so much that she has started to watch them with the whole family. Easily likable characters and fun story lines, you will want to collect the whole series. I know my mom will. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My mom loves the series </p>
+
+
+<h2> review.date </h2>
+  01-30-2014  
+<h2> review.text </h2>
+
+ <p> It's so hard these days to find good stuff for the whole family to spend time to watch together another great series so glad I neally have them all.....AAAA++++ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love the stories </p>
+
+
+<h2> review.date </h2>
+  08-19-2013  
+<h2> review.text </h2>
+
+ <p> I recently got hooked on road to avonlea this summer and it's an incredible series! I absolutely love this season-the acting and scriptwriting keeps getting better! I'm looking forward to buying season 3. Anyone who loves Little House on the Prairie or Anne of Green Gables of course, will love this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love this series! </p>
+
+
+<h2> review.date </h2>
+  11-21-2010  
+<h2> review.text </h2>
+
+ <p> Watching this series truly brings to mind my own childhood where I used to have many happy adventures with my friends in our small town. In this second season, young Sarah Stanley & her friends find more adventures, with the introduction of some new characters.The episodes in this season are:Sarah's Homecoming : Sarah returns to Avonlea after a family tragedy. A sad episode.How Kissing was Discovered : the blossoming Felicity King pines for love, and suffers a crush... also we are introduced to a new character, a young man who has a sad past.Aunt Hetty's ordeal : Hetty King is visited by her old rival, Ms Stacey [the very same Ms Stacey, Anne's mentor in Anne of Green Gables]Of Corsets, and Secrets, and True, True Love: Rachel Lynde, and an old flame? Marilla takes in two orphaned relatives, much to Rachel's chagrin, and the ensuing pandemonium is hilarious.Old Quarrels, Old Love: Hetty King and her old beau are reunited. A sad episode.May the Best Man win: Olivia King is wooed by two men, the reliable Jasper Dale, and the pompous ex-beau who abandoned her once before.Family Rivalry: The other King sibling returns for a brief visit,but things are not all rosy with the King clan.The Sea Ghost : Michael York plays an old seaman here.Gus Pike's past returns to haunt him.All that Glitters : the possibility of hidden treasure on the island proves too hard to resist for Sarah, Gus and friends.Dreamer of Dreams : focuses on Jasper DaleIt's Just a Stage: Sarah's aunt, a famous stage actress comes to visit, with unsettling consequences.A Mother's Love: does one have to have experienced childbirth to be a 'real' mother? Avonlea is abuzz with the essay competition for Mother's Day.Misfits & Miracles: Ms Stacey brings a directive that the Avonlea school is to field a hockey team, and Sarah tries to learn how to skate. Also, the theme of development in the town is highlighted here.The second season is as good or even better than the first. The storylines flow smoothly, and the acting is excellent. We also notice the development of some of the characters, such as Gus Pike, whose story is developed this season. Olivia and Jasper are edging closer to being more than friends, and Sarah is truly at home in Avonlea. This is one of my favorite television series, and reminds me of a much more innocent time, when children truly lived their childhoods, and where good values were treasured and honored. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My favorite family series of all time! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

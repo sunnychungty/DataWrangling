@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1935733044 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very Practical and Immediately Applicable </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Author, Mary Kelly, PhD has made a unique and valuable contribution to the study and practice of leadership with this book, "Master Your World, Ten Dog Inspired Leadership Lessons."I've long believed that training and experience in parenting are extremely valuable for managers. However, since I haven't had a pet since I was about 16 years old (a pair of horses), the notion of applying animal training principles to managing humans had not occurred to me.Kelly is a retired commander in the U.S. Navy who taught economics and management at the U.S. Naval Academy for 21 years. She also trains dogs and horses and is currently the coach and officer in charge of the equestrian team at the U.S. Air Force Academy. In "Master Your World" she has distilled her experience in training animals and military cadets into a practical, how-to guide for managers.She makes the management principles memorable by using examples of animal behavior. For example, if you have dog as a pet, does it respond better to a scolding voice, or a to a cheerful voice combined with a dog treat or dog toy? No one who has experience with dogs would expect to consistently illicit desired behaviors from a dog thru scolding. The thought rings as silly as pounding one's head on the wall. Why, then, do managers and parents often scold, criticize, and provide "feedback", to people and expect better results? Perhaps because humans are "smarter"? If humans are smarter, they are likely to tolerate those behaviors less, not more, than dogs. Kelly uses these examples from animal training to indelibly make her points.However, lest you think Kelly has little experience applying these principles as a manager of humans, remember that as a commander in the U.S. Navy, she has managed military organizations of hundreds of people, such as the Barbers Point Naval Air Station security department where she was essentially the chief of police. She also taught thousands of Navy and Air Force cadets. That experience is what apparently drove Kelly to make this book extremely practical and immediately applicable to on-the-job situations.As with all good business books, this book should be read a little bit at a time, so the reader can apply the principles one-at-a-time. This is a very useful book that should not just be read and then forgotten. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A book surprisingly more effective than it's cute analogy </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Using the dog analogy throughout the book, writer Mary Kelly creates and executes scenarios of people management, both as a boss and an employee, that demonstrate how an effective and fulfilled social unit performs. I found myself in agreement when she pointed out how to do things from an employee perspective. Anyone who spends time around dogs understands the alpha position isn't exactly the most desirable one. The alpha dog often seems to wonder how he got the job. That aligned me with Mary Kelly as leadership is often about following subordinates, and letting them tell you when to duck. Get this book. It has very insightful, if playful lessons. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One of my top ten favorite books! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's such a great read,that I've read it 3 times.Being a canine lover makes me love this book even more. Unless you are completely closed off to self-improvement, it is impossible to read this book and not have some major perspective-shift in the days after. Thanks to this book, I have found myself to be more productive & I have gotten better with managing tasks at work. I am really glad that I came across this. One of my top ten favorite books. Highly recommended to everyone. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Manager's New Best Friend </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The cover of this book immediately caught my attention as a dog owner. I became more and more engrossed with each chapter as I found Dr. Mary Kelly's views on leadership really resonated with me. Having recently been promoted to a management position within a small but growing business, Master Your World was exactly what I needed to get in the right frame of mind to lead and motivate my team.Unlike so many dry, tedious books on leadership, Master Your World has a humor that keeps the pages turning. By the end of the book I felt prepared to handle the responsibilities my new role entitled. I am now able to show appreciation and motivate my team in a way that will not only boost their performance and productivity but also increase their happiness as well. In addition, I feel like I now have the confidence of a public speaker when meeting with my team.All in all, Master Your World is a must read for anyone interested in productive leadership! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Life Lessons from a "Master" </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-29-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very enjoyable reading that any dog-owner can relate to!  More importantly, these lessons apply not just to leaders, but in dealing with others in everyday life.  Although I am no longer in a management position, I believe that these lessons will help me in dealing with clients in my day job, and other volunteers in my committee roles.  Mary's approach is very practical and hands-on which appeals to me much more than the typical leadership philosophy books out there.  I sat down and wrote a "thank you" note the same day I finished the book!  Thank you, Mary, for giving us these terrific life lessons. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Master Your World, Master Your Life... </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> A great book... Brilliant tools, tips and analogies.The analogy of how Mastering ones pet whether we like that analogy or not, truly does apply in life.Mary C Kelly gives simple, easy tools that anyone can apply right away in there lives that they can master.Carly Alyssa Thorne </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Master Your World </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-31-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved this book.  Learning leadership skills is not exactly the easiest thing to do and so many books on the subject are dry and hard to put in practical terms.  But, Mary has done something brilliant with Master Your World.  With my Avon business, I need to learn leadership skills, but in order to learn, I need to be able to relate to the material.  Nothing appeals to me more than dogs, and I understand dogs.  So, I felt certain that this book was going to teach me a great deal about leadership.  It most certainly did.  Not only is it very educational, but it is also very entertaining.Now, you don't have to be a dog lover to appreciate the leadership lessons in Master Your World.  Mary has just simplified the concept of leadership and put it in terms that anyone can not only understand, but put into everyday business practice.  Drawing parallels with dogs and how they learn from their "packs", human and canine, makes it possible to learn practical leadership skills that we can put to use in our professional lives.  I highly recommend Master Your World whether you own an Avon business or you are a CEO of a major corporation.  Mary is a fantastic teacher and I have learned so much from her already, but I will turn back to this book often as my business grows.  I must continue to learn and grow along with it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My cat even liked this one... </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Mary Kelly is a master of motivation.At first, you might be put off by the comparison between team members and dogs...but don't let that stop you! Mary has a wonderful sense of humor and makes a compelling case for leading productive teams in a way that really works. Beyond the great content, it's clear from the examples that the author has truly lived what she shares.If you're a leader who's frustrated at your team, I highly recommend Mary Kelly's book. You won't regret it (even if you've never been a dog person.)David Dye, author ofThe Seven Things Your Team Needs to Hear You Say </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Valuable Book on Leadership </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-16-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Well, if you're a dog-owner and a leader, you are going to love this book!  Master Your World: 10 Dog-Inspired Leadership Lessons to Improve Productivity, Profits and Communication, delves into the practical issue of leading people, and hoe to do it successfully; whether you are a top commander in the army, a CEO of a fortune 500 company, a budding entrepreneur, or operate a small business, the principles in this book will yield immediate results.The author does an excellent job of helping people to maximize their fullest leadership potential, as well as to inspire employees to do and be their personal best. I am a firm believer that when we inspire and motivate others to unlock their inner potential, by offering solid, truthful, productive feedback and offering resources for professional development, the sky is the limit to what a strong leader can accomplish.  The authors approach is straightforward and she offers productive, hands-on tools that you can apply instantly.  I would highly recommend this book for new seasoned leaders, as well as aspiring leadership professionals. This book is packed full with valuable information. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Terrific Read </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Master Your World makes leadership fun. Mary explains the 10 leadership lessons with interesting and funny stories, and even people who don't read very much will happily devour this book.  This book is a terrific read for anyone who wants to improve how they work with others. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Leadership Now </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-22-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Mary's book is insightful and organized to let you take action right away.  If you like dogs and have to interact with people in you life--this is a great book for you to read.  [...]Speaking Your Truth: Courageous Stories from Inspiring Women (Volume 3) </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1883402468 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-19-2000  
+<h2> review.text </h2>
+
+ <p> The minor stretches to Holmes' character are forgivable, as is the lack of Watson. As a Sherlockian and a Phantom fan, I felt this book was wonderful. The author flawlessly enters a new character into the Phantom saga.  Sherlock Holmes and Erik(the Phantom) are written with such depth and give  out so much emotion that by the end of this book your eyes will not be dry.  The dialogue between the two geniuses is not to be missed. A welcome  read  to the fans of Erik and Sherlock alike. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Corny premise, awesome book </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> As a fan of Conan Doyle and Leroux, I was delighted when I discovered this book years ago. It's since become one of my favorite novels. Siciliano does an excellent job of keeping to the spirit of his source material, the characters remain true to the originals, and it's a great story. I highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of my favorite books </p>
+
+
+<h2> review.date </h2>
+  12-09-1999  
+<h2> review.text </h2>
+
+ <p> As a &quot;Phantom&quot; fan, I found this to be thoroughly enjoyable.  A couple of twists made the ending a bit of a surprise.  Thanks to Sam Siciliano who brought Michael Crawford's version of the Phantom to life and  gave us an ending his Phantom deserved! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very entertaining and highly enjoyable reading </p>
+
+
+<h2> review.date </h2>
+  11-09-2002  
+<h2> review.text </h2>
+
+ <p> This was an intersting read.Very well written and I liked it on the whole.The only disapoinment was I found the ending but other then that it was great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Well Written </p>
+
+
+<h2> review.date </h2>
+  11-21-1998  
+<h2> review.text </h2>
+
+ <p> I've just finished reading it yesterday, and I couldn't put it down. I haven't read &quot;The Phantom of the Opera&quot; yet, but I've got the film with Burt Lancanster on tape, and I had no problems following the  storyline of the Phantom. I higly recommend it to others. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I couldn't put it down! </p>
+
+
+<h2> review.date </h2>
+  07-18-2009  
+<h2> review.text </h2>
+
+ <p> What if two of the greatest minds duel mentally? And two of the greatest egos fight for dominance of that title? I found the premise to be too tempting to resist and I was not disappointed with the outcome and all the events leading up to it.I learned a great deal about the Opera House, the 3rd main character and found the book very educational in that sense.As a lover of both Sherlock Holmes and The Phantom of the Opera, I was only slightly dismayed with Sherlock's character portrayal by his cousin, but it did not really detract from the story. For Phantom lovers, it gave a very satisfactory ending to the story. For those who have read all of Sherlock Holmes, it is a welcome book. To those that cannot get enough of the Phantom's story, it is a must read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Romantic Reader's View </p>
+
+
+<h2> review.date </h2>
+  03-24-2008  
+<h2> review.text </h2>
+
+ <p> I absolutely loved this tale!  Mr. Siciliano has done justice to not only a much loved detective, but our Opera Ghost as well.  If for nothing else, this is a wonderful romp, and will keep one entertained!  It is always nice to find a different take on a much loved story, and this is it.  I even learned what lime light is all about!  Bravo Sam Siciliano!  I believe M. Leroux would be pleased! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sherlock meets Erik </p>
+
+
+<h2> review.date </h2>
+  07-06-2008  
+<h2> review.text </h2>
+
+ <p> Following the conclusion of his latest case, Sherlock Holmes, along with his cousin, Dr. Henry Vernier, agrees to look into the mysterious events taking place at the Paris Opera House.  Closely following Leroux's original, Holmes and Vernier are witnesses to Christine's disappearance, the falling of the chandelier and other events, as they try to discover what or who is behind all of them.I found this to be a very satisfying story, both from the point of view of a POTO and a Sherlock Holmes fan.  Be forewarned, however, that there is more Holmes than Phantom in this book.  This well written novel's fast pace is maintained throughout, holds one's interest and has a twist at the end.  The dialogue was easy to read, in fact, I finished the book in one afternoon.  It is a welcomed addition to my POTO collection and I definitely recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can the Phantom hide from Sherlock Holmes? </p>
+
+
+<h2> review.date </h2>
+  02-01-2005  
+<h2> review.text </h2>
+
+ <p> This book was actually quite enjoyable (even though I consider myself a Holmes and Phantom of the Opera purist....).  I was actually thrilled that this book was published...What more could I want?  Both of my favorite literary characters in one book!  Overjoyed isn't the word!I really enjoyed this book...I loved the way our author kept true to the original characters...and I actually could see this story taking place.  In Leroux's "Phantom of the Opera"....Chapter 20...we hear of a "shade" which is not "he" (The Phantom), but supposedly a detective....who else could this have been other than Holmes....????During the 1890s, Holmes was in his hiatus period...Watson believed him dead (according to the Doyle writings) and could not this "shade" mentioned by Leroux be our beloved detective?  I'd like to think so!It is very unfortunate that this book is now out-of-print!  It is a great read (though with anything that touches upon "classical" writings...there are "mistakes" when comparing it to the original canons; yet most of them can be forgiven!).  If you are still unsure...borrow it from your library before investing in a "rare" out-of-print edition. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sherlock Holmes meets Erik...??? Wonderful!!! </p>
+
+
+<h2> review.date </h2>
+  07-01-2009  
+<h2> review.text </h2>
+
+ <p> I was given the book for my birthday back in 1995, and it has long been one of my favorites. After discussing the book with some friends who are also fans of The Phantom of the Opera, I decided to write and post a review.In The Angel of the Opera, we have an Erik who is more to my liking - not a monster, but a lonely, anguished man who has been shunned by society and who sees in Christine Daa&eacute; his last chance at love. Towards the end of the book, Erik puts it quite well when he says, "There are men who can live alone without the society, the intimacy, of women, but I am not such a man. Knowing Christine has made it far worse. I thought, I truly thought, that she might love me. I can bear my dreadful solitude no longer." How can you not feel for the man?Unlike The Canary Trainer (another PotO/Sherlock Holmes crossover, this one by Nicholas Meyer), this story follows Leroux's original much more closely with some necessary changes made to include Holmes and his cousin, Henry Vernier. No, there's no Watson in this one. Mr. Siciliano wanted to give us a more human Holmes than the thinking machine created by Doyle. To do that, he needed to change narrators. He did this by giving us Dr. Henry Vernier, who tells us the Watson's portrayal of Holmes was not quite accurate and that the detective and the doctor did not always exist on the best of terms.In fact, the reason it is Vernier who accompanies Holmes to Paris is that his cousin and Watson have had a falling out at this time. There may be some readers who consider this "Watson bashing," but I don't. To me, bashing is unreasonably insulting a person or a character. What we have here, and in a lot of fan fiction, is what I think of as reinterpreting of a character. Sometimes that reinterpretation can devolve into bashing, but in this case, I don't think so. However, back to the story.The author is well versed in both Holmes and Phantom, and his research shows up in the careful details he has included in his story. One of the first clues that Siciliano knows his Holmes is when he calls a relative Violet Sherrinford. Students of The Great Detective will recognize the name of Sherrinford as that purported to be the name of Holmes's father. And, of course, Violet is a common name throughout the Doyle stories.As for the world of PotO, the author's detailed descriptions of the opera house and its workings are in-depth and necessary for understanding events as they later unfold. He also has knowledge of Brittany, and his inclusion of standing stones near Perros is not something just thrown in for the heck of it. In my own research of Perros and Brittany, I learned that there are many remnants of the regions Celtic past including standing stones.Essentially, the story involves Holmes being called to Paris by the management of the Paris Opera. While there, Holmes makes the acquaintance of PotO's characters. Christine Daa&eacute; is a confused young woman who not all that long ago believed in the korrigans (pixie-like people). Raoul de Chagny is a sometime arrogant young man who can be rather full of himself. Count Philippe is always arrogant (he reminds me of my own version of Philippe in Variations!) The others are all there, too - Meg Giry, Mme Giry, the Persian (who is portrayed in a less than stellar light), and other minor characters.There is another character we meet only at the end of the book, but who is alluded to throughout the story - the love of the narrator's (Vernier's) life, a woman named Michelle. Vernier's observances of the behavior of Christine and Raoul serves as an interesting counterpoint to his own feelings for Michelle, like in a piece of music where two different themes are played at the same time yet compliment each other rather than detract.Holmes and Erik have several excellent conversations. My favorite is at the masked ball. You know, Red Death and all that stuff. Holmes attends, dressed as Quasimodo. (The parallels between Quasimodo's presence in the Notre Dame Cathedral and Erik's in the Paris Opera is brought out several times.) Here is a sample from that exchange:The Red Death smiled, an expression that made him look even more ghastly. "You are amusing, Quasimodo, most amusing, but I do not believe you. Your face is mostly putty.""Your own face blinds you. It is no more real than mine. No faces are real; they are all illusion, constantly changing, all masks. It is foolish to envy another his mask. A mask has no more permanence or reality than anything else in this life."The Red Death stared at Holmes, his eyes aflame. "You would not find that so easy to say if you were to trade places with me, if you had a face even a mother would cringe before." A strange, pained smile pulled at his mouth."I know that. However, although it is something of a clich&eacute;, that which lies under the mask is what counts. Too many fools and villains have the visage of Jove or Adonis.""All the more reason to hate this life, this face, which Fate has bestowed upon me."I could go on, but you get the picture.As for the framing story. In the beginning of the book, we find Holmes and Vernier finishing up a case in Wales, in the home of Major Lowell and his daughter, Susan. Lowell spent many years in India, and married an Indian woman. Susan is the product of that union, and is shunned by society because of her half-caste status. She also suffers from trachoma, which she contracted in India and which has left her mostly blind.You may be able to see where this is leading, and while some readers have suggested that the ending of this book is clich&eacute;d, I found it satisfying nonetheless. Clich&eacute;s would not exist if there were no universal truth behind them. Besides, like all of us, I wanted Erik to find some happiness. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A More Than Satisfying Read </p>
+
+
+<h2> review.date </h2>
+  04-01-2000  
+<h2> review.text </h2>
+
+ <p> There's a hokey premise lurking in Sam Siciliano's "Angel of the Opera: Sherlock Holmes Meets the Phantom of the Opera."On the heels of a disturbing case (the conclusion of which sets the tone and pace for the  rest of the book), Sherlock Holmes and his cousin Dr. Henry Vernier- the  book's narrator and an amiable replacement for Watson, with whom Holmes has  had a falling-out - are summoned to Paris, where managers of the Paris  Opera House have had problems with a mysterious Opera Ghost.Sounds  corny, no?The truth is, it's anything but. Siciliano ably takes Arthur  Conan Doyle's and Gaston Leroux's creations, and weaves them into a story  that is possibly better than those of his predecessors.Vernier and  Holmes share a delightful familial connection that takes way from Watson's  absence as the two traipse through the underdwellings of the Opera House.  It's not hard to imagine the two lurking in the background of Leroux's  novel.With considerable amusement, Siciliano transforms the flat,  supporting characters of"Phantom" into viable human beings.The  object of the Phantom's affections, Christine Daae, is a young woman torn  by conflicting desires. Her lover Raoul de Chagny is a repulsive moonstruck  suitor. Perhaps not Leroux's original concept of the characters, but  infinitely more appealing to the reader.Holmes and the Phantom's  personalities are not altered, but the author presents them in a more  accessible manner than Doyle and Leroux's versions- most likely because of  the era they were written in- allow.They are the Holmes and Phantom we  are all familiar with; at the same time, they are no longer a stuggle to  read.The clash of titans is not so much a battle between enemies as it  is a meeting of equals. Both are masters of their environments, incredibly  gifted and neither is completely at ease with humanity.From the moment  Sherlock receives a warning telegram from the Phantom, neither man has the  upper hand. When they finally come face to face, Siciliano wisely focuses  on the mutual respect that only two of the most popular literary creations  ever could have for each other.Apart, the characters of Sherlock Holmes  and the Phantom of the Opera are adorable. But when thrust together, as  they are in "Angel of the Opera," the results are mesmerizing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mesmerizing . . . </p>
+
+
+<h2> review.date </h2>
+  04-05-2008  
+<h2> review.text </h2>
+
+ <p> In "The Angel of the Opera," Sherlock Holmes is on one of his most challenging cases yet; the managers of the Paris Opera have hired him to reveal the identity of the Phantom of the Opera. As the novel opens, Sherlock and his cousin Henry are in Wales wrapping up a case that began in India with hired thugs, but are soon called to Paris when a mysterious "Opera ghost" starts making demands on the new managers.The novel is narrated by Henry, whose presence is explained in order to fill the rift created when Watson killed off Holmes in an earlier novel. Henry, a doctor, describes both Sherlock's genius and his more human failings (melancholy, his none-too-handsome appearance) in ample detail. Henry and Sherlock must interview both the principal suspects Christine Daae, Carlotta, and the Vicomte de Chagny multiple times, as well as opera employees as they race to uncover the identity of the Phantom.In many respects, Siciliano's novel is a brilliantly rewritten version of Leroux's originalThe Phantom of the Opera: The Original Novelthat incorporates both the strengths of the original, as well as the observant sleuthing abilities of Holmes. Siciliano's descriptions bring the cast of characters vividly to life, and his language is suitable to the historical period of the novel, full of lush details of the opulence of that bygone era. His literary version of the Phantom in particular paints a man of great intelligence and musical genius who has turned into a twisted genius capable of death and destruction, but whose deep need for love and acceptance offer a glimmer of hope for the future (the ending was inspired and in-character for Siciliano's Phantom).The story will be at once familiar for those who, like myself, are avid fans of the Phantom. This, along withPhantom, was one of the first Phantom novelizations that I read, and remains one of my favorites. Even as someone who's never read any Sherlock Holmes novels (my familiarity of the character stems from cinematic portrayals by Basil Rathbone), "Angel of the Opera" is a fascinating hybrid that does justice to two literary giants. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sherlock meets a worthy opponent in the Phantom of the Opera </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00BSY6U8I <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very Good Read !! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a good book with an interesting story line. I love a very strong leading man who falls for a not so strong leading lady. The fact that they can together in the end was excellent. The journey to them getting was fun too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Better than Heart of Obsidian and Tangle of Need but not by much! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Holy god, if I heard about her being submissive and him a dominant one more time...man am I glad this was a novella because I had little patience with Grace's character and Cooper was bland to the point of fading into the background of my mind so I forgot who was courting her at one part and actually asked myself &#34;who is this Cooper guy?&#34;Also, the epilogue is for a completely different story so it's a bit jarring. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another great addition to the Psy/Changeling book world </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I can't think of anything wrong with this book.  The characterization is well written.  The plot and her entire made up world held me to the book.  Well done Ms Singh!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Declaration of Coutship by Malini Singh </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love every series that Nalini Singh has written. I plan to look up her fan club on line when I get time. She has an endless imagination. You have to be able to withstand a certain amount of sex and violence to read most of her books. Not for the tender spirited. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Declaration of Courtship: A Psy/Changeling Novella </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I recommend you read this book, it brings to light how the Changelings interact. It shows how they work out their differences and how they come togther for the good of their pack and gives insight into how the Changelings were raised and the things they over come to have a mate. Great Read. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> love this book... it was great. couldn't put it down </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cooper and Grace one of the great Singh couples!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> First, I want to say that this is how I reviewed this story in the anthology, Wild Invitation. I really admire how they published it again for anyone who did not want to buy the full anthology, which has 2 recycled stories in it.  This is a fantastic stand alone story.  I really hope that this couple gets a story line of their own in an upcoming book!  Cooper and Grace are a couple that could rival Sienna and Wolf, Sasha and Lucas, and even Kaleb and Sahara. This relationship is fresh, with a new challenge not seen before in any of her previous couples.Declaration of Courtship is a BRILLIANT story. It is a lovely look of within the pack without much from the outer world to get in the way. What happens when the most dominant wolf courts the most submissive wolf. This easily could have been a story of a stereotypical insensitive brute courting a stereotypical wimp who needs to be saved from the world. It is not that Grace is a smart, strong, woman who supervises dominant wolfs. She IS a submissive wolf but submissive does not mean weak and passive. Cooper is very sensitive. He walks the minefield of courting her knowing that one wrong move could be fatal to the new relationship. He is looking to mate an equal. She is her equal in the relationship. This is one of her best works to date. I will be rereading and rereading this story.Nalini Singh please bring this couple back!!!  I will even take a short story on your web site!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> hooray for Psy/Changeling's </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> These books on Psy Changeling are filled with excitement and warm feelings, I always look forward to any book containing the people in these stories and want more of the same and in debth about the lives of the previous charisters in previous stories, Interested in their lives. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Smart, sexy and touching. Ms.Singh is at the top of my list because she earns it with every story she writes! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Ms. Singh does it again with her heart catching stories that you just can't put down! Smart, sexy and touching. Ms.Singh is at the top of my list of favorite authors because she earns it with every story she writes! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good story </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the first book I have read from this author and this series.  I think it was a good choice.  The story was sweet and the romance (sex) was not too graphic.  I like the way the author develop the relationship between Cooper and Grace.  I like that the relationship had to developed first before the intimacy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A fun read </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Like the other stories in this series, the novella made for interesting reading and explained sequences that came later, in other stories. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> More of this series </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nalini Singh knows how to make you cry and laugh and sing and want to be apart of this wonderful family of wolves and leopards you can't help yourself but shout when the couples overcome their problems and steam up with the sexy come ons either. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Meh </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Got bored too easily not enough action scenes or drama that usually come from this series. Both main and secondary characters were too expendable in my mind. Could not connect with them at all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Missing parts of the story </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The epilog was not there.  It was a duplicate of the one for Texture of Intamacy.  Don't know if it was an Amazon glich with the Kindle or publishing error. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Always a treat to step into Ms. Singh's world. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This story is a fast-paced and as richly drawn as Ms. Singh's other books even though it's a novella. Easy to jump into the story between Cooper and Grace and hard to leave once I started reading.I finished this book in no time flat. Superb writing and world building is stellar as usual. A highly recommended read to those with a taste for the paranormal romance side of the bookshelf. This story is one you'll enjoy. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

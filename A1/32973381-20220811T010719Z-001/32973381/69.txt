@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B003E65BGK <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> really good for the price </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> it was a great buy! i use it to go jogging in the morning, i have no problem with it, would recommend this item to all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This worked great, and stayed snug on my arm. Did notice a small amount of moisture develop inside after a long run but nothing worth worrying over. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> For petite men and women </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-25-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was so exited to get my husband his new armband for his iPod Touch. I guess that the armband was made for petite men or women because he could barely get it above his elbow.  We will be returning this one and paying closer attention to the next armband that we buy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> armband </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bought for youngest nephew.  It fits around his thigh for now.  He is only five so he has room th grow into it.  Now when he walks he can listen to his own music. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Falls apart easy </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This product was good for the first few uses. After that the armband started ripping and I cannot wear it anymore without worrying about my iPod falling off my arm and breaking. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wow and more Wow! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This item is so amazing!! I run today using it and i'm very happy with this purchase!! Finally my hands are free!! Yeah yeah!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Armband </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bought this for my Ipod touch so I can go running and it works wonders and fits very well even if I sweat a lot!! Also the side pouch to hold your headphones is a nice touch. well worth the price and shipped quick. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Junk.. returned... fits womens wrists ... </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-30-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Junk..returned...fits womens wrists only.. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Product </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Love it. When I clean house or walk or run it stays on my arm and doesn't slip off. I would recommend it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wonderful item </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> when riding my bike or exercising this item is the best. my ipod is safe and secure and right there for me </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice for running </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> My daughter uses this for running with her iPod touch.  Works well for her but takes a little getting used to working through the plastic face.  Ear bud strap on the side is a nice feature so we don't have to search for a pair to use. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Worked well while it lasted. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Haven't been able to get much use out of this.  It is already worn out and the fabric is wearing away and leaving a sharp materal that rubs against my skin and hurts after a workout.  Was the best design I've seen, except it's dificult to get the headphones in the side holder...  But it just didn't last at all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Water Resistant Armband </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really like this product. It's very useful when you're out exercising, and the buttons are easy to press through the enclosure allowing you to continue exercising and not have to stop just to change songs or turn the volume up. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> small....fine for most females </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> a bit small....no stretch to the band whatsoever.  Most men will have to lower the band from their biceps to just above the elbow  to get enough adjustment room.  If they had made it about 4 inches longer and made the material with some slight stretch to it I would rate 5 stars.  I kept it as it's usable above the elbow (getting used to that area now). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Enough </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This product was great. While I would have preferred a little more length in the band(I'm a big guy), once on you barely notice it and it does what it's supposed to do. No difficulty with the plastic cover and the iPod glass touchscreen... it's a worthwhile purchase. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Uncomfortable, plastic cover bulges and shifts over ipod 4's screen </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The strap felt sturdy but it was too uncomfortable to wear and use. Other armbands also have better ways of mounting the armband to the strap. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Purchase </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was an excellent purchase, works great when running. Protects my ipod, and keeps my hand free. Have been using this armband for about 6 months, and absolutely no complaint. (thats 5km runs four times a week.) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works well </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This worked well for my needs.  A nexus five fits well and the touchscreen works while it is in the case.  The only issue is that even though I have a very thin case, I still have to remove it before I use this. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good buy </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> great for summer projects, mowing the lawn, yard work, and even hiking. Just what we were looking for. Much cheaper than the mall price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not as good as I thought </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The Velcro wasn't strong and I couldn't touch my screen through the plastic. It also didn't fit well. Kind of a let down over all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ipod touch 4g Armband </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-29-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have ordered a few different types of these and by far this is the best one I have received. It is comfortable and fits my active lifestyle needs perfectly. I sweat alot at the gym and my arms are always active. So far it has stood up to the wear and tear, I even wear it to work, some days it gets 12 plus hours of usage. Great product </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Holds my iPod while I run </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> It is slightly bigger than my iPod so sometimes I have trouble selecting things on my iPod. The extra space and velcro back is nice. I can put my id card or key in there rather than tying to my sneaker string. It does what it is supposed to do. Overall it is a fine product. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> only one problem </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I like everything except there is one problem. You have to remove it from the case in order to charge it. It works well and is secure. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not good for big arms. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-06-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you wear XXL clothing, find something else.  If you decide to buy it anyway, you'll have to suffice with wrapping this device around the forearm rather than your biceps.  The cloth strap just isn't long enough. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

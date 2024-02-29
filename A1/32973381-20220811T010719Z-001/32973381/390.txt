@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1940161126 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-05-2013  
+<h2> review.text </h2>
+
+ <p> Two of my all-time favorite horror writers together in one pub!  The writing is beautifully tailored, insightful, and deep, which only amplifies the delicious creepiness of the tales. Allen and McKinney are true masters of the craft. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Read this! </p>
+
+
+<h2> review.date </h2>
+  11-23-2013  
+<h2> review.text </h2>
+
+ <p> Not too much to complain about with Journalstone&#8217;s 3rd installment in their Double Down series. This book provides a little different story from Bram Stoker winner, Joe McKinney, and a traditional but very good tale from newcomer, Sanford Allen.In Dog Days from Joe McKinney, we are given a short tale that is part horror, crime, and coming of age. The story begins with a well written atmospheric description and introduces us to someone or something that has a taste for human flesh. I liked this tale as it showed some nice human emotions within a short story. The lead developed and as I mentioned, grew up within one stormy and traumatic summer break.On the flip side of the book, we are introduced to an African boogeyman and a crew of slavers courtesy of author Sanford Allen. This tale is gruesome, fast paced, and shows a nice juxtaposition between a black slaver and his human cargo. I enjoyed this tale quite a bit and loved the familiar creature feature feel to it. This was a well-written story with many bad guys to hate.Nice double feature book and created a few nights of restless sleep for me. I enjoyed both stories and greatly appreciate Journalstone&#8217;s putting together fun books like this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DoubleDown III </p>
+
+
+<h2> review.date </h2>
+  12-06-2013  
+<h2> review.text </h2>
+
+ <p> 4.5 of 5 Stars  Review copyI'm a big fan of JournalStone's DoubleDown series which is modeled after the old Ace doubles.  You read one story, flip the book over and read another.  Plus, there's the idea of pairing an established author with a relative newcomer.  And although the stories are not of a shared world or even shared themes, they generally have something in common.This time it's monsters.  I chose to start with Joe McKinney's Dog Days which begins with a quote from Sir Arthur Conan Doyle's Hound of the Baskervilles. One of my favorite stories as a kid.It's 1983 and the Gulf Coast is in the wake of Hurricane Alexis and a shrimp boat has wound up in an old Pecan tree at the end of the road.  There are people aboard, dead people, eaten dead people.Mark's dad, Wes, is a police officer with the Houston K-9 division, his dad's canine partner, Max, lives with the family which also includes his mom, who is a pediatrician.The best way to describe this story and McKinney's writing style is that it's real. Real people in believable situations and from there the tension just builds.I also enjoyed how the author made his ten-year old hero a reader.  Great line, &#34;But as I read about Tarzan's battles with Kerchak, a real battle, and one far more savage, was raging down the street.  The real horror of that summer was just beginning.&#34;Great story with some definite &#34;Oh, Wow!&#34; moments.The other story is the debut novel from Sanford Allen, Deadly Passage, which starts with a strong opening line, &#34;The beast climbed down its gnarled tree by cover of night.&#34;  I'm hooked.Most of the action takes place on a slave ship, the Lombard, where something is causing the deaths of &#34;cargo&#34; and crew alike.  &#34;The next morning, the crew discovered four more bodies, this time three women and the only child in the hold. Like the others, their flesh had gone pale gray, and once again, Hicks was at a loss to fully explain their demise.&#34;Deadly Passage is disturbing on multiple levels, not only what's causing the deaths, but the circumstance of the slave trade and the treatment of the &#34;cargo.&#34;  The truth can be painful.Allen creates some strong prose in this story.  &#34;Then the mate shrieked incoherently.  His cries continued amid a sickening tearing noise like a butcher separating the parts from a chicken with his hands.&#34;The third entry in JournalStone's DoubleDown series is not perfect, but it's awfully close. Dog Days & Deadly Passage is available as a signed Limited edition, Trade Paperback and ebook from JournalStone.com and Amazon.com.I can strongly recommend this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> New entry in JournalStone's DoubleDown series.  Twice the horror </p>
+
+
+<h2> review.date </h2>
+  11-24-2013  
+<h2> review.text </h2>
+
+ <p> JournalStone's DoubleDown series, book 3, contains 2 - slightly creepy - stories, 'Dog Days' and 'Deadly Passage'.Dog Days by Joe KcKinney:This story can only be described as 'Coming of age in a horror scenario', or 'A different kind of summer'. It's the summer holidays and a flood has blanked a non-nondescript southern town. Upon investigation by the local police sergeant a horrific crime scene reveals itself and becomes the fascination of the sergeant's son and his cronies. This crime scene does not remain the only one for long, every full moon a new one appears. The sergeant's son, still under the guilt of having played with his father's service gun, and his father having found out, takes it again and ends the horror once and for all. Sometimes it pays not to listen to your parents.Deadly Passage by Sanford Allen:A story set back in the times of the slave trades, and some of the characters are still up there in my head. The Goethe quote in the beginning of the book describes the story the best, 'No one is more of a slave, than he who thinks himself free without being so'.A freed slave works on a slave trade ship so as to make enough money for him to marry his sweetheart. The slave ship has taken aboard a stowaway of a different type, and both the slaves and the crew start to mysteriously die, as if the life and blood get sucked out of them. When most are gone and the ship is without a crew and captain, it is the freed slave who returns it to Africa. The story has good descriptions of this shameful period in our past, not central to the story, but a haunting reminder. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Creepy and haunting </p>
+
+
+<h2> review.date </h2>
+  02-01-2014  
+<h2> review.text </h2>
+
+ <p> Joe McKinney&#8217;s story DOG DAYS from the JournalStone&#8217;s DoubleDown Series Book III is a very unique story in that it takes the werewolf genre and brings it out with an entirely different mythology. Of course, as much of Joe&#8217;s work, it is set in Texas, which if you know me; you know I believe Texas is the greatest State in the Union. Next, Joe&#8217;s experience as a police officer also plays a big part of the story. I wish Joe would write a book about his experiences as a patrol officer for the San Antonio Police Department, a homicide detective and a disaster mitigation specialist among his other duties in law enforcement. However, I digress. This story is about the occurrences that follow Hurricane Alexis in Brook Forest Texas, between Galveston and Houston.  It follows the lives of Mark Eckert and his father, Houston Police Sergeant Wes Eckert and his mother Meredith, a pediatrician. They also have a dog named Max who also works with the police department. Mark and his friends, who are known for making the best of adolescent immaturity and utilizing immensely bad judgment, become engrossed in some horrific murders of people in the neighborhood by something that is tearing people to death.Joe is an incredible author in that he introduces you into the life of his characters and makes you care about what happens to them, through their accomplishments and defeats. He also has a way of slowly increasing the tension until like those shock scenes in the movies you tend to jump in your seat.  Each word he chooses is the best word for the situation. There is no wasted time in his stories and DOG DAYS is no exception.  He takes this specific genre and makes it his own. This isn&#8217;t the old Wolfman stories with Lon Chaney Jr., or the Hammer Studio and Universal tales.  Joe uses the lycanthropic story of the beast from history and then surrounds it with modern day locales. Instead of the British Moors, Joe places locale in the swamps around the coastal part of Texas. The creature himself is not the anthropomorphic monster we are used to but more like an outcast of society.This is one of the great things about reading Joe McKinney&#8217;s works. He takes the mundane and familiar and makes it extraordinary and exotic. DOG DAYS is no exception. This is a novella at 127 pages but then you get to add a story from Sanford Allen, a master craftsman in his own rights and you have a book that will make your nights sweaty and uneasy.  Just the reason I read horror! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hairy horror tales and flesh that goes rip in the night...Texas style! </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> I have read the other books in the Journal Stone&#8217;s Double Down series and prefer them to this edition. The two books involve monsters, a werewolf type creature that chases down people after a hurricane in Houston in one, and a monster creature haunting a slave ship in the other.  The characters and settings are well developed, but I am just not into horror stories and definitely not these type horror stories.  In the first story, I found the whole idea of something coming out of the swamp post hurricane and coming after someone interesting and scary enough, as well as the involvement of the main character, Mark, whose father just happens to be a policeman with the Houston police department. In the second story, the setting on a slave ship carrying human cargo, who seem to be mysteriously disappearing is fascinating and shows some level or originality.  This story also reaches out on a higher level, by touching on men who trade with human flesh. I enjoyed reading the two stories, but, as I said, they were not for me. I think anyone who enjoys good horror stories will enjoy them a lot. The two authors write extremely well and tell a good tale of horror and misery. I received this from Library Thing to read and review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Horror at Its Best </p>
+
+
+<h2> review.date </h2>
+  12-11-2013  
+<h2> review.text </h2>
+
+ <p> This is the third installment of JournalStone Press' Doubledown series, and the best so far. This series incorporates two short horror novels in one volume. This publication includes Deadly Passage by Sanford Allen and Dog Days by Joe McKinney. Both have similar themes: that of a young man being hunted by an unknown but deadly monster who seeks to slaughter him. In Deadly Passage, the young man is a free black man on a slave ship in the 1780's; in Dog Days, the young man is a teenager in a post-hurricane southern town in the 1980's. Both stories are very well done, with elements of terror, suspense and psychological trauma. Recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hunted and haunted! </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> This is the second Journstone Doubledown book I have read, and I enjoyed it almost as much as I did the first.  It is great to have 2 distinct stories to read by 2 different authors.  I especially liked the Dog Days by Joe McKinney involving some youth who get entangled with a brutal killer fallowing a hurricane.  Deadly Paassage by Sanford Allen involves slaves, a deadly beast in the bowels of the ship and a free black crewman who must decide between caring for people and the dream he has of owning property.These were two stories that I enjoyed reading and had a hard time putting down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good reading </p>
+
+
+<h2> review.date </h2>
+  11-29-2013  
+<h2> review.text </h2>
+
+ <p> Dog Days/Deadly Passage as the name implies is a combination of two short books in one easily read volume. The first is by far the superior and is a great coming of age novella by Joe McKinney.Mark Eckert becomes involved in a brutal murder hunt with a killer who is growing in strenth and seems to be affected by the full moon.....I do wish Dog Days had been a longer read, it was sharp and witty with some great touches of teenage angst and brutal horror. In "Deadly Passage", the slave ship Lombard sets off from Africa, beginning its brutal passage to the New World. Unknown to the crew an evil presence is also aboard the ship and intent on the total destruction of all. The two stories combined are a fast read and one I did enjoy, I did consider awarding 3 stars but the Joe McKinney element gives an instant promotion to 4!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Joe Mckinney delivers again.... </p>
+
+
+<h2> review.date </h2>
+  12-03-2013  
+<h2> review.text </h2>
+
+ <p> This review was written for LibraryThing Early Reviewers.Two very different books offered in one package. Both are monster stories, but that's where the similarities end. Dog Days involves a young (14) boy, a few of his friends, and his dad who is larger than life in the eyes of his son. A fast moving story, a bit predictable but overall good. Deadly Passage's monster stows away on a slave ship making its way across the ocean. The monster is nothing compared to the vile descriptions of the way people can treat other human beings. I found myself several times not wanting to continue because of the ghastly details of life on board this ship. If you want to feel rotten about humans as a race, this book is for you. I received a free copy of this book in exchange for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK thrillers, goes for the gross out </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1608200264 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-26-2012  
+<h2> review.text </h2>
+
+ <p> I really want to be able to write a coherent review for this one, however I am struggling greatly with that as I can't seem to get past my "WOW" response. It's been a long while since a book has tripped all my triggers like this one did.I've always had a strong draw to stories of angels and demons, however finding ones that are well written isn't easy to do. Throw Nephilim into the mix and it rarely goes well. Frankly, Kirby Crow has given me one of the best dark fantasies I think I've ever read.Angels of the Deep is by no means an easy read. It's filled with dark, even gruesome things. It blurs the line of what is good and what is evil, it's filled with layers behind every character, every situation. It has a complexity that makes you work for the beauty behind the darkness of it all.The writing was powerful. The imagery, incredible. The characters were amazing. The story so rich in fantasy, theology, faith, love, hate, good, evil, all amazingly woven together; so full of twists and turns, so dark and engrossing I found it almost impossible to put down. At every turn I simply HAD to see what was going to happen next. To make any further review, I would have to re-read it to completely absorb all that this book holds, if I ever could.Bottom line: I will most definitely be re-reading this one, I will most definitely be reading all the Kirby Crow books I can get my hands on. This book makes me want to redo my entire review/rating system, because I don't have enough stars. If 5 stars stands for "it's amazing"... I give Angels of the Deep 6 for... beyond amazing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Incredible book </p>
+
+
+<h2> review.date </h2>
+  06-24-2010  
+<h2> review.text </h2>
+
+ <p> SPOIL ALERT!!! SPOIL ALERT!!! SPOIL ALERT!!!!((THANX REYA from ENGLAND))While I will say this book is well written, I have to say that Kirby spent too much time describing the trees, and the leaves and the snow under foot, so much so that the author forgot to say that we are looking at trees and that they are walking on snow.  "The crunch of wet white under foot" I mean REALLY?, come on he was walking and it was snowing thanx (JUST AN EXAMPLE NOT AN ACTUAL LINE IN THE BOOK) This book is full of these metaphors, I like a good metaphor but for crying out loud back off a bit so we can get into the story.  Ok, that said... I have no idea who these characters are, I didnt feel anything for any of these people, Cathrine was murdered, who cares, why should we care about Cathrine? Mastema dies? Was he really all that bad? Who the Hell is Sophia and what makes her so damn special? And what is the vail and why does it keep asking people to tell the past or the future, why is the damn vail talking in the first place?  NOW, Beck is a man who is actually the female Zafira, so... the only reason these dudes are fighting over this dude is because he is actually a woman? WOW, that is cleaver but so does not work for me.  NOW for the surprise...I liked the story. I just wish that we knew the characters more. I loved the last chapter,that was the best part of the whole book.  If we could have maintained that, the book would have been five stars. Lose the female soul, give us less description of the trees and the smoke and the night clouds and more description with the sex.  I wanna know more about the satyr and the blond boy LOL, just kidding. But I would have liked the love and relationships and the characters to be more intense. A lot more emotional connection to the characters is the only REAL problem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Drowing In Description and Narration </p>
+
+
+<h2> review.date </h2>
+  01-31-2011  
+<h2> review.text </h2>
+
+ <p> Since the other reviewers go into some detail on this story, I do not feel it necessary to follow in their footsteps. Leave it to say, this novel is dark, dark, intense and extremely difficult to comprehend. I seriously have no idea how anyone could call this a love story. It is filled with images of rape, both physical and mental, subjugation and betrayal. The use of telepathic conversation between characters only added to the already impossible to follow story line and made the emotional torture the main character endures beyond the endurance of most readers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a very bad taste </p>
+
+
+<h2> review.date </h2>
+  11-24-2009  
+<h2> review.text </h2>
+
+ <p> Warning: This review might contain what some people consider SPOILERS.Rating: 8/10PROS:- The writing in this book is among the best I've encountered in this genre. Crow has a wonderful sense of language rhythm and a large vocabulary of which s/he makes good use. I had to look up a number of different words in this book. The majority of the time, the words used are precise and convey a specific meaning.- The plot and characters and settings are rich and exotic and fascinating. I don't read much supernatural or secular/spiritual fiction, so perhaps the twisting of biblical tales and people is not that uncommon; but I found the depth of the story very intriguing.- Much of the dialogue is quick and sharp and realistic. The one bad thing about this is that at times it's difficult to follow the characters' conversations because their words don't always provide a lot of context clues (as is the case when people in real life talk...usually people converse in fragments rather than sentences, and people are likely to say, "Did you talk to him?" without specifying who "he" is or what the conversation was supposed to have been about).CONS:- Although the writing throughout the book is solid, sometimes it was a little too much on the descriptive side for my taste. On occasion I felt as though Crow was simply playing with words because s/he can (and again, s/he's good at it), when what I wanted was less exposition and more action, particularly in the climactic moments when resolution of the plot was foremost in my mind.- Crow repeats a few story elements enough times that I stopped seeing them as necessary echoes and started viewing them as annoying redundancy. The writing is intelligent, and on the whole, Crow assumes that the reader must be intelligent also. The repetition of certain elements--the nature of characters' past relationships, for example--was the one major contradiction to this assumption that I found.- There's a good amount of sexual content in the book, but I enjoyed reading only one of those scenes; with the others I found one or both characters repugnant or I felt that the sex was forced upon one participant.Overall comments: I would not AT ALL call this a "religious" book, which is to say, if you're easily offended by transformations of traditional religious folklore, you should probably stay away from this one. Many of the characters believe in a Higher Power, but not all of them believe that Power to be wholly good. If you're open-minded, though, this is a good story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting story and very good writing, if a little dense at times </p>
+
+
+<h2> review.date </h2>
+  06-20-2009  
+<h2> review.text </h2>
+
+ <p> Angels of the DeepAngels of the Deepby Kirby CrowISBN 13: 978-1-60820-026-9 (print)978-1-60820-027-6 (ebook)Published by mlrbooks, April 2009Cover Artist: Analise DubnerGenre: Paranormal/HorrorKirby Crow claims to write homoerotic romance. At least that's what her last four books purport to be. Angels of the Deep is not one of these. While it does contain homoerotic romance, this book is, in no uncertain terms, a horror novel.Becket Merriday is chief of police of a small town in the state of New York. He gave up a career as a top-rate FBI profiler and moved to Irenic in an effort to save his marriage. It didn't work. Now, he's headed for divorce, is infatuated with his male lieutenant Sean Logan and has a serial killer on the loose. Someone or something is killing young men, slicing their heads off and cutting out their hearts, and it's up to he and Sean to solve the case.But that's just the framework of this dark, dark story. Kirby Crow has penned a brutal study of what God, angels and the nephilim (angel/human offspring) might be like if they were anything akin to the alien warriors history hints at rather than the watered-down, kindly God and angels we think of today.Some have called this a love story. And while I've mentioned there is such a component, I call Angels of the Deep an apocalyptic, terrifying look at why we humans can't and don't want to peer across the Veil. God and the angels he created are not like us. We might be made in his image, but we are fundamentally different. Crow shows us this in many uncomfortable ways: from how the angels and nephilim might love to how they might treat humans.A read you'll not soon forget, Angels of the Deep is well-crafted and impeccably written. My one complaint is that it's just too damn intense. I felt bludgeoned by the time I finished. I also have to warn readers that the book contains a lot of eroticism, multiple and graphic rape and sex scenes, and a few references to past instances of pedophilia. This is not a book for the weak of heart.I recommend it!Copyright  Clayton Clifford Bye 2009 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Review of Angels of the Deep </p>
+
+
+<h2> review.date </h2>
+  04-14-2009  
+<h2> review.text </h2>
+
+ <p> The best word to describe Angels of the Deep is "dark"; it started in the dark, both literally than figuratively, to continue always in the dark. Even when it's daylight, the darkness is there, and sincerely I always had the feel, reading this book, that there was like a cloud covering the sun, and even if the events take place during the day, no real sunlight was allowed in the story. The only light I perceived was the artificial one of neon, a light that was cold, in this way reinforcing the darkness and also the coldness. No sunlight means no natural warm. All in this book was dark and icy.I realized that I concentrated more on the feeling it left me than on the story, but it's also hard to give you a short summary of the story without giving up the end, but I will try. At the beginning of the book Beck is an orphan, a ward in the hand of a priest; unfortunately Beck is suffering an unspeakable hell living with the priest, a pedophiles who calls Beck his Angel. As expected in this situation, Beck is escaping reality building a world of his own, till the day an ancient woman appears and "frees" Beck from his hell. Jump ahead in time, Beck is now an adult, married man and soon-to-be divorced. It seems that he loves his wife, Cat, but not in the way he should love her; Cat is a good woman, but when Beck is near her, I feel more friendship than love passing between them. On the other hand, Beck is feeling something strong for someone he should not, Sean, his partner in the police facility they both work for.Also Sean is aware of the feelings between them, and he would be willing to try, but Beck is unwilling. He finds all the right excuse, he is married, he can't do that to Cat, Sean is a co-worker... strange enough one of the excuse is not that he is not gay, as if the gender of them is not important... Anyway I had the feeling that the real reason was that Beck is still traumatized by what happened to him when he was a child. Beck is the exactly profile of an abused child, unable to tighten real bond with a lover, reluctant to speak of his problem, ready to lie to  therapists when they near the real problem. The only thing that I will not add to the other typical thing is Beck being gay, since, first of all it seems not to be one of his "trouble", and second, as I said before, his relationship with Sean is strange, and being both men seem not to be the real problem between them.All right, telling you these things, I more or less 50 pages of the more than 300 pages of the book, and I can't say more, since from this moment on the reader is plunged inside the story right in the middle of the event and will resurface only in the end. The author don't prolong the broth with water to make it last, but serve the main course and let the reader to deal with it in full play mode. The story takes is direction and goes straight to the end without hesitation and not leaving to the reader neither the time to breath. I was turning the page hoping to find a moment to stop, and instead there wasn't neither one. The book is 300 pages long, but no one of these pages is an embellishment, they are all center stage events.Kirby Crow is not famous for being sexy, she is more famous to be a teaser (she will never be free of that title after letting me suffer for one very long book, Scarlet and the White Wold 1, for a kiss, and for another even more long book, the second in the series, for a sex scene...), and Angels of the Deep confirms it; even if, truth be told, there is sex in the book (and not only in the last chapter) and there is also a continuous running of eroticism in all the pages, all the characters, not only Beck and Sean, are all very physical, and their body reactions are pretty clear and described. So the only moment that the icy cloak I felt on the story is raised, is when that sexy running surfaces here and there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Angels of the Deep by Kirby Crow </p>
+
+
+<h2> review.date </h2>
+  11-19-2009  
+<h2> review.text </h2>
+
+ <p> Angels of the Deep tells a unique story about Humans, Angels and the in-between ...The novel is definitely dark fantasy with a dark gay romance.The other reviews describe the book very well, so I'm going to stick to my thoughts on it.The book takes you on a dark and mysterious journey with violence, rape, murder, mystery, torture, sort of kidnapping, sex, drugs (alcohol), love - even eternal love. The author has a wondrous way with words, all scenes are vivid and perfect. The places he visits are truly unique - so be ready for a new look on our religious Christian background and what might be beyond our current understanding.Do not expect a normal gay romance book - this is definitely one of the darkest books I've ever read. It does have a happy end, but it's sort of different. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mystical Story ... </p>
+
+
+<h2> review.date </h2>
+  07-21-2011  
+<h2> review.text </h2>
+
+ <p> This book is made of AWESOME!  The very words on all the pages were forged in the eerie fires of morbidness and all the people who say differently are going to find themselves attacked by teeth in the dark.  If you think angels are cute little cherubs floating around on fluffy white clouds, you're in for a nightmare.  The angels in this tale will make you think you're swinging from a rafter by your own intestines.  These beings would rather tear you to shreds than have to suffer the mere thought of standing next to you.  This book is what it is.  No apologies.  The story is in your face, and you will walk away with a few bruises on your souls, if you are able to survive the beating.  My advice...if you feel the hair begin to stand up on the back of your neck...RUN!  The cross around your neck will not save you.AWESOME AUTHOR!  AWESOME STORY! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Soul Scratcher </p>
+
+
+<h2> review.date </h2>
+  06-18-2009  
+<h2> review.text </h2>
+
+ <p> I felt a bit like I had been sucked down into the earth, reading this book. The walls of the world that surrounds Beck are dark and breathing. There is a feeling of being lost in something partially like a hazy nightmare. None of this is overt, but it seems the vibe that comes off this story. Beck was abused as a young boy and although he has excuses for why he doesn't let himself get too close to Sean, his police partner, you feel like the veins of that experience, stretching deep into the earth, deep into the mystery of this story, are a voyage that we (and Beck and Sean) must take before a flash light can be shone on this world.This is at times a transcendental work, pushing forward, twisty, thoughtful and something that definitely will lead to another story. I think if you want a story to puzzle over, to make you think, like worry beads, this one will prove haunting and satisfying. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Angels of the Deep </p>
+
+
+<h2> review.date </h2>
+  10-22-2009  
+<h2> review.text </h2>
+
+ <p> Kirby Crow does an amazing job in Angels of the Deep:Here the are no 'demons' there are only Angels that live in secrecy both dark and light angels. But then there are the abomination the Nephilim and from what I understood are a mix of Angels and humans.Mastema, whose name translate to wrath, is an angel bent on killing all Nephilim as he must obey his Lord. But it was his rush to obey that he committed a mistake from the heart and killed the mortal woman, Zefira who he had loved, who happened to belong to his brother, Tamiel. And so Mastema lost the only person he had loved and Tamiel lost his beloved wife and children through Mastema's slaughter of their home.Years later, Zefira's soul would reincarnate again but through ironic fate Mastema would commit the same mistake and would loose her a second time. It is no longer orders Mastema follows when he kills the Nephilim who he blames, but the anger and desperation he feels for having lost Zefira in his blood craze.Detached, remote and cold Beck is a beautiful man who feels out of place in this world. He yearns for love but isn't capable of reciprocating that love. He is in the process of divorcing his wife who he has tried to love but is unable too and feels that this is the only way he can save her from living her life in a sham marriage. It seems Sean, another police officer and best friend seems to be the only one able to connect with Beck on a personal level. Sean wants more with Beck, but Beck cannot make himself enter into a relationship just yet.Beck has never opened up to anyone about his trauma of when he was molested by a priest as a child, and carries it with him always. When the murders begin he suddenly feels emotions he had always been able to detach himself for before and it scares him. Strange things are happening in town and as the body count rises and Beck is suddenly faced with the truth. Mastema is back to kill the rest of the Nephilin who are being aided by Tamiel who keeps them safe at his home. But Mastema will not rest until he has slaughtered them all.Kirby Crow has done an amazing job in Angels of the Deep, its a complex storyline with angels both light and dark, good vs evil and deals with incarnation and fate. I have never read another m/m book with such intricate characters each one suffers for different reasons both physically and spiritually. The sex scenes are dark and brutal, but the way Kirby Crow takes a handle on them is beautiful. I recommend this book to all m/m fans out there, this is a must read, I have to admit I almost didn't read this book because its cover made me think of dark monasteries and the summary didn't really clue me in on how complex the book really is. This is not the traditional m/m romance [this is a gay for you book so pay close attention] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Angels of the Deep: A Keeper! </p>
+
+
+<h2> review.date </h2>
+  10-26-2010  
+<h2> review.text </h2>
+
+ <p> **spoiler alert**This is a difficult review to write because the book is so complex, so you'll have to bear with me while I go through my impressions.It's a dark book from the beginning to the end. The life that Beck, the protagonist, has led is difficult from the beginning. Reading about the abuse he had to endure as a child was heart-wrenching. There's an image in the book of him as a child bleeding while he walks down an aisle which will be impossible for me to dispel. It makes you really cry for the loss of innocence, for the pain. At this point Beck sees himself as a child through some kind of mirror. It's impossible for him to soothe that child, as it is impossible for us to ease that child's pain through the pages of the book. Many times in the book someone inquires about the past and many times it is said that the past is written in stone and can't be changed. All this makes the finality of an act of violence so cruel almost unbearable. Beck keeps returning to it in his mind and he refuses to tell anyone about it. The priest who abused him used to call him "angel", and it was unsettling that evil could be attracted to the most precious part of Beck's being as if he recognised it in some way.Beck struggles throughout the book for his humanity. His other nature, which is the nature of an angel, is a core inside him and at the beginning he can't perceive it and when he can, he is not able to understand it, although his job, his dreams, the people he loves are determined by it. The angels in the book are not the good guardian angels we are used to: they are beings whose reasoning is not understandable by human minds, their actions are not to be judged by the good they make, but by the adherence of their behavior to the will of God (and I'd like to say that God is notable by his absence here).Beck doesn't have only a human/divine nature, he has also a female/male nature, but the reader is given no light, no accomplished feeling even when Beck gets to know about himself, realising the reasons why he is as he is and what is expected from him. He is confused, torn between two powerful supernatural beings who love him each in their own tortured ways. He doesn't know what part of himself he has to surrender to continue to exist.What is really remarkable in this book is its logic. There's a scheme inside the book that ties everything together: the past and the present; all the characters; the reasons why they love and the reasons why they hate; the places. The last pages of the book, with the final confrontation between Mastema and Beck, are soaked with emotions and meanings, and everytime you think that you have the resolution, there's a twist that makes you reconsider your expectations and sometimes makes you feel a poor little human struggling for a satisfying end.In all the hurt and confusion of Beck's life, there's a burning flame which is not enough to defy the darkness, but it's warm enough to drive away the cold, and that's Sean's love. It's a safe haven, where Beck can finally find tenderness and understanding. It's what I felt rewarded with for having gone through Beck's trial with him.I am sorry if my review is so confused, but this book really blew me away and I don't have the skills to express it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A dark and complex paranormal </p>
+
+
+<h2> review.date </h2>
+  01-29-2010  
+<h2> review.text </h2>
+
+ <p> Ms. Crow clearly knows how to write. (Warning: spoilers follow.) The first 150 or so pages of the book are very good, introducing us to Beck, his estranged wife Catherine, and his buddy Sean with a deft touch that makes them all believable, interesting, and well-rounded. The plot--a whodunit involving a murderous angel--moves forward nicely, bolstered by good pacing and some truly exceptional dialogue.Then Beck comes face-to-face with the angel/villain Mastema, and the entire story devolves into pseudo-kabbalistic mumbo-jumbo and one rape scene after another. The fate of Catherine, in particular, is disgusting and unnecessary; could Ms. Crow not have found another way of freeing Beck up to pursue his interest in Sean? The real kicker is that for the plot's central conceit to work, the reader has to believe in and empathize with the relationship between Beck and Mastema--something Ms. Crow then renders impossible by 1) making Mastema thoroughly loathsome, and 2) demonstrating that Beck (in both past and present incarnations) has no idea why he bothers to spend time with the angel. So they have a relationship spanning 6,000 years that's based on absolutely nothing. Great. And the fight at the end of the book is just a mess, alternating between poorly described physical action and poorly thought-out mystical elements.I'm giving the book two stars because it starts out so well; otherwise I would have given it one. Which is a shame, considering the talent that's on display here. I hope Ms. Crow's writing improves with time and practice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good first half, terrible second half </p>
+
+
+<h2> review.date </h2>
+  04-08-2010  
+<h2> review.text </h2>
+
+ <p> Growing up an orphan, abused by the priest charged with his care, and feeling like he never fit in, Becket `Beck' Merriday is now Chief of Police in Irenic, NY.  Beck cannot shake the idea of living with an unfilled heart and an empty soul.  He also battles with guilty feelings towards estranged wife Catherine and his desires for coworker Lt. Sean Logan. Beck doesn't know which way to turn.A body is discovered and then another, both butchered beyond explanation.  Beck soon learns that there is much more going on under the surface.  A war that has raged since the dawn of man has come to Beck's door and there is no turning back.  Two beings, God's chosen, want Beck for their own.  They have the answers Beck desperately wants about himself, but at what cost to everyone around him?Angels of the Deep is a powerful tale of redemption, commitment, sacrifice, and finally love in its purest form.  To say practically anything about the characters or story would possibly give away one of the many twists and turns in Angels of the Deep.  What I can say is that sometimes the narrative is too long and I know little to nothing about the Nephilim, but I couldn't put Angels of the Deep down once I started reading.  To me the best stories make you think or laugh or cry as the tale progresses and that's exactly what you get in Angels of the Deep.  Some readers won't care for the extremely explicit M/M lovemaking or the awful forced sex, however, Angels of the Deep delves into the true meaning of choice, sacrifice and love.  I Joyfully recommend Angels of the Deep because it is special, it is unique, and it deserves the spotlight.LisaReviewed for Joyfully Reviewed </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Angels of the Deep- A Joyfully Recommended Title </p>
+
+
+<h2> review.date </h2>
+  04-14-2011  
+<h2> review.text </h2>
+
+ <p> It seems like everybody wants Beck. There's his wife, Catherine, who doesn't want to divorce him even though he can't feel the same love for her that he used to. There's Sean, who he happens to work with. Then there are the angels Mastema and Tamiel. Mastema is the servant of God, sent to Earth to hunt the Nephilim, the offspring of the angelic Watchers and moral women. And Tamiel is a Watcher dedicated to protecting the Nephilim.Oh, and Beck is a Nephilim. (No spoilers here, it's pretty obvious from the beginning.) But he doesn't know it until Mastema shows up to kill him.The coolest part about this story, in my opinion, was knowing who Beck actually was. What is actually drawing both Mastema and Tamiel to him is the human soul reborn in Beck, a soul that was once within the body of someone they both loved thousands of years ago. This ancient-love-reborn is by far my favorite aspect of the plot.This book really is dark, starting with Beck's shadowy past (in his current life), and ending with the choices he has to make and live with (for a very long time, since, you know, he's immortal), and including all the gruesome things along the way. But it is a great book, and I found myself not wanting to put it down, and wanting it to go on. The ending seems to be a set-up for a sequel, which I hope happens. I would love to see if Beck can find his parents or confront the horrors of the place where he grew up.I don't have any real complaints about this book, except I don't think I really understood the Veil. It threw me off a couple of times because I didn't know if Beck had actually physically moved through it to another time and place, or if it was more of a dream. It almost seemed like sometimes it was one and sometimes the other. Maybe time traveling just didn't seem like it would fit in this type of novel so my mind processed it as visions. But, it's not a big deal. The only other thing that really bothered me for a long time was Sean. I pretty much guessed who he was, for the most part, at one point, but he never told Beck the truth until much later. I was so mad that he waited until so many things had happened, and I kept asking why so many times. But then the last chapter had him explain it and I felt better.Formatting wise, there were some weird things going on with quotation marks in a few places, but it didn't hurt my reading experience at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dark, ancient love </p>
+
+
+<h2> review.date </h2>
+  02-13-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this book the minute it came out, since I had already read all of Ms. Crow's other works and enjoyed them. However, this is more of a departure from her other M/M romances, since it starts out with a Catholic priest trying to molest the main character, Beck, as a child. Beck hides from him, and the priest ends up being killed by an alternate "Sean" identity, the Nephilim who was married to Beck in a previous life, when he was a woman. Okay, pretty convoluted here, but I felt as if I was being pulled into the conundrum that was Beck's life. Mastema, the angel who believes it is his duty to destroy all Nephilim, manages at once to portray great evil as well as the occasional background relief. Many people think of Sean, one of the main characters as a "secondary" plot manifestation, yet as I read I never once consigned him to the background. He was always a pervasive character to me, as well as Mastema, both who would appear smoothly in the plot without jolting the reader into thinking, "what the heck?" This is NOT A M/M ROMANCE per say, since there is not a lot of highly sexual scenes. There are a few rape scenes between Beck and Mastema, but you would need to understand the characters to know that these do fit into the plot as well. If you want sex scenes, purchase something mindless by Kyle Cicero and enjoy it. This is NOT that, so if you want to get off with this book, forget it!  This book makes you think, makes you question, makes you angry, sad, etc., but doesn't just let you off with the impression that "okay, that's that, let's move on to the next."  I've read tons of authors like that, but Ms. Crow is not one of them. I keep her books, which is not something I would say about a lot of others. Personally, I liked it, I've kept it and I've read it again. Either way, this is just my opinion. I love the fact that Ms. Crow wants to write M/M romance and feel that she should be writing for the larger publishers, not MLR or Torquere Press. But I'm happy that she loves this genre and hope she continues to produce high quality, M/M romances for a long, long time! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very dark erotica about angels </p>
+
+
+<h2> review.date </h2>
+  08-12-2011  
+<h2> review.text </h2>
+
+ <p> I recently read Kirby Crow's "Angels of the Deep"; I loved the author's fantasy series "Scarlet and the White Wolf," and thought I'd at last try another of her novels.Amazon's plot description barely touches the tip of the iceberg; there's a lot going on in this novel. It opens with a marvelously written glimpse into the young Beck's troubled and unhappy life. The chapter ends when he receives an unexpected bit of supernatural help to resolve a problem in his life---after which the story jumps ahead twenty-five years, and we see the protagonist is now a well-known profiler working for the police in a small upstate New York town.The "immortal race of beings" spoken of in the plot description are actually the Nephilim--that race of half-human, half-angel hybrids that sprang up from the pairing between humans and the fallen angels that have been exiled to this earth. Mastema is the angel (demon?) in charge of destroying all the Nephilim---and a nastier character you're not likely to encounter.I thought the novel got off to a very strong start; indeed, this was a book that I couldn't put down. It's nicely written---plenty of atmosphere---and I just had to see what would happen next. But it quickly became apparent that this book was not merely a supernatural fantasy, but a full-blown horror novel---and honestly, I simply am not a fan of graphic horror.Mastema dispatches various characters in some very gruesome ways; and frankly I didn't care for the amount of detail given to describing the demise of half-a-dozen different people, both Nephilim and human. One secondary character was given a rather horrific send-off, and that really ticked me off---I didn't think it was necessary for this character to die in the first place, much less in the horrible way it happened. And there were several extended scenes where Mastema is psychologically torturing (and basically mentally raping) Beck, which were unpleasant in the extreme. I just didn't like reading these passages, period.The novel became a bit mired in metaphysical mumbo-jumbo in the second half, which also annoyed me a bit, because in the end I didn't think the theological framework in which the story took place made a heck of a lot of sense. (I can't be more specific as to what problems I had, without giving too much of the plot away.)Oh, the story has a satisfying and fairly happy ending---but was it worth the trip to get there? If you're interested in supernatural horror, by all means give this one a go. As for me, a bit of a mixed review. There were plenty of good things about the book, but I'm going to have to say that this type of story just isn't to my taste. I don't care for violence, and the mixture of sex and violence---ugh. I can't imagine that I'd EVER read this book through a second time.I'm still quite interested in Kirby Crow's work, however---as I noted above, I love the "Scarlet and the White Wolf" books. I've read them twice through, and will likely re-read them again at some point in the future. And I'm quite excited that she is working on a fourth book in the series---woohoo! And she has another fantasy novel coming out as well, titled "Erisine." I'm looking forward to both books very much indeed.(Well, while I have to admit that while I'm not thrilled with Angels from the Deep, it does have a fantastic cover.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not my cup of tea </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

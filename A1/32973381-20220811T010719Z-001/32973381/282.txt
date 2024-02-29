@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00441GYVU <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-01-2012  
+<h2> review.text </h2>
+
+ <p> Finally we have an excellent recording from Keith Emerson on dvd.Yes the show from ELP at Montreux was good , even very good on blu-ray with that awesome sound.But this is so much better , with the addition of Marc Bonilla , the ELP-tunes receive a special treatement.This concert shows why Keith is still the master of the keyboards.Now , where is the blu-ray version ? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> King of the keyboards </p>
+
+
+<h2> review.date </h2>
+  04-23-2014  
+<h2> review.text </h2>
+
+ <p> If you are an old and grizzled ELP fan like I am and miss the old days, you will love this. This is not simply dull retreads of the old stuff or poorly recorded old concerts. It's some really good retakes on the old ELP songs with enough variation and weaving of new and old tunes and themes to make it truly interesting. Marc Bonilla seem to restrain his tendencies to sound like a lounge lizard and does  a good job of covering the lyrics. Yeah, the drummer is good, but not Carl Palmer.Even so, this is the best music purchase I've made in a log time. Essential for the ELP/Emerson fan. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absloutely Wonderful </p>
+
+
+<h2> review.date </h2>
+  07-01-2011  
+<h2> review.text </h2>
+
+ <p> I'm glad Keith is still working in spite of his current physical maladies with his hands.  Bonilla provides a good foil to Emerson's return to the stage without his ELP bandmates.  But the live gig in Hungary, available as a bonus DVD with the Keith Emerson Band CD, is so much better.  The Hungary rhythm section (bass and drums) was fresh and edgy. The Moscow rhythm section is not.  I wouldn't really recommend this DVD: many of the works--most notably, Lucky Man and Tarkus--were marred by all that "heavy metal jamming" at the end.  Also, I recall how cheesy Emerson's workstation pianos sounded this time around...Nice to have an official live version of "Touch and Go." The Finale from the recent album is pretty thrilling, if not a little chaotic... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Noisy, Self Indulgent </p>
+
+
+<h2> review.date </h2>
+  01-24-2011  
+<h2> review.text </h2>
+
+ <p> This is a fantastic live performance of the Keith Emerson Band. I'm really glad I picked it up. Emerson can still play, though not quite has amazingly fast as he did in his heyday. Amazon has the CD running time of 70 minutes, but the DVD is actually much longer. Nearly 2 hours. Emerson can still play and really seemed to be enjoying himself, interacting with the audiance. Marc Bonilla's guitar work adds to the ELP classics, giving those selection a slightly different vibe. Many of the ELP songs have been extended. Lucky Man runs more than 10 minutes, while Tarkus clocks in at a lenghty 36 minutes. Tarkus, as an example, has several places in the middle that are different and yet intriguing, including a nice drum solo. More improvisational playing. Emerson's newer and less well known pieces typically run 1-2 minutes long. I am very pleased with this purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a great show!! </p>
+
+
+<h2> review.date </h2>
+  11-20-2010  
+<h2> review.text </h2>
+
+ <p> This DVD is great! Marc Bonilla brings a real sense of class as a guitarist into the equation. His vocals are, dare I say "better" than Greg Lakes? (The last few times I saw ELP I though Lake was just lame. Emerson and Palmer were kicking ass but Lake was not!) Bonilla's guitar sound is excellent too, although I would love it to have been 10% louder. It is perfectly in context though, so no complaints. With the addition of a guitarist I find myself making comparisons to the guitarist Carl Palmer has been using over the years. Although Palmer's guitarist is incredible as well, Bonilla has him beat in the sound department. Palmer's guitarist sound is just harsh and "grating".The camera work is great here too...plenty of good angles on Keith. No, MTV style machine-gun editing here as it is a very solid production job. Sound is VERY good, some good 5.1 moments too. Song selection is excellent. The new material is just as strong as the classics.The drummer is technically incredible. His playing is just spectacular. He is a tad lacking in stage presence as he has the look of a city bus driver on his face when he's playing :) The DVD is so good it's almost easier to pick on things which otherwise would be unfair. Great player though! The bass player is also very good but he barely moves. Perhaps the expectation of showmanship in every player is too much to ask for. Great musicians though!!!I would love to see Keith keep Bonilla and get one of these young double-bass playing metal drummers in to give this music even more edge.  I love ELP but I have to say this is almost more vital at this point in time. Lake was great during the Crimson and early ELP days, but now he just seems to have lost the hunger.This DVD is a real treat for Emerson and Bonilla fans. Thank you so much for making this available. It makes ELP "live at Montreux" look ridiculous. What a great DVD!!!!!!!!!!!!!!!!!! *By the way..Hope you are recovering well from your recent medical scare Keith! Thanks to you Mr Bonilla for your great contributions..a real class performance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT EMERSON AND BONILLA!!! GREAT PRODUCTION </p>
+
+
+<h2> review.date </h2>
+  12-25-2010  
+<h2> review.text </h2>
+
+ <p> Excellent performance of all the band members specially Keith, even if you haven't heard of ELP, you will enjoy it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Moscow exhibition! </p>
+
+
+<h2> review.date </h2>
+  02-20-2011  
+<h2> review.text </h2>
+
+ <p> Absolutely incredible!The DVD - Great sound, spot on camera work, (You actually get to see the solos, wow!), a very well done DVD.The Performance - Awesome, incredible, powerful & amazing!The Audience - Dull, but who cares?Bonus Material - None, but you won't need any!Totally incredible show, Mark Bonilla really adds an entirely new dimension to the ELP tunes, and the new drummer & bassist are 100% rock solid.The new version of Tarkus alone is well worth the price of this disc many times over!Much better then the Keith Emerson Band Featuring Mark Bonilla album - much better!If you're an ELP fan don't hesitate, this is mind blowing stuff! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> rocksteadyeddie </p>
+
+
+<h2> review.date </h2>
+  03-20-2013  
+<h2> review.text </h2>
+
+ <p> Give to the 60 years old Keith Emerson, some young arms, let him play his keyboards like he can and you will have a great evening of ELP music with new songs from his Kieth Emerson Band, which are quiet good and fits very well with the ELP's material. The role play by Marc Bonilla on guitar and vocals give a heavier sound to the usual ELP's sound. The songs of ELP have been re-arranged and that is quiet refreshing, the songs have more speed and more power with Bonilla's guitar work.The set list doesn't have any dull moments, even "Lucky Man" is rocking!. And what a way to finish the concert with a 30 minutes of "Tarkus", that contains some improvisations. The sound is clear and powerful in 5.1 surround, a lot better than the ELP 40th anniversary DVD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ELP when they were young! </p>
+
+
+<h2> review.date </h2>
+  11-22-2010  
+<h2> review.text </h2>
+
+ <p> The delay on the release of this gem had me worried that my expectations would be too high for this performance when it finally came out.  They weren't.  I haven't seen musicianship of this caliber since Jean-Luc Ponty and Pat Metheny!  The concert is stunning, from start to finish.  It never lets up.  Keith Emerson is simply a keyboard legend. He continues to wow his fans, even with a disabled right hand  ( and that left is unbelieveable! ).  Marc Bonilla is the perfect complement to Keith...his vocal and guitar work have literally reinvented the classic ELP tracks of this show, yet still remain respectful and faithful to the original recordings by Emerson, Lake & Palmer.  I was initially disappointed, upon seeing that Pete Riley had been replaced by Tony Pia on drums...then I put this disc on.  Emerson has always surrounded himself with monster drummers  ( Joe Travers '98; Pete Riley '02-'06; Gregg Bissonette on Keith's new album ), and Mr. Pia is no exception.  I actually felt just a bit vindicated when Pia dropped a stick toward the end of his solo!  Speaking of mistakes...in this day and age of 'fixing' off-pitch vocals or off-tempo drums with Auto-Tune and Pro-Tools, I find it very refreshing that the couple of minor 'clams' during this concert were left intact.  It's an honesty that virtually no other band will allow on a "live" album.  These guys are so good, and the music so incredibly complex, that you can easily forgive the odd bum note or mistake.  My hat's off to Emerson in this regard.Last but not least...if ANY player of Keith Emerson's caliber could be excused for conveying a superior attitude, it would be Mr. Emerson himself.  Not the case here. Emerson comes across with a surprising humility, in introducing these songs as well as acknowledging the enthusiastic applause.  The man simply looks so happy to be playing, and touring with such great support players.  This one's a rarity, folks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unparalled Musicianship! </p>
+
+
+<h2> review.date </h2>
+  12-01-2010  
+<h2> review.text </h2>
+
+ <p> Didn't you always want ELP to sound a little more like King Crimsom....c'mon, in your heart of hearts? I mean the original KC stuff. Here it is.  This is phenomenal.  Wish this show would come to U.S.  Kind of sounds like Crimson in places but not quite as dark...which is a good thing.....but still rip-roaring.When I say like King Crimson, I don't mean an inferior copy.  More like, what if KC progressed and even got a little better.This is way better than ELP </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ELP meets Crimson and then some </p>
+
+
+<h2> review.date </h2>
+  12-26-2010  
+<h2> review.text </h2>
+
+ <p> Amazing shots and great quality. Anyone who wants to see the genius of a true innovator in music and, the pioneer of prog rock and electronics in music needs this dvd. not much else to be said. Talent beyond words. The rest of the band is also very talented. Amazing people and capturing excellent reviews for 45 years- Keith Emerson. Ted Canty </p>
+
+
+<h2> review.summary </h2>
+
+ <p> keith emerson band-live in moscow </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

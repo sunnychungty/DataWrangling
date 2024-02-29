@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000IOC9QG <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-02-2009  
+<h2> review.text </h2>
+
+ <p> I needed to replace my OEM keyboard after six years of spills and thrills. All I wanted was a reliable unit with the same exact layout as the first one.  The Logitech filled the bill at an exceptionally good price.It has performed just as needed and wanted - nothing more and nothing less.Simple, functional, all the keys in the "right" places. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good utility for the price </p>
+
+
+<h2> review.date </h2>
+  08-09-2013  
+<h2> review.text </h2>
+
+ <p> I'm pretty much a Logitech loyalist when it comes to keyboards and mice.  I have never been disappointed.  This is a good keyboard for general PC use and small business use.  I would highly recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great keyboard </p>
+
+
+<h2> review.date </h2>
+  02-11-2009  
+<h2> review.text </h2>
+
+ <p> Nice keyboard, good basic piece for the money.  We're just using it for a second networked computer, so we didn't want anything fancy or expensive since it'll get about ten minutes of usage a month, but for heaven's sake, at what point will manufacturers figure it out that computers these days nearly ALL have USB ports for things like the mouse and keyboards?  And that you should have to bend over backwards, search and sift through a million results and specifically get out a magnifying glass to go over specs to find one that ISN'T because it's ridiculous that it has to be this easy to be tricked into buying something that this few people should actually need.Amazon should come to my house personally with a new keyboard for having this under USB keyboards when it wasn't one and I probably should be smacked for not scrolling down five pages of junk and pictures and related items and recommended purchases to the reviews that noted that it wasn't USB.  Now I have the honor of sending this cheap thing back (because absolutely no one I know needs a non-USB keyboard), paying about as much in shipping as I did for the keyboard, and ordering a new one.Yay! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You'd think USB keyboards would be standard by now - this isn't USB, by the way </p>
+
+
+<h2> review.date </h2>
+  02-15-2010  
+<h2> review.text </h2>
+
+ <p> Fine keyboard for the price. Does what it is supposed to do, would recommend if you don't want to go high end and spend alot of money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> logitech keyboard </p>
+
+
+<h2> review.date </h2>
+  01-27-2009  
+<h2> review.text </h2>
+
+ <p> I searched for usb keyboards by price... this came up.  Shame on me for not reading the description further because this keyboard is not USB, thus making it useless to me... WHY IS IT UNDER THE USB KEYBOARD SEARCH? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good keyboard for PS/2 NOT USB </p>
+
+
+<h2> review.date </h2>
+  12-26-2008  
+<h2> review.text </h2>
+
+ <p> I bought this keyboard because I ruined my other one with a freshly poured cup of coffee with sugar&cream dumped over and into my keyboard pad. Needless to say my attempts to "WASH" it out were unsuccessful to say the least. For the Unbelievable price from Amazon.com on a well trusted computer hardware company(LOGITECH)this new replacement keyboard is wonderful and does a great job . Again Amazon.com and Logitech have pulled me thru another problem and solved it with a "BIG THUMBS UP" !!! Amazon your the "BEST" . Sincerely, Pat Simmons </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Logitech 968012-0403 OEM Value 100 Spill Proof Keyboard - Black </p>
+
+
+<h2> review.date </h2>
+  09-29-2009  
+<h2> review.text </h2>
+
+ <p> This thing is great.  It types and feels great, worth more than what I paid for it (&lt;$15 I think).  This is not a USB keyboard, but a PS-2. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Price for a Great Keyboard </p>
+
+
+<h2> review.date </h2>
+  02-02-2009  
+<h2> review.text </h2>
+
+ <p> I needed a replacement for a computer and looked here on an off chance.  Glad I did, found it here and at a lower price too.  Thanks! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good replacement keyboard. </p>
+
+
+<h2> review.date </h2>
+  04-16-2008  
+<h2> review.text </h2>
+
+ <p> I got this keyboard because of the Logitech name and the PS/2 connection (which is becoming rare for keyboards), to use with a set of my computers connected to a KVM switch.It does the job well, especially for the price. Standard layout (another rare thing), pretty quiet (the only noisy key is the spacebar), seems built OK, decent looking.The drawbacks: it is quite thick/tall (and, because of this, uncomfortable), its looks could use some improvement.If you can use USB and can put up with the not-so-standard layout, a much better choice is the Logitech Classic Keyboard 200 (which I usually use) -- smaller, slimmer, slicker, and more quiet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good basic keyboard </p>
+
+
+<h2> review.date </h2>
+  09-08-2010  
+<h2> review.text </h2>
+
+ <p> I am rough on keyboards.  I drop them constantly.  I eat and drink at my computer and get crumbs in the cracks.  These keyboards still last me 1-2 years.My only complaint is that I do not use my keyboard on a flat surface and when I set it down, it is stood on end and leaned against the computer.  Because of the curved angle of the sides, it falls over quite easily.  Most people however will not care, and the curves make it seem sleek and more expensive.I will continue buying them.  The keys are laid out well, the distance and feel on the fingers is perfect for me.  They are inexpensive but have a nice shape and look to them.Noise. The keys are very noisy.  My roommate can hear me typing on it with my door closed from about 20 feet away.  If noise bothers you, this is not the keyboard for you.My keyboards get heavy use.  I usually wear off the button letters on a,v,m,n,l and d in less than a year.  For someone with average use, I imagine these keyboards would last 5 years or longer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My favorite keyboard </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

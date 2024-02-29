@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1608321894 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Consider purchasing Naked Eggs before this book... </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-28-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> My son, age 10, and I are both big Steve Spangler fans.  Last year I had purchased him the Naked Eggs and Flying Potatoes book.  There were many experiments in that book that we were both able to do and he has really enjoyed that book immensely.This book we both also enjoy but the experiments are much more complicated and of a more professional level.  I haven't read through this book as much as my son has yet but he kept commenting to me that in order to do this experiment or that experiment we would have to go on stevespangler.com to get an ingredient.  I can tell he likes the book but the idea that we will have to purchase special ingredients is a bit of a turn off to us both.So if you haven't purchased Naked Eggs and Flying Potatoes I highly recommend you go with that book first to start with.  If you are a die hard science experiment lover then by all means go for this book.  It won't disappoint! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cool experiments with uncommon ingredients </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> My daughter saw a few of Steve Spangler's experiments on the internet and thought it would be great fun to duplicate them at home. I bought this book and another, and we were very frustrated at how difficult it was to find the materials for these experiments. I was under the impression that these experiments would be done with everyday household items. I wouldn't have minded buying a few things here or there to make an awesome experiment, but everything seemed either too expensive or hard to get for a simple &#34;wow&#34; factor. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great book for inquiring and fun minds </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Truly a &#34;gift that keeps on giving&#34; kind of book. This is the way to make science fun and help students see why it is important. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great ideas </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Watch Steve Spangler on Ellen Show and love his experiments.  I purchased the book for my daughter and me.  She teaches fourth grade and is using many of his experiments.  It's fun learning. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun Science Experiments for Father and Son </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-22-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased this book for my son and husband to work on together for some father and son "bonding" time.  While all of the experiments haven't been working out for them as shown in the book (some after three or four attempts) they are having a lot of fun trying them out.The materials for the experiments are fairly inexpensive to purchase or are easily accessible, though sometimes it feels like each one is an "advertisement" for the experiment kit which can be purchased from the author, and each experiment is basic and not too advanced for the basic kitchen scientist.All in all, this has been a good purchase. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfect book </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is amazing. It has awesome experiments and tons of information. Most of the experiments have alternate supply lists as it isn't mandatory to use stuff from Steve's store. This I loved because it showed that he isn't all about marketing but he wants to bring fun science to the masses. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good for kids aged 8 & up </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-23-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a teacher of pre-schoolers, and there were a few experiments that I can do with the kids, but our elementary teachers were actually going to put all the materials from a particular experiment in a box and put it on the shelf for the kids to do themselves.  I am a Montessori teacher and it is definetly a good book for the child 8 and up with supervision. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great book, especially for schools </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I got this book for my daughter, who loves science and experimenting.  We will be able to do most of the experiments, but some require access to non-household items.  The fire bubbles in particular require access to methane gas.  I have no idea where to get that, unless I have lima beans for dinner :-)  All joking aside I don't know where to get methane gas, and I don't know if it would be legal for me to have it.  My guess is that any school with a lab could easily get methane gas to do this fun [looking] experiment to entertain students.  The rest of the experiments looked doable and fun. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Misleading title </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-03-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I received this book as a gift to involve my children more in science.  I was excited about conducting some fun 'wow' experiments and to the books credit there are some interesting experiments that can be conducted.  I'm giving the book a single star because the title is misleading.  To conclude summer vacation I decided I'd conduct the "fire bubble" or "exploding toothpaste" experiment which my kids had been asking to see.  When I turned to that portion of the book I was disappointed to read these experiments are for 'teachers-only', certified, hands-on professionals, with access to materials an average person would not have on hand or easy access to.  I would not be able to perform these experiments.Why would the title of a book being sold to the general public suggest that there are experiments to be performed involving 'fire bubbles' and 'exploding toothpaste' when the reality is that they are only to be performed in a science lab by a certified professional?If you are buying the book thinking you will be able to perform those two experiments for someone, think again, unless you're an active science teacher. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Fictionators Review </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-15-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> With its good instructions using mostly everyday, easy-to-find items and its constant encouragement to use safety, Fire Bubbles and Exploding Toothpaste is an interesting book of experiments aimed at students of all ages.My kids can't wait to try out "Skateboard Rocket Car" and the adults only section is definitely something that I think Science teachers would want to check out. It's highly informative and obvious that Steve Spangler not only has a love for Science, but he truly wants to share it with today's youth. This would be a great gift for a science teacher (especially upper Elementary and Junior High) or a homeschooling mom who wants to take Science to the next level. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice Pictures but that's about it. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> If this is your first science demonstration book, at least it has good pics. But if you have been teaching for a while, you won't find anything special here. Find it in the library, or read it in the book store and save your money. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Spangler Makes Science Fun </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-31-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> If I thought Steve Spangler hit a home run with "Naked Eggs and Flying Potatoes," then I must say this work is a Grand Slam! It is a marvelous companion volume to his other book, but it is also a wonderful edition on its own. The text is easy to understand, and children can follow the directions with minimal supervision. It gives them a great sense of accomplishment to be able to say they did it themselves. The pictures are vivid and entertaining, and the actual experiments are lots of fun in addition to being invaluable teaching moments. I have this paperbound tome, and I am eagerly anticipating the iTunes version as well. I would highly recommend this book to teachers, parents, those interested in easy science demonstrations, and the fine folks who are still children at heart - it's fun for everyone! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A hit with the kids </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The perfect book to buy to keep kids busy during the summer!  We loved it and the experiments were great! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

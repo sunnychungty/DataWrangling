@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000ENUYGI <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-11-2011  
+<h2> review.text </h2>
+
+ <p> I highly recommend buying Season 2 and the entire series.  I am very late to the Rescue Me party but better late than never!  I really enjoyed this season and am currently playing catch up to prepare for the final season this summer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Season! </p>
+
+
+<h2> review.date </h2>
+  10-01-2013  
+<h2> review.text </h2>
+
+ <p> One of my favorite series of all time. Is it accurate? Yes and No, but I do like how it depicts the emotions of being a firefighter. There is a lot of emotion and people resort to a lot of different ways to let it out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Favorite Series </p>
+
+
+<h2> review.date </h2>
+  04-26-2006  
+<h2> review.text </h2>
+
+ <p> With "NYPD Blue" now dearly departed, "Rescue Me" moves up as television's best drama.  It is only fitting, since "Rescue Me" is the most gritty, realistic and emotionaly unflintching drama since "Blue."  For a brief moment it looked as if FX's other great series, "The Shield," was going to inherit said crown - not that "The Shield" isn't still as captivating as it ever was, but "Rescue Me" is so much deeper on every level.  And that is saying something.  Not that comparing it to "Blue" wasn't already.  Denis Leary's Tommy Gavin is the best, most wholely-realized tragic hero television has offered since Dennis Franz's Andy Sipowicz.  I never thought I'd see the day anything would rival "Blue" for pure drama, and I certainly never thought I'd see the day any actor could create a character to rival Franz's classic Sipowicz.  But here we are.  The last time I was as deeply moved, angered and shaken by any scripted television it was when Sipowicz lost his son and later his parter Simone (Jimmy Smits) on "Blue."  After a many-year lull in having any such experience, there were at least three moments in this season of "Rescue Me" that came staggeringly close.  I won't mention them specificaly so as not to ruin them for anyone who has not seen this season, but you'll know them when they hit you like a ton of bricks.  With "Blue" gone (and unfortunately subcoming to network restrictions and writer changes in its last few seasons) there aren't any other shows like this out there.  No network - even HBO I dare say - has shown the balls FX has in its original programig.  Rather than being exploitive about it though, FX has used this clout to produce stagering artistic, original, and emotional, as well as daring, programing.  From "The Shield" to "Thief," to even its unfairly failed comedies and the flagging-but-still-better-than-most-network-dramas "Nip/Tuck,"  FX is the go-to for great TV.  Combining the emotional drama of a stressful, life-riskig proffesion, alcoholism, drug abuse, divorce, loss and 9/11, "Rescue Me" is powerful, even more so when all these things are what make up the struggle of a single man.  Watching him teeter between redemption and the brink of disaster - subcoming to his addictions and demons - is nothing short of gut-wrentching.  If that reminds you of certain other Dennis' character's plight, well, that's a compliment of the tallest order. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If "NYPD Blue" was king of its type, "Rescue Me" was prince.  The king has passed.  Now it is time for a new reign.  All hail! </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> Alternating between insanely funny and agonizingly painful, this is a brilliant homage to screwed-up humanity at its best/worst. Not to be missed if you can take it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Think of a male-oriented soap as if directed by Tarantino </p>
+
+
+<h2> review.date </h2>
+  03-11-2013  
+<h2> review.text </h2>
+
+ <p> This show will shock you, make you laugh and drive you crazy and maybe even get some tears out of you.  It is good, not politically correct at all and it is an FX show so there is no holding back with this show.  I love it though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very raw and blunt drama/comedy </p>
+
+
+<h2> review.date </h2>
+  07-29-2013  
+<h2> review.text </h2>
+
+ <p> Great writing, acting and story. Very believable, very no holds bared and indepth into real firefighters. Too bad it is not a 26 episode season. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Series </p>
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> This is a great series that Denis Leary starred in. Blows Emergency away! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  12-01-2007  
+<h2> review.text </h2>
+
+ <p> A lot of shows will go into what is known as a "sophomore slump".  That is to say that while the show is still good, it loses something to its edge that the previous season had.Completely not the case with this show.We start of with our fallible hero, Tommy Gavin, looking for his children, who disappeared with his soon to be ex-wife at the end of Season 1.  He is no longer working at his old house, having transferred out after nearly causing Franco (Daniel Sunjata) to die and getting constant grief over his affair with his dead cousin's widow, Sheila (an amazing Callie Thorne).This season had some of the best sub-plots I have ever seen, both comical and serious.  You have Gavin's constant drama (Sheila's pregnancy, his constant battle with the bottle, his newfound "family", and one life changing tragedy).  Of course we have Franco (single fatherhood, battling addiction to Vicodin, and his relationship with Lauar Miles (a great Diane Farr)).  Chief Riley (Jack McGee) has his own demons (his gay son, and his wife battling Alzheimer's)But probably one of the funniest plots of the whole season revolves around Miles and Lou.  During a fire, there is a heated exchange between the two in which the latter calls the former a very bad name.  This leads to a grievance being filed and the whole house must attend sensitivity training.  Trust me, an episode you cannot miss.From start to finish, each episode is top notch.  And unlike other shows, not every plotline is wrapped up neatly with a bow on it.  Sadly, this seaon marks the departure of Diane Farr, who held her own and even stole a lot of scenes from her male counterparts.This season is a sure thing.  BUY IT!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the best shows of all time </p>
+
+
+<h2> review.date </h2>
+  08-02-2006  
+<h2> review.text </h2>
+
+ <p> in an earlier review, it was written that this is the best dramaon tv since "nypd blue".don't mean to be critical, but the onlytime "nypd blue" was an awesome drama was it's first two years.after david caruso jumped ship, and was replaced by the likes of jimmy smits, ricky schroeder and mark-paul gosselaar, all mediocre actors to say the least, it never lived up to it's potential. i felt sorry for dennis frantz, for after caruso left, he had to do all the heavy lifting on that show. never has one good actor been surrounded by so many bad actors. anyways this isn't the case with "rescue me"; all the actors inthis series carry his/her weight.i also agree with most of the reviewers who write that this is the best show on tv today. i only hope that this deserving series gets,at least, a five year run. the highest praise i can give "rescue me" is that it's in the same league as "six feet under", which, imo, was the finest tv series ever.kudos to f/x for having the guts to present controversial andexcellent shows, such as "over there" (sadly not renewed),"thief"(sadly not renewed), and of course "the shield"(what "nypd blue" could have been.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> TV'S FINEST </p>
+
+
+<h2> review.date </h2>
+  05-22-2006  
+<h2> review.text </h2>
+
+ <p> Alright, here we go:  'Rescue Me' is a great show, and I think the second season is probably even a little better than the first.  It's a matter of taste, it always is, of course, but particularly here as the show has moved in a somewhat different, more dramatic direction.  It's still got plenty of humor, of course, but the season has still got a more violent, dramatic tone and it ends in a black pit of despair for pretty much every character. (Well, alright, that's pretty true of the first season also, but it's even worse this time around.)Anyway, the appeal of this show is simply that it's got a large cast of very interesting characters, most of whom are fairly likable in spite of their various flaws.  The show centers around Denis Leary's Tommy, of course,  who is extremely reminiscent of Leary's standup persona, being the loud, angry, foul-mouthed jerk.  Tommy Gavin certainly isn't a nice guy, and most people will try and tell you that he's a complex and conflicted and you aren't really particularly supposed to like him, but pshh, whatever. *I* like him.  He's my hero, in fact.  The fact of the matter is, 90% of the time, Tommy is in the right.  Of course, in that other 10% he tends to severely over step the bounds of civilized society, but ehh, who cares.  Beyond him the most important character, at least in my mind, is Ken Shea, lieutenant in the firehouse.  He's probably the most conventionally likable character here, smarter and funnier than anyone else in the show, while simultaneously seeming like more of just a regular guy.  He certainly ain't perfect either, but he's still really the heart of the show, I think.There are just too many characters to consider them all individually: as we've got Franco, a former total womanizer who found out he has a daughter last season and is trying to turn himself around to some degree; Mike and Sean, two of the younger firefighters who are just particularly stupid and oblivious, and who, frankly, seem to be pretty much the same character; Laura, the one woman in the firehouse, who is, of course, quite an outsider because of this; Chief Reilly, another sorta normal guy character apart from his severe homophobia, which comes into play frequently since he has a gay son.  Then you've got Tommy's family, his kids his father his uncle and his inscrutable semi-ex-wife Janet, and his current girlfriend, the crazy Sheila and on and on.  Suffice to say, this show's got all sorts of stuff going on all the time, far too much to summarize in any meaningful way.  Occasionally individual plot threads won't work as well, and sometimes things peter out with no good explanation or conclusion (such as when Mike plans on killing his ex-girlfriend in a jealous rage, and then just doesn't.)  To be honest, the show is basically a prime-time soap opera, albeit far more professional and less cheesy than the real thing, but it's the same basic essence.  If you haven't seen this you may, reasonably, think it's a show about firefighting, but it really isn't.  Most of the characters just kinda happen to be firefighters, the actual, uhh, fighting of fires is a relatively small part of the show.Though you shouldn't need to be told this, those who are easily offended ought to avoid this show.  Yes, they use lots of swears and slurs and there are a number of butts to be seen.  Frankly, I dunno why this should be surprising to anyone in modern society, but apparently it is, so consider yourself warned.  As a whole, this season actually seems less concerned with being over the top, which is nice.  When something is trying too hard to be outrageous it can come off forced and tiresome, which does happen at a few moments in 'Rescue Me', but not too often, and not as much as in season 1.Geez, I've gone on and on and I haven't said anything yet, so I guess it's back to the basics to close out this review.  So, in summary: 1-  This show is funny 2- This show is dramatic 3- This show manages to create a certain amount of empathy for just about every character in it, even when they come into conflict. (Except for Janet, who is evil and who I hate.) 4- I like this show.  Watch it.  Also, the theme song is great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best show on TV right now </p>
+
+
+<h2> review.date </h2>
+  06-30-2006  
+<h2> review.text </h2>
+
+ <p> To the credit of everyone involved on this show, there is NEVER a moment that doesn't feel fresh or false. This show is not afraid to explore the darker side of the heroes that save lives everyday. It's not afraid to be offensive. It's not afraid to make you laugh at things that are not considered politically correct. It's not afraid to make you grieve. It doesn't stray away from despair, even if sometimes, the despair has moments of bittersweet humor. Denis Leary (Tommy), Callie Thorne (Shelia), Andrea Roth (Janet), Steven Pasquale (Sean), John Scurti (Ken or "Lieu"), Robert John Burke (Mickey) and Charles Durning (Tommy's Dad) are real standouts in this season. The writing, directing and performances are just the best on TV. FX, as I've stated before, has the most consistent level of quality in its dramatic series and RESCUE ME is at the top. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Consistently the Best Show on Television </p>
+
+
+<h2> review.date </h2>
+  03-15-2006  
+<h2> review.text </h2>
+
+ <p> This is arguably one of the greatest dramas EVER. I have to admit I am surprised myself. If asked I would have never believed leary could have done it, but he did. This movie combines the drama of public service along with one man's struggles.  To use this as a stab at New York Fire Fighters is unacceptable. Sure, there is foul language, sex, and other adult themes in this show, but doesn't that make it even a more correct depiction of life. If your life is like one big "enzyte" commercial, or like a scene from the movie "Pleasentville" then you probably don't want to watch this. If you live in the real world (ie USA) then you will love this season of this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Drama On TV !!!!!!!!! </p>
+
+
+<h2> review.date </h2>
+  08-03-2006  
+<h2> review.text </h2>
+
+ <p> I thought the 1st season was great, but this just topped it gets better with each season. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rescue Me 2nd Season </p>
+
+
+<h2> review.date </h2>
+  08-16-2013  
+<h2> review.text </h2>
+
+ <p> One of the best dramas of all time. When it was on in prime time, I never missed an episode. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the Best </p>
+
+
+<h2> review.date </h2>
+  03-08-2013  
+<h2> review.text </h2>
+
+ <p> This was an awesome DVD, but if you watch Rescue Me, you would do better to get the complete series, cuz you will not want to stop at just one season. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  02-01-2014  
+<h2> review.text </h2>
+
+ <p> Read my review of season One - season Two is every bit as good.  Tommy still hanging on by his fingernails - dealing (in his own way) w/whatever life throws at him...pretty much everything, but the kitchen sink.  Fearlessness is the ultimate attribute... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tommy Gavin & His Skinny White Irish Butt Live... </p>
+
+
+<h2> review.date </h2>
+  01-27-2014  
+<h2> review.text </h2>
+
+ <p> This TV show just got better and better with every season.  The premise of a damaged fireman who is dealing with the aftermath of 911 was handled very well.  There are lots of twists and turns, laugh out loud fun, and completely unexpected complications, as the story of the men in one New York firehouse is told. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this series! </p>
+
+
+<h2> review.date </h2>
+  03-09-2007  
+<h2> review.text </h2>
+
+ <p> Season 2 of Rescue Me is outstanding and surpasses season one in every way! The great characters and writing just keep getting better in this mix of drama, action and comedy. It's a dramatic show, but laceed with truthful insight and some great laughs too. Denis Leary and Co. have a real winner here and I hope the series continues for years. The show is shot in widescreen and the DVD transfers look awesome on my big screen! This season also includes commentary and some interesting extras. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> RESCUE ME CONTINUES TO GET EVEN BETTER! </p>
+
+
+<h2> review.date </h2>
+  09-02-2012  
+<h2> review.text </h2>
+
+ <p> I often, sadly, find myself late to the party of great television shows until they are near the end or in their final season. That was the case with Rescue Me. Although I have long since been a fan of Denis Leary's, I didn't begin watching the show until the series finale episode! I was moved but of course, needed to know what events transpired up until that end episode I watched. I didn't realize the show had so many seasons and now that I have watched all of them (in one week--I was addicted!!!) I am SO sad that I didn't watch week by week with the rest of the world when I had my chance.The show has many rough edges but that is what makes it fascinating; underneath it all lies, in my opinion, a very poignant television experience.Many, many times the show reminded me of some Cinemax late night, soft core porn but, with actors demonstrating such depth and male characters who were EXTREMELY easy on the eyes, I managed to get through it.Looking past the risque sex scenes episode after episode laid a very poignant tale of men; of brothers and their many escapades through life. There are some annoying roles too (most in part by Sheila)but even those characters come alive for me. I cannot help but feel I may have despised Sheila the most towards the end because I related to her slightly; wanting to fill the void left by the love of another, for another who simply cannot be kept entirely by her.Most importantly I must say, never has a fictionalized television show (with the one exception of HBO's Newsroom episode 5/1) have a felt such a serge of energy or truth or emotion for the FDNY and what they went through on 9/11. I remember exactly where I was, who I was with, what I was doing and what I did immediately following the first broadcast on that day. I remember how I felt afterwards, and the images that filled my mind but unbelievably, I never, not once, considered the men who rushed in to save or in search of the people who survived and those who did not. I never recognized at that time, those men who gave their lives that day, nor the lives they lived up until 9/11.Rescue Me isn't all 9/11 but that is the premise of the show. It is about so much more; about family, friends, bonds we form and break. It is about faith and spirituality and what we do with the lessons we learn. I LOVE this show and I will recommend it to all.You don't have to watch it all at once the way I did, but you will probably want to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Officially Rescued! </p>
+
+
+<h2> review.date </h2>
+  04-05-2006  
+<h2> review.text </h2>
+
+ <p> The first season of FX's Rescue Me was solid to say the least, but not only does season two improve the series on every possible aspect, it blows it away.  Tortured New York firefighter Tommy Gavin (Denis Leary) finds his life in shambles as his wife and children have left him, his girlfriend on the side is pregnant, and he's been re-assigned to another firehouse that sees no action at all.  Eventually everything works itself out, and Tommy sorts his life back together as he quits drinking, but by the end of the season, Tommy's new found sobriety is tested in a way that you'll never see coming, as tragedy strikes and things are promised to never be the same again.  There are sub-plots galore, including the captain (Jack McGee) dealing with his mentally debilitating wife and reconciling with his gay son, as well as Franco's pain killer problems.  It's surprising that Leary and co. managed to weave a storyline so involving, and the cast once again does electric work, particularly Leary whose scathing style is in fine form.  By the end of the season, you'll be begging for more, guaranteed; as things take a turn for the worst, and things are set to explode for season three.  All in all, like FX's other series the Shield and Nip/Tuck, Rescue Me achieves a surprising greatness in it's sophomore season, and hopefully, season three will be every bit as good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Light years beyond the first season </p>
+
+
+<h2> review.date </h2>
+  07-23-2006  
+<h2> review.text </h2>
+
+ <p> This second season finds the characters spending more time in dark serious places, which I guess means it has more depth, but the bleakness is so consistent that it becomes predictable and loses it's impact after a while. The good fortune fate hands the characters is usually temporary, the bad fortune is usually permanent. I guess the thinking behind it is if something good happens to the characters and it's permanent then that's the end of their pursuit of happiness, so to keep it going the writers need to make sure every good thing that enters the character's lives ends badly. I'd like to see the writers set themselves the challenge of balancing the heavy drama between positive and negative and still find new places to take the show, but considering how comfortable they seem wallowing in tragedy I don't think I'll bother with the third season. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Please enter a title for your review </p>
+
+
+<h2> review.date </h2>
+  04-19-2009  
+<h2> review.text </h2>
+
+ <p> i own season= 1, 3, and 4. as for season 2 i just did not like it as muchmain reasons----the female fire fighter i just could not buy her as a serious character.  her voice was annoying and  to me the show lost something when she came along. instead of the  guys sitting around talkingabout real things. it  became too much of  her being on her soap box ofbeing a female fighter. i also did not care for the story of  LOU and thescam artists hooker. just did'nt get into it. but of course tommy, probie,sean, franco, jerry, were all amazing. i passed on this season </p>
+
+
+<h2> review.summary </h2>
+
+ <p> THIS SEASON DISAPPOINTED ME </p>
+
+
+<h2> review.date </h2>
+  08-22-2006  
+<h2> review.text </h2>
+
+ <p> I wasn't much of a Denis Leary fan before watching the Rescue Me series.  I really like him in this role.  The local video stores carry Season 1 but not Season 2 which is why I bought it.  Overall, I enjoyed it.  The producers could cut back on some of  the racy scenes though.  That's just my opinion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Season 2 </p>
+
+
+<h2> review.date </h2>
+  05-13-2006  
+<h2> review.text </h2>
+
+ <p> With all the new shows that needed to be reviewed, I really haven't had the time to review a summer show that just ended. The first season of Rescue Me was so entertaining that it won the inaugural STA for Best Cable Show for its first season. That season we were introduced to the gang that included the ultimate alpha-male Tommy, the chief Jerry, the old dude Kenny, the new guy Probie, the ladies man Franco, and the idiot Garrity. The season ended with Franco condition unknown after getting hurt due to Tommy's mistake with Tommy adding anger to his guilt when his wife took off with their kids.As the second season starts, Tommy asks for a transfer and is ship off to the suburbs where nothing happens, Franco recovered but picked up a painkiller habit, and Tommy's kids were nowhere to be found. But each episode is started with the heart pounding C'mon, C'mon. Other main storylines that were introduced was Kenny now was living at the firehouse after getting a divorce, and the chief having to care for his wife who is in the early stages of Alzheimer's.Tommy does still drive the show. In an attempt to look like a better father in hopes to win custody of his kids once he finds them, he decides to sober up. This eliminates the ghost he continually would see last season. Grant the side effect of being sober was that he now kept on seeing Jesus and on occasion Mary Magdalene who, at least in the entertainment department, was more entertaining than the many ghosts that haunted the alcoholic Tommy.There were a few storylines this year that I could have done without, most notably the one with Tommy's half-brother priest. But as a whole the second season was just as entertaining as the first. The most entertaining is whenever Garrety walk on the screen and show some great comic chops, from helping Probie to determine whether he had ball cancer to debating the existence of God with Tommy's youngest daughter, Garrety always brings his A game. And with everything that happened at the end of this season, it looks like season three is shaping up to be as good as the previous two. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Now We Grieve Cause Now Is Gone </p>
+
+
+<h2> review.date </h2>
+  11-14-2009  
+<h2> review.text </h2>
+
+ <p> While I am really anti-Denis Leary, I LOVE his work with this show. It is very much a man's show but it's gripping and very hard to put away once you start. I can't even describe what makes this show so captivating. It's pulls on emotions and is a dedication to the lives of firefighters after 9/11 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rivetting! </p>
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> First it was funny, then slowly things got bad and then so much worse. The whole crew is wrecking not just Tommy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's llike watching a train wreck! </p>
+
+
+<h2> review.date </h2>
+  02-14-2013  
+<h2> review.text </h2>
+
+ <p> First, it's totally for adults.  This show is certainly not kid-friendly.  But if you want real reality TV, then watch the series.  If possible, watch it on your Roku player.Don't have a Roku?  Then invest in a Kindle Fire.  That'll do until you can get one to watch the entire series.Don't miss this show! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> More complex that you might think </p>
+
+
+<h2> review.date </h2>
+  05-31-2006  
+<h2> review.text </h2>
+
+ <p> Honestly, this packs many more thrills and chills than the current season of the Sopranos. Way more plot action, way more humor - things are continually moving forward, like a hungry shark...Great character development re: Tommy and family, his situation, etc. and great side characters. I still find his "visions" - where he "sees dead people" a little hackneyed and cornball. The dramatic oomph the show packs doesn't need gimmicks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mega Entertainin' </p>
+
+
+<h2> review.date </h2>
+  01-10-2008  
+<h2> review.text </h2>
+
+ <p> At least, everyone on this show does!  Tommy Gavin goes sober after years of drinking, reconnects with his wife and kids, and even tries being mellow for a while...only to see everything torn asunder by the death of a family member, the loss of potential millions after his dad's newest wife departs, the abuse of his mistress by her sometime girlfriend, and another close call on the job.In the meantime, the other firefighters contend with the heartbreak of a spouse with Alzheimer's, the departure of the only female in their squad, a girlfriend who turns out to be a crook, a painkiller dependence, and more.Everyone, especially Denis Leary, gives a strong performance as we see more layers of complexity develop in these characters over the course of the second season.  Tatum O'Neal appears late in the season as Tommy's fiery, troubled sister as well.I wonder if things could possibly get any worse for these folks in season 3! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Everyone needs to be rescued </p>
+
+
+<h2> review.date </h2>
+  04-13-2014  
+<h2> review.text </h2>
+
+ <p> This was a brainless series from FX . The actors all have brick wall personalities and the plots are stupid . Just mindless soap opera garbage . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> More trash courtesy of FX </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B001DJ7PSM <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-17-2013  
+<h2> review.text </h2>
+
+ <p> Beautiful Ohio is basically about a family where each member has their own strengths.  The mother prefers professional piano music, the oldest son has a talent for math and numbers, the younger son is the reasonable one with the most common sense, and the father... well, he has issues but at least he supports his family.The story mainly focuses on the two brothers (and the girlfriend of the oldest brother).  Throughout the movie, we're never really sure if the parents are just being extra supportive of their oldest son or whether he really does have an exceptional talent for math.  You see, he spends his days sitting around doing drugs, playing guitar and listening to music.The girlfriend of the oldest brother secretly lives in the basement.  Only the two brothers are aware of this, though neither brother ever brings it to the others attention so yeah, it's basically treated as a really big secret.  She's played by the beautiful Michelle Trachtenberg (who sort of resembles the current Wendy's girl we see on commercials but with black hair- not the same girl however).  She sort of has the hots for the younger brother.While one could argue there's not much of a plot, I actually think the movie excels at just being a different type of family drama.  Something that stands apart from the norm.  It's most certainly a drama with subtle elements of humor (such as the father getting drunk and high and making a jerk out of himself at the dinner table in one segment).What I DIDN'T like is the final 5 minutes.  Without giving it away, there's a major curveball thrown here (no pun intended) and the part that comes after... well let's just say, I didn't care for it at all.  A little overdone is one problem with it, but the storyline really goes WAY beyond what it should've near the very end.  This is an innocent drama concerning a family with different issues after all.  No need to exaggerate the storyline.  Perhaps because I never thought the older brother creating his own language was appealing is the reason for my dislike of this scene.The soundtrack is *incredible*.  I'm someone who must have heard over 1,000 albums from the 60's and 70's, but I honestly didn't recognize most of the songs being played throughout the movie which leads me to wonder if the music really is from those two decades or just really good, believable imitations.  The one flute/keyboard/guitar jam while the oldest son was in the attic (and the father getting high) really sounded incredible to me.  Would love to know the name of it.  As is the pop song during a driving scene later on.Overall, excellent movie but flawed thanks to the less than spectacular ending. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> drama that steps in a different direction </p>
+
+
+<h2> review.date </h2>
+  12-07-2011  
+<h2> review.text </h2>
+
+ <p> The tale of two brothers, one average and one a math genius, make this low budget indie come alive, even if the payoff is minimal at best. What's William Hurt doing here? He's not bad, but I thought he would be in bigger films. The whole thing is a little offbeat, of course, and that's why it's worth watching. Not many films are set in as bland a place as Ohio. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Slow paced, but worthwhile </p>
+
+
+<h2> review.date </h2>
+  12-02-2013  
+<h2> review.text </h2>
+
+ <p> This movie is ok. It is definitely a little strange. Not much action or drama, the character portrayals are somewhat weak. I don' think it is worth spending money to see in a theater. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ok movie, poorly developed story line, weak characters. </p>
+
+
+<h2> review.date </h2>
+  12-06-2008  
+<h2> review.text </h2>
+
+ <p> WARNING:  This film is TRASH.  It encourages drug use, and tries to make the viewer "feel sorry" for homosexuality.  The Father ends up smoking marijuana with his socially introverted son and friend, and then encourages his younger son to indulge.  The worst cinema-graphic message possible is presented here.  If you happen across this DVD, please consider that it WOULD be worth 10 seconds of your time to place the disk inside your microwave on high.  Any more time spent with this "Un-Beautiful Ohio" will be wasted.  Mathematically, watching this film will deduct 90 minutes from your lifespan. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrible Film... Culturally Destructive </p>
+
+
+<h2> review.date </h2>
+  11-30-2008  
+<h2> review.text </h2>
+
+ <p> Ethan Canin is one of our more important authors (`America, America', `Emperor of the Air', `The Palace Thief' which became the film `The Emperor's Club') and to discover a screenplay/story by him is a treat. BEAUTIFUL OHIO is a fascinating little film directed by Chad Lowe about an apparently close knit family that knows really very little about each other: it is Canin's purpose to unravel the stories of 'ordinary people confronting aspects of themselves they'd rather not see.' Behind each member's delusions and hopes to ultimately reach the mid-ground of recognition of just how special is each member is where this very tender story travels.Simon Messerman (William Hurt) is an insurance salesman who happens to read voraciously and speaks in quotations of famous writers and thinkers. His wife Judith (Rita Wilson) is equally bright, quotes as often as William, but adds a flavor of correcting people's grammar and living in a world of her beloved composers (Chopin, Schumann, Mozart, etc). They have two sons - Clive (David Call) is a long-haired math genius who despite his gifts spends his time playing loud hard rock music and speaking in a language all his own, and William (Brett Davern) who is devoted to his more intelligent brother but longs for a sense of normalcy in a family that tends to fragment at odd times. Clive's best friend and the only person who understands his special language is Elliot (Hale Appleman): the two of them essentially keep to themselves and smoke pot while they are not entertaining the 'homeless' Sandra (Michelle Trachtenberg). Sandra chooses to live in the basement of the Messerman house to avoid coping with her own abusive parents. The four youngsters are a team of sorts, thought the interrelationship roles each plays is not at first apparent.The Messermans brag about Clive's constant triumphs at math contests, entertain their neighbors the Cubanos (Matt Servitto and Julianna Marguiles), and fill their lives with attending math meets, basically ignoring the personalities of their two boys. William longs for acceptance and understanding by his parents: Clive lives in his own world. William is driven to discover the meaning of Clive's strange language and eventually finds clues that lead to the secrets he'd rather not know. A situation occurs that stuns the family, and the story jumps forward to the resolving aftermath of that discovery.For a bare bones budget film the story is well told and is a compelling one. Ethan Canin reads better on the page than his words convey through the mouths of actors, and at times the result is pretentious dialogue. But the cast is superb and the ending is one that makes the audience stop, think, and want to see the movie again for the clues we missed. Well worth seeing. Grady Harp, November 08 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Family Finding Itself </p>
+
+
+<h2> review.date </h2>
+  03-15-2009  
+<h2> review.text </h2>
+
+ <p> While this film had a decent plot, there is a reason it has been so-unnoticed. The direction doesn't make you curious, the script doesn't flow, the characters are annoying and the film seems to be going on on it's own without creating any questions or being relevant to the viewer. There is a character who's a math genius yet his character was very incongruous and it seems like the director is having a tough time portraying him. Another young girl who loves to break hearts was also a little twisted. This is a bit like that Christina Ricci picture where she tries to induce someone younger than her to have sex with her, only that somehow that film was more relevant.Can't help but be cynical as ever. Do yourself a favour, close this window and do not watch this film. Want to watch a similar much better film? The Squid and the whale. But I'm sure most fans have of this fickle genre have seen that film. Cheerio. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amateur Direction! </p>
+
+
+<h2> review.date </h2>
+  04-20-2014  
+<h2> review.text </h2>
+
+ <p> I wouldn't call this film a masterpiece or say it is a favorite, but the overall style and development of story and characters was fairly to very good. I enjoyed it enough for a second viewing as rewarding as the first. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A subtle title </p>
+
+
+<h2> review.date </h2>
+  11-29-2008  
+<h2> review.text </h2>
+
+ <p> This film languished for a couple years in the Weinstein vacuum of obscure DVD release patterns, but it finally trickled onto the slate this winter.The story revolves around two teen brothers (one genius/obscure type and one trying to be normal) and their stereotypical 1970s working-class parents all living in Cleveland. Throw in some boring neighbors, one mysterious girlfriend and lots of soul searching dialogue and voila - a really uneventful film.I keep reading accolades about how amazing this film is since it came out in 2006. The opening flashback sequence and the last two minutes of the film would make for an attractive story in themselves, but then there is this mud in between. William Hurt is always fun to watch, Julianna Margulies is given front billing but she has TWO lines in the whole film and 5 scenes. SPOILERS - The ending was rushed and seemed like an afterthought in relation to the film; they introduce 6 new actors in the last 2 minutes and expect the viewer to assume what has happened in the prior 20 years.Some interesting performances but the story never really holds together and that ending smashes together everything too quickly and leaves you with disappointment. No extras on the DVD and a little harder to find with that IFC exclusive agreement. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Anticipate nothing, and you won't be let down </p>
+
+
+<h2> review.date </h2>
+  11-17-2008  
+<h2> review.text </h2>
+
+ <p> "Beautiful Ohio" stars William Hurt and Rita Wilson as Simon and Judith Messerman, progressive parents who want nothing but the best for their two boys, Clive (David Call) and William (Brett Davern).  Clive, a math prodigy seemingly a shoo-in for the top prize at an upcoming mathematics competition, often disconnects from his doting parents by speaking in a made-up language that nobody but himself can understand.  William, on the other hand, is just trying to get by as he struggles to work his way out from under the shadow of his elder sibling.  Director Chad Lowe has elicited effective performances from the entire cast and fashioned a dramatic story that could easily have gone the way of dreary soap opera.  Instead, it draws us into the family with humor, emotion, and intelligent pacing.  The bare-bones DVD contains no extras. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Intriguing Drama of Sibling Conflict </p>
+
+
+<h2> review.date </h2>
+  12-05-2011  
+<h2> review.text </h2>
+
+ <p> I thought it was a lyrical and thoughtful piece... Don't know why some reviewers had such strong reactions against it... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful film! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

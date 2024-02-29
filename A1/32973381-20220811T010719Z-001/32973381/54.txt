@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B002NX7M9O <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-20-2013  
+<h2> review.text </h2>
+
+ <p> the clamshell case is a very good quality and fits the earphones perfectly. I would recommend this product to anyone. It allows the earphones to last longer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good </p>
+
+
+<h2> review.date </h2>
+  11-28-2011  
+<h2> review.text </h2>
+
+ <p> The case is semi hard, has a good zipper and fits the headphones. If you have expensive headphones as I do, don't rely on those inferior cloth bags that the manufacturer supplies. I'd recommend this case without hesitation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Case </p>
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> Thgis is the best little clamshell storage thingy I have ever owned! I put stuff in it, close the zipper, and it all stays inside! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect! </p>
+
+
+<h2> review.date </h2>
+  02-14-2012  
+<h2> review.text </h2>
+
+ <p> Excellent earphone case!  Great price, perfect size, durable hard case; earphones fit perfectly, what else can I say...highly recommend.Earphone Case - Black Clamshell Style with Zipper Enclosure, Inner Pocket, and Durable Exterior! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Earphone Case - Black Clamshell Style </p>
+
+
+<h2> review.date </h2>
+  07-12-2010  
+<h2> review.text </h2>
+
+ <p> I bought this for my headphones because they kept getting tangled and crushed in my bag.  this pack is very sturdy and has a hard shell so it protects the headphones well.  my headphones fit well and the zipper is well made.  so far, no problems with the case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product for a good price </p>
+
+
+<h2> review.date </h2>
+  10-08-2013  
+<h2> review.text </h2>
+
+ <p> It does the job, no nore, no less, seems well constructed and at the right price. what more can one say. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job </p>
+
+
+<h2> review.date </h2>
+  01-30-2013  
+<h2> review.text </h2>
+
+ <p> light and comfertable fits any pockets help to save the earbuds must by to save and keep your earbuds in good shape </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very good </p>
+
+
+<h2> review.date </h2>
+  07-13-2014  
+<h2> review.text </h2>
+
+ <p> This little case really works. I bought it to keep my earphones and Sandisc ClippaPlus in and its perfect. The semi hard case is very sturdy and the zipper closes easily. It may seem a tiny bit large for the pocket but it does still fit in mine and hasn't bothered me at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This little case really works </p>
+
+
+<h2> review.date </h2>
+  11-09-2011  
+<h2> review.text </h2>
+
+ <p> I recieved the clamshell case from the vendor.  I recieved it very quickly and the case itself was well beyond what  expected.  Its well made and appears to be very durable.  It holds an extra set of earhones and it keeps the resonably secure and protected.  The case is semi-rigid and does a really good job of keeping things from being crushed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Little Case </p>
+
+
+<h2> review.date </h2>
+  03-26-2014  
+<h2> review.text </h2>
+
+ <p> Nice basic zipper case for your ear buds or other cables you need to keep organized.  Help keeps cables from getting tangled. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Basic Case </p>
+
+
+<h2> review.date </h2>
+  01-10-2014  
+<h2> review.text </h2>
+
+ <p> Nothing fancy, but this black clamshell style earphone case is just what I need to protect and carry my Sennheiser CX 300B MK II Precision Enhanced Bass Earbuds </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Product, Nice Price </p>
+
+
+<h2> review.date </h2>
+  06-20-2011  
+<h2> review.text </h2>
+
+ <p> This clam shell case is very sturdy, but bulky. It protects my Monster Turbine well with room to spare. In fact, I was able to carry  headphones and iPod Nano 6th Generation into the case. One minor complaint is the zipper feels stiff. I ended up spraying some WD40 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bit Bulky, but sturdy </p>
+
+
+<h2> review.date </h2>
+  11-07-2011  
+<h2> review.text </h2>
+
+ <p> This case is, to me, a must have for my earphones.  The case is indeed sturdy, with good smooth zipper, and a useful inside mesh pocket.  The shipping was a fast 2-day process as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great case! </p>
+
+
+<h2> review.date </h2>
+  01-19-2013  
+<h2> review.text </h2>
+
+ <p> When I lost the case for my Klipsch earbuds, I needed a replacement.  Unfortunately for me, I didn't buy this case first.  The case I did buy was small, but soft and flexible.  Someone stepped on the case - while it was in my laptop back - and manged to destroy one of the buds.  Next time, I found something a little sturdier.This case is NOT crush proof, but it does offer decent protection, and feels well made and strong.  The zipper works well, and the inside pocket is handy for storing extra tips for the earbuds and an extra SD micro SD card for my phone.No one has stepped on this case, but I feel a bit more confident that if someone did, the case would take the brunt of the damage, and my earbuds would likely survive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent Protection for Expensive Earbuds </p>
+
+
+<h2> review.date </h2>
+  09-09-2013  
+<h2> review.text </h2>
+
+ <p> The semi-hard clamshell case makes it perfect for slipping in your pocket yet assured the items will not be crushed. Great value. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect Hearing Aid Case </p>
+
+
+<h2> review.date </h2>
+  02-24-2013  
+<h2> review.text </h2>
+
+ <p> This case is perfect not only for the earphones I ordered but it also will hold my IPOD. I started to not order the case but it would have been a big mistake. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect </p>
+
+
+<h2> review.date </h2>
+  10-12-2012  
+<h2> review.text </h2>
+
+ <p> This is a great size for your pocket and keeps your earbuds from getting knotted up in your pocket. I might need another one for work... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good size!!! </p>
+
+
+<h2> review.date </h2>
+  10-19-2013  
+<h2> review.text </h2>
+
+ <p> its good to store your earphones but it does not keep thme from tangeling so emy rating is a 4 out of 5 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> it works </p>
+
+
+<h2> review.date </h2>
+  02-05-2014  
+<h2> review.text </h2>
+
+ <p> I bought this, and then got a USB mem stick holder for the Ipod Shuffles, now I can have my music and listen to it also. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NIce little case </p>
+
+
+<h2> review.date </h2>
+  06-15-2010  
+<h2> review.text </h2>
+
+ <p> This is a nice sturdy case that will comfortably hold my Sansa Clip and a pair of standard earbuds.  I was really hoping to put my Shure SE110s in it, but the cable on them is too big -- especially with the extra connectors (Shure makes the buds with a short cable & an extension instead of one normal sized cord -- convenient in some situations, but not so good when it comes to storage).  The Shure earbuds came with a soft oval case that fits nicely, but doesn't offer any real protection.  This clamshell case is nice and sturdy -- plenty tough to protect your stuff -- but not quite big enough for what I need.I love my Shure earbuds; but this case is actually nice enough that I'm considering buying some new buds to travel with instead of a different case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice case, but doesn't quite suit my needs </p>
+
+
+<h2> review.date </h2>
+  08-17-2011  
+<h2> review.text </h2>
+
+ <p> If you need a solid case for protecting inexpensive earphones, this is it! This case fits most earphones (I put my Sony's in it), and the zipper closes nicely. Price is very fair. The only consideration I would give thought to is the shape. I prefer square or rectangle cases, but this one is good enough, especially for the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect case for protecting inexpensive earphones </p>
+
+
+<h2> review.date </h2>
+  06-14-2013  
+<h2> review.text </h2>
+
+ <p> There's not a lot to say about this case.  Yes, the zipper works, the little elastic pouch holds the earphones and case seems to provide protection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent, cheap earphone case </p>
+
+
+<h2> review.date </h2>
+  12-07-2011  
+<h2> review.text </h2>
+
+ <p> I wanted a rugged, inexpensive case to use for my earbuds.  This is perfect.  The zipper works well.  I can drop the case in my purse or bag without a worry. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly what I wanted </p>
+
+
+<h2> review.date </h2>
+  09-04-2012  
+<h2> review.text </h2>
+
+ <p> You need this!!!it's well made, keeps your earbuds in good condition. Goes great in a backpack but not so well in your pockets. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great value </p>
+
+
+<h2> review.date </h2>
+  10-18-2012  
+<h2> review.text </h2>
+
+ <p> This is a nice case.  It is hard enough to protect your ear buds, but is too bulky to fit comfortably in a front pants pocket.  This would be perfect to clip to a backpack or belt, or to protect your earbuds in a bag.  It is large enough to also hold a splitter or other small accessory as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice case, but too bulky to fit in a pocket </p>
+
+
+<h2> review.date </h2>
+  04-28-2010  
+<h2> review.text </h2>
+
+ <p> We were looking for a case to keep our iPhone earphones.  This case is the perfect size.  It is very compact and surprisingly sturdy.  It would take a lot of impact to damage this case.  There is a nice mesh pocket inside the case which I use for storing a cloth to wipe my iPhone screen.  My only suggestion would be to insert one of those interior pieces that you spin to roll up your cord.  In this case your cord still gets a little tangled, but not nearly as much as having it loose in your pocket or purse.  All-in-all a good purchase for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice size, very sturdy </p>
+
+
+<h2> review.date </h2>
+  05-17-2013  
+<h2> review.text </h2>
+
+ <p> The rounded clamshell shape is really nice to hold and pockets easily. Overall quality is great for the price.It really protects valuable earphones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ergonomic Case </p>
+
+
+<h2> review.date </h2>
+  02-23-2012  
+<h2> review.text </h2>
+
+ <p> when i saw this little case, i thought why not, i currently owned a pair of ecko brand headphones. theyre cheap and flimsy but still needed some protection. so i bought this. i got it and it was big enough to not cramp the wire together and small enough to place in a bag without being seen. its a great overall protective case for earbuds. i bought a second pair two days later. oh and they arrived one day earlier than the estimated shipping date. and who doesnt love that </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great little thing </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

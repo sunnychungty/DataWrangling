@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00CTY84KI <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> Overclocks well, benchmarks beat stock titan on almost all games from what I'm reading at tech sites.  Idle I'm at around 37c and running Metro Last Night on Max everything  (3x SSAO was only non max setting) 1920x1080) temps hit around 75c.  FPS were averaging around 35.)  I played Metro the first time on my 660 and it looked great at lower settings, but when cranked up, the lighting and detail really add to the atmosphere (not sure if it's $650 worth of atmosphere, but oh well).Replaced my GTX660, had the extra power pins, but extras provided as this needs 8+6 power pins.  No games included.  EVGA includes their own tweaking software, which is goofy looking but effective, allows for OC settings to stick over reboots.  Build quality is excellent, may even be quieter than my 660.  I prefer the reference cooler as it exhausts out the back of the card instead of keeping it in the case as the ACX version.For Adobe CS users thinking all these cuda cores will mean 2-3x the performance, I have bad news, it doesn't.  It's maybe 20% better than my 660, which is still good but disappointing none the less.  You'll need to run the CUDA batch hack to add the GTX780 text line to the necessary files.  Works well with Premiere and AE CS6.  Cloud versions will allow all cards default.If you have a 750 psu or better, you can use another nvidia card just to handle the Physx (min 36 cuda cores) (done through the nvidia software).  I didn't try it as the results were debatable, but nice option.If you have the money, it's hard not to be impressed by this card.  Factory OC is nice in that to me I can have more confidence in the chip being able to overclock well...so far so good.I bought my card from the "Egg" store as Amazon was out of stock at the time and while saving on taxes was nice (TX), the "experience" was not what Prime has gotten me used to.  Took a week to ship, customer service was much more rigid, couldn't update shipping 5 mins after ordering and their review system censors more than anything I've ever seen.  God forbid you need to return anything, cause your fault or not, it'll cost ya.  I'd recommend buying from Amazon anytime.SYSTEM:I73770k @ 4.5ghz24GB 1800 RAMSSDs x2GTX 780Corsair Case 3x Fans650 Bronze PSUVizio 65" LED HDTV over HDMI </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Overclocks well stays cool </p>
+
+
+<h2> review.date </h2>
+  07-19-2014  
+<h2> review.text </h2>
+
+ <p> Fastest Video card I ever own. period </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  12-14-2013  
+<h2> review.text </h2>
+
+ <p> In the past, I've always had to be more budget oriented and had to opt to spend more money on the CPU or RAM and less on the video card and would typically look for a mid-range GPU (but always NVIDIA cause I loathe ATI/AMD's catalyst control center).  This time around I was able to splurge for a high-end card.  I am absolutely blown away by how beautiful my game looks.  At this time I am only playing Final Fantasy XIV, but I crank it up to maximum and everything looks absolutely beautiful and runs smoothly even with a bunch of other players around.I also prefer to buy E-VGA brand cards whenever I can because they stand behind their products and you get extra warranty benefits just for registering the product.  I also know the fan on the card isn't going to start rattling or crap out on me after a few months like I've had happen on bargain brand video cards I've put in PCs like my media center.  With E-VGA you are getting top-notch quality on every product they sell whether you buy a low end card or a high end card.I highly recommend this product and it is worth every penny.  It is already almost 10% less today to buy than it was when I bought it about a month ago, but I would still pay the price I paid for this.Tech notes for those interested.  I am running this card with a Asus Sabertooth Z87 mobo, Haswell Core i7-4771 CPU, 32GB of Corsair Vengeance DDR3 1866 memory, I do not overclock the CPU or the GPU and I use stock cooling solutions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> First High-End GPU I've Bought.  Totally worth the money. </p>
+
+
+<h2> review.date </h2>
+  08-18-2013  
+<h2> review.text </h2>
+
+ <p> This card is the best I have bought, I upgraded from gtx580 this out does it all the way. MOH warfighter is totally different. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gtx 780 </p>
+
+
+<h2> review.date </h2>
+  12-24-2013  
+<h2> review.text </h2>
+
+ <p> I really like a quiet computer -- the one I built for my wife is literally silent (no moving parts).For high-end gaming cards, however, that's not practical.I previously used an EVGA GTX 580, and while not even close to as loud as an AMD Radeon 290, it was still loud enough that I could not use open-ear headphones in a graphically intense game.The GTX780 is quieter -- not just a little bit, it's incredibly quiet even at full load, and barely audible at idle. Absolutely amazing job on the cooler, nVidia! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It isn't just that it's much faster, it's so very quiet. </p>
+
+
+<h2> review.date </h2>
+  06-17-2013  
+<h2> review.text </h2>
+
+ <p> Replaced my SLI GTX 670s with this card and all I can say is wow. It looks sharp and has super cool temps. It overclocks like a monster +110 + 700 +38mV stable. 3GB of VRAM is plenty for gaming on a single 1080p screen and it is able to max out all the latest games.I would recommend for anyone looking to spend this kind of money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Holy crap </p>
+
+
+<h2> review.date </h2>
+  04-12-2014  
+<h2> review.text </h2>
+
+ <p> Give it a good score for what is expected.Recommended this video card great graphics. Excuse my English, I'm from Venezuela and I'm not very good with language. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> all excellent </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> After MUCH research, I decided to put this in my new computer build thats primary goal in life is for rendering AE and Vegas videos.  This card is awesome.  Enough video outs to hook up my monitors, super fast rendering with AE.  Looks great.  Worth the $$ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AWESOME video card </p>
+
+
+<h2> review.date </h2>
+  01-26-2014  
+<h2> review.text </h2>
+
+ <p> Simply put playing Assassin's Creed Black flag with everything set to ultra at 1920x1200 is choppy most of the time. Maybe games have become more demanding these days but my previous GTX 680 (4GB) was able to handle all games at maximum settings. I don't have it anymore so I can't compare them unfortunately but this feels like a step backwards given the huge price tag.I don't have any bottlenecks in my system (Ivy Bridge-E, 8GB RAM DDR1600, Intel 240GB SSD, 1000W PSU). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For a $500 you would expect stellar performance </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> I purchases a Geforce GTX660 about 6 months ago and when Battlefield 4 came out I needed an upgrade to run BF4 on my 3 monitor setup on Ultra. I have an MATX case so while it supports dual video cards its tight so I wanted to get a card I could run without using SLI as my case can get hot. This card just screams. Everything I throw at it effortlessly handles it with ease. I love my NVidia Shield and this card words great with the Shield as well. This card, in my case, which doesn't have the best airflow as I wanted a very small and quite box, can run 100% and stays around 81c max. Just amazing!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best video card I have ever owned </p>
+
+
+<h2> review.date </h2>
+  12-17-2013  
+<h2> review.text </h2>
+
+ <p> Whether you like AMD or Nvidia, you have to admit that the reference GTX 780 looks absolutely beautiful. It's Geforce GTX logo even glows green on the side. If you have a see through window this is really nice. And you can make them breath and do all sorts of things with the EVGA or Nvidia software. They also have a seperately purchased backplate you can buy that covers up your PCB and makes the card look even better.I've been looking to get a top of the line graphics card but 649.99 was too expensive for my taste. But as soon as these dropped to 529.99 I pounced on them. I got the EVGA Super Clocked edition as well.Noise- This card is really freaking quiet too. At idle you can't even hear it. And when gaming you hear it a little, but it's not an annoying fan noise. It doesn't make that whirring sound most blower style coolers make. Instead is just sounds like the wind is blowing. And the fan isn't always going up and down, it stays constant as to not have those sound variations like a revving engine. I really like the quality of the cards build and everything about it is quality.Performance- The performance of this card is top notch. I used to have a GTX 660Ti, and this card just blows that one away in every way possible. It's even ok for Bitcoin mining. Not great, but ok. I get 330Mh/s. But it wasn't built for that. In games it's just amazing. I haven't had this card yet reach 80c while playing a game. The most it reaches is around 75c, most of the time it stays around 70c. Or course it is the winter time though. But it's not like I&#34;m outside, it's still 70 degrees in the house. This cooler keeps this card really cool overall. And I even have it overclocked to 1093Mhz. Up from 993 stock. That is the boost clock. The MAX I can get out of this card without adjusting the voltage is about 1133Mhz Boost Clock. Which is quite good IMO, being that you don't have to touch the voltage. The card is still stable after 1133Mhz, it's just that I get artifacts if it goes past that. IDK if the artifacts are from core clock or memory. I haven't messed with it that much so you can probably get a lot higher if you mess with it enough. I can also overclock my memory easily to reach over 7000Mhz, or 1752Mhz depending how you look at it.Benchmarks- In 3DMark11 I get around 14000 Total Score. In CODII Zombies I get from 200-250Fps. Crysis 3 everything on MAX I get from 70-90FPS. Farcry 3 I get 75-100FPS. I used to have to turn down the graphics a little with my 660Ti, but with this card you can just put everything on MAX and know your gonna get high enough FPS for it to run smooth at 1920x1080 on a 120Hz monitor.I simply do not see who would want to pay 500$ for an AMD R9 290 over this card. This card is around the same speed, but it's quality is so much higher. The R9 290's cooler sucks, you can't run it in crossfire cause of frame pacing issues, it doesn't look as good, you don't have PhysX, and you don't get driver updates once a month like Nvidia. Not to mention I couldn't have my Nvidia 3D Vision 2 if I have an AMD card. Maybe once the R9 290's price drops back down to 400$, then it MIGHT be worth the extra 100$ off. Nvidia is just on a whole other level when it comes to quality than AMD.AMD cards saw a recent price increase of about 20%. So I recommend you hold off until the price drops back down. The reason for the price increase is that bitcoin and litecoin value is increasing, and AMD cards are almost twice as fast when it comes to hashing or farming for bitcoin and litecoin. So they're cards had a price increase. Normally they're cards are about 100$ cheaper than they are now. So depending on when you read this review, you may want to wait.I highly recommend the EVGA GTX 780 SC. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best looking graphics card out there. </p>
+
+
+<h2> review.date </h2>
+  06-27-2014  
+<h2> review.text </h2>
+
+ <p> I had originally owned an EVGA GTX 770 SC w/ ACX Cooling, and I only noticed about a 10-15 fps difference between the two cards. Being that this card was almost twice the price, I had hoped for a little more of an improvement. Plus this card runs about 10-15 degrees higher than the 770 as well. I know that the stock coolers will run hot, but 80 degrees just makes me a little nervous. Even though graphics cards usually are stable until after 90 degrees. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fast, but not as fast as I hoped. </p>
+
+
+<h2> review.date </h2>
+  07-12-2013  
+<h2> review.text </h2>
+
+ <p> I had 2 x GTX 480s in SLI mode, so three generations behind, I decided it was time for an upgrade. After a lot of reading and youtubing, I decided the GTX 780 was the card for me (only 384 less CUDA cores and 1/2 the video RAM of the Titan, and several hundred dollars less!).I was getting around 30 - 40fps in Dayz (Arma 2 mod) and after installing the GTX 780 and tweaking the settings, I'm getting in the upper 40s to low 50s with increased quality.I was aiming to do away with SLI (increased heat in case and decreased performance with 2nd GPU), and the 780 does not disappoint. I highly recommend this card. I think the Titan is too costly, and this card has all the same specs, save what I mentioned above. As of 7/12/2013, it's over $300 less with almost the same performance. IMHO, this is the card to have at this time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nvidia FTW </p>
+
+
+<h2> review.date </h2>
+  02-21-2014  
+<h2> review.text </h2>
+
+ <p> Bought this to play some computer games with high or ultra settings.  This thing plays games flawlessly in ultra settings.  Would definitely recommend if you have the money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beastly </p>
+
+
+<h2> review.date </h2>
+  12-22-2013  
+<h2> review.text </h2>
+
+ <p> This is an outstanding graphics card. It plays every PC game I have on their highest settings while running. It remains around 75 to 80 degrees Celsius while playing under heavy load and is essentially as quiet as a card can get without being completely silent. It was a little pricey over the 770 but Discover cash back knocked a chunk of cash off the top and made the price a lot more bearable. I will probably update this review in a few months. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So far so great! </p>
+
+
+<h2> review.date </h2>
+  01-06-2014  
+<h2> review.text </h2>
+
+ <p> Amazing video card, it idles on most games like fallout and far cry 2 that i play.  So much better than my 660ti.  Get this card it was worh itcoil whine is also very quiet compared to my 660ti. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> amazing </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> This card excels at Folding@Home and BOINC (GPUgrid).  It is actually way faster than my GTX 770 SC with ACX Cooling.  As a side note: in the same case, it runs 10C cooler than than my GTX 770 at a lower fan percentage.  I am delighted with this card.  It exceeded my expectations. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bought it to crunch for research </p>
+
+
+<h2> review.date </h2>
+  11-29-2013  
+<h2> review.text </h2>
+
+ <p> Purchased one card to upgrade/replace my EVGA Geforce 560 overclocked in Sli and it has made a world of difference. This is such an amazing card. It can handle every game i own on max settings without dropping frame rate as well as Skyrim with about 10 texture and graphics mods and still maintains 60 frames per second. I would recommend anyone building a PC or upgrading to get this card. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beast </p>
+
+
+<h2> review.date </h2>
+  08-31-2013  
+<h2> review.text </h2>
+
+ <p> This video card was the best I could find for price to performance, I have a triple monitor setup and play resource intensive games. I will admit it has trouble doing so, but if you only have 1 monitor this will be the best video card. If you have a triple monitor setup I would SLI this card to get the best preference. At 5760x1080 on Battlefield and Crysis I suffer, but at 1920x1080 I can max out and no problem. Getting the 3D vision kit soon, should be interesting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Perfect Video Card </p>
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> I use this primarily for OpenCL or CUDA applications involving the simulation of natural occurring elements and this card just tears things up non stop.For gaming, it destroys just about any game I throw at it at 2560x1440 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VFX Artist </p>
+
+
+<h2> review.date </h2>
+  06-16-2013  
+<h2> review.text </h2>
+
+ <p> Had this card for a week. Replaced 2 GTX670 in SLI. (gigabyte windforce). Performance is similar but this is a single GPU, of course. So far my impression is that this is a great card if you don't mind spending the money on it. Enthusiasts already know if they can budget it. For everyone else it's kind of out of range. But I say to anyone wanting to play modern games at the highest quality settings possible, with antialiasing enabled, on a 1920x1080 monitor and get 60fps or better yet run a 120hz monitor at 100+ fps, or anyone wanting a single card to run a multi-display high-resolution setup, this is your best bang for the buck - if you can afford it. Quite, powerful, solid, smooth, superlative.As many have said, for games (but not CUDA) this is just about as good as a Titan!Anyway, my system and my experience so far:ASUS Sabertooth Z77I7 3770K (had a 2600K at first)16gb Mushkin DDR3-1600 8-8-8-24 1T2x Kingston HyperX 3K 120gb SSD RAID 0EVGA gtx780 SCWindows 7 Pro 64nvidia driver 320.18EVGA Precision 4.2.0The two games I play most are Arma2 (DayZ) and BF3, both at 1920x1080 on a 120hz BENQ LCD.BF3 plays super smooth with all video settings at Ultra and max AA. Haven't seen FPS drop below 80. Usually runs 90-120 fps. (With the 670's I had to tweak the graphics a little, turn a couple settings down to High to get similar performance). With the single 780 there may be slightly lower fps than the 670 SLI setup, but gameplay is very smooth and looks really, really good.At first I was very disappointed in the DayZ performance, which didn't improve over the 670 SLI setup. Then I swapped my CPU and got an improvement, although only about 7%. I was really hoping DayZ performance would jump, even double, since Arma2 doesn't support SLI and I thought the single GPU gtx780 would be a huge improvement over what was essentially a single 670. But Arma2 is an old DX10 game that is not well optimized, so go figure.  [Edit - Since replacing the 2600K at 4.5ghz with a 3770K at 4.5ghz, my Arma2 benchmark went from 52+/- fps to 60fps. I have read that Arma2 is very cpu-limited. This performance increase may also be in part due to the benefit of PCI-E 3.0 that the 3770K enables, versus the pcie 2.0 of the 2600K (?) ]The card itself is solidly built, and feels like a quality part. The retail packaging is a bit minimalist but seems to protect the card just fine. I got mine through TigerDirect and they just threw it in a box with some packing paper on top. Not much protection. Luckily the shipping box arrived undamaged and the retail box inside was undamaged, and card was fine.Installation was quick and easy. Downloaded the latest drivers from Nvidia before installing. My 5yr old Enermax 720Watt PSU with 56amps has no problem providing power.The card works as advertised. GPU Boost kicks in automatically as it is supposed to and GPU speed goes up to 1050mhz, depending on the workload (memory to 3005mhz). Overclocking is easy with EVGA Precision. I quickly got the gpu to 1200 and the memory to 3300 no problem at all. Could go higher. Did it in real-time with furmark running a burn-in and saw the fps go up. Anyway I didn't see any improvement (in fact it benched lower!) in Arma2 so I set it back to default speed which is fast enough for now.The card runs nice and quiet. In fact, if you don't install EVGA Precision software the fans won't go over 50% and the performance will suffer as a result. This keeps it quiet but costs FPS. Luckily, Precision is easy to DL and install, and will control the fan better.So even if you're not into overclocking you do want to run EVGA Precision software (or similar) just to control the fan speed. Because if you don't the card will quickly hit 80C and your FPS will drop. That's the way it is set up out of the box, at least mine was. This kind of thing can very with driver versions and other factors, and it's a good thing to keep an eye on. In any case it is easy to install Precision and let it automatically control the fans or you can set up a custom fan speed profile. With my card the fan is still relatively quiet when running at 70%.I'm loving the card, for sure. I don't regret selling my gtx670's and having to fork over a another $150 in order to get this baby.2014 is gonna be a watershed year for really cool new games and with the new consoles we can look forward to lots of welcome improvements in PC gaming over the next few years! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I am loving it </p>
+
+
+<h2> review.date </h2>
+  01-21-2014  
+<h2> review.text </h2>
+
+ <p> This card is well made, easy to install and configure.  Performance of the card has been excellent.  Price is reasonable for the performance of this generation of board. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to install and use </p>
+
+
+<h2> review.date </h2>
+  07-28-2013  
+<h2> review.text </h2>
+
+ <p> Very powerful cards.  Reference cooler is better than I thought it would be, not too loud even at full speed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gaming Heaven </p>
+
+
+<h2> review.date </h2>
+  07-22-2014  
+<h2> review.text </h2>
+
+ <p> Excellent for top of the line performance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  08-05-2013  
+<h2> review.text </h2>
+
+ <p> I would have gone for the Titan but my girlfriend has a list of Chinese slow torture execution methods for use on boyfriends spending too much money. She suggested boiling in oil. I asked &#34;How hot is the oil?&#34; </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's great </p>
+
+
+<h2> review.date </h2>
+  07-04-2013  
+<h2> review.text </h2>
+
+ <p> This card is crazy good. Some useful info for xfire/SLI users...When you crossfire/SLI you waste one of the cards super high speed RAM.SLI/Crossfire people realize that and never do it again.SLI - will be good when they figure a way to utilize the RAM from both video cards.SLI/Crossfire also has compatibility issues with some popular games and applications.Single Powerful GPU like this one is always the way to go. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> understanding SLI, of course this is better </p>
+
+
+<h2> review.date </h2>
+  10-20-2013  
+<h2> review.text </h2>
+
+ <p> This Graphics card is now within the depths of my Gaming PC and I can run literally ANYTHING on the absolute max settings.It is really quite awesome. Its a bit on the expensive side but it is really awesome.Also I got a free copy of Splinter Cell Blacklist which sort of helps with the price a little. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This Graphics Card is Amazing </p>
+
+
+<h2> review.date </h2>
+  08-24-2013  
+<h2> review.text </h2>
+
+ <p> VERY POWERFUL at 1080p. I upgraded from a GHz7970 and while not a huge upgrade, my confidence in adding a 2nd card has been lifted. Must have a 750w psu if you plan on OC'ing, with my CX600, FX-8350 at 4.8GHz and 780 at 1228mHz, my pc randomly restarts in games.But....Crysis 3.... OMG before, my 7970 got 55fps on average, now, with SC780, closer to 80 fps. My performance in multiplayer has skyrocketed. I advise at least a 120Hz monitor to deal with all of this horsepower, but @ 60Hz, with Vsync, why are you buying this card? You will never dip @1080 below 60fps.I use Geforce Experience recommendations and most of the time, on newer games the recommendations get me 80 fps and everything very high/ultra sometimes they recommend turning AA down to 2x.It is unfair to play with 144Hz monitor and GTX 780 on BF3. Should be banned. Too smooth. Too precise. I just stopped playing.Tomb Raider looks amazing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must have for noobs </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

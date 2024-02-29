@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 159474131X <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Reviewed by Barb Radmore </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-24-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Graceland is a work of art by Chuck Murphy. He has created an interactive pop up book that takes the reader right into the heart of Elvis' Graceland. There are nine separate, two pages spreads on various aspects of the famous home in which Elvis resided from 1957 until his death in 1977.  The spreads include, among others, scenes of his kitchen, Jungle Room, his hobbies and wardrobe. As the pages are turned the scenes grow from the pages into three dimensional splendor. The sides of each page also open to expose more information with more pop ups. But  it is the details on the pop up pages that are the glory of this book. 'Walk' through the TV room and change the channels on the tv, rifle through Elvis's record collection. Then open the side flap to pop out his bar and pull the tab to reveal his hidden movie projector.  The section on his exhibits (added to tours of Graceland in 2000) have 5 flaps that open to show a case holding his firearm collection, samples from his law enforcement badge collection (which numbered in the hundreds) and even a removable paper replica of one his famous sunglasses. The refrigerator and cupboards in the kitchen scene opens, the related text includes a list of items Elvis insisted be kept stocked at all times.  Each themed scenario is equally complex and complete.This book is a collectable for both Elvis fans and connoisseurs of the art of paper engineering or pop ups. Elvis fans will love the inside look at his beloved home. The accompanying text, including a foreword by Pricilla Presley, gives plentiful information on Elvis, his life and his home. The photographs and 3-D representations are the next best thing to a trip to Memphis.  It is the ultimate, unique gift for Elvis fans.Art lovers will be fascinated by the intricacy of  the paper engineering, the amazing construction of each display and the inspired detail that is included. Pop ups are a visual art form that takes the traditionally flat media of literature and expands it into dimensional beauty. Murphy uses his expertise in the form to bring life to the story of Graceland.Chuck Murphy has created over 60 books, many appealing pop up books for children. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ONLY FOR THOSE WHOSE LIVES ARE LONESOME, TONIGHT AND EVERY NIGHT </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-05-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> We thought we had seen it all. Until now. Published in cooperation with and officially licensed by Elvis Presley Enterprises (and, of course, with a foreword by the former Mrs., Priscilla), Graceland takes readers on a fully-illustrated tour to one of the world's most fashionable tourist destinations. Your eyes will pop almost as easily as the pop-ups themselves---there are nine different pop-up spreads, dedicated to the most popular aspects of Elvis' former mansion, including the Television Room, Music Room, Trophy Room, Kitchen and the Mediation Garden. Cute meets kitsch here; readers can flip through a photo album, browse Elvis' record collection, change channels on the TV or peek inside the frig. (We'll leave it up to your overactive imaginations on what you'll find inside.) Elvis devotees will rejoice, others will be better off popping the $40 back into their wallets. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> AWESOME! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-02-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is SO nice and much bigger than I expected. They outdid themselves this time!!  I really recommend this book if you are an Elvis fan.  It's like being able to go to Graceland every day.  :0) Priscilla writes a really nice foreword in it too.  And lots of information is written in it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great gift for Elvis fans </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-30-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> GRACELAND: AN INTERACTIVE POP-UP TOUR is a must-have for any Elvis fan.  I bought one for a friend, and it was such a hit that several of her friends have purchased them also.  The pop-ups are well done, and the book gives a lot of information about Elvis and Graceland. It makes a great birthday present and will be the hit of the party. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Coffee table book that people actually flip through. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am not an Elvis fan, but he did live such an interesting life that has left a permanent impact on pop culture. I am a fan of pop-up books and this book is a delight. I have it on my coffee table and it does get opened and appreciated at least once a week. My favorite pages are the TV Room and Kitchen. Elvis's complete album collection alone must be worth a small fortune today. This book won't disappoint. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantastic "trip" for those who can't go... </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm not a big Elvis fan at all, but my MIL is, so I bought it for her.  As soon as it was opened, I sat and read it cover to cover!  I loved the details and the stories that went with each page and feel like I don't need to go and take the tour, now!  (I once drove by Graceland, but didn't take the tour.)  Fantastic, interesting, well-made book.  I agree with another reviewer that some pages have to be turned carefully to prevent pop-up parts from bending, but that was a rare thing and only applied to the smaller pieces, like a corner of a table and a candlestick in the livingroom.Cool book!  Worth every cent... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> AMAZING!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> After visiting Graceland, we had to have a copy of this book when I spotted it on Amazon.  It's gorgeous and brings you right back to Graceland as you go through it!  Nice job on recreating the rooms!  It's full of great information! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> FABULOUS  VISIT TO ELVIS PRESLEY BLVD. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-19-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> WOW..THIS POP UP DELIVERS THE 'GOODS' ON ALL LEVELS. CHUCK MURPHY HAS CREATED A POP UP MASTERPIECE. TO OPEN UP THIS BOOK WHICH STARTS WITH A LETTER FROM PRISCILLA STRAIGHT FROM HER HEART, WITH CLASS AND DIGNITY,SETS THE WHOLE TONE OF CARE AND QUALITY WITH WHICH THIS POP UP WAS CONCEIVED. ELVIS FANS WILL BE TREATED TO A SPECIAL 'VISIT' TO GRACELAND WITH EACH PAGE. HAVING BEEN TO GRACELAND BEFORE PRISCILLA OPENED IT TO THE PUBLIC I HAD A BEAUTIFUL CHANCE, WITH THIS BOOK, TO 'GO INSIDE' AND VIEW THIS GORGEOUS MANSION WITH A RESPECT AND LOVE THAT IT DESERVES. THOSE FAMOUS GATES, THE MEDITATION GARDEN, WHICH I DID VISIT WHILE THERE,THE OUTFITS, THE KITCHEN,THE TV ROOM, JUNGLE ROOM,..ITS ALL HERE FANS. THE WONDERFUL INFORMATION PRISCILLA GIVES IS A TREAT SUCH AS HOW GRACELAND WAS BUILT FOR THE ORIGINAL PEOPLE WHO WANTED AN EMPHASIS ON 'GRACELAND' BEING A PLACE FOR MUSIC,SETTING IT FOR THE DESTINY IT WAS TO BECOME. MY FAVOURITE POP UP BOOK IN MY COLLECTION. TREAT YOURSELF...AND A SPECIAL THANK YOU TO PRISCILLA FOR COMMENTING SO BEAUTIFULLY ON ALL THE FEATURES AND EVEN SOME MEMORIES, WITHIN THE WALLS OF HER AND ELVIS'S HOME...THANK YOU CHUCK MURPHY AND QUIRK BOOKS. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> More like a ride than a book </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-08-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this book for a friend as a birthday gift.  We went through it with another friend who has actually been to Graceland.  It was the entertainment for the group of us for the evening. The details are amazing,right down to the contents of the refrigerator. Anyone who has been there or wants to go there, or just loves Elvis, this is well worth the purchase. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great fun for Elvis fans! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this book for my grandma for Christmas, and it was the life of the party!  She is a huge Elvis fan and has been to Graceland a couple of times with my aunt.  They said the rooms in the book really looked as they did on the tour.  There were apparently a couple of rooms that were not on the tour that are in the book (including the bedroom and kitchen).  It starts with the outside of Graceland and goes through several rooms and there is also a scene of his gravesite.The kitchen popup allows the "reader" to open the fridge and the cabinets to see what's inside, and the fridge is in 3-D when the doors are open so that you can see each shelf.  Everyone who saw the book got a kick out of the idea of a popup book for adults.The only thing that kept me from giving a full 5 stars was the fact that the pop-ups have to be folded carefully in order to keep them from bending, and once the cabinets and doors have been opened, it makes it a little harder to fold without bending the doors.All in all, I think this a good book for Elvis fans, and I would recommend this for someone as a memoir of their trip to Graceland. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for the Elvis fan! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-06-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Love Elvis, love this book!  Some great graphic design.  Very fun! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> "Welcome to My World... Won't You Come On In?" </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-31-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> WARNING: DO NOT take this book anywhere, like a Doctor's waiting room, or a restaurant, and expect to read it in peace. EVERYone will ask to see it --for "just a minute" --- and, good luck getting it back for yourself!This "pop-up" book is SOOOOO cool, because you can literally go to his media room, and thumb through REAL jackets of records, make Elvis swivel to "Jail House Rock" on his movie screen, and change the channels of his T.V. You'll see  scenes from "I Love Lucy", "Dick van Dyke", or "The Tonight Show", with Johnny Carson spouting one of his 1970's monlogues.MY favorite thing is the kitchen, with its wooden cupboards that house Elvis' favorite staples, like Cream of Wheat, Hostess Cupcakes, fudge cookies, etc-- or, you can open the King's Fridge, where you'll see home- made banana pudding and HUGE coconut cakes, King Cotton bacon,and cases of Pepsi---  but wandering through the Elvis' closets, living and dining rooms is equally thrilling. The bedroom, with the round bed and its mink bed spread will grab your attention-- as will the "Jungle Room", with Elvis' Tiki chairs and waterfall.Another highlight is an exact replica of his wallet, along with copies of his driver's license, badges and the like. There's a plastic display case that "pops up", and houses Elvis' gun collection. There's even a cardboard pair of "EP" sunglasses, which are removable and can be worn! I've been to Graceland, more than once, and the creators of this book have NAILED it!  I felt SO CLOSE to Elvis Presley after exploring this book- even my  "Hannah Montana"/ Jonas Bros.-- loving eight year often grabs it, thumbs through it, and literally BEGS to take it to school-- and show it off/recruit new generation fans, via  her friends ( a definite "No- No", as I NEVER let this book out of my sight!).I highly recommend that EVERY Elvis Presley fan  make "The Pilgrimage"( the fans' equivilent of Mecca : Graceland Mansion, in Memphis, Tenn.),  but, if you can't, do the next best thing, and make a fraction of that investment by purchasing this beautifully produced book. You won't be sorry;  Evlis  will thrill you once again... Uh- uh- huh! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Soooo cool! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-24-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> We just got back from our first trip to Memphis/Graceland 2 weeks ago and my husband surprised me with this for our anniversary.  It is AMAZING.  The attention to detail is amazing and it felt like we were back in Graceland.  My favorite is the kitchen because the spices in the kitchen reminded me of when I was a kid and I wanted so bad to peek in the cupboards and this book allows you to do that!  You have to be careful opening the pages but it's worth the extra care needed.  This is a great gift for an Elvis fan! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> WOW...What a Book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-28-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> OK, so most folks think of pop-up books as something for children...well, this book proves that pop-up books are awesome for adults too...especially Elvis fans!  I've been to Graceland twice and found this book to be great fun and a beautiful reminder of an unforgetable trip to the home of Elvis Presley.  Lots of great information and pictures and the pop-up rooms are very authentic looking.  There is a LOT of stuff in this book and any TRUE Elvis fan would love it.  It is well worth the price! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

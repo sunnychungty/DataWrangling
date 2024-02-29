@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004EMKCIA <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-30-2012  
+<h2> review.text </h2>
+
+ <p> This is a very comfortable armband. I work in a factory and could wear it all day with no problems. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product. </p>
+
+
+<h2> review.date </h2>
+  07-02-2012  
+<h2> review.text </h2>
+
+ <p> I originally purchased the cheaper version of this, but it failed after three months (almost lost the iPod nano when the retaining straps broke) This is a much better product, fits the arm well and is comfortable, even though it costs a little more than it should, I think its worth the added cost. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this armband </p>
+
+
+<h2> review.date </h2>
+  06-15-2012  
+<h2> review.text </h2>
+
+ <p> This armband works, keeps my nano from falling off.  Reason for purchase was fear of clip failing while working out (lifting, running, high impact activities).  This prevents it all.  Have washed it a couple of times now as my others that have been made similarly to this.  However, let it air dry vice placing in the dryer due to fear of ruining it in the dryer.  It is of some type of neo material.  Works great, highly recommend to anyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great armband </p>
+
+
+<h2> review.date </h2>
+  05-22-2012  
+<h2> review.text </h2>
+
+ <p> I love this band in that my iPod Nano attaches very securely but I can still get to my buttons and Nike+ sensor.I'm about 5'6" 145 with somewhat toned arms and this is the only band I've found (along with the other features listed above that I want) that fits my arm for longer than a use or two.  It takes several months but it WILL stretch out. The last one I bought over a year and a half ago stretched out so much that I tied the band in knots to get it to fit for a little while longer.  With the other armbands I've tried I kept going back to COD armband, even when it was all stretched out.  Good thing they're so affordable.  Please don't raise the price.  8  )It stays in place, secures my Nano well, doesn't rub or chafe, and stretches out over time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for a smaller arm but will stretch over time </p>
+
+
+<h2> review.date </h2>
+  07-02-2012  
+<h2> review.text </h2>
+
+ <p> This armband is perfect for putting the iPod on your upper arm.  With the elastic and velcro combination it remains secure and comfortable the entire period that it is being used.Charging the iPod is easy - especially since you can leave it attached to the armband.Thank you, and I enjoy it's use and operation.Dave </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great armband1 </p>
+
+
+<h2> review.date </h2>
+  01-29-2012  
+<h2> review.text </h2>
+
+ <p> Avoids my Nano to bounce when I run or go to the gym.I hesitated to buy it because the Nano is small and you can clip it anywhere. Well, the Nano is bigger than the Shuffle and heavier and it moves while clipped on the tee-shirt (my earbuds cable is not long enough for me to clip my Nano on my shorts).I do not regret my purchase, this armband proves to be very useful, easy to use and of good quality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good product </p>
+
+
+<h2> review.date </h2>
+  01-02-2013  
+<h2> review.text </h2>
+
+ <p> Comfortable material on my arm.  Works as designed.  Very affordable and would buy another if I needed it.  Great product for the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Product works as intended </p>
+
+
+<h2> review.date </h2>
+  07-02-2012  
+<h2> review.text </h2>
+
+ <p> This armband is comfortable and secure.  It doesn't pinch anywhere, but it also doesn't slide down my arm when running.  I highly recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great fit </p>
+
+
+<h2> review.date </h2>
+  07-17-2013  
+<h2> review.text </h2>
+
+ <p> This is a well built strap and holds the Nano 6G well.  I'm a smaller guy, and the straps felt tight when I was lifting weights.  Strap is better when I am running.  I don't see how this would fit on a larger individual, unless the company ships different length bands.  But overall, this product works out really well for me since I am a smaller guy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Strap for smaller people </p>
+
+
+<h2> review.date </h2>
+  11-06-2012  
+<h2> review.text </h2>
+
+ <p> Not bad for the money.  Worked good at first, but gradually stretched and tore after eight months, wearing 2-4 times/week. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked for awhile, but eventually falls apart </p>
+
+
+<h2> review.date </h2>
+  04-23-2014  
+<h2> review.text </h2>
+
+ <p> You want an armband for your nano, that holds it and keeps it off of your sweaty arm?  This will do it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> as ADVERTISED </p>
+
+
+<h2> review.date </h2>
+  07-18-2012  
+<h2> review.text </h2>
+
+ <p> Overall the design is good.  It securely holds the Nano in place and fits well on my arm.  The issue I have is the material.  It absorbs sweat like a sponge. After exercise the band is soaked and requires drying time.  Not very pleasant. Some concern about durability since the Velcro is glued to the band.Edit 3/31/13:  Product is not durable.  Velco separates from strap material and the section where the Nano attaches to the band has torn.  Poor choice of materials. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not so good for exercising </p>
+
+
+<h2> review.date </h2>
+  01-19-2012  
+<h2> review.text </h2>
+
+ <p> Bought this for my 15 year old daughter and she uses this everytime she goes out running. and its perfect to hold her nano. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT for RUNNERS </p>
+
+
+<h2> review.date </h2>
+  01-03-2012  
+<h2> review.text </h2>
+
+ <p> I've been using this armband for a few weeks now. It is definitely NOT too big like some others have said. I'm a small woman and its plenty small enough for me to get a snug fit. Its very comfortable to wear, the neoprene really helps as does the stretchy material. The only improvements I would suggest are a bigger piece of hook velcro, I think its too small and will wear out eventually (but could also be replaced), and some means of stowing the excess cord from my ear buds. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Comfortable, great fit, not too big </p>
+
+
+<h2> review.date </h2>
+  06-11-2013  
+<h2> review.text </h2>
+
+ <p> As title suggests, I found the band too short to be used easily.I only took off 1 star, because this was expected from the previous reviews.Otherwise produce performs as expected.Not sure why they can't be made with a long enough band to be able to put on easily. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Band is too short </p>
+
+
+<h2> review.date </h2>
+  12-06-2013  
+<h2> review.text </h2>
+
+ <p> Compact and good as expected.It also fit for Ipod shuffle 4G the latest gen like a charm as I'm using it!!If you have Ipod shuffle squre small version,you can buy this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quality product, also nicely fit for iPod shuffle 4G!! </p>
+
+
+<h2> review.date </h2>
+  02-03-2011  
+<h2> review.text </h2>
+
+ <p> Cheap, but a little bigger than necessary. Also if you have a small arm or dont want to use it almost in your armpit this may not fit you, but works for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good enough. </p>
+
+
+<h2> review.date </h2>
+  01-05-2013  
+<h2> review.text </h2>
+
+ <p> A nice concept that just did not work out.  The construction was flimsy. It seemed to work ok at first, but after a few workouts where it got sweaty, it started to separate out.  Ie, the cloth tore away from the neoprene.  Not so good.  It's in the trash after 2 months. Would recommend against. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> initially good, fell apart </p>
+
+
+<h2> review.date </h2>
+  11-19-2012  
+<h2> review.text </h2>
+
+ <p> I have a great armband for my shuffle, and this one is pretty good for my nano (although I usually just clip my nano on my clothing -- got this mainly to use as a &#34;storage case&#34; for it. Great price for a decent product though! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for holding my nano </p>
+
+
+<h2> review.date </h2>
+  06-18-2013  
+<h2> review.text </h2>
+
+ <p> So now I just strap it on and go. I have to wear it a little lower than I likeI have a little bigger Arms than most guys (not huge) But it does not slipis very comfy and easier than trying to clip it to my waist band. Over all moneywell spent </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ipod is no easy to run with </p>
+
+
+<h2> review.date </h2>
+  02-21-2012  
+<h2> review.text </h2>
+
+ <p> She keep pushing it and she can't make it go. I told her to try to use some of that warming sex gel she bought that time but this was just a joke (LOL) even though she didn't like it. She has set it on the nitestand and won't even try to stick her Nano in there anymore. I said I would try to get it in but she is still mad about some other stuff and won't let me have a try. I am still giving the holder 4 stars up even though she can't get a use out of it because lets face it she is not the sharpest tool in the shed so don't let that misuse you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My wife can't stick her IpOD Nano into it. </p>
+
+
+<h2> review.date </h2>
+  04-01-2014  
+<h2> review.text </h2>
+
+ <p> It broke after two five mile runs.It may have been me, but I just put my nano into this band, and took it out twice, being careful (tried to be careful) not to break it but I did. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Broke after second run </p>
+
+
+<h2> review.date </h2>
+  08-02-2012  
+<h2> review.text </h2>
+
+ <p> This arm band was originally for me.  I bought my husband a different brand and his ended up fitting me and this one fit him.  So I would say from the previous reviews that this arm band does run big.  So if you have arm fat or big muscles, this ones for you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000C0Z92C <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The kids like this movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-28-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The girls like this video, it actually has a good message about friendship, but I will warn you that my girls wanted to form a rock band in the garage once they'd seen it a few times. Luckily we don't have an actual garage. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for Pre-teen Girls </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-28-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am the mother of a Barbie-obsessed 4-year-old and bought this unaware of the plot.  I like the movie but think it's too mature for my daughter right now.  It would be great for a girl in middle school however.  I did find it entertaining. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not up to standard </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-04-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> The animation is jerky, Barbie looks odd and nothing like herself.  She's portrayed as a highschool student, but acts like a middelschool student.  Poorly written, poorly animated. My 8 year old daughter loves Barbie movies, and she asked me if we could send this one back. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Looks pretty good </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-29-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wow, I'm kinda glad Barbie did this. A teen like movie, I can't wait to watch it. but I wonder why it's showing on TV before it comes out. Oh well, I'm thinking of watching it caue it looks really good. Bratz, Danny Phantom, and My Scene ROCK!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mother of girls </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-25-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> They love all the Barbie movies. This one is no exception. My older two like it more then the younger 3. They like the farie ones and princess ones better. I think the older 2 can relate more to this one. I love that they keep these movies so clean and there is always a lesson to be learned and the characters have good values. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> wow </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I LOVE THIS MOVE!!! They have to come out with a second one. This movie is awesome. I'm a teen and i love it! i loved the other barbie movies but for once it is about real life. And the songs rock. i hope they come out with a soundtrack. This movie should definately be bought. It is fun with todays humor (only the good ones) and is great even for teenagers. take my word for it. It is amazing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Based on the previews </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-28-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I think the subject matter is a bit grown up for the younger girls. Its more suited perhaps to the tweens, who wont watch it anyway. I liked Mermaidia, it had strong female characters. I hope Barbie learns in the Diary movie there is much more to life then boys and popularity! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cute movie. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> A little mature for my seven year old, there was a lot of boy talk... I prefer the barbie movies that are more of an empowering theme. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun Movie for Older Girls - Great Soundtrack </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-16-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am the mother of a six year old girl and she loves Barbie.  When this movie came out I was skeptical.  The movie is deffinitely aimed at an older audience than the previous Barbie movies.  I got it, and sat down with my daughter because I had a feeling it was not going to be what she expected.  Of course some questions came up as a result of the storyline, and I answered them in a way she could understand.  (why are they so skinny? was one of them, also why do they have boyfriends?)  The truth is that she ended up getting bored and walking off to play.That being said, I enjoyed the movie as a mature adult.  It reminded me of the brat pack type 80s movies like Pretty in Pink and Sixteen Candles.  It was fun for me to watch.  I think that older girls will relate to this Barbie movie more than any of the other Barbie movies released so far.The Barbie Diaries has a sweet story, not very original but deffinitely entertaining for an older audience.  The animation is not great but it does have a style all its own (very different from the Barbie princess movies).  The DVD has some extras but for the most part nothing that is very impressive.There is one outstanding feature of this movie that must be pointed out and that is the soundtrack.  Even my daughter loved it.  In fact she asked to watch the Skye Sweetnam video over and over, "playing" along with her guitar and pretending to be a rock star.  The sountrack is catchy and is really good if you like girl pop-rock music.  I would love to get these songs on a CD.  This is a soundtrack I would deffinitely buy.  It's a real shame that so far the soundtrack is not available for purchase.All in all, I would say that for older girls this movie will probably be fun to own.  For grown-ups who enjoyed the high-school crush movies of the 1980s this movie will also be enjoyable.  If you are looking for something a little girl will like, you will probably be better off with one of the other Barbie movies, or you should wait for the next one this fall: The 12 Dancing Princesses.I gave the movie 4 stars because although it is not as good as the other Barbie movies, it does cater to the interests of its intended audience, and it addresses issues that they relate to.  Bottomline - It's better than many other teeny bopper movies out there and it has a better soundtrack than most standard pre-teen fare. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's a comedy......Right? </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-21-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I found the movie super funny, I thought it was hilarious with "The popular lawn" and the magic diary. Me and my sisters watch it all the time just to make us laugh.  I recommended it to my friends and when they watched it, they told me how the couldn't stop cracking up.  I'm laughing about it right now as I write this review. I thought this would be a awesome comedy for grown ups or teens.  Kids-I wouldn't recommend...I'm not sure if it was suppose to be funny or what, but it makes me laugh all the time.  If your wondering why the movie is so funny, it's because the movie is so incredibly stupid. I also find Barbie as a bad influence-and not just this movie,but in all of them.According to the movies, she has about five husbands and a boyfriend, and she proves that she can to anything even if it's impossible to mankind. She also proves that only blondes can do anything and are the prettiest.  She's either a princess, actress or a fairy or mermaid.  She never makes mistakes and is always perfect.Again, the movie is super funny but barbie is a bad influence.And why does barbie want to be popular? She already is! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good movie... but not perfect </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-10-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have to admit, I love this movie for a movie. The animation is awesome, the story is sweet, and the soundtrack rocks. But.......The girls all dress immodestly. Call me old-fashioned, but midriff-baring tops, too-short skirts, and shirts that show cleavage aren't appropriate. Of course, this movie is animated, so you don't really see the cleavage you would in real life. Second, I didn't like the way teachers and principals were shown in a negative manner. Third, I have something to ask Mattel: WHY ON EARTH DID YOU HIRE SKYE SWEETNAM?!?!?!?!? I thought she was awesome. I watched the special feature about her, and...she's dressed like some streetwalker! Still, I wanted to give her a fair shot. So I went to her website and checked out her albums. I didn't get past Noise From the Basement. I didn't even get past the first four songs! They are filled to overflowing with curse words and obscenities. They are explicit and horrible, and she talks about hopping into bed with a boy as if it were perfectly natural. Skye, I'm praying for you. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Pretty Bad </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> The animation wasn't very good, and the whole plot just proves how desperate the Barbie company is. The Barbie company is obviously scared by the threat of the Bratz dolls, so they tried to make a "cool teen" movie.IN reality, Barbie is for three year olds, and the themes of the movies are just too adult for three year olds. Tweens are what this movie is appropiate for, and what self respecting teen would watch a Barbie movie?The movie is about Barbie whining about being unpopular, and wishing that an (ugly) "Mr. Hotty will recognize her and be her boyfriend. H3er "so clever" scheme for popularity is to make her band play BAD songs at the fall formail. A total must see. NOT! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A little on the lower side of the spectrum </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> So I was really disapointed in the barbie movie for the amount of negative content in it, and could not show it to my children. There are way too many close butt shots of Barbie through out this film while she is walking and daydreaming. Also though the film shows gossip in a NEGATIVE light younger children could pick up alot of gossiping from watching this film I think. I also did not appriciate that barbie's boyfriend in the film was Kevin rather than Ken which would have followed Barbie's other movies better. I did not like the football jock at all and think the film would have done well to leave him out completely. I did however like the over all story plot, and recently discovered Disney's 'Geek Charming' which REALLY was a charming movie with a similiar plot but much cleaner and sweeter than this barbie film. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for all ages </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-10-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Personally thought this was a great film, most young girls or teens can relate toThe graphics are probably the best yet out of the rest of the barbie moviesI also did not think that the movie was too mature for young audiences as a previous reviewer statedThe scene when Kevin commented on the girls hugging wasn't in any way, shape or form meant to be crudeAnyone should be able to see, that Kevin only tries to find ways to be get barbie to realize how much he loves her.It saddens me, to see that someone could have such a negative outlook over such innocent emotionsI suppose it's because of reviews like that, why television cencors everything now days </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> not good! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> story line: not for young kids, and not even really good for older kids. she has to try to fit in with the cool kids. whatever. i hate that an animated kid movie took on the teenage ideals of teenage movies. (!!!!!)animation: sucks. was expecting every other barbie movie animation. those look amazing, this was verrrrrry poor. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

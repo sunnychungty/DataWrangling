@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004TQ0IT4 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> This post-nuclear war novella is a nice little classic sci-fi snack.  Highly, highly recommended to anyone who likes classic sci-fi and is a friend of Bill's. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice story for friends of Bill. </p>
+
+
+<h2> review.date </h2>
+  10-12-2012  
+<h2> review.text </h2>
+
+ <p> Lie er writes combat like few ever will again .I'm not sure that makes him an expert on why men kill. you have to swallow a fairly offbeat premise before you can begin to connect with anyone in this story .It will probably be read by everyone that loved Fafrhd and the Gray Mouser but it falls short both as parable and post apocalyptictravel journal </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lieber works on some demons... </p>
+
+
+<h2> review.date </h2>
+  02-09-2013  
+<h2> review.text </h2>
+
+ <p> What follows may be considered by some to contain SPOILERs. But the book is so silly it doesn't matter.So Fritz Leiber tries out the post-Atomic-Apocalypse genre, and... fails. It reads like an aspiring author's first submission, but the subject matter puts it squarely in the 50s, by which time he should have known better. (I tried, but can't find an original publication date.) It posits a collection of people, including the two protagonists, who have responded to some kind of extistential crisis brought on by nuclear war by becoming Murders: They wander radiation-soaked badlands in the central US, and, well, murder anyone they come across. Unless they are of different sexes. In that case they have sex, and *then* fight, trying to murder each other. In this case, the fight is interrupted by the arrival of an 8-foot Perfect Person in an antigravity plane... and the premises get sillier from there on. Not worth reading, unless you are a total champion at suspension of disbelief. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Post-Apocalyptic '50s SF with No Point </p>
+
+
+<h2> review.date </h2>
+  12-09-2011  
+<h2> review.text </h2>
+
+ <p> I liked this story a lot.The writing is good & the story is original and entertaining.Not to mention the fact that it's free!I plan on reading more by Fritz Leiber. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Entertaining Post Apocalyptic Story </p>
+
+
+<h2> review.date </h2>
+  10-17-2011  
+<h2> review.text </h2>
+
+ <p> Despite listing "art by Finlay" there is no Virgil Finlay art in this kindle book; however there is in other e-versions, and you can always poke around the internet and turn up an illustration or two.  But the book is free, so you can't really complain too much.The story is a novella - 93 kindle pages, with a distinct beginning, middle and end.  That might sound trite, but in structure its closer to novel than merely being a glorified short story.  This is a post-apocalyptic tale of survival in a world of radiation poisoning, madness, and social and religious upheaval.  It's a bit fast and loose with the timeframes on occasion, as well as how much of the "old world" people remember, but a large part of that can be put down to having a narrator that is not just unreliable, but pretty much insane.Said Narrator is "Ray", and the book starts out with him in the Deathlands, meeting "Alice", doing murder, and running into a strange old man called "Pop", who is a card-carrying member of Murderers Anonymus (MA for short).  After that we get into the heart of the problem, so to speak: in a radioactive wasteland how do you maintain, or rebuild, a functioning society, and what is a functioning society at all?  There is still action and conflict - this is not just a talky philosophy piece - but in one sense this is the best of sci-fi, asking questions of the reader and largely leaving the answers up to you.To an extent this is dated now, to the 50's when it was written as a classic Cold War warning, but that's alright, as it remains a work of its time without being anachronistic in any sense.  It's a good read, and you can't beat the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No Finlay art, just a good story </p>
+
+
+<h2> review.date </h2>
+  04-11-2014  
+<h2> review.text </h2>
+
+ <p> I was floored by the content in such a short novel.  Soon as I finish writing this,  I am going to see if there is any more books by Fritz. The name sounds familiar. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Deserves 6 stars </p>
+
+
+<h2> review.date </h2>
+  07-24-2011  
+<h2> review.text </h2>
+
+ <p> An interesting tale of post-apocalypse set after a nuclear war has swelled the world with ash.  This is the story of three Deathlanders taking unknowing steps towards change.  There is a quiet undertone of suspense as the reader is left to wonder whether the three self-proclaimed murderers will bear each other's company much longer or snap into a gritty gorefest.I'm a long-time fan of Leiber's Fafhrd and Mouser series, though I've read a little of his other work as well.  This is less swelling with machismo and testosterone than his famed Swords and Sorcery series, and a little dated towards the middle when everyone begins discussing the machines used in the last war, but otherwise a very timeless story of what people do to survive once they've had everything ripped from their clutching fingers.The ending is a little shaky, but satisfying once the dust settles. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Decent Post-Apocalypse </p>
+
+
+<h2> review.date </h2>
+  12-05-2012  
+<h2> review.text </h2>
+
+ <p> had never read anything by this author but his stuff is realy good....not dated even though it was written so long ago. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> New author to me </p>
+
+
+<h2> review.date </h2>
+  06-13-2014  
+<h2> review.text </h2>
+
+ <p> With the title &#34;The Night of the Long Knives&#34;, you'd expect something worthwhile. Not the case. The story is set in the future where the U.S. (and presumably most of the world) has destroyed itself via nuclear war. The survivors have developed a culture of survival of the fittest, where killing another person is accepted as the cost of continuing to live. The initial chapters are quite captivating, drawing into a tale of two survivors who encounter each other near a relatively radioactive safe site. But the story line spins out of control when they take over an airship after killing the pilot. The airship seems locked into a specific destination, takes them there. En-route, they are contacted by an unseen ground controller who directs them to make an air drop of certain supplies from the craft. That done, they are released to return to the original point where they learn more about the pilot they killed to gain the airship. That's the story. Had this been the first Fritz Leiber story that I read, it would have been the last! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Weak story - weaker ending </p>
+
+
+<h2> review.date </h2>
+  02-04-2013  
+<h2> review.text </h2>
+
+ <p> Old style science fiction, an early post-apoptotic tale. One from which many of the modern ones flow. Lieberman shows that he can do more than flashing swords. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Oldie but goodie </p>
+
+
+<h2> review.date </h2>
+  10-22-2013  
+<h2> review.text </h2>
+
+ <p> I originally thought (without reading the cover!) that this was a narrative about the actual Nazi &#34;night of the long knives.&#34;  It turned out to be a futuristic fiction that was actually fun to read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun fiction! </p>
+
+
+<h2> review.date </h2>
+  12-04-2012  
+<h2> review.text </h2>
+
+ <p> This is one of those stories that I wished the author was still being paid for, because I would have gladly paid a modest sum for this one.The mindset of the characters fall right in line with what I think people would be like in a post-apocoliptic world,... everyone would turn into ruthless killers, with people with compassion for their fellow man being the extreme minority.I'd recommend this story to anyone interested in the genre. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Public domain? More of the public should read it then! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

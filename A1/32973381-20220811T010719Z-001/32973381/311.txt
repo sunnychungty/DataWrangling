@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1493767526 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great story line and looking forward to more </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I hesitated over this purchase, but it sounded different, so took the plunge.  Have to admit that I was really impressed with the story line and the possibilities.  I am looking forward to the next installment. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Beautiful! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Sabrina Flynn was the finalist of my Kronberg Crimes Writing Competition 2012 - hence I got the opportunity to read A Thread in the Tangle before its publication. I usually prefer thrillers and mysteries, but I did love this book. Flynn's characters are alive, multilayered, and deeply likeable. Her writing style is fluid, and her story had me chewing my fingernails, and feeling oddly scorched at the very end when Marsais and Isiilde... uhm... well. No spoilers for you.So here I am, impatiently waiting to get my hands on her next book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> &#8220;Everyone needs a fantasy.&#8221; ~Andy Warhol </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> We meet Isiillde as a young girl, only four years of age. Daughter to the Emperor, it would be assumed that her life was carefree and comfortable. Rather it&#8217;s anything but. Taking after her mother, Isiilde is a nymph, a magical creature deemed in their realm to be nothing more than a piece of property.Mischief and mayhem seem to follow the young girl, so much so that the only one who cares for her, a surprisingly soft-hearted berserker, takes her away from her emperor father when he threatens to throw her in the dungeon over her actions.As she grows, she learns many truths about her race and their treatment along with the lands and realms around her. Tumultuous times trouble the kingdoms, and she faces her own impending womanhood. Can she avoid being sold to the highest bidder?What I loved: The imagery. The author did a phenomenal job creating a world and inhabitants. Sometimes fantasy can be hard to grasp, and that was never an issue with this book. The plot was also awesome, and kept me interested throughout to find out what would happen. The main characters were well thought out and as a reader I felt a solid connection with Isiilde.There were a few moments where the momentum seemed to lag. Sometimes it was excusable and important to the story, and the few times it seemed to lose focus for no reason, it did quickly redeem itself. Finally a few phrases were repeated more than once, whether this was intended to cement it to the reader or not, I&#8217;m not sure.Overall, I enjoyed A Thread in the Tangle and was impressed with it. It was an adventure I&#8217;d certainly take again. I give it 4 out of 5 stars! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A great read </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Entertaining, A real exciting story. Can't wait for the next installment. I will recommend this book to all of my friends. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An excellent story concept, but which is-sadly-poorly executed </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Reviewed by Harmony KentOn behalf of The Review BoardA THREAD IN THE TANGLEBY SABRINA FLYNNFantasy FictionThe story begins with an infant Nymph accidentally setting fire to the palace nursery, and a warrior barbarian taking her away to a quiet isle for her own safety.  The narrative then jumps ahead by about twelve years, and we meet Isilde&#8212;the Nymph grown.  We follow her as she gradually matures, and comes into her &#8216;awakening&#8217;.  As well as Isilde, there are two other prominent characters: Oenghus (the warrior guy) and Marsais, a Wise One and Archlord, who was also a one-time mentor to Oenghus.  There is a rich tapestry of magic woven throughout the story, and an array of strange and magical characters.Isilde is portrayed as an innocent young creature, who has an affinity with fire.  Nevertheless, as she awakens she finds herself at the centre of a bidding war on who will own her&#8212;for nymphs are considered property, not people.  &#8216;A Thread in the Tangle&#8217; is the first book in the &#8216;Legends of Fyrsta&#8217; series, and is also the author&#8217;s first published novel.The book began well, and hooked my attention quickly.  Unfortunately, it soon lost it again.  I struggled to keep going, and only finished because I had made a commitment to read and review this work.  The plot pace was a slow one, and aside from the beginning, not a lot else of note happened until roughly 75% of the way through the narrative.  Except for the chronic amount of ears wilting (Isilde) and brows creasing into &#8216;sinister v&#8217;s&#8217; (Marsais).  Honestly, I was at the point of tears&#8212;and by half way through begged for there to be no more.  Sadly, my prayers weren&#8217;t answered.  The wilting and sinister brow creasing just kept on coming.  I was in danger of throwing the book across the room, which&#8212;considering I read this on an e-reader&#8212;wouldn&#8217;t have ended well.  The characters didn&#8217;t seem to change from the first page to the last page.  Apart from the oft repeated traits there wasn&#8217;t a lot else about them that made me take note, or care what happened to them overly much.  This reader felt kept at a distance much of the time.Improvements in the prose are needed, and the use of &#8216;wases&#8217;, &#8216;were&#8217;s&#8217; and &#8216;ing&#8217; words should be severely rationed.  These formulations are to be limited in their use, unless the narrative is to end up overly passive, which is what has happened here.  For this reason alone, a thorough re-edit is necessary.  Modern writing standards dictate that &#8216;ed&#8217; ending words are better form and show more immediate and professional writing.  The dialogue tags were overly descriptive, and nobody seemed to ever just &#8216;say&#8217; something, but rather they opined, reminded, defended, snorted, sighed, assured, pointed out, huffed, and&#8212;one of my personal pet hates&#8212;intoned.  This, together with the occasional slip into head hopping, let the book down badly.  There is also an abundance of comma splicing, and strange sentence construction.  There seems to be especial confusion around the use of the &#8216;however&#8217; word and how to place this in the middle of a sentence.  In all but one instance this was placed between two commas and it was unclear which bit of the sentence the &#8216;however&#8217; actually belonged to.  Time and again I had to go back and re-read the line to get the intended sense of it, and even then I wasn&#8217;t always certain I had it nailed.  The action was often delayed rather than immediate by the overuse of &#8216;began to&#8217; rather than simply describing the action as being performed.  There were quite a lot of typos, where &#8216;than&#8217; and &#8216;then&#8217; were mixed up and singular and plural were confused.The Verdict:All in all, this is brilliant story concept, but which, sadly, is not well executed.  The book is let down in critical areas, such as: plot, pacing, character development, grammar, punctuation, proofing and editing.  I desperately wanted to like this book, and hate giving such a low star rating.  Unfortunately, if I am to remain honest and impartial, there is little else I can do.  Had I been asked to edit this work, instead of reviewing it, I&#8217;m sure my new red pen would more than likely have run out of ink by now.  I give 1 out of 5 stars for &#8216;A Thread in the Tangle&#8217;. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Unique Epic Fantasy </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> *I received this book free from the author in exchange for an honest review*I have to say that this is a wonderful story and the only reason I didn&#8217;t give it 5 stars is because parts of it were quite tedious. I understand why they are there, but that didn&#8217;t help me muddle through those parts any faster.Isiilde isn&#8217;t like other nymphs. Unlike them, she has a desire inside her. A fiery fight that won&#8217;t let her do something quietly against her will. Since she was four, she was raised by her guardian Oenghus. To her, he&#8217;s her guardian, but to him, she&#8217;s his daughter. That&#8217;s a web I look forward to reading about. I&#8217;m curious what will happen when it unravels and she learns the truth.Oenghus is a Berserker, a barbarian. He lives a life of healing, booze, and woman. And yet when it comes to Isiilde, his sprite, he is the gentle caring man she&#8217;s grown up with.Marsias is the Archlord, and when Isiilde is fourteen he takes her on as his apprentice, just as he once had Oenghus. He likes the light she brings into his life, he enjoys having her around despite all the trouble that follows her, but what &#8211; even with his seer abilities &#8211; he did not see was how much he loved her and her him.After she&#8217;s comes of age she is to be sold by her supposed father, the Emperor of Kambe, but her father and master cannot see letting it happen. However, they are at a loss for knowing exactly how to prevent it. But her pending sale is not what leads her life on a completely different path; it&#8217;s the man who takes advantage of her&#8230;without consent. Between him and a coup to overthrown the Archlord, their lives will never be the same.I didn&#8217;t get engrossed in this book until a little over halfway through, but once there I couldn&#8217;t put it down. I&#8217;m looking forward to King&#8217;s Folly.My Favorite Awkward Moment: A discussion between Marsias and Oenghus about fire. Even between two longtime friends this conversation could not have been more awkward, but it was definitely funny.&#8220;Hmm, well the rest of your little sprite is just as flammable.&#8221;My Favorite Moments: A slight confession by Marsias and a moment of merging spirits.&#8220;Stay with your daughter and count yourself lucky that you can give her comfort. I know what it&#8217;s like to be denied that, Oenghus. I would have given anything to have that chance.&#8221;&#8220;Through the blur of ecstasy he watched as the serpent of fire unfurled its long body from around her neck, slithering over her shoulder, winding itself up his arm, merging two spirits into one.&#8221; </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wonderful Surprise </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-31-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> As an avid reader who must ALWAYS have a book on hand, I tend to download a lot of free books while waiting on the release of others. I don't always like them and have only recently accepted that it's ok not to finish every book I start since there's a lot of, for lack of a better word, crap out there. I wasn't expecting much when I began "A Thread In the Tangle" but I thought it was a catchy title and the description seemed along the lines of something I could tolerate, if not enjoy. What a wonderful surprise I was in store from the first page throughout.Sabrina Flynn has created an extremely original tale, a fascinating world, and, most important to me, characters you love and feel as if you know by the the end of the book. The synopsis truly doesn't do it justice, but I'm not sure how a synopsis really could. You just have to read it to understand what a great storyteller Ms. Flynn is. With every line, she paints a picture with words and you imagine yourself going through the experiences along side the characters.The only complaint I have is the ending is a true cliffhanger and ends a little too abruptly for my liking. I would've like another chapter or two to tie it up a little more, but I suppose this means the next book in the series will grab me from the first page the same as this one did.As a thirty something year old mother of two, I would advise parents to be aware there is heavy subject matter at times, but nothing a mature teen couldn't read. Probably not for the younger teens, though. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent writing, outstanding world building, engaging characters and dynamic action scenes make this an outstanding read. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This debut novel has everything I look for in a good read: excellent writing, engaging and unforgettable characters and a plot that had me turning the pages to see what was going to happen next.  Although I don't read a great deal of fantasy this book had me gasping when I turned the last page and realized it would be continued in another book.  It stands on its own as a novel, but it takes you on a journey with the characters that is far from over and leaves the reader wishing for &#34;what happens next?&#34; The perfect read in that respect, and I can't wait to read the sequel. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> boring </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> couldn't get in to this one at all.  wouldn't even recommend it to anyone.  it was so boring that it wouldn't even put me to sleep. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Better than expected </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really enjoyed reading this book. It took some unexpected twist that I liked and I couldn't put it down. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Engaging fantasy </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a well-written fantasy story, full of enchanting characters such as the main character Isiilde, a flame haired young sprite. Isiilde comes across as young and shallow at first, but as the tale progresses we see her grow from a silly girl who cares for sweets and strawberries, into a deeper more caring young woman, capable of feeling and bestowing love on her fellow creatures. It is a coming of age tale in a land where humans, fairies, and magic is the norm. The drama comes from the fact that as a sprite, she is sought after for her beauty and power, but she does not want to be sold to humans to be used and it is her escape for freedom that is at the core of this story.The narrative style is engaging and has lots of vivid descriptions that really take the reader into this exciting world. I liked the names Sabrina Flynn used, it reminded me a bit of Charles Dickens, in that he used names to indicate a character's personality, or to describe the atmosphere of a place. Sabrina does this too, and a particular favourite of mine was - &#34;THE TOWN OF Drivel was poorly named by a man who was unburdened both by foresight and a merchant&#8217;s enterprising spirit.&#34; I though this was a wonderful description, very evocative and the stamp of good writing in my book. There are a lot of different characters and I had to concentrate to remember who they were in relationship to one another. This isn't a bad thing, it just means that the reader becomes more involved in the story, another plus!At times I thought the author tried too hard to get in all the information the reader needed to know in order to understand the history and magic of the world she has created. This led to long passages in which the characters explained the backstory in great detail. Which often halted the flow of the narrative at the expense of getting the story told. However, I thought it had an easy style with elements of humour, which helped me to identify with the characters. I really liked Oenghus, he is strong and charming and kind hearted and takes care of Isiilde, despite her naughtiness and trouble making. He was a well-conceived characterThere is a lot of backstory, which is okay because on the whole it is interesting and important to the plotline. But there is so much to remember that I had to keep going back to make sure that I understood the hierarchy and history of the world in which the narration takes place.&#8220;Faerie are disliked for various reasons that began long before the Shattering. During a time when faerie dominated most of the realm, a particular race stood above the rest, the Lindale. These were tall, lithe folk who were more numerous than humans. Imagine someone my height, but as beautiful as you with pointed ears, like the Kamberians.&#8221; Isiilde blushed at his compliment.&#8220;For the most part, the Lindale lived side by side with man, tending to the Sylph&#8217;s beloved realm. It was not uncommon for men and faerie to take Oaths together, which is where the Kamberians stem from, but the bloodlines are very diluted these days. Some believed, long before the Shattering, that the Lindale were shaped with Fyrsta. That they were the oldest of the races. Whether that is true or not, I do not know, but they were the first to watch over the nymphs&#8212;the original Druids.I did think that the story was a bit slow to get started. Although I enjoyed the lovely visual descriptions of the world Sabrina has created, I felt as though I was watching from a distance. I wasn't instantly drawn in by the characterization, due to the fact that the author spent quite some time getting the backstory out in favour of character advancement. Having said that I did enjoy reading this book. It does not disappoint from the beginning to the end. There is so much to get into when the plot kicks in. Everything a fantasy reader wants is in this well written novel: Magic, gods, nymphlings and a host of other truly interesting creatures.I thought the ending was abrupt. It seemed to stop in mid sentence, although it didn't, but the narrative just ended in the middle of a bit of action. It jarred a little in relation to the previous slower, more detailed storytelling and left me feeling somewhat cheated. That said,I would look forward to reading the next book in the series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Most Enjoyable </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-16-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a book I would strongly recommend to anyone who likes the Fantasy genre! I will read the next book in the series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> the story is good </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> But the lost star is in the details, some are well developed to the point of being over done others the action proceeds helter skelter but it is a good story with a good lead in to the next book </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Slow to develop with some disturbing scenes - not for youth or young teens </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The world the author creates is interesting and holds a lot of promise for the series.  However, I found there were too many slow and tedious parts to wade through and the plot never really developed.  In fact after reading this book I still don't have a good handle on what the plot is; a  coming of age of a nymph or the  an evil Wise one trying to take over the world,  I also did not like the rape and sex scene. I would not recommend this for younger readers. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Different and Good? </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Downloaded this some time ago and just got to read it.  Difference than most fantasy I've read.  Gruesome towards the end, but not so much to deter me from reading future books.  I am uncertain that I will read more in the series but suspect I'll try book 2 at least. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Disney character? </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-31-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> While Isiilde acts and talks like a Disney cartoon character (so far...I'm about 20% into the book) I still have to admit that this book is holding my interest.Not the best I've ever read, but entertaining and hard to put down.Enjoy! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best fantasy book I read this year </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was pleasantly surprised by it. A Thread in the Tangle reminded me of books like The Sword of Shannara and Magic Kingdom for Sale.It is elegantly written and exceptionally well edited. What do you get when you take seer, a berserker, and a nymph caught between greedy kings, traitorous wizards, and misinformed zealots? A tangle and poor isiilde is the thread everyone wants. Ms Flynn weaves a world that is complete with history and intrigue, picturesque locations and believable character that are fleshed out and complete. My favorite fantasy novel of the year. I can't wait for the next one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Incredible good book </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book held my interest and was full of twist and surprises. I got to the point i could not lay it down until i finished it. Now i an chomping at the bit for the follow up.I would recommend this book to any fantasy lover to read and enjoy as i did. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> it doesn't get any better than this! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Wow!  What a grand adventure!  This book has it all - spells, imps, good guys and bad...I loved it from start to finish! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

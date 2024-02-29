@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00JSKTL26 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-26-2014  
+<h2> review.text </h2>
+
+ <p> I started reading this book and fell in love with the characters. True love trumps evil in a surprising twist. It is a page turner. I read till I couldn't see then had trouble sleeping because I wanted to read more about Faith and her Fairy Fog spirit, Jake and his disbelief in spirits. I got up grabbed a cup of coffee and continued to read this spellbinding story.I now have to wait to see what happens in book two of the Whisper Cove Series.  Ms Faria that was a great book. I loved it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absolutely wonderful book. </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> Faith is getting married but she has a secret that she needs to tell Jake but she's not sure she can.  Faith is cursed, she can talk to the dead and will never enjoy true love.  While she is preparing herself to tell Jake (the day of their wedding), a car is racing towards Jake and Faith jumps in to protect him.Jake is beside himself, trying to find a cure for Faith as she lies in the hospital.  Keeping her alive, Jake begins to see her but is denying it only to finally accept that he has always been able too see dead.Will Jake and Faith be able to conquer all odds and come back to gather again or will she be forever a ghost to all?I enjoyed reading &#34;Spirit Released&#34;.  Even though Faith knows she is cursed, she is determined to find a way to break the curse so she can be with Jake, the man she truly loves the only problem is she waits too long.  I loved how even while in a coma, Jake and Faith finds each other to figure out a way to break the curse....true love will always find a way to survive.Spirit Released was a great paranormal but sits apart from all the others out there as it's not about vampires, werewolves, etc.  The story is filled with intrigue, mystery, romance, and paranormal.  Both Faith and Jake are great characters and I can't wait to see what book 2 has in store for us! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great start to a new series! </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> Really liked this story.  It was a story that makes you believe there are spirits among us.  Jake helps Faith, he is so devoted to her even though he doesn't believe in ghosts until he sees and hears her.  they work together to solve the mystery and the curse.  She appears to him to save him.  This was such a good read, It proves that love has no bounds. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Jake and Faith </p>
+
+
+<h2> review.date </h2>
+  06-09-2014  
+<h2> review.text </h2>
+
+ <p> Spirit Released was not your normal run of the mill Paranormal Romance.  I will admit I had a little trouble with the first chapter.  I felt confused, as if I had been thrown into the middle of a story and had no idea why the things that were happening, were happening. I do give credit that all of my questions were answered throughout the book, but I can see how this might make a lot of people put it down, without giving it the chance it deserves.The story is of Jake and Faith. Faith (which I found to be a very appropriate name for the story) has a 200 year old curse on her. A terrible accident happens in the beginning while she is trying to save Jake's (her Fiance) life. Faith is in a coma throughout most of the book, but her spirit is there. The one odd thing I found about her spirit is not just that it could touch/move things, because many spirits can, but the spirt of Faith could have sex. I enjoyed the scene as it showed the love and commitment of the 2 characters. It brought them closer together and I think it gave them more courage to try to find out just what was going on and why Faith could not come out of her Coma.Jake is a Dr at the hospital Faith is at receiving grant money from a corp. to help try experimental things and drugs to wake Faith up. The corp is 100% behind Jake as he has done such a wonderful job and created what some would call medical miracles. The kind that go into science journals. However, something starts holding his progress back and there are many people that the blame is pointed at.I felt this had a good mystery to it as well as a beautiful love story. It makes you think that if you just believe that all things can be possible.True love is a powerful thing that sometimes not even the universe or a curse can come between.  I think the characters of Jake and Faith are well developed as the story continues, and I felt that Cyndi developed enough of the sub characters to carry a series forward with other people's stories.All in all I gave this book  4 fairies because of the confusion at the beginning and the feeling that it 'could' keep new fans from continuing. In the end this would be a sad decision because the book was really good after that, and people would really be missing out on a great new author to add to their TBR list. If you pick this book up and feel that way, please press on and give it a chance, as after that small bit, it is a beautiful story, with nicely developed characters and of course the happy ending we all dream of. (not to mention, Jake seems pretty hot :-)) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful Love Story </p>
+
+
+<h2> review.date </h2>
+  05-11-2014  
+<h2> review.text </h2>
+
+ <p> This book is  good. It takes a couple hours to read and has a decent plot line. Faith and Mitchell have to overcome a curse. In order to do that they have to save each other and them selves. The first chapter is slow and takes a minute to get through. It starts on their wedding day. Faith has lived with the curse all her life while Mitchell doesn't believe in it and stays firmly based in science. I felt their should have been a little more history of the couple and the curse its self. There are a couple of unexpected plot twists. The author keeps you engaged but it isn't one of the ones that I couldn't put down. There were some points where she referenced something that had happened in the past and I wished she would have gone a little bit more into it. The curse is mentioned a lot but I wished there was more detail on it rather that a paragraph that explains how it came to be.Overall, I would read this author again but she won't be on my wait for the new release list and have to read right away. She keeps you engaged and the writing is good and I would recommend it  to a friend who I know enjoys this kind of story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good book. Could use some more history. </p>
+
+
+<h2> review.date </h2>
+  05-03-2014  
+<h2> review.text </h2>
+
+ <p> Spirit Released by Cyndia Faria is her first book in her Whisper Cove Series.  In Spirit Released, Faith Cabrillo is about to tell her fiancee Jake that she can talk to ghosts but something happens and Faith is hurt and end up in a coma.  Jake does everything he can do to save her when her spirit unexpectedly shows up to warn Jake.  I really don't want to spoil the story so I won't summarize more.  I think Spirit Released is one of those stories better enjoyed when too much of the plot is not known ahead of time.I really enjoyed Spirit Release because it is quite different from typical paranormal romance books out at the moment.  It also has a nice mixture of romance, paranormal, and mystery.  I enjoyed Jake's skepticism and loved the character of Faith.  Highly recommend! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Paranormal Romance. </p>
+
+
+<h2> review.date </h2>
+  05-08-2014  
+<h2> review.text </h2>
+
+ <p> I fell in love with this book. I feel that there is a good lesson that can be learned from this book too. That you have to trust and believe in yourself, that most times you are your worst enemy. I think that so many of us can relate to this all too often. The characters were awesome and lovable too. I felt that Cyndi did a very good job. I look forward to reading more of her books, especially the next one in this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absolutely loved. </p>
+
+
+<h2> review.date </h2>
+  05-09-2014  
+<h2> review.text </h2>
+
+ <p> Love the characters and this book has a fantastic story to tell! The first chapter or two was a little long winded and easy to loose focus at times, but the twists in the story will keep you guessing.  I love the commitment of the characters to one another. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Spirit Released </p>
+
+
+<h2> review.date </h2>
+  06-20-2014  
+<h2> review.text </h2>
+
+ <p> Cyndi Faria has a way of grabbing ahold of a reader's heart and not letting go. When Faith falls into a comatose state, her fiance Jake searches for a way to keep her alive...never expecting to see her spirit--and to believe what he sees, hears, and feels is real. Love the concept of this story, and can't wait for more of the Whisper Cove series to come out! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic concept! </p>
+
+
+<h2> review.date </h2>
+  04-27-2014  
+<h2> review.text </h2>
+
+ <p> For the most part a pretty good read but it left me confused at times.  Good story concept.Faith risks her life to save the life of her fiance Jake.  We find ourselves 2 years later with Faith in a coma.  Jake has hardly left her side. As Faith lays in a coma her spirit visits Jake.  Together they must solve the mystery of who is after Jake or are they really after Faith and trying to keep them apart.The town suffers from a 200 year old curse.  Is their love enough to break the curse?One thing that confused me was with Faith being a &#34;spirit&#34; how could she physically touch, feel, have sex etc.Would I read number 2 - probably.Would love to see Thomas's story next. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For the most part a pretty good read </p>
+
+
+<h2> review.date </h2>
+  05-10-2014  
+<h2> review.text </h2>
+
+ <p> Absolutely loved this book!!! Loved how Faith and Jakes personalities complimented each other. If you like paranormal romance with a bit of action and mystery, I highly suggest this book. I sat down this afternoon and could't put it down. Can't wait for the next book in this series </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Couldn't put it down! </p>
+
+
+<h2> review.date </h2>
+  05-06-2014  
+<h2> review.text </h2>
+
+ <p> Chapter 1 was a little difficult to get through, but once you understand who the characters are, and the story behind &#34;the curse&#34;, it is a story filled with intrigue.  Lots of surprises that kept me reading.  Looking forward to the next book in The Whisper Cover series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Intriguing Story </p>
+
+
+<h2> review.date </h2>
+  05-10-2014  
+<h2> review.text </h2>
+
+ <p> It's always fun to be introduced to a new author. Spirit Released is not my normal reading material. I love sunshine and happiness, and happily ever after, but once I got a few pages in I found my self stuck. I found that I couldn't stop reading, and new that the happily ever after was going to be there if I just believed. Cyndi Faria has a way of developing her characters, while making you want to take their journey with them. I love Faith and Jake, and I love that he loved her so much. It was like the ultimate Gift of the Magi both willing to sacrifice for their deeper love of the other. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Spirit Released, an Excellent opening to the start of a Wonderful Series </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

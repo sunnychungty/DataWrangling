@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00BKT6H1Q <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> This is a cute alphabet book for kids. Having an audio version is nice. The pictures are very cute. Each animal picture is preceded by a fun rhyme to help kids quess the animal. I gave it four stars instead of 5 because the rhymes might be a little more advanced than the average 2-4 year old could guess on the first reading. However, they are fun and more interesting than many alphabet books that assume kids are dumb. After a few readings kids will have them memorized and be excited to guess correctly. Overall a very cute book and lots of entertainment value. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute alphabet book </p>
+
+
+<h2> review.date </h2>
+  02-28-2013  
+<h2> review.text </h2>
+
+ <p> Not just your simple Animal ABC book, because it uses rhyme, spelling and hints to help your child guess. The illustrations could have been clearer so that's why I give it a 4. But your little one will enjoy the interaction. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Innovative Approach to Matching Animal ABCs </p>
+
+
+<h2> review.date </h2>
+  03-01-2013  
+<h2> review.text </h2>
+
+ <p> Though the book in concept is great, this isn't exactly geared toward a 1-3 year old child.  You aren't going to teach a two year old, who has the attention span of a gnat, how to spell some of these animals.  Teaching the ABC's is one thing, but some of the concepts introduced are way too advanced for a 1-3 year old, in my opinion.  'Xerus'-ly, the age range of this book should be a little higher than is listed if you expect a child who is just learning to read to pronounce Uakari, yet alone spell it.The photos for some of these animals were also a bit confusing... can you guess what the "B" animal is with a picture of a Panda (bear).  I did learn that there was such a think as a "white peacock" so I will take that away as the thing I learned today! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not exactly for ages 1-3 </p>
+
+
+<h2> review.date </h2>
+  03-01-2013  
+<h2> review.text </h2>
+
+ <p> Found this book to be quite engaging for the younger set! Its format will be appealing to both the very young all the way through 1st & 2nd grades, with opportunities for learning at each level. They younger set will enjoy hearing the words, looking at the pictures and using the book to guess the animal names, while the older children will enjoy the riddles, spelling and optional opportunity for learning phonetic sounds of each letter.Our little ones are like sponges during the language acquisition years and are far more capable than we sometimes realize! Younger siblings (toddlers) will learn so much just by observing and listening to older children guessing the animals along with the spelling. Giving them the chance to be still and focus, listen and learn is a great life skill. To do so while looking at this book's animal pictures, listening to riddles, and letter sounds is a Win-Win-Win situation! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Engaging! </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> I love the book.  I think the rhymes are unique and catchy and allows for some interactive fun with children just learning how to read. I also love that there is practice for spelling all different lengths of words from cat to elephant to nanny goat!  There are also plenty of unique animals in the book too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cutest alphabet book </p>
+
+
+<h2> review.date </h2>
+  02-26-2013  
+<h2> review.text </h2>
+
+ <p> I only wish I had some of the incredible children's books being written today when I was raising my daughters.  Here is a very good book for babies learning to count.  I am sending this one to my young nieces and nephews.  The author did a fine job on this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A really good book for babies </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> A fun way to approach teaching kids by using illustrations, spelling and wonderful rhymes. Great place to start extra teaching for the kids that they can participate in. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Way To Learn Your ABC's </p>
+
+
+<h2> review.date </h2>
+  03-01-2013  
+<h2> review.text </h2>
+
+ <p> This is a pretty cool book.  As a mother of four, there is something in it for all my children: ages 1 - 9.  Love the pictures!  There is a guessing game that makes the book interactive - the kids love it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Learning Your ABCs </p>
+
+
+<h2> review.date </h2>
+  05-23-2013  
+<h2> review.text </h2>
+
+ <p> Most children's books are age specific, ie suitable for age 1, age 2 etc. Learn My ABCs-Silly Rhyming Kids Books Animal Alphabet covers the entire preschool spectrum. My one year old granddaughter loves the rhyming and pictures now, but when she begins to speak and later spell this book will be read when many of her current books are put away. Wonderfully conceived concept for a children's book. Recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unique time spanning children's book. </p>
+
+
+<h2> review.date </h2>
+  02-27-2013  
+<h2> review.text </h2>
+
+ <p> As a 63 year old Grandfather of a 2 year old boy I have found it hard to find things to not only entertain him, but to help him develope into a better learning student.  Learning My ABCs - Silly Animal Rhyming Alphabet Book  was the ideal answer for both. Now when he comes to visit he loves to open the book on my pc and show me how well he knows his alphabet. It makes this old man proud to have helped just a little. But Beth did all the work and I am very happy to recommend this children's book to any grandparent who enjoys spending time with their grandkids in a positive manner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Grandfather's Delight with  Learning My ABCs </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

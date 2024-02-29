@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B001GGAIG8 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-17-2011  
+<h2> review.text </h2>
+
+ <p> I live 2.3 miles from a television tower, the tallest structure in Virginia, seventieth-tallest in the world, and the station still breaks up and freezes with this antenna. RCA's basic indoor TV antenna (rabbit ears), which is cheaper, actually out-performs this antenna. A low-profile antenna is a good idea - if it worked. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nipper (and Skipper) should bow their heads in shame </p>
+
+
+<h2> review.date </h2>
+  03-03-2014  
+<h2> review.text </h2>
+
+ <p> My second one I bought and it works great. I don't pay for cable, this picks up plenty of channels and HD ones as well. Small and a success </p>
+
+
+<h2> review.summary </h2>
+
+ <p> As advertised </p>
+
+
+<h2> review.date </h2>
+  05-26-2013  
+<h2> review.text </h2>
+
+ <p> nothing states that assembly of this antenna is required, just two Phillips screws but instructions can be tricky as in placement of antenna ears into the housing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> assembly required </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> To be honest, I thought the size of this antenna was small in comparison to other 'wing' type products I've used at work, but it pulls in more stations than a couple of $40 amplified units purchased through WallyWorld. Good product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gets decent reception for its size </p>
+
+
+<h2> review.date </h2>
+  06-11-2013  
+<h2> review.text </h2>
+
+ <p> Broadcast TV is in digital, and a good antenna is necessary because you either get a picture, or your TV says &#34;insufficient signal strength&#34;.  This type works well.  Oddly enough, the earlier one I bought was smaller, and picks up a couple more stations.  I'm sure there are some EE's out there who can figure out why! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Save your cable dollars! </p>
+
+
+<h2> review.date </h2>
+  06-27-2009  
+<h2> review.text </h2>
+
+ <p> I'll keep this short and simple. This thing barely works, at all. I've found that you can get a signal off a Digital TV by just hooking up the cord that attaches to it to something else like a DVD player (this amplifies the signal). As long as it's hooked up to SOMEthing, it should be able to get a somewhat decent signal. The problem with this is it's not too reliable and doesn't fully substitute an actual antenna. However, it does work.I've found that hooking up the cord to a DVD player or something else works as effectively as this stupid ANT1000 Digital Flat Antenna. Essentially, all it is is a cord and some thin metal. That's literally all it is! This thing is like a homemade antenna. And that point is even more revelant as you have to assemble this thing, yourself. While not hard to assemble, the instructions don't tell you jack squat, so you have to figure out how to do it, yourself, and not knowing at first, is hard. What you have to do is unscrew the thing and use the tiny holes in the antenna's "wings" to patch it into the center plastic part of the device, so that you are essentially screwing in the wings to the centerpiece. When you first get it in the box, nothing at all is essembled.Besides the assembly required, the antenna (which like I said, is as good as any plastic homemade thing you would make yourself) just doesn't work that well. It can only get about 80% of all available channels, as opposed to 100%, and the signal is constantly being broken or interrupted, probably by the weather outdoors. So you'll constantly have to move the antenna around in order to get a clear signal. And also, some points you place will exclude some channels, meaning you'll won't get all of them in one placed spot in the room your TV is in. To put it in other words, this antenna makes it IMPOSSIBLE to always have 100% of your channels, as some of them will always not pick up due to where you placed it. If you move it around, you might get those missing ones back, but at the cost of the ones you had.This is even more upsetting as I don't even watch the "extra" digital channels available. I only watch six: FOX, NBC, CBS, ABC, The CW, and MyNetworkTV. And at some points, I will have FOX, CBS, and NBC, but not have ABC and The CW. Other times, I'll have The CW, but not have FOX or NBC. Yeah. THIS is what you'll have to live with with this antenna. Oh, and by the way, opening a window, or placing it outside doesn't help it work better, either.I guess, you get what you paid for, since this antenna is fairly inexpensive. However, I recommend you go for something much better than this cheap, homemade piece of crap. RCA's antennas have six Signal Ratings: Standard, Good, Great, Excellent, Superior, and Ultimate. Which is really just a level of how bad-to-good they really are. This antenna ranks as "Good" which is the second-to-worst rating there is. So, that should tell you to go for something better than this. At least, go for "Excellent" condition. It may be pricey, but it's better than wasting your money on THIS piece of junk. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WEAK... </p>
+
+
+<h2> review.date </h2>
+  03-31-2009  
+<h2> review.text </h2>
+
+ <p> Some assembly required, but straightforward.  It's a cheap way to get some DTV signals if like me, your television viewing is too minimal (or internet-centric) to bother with full-bore DTV services like Cable or FIOS.As with old-school bunny-ears, placement matters, especially relative to metallic obstructions.After some fiddling and re-scanning, in my Baltimore-Washington market, my HDTV system was able to detect more than 20 DTV stations, of which I was able to some image on about half, and a steadily clear signal on 4-6 channels.  This is similar to the number of completely clear analog broadcast stations in my immediate market.A major caveat-- there's no staticy-but-viewable analog-style tuning in the DTV world.  If the signal is momentarily inadequate to be decoded fully, the image will skip or stutter (like a scratched DVD), and if it's persistently inadequate, there's nothing at all.In reading reviews of other similar items like theRCA ANT1050 Digital Flat Passive Ultra Slim Profile Antenna with Enhanced Reception (Black), I speculate that most people's complaints are tied to that: expecting a cable-clear image and instead having to deal with broadcast stutters.Also to address the likely causes of other complaints (eg, not understanding how RF antenna work), there's a fair amount of metal in most A/V components, so mounting this antenna in the back of your TV cabinet is a bad idea.  Get it up high over your gear.  And make sure to switch your TV from cable/satellite mode to broadcast mode.While this is hardly a drop-in "Digital Cable" replacement for devoted TV watchers, for the price this antenna is hard to argue with.  And it's a pleasing surprise to see free 1080 or 720p channels over the air! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works well for a simple antenna, some assembly </p>
+
+
+<h2> review.date </h2>
+  03-31-2010  
+<h2> review.text </h2>
+
+ <p> I have a portable NTSC/ATSC TV and sometimes take it with me out "in the field." Okay so some posts are lonenly and late at night you want to have a "talking nightlight." My boss gave the "OK".I was using the single telescopic antenna that came with the set and it did not work as well as I thought it should. So I tried this antenna because of the size and cost. Fortunately, the set has an "F" type connector for the included antenna and this was a simple screw-on replacement. Now the reception is more than acceptable, but could be a tad better. I get all the local channels rather than half of them. We are talking a difference of about 20 channels here. Antenna placement and such are things I should not have to talk about, and you DON'T need a special antenna for digital signals. They are on the same frequency band as the old signals.Okay, it is possible to assemble this antenna the wrog way and wind up with little or no reception at all. So be careful to assmeble it so that the bare wires inside are touching the actual metal film of the antenna that is made of - inlaid on the plastic "wings". Once that is done properly, tighten the screws snugly and you should get half decent rception. I have tried this antenna under a variety of conditions and locations and have found it's best reception is when it is oriented vertically. Go figure.Mounting it however is another problem as it does not have a hook or anything like that to hang it on a wall or window. I use sticky tack for putting up posters, to adhere it to a window, or a simple piece of tape on one wing to mount it vertically - for  the best recption I get.All in all I'd say it is worth the price. I struck a good balance here between portability and sensitivity and have no buyer's remorse. I recommend it if you are in a metro area but not for out in the suburbs or countryside. It is obviously made for stronger signal areas. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent for what it costs. </p>
+
+
+<h2> review.date </h2>
+  08-10-2013  
+<h2> review.text </h2>
+
+ <p> It is extremely Simple to put together.Also, I was unsure if it would pick up much, but it Actually picked up SEVERAL (64 plus channels ; DALLAS, TX area)It WORKS and it is very simple and cost-effective.I'm happy with it, although, I DID order an RCA ($20) "amplified" antenna, at the same time I ordered this one,just in case it did not work.  ;)Now I'll have 2 antennas , but hopefully the other (larger "amplified") antenna will  catch more channels, or make the clarity evenbetter.  (I'm going to use a cable splitter to connect BOTH antennas; this one picks up uhf AND vhf, the Amplified one only gets the HD channels, I'm guessing)EDIT: I received the RCA ANT1450BR Multi-Directional Amplified Digital Flat Antenna (Black)and it is no better than THIS one (!)  Did not pick up even 1 more channel, nor did it come in with any better clarity.I wish now I had not bought the other antenna.  :/But DO buy this one !  It is worth it, I promise . ! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Small But WORKS !  :) </p>
+
+
+<h2> review.date </h2>
+  05-11-2009  
+<h2> review.text </h2>
+
+ <p> Not knowing if I could get reception at all for my analog 26" TV, but had to try with the DTV conversion coming up soon.  Perfect reception with this antenna and it disappears into my decor laying flat on top of some books.  I am astounded at the picture and sound quality.  Excellent and highly recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappears into the decor </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0013FSL16 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ALOT OF SERIOUS DRAMA. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-25-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> SEASON 5 PART 1 HAS 5 DISCS.3 HOURS ON EACH DISC.HERE ARE SOME OF THE HAPPENINGS IN SEAEON 5 PART 1:CHRISTIAN AND SEAN MOVED TO LOS ANGELES TO BE IN WITH THE RICHER AND TOP SURGEONS.THEY'RE HAVING A HARD TIME GETTING BUSINESS BECAUSE JUST ABOUT EVERYBODY THERE ALREADY HAS A DOCTOR.SEAN'S DATING A WOMAN WHO HE HOPES TO BE SERIOUS WITH IN THE FUTURE.SHE HAS ISSUES.THE MAIN PROBLEM OF ONE OF HER ISSUES,IS THAT SHE TAKES LAXATIVES SO SHE STAYS THIN.ONE TIME,THEY WERE GETTING INTIMATE IN THE POOL,AND SHE HAD TO GO RIGHT THERE.BROWN MESS ALL AROUND THEM.CHRISTIAN MAKES JOKES ABOUT HER EVERYTIME HE SEES SEAN.OLIVIA AND JULIA WERE VICTIMS OF A HATE CRIME.THIS MAN SAW THEM GO TO AN ATM MACHINE.HE JUST ASSUMED THAT THEY WERE A COUPLE BY THE WAY THE WERE ACTING TOWARDS EACH OTHER.HE TOOK THEM TO A DESERTED PLACE AT GUNPOINT,AND MADE THEM GET NAKED.THEN HE WANTED THEM TO DO SEXUAL ACTS.JULIA GOT REALLY MAD,AND REUSED.SHE SAID TO GO AHEAD AND SHOOT THEM-THEY'RE NOT DOING THAT.HE LEFT THEM THERE.THEY ARE A COUPLE.I GUESS HE WAS AGAINST GAY RELATIONSHIPS.EDEN HAS BEEN POISONING JULIA SLOWLY OVER TIME.SHE USED MERCURY.JULIA FOUND OUT,AND THREATENED TO CALL THE COPS.EDEN THEN SHOT HER.GUEST APPEARANCES ARE:DAPHNE ZUNIGA,SHARON GLESS,LAUREN HUTTON,TIA CARRERRA,PORTIA DE ROSSI,ROSIE O'DONNELL,JOHN SCHNEIDER,IAN BUCHANAN,DONNA MILLS,AND JOAN VAN ARK. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One of the best shows of it's kind </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-13-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Not once have I not been drawn in and consumed by each and every episode.Once is never enough with this superbly written and performed drama.It really gives an uncomfortable close up to how shallow "the beautiful people" can be.The villains are the creepiest/scariest people.  Great casting as well.In a word Great! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Manufacturers suck </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-22-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nip and Tuck is just a TV show, the fact that we buy the dvd means its good enough to add to our libraries.  Manufacturers take advantage of this market three ways to sunday.  First we have Sony putting out the first season to dozens of shows and then not following up with the rest of the seasons. Thus leaving our libraries incomplete. Then we have writers striking for better wages and manufacturers use this as an excuse to sell mediocre packages of media at prime prices. Now we have half of a season selling at the price of what it would cost to purchase the complete season. All in all, there are laws to put us away for smoking too close to a building and spitting on the sidewalk but manufacturers can get away with manipulating sales by how they put out materials. Where is the law that protects the customer. The law that says, hey you promise quality goods and you get paid for it, so pony up boys, pony up and give quality where quality is due. Sony, Fox or michael jackson and anyone else that has cornered the market on media manipulation should be held accountable. So no, I am not giving my hard earned cash to Amazon or anybody else for half a box of media. It makes no sense at all, and I am sure that their sales must be reflecting this if the american public is as fed up as I am with this media hazing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> shockingly bad </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-18-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> i have no idea how such a fantastic show could have fallen so far. Really, its quite sad. this season is terrible, the charecters do things they would never do, it makes no sense, the story arcs start and end within two or three episodes making it chaotic and just plain stupid. while the acting is still fantastic, and you cant help but feel so bad for watching these actors go through this, i cant totally pan the season. still, its real bad. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Time to nip and tuck this series away. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-27-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> What started out as a fresh and clever series has become vile and disgusting! This fifth season was in extremely bad taste. Everyone that I knew who watched the series suddenly TURNED IT OFF. If FX keeps pushing the button in this direction, NIP/TUCK will be gone...and not missed by many people. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> nip tuck </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> for as long as i can remember this show is the best . there is not other show senario's that even comes close to this one here. the actor's were chosen well for this movie in my opinion. would like to see them back on the air again </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> huge fan </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-20-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> wish they didnt do part 1 n 2 that cost more money smh but i still love this show tho </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> There must be something in the water. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-16-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> WOW, I can't believe Season 5 received so many bad reviews. Our favorite bad guy, Christian Troy, as well as his sexually deviant side kick Kimber, is up to their old tricks. The Julia McNamara character is as socially helpless as ever and Sean is struggling with being the consummate doormat. The Matt character got a chance to spread his acting wings (although I'm glad he didn't go thru with the gay sex scene). I hate to see the Gina character released because I loved her sexually needy character. The Eden character was a nice addition to the storyline and John Schneider, turns in some convincing performances as porn king Ram Peters. For all those sour puss reviewers, the underlying theme of the show has always been superficiality (or the fulfillment of needs thru superficial means) that's why the show started off in Miami, and moved to Los Angeles. The show is about need, loneliness, inferiority issues, sexual abuse and damaged souls; shouldn't we expect a little craziness? Of course we should! I haven't watched the special features portion of the set yet, but I was dying to finish the season first. I think this season is a keeper. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Totally Out of Control </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-19-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> After much thinking, I have finally figured out the system the writers of this show must have: 5 boxes on a table.  Box #1 contains character names on slips of paper. #2 contains couples on the slips. #3  has various acts of treachery on the paper slips.  Box #4 contains slips with various diversified sex acts on them.  And Box #5 contains slips with Plastic Surgery operations such as penile enlargement, breast reduction, etc.  Take a slip at random from #1 and match it to a slip from #5.  Take another slip from #1 and  match with a slip from #3.  Get 3 slips from  #2 and match them up (at random, of course) with 3 slips from Box #4. And there's your show.  The contrast is amazing--fabulous actors giving reality to a storyline that spins and careers out of control!This season features a wide selection of troublesome women. There's the Monroe-ish Kimber, who has a heart the size and temperature of a frozen pea,  and has an ego with the size and toxic atmosphere of Jupiter. There's Colleen, a "stuffy" old hag. Kate is the ultimate drag: she goes around with an unhappy look on her face, and Sean spends 99% of his time talking, trying to get her to smile. When she does, the smile disappears after 3 seconds. Definitely a high-maintenance relationship.  Julia also spends the season having a hysterical fit every 5 minutes. She upbraids Sean for his infidelities while she cheats on him. When she finally gets her comeuppance, I almost feel like cheering.  But the real dark-entity of this piece is Eden: an evil trollop par excellence. Eden's narcissistic ego rivals Kimber's, but unlike Kimber she has no heart. She gives psychopaths a bad name. She can't screw over enough people fast enough, and her mother Olivia is as stupid as she is rich.  The potty-mouthed Gina also puts in an appearance again, just to strike fear into Christian Troy's heart. Add to this about 100 lies, several murders, some gory operation scenes, and mix well, for a show that truly entices.In this season, Liz Cruz shines as never before. She is the stable anchor to the madness going on all around her and it's when Liz is on camera, that the audience knows that reason will somehow prevail. This is a good season, even worth the 2-part cost. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another Attempt to Cheat the Consumer out of Money </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-07-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was excited and all set to purchase this dvd as I own the other seasons until I realized that it is not the complete season.  Why would anyone in their right mind pay this astronomical amount (the same I paid for the entire season sets I got when they were released), only to have to pony up more money when the remaining episodes are released.  While I love Nip/Tuck, I will not spend my hard earned money on a set that is not a complete season release.  I refused to do so when 30 Rock did this, and I will not do so now.  I say wait until the complete season is released and consider making the purchase at that time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> excited! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-08-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> i am a HUGE nip/tuck fan and i am so excited about this comming out on dvd! i never get to watch the show when it's on tv because of school and work, so i can only watch them on dvd, but i caught a few episodes and they were pretty good </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Best Show Ever </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-12-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nip Tuck is an amazing show- it definitely challenges the "norms" of society and stretches it characters in all different directions.  This season was not its best; however, it drew viewers in through its shock value and interesting spins on the old, favorite characters.  I can't wait for next season! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> amazing of course </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> its too bad they had to end the show but i guess it was bound to happen. I've got a collection of all the seasons. this came in perfect condition and never ran into any problems with quality or anything </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Dark, depressing, and captivating </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-04-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is probably best for an established nip/tuck viewer, as it must be the darkest season I've seen.  Definitely not something to watch for joyous reasons-lol But if you like nip/tuck to start with, you'll like this season too.Extremely bizarre of course, and even slightly depressing at times. But why did I keep watching?  I guess because of that bizarre edge, you never really know what the heck is coming around the corner. One thing I will say is that all the sex scenes were distracting to me.  They seemed contrived.Julia has a life transformation (I won't spoil it for you) that I found extraordinarily silly~but that's just me.  Christian seems to be sinking into the gutter deeper and deeper.  Sean's temper becomes a major focus.  And Matt and Kimber are as delightfully dysfunctional as ever.  I give this season four stars. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Four Seasons might have been enough </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-27-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> The show took a drastic turn for the worse in Season 5 part 1. We see Dr. Sean going for an 18 year old, Matt continues to fall madly in love with anyone that says "hello" to him. Julie develops a taste for females. It just goes too far over the top. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hollywood Babylon </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-11-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> The fifth season of Nip/Tuck finds Sean (Dylan Walsh) and Christian (Julian McMahon) setting up their practice in the most synthetic town on the planet: Hollywood.  It takes a while for things to take off, which they do when Sean and Christian end up stumbling into playing parts on a TV medical drama, and contending with its egotistic star (Midnight Meat Train's Bradley Cooper) while Sean romances its female lead (Paula Marshall).  There's some inventive twists that are abound, including the downward spiral that Matt (John Hensley) and Kimber (Kelly Carlson) are on, and Julia's (Joely Richardson) surprising new realationship.  There's pivotal guest star roles from Portia de Rossi, John Schneider, and sexy AnnaLynne McCord, and Nip/Tuck still manages to be entertaining five seasons in, even though this season just simply isn't as good as previous seasons of the series.  Still, there's a cliffhanger ending that will have you salivating for more to come, and here's hoping that Nip/Tuck will continue to deliver the goods. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nip tuck season 5 part one </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-06-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a huge fan of NipTuck and always havebeen so of course Iwould recomend it toviewers.  The show takesa strange turnintroducing the LA tv lifeto Sean and Christian.Season 5 does go byquick and is split intotwo parts but with thegreat deals on Amazonits well worth it.  Sad theshow will be coming toan end here in season 6. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ryan Murphy, What Have You Done? </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-25-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved the first few episodes of this season.  The move from Miami to Hollywood provided a change of scene, the opportunity for new characters, and the chance for Sean and Christian to develop further.  And then two horrible things happened: Julia and Matt returned.  And with them, all the whining that peppered the last season.  And then Gina?  C'mon! Things became so ridiculous that by the time Julia developed amnesia, I was laughing aloud and thinking I tuned into "As the World Turns" by accident.  A once sharp, funny, engaging show has become a parody of itself.  And we're not talking self-satire here either.  Extremely disappointing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The 2 parter ? </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-31-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have to say I was disappointed when they decided to break the season into 2 sections. Being the last I guess they had to pay someone. Yes I did buy the 2 discs, I suppose there will be a complete series box at a great markdown. Wish I could have waited.. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Down with Volumes!  Season Sets only!  Wait until you can pay for the price of a full season! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-28-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Down with Volumes!  Season Sets only! Wait until you can pay for the price of a full season! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> SSDD </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Refer to my review of Season 5, Part 2 ... it basically covers the entire season. If you liked the first Season, you'll like this one, too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> "Another Great Season" </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> "Nip/Tuck" returns for another wonderful season with a brand new locale. Creator and producer Ryan Murphy wisely decided to keep the series fresh by moving "Nip/Tuck" to Hollywood where Christian and Sean move their plastic surgery practice. Other series regulars like Matt, Liz, Kimber, and Julia are along for the ride and the series looks fresh and innovative. Most TV dramas become boring and sluggish in their fifth year, but by moving our beloved "Nip/Tuck" to the Southland gives the show real newness and originality in their plotlines and characters. Besides what better place to have a show set that deals with plastic surgery than Los Angeles? There are also a slew of great guest-stars that pop up this year including John Schneider, who plays a porn producer, and Rosie O'Donnel who reprises her role as Dawn Budge. However, it is Sharon Gless' virtuoso performance as a so-called agent that steals the spotlight this year. To say that Gless' performance is blood curdling is an understatement. She even received an Emmy nomination for her role.This boxset features the first 14 episodes that were filmed in season 5. There was originally suppose to be 22 shows filmed that year but due to a writer's strike only 14 were shot. The 8 remaining shows from season 5 are being released in October, 2009 in a separate set called "Nip/Tuck-Season 5, Part 2". I am sure that in time a complete Season 5 boxset will be released. However, if you can't wait to view these 14 shows, like me, buy this set: these  episodes are some of the best the series has made!On a final note "Nip/Tuck" went dark on June 19th, 2009, meaning the show finished filming permanently. The series returns to the airwaves October, 2009. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Addicted to the nip tuck </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-25-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I am a die hard fan of this series.  Loved all of the seasons, and this particular season 5, part 1 -- full of dilemnas and twists and turns of all kinds!You will love it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> West Coast weird and wonderful stuff </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-22-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> The series has now officially moved to sunny, fruity, nutty California, a fantasy world where two very busy plastic surgeons somehow find enough time in each day to have multiple affairs, operate, and work on a TV soap opera as well.  Julia's got a new lover, Sean and Christian feud with and forgive each other by turns, Matt still makes dumb decisions constantly, Kimber is still a mess, Gina makes trouble until it's no longer an issue for her, Linda rolls her eyes at the insanity, and Liz is, sadly, stuck mostly in the background this time around.Also, be sure to watch the gag reel.  Julian is a riot.Goofy, incredible, unrealistic, and steamy hot fun. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Series </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-21-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Although, after 5 seasons, the themes are starting to repeat, and Sean is getting more annoying, overall it's still more enjoyable than most other series...I just wish I didn't have to buy 2 parts to one series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Favorite series! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-03-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Favorite series of all times! LOVE this show! Miss seeing it week after week on F/X, but so glad to have the series on DVD!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

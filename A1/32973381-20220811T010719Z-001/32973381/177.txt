@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 6305820767 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-14-2014  
+<h2> review.text </h2>
+
+ <p> The problem is that the aspect ration of the DVD is wrong. This film was made in Technirama 70mm, so the aspect ratio should be roughly 2.35.1. So you're missing at least half of the image. Having said that, it was pretty dreadful when it first came out. But the transfer from that process should be stunning. This is something somebody should be held responsible for. The print is THAT bad. Don't even think about buying this.To release this is as it is is close to fraud really. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> black tights </p>
+
+
+<h2> review.date </h2>
+  06-28-2013  
+<h2> review.text </h2>
+
+ <p> The dancing was great but I couldn't finish watching the movie because the picture quality was so bad.  This is the first video I have viewed on Amazon prime and I hope the others are better quality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Picture quality very bad </p>
+
+
+<h2> review.date </h2>
+  04-08-2012  
+<h2> review.text </h2>
+
+ <p> Are Roland Petit's productions mounted much today in Paris? He was a major force in French ballet for several decades. He produced, danced and choreographed. His wife, Zizi Jeanmaire, was a prima ballerina for whom he created some his most popular ballets. Petit was respected, successful and tireless. He choreographed the ballets in four Hollywood musicals, including Daddy Long Legs for Leslie Caron and Hans Christian Andersen for Zizi Jeanmaire.With Black Tights (1961), Petit gives us four of his ballets, all presented on stage but with a fluid use of cameras. The stage sets are just that, stage sets; there is no illusion that we are watching anything particularly cinematic. Still, the sets are generous, the costumes are colorful and the dancing is first class. Maurice Chevalier tells us a bit of the stories, all with his special worldly charm.What distinguishes this record of an influential impresario, choreographer and dancer (Petit dances in three of the four ballets) is the casting of the lead ballerinas. Zizi Jeanmaire stars in the first and last sequences, as the gold digger in La Croqueuse de Diamants (with many mecs and plenty of grisby), and as Carmen in Carmen. Moira Shearer dances Roxanne in Cyrano. Cyd Charisse dances the widow in Deuill en 24 heures.Jeanmaire is vivid and sexy. Moira Shearer poignant and beautiful. Charisse is precise. Jeanmaire and Shearer have the sort of star presence that enables them to dominate the stage when they dance.But are these ballets in any way memorable? With the possible exception of Carmen, I don't think so. Even with Carmen, the passion and pleasure come from Jeanmaire and not from the choreography. I'm no connoisseur of ballet but I've seen my share of wonderful dancers and productions, most notably Galina Ulanova in Giselle, Margot Fonteyn and Rudolph Nureyev in MacMillan's Romeo and Juliet (Prokofiev) and John Cranko's version of the same with the Stuttgart Ballet. I enjoy Balanchine as well as Bourne, but I don't know Petipa from prunes. I'm one of those who know what they like. For me, Petit's work in Black Tights (not to mention his Hollywood work) seems dated. I enjoy ballet on stage or on video, but I didn't particularly enjoy Black Tights...except for Jeanmaire and Shearer. They are well worth watching. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A filmed record that may not do justice to Roland Petit, but there's Zizi Jeanmaire, Moira Shearer </p>
+
+
+<h2> review.date </h2>
+  02-10-2014  
+<h2> review.text </h2>
+
+ <p> I had thought this would be a whole lot different than it is but for a foreign period piece, this was really not worth the effort. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too Old and Too French </p>
+
+
+<h2> review.date </h2>
+  02-25-2007  
+<h2> review.text </h2>
+
+ <p> I am a lifelong fan of Cyd Charisse and consider her the very best female dancer hollywood has ever produced - she never disappoints and her feature is the best of the DVD.  Moira Shearer, whom I also like but know less of, is also wonderful in her way, vulnerable and graceful.  I found Roland Petit's Cyrano (ballet, not his performance) a bit convoluted - a lot of material to get into a feauterette.  Zizi Jeanmarie is the epitome of the French dancer and the ballet itself the epitome of what we foreigners think Paris was back in the early 20th centura. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dancers who should not be forgotten </p>
+
+
+<h2> review.date </h2>
+  07-05-2008  
+<h2> review.text </h2>
+
+ <p> i can't believe how poor in quality this disc was.  sometimes you can hardly make out any of the details.  but the dancing is magnificent.  and to see cyd charisse so young and glowing and absolutely gorgeous is a real treat.  and cyrano was wonderful, as was carmen.  i wasn't crazy about the first piece, but the rest are all worth it.  i want to give this disc a five star rating for what it contains, but it is just such a miserable printing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> miserable disc quality --- beautiful dancing </p>
+
+
+<h2> review.date </h2>
+  07-22-2008  
+<h2> review.text </h2>
+
+ <p> Some have quibbles with the quality of the visuals on this DVD, but every version has some problems, because the film this was made from was almost lost ... I'm jut happy to be able to see it in any form - it's a really important moment of ballet & ballet film history.4 ballets here, all very different, with different strengths.The Diamond Muncher  - an unusual "modern" fable with marvelous melodies, especially the pas de duex.  With Zizi JeanmaireCyranno - A lyric production that uses techniqes developed by the Archers, some slow-mo layering in the night time sequence... so very fitting to have Moira Shearer play Roxanne in this.  This one has really memororable visuals.24 hour mourning - Is a truly funny story of a gold-digger played with fantastic articulation and fun by gorgeous Cyd Charisse ... It is a selfish and playful role with really witty choreograpy - esp. in the duel sequence.  The almost di-rigeur ballet strip sequence for her.  But done with great humor and still G rated.Carmen - The most traditional of the bunch, this is just a really solid and interesting version of the ballet based on the opera... it stretches boundaries, because some of the flamenco is really hard to translate to ballet, but Zizi is the right woman for it.... and some of these sequences are almost NOT G... the pas de deux is about as suggestive as ballet has ever gotten.It's a tour de force for the Paris Ballet, and it is joy that it has not been lost entirely.  It is also a time capsule of a very specific time in choreography, and in the filming of ballet.  Not to be missed for balletomaines! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Historic Ballet </p>
+
+
+<h2> review.date </h2>
+  07-12-2007  
+<h2> review.text </h2>
+
+ <p> Best combination of fetching legs since Eleanor Powell danced alone. The Carmen sequence was enchanting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent.  Brilliant Carmen. </p>
+
+
+<h2> review.date </h2>
+  03-21-2013  
+<h2> review.text </h2>
+
+ <p> I wanted the movie because Cyd Charisse starred.  Didn't much like the movie, but the service was excellent and fast. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Black Tights </p>
+
+
+<h2> review.date </h2>
+  01-24-2014  
+<h2> review.text </h2>
+
+ <p> As some said, as a rabid lover of dance, this was my first pick to watch after signing up for Amazon Prime. First I had to delete then re-download the player to get a moving picture and sound--and that's something for a tech-challenged person. But then it went well. I totally agree with the comments about the poor picture and sound quality--really too bad. That being said, I adore dance and all of these particular dancers. Got to see more of Jeanmaire and Pettit and his choreography than I had ever seen before and thought they were fantastic. Overall, I think this is still a very good production of 4 diverse short ballets whose style in every way is representative of the 1960s era. From Chevalier's amiable presentation, to the coloration of the artwork of intros and credits, nothing avante garde or risqu&eacute; or overtly sensual--although all stories and emotions were thoroughly presented. If the print and sound was excellent, it would be outstanding. I will watch it again and again, until the film dries up and blows away. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Still Meets the Gold Standard </p>
+
+
+<h2> review.date </h2>
+  03-01-2009  
+<h2> review.text </h2>
+
+ <p> I read all the reviews about what a horrible transfer to dvd this movie was and I more than agree - infact I've got a couple of my own comments to make. Not only is the image fuzzy but there is something wrong with the actual motion picture aspect that the transfer completely messed up. The picture does not flow at the required pace to depict real motion. Its as if they removed every other frame from the original film causing the motion to constantly jump rather than flow as it should do. Now you can defend this all you want by saying it is the last existing copy of a nearly lost work of art. But to take something as graceful as ballet and have the motion completely screwed up is like the audio equivalent of having Jerry Lewis provide Elvis Presley's voice in Jailhouse Rock (Ok I admit that's a strange comparison). I bought the Reel Classic Film version and I know of two other distributers who released this film and I'm wondering if the other versions are just as motion deprived? I saw a VHS version once and don't recall it having any motion problems. I really think the dvd release does not just suffer from bad original material but instead from a low budgit release. Also, I question the identity of some of the people who sanction these flaws and wonder if they are some how involved with their production. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boy are you guys right about this one! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

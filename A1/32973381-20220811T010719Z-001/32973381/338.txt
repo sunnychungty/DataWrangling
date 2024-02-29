@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1592174523 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-08-2013  
+<h2> review.text </h2>
+
+ <p> I love this pattern book and can't wait to start sewing clothes from it.  I am really enjoying sewing doll clothes at this time in my life but I especially enjoyed this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sew Trendy Fashions and Accessories </p>
+
+
+<h2> review.date </h2>
+  12-12-2013  
+<h2> review.text </h2>
+
+ <p> I would highly recommend this book.  It has so many wonderful patterns. They are easy to use and can easily be altered to make your own creations.  The options are endless. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Definitely worth the money!! </p>
+
+
+<h2> review.date </h2>
+  03-24-2014  
+<h2> review.text </h2>
+
+ <p> I have made a few things from this book and so far I just love it.  Directions are great and the styles can be modified easily.  Would recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sew Trendy Fashions book </p>
+
+
+<h2> review.date </h2>
+  03-21-2014  
+<h2> review.text </h2>
+
+ <p> This was an excellent with easy to follow directions. The accsesories were practical.  I found this book helpful in designing new clothes for my granddaughters dolls. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sew Trendy Fashions & Accessories </p>
+
+
+<h2> review.date </h2>
+  03-24-2014  
+<h2> review.text </h2>
+
+ <p> This book met and exceeded my expectations. I love the patterns and the simplified way Chris Malone designed the patterns. Easy and cute are the designs and modern to fit with today's childrens' style. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Book </p>
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> This book had good instructions and patterns to follow,, I would recommend  this book to anyone who likes to sew for the 18 inch doll </p>
+
+
+<h2> review.summary </h2>
+
+ <p> sew trendy fashions for dolls </p>
+
+
+<h2> review.date </h2>
+  02-17-2014  
+<h2> review.text </h2>
+
+ <p> This is a must have for those who make doll clothes for your daughter or granddaughter's 18 inch dolls. Love the outfits and the accessories. Lots of time sewing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Trendy Fashions & Accessories </p>
+
+
+<h2> review.date </h2>
+  04-22-2013  
+<h2> review.text </h2>
+
+ <p> The directions are easy to follow.  Though I haven't used the book yet, I don't expect any problems.  It's a good buy for any doll clothes sewer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy patterns </p>
+
+
+<h2> review.date </h2>
+  05-02-2014  
+<h2> review.text </h2>
+
+ <p> I already own several doll pattern books, and this one is a fine addition to my collection.  It has a number of patterns that can easily be adapted to taste.  I especially love the traditional coat.  Once I make the first one, I am going to adapt the pattern to make a short jacket that will go perfectly with my doll's kilted skirt.  The accessories are really special  and add that finishing touch to the outfits.  The puppy pillow would also make a nice camping pillow or set upon.  The dog pattern looks like a fun project.  You will have fun with this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good range of clothing, and  really cute accessories </p>
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> Great ideas and directions to make and entire wardrobe for your 18 inch dolls.  I am glad I spent the money for this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this </p>
+
+
+<h2> review.date </h2>
+  03-16-2013  
+<h2> review.text </h2>
+
+ <p> Bought this jewel of a book because I fell in love with the grey coat on the front jacket.  I've already made skirts and blouses to fit a little girl's American Girl doll and am now cutting out the beautiful 18" doll-size coat.  It's a fine book with well-drawn full-size patterns that fit well.  Just use this book and your imagination for some lovely dolly clothes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great pattern and idea book ... </p>
+
+
+<h2> review.date </h2>
+  09-06-2013  
+<h2> review.text </h2>
+
+ <p> Complete, understandable patterns for 18&#34; dolls.  Highly recommend this book!  Great for beginners or experienced sewists like me.A must have! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sew Trendy Fashions </p>
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> As usual, Joan Hinds is a very good doll clothes designer.  She puts every thing in a very easily understood way.  I have several of her books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sew Trendy Fashions & Accessies </p>
+
+
+<h2> review.date </h2>
+  06-15-2013  
+<h2> review.text </h2>
+
+ <p> I love getting the book with pictures of items as well as clear instructions, along with the patterns. Far better than just a pattern. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better Than A Pattern. </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> This book has everything you need to make a doll wardrobe.  It includes a dress pattern, shirt, pants, sweatshirt, purse, booties, accessories, and even a stuffed dog to make.  The full size pattern templates are included in the book.  Of course instructions are included. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great versatility of patterns </p>
+
+
+<h2> review.date </h2>
+  08-30-2013  
+<h2> review.text </h2>
+
+ <p> These patterns only require fat quarters (only we sewers know what that means) - and the outfits are so adorable! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doll outfits </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> I was impressed with this book. It was exactly what I needed in order to sew some doll clothes for my two granddaughters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doll Patterns </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

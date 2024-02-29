@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1607051907 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-10-2012  
+<h2> review.text </h2>
+
+ <p> I love getting ideas on my kindle fire. I don't have to go to my quilting area, I can read my kindle upstairs while my husband is watching television.  Anyone show have this option </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a winner </p>
+
+
+<h2> review.date </h2>
+  05-18-2013  
+<h2> review.text </h2>
+
+ <p> More ideas for using the civil war repro stash.  Most of these patterns are great for any fabric group, it gets the creative juices rolling.  You will not be disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love It </p>
+
+
+<h2> review.date </h2>
+  07-22-2011  
+<h2> review.text </h2>
+
+ <p> Here's what this book has going for it:-- There are eleven beautiful quilts that can be made in a variety of different sizes.  At a time when most of us are happy to buy a book that has three or four quilts we'd happily put on our "to do" list, this one has eleven quilts I absolutely love and want to make.-- Even though the book is titled "Fat Quarter Winners" and the yardage requirements are given as fat quarters, the cutting instructions have been written to make them perfect for fat quarters, fat eighths and scraps from your stash.  But if you do buy and use fat quarters, the fabric use is efficient and barring any huge mistakes by the "operator", you won't run short.-- The quilts in the book can be made using any style of fabric from traditional to modern, funky to retro.  Monique's sample quilts provide plenty of ideas on the versatility of "scrap quilts" by including monochromatic two-color quilts, three-color quilts, and multi-color palettes where the only thing to consider is "lighter" and "darker".  These quilts will work for fat quarter bundles of individual collections, as well as with hand-chosen collections of fat quarters or scraps.-- The piecing methods are tried-and-true, having been developed by Monique while teaching classes at a quilt shop.  That experience shows.  Right now, everybody and her sister is getting into the quilt business writing patterns and books.  Very few of them have any experience of actually teaching a class or writing a pattern.While the process isn't exactly rocket science, technical writing isn't easy and teaching quilt classes is one of the best ways to learn what works and what doesn't.  Monique's methods work, and they work for everyone at any skill level.-- Monique's method for making flying geese and square-in-a-square units are widely considered by many quilters to be the very best method EVER.  While the Fit to be Geese method does require the purchase of a ruler, it will surely wind up being the best money any quilter has ever spent.  Fast, easy and foolproof - the geese are perfect.  P.E.R.F.E.C.T.  And that is not an exaggeration.  Using Monique's methods, the quilts in this book ARE easy and instantly gratifying.  What can be more gratifying than something that looks more complicated than it actually is?Here's what this book doesn't have going for it:-- Only eleven quilts?  The book is too short!  What am I going to do when I finish making all the quilts in this book?  (Five down, six to go.)Do I think this book is a worth owning?  Absolutely! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of my favorite quilt books EVER! </p>
+
+
+<h2> review.date </h2>
+  01-07-2014  
+<h2> review.text </h2>
+
+ <p> With just looking thru it, It has a lot of quilts that make me want to quit my job, come home and just sew! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fat Qtr Quilts </p>
+
+
+<h2> review.date </h2>
+  03-30-2013  
+<h2> review.text </h2>
+
+ <p> This is a really fun and intersting bookmfor anyone who quilts. Lots of great patterns and really easy. Anyone who quilts should get this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Greatness </p>
+
+
+<h2> review.date </h2>
+  08-23-2011  
+<h2> review.text </h2>
+
+ <p> I was disappointed in this book.  For one thing, almost all the quilts pictured are in similar dark color schemes.  And worse, they all have way too many small triangles for me!  Also the book isn't very long,only 46 pages. There are one or two quilts that appeal to me, which I may make one day. If you like triangles in dark reds and browns, you'll like this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too many tiny triangles! </p>
+
+
+<h2> review.date </h2>
+  11-15-2013  
+<h2> review.text </h2>
+
+ <p> Monique Dillard writes excellent instructions. They are complete down to pressing directions, without reading like an encyclopaedia. She makes all her own demo quilts and it shows because she has made all the usual errors in piecing and warns against them in her instructions. I like that.There are eleven quilt projects in this book, instructions and fabric requirements are given for the smallest size and each pattern has the information needed to make other, larger sizes. Patterns range from fairly complex to very simple, most of them look a lot more difficult than they are.The book begins with general instructions for the half-square triangles, flying geese and square-in-a-square units used in the blocks, using both traditional methods and the rulers Ms Dillard sells. I particularly like that she doesn't assume that you are able to churn out every unit a model of perfection. Her cutting instructions are sized so that you can trim to perfection, no 7/8" cuts.Beginning quilters should probably read "How to finish your quilt" which is at the end of the book and contains quiltmaking basics before starting a project.Ms Dillard likes fat quarters and includes cutting directions for most effective, least wasteful use. Her diagrams are clear and well thought out.Overall this book is a good buy and would be a valuable resource for both the beginning quilter who wants to grow in her skills and the more experienced who are pattern-holics. Many of these would be nice guy quilts in the right fabric. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Monique Dillard writes excellent instructions & great patterns </p>
+
+
+<h2> review.date </h2>
+  07-21-2011  
+<h2> review.text </h2>
+
+ <p> I couldn't wait to get this latest book by Monique Dillard of Open Gate Quilts. Monique is well-known for her pattern instructions - she writes like a technical writer - very accurate, step-by-understandable-step, and great illustrations. I love her patterns, and I love her books! She did not disappoint with this latest title.Monique makes the most of every fat quarter, and I appreciate the fact that there is so little waste from the FQs.I've seen a few of the samples from this book at my local quilt shop, and they are all beautiful. Monique is a talented designer, and I'm looking forward to making many of these quilts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fat Quarter Winners is a winner! </p>
+
+
+<h2> review.date </h2>
+  07-05-2011  
+<h2> review.text </h2>
+
+ <p> I was excited to get this, since I love to make the best possible use of my fabric with minimal waste. So-called "fat quarter friendly" books that only use half of each FQ drive me nuts. What do I do with the remainders??? So this was very promising!Unfortunately all the quilts look very much alike and all have lots of little fiddly pieces. Have you ever pieced half-square triangles from triangles?? EEK.If you love intricate piecing and dislike quick-piecing methods, this is the book for you. If you like instant gratification and tricks to make piecing easier, buy another book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Too Many Little Pieces; Patterns Are All Very Similar </p>
+
+
+<h2> review.date </h2>
+  10-30-2013  
+<h2> review.text </h2>
+
+ <p> What can I say the the cover doesn't say except that I can't wait to try all of these patterns! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Eye candy for the quilters soul... </p>
+
+
+<h2> review.date </h2>
+  07-21-2011  
+<h2> review.text </h2>
+
+ <p> Fat Quarter Winners is an excellent addition to any quilter's library.  Monique's patterns are terrific, and her instructions are clear and easy to follow.  Her construction methods and techniques make it fun to create these beautiful designs.  I've seen several quilts sewn from the patterns in this book, and they were all amazing.  Monique also has a line of specialty quilting rulers that make it even easier to construct her designs.  A must-have resource; this book is especially useful for using your stash to make scrappy quilts! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fat Quarter Winners </p>
+
+
+<h2> review.date </h2>
+  07-26-2011  
+<h2> review.text </h2>
+
+ <p> All general instruction in the book is very informative and easy to follow.  The instructions are well illustrated.  In order, to get best usages of  the FQ a cutting diagram is provide for the quilter.  All piecing techniques are fast and easy to follow while helping the quilter to make accurate size blocks.  A very cool part of the book is the chart at the end of each pattern that gives you fabric and block requirements for at least three sizes of the quilt.  All the quilts are based on card games with traditional blocks set in different ways with very interesting color combinations.  This book is a must for any quilt library, and would be great for beginner quilters because of the great instructions!I have picked out at least two quilts I would like to make. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fat Quarter Winners </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

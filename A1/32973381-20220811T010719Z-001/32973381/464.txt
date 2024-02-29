@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00CGPLPQA <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-29-2013  
+<h2> review.text </h2>
+
+ <p> We've been going to the Caribbean since our college days - never get tired of it!  This book has some new twists and ideas for even the season traveler.  Very good descriptions and novel approach.  Good guide for starting your plans for that next Caribbean vacation! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> There are few places more romantic than the Caribbean! </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> We are actually going to the Caribbean for our honeymoon and was very excited to see this book. I enjoyed this book from cover to cover and especially enjoyed the info on Anguilla. Can't wait. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Will be heading there </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> The friendly, casual tone of the book makes it seem like a dear friend is telling you all about the best places to go for a romantic Caribbean vacay. I've only been there once, so this resource will be great in planning my next trip! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Like a Best Friend Telling You the Best Places to Visit </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> The author is a self-described "specialist in romantic travel" who has been visiting the Caribbean for over twenty years.  The recommendations in this book are based on that experience.  Typically, there's a brief general description of a location, a photo, and a hotel recommendation.  This is a short, introductory book that may be useful for stimulating some interesting vacation possibilities. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Introductory Guide </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> Boy it has been too long since I got away with my wife of 30+ years.  I love the Caribbean and this book comes at a perfect time.  The Romance Lady did a great job of describing some incredible Caribbean islands that I will surely look into!  I also loved the graphics. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Romantic Getaways...I Need One </p>
+
+
+<h2> review.date </h2>
+  04-25-2013  
+<h2> review.text </h2>
+
+ <p> A lot of information for planning a trip to this spot.  I don't travel much but this ebook made me want to take a trip at once. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great idea of the Caribbean </p>
+
+
+<h2> review.date </h2>
+  04-25-2013  
+<h2> review.text </h2>
+
+ <p> If you are considering a romantic destination in the Caribbean then you need to read this book.There are many Islands discussed in this book and I am sure you can find your own favorite.Donna Beasley also supplies links to more information.A great guide to have before you plan your trip. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Romantic Getaway Tips! </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> My wife and I have spent a lot of time in the caribbean. I can tell you that it is the best way to enjoy a vacation. We spent our 45th wedding anniversary in the caribbean. The locations in this book are some of the best because we have been to most of them. If you are considering a romantic destination in the caribbean then you need to read this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Best Romantic Destinations in the Caribbean </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> I have made many trips to the Caribbean, and the info in this book will only add to my enjoyment.If you've been to the Caribbean, or just going, this is a book worth getting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love the Caribbean, and this will add to it </p>
+
+
+<h2> review.date </h2>
+  04-23-2013  
+<h2> review.text </h2>
+
+ <p> What could be better than getting advice about romantic getaways than from The Romance Lady. I like everything about this book -- I was hooked by the cover. This is a well-organized book for those looking to get away from it all. The Romance Lady does not just give you places to go but reasons to go there. She also supplies links to more information should you want to do a little of your own digging.If you are heading for the Caribbean, get this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What Could Be Better? - Romantic Getaways Recommended by The Romance Lady </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> If you are looking for a place in the Caribbean to put some spark back in your relationship then grab this book.  There are many Islands discussed I'm sure you'll find one you love the sound of. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Romantic get aways </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> Want to find a perfect romantic getaway place? Want to find out from someonewho's in the know? Then you need to pick up this book like I did. Donna hasbeen traveling to the Caribbean for two decades and she's known as The Romance Lady.The twelve destinations highlighted in this guide were chosen with couples in mind.I don't know about you but couples only accomodations sounds heavenly, don't get me wrong.I love children but there are times when you want to be able to focus on just the two of you.Plan your next trip or your first trip together and make it unforgettable with help from the Romance Lady. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Start Planning Your Next Trip </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> If you're like me, married for a while and creatively thinking of things to do, or places to go to spice it up. Then this book comes as a welcomed surprise. It exposed me to a myriad of options and places to go via the Caribbean Islands. I could actually imagine being on one of the secluded sandy beaches, slipping pina coladas and listening to the peaceful waves lap against the shore.It's a great book to get those dusty ideas off of Hawaii and on to something fresh.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Taking the "where too?" out of the 2nd honeymoon equation </p>
+
+
+<h2> review.date </h2>
+  04-23-2013  
+<h2> review.text </h2>
+
+ <p> I really enjoyed reading about all the great carribean getaways.  The guide was well put together and there were lots of recommendations to help you plan your trip.  A Handy guide to have before you plan your next trip. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Makes you want to get away! </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> The Best Romantic Destinations in the Caribbean by Donna Beasly is a nice description of locations throughout the Caribbean. Makes me want to go today. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Best Romantic Destinations in the Caribbean </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> This book will probably have me day dreaming all day about all these new places onmy destination list.Just love the descriptions and how can you go wrong in the Caribbean?I especially liked that one of the resorts actually practices Feng Shui so theirguests can get balanced while there. Works for me!Can't wait to book my next trip. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I LOVE this book! I felt like I was there because of the in depth descriptions. </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> The author been traveling to the Caribbean for over two decades and writing about romantic travel for the past 5 years as online publisher of both Romance Travel Magazine and Romance in Georgia.com. Therefore she really knows what she is writing about. Highly recommended read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Highly recommended read. </p>
+
+
+<h2> review.date </h2>
+  04-25-2013  
+<h2> review.text </h2>
+
+ <p> Written by a romantic holiday expert, this book presents information about several islands in a concise format. f you are going to the Caribbean, this book will give you some great information about what you will find in the different locations. Sometimes a large book has too much information to wade through and you don't have time to find what you really need to enjoy yourself. That is where a shorter ebook like this can really help. If you are planning a romantic holiday in the Caribbean this ebook will help you choose what to look for and which places to look into. Happy holidays! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Miniature Guidebook with Great Ideas </p>
+
+
+<h2> review.date </h2>
+  04-25-2013  
+<h2> review.text </h2>
+
+ <p> I am planning my next vacation and considering the Caribbean.  I was in Jamaica last year.  Had a great time, but I'd like to try something different.  This book has some beautiful listings that will make any of my top 3 choices all great.  I am ready to go now whether my bags are packed or not. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Top notch locations </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> If you are in the market for a romantic get-away Donna writes about some spectacular places to visit and enjoy.I enjoyed reading about the different activities in each location.Thanks for the great information. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Start Packing </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

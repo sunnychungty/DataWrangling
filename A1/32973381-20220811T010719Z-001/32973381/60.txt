@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B002VWJY7U <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-16-2011  
+<h2> review.text </h2>
+
+ <p> Basically these are like that crappy car with the killer speakers.  Can't complain at all about the sound for the money.  Sound great without an amp. However, may not keep them because the band presses down in the center of my head no matter what I do.  The construction seems about the same as $12 headphones, they just put good drivers in them.  If they fit you and last you'll be happy... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Incredible sound for $, horrible fit, cheap construction </p>
+
+
+<h2> review.date </h2>
+  11-26-2012  
+<h2> review.text </h2>
+
+ <p> I bought them for my brother, and as far as I know he still has them and likes them. Kicker is a well known brand but I would not buy a pair of these for myself, they are too big for me. I prefer earbuds. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I did not buy these for myself... </p>
+
+
+<h2> review.date </h2>
+  05-04-2012  
+<h2> review.text </h2>
+
+ <p> These headphones work great and have good quality sound for the price. They have solid bass, without overpowering any other frequencies. The mids are forward, but just slightly, while the treble falls off a bit. These definitely aren't the most detailed, but that will probably won't be a problem for most people.The build is entirely plastic, which looks rather cheap, but when holding them i can tell that they are very durable. I have had these for around 4 months and have never had any fears of them breaking.These isolate well, meaning they block a lot of outside noise when you are wearing them. They are also good at preventing sound leakage so other around you will not hear the music.The biggest problem in my opinion is that the headband on these is not very comfortable. The small bumps of padding focus the pressure on your head and after about 30 minutes it starts to hurt sometimes.Overall these are quite good in their price range. I would also recommend checking out theMonoprice Premium Hi-Fi DJ Style Over-the-Ear Pro Headphonewhich are the same headphone, but without the Kicker branding </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sound and durable build </p>
+
+
+<h2> review.date </h2>
+  07-19-2012  
+<h2> review.text </h2>
+
+ <p> i'm not a kicker fan at all but i needed headphones that were affordable..decided to go with these and they surprised me.Kicker car products are overrated and over priced but not their headphones.these can fold up when finished, they can be used for the studio and to DJ at parties..the highs are incredible, the mids are pretty ok and the lows sound really good !! i'm feeling these headphones!! cant go wrong but kicker products are still overrated.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BETTER THAN DRE BEATS !!! </p>
+
+
+<h2> review.date </h2>
+  12-09-2011  
+<h2> review.text </h2>
+
+ <p> I really like these they fit nice, sound clear, removable cord (just in case it gets pulled on something it will just come unplugged rather than damage cord. Two cord sizes which I find great. Bass is deep and nice but just a little too soft for my likings. I wish it had bass control then it would be a 5+ star item. Bass is there just not all there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Clear,Removable cords,Could use more bass </p>
+
+
+<h2> review.date </h2>
+  03-02-2010  
+<h2> review.text </h2>
+
+ <p> I have several Kicker products from car audio to the IK500 Ipod speaker. So it was an easy choice when I was in the market for a over the ear headphone.Sound is clear and produces sound exactly how is should sound. Crisp highs, even mid range and stellar bass. The bass is not muddy but clear and precise.Comfort is spectacular, tight fitting without being uncomfortable at all.Overall I would recommend these to anyone in the market for a over the ear headphone. After several hours of listening they just keep getting better and better! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Winner from KICKER </p>
+
+
+<h2> review.date </h2>
+  10-14-2011  
+<h2> review.text </h2>
+
+ <p> Well, what I heard from a Kicker employee is that Kicker reverse engineered some "awesome" Sennheiser headphones to come up with these duds. I was not impressed at all.  The headphones sound like you're listening to music through a wall. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kicker should've reverse engineered some other headphones. </p>
+
+
+<h2> review.date </h2>
+  04-03-2012  
+<h2> review.text </h2>
+
+ <p> ... assuming that you don't buy these rebranded cans at about twice the price as the exact same units directly from Monoprice. The sound is great, but there is zero reason to buy the Kicker branded version when you can buy the same exact unit for much chaper. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great headphones for the price </p>
+
+
+<h2> review.date </h2>
+  04-18-2012  
+<h2> review.text </h2>
+
+ <p> I had bought these headphones a little over a year ago and when I had first bought them, I felt like I was taking a risk in purchasing them, but boy was I satisfied! These headphones went through sun and storm with me, sand and snow, and indescribable stress, yet up until this day, not a scratch on them. They felt a little tight at first, but after about a day of use, one gets used to it, and actually feels a little hollow without it. The sound quality is stellar-- the ear-cuffs don't cancel out all sound, unfortunately, but when music is played, you won't notice anything. The bass is rich,loud, and clear, too--I fell in love with Dubstep because of these headphones. Every sound is as clear as a bell. :) The only problems I'd had was a personal one--I've always had trouble with my headphones losing sound in one ear because of twists and turns on the chords, and while I DID experience this with the headphones, as soon as a new cord was plugged in (easy, cheap Male-to-Male cords, like one you'd find in a car or on your computer), it was back to it's amazing and normal self.TL;DR, if you enjoy quality, buy these headphones;they may look cheap, but they're durable, carry wonderful sound quality, and are one hell of a bargain for this price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These headphones are pretty damn amazing </p>
+
+
+<h2> review.date </h2>
+  05-04-2011  
+<h2> review.text </h2>
+
+ <p> Although Kicker is a well-known brand in car audio field, their reputation in headphone industry is still an unknown factor. After having had chance to try this Kicker 09HP541, i think that they could possibly replace Sony as the best bass booster headphone brand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good price/performance headphone - great bass </p>
+
+
+<h2> review.date </h2>
+  06-04-2012  
+<h2> review.text </h2>
+
+ <p> Have a really good sound. Perfect bass. The headphone have extremely strong materials. The unique cons is that isnt much comfortable on the top of the head. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome sound </p>
+
+
+<h2> review.date </h2>
+  11-25-2012  
+<h2> review.text </h2>
+
+ <p> THESE ARE good headphones, the plastic is thick almost like abs plastic anyway it shouldnt break unless you are abuseing them, the ear pads are soft and comfy and fit just about completely around the ear. sound is good and the bass is great they can go down to 40 hz with no distortion i know cause i checked them, if your thinking of buy bass headphones get these and especially if you want skullcrushers then just buy these cause they are alot better i know cause i have both and the bass on the kickers is a lot better and they dont have that annoying bass amp box on the cord and also amazon has it on sale right now for $50, now that is a good deal, you will be comeing out ahead at that price </p>
+
+
+<h2> review.summary </h2>
+
+ <p> KICKER HEADPHONES REVIEW </p>
+
+
+<h2> review.date </h2>
+  12-07-2011  
+<h2> review.text </h2>
+
+ <p> These are OK I gave them 2 stars because there were so many misleading reviews that caused me to buy them thinking they were better than they are. They wrap the music all up and spit it out in a musical fashion, but comparing them to real headphones (Sennheiser) like other reviews do is misleading, THEY DO NOT COMPARE don't buy them if that's what your thinking. you will get $50 headphones no more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't be fooled by the reviews </p>
+
+
+<h2> review.date </h2>
+  07-13-2011  
+<h2> review.text </h2>
+
+ <p> Just got these on Monday, and I'm blown away.  I'm listening to them powered only off an Ipod Touch 1G, and the sound quality is unbelievable.  I haven't used over the ear headphones in over 10 years; just like the old Sony Walkman headphones, then started using earbuds, and got a really good pair of Philips 15mm virtual surround earbuds at Walmart a few years back that I lost an eartip to that couldn't be replaced, so I recently replaced those with some Philips SHE6000's that are the closest to them I could find under $50, and they work well, but I have slight hearing loss from concerts, clubs, and raves, and wanted some more bass...so I invested in these.  Amazon's price compared to in-store prices is flabergasting to begin with, but the quality of the highs and lows and even the bass has blown my mind.  Its almost like being in my own personal club.  My only disappointment with these is that I planned on wearing them around to the mall and park and whatnot, but the size of them is ridiculous lol.  For listening to music at home however, or maybe even watching movies while my wife and daughter are sleeping (which isn't too hard since it comes with a short personal cord and a heavier duty 12 foot cord,) these are better than my home entertainment system.  I can definitely see these being DJ quality though...when I've got the volume up (even without an amplifier,) even half way on my Ipod Touch, I can't hear my wife or daughter when they are a foot away from me.  My wife got angry at me yesterday morning when I was listening to them, and my phone alarm went off on my side of the bed, and my alarm is pretty loud and annoying to begin with, but I didn't hear them at all until my wife got my attention with her elbow! =p  As for sound quality; I can't believe how much I've been missing in my music with my earbuds, these headphones are just crazy.  And I've read reviews that these are better than equivalent $200-$300 headphones; I can't imagine if I were to add the Fii0 E5 amplifier that a lot of others recommend for these; although since the amp is just $22, and the DOC adapter is just $15 on Amazon, I may give it a shot.  I could clip it right next to my Ipod on my belt, and its barely half the size of an Ipod Touch or an Iphone, so I don't think it would bother me enough to offset the improvement in sound quality.  If I do get the amp, I'll update this review to let you know the improvement and value versus just the phones.  One more thing after this huge review; these headphones 50mm drivers compared to the 13.5mm drivers of my Philips SHE6000's seem to use about the same power off my Ipod Touch...so as my review title says...AMAZING!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing!!! </p>
+
+
+<h2> review.date </h2>
+  04-08-2011  
+<h2> review.text </h2>
+
+ <p> This is the first set of Kicker Headphones I have owned and I dont know what I was waiting for.I would put these up against bose any day of the week. The bass responce is very tight. These should be classified as studio headphones because that is what they sound like. I have run kicker amps and speakers for years and always trusted the name. You will not be dissappointed with these headphones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic Headphones for the price </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

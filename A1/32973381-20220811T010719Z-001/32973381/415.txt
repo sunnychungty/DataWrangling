@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B005XR2H92 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-16-2014  
+<h2> review.text </h2>
+
+ <p> This book was funny and relatable. It is a fast read that gives you a more intimate view of Mindy Kaling as a person. As it turns out, I love her way more after reading this. Wonderful! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> funny </p>
+
+
+<h2> review.date </h2>
+  03-13-2014  
+<h2> review.text </h2>
+
+ <p> Overall, I feel that reading this book wasn't that good a use of my time.I do love Mindy Kaling and I think she's super funny. I get her humor. But the book wasn't that funny where I felt entertained and relaxed, which is what I was hoping for.  Instead, I just felt like I finished reading it out of obligation since I had spent the money to buy it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet pictures and some funny parts but that's about it. </p>
+
+
+<h2> review.date </h2>
+  02-05-2014  
+<h2> review.text </h2>
+
+ <p> This book is fast, funny, witty and hilariously real. I couldn't put it down and when it was over I simply had to go back and read everything over again and then reread all of everything to my sister and then my mother and then many other assorted relatives and co-workers and friends. However, I have to suggest buying the e-book version over the paperback seeing as the digital has many wonderful audio clips and extra pictures.Read this book once and you'll find yourself going over it again and again throughout the day laughing out loud crying, "That's so true!" And now like some crazy obsessed fan I will probably end up buying the paperback too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVE IT! </p>
+
+
+<h2> review.date </h2>
+  06-02-2014  
+<h2> review.text </h2>
+
+ <p> you have to like her to find her funny.  I, personally, think she is hilarious! then again, she writes the way i think so that's probably why its so fantastic for me to read </p>
+
+
+<h2> review.summary </h2>
+
+ <p> hysterical </p>
+
+
+<h2> review.date </h2>
+  07-11-2014  
+<h2> review.text </h2>
+
+ <p> Delightful! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  05-05-2014  
+<h2> review.text </h2>
+
+ <p> I was quite a funny and entertaining read. I wouldn't say it was totally mind blasting and the kind of book you remember forever, but it was cool enough. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quite funny and entertaining </p>
+
+
+<h2> review.date </h2>
+  05-21-2014  
+<h2> review.text </h2>
+
+ <p> If you are a fan of The Mindy Project, then you will not be disappointed in this book.  In fact, it would actually enhance your enjoyment of her show as so much of her anecdotes in this book have been fleshed out or referenced in &#34;The Mindy Project&#34;.This is her story with some great side-steps along the way offering lots of humor.  Honestly, she will probably be given an honorary Pulitzer in an honorary category sometime in the retrospective future.The enhance edition includes audio files that offer additional commentary on what you are reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> That's So Mindy (she would hate this review title) </p>
+
+
+<h2> review.date </h2>
+  01-20-2014  
+<h2> review.text </h2>
+
+ <p> I love Mindy Kahling. I knew her from the office and more recently The Mindy Project. Before reading her book I never even knew she was a writer/director for the office (spoiler alert?). I love and respect her so much more now. She is funny and relatable and you just want to be friends with her. The book is a great, funny read. I would recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved the book- Quick Read </p>
+
+
+<h2> review.date </h2>
+  04-05-2014  
+<h2> review.text </h2>
+
+ <p> Mindy Kaling is hilarious, and her memoir is, too. This is an incredibly fast read that will leave your sides aching from laughter, and maybe with some blush to your cheeks because you realize you're cracking up in public. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hilarious! </p>
+
+
+<h2> review.date </h2>
+  06-27-2014  
+<h2> review.text </h2>
+
+ <p> I admit that I didn't like &#34;The Mindy Project&#34; at first, but her support cast drew me into the series. Once I started watching on a regular basis, I came to really like Mindy's sense of humor. I liked this book. It's a great summer beach read. Mindy is the girlfriend who drives you crazy, but who you love to tease just to see her reaction. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mindy is an acquired taste </p>
+
+
+<h2> review.date </h2>
+  04-19-2014  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this!  This is different from what I usually read (sci fi, fantasy,horror) I think I will look for more books like this one in the future! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Chatty! </p>
+
+
+<h2> review.date </h2>
+  07-10-2014  
+<h2> review.text </h2>
+
+ <p> Disappointed.  Yes, there were parts that had me laughing out loud and I love Mindy Kaling....her show &#34;The Mindy Project&#34; is one of my favorites, but there were way too many parts that just weren't funny at all.  I felt like she was just rambling on and on and trying to fill space with random events from her life that maybe she found funny, but I think you had to be there....or something. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointed </p>
+
+
+<h2> review.date </h2>
+  03-08-2013  
+<h2> review.text </h2>
+
+ <p> Her stories are interesting, but it's non chronological and a bit choppy. I was hoping for her to be more funnier. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just average </p>
+
+
+<h2> review.date </h2>
+  04-03-2014  
+<h2> review.text </h2>
+
+ <p> I would read volumes if available just for the sheer fun of it. Her voice is smart, funny, original. Her interview on the Charlie Rose show revealed more dimensions of her personality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> it's true, after reading this I do want Mindy Kaling for my best friend </p>
+
+
+<h2> review.date </h2>
+  10-23-2012  
+<h2> review.text </h2>
+
+ <p> I loved Mindy's book,  It gave a great perspective of trying to live in this time period as a young minority woman.  Bought this book after seeing her on the Mindy Project.  Relate to her on so many levels. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funny and modern </p>
+
+
+<h2> review.date </h2>
+  05-02-2014  
+<h2> review.text </h2>
+
+ <p> And I mean her real voice which is included in this ebook version but also her writer's voice which is so fresh and funny and so Mindy. Just charming and witty and warm and fun. If you love her on her show, you'll love this too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love love love her voice! </p>
+
+
+<h2> review.date </h2>
+  03-17-2012  
+<h2> review.text </h2>
+
+ <p> Loved it! Everything I expected, she's a great writer!!! It was very cool how she incorporated pictures thru out all her life and the sound bites. The office is my favorite show and it was an extra for me too hear about it from one of the writers /actress perspective. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Mindy is hilarious!!! </p>
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> Can I just say while I was reading this book I would read out passages to my friends, roommates or basically anyone around because I couldn't keep the laughs to myself. Mindy made me feel like we have been friends for ever and was just having a conversation with me.She is hysterical and the book is a light, extremely funny, and a lovable story about a pretty cool human. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I Love Mindy More Than Ever </p>
+
+
+<h2> review.date </h2>
+  05-26-2014  
+<h2> review.text </h2>
+
+ <p> The perfect travel companion. Mindy has the ability to paint a picture perfectly and have you weak in the knees with laughter. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOL with every page turn! </p>
+
+
+<h2> review.date </h2>
+  05-21-2014  
+<h2> review.text </h2>
+
+ <p> I really liked this book. Light reading. Great for just before bed. Very funny childhood memories and reflections of her time while as a writer on The Office. Also, The Mindy Project is awesome. Watch it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> funny </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

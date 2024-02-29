@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B002C4JUUI <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-02-2013  
+<h2> review.text </h2>
+
+ <p> This shows is an education for all the family. It will give parking tickets to people who do not park right. We will continue to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> I love all the seasons of Parking Wars. One of my favorite reallity shows. Especially the Boot Team episodes of Garfield. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Parking Wars season 5 </p>
+
+
+<h2> review.date </h2>
+  09-15-2013  
+<h2> review.text </h2>
+
+ <p> Honestly I was wanting to watch something that was not very taxing and this show fits the bill - cars get ticketed, towed or booted and people act like fools.  Worked for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK to watch when bored </p>
+
+
+<h2> review.date </h2>
+  02-18-2014  
+<h2> review.text </h2>
+
+ <p> Its a wonder there are not a lot of physical confrontations on this show. I would not want the job of ticketing or booting. A great show to watch </p>
+
+
+<h2> review.summary </h2>
+
+ <p> parking wars </p>
+
+
+<h2> review.date </h2>
+  06-13-2013  
+<h2> review.text </h2>
+
+ <p> I like all the episodes.  I might not have the patience to watch this series if I were giving it my full attention.  Yet with intermittent or half attention, this is very nice.The real-life characters are inspiring.  Whether they had any training in customer service is somehow never mentioned.  But holy smokes they are good.  Their skills are subtle.  I think you have to watch several episodes to appreciate this.  Because it's not anything in particular that they say.  It's their general demeanor, probably revealing their beliefs.Also, I like the people that got the tickets or the boot.  I like those that take things in stride and the ones that get super angry.  That surprised me, that I would like the angry ones.  I like the way they speak up for themselves even if the parking enforcers don't have any authority.One thing I learned: people from Philadelphia more fiercely argue over tickets than those from any other city.  After all the episodes, I will be circumspect, declining arguments, if I go to Philadelphia. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very easy to watch while also doing other things </p>
+
+
+<h2> review.date </h2>
+  05-25-2013  
+<h2> review.text </h2>
+
+ <p> I Live on Cape Cod & this show cracks me up ! & almost makes me wish I lived in am area that had the type of venue's where Parking was Am ajenda ....(almost,&#128556;)...... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Parking Wars...... </p>
+
+
+<h2> review.date </h2>
+  06-06-2013  
+<h2> review.text </h2>
+
+ <p> I love this show. It's fun to watch how people who know that they are wrong get all upset over a parking ticket.  When I have had a tough and tiring day at work, I watch this show and besides the fun, learn a few things about parking, no matter where you live in this great country. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Show </p>
+
+
+<h2> review.date </h2>
+  06-12-2012  
+<h2> review.text </h2>
+
+ <p> I asked a Philly native his two cents on the show and he said the following:  I have seen it, and I think it accurately portrays the frustrations that Philadelphians feel toward the Parking Authority. Of course those frustrations are seen from the vantage point of the Parking Authority employees, who are portrayed sympathetically, and I think the point of the show is to make the viewers' sympathy for the employees overshadow any critique of the Parking Authority. I remember trying to contest a parking ticket, and it was so difficult to get any response via phone--and it's so time-consuming to contest a ticket in person--that I ended up paying it. The inefficiencies and unresponsiveness of the system don't get acknowledged on the show, which helps to position the drivers as lunatics. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> two cents from a Philly Native </p>
+
+
+<h2> review.date </h2>
+  02-26-2013  
+<h2> review.text </h2>
+
+ <p> Episodes are funny and are realistic with real people doing a job that most people would not want to do themselves </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great episodes </p>
+
+
+<h2> review.date </h2>
+  07-29-2013  
+<h2> review.text </h2>
+
+ <p> I'd like to see more episodes from PA instead of the Detriot area.  I like the characters more and they seem more colorful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Less Detroit, More PA! </p>
+
+
+<h2> review.date </h2>
+  02-28-2013  
+<h2> review.text </h2>
+
+ <p> Parking Wars is such a guilty treat! The show takes you to the streets of major metropolitan cities. The meter readers have a tough job as they encounter some pretty irate folks on the street. Each meter reader has their own unique personality & method for dealing with the public. Such a fun indulgence to watch! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun to watch </p>
+
+
+<h2> review.date </h2>
+  07-11-2013  
+<h2> review.text </h2>
+
+ <p> My Husband I and enjoy watching the law being served, it is a great program and we appreciate the parking folks a lot.  Keep up the good work!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great TV Series </p>
+
+
+<h2> review.date </h2>
+  01-21-2010  
+<h2> review.text </h2>
+
+ <p> For starters, I LOVE this show- the show is not the problem here. Its the discs. I bought not 1, but 2 sets of season 2. The first came and all the discs skipped! You could only watch 1 or 2 eps per disc and then the disc would start skipping and you couldn't watch the remaining eps. This was all 4 discs! So amazon kindly and promptly (overnight) sent me a replacement season 2 - same thing but worse. 2 discs skipped and the other 2 would not even play. Maybe its this batch, I don't know. But don't waste your time or money. I'm really disappointed as this is one of my favorite shows! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> STAY AWAY FROM THIS SET! </p>
+
+
+<h2> review.date </h2>
+  05-14-2013  
+<h2> review.text </h2>
+
+ <p> Amazon, could you hurry up and please add Season 6 to the Prime listing?! This is one of my favorite reality shows mainly because it's partially filmed out of Detroit, MI. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of my favorites! </p>
+
+
+<h2> review.date </h2>
+  06-21-2013  
+<h2> review.text </h2>
+
+ <p> Had never seen the program. Now that I have it makes me glad I am not a parking enforced. Think they earn their pay and will thank them when I see them. Program played smoothly on my kindle fire. Sound was also good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> night player </p>
+
+
+<h2> review.date </h2>
+  06-10-2013  
+<h2> review.text </h2>
+
+ <p> I love parking wars for one reason. Watching people act absolutely ridiculous when they are clearly in the wrong. I always feel so sorry for the people just doing their job.. People do not like getting caught! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The War is On. </p>
+
+
+<h2> review.date </h2>
+  10-07-2013  
+<h2> review.text </h2>
+
+ <p> I have a new respect for Parking Enforcement. Don't get me wrong, some of them live to write tickets and are jerks...but I learned a lot about parking rules that I don't remember being in the DMV Manuel. Interesting show! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not all city workers are jerks! </p>
+
+
+<h2> review.date </h2>
+  06-18-2013  
+<h2> review.text </h2>
+
+ <p> First of all, I'm glad I don't live in Philadelphia and looking for a parking place.  This show is very interesting and shows just how moronic people can be. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Parking wars </p>
+
+
+<h2> review.date </h2>
+  10-19-2013  
+<h2> review.text </h2>
+
+ <p> I LOVE this show!  It is a hilarious look at the people who just can't figure out why they shouldn't park their cars in front of fire hydrants, bus stops and more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ignorance on the East coast </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

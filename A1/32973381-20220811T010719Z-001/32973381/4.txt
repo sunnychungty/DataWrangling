@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000094AE4 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-24-2011  
+<h2> review.text </h2>
+
+ <p> I had bought this to upgrade my Cisco ASA 5505 to run the lastest software... From reading all the reviews it seems that I had finally found a cheap alternative to buying "Cisco" RAM. The issue that I have with the RAM is after I installed it (It installed just fine) is the ASA boots up fine but when I reboot it, it wont come back up. I need to pull the power for about 30 seconds and then plug it back in then it comes up just fine with no issues. I am able to work around this issue as it's not used for anything other than studying for a certification with a command "clear configuration all" and that takes it back new. If you run an ASA and this is in a production environment, spend the extra money and get the Cisco stuff...I would like to make clear though that this is common on the ASA's and the RAM works as stated and if its the right type of memory that you need then dont hesitate to buy this but would avoid it only if you are going to put it in an ASA. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works but not exactly as I was expecting </p>
+
+
+<h2> review.date </h2>
+  05-23-2013  
+<h2> review.text </h2>
+
+ <p> Crucial have a well earned reputation, a lifetime warrantee, and prices that are reasonable. There is good reason not to just go with the cheapest and pay the high price of problems. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Crucial have a well earned reputation </p>
+
+
+<h2> review.date </h2>
+  11-21-2012  
+<h2> review.text </h2>
+
+ <p> i bought this for the cisco asa 5505 and it works great. i was able to update my ios after memory upgrade. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> bought for cisco asa 5505 </p>
+
+
+<h2> review.date </h2>
+  12-30-2012  
+<h2> review.text </h2>
+
+ <p> Had no problems with the memory they worked well with both my hp and lenovo laptops.  It greatly improved my computers functioning. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The parts arrived on time and worked immediately upon installation </p>
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> I got these in order to upgrade some older machine I run into while Doing the Computers For Kids project I run.Works great </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works </p>
+
+
+<h2> review.date </h2>
+  07-27-2011  
+<h2> review.text </h2>
+
+ <p> I tried 2 different sticks of this memory and neither would Let MY ASA boot.. All the lights were flashing..No slam against the memory.. From the previous review I thought it would work.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DOES NOT WORK WITH CISCO ASA 5505 </p>
+
+
+<h2> review.date </h2>
+  05-28-2013  
+<h2> review.text </h2>
+
+ <p> I wanted to upgrade the OS on my Cisco ASA 5505 so we can use XBOX live on two different XBOX's.  To upgrade the ASA's OS I needed to upgrade the memory to 256MB.  OEM memory costs $400 or more than the ASA is worth.  The memory module installed perfectly, I booted up the ASA, got a error light, pulled the power and rebooted the ASA and it came right up.  Works like a champ.About the packaging, the modules were loose in the cardboard box and both had a slip of paper taped to the gold contacts.  I carefully pulled the scotch tape off and cleaned the residue off the contacts and it worked.  I would have expected a simple anti static bag, but nope. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Horrible packaging but works perfectly </p>
+
+
+<h2> review.date </h2>
+  07-12-2008  
+<h2> review.text </h2>
+
+ <p> I had two sticks of RAM (total of 1 GB), one Kingston PC2700 and a Crucial PC3200. I needed another Crucial PC3200 to replace the Kingston to gain the Dual Channel advantage. This ram worked flawlessly, and provided the dual channel function that I needed to pair with the Crucial stick that I already had. It is essentially a Samsung stick badged as a Crucial though that isn't really a con. No problems with the ram, it worked right from the get go and it is fast. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good ram. </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> I just wanted my mom's pc to be Win 7 compatible and this fit the bill. Worked like a charm the first time! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great upgrade tool! </p>
+
+
+<h2> review.date </h2>
+  04-11-2013  
+<h2> review.text </h2>
+
+ <p> It's RAM. It worked exactly as it should, and supplied the exact amount of memory it promised. End of story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly As Expected </p>
+
+
+<h2> review.date </h2>
+  02-25-2011  
+<h2> review.text </h2>
+
+ <p> Purchased this RAM upgrade for a Cisco ASA5505. This is the third aftermarket RAM upgrade and the ONLY one that works properly. The first upgrade (not purchased from Amazon or Crucial) sent the unit into a constant reboot cycle so it was completely unusable. The second upgrade (also not purchased from Amazon or Crucial) appeared to work but made certain functions, such as loading the config after launching ASDM or saving the config after changes in ASDM, somewhat slow. Also, with the second aftermarket upgrade, certain changes to the config in ASDM would cause the device to reboot and lose all the changes up to that point. It also would go into a reboot cycle for 3-10 times before actually booting successfully on rare occasions. In other words, the second upgrade appeared to work just fine but made the code seem unstable. After installing the Crucial RAM in this review, the unit was completely stable and all actions, from booting to reconfiguration, seemed to happen much quicker. Regarding the background of the device, older ASA5505 devices come with 256MB RAM. This is not enough to install 8.3 code or greater. There were significant improvements in 8.3 (and now 8.4) that make the upgrade highly recommended. Please note that if performing a code upgrade on a production unit you will want to read the Cisco release notes VERY CAREFULLY! Especially if upgrading from 7.x code to 8.3 or 8.4. All in all, I'm very happy with this RAM upgrade and ordered another three DIMMs to upgrade three more ASA5505 devices.Update 2/27/2011: Tried 2nd RAM upgrade in another Cisco ASA5505 and after the unit heats up and you try to reboot, all lights on the device start to blink and it never boots. Let it cool down and it works again. Bottom line: The ASA5505 seems to be VERY particular about the RAM used in it. I have two more of the same RAM upgrades on order. I'll test and update this review after I receive them. I guess it's possible I just received a bad stick of RAM. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect RAM Upgrade for Cisco ASA5505 </p>
+
+
+<h2> review.date </h2>
+  06-18-2014  
+<h2> review.text </h2>
+
+ <p> I read another comment that stated this memory will work on a CISCO ASA 5505, so I purchased this item and indeed, it did work for me. So I'm confirming that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WORKED FOR ME ON A CISCO ASA 5505 </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

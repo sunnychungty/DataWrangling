@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00ANG3YMW <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-10-2013  
+<h2> review.text </h2>
+
+ <p> I had high hopes for this because I love the opposites attract stories, and it didn't disappoint.Dee is a great character. I could tell that outside everyone sees her as an impulsive, living-in-the-moment, fun, hippie girl, but being in her head was so sad at times because she is letting her past dictate her life, or lack of it, rather. I just wanted to hug her and tell her everything's going to be okay.Is she a flower child? No. Her character is much more complex than that. She's just your everyday girl that happens to be into yoga because she believes in it. It helped her pick herself up and rebuild her body after a devastating accident and it's something that makes her feel good about herself. She's not preachy about her lifestyle and she definitely doesn't stick it up to anybody that doesn't welcome it.Ethan was such a nice surprise in this story - I completely expected "The Man" and again, I was mistaken. The author steps out of the rich playboy businessman stereotype - Ethan is just a regular guy that happens to have an insane business gene and some money, it doesn't define him and he doesn't flaunt it around like it should give him any privileges.For insta-love fans, you won't find it here. These two go from non-attraction, through easy friendship, towards falling in love. I liked how you could see Ethan realizing that she is exactly who he needs by his side, and how she slowly opens up to him and lets him in. They are so different neither of them feels like they would make sense, but she disturbs his peaceful routine as much as he disturbs hers. The author really takes the time to develop their relationship, and at times I felt it was maybe too slow (but worth it). I won't talk much about their relationship because it might be spoilerish, but just so you know, there is a swoon-worthy scene to look forward to.I loved the way it was written - it suited me perfectly. Like I said, it might have been a little too slow at times, and when it comes to Dee it takes her forever to reach that S*** Together stage she so wants in her life, but it was definitely worth the wait. There is amazing chemistry between Dee and Ethan, and even though it takes them a while to develop this mutual attraction, it's always simmering somewhere in the background. All the characters brought something to the story, I loved the friendships, or watching Dee and Val mend their mother-daughter relationship, and Dee's relationships with her students. The dialogue felt natural, and it was witty and sharp and real and I loved it.There are these little moments when Dee is meditating that you could just feel her just letting go of all the stress and finding that serene place in her head.For those wondering, this is a clean read, the fade-to-black kind.Janette Paul is actually Jaye Ford, and while I haven't read her work yet, I think I might give her a try seeing how much I liked Just Breathe. It's enjoyable, funny and heartfelt. I definitely recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I loved this </p>
+
+
+<h2> review.date </h2>
+  02-15-2013  
+<h2> review.text </h2>
+
+ <p> This was such a touching and at times funny book. I so enjoyed reading it, although towards the end I wanted to smack Dee on the back of the head and ask her what she was thinking! Dee is a yoga instructor who started doing yoga to help herself after a horrible car accident. Over the years she has become really good at it and has a few private patients she sees as well as the classes she teaches in the school. Lately she has been teaching more because her boss and friend is pregnant and unable to teach. When she goes to a party she was invited to by Lucy one of her regulars, who just happens to run a huge corporation, she meets Ethan, Lucy's brother. He is just a gorgeous as in the papers but seems nicer in person. There is something about him that draws her to him. She is offered a job which will help get her annoying mother off her back, so after much hesitation she takes it. Taking this job leads her into a world of rich and powerful people, along with Ethan who offers her business advice for free. She develops a  huge crush on him, which is ridiculous because he is way out of her league she thinks. Suddenly he returns her feelings, and has for awhile just wasn't sure if she did, and there is much sneaking around and romance. Being outed by the newspaper was terrible she calls it off with him because she overhears him and his sister talking about her. Later we find out they hadn't meant it the way it sounded, and when they get together at the end its very touching to say the least. I enjoyed reading about the heartache, and the chance a woman can have to live again. I would rate this book a four out of five!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just Breathe </p>
+
+
+<h2> review.date </h2>
+  04-03-2013  
+<h2> review.text </h2>
+
+ <p> 3.5 STARS"Happiness isn't a pre-requisite for getting hurt. You can get hit by a truck when you're miserable. But if you're happy, at least you can say you had something good and worthwhile in your life at some time. Who wants to be on their deathbed thinking, well, gee, I had a safe life? In seventy-odd years, when you're being put in the ground I want to order a headstone that tells the world you had a full life. That you had lots of love and pain and happiness and loss"I've been raised a sloth and will most probably die out of atherosclerosis with the lifestyle I've been keeping up. So this book's blurb doesn't exactly agree with who I am and at first glance since the thought of yoga gives me hives (I did try it once and the heat DID give me hives).Imagine my surprise when I found myself connecting with Dee as a character.Our heroine, Dee is a yoga instructor who denounces making plans beyond two weeks after having confronted by a the fact that all her plans for the future can go pfft at the slightest kink in the road. She lives her life passively letting the ashes of her accident fall where they may and builds her present state from there. She meets Ethan Roxburgh a millionaire who seems to have life and his s*** all figured out.Okay so far, that's two things that gives me hives: yoga AND millionaire hero.But Ethan, thank God, isn't cut from the same cloth as THAT millionaire stereotype. Their story actually started out with Dee being flat broke and accepting a job as an ad model for an insurance company which Ethan is also involved with. He eventually takes Dee under his business-savant wings and mentors her on the ins and outs of business. That detail, I think is what I liked the most out of this book: when Ethan found Dee's financial mess, he didn't buy her a house, or a car or throw her money because you know, he's rich.He taught her how to make it on her own.If that doesn't make you swoon, then you're probably too young to realize how important that is in the real world. See if I was dating a hot millionaire businessman right now (my mind is drawing a blank on who. There's a serious lack of hot millionaires and billionaires in the world, I think) I don't want him to buy me things. I'd want him to teach me how to become a millionaire myself so I can buy all the things I want on my own.Take that, Christian Grey. Practicality FTW.The book had been pleasant enough of a read. A bit too polite for my tastes maybe, but the lack of high octane drama wasn't to its detriment to be sure. The secondary characters did the job in fleshing out Dee's character. I particularly liked how her relationship with her mother was handled. The funny bits were a bit too slapsticky and the dialogue only managed to get a smile out of me, no guffaws of any sort. Despite being a professional yoga instructor, Dee had one too many klutzy encounters that it was a serious feat that she didn't end up dead, in a cast or killed someone by chapter 10."He must think she was a complete idiot. He was so sensible and professional and she was a walking disaster whenever he was around. The tally was growing longer - cheesecakes in the face, escaping breasts, falling down, throwing coffee at herself."It felt like it was striving a little too hard on the cute. Maybe the goal was for this to end up as a rom-com film, but across the pages it didn't really do much for me.  The pacing was also a bit slow in the beginning and the build up towards Dee and Ethan lacked a certain charm that I didn't feel a gripping need for them to end up together.But these were personal preference issues and on any level I think this book was well-written and light-hearted enough to allow me to recuperate after some migraine reads.&lt;i>This was an ARC provided by the publishers thru NetGalley which I neglected to review on-time. See? Sloth.&lt;/I> </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Real Ideal Millionaire </p>
+
+
+<h2> review.date </h2>
+  10-05-2013  
+<h2> review.text </h2>
+
+ <p> MY FAVOURITE CHARACTER: Dee is what I would like to be some day, a person who exercises regularly and likes it, who has clear priorities and lives in the present without worrying about the future.Opinion: It is an entertaining book for an afternoon. The main action takes a while to appear but all the yoga part kept me entertained. And after reading it I felt so guilty for being in such bad physical shape that I decided to give yoga a try and I have aches all over my body!Normally, I don't hate any character, but Dee 's mother I got on mynerves. She is controlling and wants to live her life through her &#8203;&#8203;daughters.It's a fun novel that addresses the issue of personal growth, love, trust. I loved that it is set in Australia because it is one of the countries that I would like to visit.Overall, I liked the book but for a quick read, it's nothing fancy, but the characters are very well developed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An inspiring read </p>
+
+
+<h2> review.date </h2>
+  02-24-2013  
+<h2> review.text </h2>
+
+ <p> &#34;Just Breathe&#34; is a terrific read. Dee and Ethan are such likeable characters, funny, warm, real. If you're a fan of contemporary romance, you'll love this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't miss it </p>
+
+
+<h2> review.date </h2>
+  05-21-2013  
+<h2> review.text </h2>
+
+ <p> This is a light, entertaining but detailed romance.Dee tears off her stilettos (borrowed from her sister) at a Sydney society ball and flings them out a window, declaring them to be instruments of torture. An unseen man nearby observes that he doesn't throw stilettos except in the privacy of his own room. Ethan's escaping from his sister Lucy who wants to introduce him to her yoga teacher, he confesses unguardedly. Dee finds this awkward - she's the yoga teacher, dressed up for once. Then Lucy arrives and announces grandly that Dee should star in a Health Life Insurance ad campaign. That's the last thing she wants however!Dee's had a serious accident and still carries back pain. Yoga has helped her but when her flat mate moves in with the man of his dreams, Dee needs to pay the bills. Maybe she'll take up that commercial offer after all... it might convince her bossy mother that she's able to run her own life. Lucy meanwhile has had to fire a model for being stoned and falling out of a stationary helicopter. She arranges a photo shoot for Dee. Taking a spot catering job, Dee keeps running into Ethan, who assumes she's a guest, and the glossy people he mixes with don't make her life any simpler.I liked the number of absolutely normal women, from a perfectionist mother to a yoga student dealing with serious illness. Dee is petrified doing yoga on a beach in front of cameras, but focusing on her breathing helps to calm her and after a productive day Dee realises that this is the most assertive thing she's done in a decade. Confidence building, from here on Dee's scattered life begins to improve, without the need for a man to prop her up. She may feel like a traitor to her own social ethics, but Ethan is definitely interested, and he's a consummate gentleman, introducing her to people who might help her get work.I did think that Dee spills, trips, and falls too many times for a balanced fit woman, and it got tiring rather than funny. But we learn that many people store stress in their shoulders, how to refloat a capsized boat, and how to frame a business plan and budget for a mortgage. Janette Paul puts interesting people in lively situations and shows clearly that people who never plan for the future are not helping themselves. Readers should note that in Australian 'thongs' are sandals as a few scenes could read really strangely! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just breathe </p>
+
+
+<h2> review.date </h2>
+  02-06-2013  
+<h2> review.text </h2>
+
+ <p> Written by Tash MOriginally posted on confessionsfromromaholics dot comARC provided kindly by Random House Australia for reviewing purposesJust Breathe  is the author's first book under the penname Jeanette Paul. Aussie readers may be more familiar with her other name, crime writer Jaye Ford. I haven't had an opportunity to read any of her books under Ford, but when I have some free time (namely, low review pile!) I am going to try and find her books.I wasn't sure what I was going to find with this book about a modern day hippie named Dee and a rich guy, Ethan Roxburgh, who happen to meet one another at a party. Ethan is intrigued by her; Dee is not the typical kind of girl attending these parties and she's not a Roxburgh girl, the name given to every girl that's seen with him. Instead, she's a woman who is struggling with her life and the only one constant in it is her yoga which she teaches. The only reason she is at the party is because she was invited by a client who happens to be Ethan's sister, Lucy. Ethan and Dee talk and Dee makes her escape, thinking that will be the end of him but it isn't as Lucy has an idea and she's dragging Dee in on it.Lucy runs a marketing agency and her brother Ethan is in charge of the family holdings. They want a model for an ad for their health insurance company and Lucy thinks Dee is perfect since she got an earthly look and is good at yoga. However, Dee is against it; she never plans ahead and she's happy living as she does ... until two things happen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love this story, on one side it's cheesy and clich&eacute;, like something from of an category romance </p>
+
+
+<h2> review.date </h2>
+  02-16-2013  
+<h2> review.text </h2>
+
+ <p> Dee Nichols is a free-spirited yoga teacher, or so she seems to those on the outside. She never plans beyond two weeks...That.Is.The.Rule. She is hiding past pains under a carefully groomed facade, the perfect way to keep her heart safe. Many find her to be refreshingly Bohemian in her lifestyle, while, to people like her mother, she needs to 'grow up' and except responsibilities in life, get a 'real job,' blah, blah, blah.At a Christmas party she was invited to, she catches the eye of handsome, yet serious, Ethan Roxburgh, head of Roxburgh Holdings, and an often photographed eligible bachelor. So not her type. Yeah, so why is there 'that pull' between them???Barely scarping by, Dee accepts an offer to be a spokesperson for a health insurance company and Ethan is there to help her muddle through, attempting to make her see her potential as a business person. For Dee, its overwhelming, she is stuck in her bubble of protection and Ethan is trying to pull her out! Sparks are flying, but Dee is afraid to trust someone like Ethan fully. Ethan has been burned, too, but there is something about Dee, her openness, her love for others, her sincerity and her ability to charm people in spite of her quirky ways!So, can Ethan break down her defenses? Are they meant for each other, assuming opposites really do attract? Are they really so different? Is Dee going to spin in circles, or take a giant leap forward in life and maybe plan for a future that goes beyond two weeks?Dee is completely loveable, Ethan is-sigh-the pillar of strength. The story was riveting in that fun way, that chick-lit way! I admit it, I love a good romance with a few good chuckles in it!!This copy was provided by NetGalley and Random House Australia in exchange for an honest review! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Do Opposites Really Attract? </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> Just Breathe  Janette PaulI received this via Netgalley in return for an honest review. I don't gush and give false praise - I don't believe that helps readers or authors so what you read is what I truly feel about a book.I have a weakness for good contemporary romance. When I say "good" I mean the sort that has a decent back story carrying the romance - in Just Breathe I wasn't disappointed. From the start I was pulled into the story meeting Ethan (yum!) and Dee immediately at a party. Dee is out of sight of the main party in a borrowed dress and impossible heels (always on the edge of financial penury she keeps raiding her sisters wardrobe), she throws the shoes over a balcony "instruments or torture " she cries, not knowing that  Ethan is hiding out also avoiding meeting his sisters yoga teacher he tells her. What he doesn't know and Dee doesn't tell him is that she's that person. He takes it in good part when he discovers this and the attraction between them begins. Its a gentle and touching romance where he's taking her out "not on a date" but as a companion, and she's 2not on a date" with him but meeting people he thinks will help her business. She's a funny but protective family, with a mum who's a steamroller in her life but only trying to help Dee get past the serious accident and its consequences and he's trying to get past the Playboy label the media have given him. They're total opposites, dee convinced living only in the presnet and not planning more than two weeks ahead is essential and Ethan being business focussed always on long term issues.  Yet there is a spark that draws them to each other and turns their ordered lives around.Its a well structured novel, characters that seem real and that the reader can like, plots that pull the main characters together slowly but without giving too much of the background of each away. What's in the past is important for both of them because it shapes much of their present behaviours and slowly little hints trick;le out and we get to understand them and their motives better. There's laughter aplenty here along with a smattering of tears and it all gels to make a superb novel. It looks to me to be a d&eacute;but one for Janette as I can't find more of her work and if so she's certainly talented and one to follow if you like a solid, diverting romance.The book itself is very well put together, properly edited and a good length at 304 pages on kindle. My only criticism is the price - 8.05 on amazon...and sadly although this book is excellent so are many many others in the 4-6 price range and I think that the price will affect sales, and readers will miss out on what is a great and compelling romance. For this reason I'm giving it 4 stars and not 5. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent contemporary romance </p>
+
+
+<h2> review.date </h2>
+  02-12-2013  
+<h2> review.text </h2>
+
+ <p> Just BreatheAuthor: Janette PaulPublisher: Random House AustraliaWhat do you get when you pair a gorgeous, savvy businessman who is known to always have a different "Roxburgh girl" on his arm at every event, with a high-heel throwing, lycra pants wearing, free-spirited, financially struggling yoga instructor who is sans furniture and a reliable vehicle? Well, you get a serious case of opposites attracting that's for sure.Ethan Roxburgh and Trudy "Dee" Nichols run in completely different circles. One is rich and business oriented, the other is poorer than dirt and down on her luck, but when an opportunity of a lifetime presents itself, allowing Dee the chance to strive outside the constricts of her mother's obsessive life makeover, Dee finds Ethan's expertise to be just what she needs to prove to everyone that she is completely capable of controlling her own life. For a girl who can't think more than two weeks into the future without fear of panic attacks, is she even capable of controlling anything?Of course she is!Our lovely Dee may be a bit accident prone, but she's got her head on straight and is good at what she does. Dee is her own person and proud of herself for establishing her life again after a terrible car accident nearly took away her ability to walk, and a fianc&eacute; who left her at the most vulnerable point in her life.  Our brave girl started her life over, and continuously jumps over every hurdle thrown at her.You know what they say about opposites though, right? They attract, and in Just Breathe, they attract in a big way. Can Dee look beyond the next 2 weeks and see a future that might include Ethan? Can Ethan give up his "Roxburgh girl" ruse and make Dee understand that she really is the girl for him? You'll just have to read it and find out! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I loved the witty banter between the main characters! </p>
+
+
+<h2> review.date </h2>
+  01-31-2013  
+<h2> review.text </h2>
+
+ <p> This is the story of Dee; Dee the radiographer who becomes Dee the yoga teacher and then, to her surprise, Dee the tv star and finally Dee the businesswoman.  In between she does a gig as Dee the waitress.  She is also daughter, sister, aunt, best friend, colleague and, eventually, lover.  But the path to finding her identity and her place within the world is complicated by fear.We are brought into her life at a moment of unease.  What happens when money is scarse, everyday expense are high, her roommate moves out with all the furnishings, debt to repair damage to said departing beloved roommate's car is added to the mix and work as a yoga instructor is oft times interrupted by the holidays and the schedules of the rich or illness of one particular private client.  Supplementing income as a waitress for a friend's catering business threatens to upend potential nerve-wrecking, nail-biting foray into the world of modeling as a real to life yoga aficionado, when she upends a tray of pastries on herself in front of the client and perhaps, more embarrassing, the heartthrob board member, brother of her friend/client.  Yes, there is a train running rampant here and it is randomly making stops at some choice locations as well as some on less solid ground.We are reminded that life is not always fair.  We learn to empathize with Dee.  That can be difficult when we also want to scream at her to grab opportunities and muttur to ourselves that if we were in a similar position we would take immediate advantage of every opportunity being presented.  After-all, how often do we have the chance of capturing the attention of a bachelor millionaire?Repetition of movements is key to teaching ones muscles the flexibility necessary to master yoga moves and principals.  That is taken one step further in this novel.  We are often given insight into how Dee is feeling through descriptions of her gastro tract.  I lost track at 19 references such as "anger brewing in her belly", "vaguely nauseous" and "huge glob of anxiety in her belly".  This sits well with the concept of needing yoga as a way to rebuild her life after a future altering car accident.  Deep breathing and movements that require serious concentration are part of the foundations that make yoga.The author does not reserve her better descriptives for intestinal reactions.  One of my favorite images was "she oozed herself into the chair next to him".Dee's belly may give "a funny little jingle jangle" when she is near Ethan, but he becomes more than a rich, confident playboy as the story moves on.  Like his appearance changes whether he is wearing a suite and tie compared to casual clothing, so does Dee when she is seen in her yoga attire or more infrequently in a cocktail dress and ill fitting heels.  Each of them changes throughout the story and not just out of their clothing.Smart descriptions, a strong understanding of anxiety and comprehension of the frightening pathway from the end of one presumed life track to repaving another makes this a read with many realistic moments and feelings for the reader to connect to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You Will Feel It In Your Gut </p>
+
+
+<h2> review.date </h2>
+  03-14-2014  
+<h2> review.text </h2>
+
+ <p> I kept trying to get through this book but I didnt connect to the characters whatsoever. I was skimming so much that by chapter 18 I just gave up. It was just blaaaa. There was no excitment, no humor nothing to keep me reading. It was boring. I was hoping it got better but it just didnt. I'm not even curious on how it ended.I found Dee to be such a hypocrite. She doesnt want anyone to judge her and the fact that she lives her life moment to moment with no future plans and that yoga is her life yet ... she judges Ethan from the moment she meets him. She is constantly referring to his suite, collar & tie as an issue for her. Yet he's never judged her.I just couldnt finish the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> bored </p>
+
+
+<h2> review.date </h2>
+  02-17-2013  
+<h2> review.text </h2>
+
+ <p> From the amazing Australian author Jaye Ford written under a different name comes the first in what could be a few romance novels from Random Romance. Under the pseudonym Janette Paul, we readers have been introduced to a new romance novel called "Just Breathe". Just Breathe takes us on a journey into Yoga Teacher Dee aka Trudy's life . After an accident that nearly killed her , she decided to do the one thing that could never hurt her and the one thing she loved. She became a Yoga Teacher , as a passion it started to flourish and soon she was running classes. One of Dee's students happens to be the wealthy Lucy Roxburgh - when she invites Dee over to a party, she meets Ethan Roxburgh - so famous that every women he has on his arm gets a membership to the Roxburgh Girl club. Fascinated by Dee , Lucy offers her the once in a lifetime chance to become the face of Health Life Insurance and to put her Yoga skills to the test. Soon Dee is wrapped up in a world, she could never have imagined but with this comes the developing feelings for Ethan. Can Dee show to Ethan that she is more than just a Roxburgh girl or will her fear of the future stand in her way of becoming successful in all aspects of her life?Just Breathe was a lovely novel and a change from the horror/thriller stories that Janette Paul has published under Jaye Ford.So readers, if you love Australian Romance - then check out the range of books that Random Romance has to offer you.#This was an ARC from Netgalley </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Change from Horror/Mysteries </p>
+
+
+<h2> review.date </h2>
+  02-22-2013  
+<h2> review.text </h2>
+
+ <p> Really cute, endearing story about a mismatched couple. Millionaire vs. struggling yoga teacher.I enjoyed the book, I didn't totally fall in love with the characters.I did appreciate the lessons learned of letting the past go, embrace the scary future and learn to love, even though heartbreak is sometimes part of it. (A lot of times, actually, but that's another story.)Dee the yoga teacher is a funny, quirky woman that is trying desperately to put the puzzle pieces of her life back together. The only problem is her tragic car accident from 10 years ago left her missing a piece of the puzzle. She finally learns that her life after the accident is a new one. It's not a life she has to rebuild and get back to. It's a life that is yet to be written.I received this as a free eBook from NetGalley for my honest review. [...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Adorable Story </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00J4I05XG <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-31-2014  
+<h2> review.text </h2>
+
+ <p> Really helpful book, contains many great tips and tricks to recover from a divorce with children. I know it helped me, I'm sure it can help you too. I highly Recommend! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book! </p>
+
+
+<h2> review.date </h2>
+  04-02-2014  
+<h2> review.text </h2>
+
+ <p> Divorce is a very difficult thing to deal with for the husband and wife.  While I always believe there is a second chance to try to fix the relationship, if you must go through a divorce with children, this book has some wonderful advice on how to handle the difficult situation.  Informative read, I recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Informative Read On Handling Divorce With Children </p>
+
+
+<h2> review.date </h2>
+  04-08-2014  
+<h2> review.text </h2>
+
+ <p> Divorce is tough for anyone and it can be hardest with children.  I like how this book addresses how to communicate with children and be honest with them. A tough topic but some good information here </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Divorce with kids </p>
+
+
+<h2> review.date </h2>
+  03-29-2014  
+<h2> review.text </h2>
+
+ <p> I like this book because it provides solid information on a very difficult subject--divorce with children. This is an incredibly difficult thing to deal with, and the advice in this book is very helpful and would serve people in that situation very well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Concise, to the point, and helpful </p>
+
+
+<h2> review.date </h2>
+  03-29-2014  
+<h2> review.text </h2>
+
+ <p> My friend recently got divorced and we picked up Divorce with Children by Lisa McGinley. Her kids really suffer from her divorce and we went through the book to find some usable solutions that she could apply ASAP to make her kids feel better. Luckily we found some great advice to make the pain and the confusion a little bit lighter. We love about the book that it provides easy and quick solutions. The advice is very practical and easy to implement. She already applied some of the guidance from the book with good results so the methods are very effective. I hightly recommend the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Divorce With Children - I Recommend </p>
+
+
+<h2> review.date </h2>
+  03-29-2014  
+<h2> review.text </h2>
+
+ <p> This book is the best book I've ever read about parents who divorce when children are involved.... it's sound solid advise </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is the best clinically written guide for divorce with kids </p>
+
+
+<h2> review.date </h2>
+  03-31-2014  
+<h2> review.text </h2>
+
+ <p> Divorce is hard in itself, what more with children. Children are the hardest hit when parents separate. This book contains information on what children will feel & how to deal with them. Great advice on how to handle them to minimize their pain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thanks for the book </p>
+
+
+<h2> review.date </h2>
+  03-29-2014  
+<h2> review.text </h2>
+
+ <p> I have a bachelors degree in child psychology and development and let me tell you that it is very important to be sensitive to the emotional changes that children go through during a divorce or a separation. Far too often the kids get caught up in the emotional distress of the parents when a marriage ends. That can cause emotional distress and create broken family bonds. This book is a good resource for parents as they approach this time of their lives while keeping the needs of their children a top priority. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great resource for parents </p>
+
+
+<h2> review.date </h2>
+  03-30-2014  
+<h2> review.text </h2>
+
+ <p> This is such a great book. The author, Lisa gives wonderful advice on how to talk to your children when you and your spouse are going through a divorce. It is very important to put your children first so they do not resent you later on. She gives you advice on what to talk to your kids about and how to help them get through this divorce, because it really does affect not only you, but your children as well. I highly recommend this book to anyone going through a divorce! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book! Highly recommended! </p>
+
+
+<h2> review.date </h2>
+  04-01-2014  
+<h2> review.text </h2>
+
+ <p> This book saved our family. It didn't prevent the divorce, but it made us realize how traumatic it could be on our children, and how to take steps to lessen and even alleviate their stress and pain over the breakup. Their mother and I actually get along even better now than we did when they were married, and the kids have definitely noticed! Highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LIFESAVER - Literally </p>
+
+
+<h2> review.date </h2>
+  03-28-2014  
+<h2> review.text </h2>
+
+ <p> This is a VERY short book (16 pages) but it's got tons of great information and really focuses on doing what's right for the kids in the divorce, so that's really important. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short but good </p>
+
+
+<h2> review.date </h2>
+  03-28-2014  
+<h2> review.text </h2>
+
+ <p> I wish this little book had been around several years ago when I needed it.  Somehow, I managed to get most of it right - but, oh, how this little book would have paved the way a little - for me, for their dad, and, most of all, for our kids.  Good job, Lisa. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Quick Read That EVERY Couple Should Read </p>
+
+
+<h2> review.date </h2>
+  03-28-2014  
+<h2> review.text </h2>
+
+ <p> Divorce with Children - HOW TO RECOVER by Lisa McGinley is focused and concise. This is a quick guide on the multiple issues facing a family that is undergoing a DIVORCE with children involved. I can recommend to you as a quick read and a way to ease a situation that has potential landmines at every turn. Take yourself out of the decision making and follow what the book says. Your family will be better for it. In fact, you may only have a family because you follow an objective and unbiased guideline such as this one... don't go it alone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How to make a better thing out of a bad situation... </p>
+
+
+<h2> review.date </h2>
+  03-28-2014  
+<h2> review.text </h2>
+
+ <p> Unfortunately, when parents go through a divorce, it's the children who suffer the most.  They are stuck in the middle feeling the pain and confusion of what just happened.  This was a quick, easy to read guide in which the author provides practical advice to help cope with these tough and trying times in a manner that can be easily, and effectively applied.  Highly recommended.Sincerely, Terry Thompson (author ofLeadership Is: A Developmental Leadership Guide to Personal and Professional Success,Push Start: A Practical Guide to Jumpstart Your Life From Average to Awesome,What it takes to become a MENTOR, andLeadership Solved) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Practical advice for a tough situation </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

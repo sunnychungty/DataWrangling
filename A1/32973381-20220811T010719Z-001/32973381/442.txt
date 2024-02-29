@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B009DXTRB8 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-01-2013  
+<h2> review.text </h2>
+
+ <p> Boyko has expressed in so few words what many of us may have experienced in our lives. Something everyone can and should relate to in one way or another . . . a mother who shows no or little love, sibling rivalry, father who is distant and seemingly uncaring, who at times we may feel that we even have a dislike for, but upon reaching the age of maturity, we come to realize that we do have compassion for others, no matter what our past life experiences may have been.Boyko's smooth, sincere writing will capture from the very first paragraph, and make you reflect back on YOUR experiences, and how they have affected your future . . . which road will you take?Being in a rather morose frame of mind when I read this, Boyko shows hope and inspiration to all who read his story, and proves that success is not solely based on 'material' things, but on what lies inside your heart, and that you must follow your heart despite what your obstacles are.Thank you Boyko for an inspirational book that everyone should read. It is outstanding! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Life We Can All Relate To . . . Boyko has the voice to express </p>
+
+
+<h2> review.date </h2>
+  04-28-2014  
+<h2> review.text </h2>
+
+ <p> Do NOT be afraid of the synopsis, Life After Life by Boyko Ovcharov is NOT a step by step self-help read. It is about taking what life deals out and not letting it bury you in darkness. there is life after life, there is a future and how you deal with it is up to you as evidenced by the stories Mr. Ovcharov relates. You take something away from every book you read, from wonderfacts about vampires to how to escape international bad guys, why not take the few minutes this novella take ans see if you see yourself. What you do with what you read is up to you.Boyko Ovcharov writes with an easy to read manner that entertains while it evokes thoughtfulness. The subtle humor is like a spoon full of sugar to help the medicine go down kind of thing. A nice read with a message that doesn't brow beat the reader. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to Enjoy Inspirational Reading </p>
+
+
+<h2> review.date </h2>
+  12-15-2012  
+<h2> review.text </h2>
+
+ <p> Inspirational and compelling journey of life experiences. Boyko Ovcharov has crafted a masterpiece in his journey of life. Great way to start the day, positive and motivating! Thought provoking and creative journey. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inspirational journey </p>
+
+
+<h2> review.date </h2>
+  01-31-2013  
+<h2> review.text </h2>
+
+ <p> I was expecting to read about life after death. Don't know why. The title is quite clear ... Life After Life. Every day, I dwell upon bad things that have happened. No need. Hopefully, with Boyko's help, I can stop. It's gone. Bad things don't deserve valuable time. After each thing that happens to you, life changes. If you focus on the positive, every change will be for the better. Great book. Reminded me of Life and Times of Michael K by JM Coetzee. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm still smiling </p>
+
+
+<h2> review.date </h2>
+  10-02-2013  
+<h2> review.text </h2>
+
+ <p> Wow, what a inspirational story, what dedication to a mother. I loved reading about her. And "That is Life." Is it really? Or better: "getting ready for real life".I was finding myself in the story.I have sincerely enjoyed reading that story. That is life.Well written, well done Boyko. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Life after Life </p>
+
+
+<h2> review.date </h2>
+  04-23-2014  
+<h2> review.text </h2>
+
+ <p> Author, Boyko Ovcharov's book LIFE AFTER LIFE is a very inspirational book. I truly believe anyone who reads it will be able to find themselves during their lifetime among his words. This book takes the reader on a compelling journey of life experiences and gives each reader a better  understanding of their own journey.This is the type of book that can be repeatedly read and the reader will come away with more thought provoking insight into life.I definitely recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inspirational Read! </p>
+
+
+<h2> review.date </h2>
+  01-01-2013  
+<h2> review.text </h2>
+
+ <p> A nice piece of inspirational writing. Well written and quite heart-jerking at times. I intend to read it again in a week or so. This author deserves a pat on the back for expressing himself so well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inspirational and Motivational </p>
+
+
+<h2> review.date </h2>
+  12-10-2012  
+<h2> review.text </h2>
+
+ <p> I wanted to give a five star review of this book at the end of the first chapter.  I was touched by how Boyko wrote of his mother.  I remembered my mother vividly and thought of how fortunate I was to have her as my mother.But, there was more to this book as I read on. By the end of the book, I was thinking that if everyone on this planet would read this book, it would have an impact on the way the population of the world could get along. People of the world could find friendship as the common link rather than be focused on differences created by politicians that want us to follow their agendas blindly.This book helped me look into the eyes of others and see the desire to care and love rather than hate.  I am grateful that Boyko Ovcharov wrote this book for me, and hopefully you as well.If you have read this far, then buy the book, it is a story that the world needs to grasp. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Story of Life </p>
+
+
+<h2> review.date </h2>
+  04-16-2013  
+<h2> review.text </h2>
+
+ <p> This was not your long and difficult philosophy textbook told again, but some observations about life and its meaning phrased in simple language.In this very short work, the author covered a lot of ground.  It made you think about the major events in your life and how they stacked on top of one another to make you who you are.  It will change your view of your life if you allow it to!I was very impressed with this short and simple work and would highly recommended it to anyone who enjoys looking back and reevaluating certain situations that you may have misinterpreted at the time.  If reflection with an eye to improving your self is something you're not afraid to do, this quick read could be just right for you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simple Truths, Clearly Told </p>
+
+
+<h2> review.date </h2>
+  04-27-2014  
+<h2> review.text </h2>
+
+ <p> It's a short, interesting read. You can call it a diet autobiography of a young man from eastern Europe, who wants to move forward but can't. Just like a rocket propels a satellite into space and helps it escape earth's gravitational pull, most people on this planet get caught up with earth's energy and find it difficult to move on.The major culprit is memory which leads to finger pointing. Both these aspects come out beautifully in this little book. It has reached a point where the author's surrounding environment no longer supports, encourages or nourishes him. It's something that affects everyone in varying degrees. How he handles it from here will be interesting to see. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looking for Escape Velocity </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

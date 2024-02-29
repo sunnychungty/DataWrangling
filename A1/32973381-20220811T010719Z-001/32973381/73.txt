@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B003TGJ7JM <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-17-2010  
+<h2> review.text </h2>
+
+ <p> Short and sweet.These are the BEST (inexpensive)lights you will find on the market for their quality.Pros: Dimmer switch (from 0-100)At the brightness level, it reaches about 15 feet with great fillComes with a Sony/Panasonic battery adapter (so you don't need AA's)Easy operationFilter pack is included (Daylight converter)Cons: Not really a con yet, but the hot-shoe stand that comes with the light seems very weak... it WILL more than likely break off if you run with your camera or do any type of movement with your camera. As long as you stand still and have these on a tripod or stand you won't have to worry.All I can say is that these lights are a GREAT investment because... they weren't much of an investment to being with! ...and they work great!Buy this. You won't be disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW. </p>
+
+
+<h2> review.date </h2>
+  02-01-2012  
+<h2> review.text </h2>
+
+ <p> These lights are amazing to just hang somewhere, or put off in the corner to light something up. even for a fill light on the go. The plastic housing though is cheap and the hot shoe clip threaded immediately. I would suggest this to anyone who is willing to work with the cheap plastic for the convenience of high quality portable lighting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good light, cheap plastic </p>
+
+
+<h2> review.date </h2>
+  12-11-2010  
+<h2> review.text </h2>
+
+ <p> The light comes with an adapter but zero paperwork. Luckily it's not hard to figure things out. Cheaply made but could have been 5 stars with better construction and some paperwork telling about the adapter and possible hints for better lighting and something about the two filters. Opteka could have a very nice product with very little more expense. It is pretty bright and does a good job. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK but could be better </p>
+
+
+<h2> review.date </h2>
+  02-12-2011  
+<h2> review.text </h2>
+
+ <p> everything was great but after first job the light started loosening from the mount, which is held together by 4 small precision screws... problem is, they are held together by a nut on the other end which requires you to secure the nut while screwing for it to tighten; a difficult task, considering the nuts are inside the light construction only accessible by a small square whole not big enough to fit the smallest pair of pliers so i had to improvise but we got is pretty tight.  I love the light itself and the practically infinite brightness adjustibility.  Check out this job I filmed with it: [...]Overall, AWESOME... just deal with the cheap construction. It does what it is intended to do very well! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this and so cheep but not built really well... easy to deal with though! </p>
+
+
+<h2> review.date </h2>
+  11-28-2011  
+<h2> review.text </h2>
+
+ <p> I'm an ameature photographer for work and I decided to try out this device for it's LED content and affordable price.Upon recieving it I was impressed by the amount of light this thing produces and the 3 optional diffusers it comes with! Soft white, pink and tusgen. Along with the options of using many different kinds of batteries from camcorder types to 6 AA's.The downside of this device is that it's incredibly heavy and tends to have a slight flop at the top joint you see in the picture. Another is that you need to make sure the brace is tightened above the accessory shoe of your camera or it'll slide right off and cause serious problems and waste your money.It's a a snug fit once it gets screwed into place but you still feel like it could pop out at any given time.We have a lot of plans for this light coming up so I hope it performs admirably in the near future.UPSIDE: bright LED lights, 3 Diffusers, Dimmer Switch, and Multiple compatible Batteries.DOWNSIDE: Shoe insert is made of light plastic and extremely heavy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Light source, heavy weight! </p>
+
+
+<h2> review.date </h2>
+  09-01-2011  
+<h2> review.text </h2>
+
+ <p> A nice little continuous light source that CAN light up a small room (4X8). Lightweight, inexpensive, practical (use as fill for macro shots :)  ) a little flimsy, but hey, I treat all my equipment with respect and take care of it. Worth every penny-nice clean light that also comes with CC (Color Correcting "filters") I'd buy it again...maybe 3 next time! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Pretty Slick Little Light!!!! </p>
+
+
+<h2> review.date </h2>
+  06-20-2011  
+<h2> review.text </h2>
+
+ <p> Its good but I saw one that was like it, only cheaper so I was a little disappointed at that but it's good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> does the job </p>
+
+
+<h2> review.date </h2>
+  12-12-2013  
+<h2> review.text </h2>
+
+ <p> Good light. the joints on the &#34;arm&#34; are a little suspect. I dont see them lasting too long with someone who uses regularly. I don't use that often so its fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty Good. </p>
+
+
+<h2> review.date </h2>
+  12-10-2013  
+<h2> review.text </h2>
+
+ <p> Good light for the money, the filters don't fit tightly on the front they slip off easy but you would have to be moving alot for this to happen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bright </p>
+
+
+<h2> review.date </h2>
+  02-14-2012  
+<h2> review.text </h2>
+
+ <p> Using as a faded light for wedding exits at night. Just enough for our cameras to focus. Works great.+ Can mount on flash stand attached to lighting stand or can mount to camera+ fading wheel is smooth and allows for fluid various levels of light+ battiers having died yet!- no cons! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great soft or powerful light for photographers! </p>
+
+
+<h2> review.date </h2>
+  12-08-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this light after a friend purchased one and showed it to me. I was quite stunned by the output, dispersion characteristics and color temperature. The last time I had seen a light of this quality in a LED panel, it was at a demo from a high priced light manufacturer and that light was close to a grand. For $59, this is a steal.The only real detractor is the weak mounting linkage, which sways from side to side, and the joints, which still flex even when the knobs are tightened fully.It comes with a diffusor and a tungsten filter (to simulate tungsten color temperature). It's very intense and more than enough for interviews. In fact it's bright enough to do news actualities on the street at night.Unbeatable deal for the money! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprisingly Bright with Good Spectral Balance </p>
+
+
+<h2> review.date </h2>
+  03-25-2013  
+<h2> review.text </h2>
+
+ <p> Bought it for a daughter for use in her professional photography business. Item works good and she has added an additional one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simple Operation </p>
+
+
+<h2> review.date </h2>
+  08-25-2010  
+<h2> review.text </h2>
+
+ <p> Got 2 of these and Amazon raised their prices after one week of receiving them which is good for me.The light as other reviewers mentioned does what it's supposed to do very functional, tried all the battery mounts that came with it and all of them work, the dimmer works great and the light looks good. Not perfectly 5600K though but wasn't expecting that at this price range anyways.The lower handle shoe mount is cheap plastic and does not seem to take a lot of beat, will try replacing it with another mount. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice powerful light for a cheap price </p>
+
+
+<h2> review.date </h2>
+  07-15-2011  
+<h2> review.text </h2>
+
+ <p> Outstanding product.  Runs on 6 AA batteries.  I can control the intensity of the light so it won't bother the people I am interviewing. Great for the dance floor especially when they turn the lights down low. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Video light </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

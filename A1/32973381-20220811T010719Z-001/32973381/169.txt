@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 6304525117 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent Warners biography of famed chemist. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-29-1999  
+<h2> REVIEW TEXT </h2>
+
+ <p> Edward G. Robinson should have netted an Oscar nom for his finest screen portrayal - as the dedicated chemist and researcher, Paul Ehrlich.  This is one of the great Warners screen biographies (THE STORY OF LOUIS PASTEUR,  THE LIFE OF EMILE ZOLA, MADAME CURIE).  The screenplay is literate and  absorbing.  The acting is excellent, the direction tight. Ehrlich  introduced the idea of treatment with chemical substances and developed a  cure for both diptheria and syphillis.  The screenplay was deservedly  nominated for an Oscar but it is Robinson who shines in an atypical but  superb performance. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Magic bullet </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Excellent movie. This was Edward G. Robinsons' best role. I couldn't stop watching it. What an intelligent doctor this was. He did so  much for medicine, and public health. Definitely a five star movie! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A great film and a great performance by Robinson </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you've only seen Edward G. Robinson in gangster films, give this one a chance and see his range as an actor. Here he portrays German physician and researcher Paul Ehrlich, a pioneer at the turn of the 20th century in the treatment of infectious diseases and the man who found a cure for syphilis. Ehrlich starts out as a general practitioner employed by a hospital in order to provide a stable living for his family but whose real love is for research. His inquiring mind and nonconformist views ultimately makes him a leader in his field, but not before his pioneering ideas get him in trouble with the medical establishment in his country. Robinson has excellent support here with Ruth Gordon playing Ehrlich's adoring wife. Otto Kruger ably portrays Emil Adolf Von Behring, Ehrlich's friend and colleague who find himself at odds with his good friend's professional ideas at one point in their careers.The film was controversial at the time for mentioning the disease "syphilis" by name, and I'm sure a little bit of sensationalism is why Jack Warner thought that Dr. Ehrlich's biography would be good material for a film, but there's something more subtle going on here. Made in 1940, after the Nazi menace had been recognized by many but before America had been attacked, there are many not so subtle digs at Germany to be found here. Early in the film several of Ehrlich's colleagues are ratting him out to the head of the hospital for not following hospital rules. Specifically, Ehrlich realizes that the sweat baths prescribed as the treatment of syphilis at the time - 1890 - are of no value whatsoever. When a patient of Ehrlich's says that the baths sap his strength and may cost him his job, Ehrlich says that he can skip the baths. This humane act of deviating from a useless treatment is the "rule" Ehrlich has broken, and what gets him called on the carpet by the head of the hospital. The whole incident is one of several that make the Germans look rigid and inhumane. The issue of Ehrlich's colleagues doubting his abilities because of his religion - he was Jewish - also comes up a few times. Finally, when the state budget committee that is financing Ehrlich's lab comes by for an inspection they chastise Ehrlich for hiring a "non-German" doctor. It's very effective but subtle criticism of the Germans that Warner Brothers did so well in the years leading up to the war.One bone that Warner Brothers did have to throw to the censors because of the open discussion and showing of syphilis patients in various stages of the disease is that they could not show any female patients. They were only allowed to show male sufferers. I guess these guys all got this from "an inanimate object" as Dr. Ehrlich says is possible at one point in the film to downplay the sexual transmission angle of this disease. Wasn't the Breen era of the production code a scream?The video and audio quality on this DVD-R release are excellent. Do note that there are no extras included, not even chapter stops. You may only go forward and backwards in ten minute increments. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 606 is the magic number... </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-23-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Tugs at the heart-strings. A compassion-laden film about a true-life German Doctor seeking the cure to some of the world's worst ailments, including syphilis, polio and influenza.When an epidemic hits the country, he goes about pulling out all the stops to find a so-called "magic bullet" as a veritable cure-all, and finally accomplishes his goal in pill 606, named after the number of tries to perfect this ideal drug. After some unfortunate losses in a few allergic reactions, despite his own warnings to the medical community that there still needed some tests to be done, he is vindicated and is eventually and rightfully awarded the Nobel Prize.There are some really moving and inspiring moments in the film, with the contemplation of nobility, ingenuity, and the passionate pursuit of knowlege. It is all worth it in the end when you see the faces of those formerly ill children and grown-ups beaming with healthy life again. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazing ! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-11-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> Amazing !!! that a top-quality movie such as this is not out on DVD. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> treasures of the past </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-03-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great hollywood classic.On a lighter side,I found it funny(unintentionally)how most of the charactors surrounding Edward G. never aged to keep up with E.G's aging.AS he keeps showing signs of aging his associates in the film stay pretty much the same. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Recommeneded </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> RecommendedEdward G. Robinson was great a were the  other  actorsI have watched this many times and always enjoy  this movie asI have  seen this when was younger </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Dr. Paul Ehrlich, the man who would not quit </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> A good story about a man who would not quit in his fight to end the pain and suffering of millions of people. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Entertaining and Inspirational - A Beautifully Made Movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Dr. Ehrlich's Magic Bullet is a beautifully crafted movie that tells the inspirational story of the German physician Paul Ehrlich, who developed the first synthetic antimicrobial drug. His work on infectious diseases saved hundreds of thousands of lives and changed scientific research forever. The biographical story of Herr Ehrlich's life work is masterfully presented by the skilled director William Dieterle, whose long and distinguished cinematic career includes such movies as "The Story of Louis Pasteur" (1935), "A Midsummer Night's Dream" (1936), "The Hunchback of Nortre Dame" (1939), and "Portrait of Jennie" (1946).I know I will sound old when I say, "They don't make them like this any more." But the loving care and attention given to every detail of this film is a shining example of the high art to which all movies should aspire. The finely crafted script was nominated for an Oscar for Best Writing Original Screenplay in 1941. And the three screenwriters, Norman Burnstine, Heinz Harold, and John Huston, deserved to win.Edward G. Robinson also should have received an Academy Award nomination for his compelling and poignant portrayal of Dr. Ehrlich in the movie. I think it is one of his finest performances, and that is saying something. Sterling performances from such fine actors as Ruth Gordon, Otto Kruger, Donald Crisp, Maria Ouspenskays, and many others combine to make "Dr. Ehrlich's Magic Bullet" a remarkable film. The people who acted in and made this film took their art seriously, and the results are exhilarating.Anyone aspiring to be a good actor should study the fine performances given in this film. Anyone who wants to know what an excellent script should be, and how to bring that script to life, needs to look no further than Dr. Ehrlich's Magic Bullet.So, if you want to see film making at its very best, don't miss this intelligent and highly entertaining work of art. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GREAT MEDICAL DOCUMENTARY </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-15-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Doctor Ehrlich's Magic Bullet is a story about how he found innoculations for several illnesses, one of which was syphlis, a very serious contagious venereal disease.  The early years for many of these dedicated individuals like Louie Pasteur and Sister Kenny, were harsh since no one would support or believe in their theories.  Very good movie. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Intelligent biopic </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Well-staged and perfectly cast, with a literate and reasonably scientific script.  Classic direction makes the best of the performances, and James Wong Howe delivers his usual glittering black and white photography, making the best of the sets and such action as there is. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> MASTERFUL EDWARD G. ROBINSON PERFORMANCE & BRILLIANT SCREENPLAY! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-22-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> I knew that Edward G. Robinson was an exciting performer, but never did I realize how masterful he was until I saw him in this wonderful role.  The story is truly fascinating.  The screenplay is sheer brilliance.  Ruth Gordon excudes poise and sensitivity too.  In fact, all the performers, are very well cast in this wonderful film. This movie is outstanding ~ a definite must see.  You will be not only be fascinated and intrigued, but become so very well-educated about the pioneers of science regarding the fighting of disease, immunity, anti-bodies, innoculations, etc.  FANTASTIC addition to your movie library.  Definitely a must have! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The finest performance of Robinson's career </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This movie is simply stunning in all aspects.It's an engaging and well written, well acted true story of an now unknown hero of medical science who saved countless people.Engrossing in story, and incredibly factual, this is THE best movie on science and scientists EVER made, comparing favorably even to the magnificent Madame Curie.Robinson has a depth, a realism, and a drive which puts THIS movie WAY out front as his career's absolute best.It's a gotta watch, gotta have for any one interested in the history of anti-bacterial medicine and the oft-broken mechanisms of science and medicine.The triumph of a man and dream against all odds. Superior entertainment that just isn't made anymore, anywhere, by anyone. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This black and white movie is well done in an age when movies portrayed serious illnesses without the gore in today's movies....which leaves nothing to the imagination and adds everything to the shock value .... yet, it tells what the medical frield was like in days of much progress and much ignorance. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

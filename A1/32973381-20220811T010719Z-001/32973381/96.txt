@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B004LGQWW4 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-26-2013  
+<h2> review.text </h2>
+
+ <p> Very cheap,took it out of the box had a 70's style transistor type radio tuner (220 degree rotation on knob covered all chanels)good luck knowing what chanel you where tuning into. Immediatly put in box and returned. It is the 21st century </p>
+
+
+<h2> review.summary </h2>
+
+ <p> CHEAP </p>
+
+
+<h2> review.date </h2>
+  07-27-2012  
+<h2> review.text </h2>
+
+ <p> Sound is so-so but acceptable for the price. It does not sound bad by most standards. There are 3 or 4 preset EQ settings most of which are useless, but again for $50-60 this sounds fine and it is plenty loud for most uses.The one thing that is missing is a HEADPHONE jack. It surprised me that it didn't have one since this box has just about every other feature conceivable.I have used the SD card and it works great other than the need to convert music files to mp3. A minor pain but if you are clever enough to use an SD card for playing audio you should be clever enough to convert some songs for you boom box. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent unit, great features - no phones jack </p>
+
+
+<h2> review.date </h2>
+  05-19-2012  
+<h2> review.text </h2>
+
+ <p> The unit arrived quickly, undamaged, and with a power cord.  It plays mp3's from an SD card, which was the reason I bought it.  The CD player works, plays normal CD's and mp3's.  The radio works, and even indoors, was able to pull in quite a few FM stations, which is pretty good considering how far we live from any transmitters.When turned off, or when the "stop" button is pressed, it forgets its position and starts from the beginning the next time it plays from the SD card.  This is why I gave it 4 instead of 5 stars: with hundreds of songs on a card (or thumb drive or disc), it should be able to remember the position: even an early mp3 player I had in 2000 could do that.It works with the power cord only, with batteries, only, and with both.  However, even if the batteries are installed, it stops playing from the SD card when the power cord is unplugged from the wall or re-plugged into the unit.  Again, it does not remember its position when these things happen, which is a bit annoying.Sound quality is acceptable, but my standards are not all that high.  The equalizer presets can somewhat compensate for the small speaker size.Weight, size, and appearance are good.  The display is readable, works only with digital sources, and gives just enough information without being cluttered.  The volume and AM/FM controls are analog dials. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Many features for the price </p>
+
+
+<h2> review.date </h2>
+  05-27-2013  
+<h2> review.text </h2>
+
+ <p> Works great. My boyfriend brought this to work and he works in a factory which is loud and this gets loud enough to hear it well. It also helps that is USB compatible meaning tons of songs uninterrupted by commercials. This is a great buy if you can get your hands on one. The radio works great, thought is a little touchy but otherwise works great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great! </p>
+
+
+<h2> review.date </h2>
+  02-16-2012  
+<h2> review.text </h2>
+
+ <p> I love this NAXA NBP-256.  Looks good works good.  Good sound.  Contrary to another review here the boombox does indeed include an AC power cord.  I bought it for the usb capability.  I use this radio to help me sleep at night.  A CD only has a few songs that repeat over and over.  The USB port and a 1 gig flashdrive holds hundreds of songs that last all night.  As long as your not trying to rattle the neighbors windows, you will like this radio. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Buy It </p>
+
+
+<h2> review.date </h2>
+  09-25-2011  
+<h2> review.text </h2>
+
+ <p> I recently purchased this Naxa NPB-256 it has everything you need MP3,CD,AM-FM & USB in put....overall it is a excellent item...anyone looking for radio with good features this is fantastic!!!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Samantha </p>
+
+
+<h2> review.date </h2>
+  02-09-2012  
+<h2> review.text </h2>
+
+ <p> This is exactly what I need. Unfortunately the CD door has a broken latch when it arrived and wouldn't close. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> arrived with broken CD door latch </p>
+
+
+<h2> review.date </h2>
+  11-07-2012  
+<h2> review.text </h2>
+
+ <p> Here it is at last. Just pop a 16 gig SD card in here, hit random, and you're done son. Now you can do some serious work in your garage without getting up every 30 minutes to change out a scratched CD. It is over Jack! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The easy life </p>
+
+
+<h2> review.date </h2>
+  07-30-2012  
+<h2> review.text </h2>
+
+ <p> Bought this for my dad so he could have some music while confined to a rehab center after a fall. He just raves about it. He says it's one of the best gifts he's ever received. I put a whole lot of his favorite music (I think about 10-12 hours) on a SD card, which made it really easy for him to hear his favorite music. The sound quality is very good for a small "boom box"--not home entertainment center quality of course, but very passable for a unit this size. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dad loves it! </p>
+
+
+<h2> review.date </h2>
+  09-02-2012  
+<h2> review.text </h2>
+
+ <p> This is the second NAXA boombox I have purchased for my son in the past 45 days.  The first one worked fine for about 3 days and then the MP3-CD and SD functions konked out.  I returned that to Amazon, no problem.So I bought this model, thinking that it was just a fluke the first time and perhaps if I spent a little more money this one would work out.  I sent it to my son at camp and guess what?  Same problem, except this time it worked for about 1.5 days and then the MP3-CD and SD functions stopped working.Except now, since I am 2 days past the Amazon return time period, I can't get the same return even though there was almost no way I could get it back to Amazon in the time-frame allotted.Oh well, I guess I will take my lumps and learn a lesson about this one.  I just won't trust NAXA products again.  Ever.Don't waste your money.  They look cool (which my son liked quite a bit) but they turned out to be worthless as far as I am concerned. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Forget about it!  A WASTE OF MONEY! </p>
+
+
+<h2> review.date </h2>
+  03-19-2011  
+<h2> review.text </h2>
+
+ <p> 9/26/13 update: Still works! I lost the power cord & took quite an effort to find a replacement. Since all I could see is the boombox end of what power cord should look like, I did not know what type I needed & Naxa website no help. It is Not a fig 8 or flat fig 8..it looks like an elongated D (no indents between the 2 prongs). I wasted $ on wrong cords til I finally went to Radio Shack who carried the proper kind ($11). BTW I paid $61 for this in 2011... much better price now.Original review:I've only owned this a week, but since there are no other reviews yet, I thought I'd put one on here. I rated it 5 stars because of the many options you have and the sound quality.  I have no idea how reliable this will be, but I will update my review if it has problems in the future. I needed a radio for work and I really wanted one that had a usb feature so I could load up hundreds of songs on a flashdrive and let it play all day.  This radio fit the bill!  Way more powerful sound than I needed for a small 9x9 office, but it is hard to find portable radios w/the usb playback feature. I keep the volume at 25%. The appearance of the radio is a little alien-looking, but I really like the sound quality of the 4 speakers. Having the option to play music from the cd player, an mp3, usb, radio or sd card really makes it nice. There are many features for playback on the usb, so you can do random play or skip, repeat - you can do that w/the cd or sd card as well. I haven't tried the aux-in yet for a mp3 player. The player is a bit larger than I would prefer for a small office, but it is extremely light-weight, so don't worry about carrying it places.Update 11/26/11: still works, although I don't have in my office anymore. I just couldn't get past the alien-look it has to it! I also wished it had remote control. A couple times I didn't think it was going to play my usb, but then it finally did. Maybe it was a stick w/just way too many songs and took a long time to load? We used it all summer for when we wanted music outside. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A lot of options! </p>
+
+
+<h2> review.date </h2>
+  09-19-2011  
+<h2> review.text </h2>
+
+ <p> The boombox performs fairly well. The volume is decent, especially for indoors. There is almost no bass, but that is to be expected at this price point. Most people would buy this based upon the USB/media card playback. It works, but organization of files is poor. It doesn't display track titles or any other helpful info. There is also a noticeable delay when starting a new track when seeking (but not when going from track to track normally). The handle does feel a bit weak, especially when considering that the weight of the device is not balanced. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good for a product type that has few competing products </p>
+
+
+<h2> review.date </h2>
+  08-15-2011  
+<h2> review.text </h2>
+
+ <p> When I received this product, I found this is an opened item by the packing. Since it worked OK, I didn't complain. But after a while, The left speakers stopped working, no sound. After I hit the box with my hand, the sound came back. But when I turned it on the next day, the sound disappeared again, and didn't come back until I hit the box again. I am trying to return this item.  Hope the dealer won't send it to another victim again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Defective item </p>
+
+
+<h2> review.date </h2>
+  06-13-2011  
+<h2> review.text </h2>
+
+ <p> very nice product.  looks good, sounds good.  functionality is even better.  i wish the unit had a 'memory' of the last track played when restarted.  I have a card with 11 hours of play, it starts over at track 1 each time I turn it on.  Still... it's so cool to have 11 hours of play stored for use on a long day in the office. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> !!!usb/card choice </p>
+
+
+<h2> review.date </h2>
+  05-15-2011  
+<h2> review.text </h2>
+
+ <p> I hunted for a long long time looking for a boom box/mini stereo that would read CD/MP3 burned on CD/ MP3 players and most importantly USB flash stick.  After having a car stereo that could read a flash stick I became spoiled on having hundreds of songs at my fingertip without screwing around with CD discs.  This player has great sound and almost all the features I wanted.  Downside:  You can't circulate through the different albums nor does it read them by album.  In this cases it does not matter so much to me because I just loaded several lullaby albums for the kids.  If you were using it at work it might be a problem...but it does have a shuffle mode .  At just a little over fifty bucks though you can't complain.  Great sound. (Oh and none of the other players (including the very expensive ones) have the search album feature either.  Use your Ipod or MP3 on the AUX wire and then you can manually pick your album off your players control.  No big deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> USB reader stereo </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

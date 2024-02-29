@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00GMRPCH6 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-17-2013  
+<h2> review.text </h2>
+
+ <p> Cute story and characters cant wait for Roger's and Keith's story ....just make them longer and keep the same formula </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute hot and sweet .......... </p>
+
+
+<h2> review.date </h2>
+  12-21-2013  
+<h2> review.text </h2>
+
+ <p> I liked this short story very much read in a couple of hours in between cooking breakfast.. So u can tell it was hard to put down.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good short book </p>
+
+
+<h2> review.date </h2>
+  11-23-2013  
+<h2> review.text </h2>
+
+ <p> This was a wonderful novella that kept me interested to the end.  I would definitely read works from this author author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice read </p>
+
+
+<h2> review.date </h2>
+  01-04-2014  
+<h2> review.text </h2>
+
+ <p> I love yhe book it was very interesting book. Ioved every minute of it. It gives so much of todY in it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fortu weeks excellent </p>
+
+
+<h2> review.date </h2>
+  01-04-2014  
+<h2> review.text </h2>
+
+ <p> I so love a good love story and ur 40 weeks or should we say 37 weeks ;) was soooo sweet !! I have read some of your books and like your writing and will read more so keep on writing more Love Stories... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So Sweet </p>
+
+
+<h2> review.date </h2>
+  11-18-2013  
+<h2> review.text </h2>
+
+ <p> Really a sweet love story,  found a new author, ready to read more from her. Loved the BWWM storyline my absolute favorite give this book 10 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved this book </p>
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> This book had me angry, crying, and sitting on pins and needles for the truth. I just wish the book was longer to really give the characters more time to go through their emotions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good But Storyline Could Have Been Longer </p>
+
+
+<h2> review.date </h2>
+  12-10-2013  
+<h2> review.text </h2>
+
+ <p> I like seeing couples come together to discuss their decisions about their family and their life due to unexpected changes. Kayla and James show that they are going to toughen it out even with stumbling blocks. Good story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good story </p>
+
+
+<h2> review.date </h2>
+  03-21-2014  
+<h2> review.text </h2>
+
+ <p> James and Kayla were sweet.  I loved how determine they were to be together.  This was a short, good read. A HEA. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Great Read </p>
+
+
+<h2> review.date </h2>
+  12-03-2013  
+<h2> review.text </h2>
+
+ <p> This book was a nice no complications book.Nicely written  with few printing errors. I really enjoyed Forty Weeks I would recommend it </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SHIRLEY </p>
+
+
+<h2> review.date </h2>
+  01-10-2014  
+<h2> review.text </h2>
+
+ <p> This book had a lot of potential.  As I read, I felt as if so much was missing that could have added to the depth of this story. The author did a lot of translating instead of letting the plot unfold. It started off really well and then it was rushed. Really lazy writing. This was especially evident in the end.  I don't understand how this book got five stars.  Then again I'm just spoiled from reading books from other writers, such Sienna Minx. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lacks Depth, Rushed </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00008YOLV <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-06-2004  
+<h2> review.text </h2>
+
+ <p> In yet another "versus" movie, Hollywood chooses a match-up that is not unlike the others that we have seen in the cinema lately.  This time it is between two species of the snake world, boas and pythons.An enormous python escapes from a truck delivering it to be hunted and captured for money.  After terrorizing the sewers of Philadelphia, the FBI enlists the aid of two fellow scientists to remedy the situation.  One has been harboring an enormous boa for years, while the other one has beautiful "implants".  Together they work to bring this slithering beast of evil down.  Little do they know they are not the only ones hot on the trail.  A big game animal hunter named Roddick has recruited some of the best hunters in the world to bring this beast down.  The battle royale begins as the lines between man vs. nature, man vs. machine, and man vs. man are blurred and new boundaries are set.  Who will reign supreme?  Find out this SUNDAY, SUNDAY, SUNDAY!!Impressive graphics and an excellent balance between action and gore are what keep this film afloat.  This straight to DVD release should have most people laughing, but oddly kept my attention until the very end.  The story is flawed, the characters are unbelievable, and the script is amateurish (see constant remarks about "implants" and Monica), but there is something to be said about using good CGI.  This is no LOTR, but for a straight to DVD release I was impressed.  Director David Flores has done an exceptional job of giving us exactly what we came looking for with this film.  We wanted action, some nudity, and tons of snakes, and he successfully handed them to us on a silver platter.  If you do not walk into this film with high expectations, you will probably leave impressed.Grade:  **  out of **** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Battle continues this SUNDAY SUNDAY SUNDAY!! </p>
+
+
+<h2> review.date </h2>
+  08-19-2013  
+<h2> review.text </h2>
+
+ <p> A big game hunt goes dangerously wrong when a monster-python (the green snake) escapes just outside the city of Philadelphia. The CIA sends out its very own monster-boa (the red snake) to eliminate the threat, and the stage is set for an epic battle of brawn versus brawn as the ophidians battle for world supremacy in the Philly metro. Or at least for the right to munch on a big game hunter. And yes, I'm simplifying the plot somewhat...Otherwise, I noticed the preponderance of nude and semi-nude females in this production, suggesting it's made for 16-year old boys. Other monster flicks actually show more monsters than babes! I presume those are oriented to 12-year old boys. I admit I prefer such movies, suggesting that my mental age on a Friday night might be just about eleven and a half. So I'm afraid I can only give "Boa Versus Python" two stars. But then, the Delaware Valley aint what it used to be. Welcome to my barbecue. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Welcome to my barbecue </p>
+
+
+<h2> review.date </h2>
+  08-21-2004  
+<h2> review.text </h2>
+
+ <p> This is about a big game hunter who arranges to have a giant boa (or maybe it's the python) flown in so that he and his fellow hunters can have some fun going after it.  But it escapes and gets down into the sewer system.  Some government people just happen to have an equally huge python (or maybe it's the boa), so naturaly they decide to release the second snake to hunt down the first.  Sounds like a fine idea to me.Fairly average B movie.  I've only seen the edited for TV version, but it looked like the unedited version might have some T&A.;  The characters are average, acting was average (for a B movie), the action was pretty slow.  The snakes are so obviously CGI that watching them fight is more like a video game than a movie.  Really no suspense, and when the snakes attack, since they're put in afterwards via computer animation, the actors don't really seem to react to them.  That pretty much kills any excitement.  The movie doesn't take itself very seriously, and it is somewhat funny in parts.  There's a pretty girl in it, which is the only reason I sat through the whole thing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fairly average B movie </p>
+
+
+<h2> review.date </h2>
+  11-23-2004  
+<h2> review.text </h2>
+
+ <p> I rented this movie because, well, uh...I have no idea why I rented this movie but I'm glad I did because Jaime Bergman is one of the most breathtakingly beautiful women I've ever seen in my life.  I actually made a "Oh!" sound when she came onscreen.  I haven't done that since the Nazi girl in ED GEIN.  Sadly, Jaime did not get naked.  How rude.Angel Boris, the other female lead, does get naked for about a minute and while she's nowhere near as hot as Jaime I'm still grateful.  Thank you.  Also at the very beginning of the movie there is a very good looking waitress.Oh yea there's also some snakes.  The CGI reptiles are pretty bad, but first time director David Flores manages to pull it off and make this film kinda fun thanks to a good sense of humor and some interesting characters including a  reporter who blames all of the destruction on Al Queda; a group of gung-ho hunters who kill a rabbit with a hand grenade and a cop who gets excited, slips and falls face first into a pile of guts.  "I think you have a piece of liver on your face."Worth watching as long as you remember not to expect too much from a movie called BOA VS. PYTHON. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Forget the snakes.  Check out the beautiful ladies! </p>
+
+
+<h2> review.date </h2>
+  06-02-2014  
+<h2> review.text </h2>
+
+ <p> The movie is a so so movie there is not as much action as I thought its weird how the FBI used a snake to take down another snake </p>
+
+
+<h2> review.summary </h2>
+
+ <p> so so movie </p>
+
+
+<h2> review.date </h2>
+  11-12-2004  
+<h2> review.text </h2>
+
+ <p> I'd like to think that someone got fired over this movie. The really amazing thing about Boa vs. Python is that it got made at all. Then, after it got made, it aired on the Sci-Fi Channel. Now, we all know that the Sci-Fi Channel is not exactly known for excellence in programming, but this is an all time low.The fact that someone pitched Boa vs. Python as a concept, and someone else said, "Yeah! Great!" is just plain frightening. I almost can't blame the writer, the director, the actors, or the terrible CGFX team.They did what they had to do. The worst thing about Boa vs. Python is that it came into existence at all. 2 out of 10 stars. One for the python, one for the boa. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's scary... that this got made </p>
+
+
+<h2> review.date </h2>
+  08-02-2006  
+<h2> review.text </h2>
+
+ <p> BOA VS PYTHON is a poorly made movie with bad effects, horrid acting, and crap diolague. But may God have mercy on my soul, I had a stupid grin on my face almost the entire runtime.A giant python escapes from a cargo truck, so this rich buttmunch and a hunting team go after it. See, hunting and killing the snake was always their intention. But the government has other plans, sending a giant boa constrictor after the python to kill it. Of course, the whole situation gets out of hand soon enough.The snakes never actually fight until the last 10 minutes, but the showdown is kind of cool, altough breif. If you like crappy monster movies, rent BOA VS PYTHON. You may or may not enjoy yourself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> God help me, I enjoyed this. </p>
+
+
+<h2> review.date </h2>
+  12-19-2005  
+<h2> review.text </h2>
+
+ <p> The thing that struck me as unique about this movie was the roll of Agent Sharpe played by Kirk Woller.  Usually the guy in charge refuses to believe what is happening and by the time he realizes their impending doom, it's too late and the carnage begins.  Within about 5 seconds of hearing that 2 deaths have occurred at a local water treatment plant (and with the aid of a just discovered giant scale as the only clue) Agent Sharpe immediately solves the mystery then spits out a detailed 47 step plan of action from shutting down the plant and limiting access to the area to acquiring the services of a nearby government issue gigantic Boa Constrictor to hunt for the rogue Python. Has this guy been waiting his whole life for this scenario to occur?  You're thinking "No way! Never in a million years does this happen".  His plan has more holes than Sonny Corleone's car at a New Jersey ticket booth but to spit that plan out on the fly was quite impressive, totally unbelievable but impressive.  There was some hope for this movie...I will also praise the explanation behind the giant Boa existing in the lab.  It seems pretty believable in the realm of Sci-Fi B-movies that David Hewlett's character would be trying to create a universal snake anti-venom by feeding small poisonous snakes to his giant Boa Constrictor and using it's blood as anti-venom. Nicely done.And the special giant snake effects were not totally atrocious. I'd prefer to see the blatant use of a man in a rubber suit in full daylight (see "Alien 3000") which always gets me into the mood for a good laugher of a bad movie but the effects were passable.But of course other than that, the movie falls apart with plot holes and stereotypical character flaws and into the schlock we expect.  The assumption that the Boa can do anything to stop the Python is lame not to mention that there are about 1,000 better ways to catch or kill the snake than to compound the problem by releasing another one.  And how was the lab isolated Boa pregnant in the first place? Hello? Give me something here. Don't tell my Mr. Python is the father in record time. O.K. fine, set up the sequel if you must. Not that this movie really ends in the first place. The opening credit sound track sounds like something more appropriate for an Atari 2600 video game circa 1979. Da da da da, da da da da, digitally replicated over and over again ad nauseam.Angel Boris does her award winning plot independent nude scene which is not a complaint by any stretch of the imagination.  She's hot and I rented the movie because of her.  I remember her from "General Hospital", "Las Vegas" and "Fear Factor" and she reminds me of the typical actress struggling in Hollywood using her assets to get parts until he big break.  Actually, she does seem to be steadily improving, she probably has the most believable part in the movie and is afforded the luxury of playing it straight, unlike most of the painfully over the top portrayals here. The father and son hunting team is more painful than the sound track!Final ratings: ***-Angel Boris , ***1/2-Boa (Immaculate conception sub plot), **-Python (At least he kills almost everyone in the movie!): Summary: Just not as much fun as I had hoped. Needed to have had much more gore and some over the top carnage to overlook the plot flaws. Definitely needed more humor for this genre. Maybe more skin as well. Overall *** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just not as much fun as I had hoped... </p>
+
+
+<h2> review.date </h2>
+  09-11-2004  
+<h2> review.text </h2>
+
+ <p> Although they make a small reference to Greg Larson from Python and Python II, they were unable to take it farther because Boa vs. Python is a Columbiua Tri-Star release and Pythons are 20th Century Fox, so the film really has no connection, not even to Boa, which is distributed by Columbia Tri-Star as well.  Since Python II and Boa were released in 2002 they're CG effects are a little outdated.  Ok, alot outdated.  Now it's 2004 and the snakes are a little more clearly generated, but they're not up to par with modern effects.  The story is a little different from the other three entries in the series, but nothing too surprising.  Nudity, blood, violence, and bad language are all prominent in the film, so keep it away from small kids.  It's not the best, and the ending is pretty abrupt.  The movie is technologically better than the other three movies, but it's not a better movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boa meets Python </p>
+
+
+<h2> review.date </h2>
+  03-01-2005  
+<h2> review.text </h2>
+
+ <p> When the scientist says that the main point of the movie is the 'stupidest idea he's ever heard'. You know you're in for a treat.A multi-millionaire sets up a hunt for big game hunters. They are after a 80 foot python. However the snake escapes before the hunt can begin. They go after it anyway. The feds however have a brilliant plan. They find a female scientist is Miami (with the biggest nostrils I've ever scene). She dives with dolphins and can track them by implanting stuff in their heads. They take her to a snake scientist who has grwon a 100 foot boa constrictor (you're tax dollars hard at work). It seems he has been trying to make an all purpose anti-venom by feeding the giant boa poisonous snakes (???)So they implant the tracking device in the boa and send it out to figh the python before it kills anymore innocent civilians. No one bothered to mention that the boa was female (Betty) and the python was male. So when the meet they don't fight but fornicate (ha ha ha!!!)The boa finally fights the python only after it ate her eggs.Anyway the big game hunters (back to them) are a motley crew indeed and are all laid to waste by the snakes in one way or another. The red-head in the fatigues is beautiful and has a great bath tub scene. Full nudity is always a plus in films like these. The millionaire is ripped in half while using a flame thrower in a techno bar. Yes you read that right. You'll have to watch the movie to see how that happens.All in all a fun film if you don't take it too seriously. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best movie of the year </p>
+
+
+<h2> review.date </h2>
+  11-22-2004  
+<h2> review.text </h2>
+
+ <p> This is an odd film that cashes in on a number of themes.  We start out with a wrestling match between to masked wrestlers (Python and Boa).  Then we have lots of nudity (a continuing theme).  Then we have the bored hunters looking for a new quarry.  We even have the secretive government agents who know more than they say and are not surprised by anything.  Oh, and there are giant snakes.  While the python is related to the Python movies, this is a different boa (the original was prehistoric).Rich hunter procures the python to be used as a quarry for typical hunter (even included the obligatory good-ole-boy).  The Python gets away and the hunt moves to a new location, a water and power station.  The Feds move in to seal off the facility and stop the creature.  We then add a farm-raised giant boa that will be cybernetically enhanced to catch the python.  More sex, nudity and gunplay with some romance (reptilian and mammalian) and the film eventually moves to a conclusion as all groups come together.Much of the movie does not make a whole lot of sense.  First we have the warrior chick who hates snakes.  Why does she have a snake tattooed along her spine?  We have the scientist how has spent years to develop a universal antitoxin.  He says that if his work saves just one life it will all be worth it.  Bu he immediately moves to protect the python even though it keeps killing people.  Why the cybernetics?  A simple camera strapped on the snakes head would have done just as well.  If the sensors are keyed to the cybernetics why do they detect the python and hunters?  Why are the lone-wolf hunters expected to work as a team?  A contest would be more in there personality profiles?  What happened to the FBI?  They just disappeared to let the main group solve all of the problems.Still, with a good bowl of fresh popcorn and the right time, this can be quite fun to watch.  There is more nudity in this one than is included in any five other similar films.  The scene with the python and the lovers in the station wagon is priceless and thoroughly laugh-inducing.  Its got plenty of action, nudity, guns, snakes, and plot devices but lacks in script, plot, and sense.  Oh, the cover is bogus.  No street scenes or battles with helicopters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wrestlers, Guns, Nudity and Giant Snakes </p>
+
+
+<h2> review.date </h2>
+  10-25-2004  
+<h2> review.text </h2>
+
+ <p> Hey, for a straight to video release, this one ain't so bad.  The obvious CGI effects are pretty darned good; the snakes looked part of the action most of the time.  In this one, a musclebound big game hunter sneaks a huge python (where he got it, no one bothers to tell us) into the country in order to provide some wealthy businessmen a rare hunting opportunity.  Of course, the snake escapes and heads for the sewer system of Philadelphia (of all places).  FBI Honcho (played glumly if adequately by Kirk B. R. Woller) contacts a pretty biologist (Playboy's Jaime Bergman) who has been working with dolphins to use her "implants" on a giant boa being harvested by scholarly and almost hunky David Hewlett.  They use these implants to track the python through the boa's eyes.  Mysteriously enough, the darned machine doesn't work very well (there goes government spending again), so the good guys don't know that the bad guys (the hunters) are also on the prowl for the snake(s).  Adam Kendrick as Broddick, the head nasty, chews up both the scenery and his cigars, and throws his considerable weight around, alas to no avail.Of all the snake movies, and we've had tons, this one isn't the best, but it's certainly not the worst (see SSSSSS...).  Anyway, fans of this type of movie shouldn't be too disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ROCKIN REPTILES </p>
+
+
+<h2> review.date </h2>
+  04-26-2009  
+<h2> review.text </h2>
+
+ <p> The little plot of some rich smug millionaire who has a huge Python brought back to the USA to hunt for a selected group of clientele escapes it's holding cell on the back of a rig and the government hire Stargate: Atlantis hero to use his humongous Boa he just so happened to have to track down the python.The first half of the movie seemed to be going ok, then useless rubbish is thrown it, un-needed, eye rolling little love scenes between the hero and leading lady, and trigger happy morons with guns... and you basically have a movie you end up skipping scenes and turning it off as it draws out into nothingness.It's hardly a Boa VS Python movie either, sure they end up fighting at the end, but the whole stupid movie focus around the people hunting it and there boring little speeches to each other.If you really must see 100 foot long, fake as can be, looking snakes strangling people, then go ahead and see it, but I advise you to try and rent or download this before purchasing, as it's most likely to be something you will never want to see ever again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzzzz </p>
+
+
+<h2> review.date </h2>
+  03-12-2006  
+<h2> review.text </h2>
+
+ <p> I've noticed my reviews are, for the most part, either 1 or 5 star reviews. Once again, I have encountered a product that cannot logically be given anything higher than 1 star. I rented Boa vs. Python expecting to witness the most juvenile and sophomoric movie ever. What I witnessed was the most juvenile and sophomoric movie ever, and it wasn't even fun to watch in some prehistoric level of my brain. It was painful and damaging, like trudging through infected syringes.Okay, this is a total B movie. Plot holes are expected. (Like someone half-way opening the cage that's holding a giant snake to tranquilize it with a tiny pistol. Who could have ever expected a snakes' tail to fit through an enormous opening?) Bad special effects are expected. (The snakes seem to glow in dark, subterranean environments. Excellent.) Archetypical characters are expected. (Silent Indian guy with arrows? Check. Rambo guy with a flamethrower? Check. Nondescript female lead? Check.)... But this movie is a grand new level of DIRKA DIRKA. This is a film that promises two giant snakes fighting in a city, with exploding helicopters; as proudly displayed on the cover. What we have is a movie featuring a girl getting orally pleasured by a giant snake, a snake that later fights another giant snake in some dark tunnel for less than a minute. What the hell is this? It's not funny or the least bit entertaining. Recommended if you want to see how low the bar can go.- Thus says the Pellington </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ... </p>
+
+
+<h2> review.date </h2>
+  02-18-2006  
+<h2> review.text </h2>
+
+ <p> First off let me say that I'm a big fan of the big snake movies, but this movie was kind of dissapointing. One reason, the CG was odd, the snakes looked cartoonish with their huge bulgy eyes and their bright color. Another reason was the corny taglines the character Broddick kept saying like, "We're in Python country." and, "How do you like you meat?" Last, the python looked no different from the boa other than their color. If you, like me, are a fan of snake movies than you might want to give this movie a chance, but if you aren't, then forget that you ever even heard about this movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Snake Feature </p>
+
+
+<h2> review.date </h2>
+  03-06-2013  
+<h2> review.text </h2>
+
+ <p> Was A Tipical Sci-fi Movie It Was Really Good To Me, Reccomend For People ho LikeHorror Dealing With Snakes. Not For Children Has A Few THINGS tHEY sHOULD nOT sEE. Sincerly Mr. Stone </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boa VS. PYTHON </p>
+
+
+<h2> review.date </h2>
+  10-22-2008  
+<h2> review.text </h2>
+
+ <p> If your looking for another fake expensive science fiction movie with bad actors and good special effects about a monster/monsters who destroy the city of Philadelphia (like in "Python" & the 1998 version of "Godzilla") then this isn't really your movie.  So don't be fooled by the picture on the front cover of this movie.  I can tell you right now that the only time you see the giant Reticulicated Python (dark snake on cover) & Scarlet Queen Boa (red snake on cover) ever fight is at the very end of the movie.  The rest of the time all the giant snakes ever really do is mostly slither and eat some people.  Also do not be fooled by the helicopter shooting a missal at the snakes.  That never happens in the movie, in fact when I saw the movie no air craft even got close to the snakes and there were no helicopters in the movie.But all in all I'd honestly say this movie was worth the $6 I payed for it at the Mansfield Covered Bridge festival. And I don't even really know why I'm saying this.  And all in all it wasn't the worst movie about giant snakes I've ever seen (Anacondas was far worst).So here's how I would grade the movie-Actors-C-Monsters-A--Plot-B-Special effects-C- </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Thust Me, It's not what you think </p>
+
+
+<h2> review.date </h2>
+  07-04-2007  
+<h2> review.text </h2>
+
+ <p> Not a bad Sci-Fi Channel Film. They never release a big hit and maybe never will. Boa Vs Python is a merging of the Boa and Python Films and it does and OK job with an original script and mediocre acting. the best part is the bad characters Girlfriend, can you say "Hot" and david hewlett(stargate atlantis). The FX are better than most of thier films and the ending is a little dry. but OK. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty Cool </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

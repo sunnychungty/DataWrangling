@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B001CLMY50 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-13-2010  
+<h2> review.text </h2>
+
+ <p> These were used to build a pc for a client.The pc has been going strong for 9 months so far.In use almost 24/7/365 and after 9 months, everything is doing fine.With a PC chassis that has a clear side window, co-workers walk by and occasionally I get a comment like,"wow, looks cool"The novelty of the LEDs blinking all the time got old after a week.They do serve a function though. It shows that your memory module is "probably" working ok and is normal/functional.I'd buy these again.I would not pay extra for a dimm that blinks; if they were on sale at the same price [or less] than a comparable dimm, I'd buy it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 9 month[+] and all is well. Constantly blinking LEDs got old after 1st week </p>
+
+
+<h2> review.date </h2>
+  08-01-2011  
+<h2> review.text </h2>
+
+ <p> The RAM came packaged in a box with the bubble pockets and it was in its original plastic shell packaging like you'd see at the store.Let me just say to the manufacturer a hearty Thank You for finally making these clamshell packages user friendly by perforating the back for easy opening.I had the RAM installed in minutes and the computer up and running a few minutes later with a quick romp through BIOS to set the required numbers. You can find that information at the Crucial web site. I highly recommend going there before you buy. They have a very cool utility that you can run that will tell you exactly what RAM is compatible with your motherboard. They guarantee compatibility. You also get to feel good about buying it cheaper at Amazon than their site :pOnce you've identified the correct RAM for your computer be very careful that you are actually purchasing the right RAM here. Amazon's search engine returns near misses. So you may end up on a page that looks correct but the mfg number is off by one or two characters.I've had the RAM for about 5 weeks now and no problem. Well, I have had problems but not RAM related I'm happy to say. I like Crucial's reputation for handling RMAs too.8 Gig of RAM woohoo! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So Far So Good... </p>
+
+
+<h2> review.date </h2>
+  07-31-2010  
+<h2> review.text </h2>
+
+ <p> Installed these in about 10 minutes and my PC booted up within seconds, with 8GB of total ram. Perfect! Couldn't be happier! Definitely worth the money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brilliant </p>
+
+
+<h2> review.date </h2>
+  08-30-2010  
+<h2> review.text </h2>
+
+ <p> The very first time I purchased Crucial Ballistix memory was about 4 years ago. Crucial was receiving excellent review from customers and testers and when I received my pair I was very happy. The memory was fast, solid and the guarantee behind was excellent.I had a power surge a couple of years ago and the memory was damaged. I contacted Crucial and after receiving the RMA number and sending them the damaged memory, I had a new pair within a week.Customer reviews online because a bit more negative because of the new line of Crucial Ballistix chips were claimed to have gone down in quality significantly.When I received the replacement chips from Crucial I was expecting problems. After I installed them, they ran just fine and worked perfectly ever since. Keep in mind that I didn't push them or over-clock them in any way. These chips are considered "performance" memory, so they should work under some stress.Extreme over-clockers may experience problems with the "new" line of Crucial Ballistix or they might not. I had great experience with their memory and I would recommend this product, specially for people who don't do over-clocking.This product also holds a great guarantee and good customer service. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great brand with a recent bad streak. </p>
+
+
+<h2> review.date </h2>
+  03-20-2010  
+<h2> review.text </h2>
+
+ <p> This worked great when I first installed it five months ago.  The system performed well and was stable for the first few months.  Over the last couple of months, however, I started seeing an occasional random program crash.  No obvious cause so I assumed they were simply program bugs.This got progressively worse until about a week ago when I got a Windows crash logged to a memory error.  I reseated the memory to be sure, but things have rapidly gone down hill.  I found the system down this morning and it wouldn't boot.  I consistently got blue screens a few seconds into loading Windows.  Safe mode didn't help at all.In digging around on the net, I learned this has been a common problem with this Ballistix memory.  It works at first but begins to fail after three to nine months.  I replaced this memory with a couple of extra sticks of DDR2 memory I had on hand.  The system booted without problem and has been stable.I would expect these kinds of problems from some no-name bargain RAM.  I certainly did not expect it from premium performance memory from a top-tier brand like Crucial.  Very disappointing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Died after five months </p>
+
+
+<h2> review.date </h2>
+  08-22-2011  
+<h2> review.text </h2>
+
+ <p> Initially I had memory and system instability issues with this RAM. After doing some toubleshooting online I found that most motherboards power their RAM @ 1.8V and that this RAM is unstable at slower speeds. This is high performance RAM and works best when properly powered and properly timed.Since the RAM worked so well after fixing the power and timings I ordered another 4GB from Amazon and man this PC screams. My apps load faster and I can multitask with various apps and browsers open at the same time without putting my PC under too much load.Pays for itself in my increased productivity! 5* Product After Properly Configured in BIOS. I have a feeling some of these low rated Amazon reviews suffered from the same issues I did initially due to improperly configured PCs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works Best @ 2.0V </p>
+
+
+<h2> review.date </h2>
+  12-30-2010  
+<h2> review.text </h2>
+
+ <p> I do have to take some of the blame for this, I have replaced 3 systems and endured endless random bluescreens all in a prusuite of a stable computer. This ram works fast and has high ratings.  Problem is not all test can find the defects in this ram. I finally used  Burn in test V6 and it found the problem.  This ram will work and allow you to function just like I'm doing now but and make it dang hard to track down the endless computer problems to ram.  I have two Ballistix Tracers "yellow" the first one passed with not problems.  The second one has error everywhere but its funny because I can still use the computer.  I only found the problem after setting up windows again from an image and I happend to use 4 year old Dell memory for the set up. I placed my ballistix back in the ram slot reboot and my blue scree comes again.  After many variants of hardware and software it does come down to the ram and I finally have the data to back it up. fast ram but it fails in sad way. Didn't spell check. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fast and Falure </p>
+
+
+<h2> review.date </h2>
+  01-09-2011  
+<h2> review.text </h2>
+
+ <p> I have been reading about this modual, for about 5 months now, After reading reviews, one of them toms hardware.com, like anything man made, there are good points and there are bad ones, but the good out weighed the bad, a hundred fold, So i ordered them, I wasnt supprised when i installed them, imediatly after i booted up i noticed the change in speed and, bootup time, also the dreaded hourglass wait, is now a thing of the past, as long as i keep my PC free of spyware, trojans,adware, etc, im fine. When my system, slows down, i no i just need to run my, super antispy, and anti virus, clean the registry, and defragment.  These 4 steps alone will boost your performance two fold. Then im up and running fast again, i would recomend this memory kit 100% Ronn King </p>
+
+
+<h2> review.summary </h2>
+
+ <p> faster than before </p>
+
+
+<h2> review.date </h2>
+  06-29-2010  
+<h2> review.text </h2>
+
+ <p> Sticks are not bad. I cannot tell a difference in system performance, but maybe it maybe a bottleneck on some other piece of hardware. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad </p>
+
+
+<h2> review.date </h2>
+  10-03-2010  
+<h2> review.text </h2>
+
+ <p> This will be short and sweet; the product was delivered promptly (actually early), was exactly as described, the price was right, worked exactly as specified.  There's not a thing that can be complained about. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ordering memory from Amazon </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

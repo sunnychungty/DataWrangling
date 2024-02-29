@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000HBKZ52 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-08-2007  
+<h2> review.text </h2>
+
+ <p> I love Kristin McGee's style of yoga and this is Kristin at her very best.I have only had this DVD for a couple of months but it is already my most used DVD. I own many yoga DVDs yet I keep coming back to this one. Why? Because it gives me a great workout, a good stretch and also makes me feel very relaxed afterwards. Because it's fun and I never check the time (like I do with many other DVDs). Because Kristin's instruction and form are superb. Because it's challenging but doable. Because the class starts as soon as you put the DVD in. Because the music's gorgeous. Because I can see and feel the results to all parts of my body, especially my arms and legs. Because I am now fit.Thank you Kristin for the perfect power yoga workout. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simply the best! </p>
+
+
+<h2> review.date </h2>
+  11-12-2013  
+<h2> review.text </h2>
+
+ <p> I had bought Kristen McGee's yoga app for my IPad and enjoyed the short practices within it, so went searching for a DVD with a longer practice, and based on the comments on this site, I decided to try this one.  I am glad I did.  The practice is about 45 minutes (with an option to do only about the first half).  The practice is made up of mostly basic poses, but with a few tweaks, and put together in a slightly unconventional way, which I enjoy and which keeps me engaged.  The biggest challenge comes from doing several poses in a row on the same leg which would not be difficult in themselves, but which together really take me to the edge of my strength.  I feel challenged but not tortured, and at the end of the practice, I feel focused and relaxed, and like I really accomplished something.  I also quite like Kristen's voice which is calming, but not that strange breathy tone some yoga instructors affect. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for balance and strength </p>
+
+
+<h2> review.date </h2>
+  09-10-2012  
+<h2> review.text </h2>
+
+ <p> I think Kristin is great, she seems so honestly happy and motivating that I find I push myself farther just based on her encouragement. And this is a DVD to be challenged by - I love all the postures and the flow of it too. The only thing I wish it included were a couple of back bends. I want to buy the MTV yoga DVDs now just because I enjoy learning from Kristin so much :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> She's so encouraging! </p>
+
+
+<h2> review.date </h2>
+  01-15-2007  
+<h2> review.text </h2>
+
+ <p> Kristen McGee is so likable. She has a peacecful, yet strong presence on this DVD. She goes through poses quite quickly & gives a good all over workout. I liked the piano music in back. Big thumbs up! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great DVD for a great price! </p>
+
+
+<h2> review.date </h2>
+  09-16-2012  
+<h2> review.text </h2>
+
+ <p> I first learned about Kristin McGee through Bethanny Frankel's DVD The Skinnygirl Workout. I really liked her approach in that, looked to see what other DVDs she has out there and found this. OMG what a workout! I would say this is the Skinnygirl workout 2.0! I was definately sweating within minutes as she does a lot of holds. with some flow here and there. I just really like her approach as well as it's tough but for sure accessable. She mixes up traditional with the non traaditional offering a nice balance. Also a lot of DVDs out there have a new age kind of feel to it and to be honest they lose my interest. You will not be bored at all with her DVDs. She is motivating, down to earth and teaches in a very approachable manner. I will add on to this in about 3-4 weeks and report on my results. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Be Prepared to Sweat!!! </p>
+
+
+<h2> review.date </h2>
+  12-09-2007  
+<h2> review.text </h2>
+
+ <p> I wasn't going to bother reviewing this dvd as there are so many glowing reviews but then I noticed the latest review which is totally unfair - 2 stars, just because the reviewer doesn't like a smiling instructor.  So I had to balance it out and give my point of view, which is that this is one of my favourite power yoga workouts, and I have most of the well-known instructors - Baptiste, Kest, Yee, Rea, you name it.  It's great because it's around 45 minutes so easier to fit in than the average hour to hour and a half.  It's also great because it is not as fast paced as some, which gives one more of a chance to work into the poses.  It's also great because it's divided into segments, and the last one is a fab series of stretch floor poses which I also use after a weight workout.  It's also great because much as she is an excellent instructor and obviously very fit and flexible, she is very real and encouraging - sometimes my Shiva DVDs, although beautiful, are not really inspiring but more intimidating.....Last but not least, I have a bunch of DVDs I don't use because the instructors are too chirpy for me - this is SO not one of them! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great workout </p>
+
+
+<h2> review.date </h2>
+  08-20-2009  
+<h2> review.text </h2>
+
+ <p> I have gone to do yoga at my gym (Lifetime Fitness) for over a year now and they don't mess around with power yoga.  This routine was very much the same as a routine I'd expect at the gym, very POWER and definitely NOT for beginners.  I LOVED this dvd, will use it over and over! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome POWER YOGA </p>
+
+
+<h2> review.date </h2>
+  03-19-2007  
+<h2> review.text </h2>
+
+ <p> While I enjoy power yoga very much and I enjoy this DVD as one of several such in my collection, I would prefer a little more warm-up before going into the more strenuous poses. I like doing yoga first thing in the morning, and I have to take some time waking up my body before doing this DVD, as opposed to Rodney Yee's power yoga DVD, which begins more slowly. Still, except for that one complaint, I highly recommend this workout. McGee's voice is calm, never overwhelming, and her cues are right on time, well enough that after a couple of sessions, I can essentially do the whole thing without having to look up at the TV screen. It's a challenging program, but a good one, too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It'll have you sweating from the start! </p>
+
+
+<h2> review.date </h2>
+  11-05-2006  
+<h2> review.text </h2>
+
+ <p> I do not have any of the MTV releases, but there was such great buzz about the quality of McGee's instruction that I purchased this DVD without much of a preview ahead of time- a rarity for me.  She certainly lives up to her reputation- in 47 minutes she delivers a sweaty, balancing, stretchy and finally relaxing sequence of postures.The longest part is the standing sequence at the beginning.  She has a nice leg stretch where you hook your big toe and "pointer" toe around your opposite ankle when you're in a one-legged dog (which she uses a few of).  Hard to describe, but it feels great on the feet and legs.  She does her share of Sun Salutations, but they start off more slowly than usual.  She also has some great balancing and twising postures in addition to the usual Warriors.  Some of the balancing postures are very challenging- Reverse Half Moon and Crow, for example- but she inspires you to give you her best shot.The next segment focuses on some classic "stretchy" postures, including a nice Pigeon flow.  On preview, some of what she's doing may look a little out of reach, but by the time you get to the floor, you've been so thoroughly warmed up that you'll probably surprise yourself with what you're able to do.McGee designed a great sequence.  In addition, she is pleasant, non-judgmental, humorous and matter-of-fact.  She's here to give you a good workout and maybe find a little bit of serenity, but not necessarily help you to achieve nirvana.  Overall, a fantastic practice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent practice and teacher </p>
+
+
+<h2> review.date </h2>
+  08-27-2007  
+<h2> review.text </h2>
+
+ <p> I can barely keep up with her..well, I can't really.  I just hang on, trying to do as much of the (pretty advanced) moves as possible.  No more than once a week for me and Kristin. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not for the weak </p>
+
+
+<h2> review.date </h2>
+  10-03-2008  
+<h2> review.text </h2>
+
+ <p> This girl will kick your butt with a smile on her face! I love that there is a clear spot to bail out if you are limited on time, or you can continue for a great full-body workout. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great workout </p>
+
+
+<h2> review.date </h2>
+  04-13-2007  
+<h2> review.text </h2>
+
+ <p> This was a good workout, and some pose series did kill my buns and thighs for a bit, and all the downward dogs made my shoulders tired after a while.  But it could have been harder; I was looking for something a bit tougher. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, not amazing </p>
+
+
+<h2> review.date </h2>
+  06-06-2007  
+<h2> review.text </h2>
+
+ <p> Kristin McGee (also of the MTV workout series) produces a solid power yoga workout.  I would rate this as an advanced beginner to intermediate workout - not as hard as Yee's advanced yoga or some of the sequences on Yoga Shakti but more advanced than the original MTV yoga.  She includes most of the normal power vinyasa poses- expect to do alot of the plank, upward dog, downward dog sequence- after all, power yoga is derived from Ashtanga! She throws in some more advanced poses like warrior 3, moon, and crow.  She also does revolved moon, which is rarely seen in videos.  Most of the concentration is on the sun salution and standing poses.  This workout does not do much backbending.Overall, this is a solid power yoga workout.  The sequence flows nicely, the setting is relaxing, and the production is nice (and minimal). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid power yoga workout </p>
+
+
+<h2> review.date </h2>
+  06-27-2009  
+<h2> review.text </h2>
+
+ <p> I absolutely love this DVD! I have had it for a couple of years now, and I still do it three times a week. It has made me stronger, more flexible, and it also just makes me feel great.The DVD starts with a kind of warm-up stretch, moves into the real "power" segment--which, yes, does involve many chatarungas, so if you have bad wrists it may not be for you, but I love how they tone my arms!--and then goes into some more advanced poses for toning and flexibility.When I first got this DVD, I was pretty much a yoga "virgin." I've always worked on stretching, but I had no idea what any of the poses were or anything. And I did have a hard time getting through the DVD the first few times (both in terms of "what the heck are we doing?!" and in terms of "my arms are going to give," since I was also not very strong back then). Now, I can pretty easily get through it, but I've never gotten bored with it at all, and it has never, ever not made me sweat a bit and feel some pain the next day (mainly in the backs of my thighs from the stretching). I love that about this DVD. So many exercise DVDs "get old" and end up sitting on the shelf. This one is definitely a keeper. I still LOVE doing it.The other thing I wanted to mention is that I really like Kristin McGee in this. A lot of yoga instructors/DVDs come off as overly "hokey" or a little too "zen" for me. She is really positive, but she also is pleasant, not chirpy, and not zoned out.Basically, if you stick with it, even yoga "virgins" can do this, but it is still challenging enough for those who have been practicing a long time. I really can't recommend this DVD enough! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent for All Levels </p>
+
+
+<h2> review.date </h2>
+  01-11-2009  
+<h2> review.text </h2>
+
+ <p> I've been meaning to write a review on this because when I first bought this DVD I hated it.  First off I didn't expect to have Jessica Simpson as my teacher.  No offense to Kristin who seems genuinely sweet, but she's very smiley with perfectly coifed hair and make-up.  A little off-putting and all I could think was Jessica Simpson.  Okay, so getting past that and moving on to the workout itself - Oy.  Her cueing is quite off in several places.  This is my one huge pet peeve with all workouts.  The viewer cannot always be watching the screen when exercising.  We need good direction and cueing when moving around in poses.  To look away and find out that the teacher has already moved on to another pose when her verbal instruction indicates otherwise is a pain.  It's not difficult for good instructors to determine when the student ought to be cued, but for some reason they failed here and for me at least it does make a difference.  Anyone in Vinyasa will tell you the same.  Everyone wants to flow.  So buyer beware is all I'm saying. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good workout - Bad cueing </p>
+
+
+<h2> review.date </h2>
+  09-13-2008  
+<h2> review.text </h2>
+
+ <p> It's so exciting to me when you buy a dvd that you've never heard of, a teacher you've never heard of and it's AWESOME! I loved this dvd for several reasons... it's short, sweet, flows nicely AND it's great instruction. I might not suggest it for the very beginner yogi, but this is a great dvd!TAMARA'S YOGA FUSION </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great instructor! </p>
+
+
+<h2> review.date </h2>
+  08-19-2010  
+<h2> review.text </h2>
+
+ <p> This is a great power yoga session. Kristin does an excellent job. The routine flows well and has a good amount of variety. Beginners could do this routine and it would stretch them (pun). Intermediates will find this a great maintenance routine. The only criticism that could be said of the program is that it is a little light on specific backbends. I usually throw a few extra in at the end. Overall a good addition to your yoga DVD collection and well worth the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice DVD </p>
+
+
+<h2> review.date </h2>
+  04-13-2011  
+<h2> review.text </h2>
+
+ <p> I just did this DVD for the first time today.On my copy there is a choice to do the whole program or the short routine or the floor routine.  I chose the whole program.  It is about 35 minutes of standing poses then Kristin says for those of you continuing with me here we go and that is where she gets into the harder poses like half moon and crow.  These poses last less than 10 minutes then it is floor work which is mostly relaxing or restorative postures which are again less than 10 minutes.  These include seated forward bend and side bend with one leg out and one leg bent and pigeon both with leg stretched out long behind and then bent into armpit.  The last pose in this session is the relaxation or savasanna.The hardest poses are the half moon and crow and standing split and also some of the balancing work where you fold your hands into prayer behind your back and then lean over.  All in all her chose of poses is similar to that in Body By Bethenny for the standing series.  There are no wheel postures or shoulderstands in this practice.  There are also not a lot of poses which target the abs although she says you are always supposed to pull them in during all of the poses.Overall she is an absolutely great instructor.  She is very happy and encouraging and easy to understand and you definitely will get a good workout.  She does include some modifications.  There is easy music to listen to in the background.  There is no chanting.  I also have her MTV Yoga videos and this workout is definitely harder than the 1st MTV Yoga video but I would say about equal to the 2nd MTV  Power Yoga video although that video I didn't like as well because of the music and background and the way things were arranged.Overall this is highly recommended.  I can't wait to try her Yoga Tone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great dvd </p>
+
+
+<h2> review.date </h2>
+  12-29-2007  
+<h2> review.text </h2>
+
+ <p> I tried MTV yoga & power yoga w/Kristin McGree & didn't like it. I saw she did the poses beautifully & respected yoga, but the way MTV did it was hurried/stylish w/o substance. I gave this a shot after I saw a preview & am glad I did.She more relaxed here, she gives great cues & detailed as well for anyone who's already mastered the basics of yoga & know the poses by name. She gives the English names only, tells you when to inhale & exhale during sun salutations & holds the poses a decent amount of time, the only ones super fast were the sun salutations themselves. She gives reminder cues about posture, and uses words like "raise your heart up" so there is some spiritual to offset most of her basic body movement only cues w/o overing it for those who don't like the spiritual aspect (yoga IS spiritual though, but not religious.) The Country music annoyed me, especially the guitar twanging, but Kristin herself made up for it. This was hard, a little too repetitive with the sun salutations & warrior 1, (love chair), but once I cleared the first standing poses, it got easier & felt much more flexible & enjoyed the rest.Poses performed in each section:Intro - 1 minWarm-up - 1 min - mountain & basic stretch & standing fwd bend for a whileSun Salutations - 16 min - with held lunge, warrior 1 many times, 3 legged downward dog/dog split, spreading toes on opposite heal in down dog, dog split back/froth to knee to nose, adds chair later many times, she goes faster here, but holds chair & warrior 1 a decent amount of time. She does down dog a good amount of time as well, but you might need it.Standing Poses - 12 min - has more sun salutation here & there: warrior 1, arms behind back & then over head bent head to floor with legs in warrior 2, pyramid, warrior 3, SS, warrior 2, revolved warrior, triangle, side angle, standing wide legged fwd bendMore Standing Poses - 9 min - tree, prayer twist (side angle for more challenge & bound side angle for advanced), half moon, revolved half moon, standing split, standing fwd bend w/thumbs gripping toes & also done w/palms under, standing on toes balance to squat to crowSitting/Lying Poses - 7 min - sitting fwd bend, single leg fwd bend & side twist & reg bend, full pigeon, seated spinal twistRelaxation - 2 min w/her guiding your body to release & relaxPreview on youtube under "Kristin McGee Power Yoga" </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great strengthening session for advanced beginners/intermediates </p>
+
+
+<h2> review.date </h2>
+  10-10-2007  
+<h2> review.text </h2>
+
+ <p> In total just over 45 minutes long but with an option to stop at about 25 minutes.  KM starts with an unusual and gentle salutation flow, which loosens you up nicely.  You're lulled into thinking you've bought a really basic lesson until - before you realize something's changed - the tempo's notched up and you suddenly find that you've progressed to a slightly more vigorous and challenging vinyasa flow that really builds up some heat.  Then she moves to a cleverly choreographed series of standing poses that stretch, strengthen and twist you thoroughly. At that point she pauses and invites you to stop there if that's your limit for the day, or to finish the whole program with her.  The next 15 minutes include some more challenging balances before cooling down with some more twists and stretches on the floor.KM comes across as friendly and keen without being too gushy.  The instruction and cuing are good, but KM doesn't really explain the technicalities of placement and alignment for each pose so a complete beginner may not be quite sure which direction his/her hips/feet/shoulders/hands should be pointing/dropping/lifting/pushing/pulling. And there's no instruction at all on ujaii breathing (other than KM occasionally reminding you to "breathe in, breathe out").  A complete beginner could read up a little on these points before undertaking this DVD.  Not because they won't otherwise be able to do it, they will, but because these subtle points are what makes the difference in yoga.A relaxing, refreshing lesson in simple surroundings with clear sound and a likable instructor.  The flow is fun and varied, with interesting transitions.  The asanas are not too tough or advanced, but, as with any yoga practice, more experienced yogis will make it as challenging as preferred by focusing and putting body and mind into every moment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A down to earth, enthusiastic and sincere guide through a challenging beginner/intermediate yoga session. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

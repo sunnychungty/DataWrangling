@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1557883521 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-29-2010  
+<h2> review.text </h2>
+
+ <p> A great book to answer questions on how to throw a large party.  It's written for the normal person, not the professional caterer (which I am).  Aloni comes up with great tips and techniques - I still reference it and get ideas from the recipe section often.  I love her style and it's relieving to read something informal but still informative. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun and informative </p>
+
+
+<h2> review.date </h2>
+  11-01-2008  
+<h2> review.text </h2>
+
+ <p> A friend gave me this in advance of a series of big parties that I'm dealing in the next few months, including my daughter's wedding which we are debating catering ourselves. I found this very useful, with an onslaught of great tricks and tips. She covers small things such as considering table height of dishes (she recommends using cake stands) to recipes and why some foods simply don't lend themselves well to quantity cooking. Her writing style to the point, friendly and confident. In short, like someone I'd want to have cater an affair!I found this useful in planning a big event such as a wedding, too - you learn a lot about how caterers think,a and some fundamentals about pulling off a big event, whether you're planning to do it yourself or hire someone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really enjoyed this </p>
+
+
+<h2> review.date </h2>
+  04-10-2007  
+<h2> review.text </h2>
+
+ <p> Overall a good resource, especially for the price.Pros:-- excellent lists and tips for making lists-- good section on portions and quantities-- interesting menu ideas-- tips on how to find help and when to use hired help-- good decoration ideasCons:-- some of the recipes don't work-- most recipes serve 8 people.  If your party is for 50 it would be helpful to have recipes that serve more people or more specific information on how to scale the recipes (both those in her books and favorites from other sources).-- could use more sketches/diagrams on table settings.  The few she has are good.  Possible layouts for rooms and buffets would be helpful as well-- some information is obvious or redundant </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some good information, some problems </p>
+
+
+<h2> review.date </h2>
+  06-19-2008  
+<h2> review.text </h2>
+
+ <p> I'd read great things about this book and was hoping for more conversions and amounts of food to serve large groups. There is a nice table that includes some amounts,  but I was hoping for a more comprehensive list.It includes some interesting recipes, and it looks like it would be great if you're looking for the whole...how to do it and start from scratch. I already have recipes I want to use and so it wasn't exactly what I needed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Looks good, but was hoping for more </p>
+
+
+<h2> review.date </h2>
+  10-03-2007  
+<h2> review.text </h2>
+
+ <p> sent to africa to a friend who was doing catering.  was thanked over and again but am unsure of how useful it was. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> bought as gift </p>
+
+
+<h2> review.date </h2>
+  07-31-2005  
+<h2> review.text </h2>
+
+ <p> I enjoy cooking for 2 to over 20 people, and there can be so much to remember to have the entertaining/dining event turn out "just right".Perhaps you have been to some terrific parties, many "ok" ones, and rarely to some you would uh,  rather forget as well... so following this book's advice  will better ensure that your event is among the memorable fun events!This book has the commonsense keys to planning and carrying out all plans for the event, from scheduling the event, writing out clear and occasionally fun invitations, budgeting dollarwise for a simple picnic lunch or 7 course dinner's expense ($6 or $60 per person), budgeting for the right quantity of each food, whether it's lobster tails at a buffet, or ounces of turkey for a sit-down meal... it's all in here!Learn correct place settings, kitchen equipment to bring along, bar setups and liquor amounts, rental of extra chairs and tables, where to put the buffet for best effect, ah, it goes on and on!Did you remember to order flowers, when appropriate? Hire a bartender and or  a DJ for larger gatherings, so you can mingle with your guests? Freeze and make flavored ice cubes, instead of diluting drinks with melted water from regular ice?  Think of fun ways to "theme" decorate your event?"Timelines are included so everything is prepared and placed in order, and making having your list to follow ensures that nothing is forgotten until the end, because it was "hidden in the refrigerator", or "left in the shopping bag".Don't want to be embarassed halfway through the event by "Why didn't we think of that?"  Well, get this book, and profit from Nicole Aloni's many years of great parties, and learn from her rare bloopers.And, it has an ample number of over 150 "tried and true" recipes, as a bonus. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Be an Instant Catering Star! </p>
+
+
+<h2> review.date </h2>
+  04-18-2014  
+<h2> review.text </h2>
+
+ <p> &#34;The only time to eat diet food is while you're waiting for the steak to cook.&#34;-- Julia ChildEat, Pray, Love </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nothing would be more tiresome than eating and drinking, if God hadn't made them a pleasure as well as a necessity. </p>
+
+
+<h2> review.date </h2>
+  04-02-2001  
+<h2> review.text </h2>
+
+ <p> What a book!  Fun to read--not only is Nicole Aloni a witty and graceful writer, but with her background, she has hilarious and hair-raising tales to tell (Roast Duckling for Forty, anyone?)  Add to that the incredibly interesting and not horrendously complicated recipes (think Chicken with artichokes and Olives) and her great tricks that you might figure out for yourself after working as a caterer for 20 years--everything from what to keep in your pantry to how to keep drinks cold without watering them down with melting ice to party theme and decorating ideas--all this and a sense of humor!  A must read if you love to cook for friends. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun for People who cook for fun </p>
+
+
+<h2> review.date </h2>
+  04-30-2013  
+<h2> review.text </h2>
+
+ <p> This was a good book to add to my cookbook collection. It has many tips that I didn't know about. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Book! </p>
+
+
+<h2> review.date </h2>
+  03-07-2001  
+<h2> review.text </h2>
+
+ <p> Paris-trained Nicole Aloni offers help for every aspect of party planning from weddings to barbecues, from invitations to centerpieces to table settings and cooking utensils. Extensive menu plans include timelines and organizing suggestions, skill levels and presentation ideas. She provides advice on incorporating ready-made foods and utilizing outside services. There are lists and lists and tips on making your own lists.With all this detailed and inspiring advice, Aloni doesn't even get to the 150 recipes until halfway through the book. From hors d'ouevres to dessert, each recipe is prefaced with serving suggestions and symbols indicating various factors, including complexity, price, do-ahead, last minute prep and more. Many also offer variations and leftovers ideas.Aloni's world view includes substantial spectaculars like Carpaccio, Rack of Lamb with Tapenade, Tandoori Flavored Chicken, Shrimp Ravioli with Saffron Cream Sauce, Mushroom Strudel; familiar dishes like Baba Gannoush, Grilled Scallops with Bacon, Gravlax, Herb Garlic Crostini; lots of less familiar ideas like Porcini Broth with Creamy Polenta, Balinese Dumplings, Fish Tacos, and tweaked recipes like Chicken Liver Pate with Cherries and Pecans, Roast Tenderloin of Beef with Gorgonzola, Pear and Potato Gratin with Horseradish. There are side dishes - Spinach with Black Bean Sauce, Creamy Chard with Feta, several varieties of mashed potatoes and a short chapter of spectacular desserts: Coconut Mango Cr&egrave;me Brulee, Cappuccino Tart.Aloni likes to play with recipes and presentations and offers adventurous cooks the benefits of her experience. Her book is full of ideas to wow guests or wile away an afternoon as an armchair party-planner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Playful recipes, serious organization </p>
+
+
+<h2> review.date </h2>
+  03-18-2001  
+<h2> review.text </h2>
+
+ <p> The author's spent over twenty years catering major events: her experience lends to a guide which tells how to plan menus for both large and small gatherings, how to entertain under a variety of conditions, and how to create festive occasions. The party recipes here are packed with ideas and while dishes lack colorful photos, the advice is solid and the relatively simple dishes don't need much embellishment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The party recipes are packed with ideas </p>
+
+
+<h2> review.date </h2>
+  03-01-2008  
+<h2> review.text </h2>
+
+ <p> I appreciate having Aloni's books in my catering collection. They are full of useful information and have a delightful tone. Watch out for the recipe for Sun-Dried Tomato and Pesto Torta. The quantities for the tomato and pesto layers appear not to be correct. I suggest doubling them. I used a 2-quart souffle dish to form the torta; there was barely enough pesto & tomato for one layer of each. Consequently I wasted a lot of time having to double back and make more of these two layers, including another trip to the grocery store. I'm trusting that the dish will be attractive and tasty as described by the author but "easy" is not a word that applies here. I wonder if this recipe was scaled down from a large quantity (you can't make just one of these for Neiman Marcus), thus the quantities are messed up a bit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Watch out </p>
+
+
+<h2> review.date </h2>
+  07-19-2001  
+<h2> review.text </h2>
+
+ <p> If you follow Nicole Aloni's advice, you too will soon be considereed an accomplished hostess.Full of practical advice on everything from Table settings, Menu planning, theme ideas, rental requirements, hiring staff,  to a fantastic Food Quantitity chart ~ which will once and for all unravel that mystery of HOW much food you need to serve 25 on a buffet anyways.  For me, this chart alone makes the book a gem of a purchase.Add to all this information some hair raising stories, creative ideas, and Mrs. Aloni's witty sense of humour and you've got yourself a book that's a must have addition for everyone from the most novice hostess to the most experienced caterer.This is not a Martha Stewart book, you don't have to make everything from scratch, purchased food items and decorations are welcome, even recommended, encouraging you to focus on areas that you have the most skill in, leaving other areas to professionals ~ very sound advice.Also included are over 150 creative and tempting recipes to add to your repetoire. I can't wait to try the Coconut ShrimpThis is one of those books that will be dog eared, highlighted, and marked in many places with sticky notes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect Parties Every time </p>
+
+
+<h2> review.date </h2>
+  04-07-2013  
+<h2> review.text </h2>
+
+ <p> The author makes an interesting case for  &#34; great food- for- a-crowd &#34; , in a no-nonsense way.Great does not have to be complicated to look and taste great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A wonderful book. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

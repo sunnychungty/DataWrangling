@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0002P19PS <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-09-2006  
+<h2> review.text </h2>
+
+ <p> I recently purchased the Nikon D200 camera.  I had several nice zoom lenses but I did not have anything which would take macro close-up photos.  I did some research and found good reviews for this lens.  So I got it.The lens is an excellent lens for close-up photos.  I am not a professional photographer but I try really hard to get good sharp photos.  This lens will do the job.Since it is also also a 50mm lens I have used it as a normal lens.  The only problem with that is that over the years many of us have been spoiled with zoom lenses.  With a zoom lens you can stand in one spot and zoom the lens in or out to get closer or father from your subject.  With just the 50mm capability of this lens you have to physically move in or out to get a closer shot or a wider shot.  This is not necessarily a criticism, just a comment about how we have been spoiled by zoom lenses.I do not believe you will be disappointed with this lens.  The price is great for the quality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Lens </p>
+
+
+<h2> review.date </h2>
+  03-15-2007  
+<h2> review.text </h2>
+
+ <p> I would definitely advice someone to purchase this lense!!  It's very clear and precise.  You will not be dissappointed.  I promise.  This lense really takes sharp macros.  Don't take my word for it, try it for yourself.  If you take a dare, you will be glad you did.  BUY THIS LENSE!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great macro lense from Sigma </p>
+
+
+<h2> review.date </h2>
+  02-21-2010  
+<h2> review.text </h2>
+
+ <p> I actually own two of these lenses, I'm pairing them  with 5D MKII bodies and doing copy work on a copy stand. The edge to edge sharpness is good, build quality nice, I'm getting my best results at F11. Unfortunately using copy stands the focus slips after a short period which is frustrating. I haven't had the need to use the auto focus but just playing it does seem quite loud. Looking back my have sprung for some Zeiss lenses but overall the sigma is a great value just exactly right for my needs. 3.5 would be my rating if I could go in halves </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good resolution but focussing slips </p>
+
+
+<h2> review.date </h2>
+  05-20-2008  
+<h2> review.text </h2>
+
+ <p> This lens is a bargain.  It is fast and extremely sharp.  The detail on macro shots is great and it is also the perfect focal length for a primary walk-around lens or for portrait work.  The EX finish is rich and the build quality is solid.  It handles and performs like a top notch piece of gear.  I am completely satisfied with this purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sharp </p>
+
+
+<h2> review.date </h2>
+  07-03-2008  
+<h2> review.text </h2>
+
+ <p> I highly recommend this lens to anyone, and not just for it's macro capability which is amazingly sharp, but also as a super fine fixed focal length lens for portraits and general photography.This lens is tack sharp and very well made, frankly the only fault I can find is the screw in lens hood. The image quality on my Sony Alpha 200 is stunning, it blows the kit lens out of the water in sharpness, contrast and build quality.Great glass. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing Lens </p>
+
+
+<h2> review.date </h2>
+  08-10-2012  
+<h2> review.text </h2>
+
+ <p> While I haven't done any structured testing of this lens, I've taken some shots that clearly show the pollen on my wife's lilys. The lens appears as sharp at 2.8 as it does stopped down although, of course, the depth of field is something to stay aware of when you shoot close-ups. Great bokeh, too! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great macro </p>
+
+
+<h2> review.date </h2>
+  06-29-2009  
+<h2> review.text </h2>
+
+ <p> Bought this lens to assist in Small Product Photography. Since depth of field is normally limited in Macro Photography, the ability of this lens to stop down to F45 was crucial. The result was fine detail and color reproduction to the point where I could see my finger prints on the bezels of the watches. Got to wear cotton gloves!Don West Photography </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Detail .. Affordable Price </p>
+
+
+<h2> review.date </h2>
+  02-04-2010  
+<h2> review.text </h2>
+
+ <p> This is the first lens i have purchased for my Canon Rebel Xs. It works great and is super easy to use. I love that it comes with a hood. Often the hood isn't included and a flimsy piece of plastic from canon can cost upwards to $20. The only thing i don't like is that the hood can't be on for the lens cap to fit on the lens. you have to unscrew the hood to replace the cap. Not the end of the world though. I have a Sigma 35mm camera and it has rock solid construction. This lens matches that same quality. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great first macro lens </p>
+
+
+<h2> review.date </h2>
+  10-01-2007  
+<h2> review.text </h2>
+
+ <p> Sigma makes nice lenses, what can I say? It's been reviewed In Pop Photography. I will eventually start shooting flies' eyeballs, but it's last on my priority list. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice </p>
+
+
+<h2> review.date </h2>
+  11-03-2007  
+<h2> review.text </h2>
+
+ <p> If you use this lens for macro with your Canon DSLR, beware that you should not use auto-focus.  I got this lens to take macro pictures of coins and small items.  I found that the depth of field is so low that the coin HAS TO BE flat and the camera dead-on to the coin.  Only then will you get the whole coin in focus.The depth of field is about 0.25mm.  To get to the 1:1 macro mode, you have to be pretty far from the subject, say 10 inches.  With the low DOF, you definitely have to use a copy stand or tripod because the slightest movement will cause the subject to be out of focus.As always, the quality with Sigma lenses is here.  It is a solid piece of hardware that is well-put-together.  Would I buy it again?  Yes.  In a heartbeat.  Once I get the focus down, I'll be getting better images.  I have not tried it on my copy stand yet, I hope it fits well.If you are looking for a great macro lens, look no further.  However, it does NOT double as a good snapshot lens as you have to be quite far from your subject in order to fit them in the frame.  With the lens that came with the camera (Canon Rebel XTi) I need to be about 50 feet from my house to get it into frame.  With this lens, I need to be about 70 feet from the house to get it all in frame.  Just something to think about.  This is not a universal lens. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great macro 1:1 lens for close up photography </p>
+
+
+<h2> review.date </h2>
+  12-30-2011  
+<h2> review.text </h2>
+
+ <p> This is one sharp lens, at macro unreal sharp, at normal shooting range very very sharp. Hard to take it off the camera, not because it fits too tight but it can do soooooo much. No zoom, but that's good I can move my feet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Used Beauty </p>
+
+
+<h2> review.date </h2>
+  11-19-2010  
+<h2> review.text </h2>
+
+ <p> Of all my Tamron, Nikon, and Sigma lenses thes is the lens that that I like the most, even though I have to use it with manual focus on my D5000. It is very sharp, but what I like the most are the crisp and correct colors. That is great when taking macro photos of flowers. I am not much for post processing. I like good results directly out of the camera.One strange thing: the lens hood does not allow the use of the lens cap! I'll have to find an alternative hood or cap. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great value for money </p>
+
+
+<h2> review.date </h2>
+  09-18-2011  
+<h2> review.text </h2>
+
+ <p> Super-sharp edge-to-edge, fantastic build quality.  f45 capability produces amazing DOF in macros and can often eliminate the need for an ND filter for many long-exposure shots.  Overall, I LOVE this lens.A couple gotchas:First, the autofocus on this lens is the loudest I've ever heard on any lens.  Ever.  It's loud enough that I'd be nervous about using it in places where speaking above a whisper would be taboo; think parts of graduation or baptism ceremonies, as just two examples.Next, while it's generally very quick at longer ranges and under brighter light, this lens' autofocus can be painfully slow, even where other Sigma lenses don't seem to have a problem (e.g., the Optical Stabalized 70-200mm jobber).The barrel is 55mm (as opposed to the more standard 58mm), so finding filters *can* be difficult.Finally, the barrel isn't outer-threaded.  If you find yourself needing to use a hood, this can cause a host of problems.  If you ever needed to replace the bundled hood, finding a replacement *could* be difficult.  You can't reverse-mount the hood for storage.  Worst of all, the bundled hood won't accept the bundled 55mm lens cap (and actually doesn't look like it will accept a lens cap of any size).  I shoot enough outdoors that my default configuration for this lens is UV filter + hood, and I leave the cap at home.Side note:The first lens I received had a bad diaphragm; it was stuck at f45.  Amazon's cross-ship exchange policy is amazing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Autofocus Is Loud, Can Be Slow </p>
+
+
+<h2> review.date </h2>
+  04-08-2014  
+<h2> review.text </h2>
+
+ <p> I wanted a 50 mm lens and I also wanted a macro lens.  With this, I got both and I have no complaints.  I was really wanting the Sigma 150 mm macro, but didn't want to pay the price and as a first macro lens, this one ain't bad.  This lens offers good background blur for either use and with a little post shot editing, it takes quality images. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Macro Lens for the price </p>
+
+
+<h2> review.date </h2>
+  04-01-2014  
+<h2> review.text </h2>
+
+ <p> A fine lens that works well on a full frame sensor camera.I shoot Canon bodies and this works very nicely, is compact and is fast.  The only caveat is the lens hood screws on the front barrel it is a shallow hood but with it in place the user cannot place the lens cover on to protect the lens between uses.All my questions were answered by Sigma at their site promptly and politely.Your milage may vary. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A fine lens that works well on a full frame sensor camera. </p>
+
+
+<h2> review.date </h2>
+  04-13-2010  
+<h2> review.text </h2>
+
+ <p> I purchased this lens to satisify my need for a macro lens.  I was on the cusp of buying the Sony 30mm macro, but jumped on this one the moment I found it.  It's a fantastic lens and hasn't been off my camera in a week.  The images I captured are amazing.  Great light, great DOF, very sharp.I own several Sigma lenses that I use with my Sony Alpha 300; I haven't been disappointed in any of them.  The cost is always $100 less than the Sony equivalent, which is always a good thing.The only negative is that AF is impossible with this lens, but I prefer the control of MF so it's not that big of a deal.Enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A fantastic lens </p>
+
+
+<h2> review.date </h2>
+  02-28-2014  
+<h2> review.text </h2>
+
+ <p> I was hoping I could get even smaller macro shot with this, but to no avail. Its a good lens, just wish I could get closer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Lens </p>
+
+
+<h2> review.date </h2>
+  06-02-2012  
+<h2> review.text </h2>
+
+ <p> This was my first Sigma lens.  Canon just doesn't have a 50mm 1:1 macro for full frame in their line-up.  I really like the pictures I get out of this lens.  I can have it on my camera all day and get a ton of different kinds of shots, from landscapes to close-ups.  Compared to the Canon 50mm f/2.5 compact macro (only 1:2 magnification), I think it's capable of slightly sharper results with less chromatic abberations, and of course it has more magnification in the macro range.This lens is relatively small and light, which makes it great as a walk-around lens, although it does extend to about twice its length for 1:1 macro work.  The build quality is very nice and Sigma's speckled matte black with gold ring is handsome, but the extending front element has just enough play to be able to feel it wiggling in my grip when I grab it, so not Canon L build standards.  Auto-focusing is a little noisy, but quick and accurate.  Manual focusing is quite pleasant, as the focusing ring is well dampened.  The ring has about 180 degrees of turn for its macro range, but only about 1/2" of that travel is for 2 m to infinity.The minimum working distance for 1:1 magnification (the distance between your lens and what you're focusing on) is about 1 3/4", and for 1:2 magnification, it's about 3 1/4".  In reality, most of my macro shots are somewhere between there, but 1:1 will not be practical with this lens for most insects.There are two main drawbacks.  The main problem that bugs me is that there is no full-time manual focusing in AF mode, which I have come to expect in modern lenses.  If you're auto-focusing, and the lens just isn't hitting the mark, you should be able to just grab the focus ring and manually fine tune it.  With this lens, you need to flip the AF/MF switch (awkwardly located, imo, by the lens release button), before the focus ring frees up, which inevitably results in missed shots.  Secondly, although the optics are pretty great across most of the aperture range, the corners are a little soft wider than about f/5.6.  This is not as bad as it sounds, since most of my shots wide open are portraits with nothing in the corners but blur anyway, but I expected better performance here.  Fortunately, neither of these negatives affects macro photography, which is typically done stopped down and manually focused.  This is a macro lens, and it does a great job at macro work.This is one of my most used lenses, and although it's not the most exciting 50mm prime out there, it has just about everything I could want in a walk-around/general purpose lens, while delivering outstanding image quality where it counts.Positives:1) Very sharp, for macro or otherwise.2) Useful focal length while having 1:1 magnification.3) CA and distortion are at imperceptible levels.  You'll never notice any purple-fringing with this lens.Negatives:1) AF mode does not allow full-time manual control.2) Soft corners wider than f/5.6.3) The focus ring only turns about a half inch between 2 meters and infinity, while the macro range has close to 180 degrees of rotation.Overall, quite good and strongly recommended if you want a 50mm 1:1 macro for a full frame camera.  -1 star because the corners could be better, and FTM focusing should be a standard feature for Sigma's top of the line lenses, of which this is one.  If you don't need the macro and just want a standard prime, then you might consider the Sigma 50mm f/1.4 EX HSM, which has a wider max aperture, faster AF, has full-time manual enabled, and reportedly has better optics overall. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty Good - Needs FTM Focusing </p>
+
+
+<h2> review.date </h2>
+  10-06-2013  
+<h2> review.text </h2>
+
+ <p> This opened up a whole new world of photography and flickr members are amazed to the quality of macro photos being produced. I love it. Great lens. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great lens! </p>
+
+
+<h2> review.date </h2>
+  01-11-2010  
+<h2> review.text </h2>
+
+ <p> I have a Canon EOS 30D that I've owned for about 2 years.  I've been wanting a macro lens for a while, but have had a hard time justifying the cost... especially since I originally had my eye on Canon's 100mm macro.  Then someone suggested this Sigma lens to me, and I noticed that all the reviews were incredible.  I was nervous about going with a 3rd party lens, but the price was right and the reviews gave me confidence.  And also, I preferred the 50mm focal point vs Canon's 100mm (makes it a more versatile lens, in my opinion).So then this christmas my dad gave me money to buy the lens, and I've only had it a few days now but I am already in love!  This lens is wonderful-- the look and feel are good, and it takes GORGEOUS photos both close-up and otherwise.  I've simply been using manual focus for close-up shots, but I've been very surprised at how fast the AF is (with the limitor switch on).  It really is almost instantaneous, which is awesome.  I think even faster than my other lenses (Canon 50mm f/1,8, Canon 17-85mm).I borrowed my friend's 100mm macro lens last year, and honestly I don't see a significant quality difference between the two (though I am also not a pro, so may not have a critical enough eye for that sort of thing).  Basically, I am VERY happy with this lens, right out of the box.  The photos are gorgeous, razor sharp at the focus points, beautiful bokeh elsewhere, colors are very pretty, etc etc etc.  This is a great alternative to more expensive macros.  I actually wonder if this will replace my "nifty fifty" as my favorite lens... we'll see.  ; ) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it! </p>
+
+
+<h2> review.date </h2>
+  05-30-2014  
+<h2> review.text </h2>
+
+ <p> This thing works great on my 5D Mark II's full frame sensor and works great for portraits and macro photography. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of my favorite lenses. </p>
+
+
+<h2> review.date </h2>
+  02-22-2014  
+<h2> review.text </h2>
+
+ <p> I love this lens. Great for flowers and bugs. Also great for portrait shots where you want allot of detail. I am so pleased that I purchased this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I am ready for my Close Up </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> This lens closes down to f/45, providing increased depth of field. I find it sharp, quite capable of producing superior images at all focal points. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Depth of Field </p>
+
+
+<h2> review.date </h2>
+  03-01-2009  
+<h2> review.text </h2>
+
+ <p> I recently purchased a Sony A300 and was looking for an affordable lens for photographing plants and flowers close up as the kit lens that came with the camera is unsatisfactory for macro photography.I chose the Sigma 50mm F/2.8 EX DG Macro and have found that I made a very good choice. I don't know all the technical in's and out's of a camera lens so I can't really discuss that topic.But... the day I got my lens I mounted it up, put my camera on a tripod and took some killer macro shots of small plants. I may not know the tech stuff but I do know a great picture and this lens is helping me get them.I'd highly recommend this lens. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great lens for the money </p>
+
+
+<h2> review.date </h2>
+  12-02-2008  
+<h2> review.text </h2>
+
+ <p> This lens has been my primary shooting lens for the last three years on my Nikon D50. The only use left for my my kit lens "AF-S NIKKOR 18-55mm 1:3.5-5.6G ED" is as an 18mm wide angle. This Sigma 50mm f/2.8 prime lens is very sharp. I use it as a portrait lens on my cropped DX sensor camera (eq. 80mm on a full frame FX sensor). It also works great in low light. For portraits, I set f/5.6 if I am only 3-4 feet away. If I am 6-9 feet away I use f/4. You can try to use f/2.8 close-up but you are taking a chance, as the depth of field is so narrow that you might have the eyebrows sharply in focus and the nose and ears blurry. This lens is also very durable. On the negative side, focusing is not super-fast, but that didn't bother me, so I say go for it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sharp Portrait Lens, Fast, w/ Macro </p>
+
+
+<h2> review.date </h2>
+  12-24-2012  
+<h2> review.text </h2>
+
+ <p> This is a good quality lens available for under 300$. The optical characteristics and build quality are excellent and I wouldn't dig deeper into them, since it's best left to the pros. Summarizing my experience with this lens and a canon APSC body esp targeting it to the non-professionals looking at this lens:1) Goes from f2.8 to f45. The large f-number is really helpful since achieving the desired depth of field in macro photography can be tricky.2) Good for portraits as well: The lens does perform good for portraits as well. But I wouldn't buy this lens primarily for that. If portraits is what one is looking for then the canon 50mm 1.8Canon EF 50mm f/1.8 II Camera Lensbeats this lens hands down. It has a larger aperture (f1.8) and costs in the sub 100$ range. I would recommend buying that even if you have this lens.3) Good focusing for macro objects. A lot of lens' find it tough to focus on objects close by. This lens on the other hand performs verg well on the autofocus front.4) Perspective and focusing distance: This is probably the most important feature which should determine your buying choice. It's not technically a feature or an attribute but it was one of the key reasons why I let go of this lens. While using a lens in the 50mm focal range, to get 1:1 magnification you have to be too close to the subject. This may be a concern if you are photographing insects/critters since they tend to be distracted by an object so close to them. Also, the focal length also limits the applications of this lens to very small flowers or objects, try clicking a larger object and the perspective you get just isn't pleasing enough. I found that using a longer focal length lens, provides a much tighter background, a much better subject separation (foreground is well lit and separated vis-a-vis the background) and overall a much better aesthetic appeal.Apparent depth of field is also much shallower using a longer lens leading to better photos than this.5) Comparisons with other setups:a) Compared against the 50mm1.8 + Extension tubesCanon EF 12 II Extension Tube For EOS Digital Cameras(Or try using third party extension tubes which are much cheaper) I have tried macro using the 50mm canon with extension tubes. I found the results were much more pleasing as compared to this lens, primarily the perspective is much better. Focusing though, is much tougher using the extension tubes and the sigma wins hands down as long as focusing is concerned.b) Compared with the sigma apo-dg macro 70-300.Sigma 70-300mm f/4-5.6 DG APO Macro Telephoto Zoom Lens for Canon SLR CamerasThe sigma zoom offers a macro mode when it's in the 200-300 mm focal range. I found that my best work has come out of using this configuration primarily because it offers the perspective which I so desire. Focusing is a big issue however with this lens in macro mode. (Lot of focus scan which leads to very fast battery drain)Summary: Overall, I would recommend buying a 100mm or longer zoom lens. I believe that the longer focal range provides a perspective and background separation which makes taking aesthetically appeasing photos much easier. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good quality lens, but I prefer a longer lens for Macro work </p>
+
+
+<h2> review.date </h2>
+  06-08-2013  
+<h2> review.text </h2>
+
+ <p> I use to own an Olympus Om-1n, and the OM50mm F1.8 had great bokeh.  Since switching to the Nikon line; I have not liked any of the 50mm lenses from Nikon.  With the advent of photoshop and other corrective software; I will not make the case to why when you select a lens, bokeh should be your FIRST criteria.The bokeh on this lens is exceptionally smooth, the lens itself is quite sharp, and there is basically no distortion.  CA is fairly well controlled, and there isn't very much vignetting when used as normal lens, and in macro, a 50mm is generally too wide to be used effectively as a macro down to 1:1 because you are so close to your subject you block your own light and create your own vignetting.  There really isn't anything bad about this lens period.So why would you pick this lens over the offerings of the primary manufacturer's 50mm offerings?  Because of Bokeh.  The Bokeh on this lens in a word, is exceptional.  I don't own any Canon gear so I can only speak about the Nikon and it's Nikkor line as a comparison.The old Nikkor 50mm f1.8 was sharp but had horrible bokeh.  The Nikkor 50mm F1.4 was sharp also but it too had horrible bokeh.  The newer Nikkor 50mm F1.8G, while improved, I find the bokeh to be quite nervous still.When designing a lens, engineers need to decide and compromise between a few things:CostSizeWeightSpeedCAVignettingSharpnessBokehIt's a juggling act they try to perform, and so let's take a closer look at these categories.Cost:  Lenses are one area where throwing money at it really DOES improve.  $99 Sigma zoom, vs a Zeiss prime?  I don't even need to test it, I know what will win.  This lens isn't cheap, especially when you consider that you can buy a normal 50mm from the OEM's for as little as $99.Size:  This lens isn't small, but it's not scary big either.Speed:  This use to be a bigger issue than it is now; the newer DSLR's will give you clean images at ISO6400, so the speed of the lens while still an important factor; is somewhat mitigated by higher ISO capabilities.CA:  Correctable in most software nowadays.  With newer batch profiling software; you can just apply it to the entire batch of photos, based on camera+lens profile combo.Vignetting:  Same thing as CA; Correctable in most software and batch correctable.Sharpness:  I will repeat myself again; if you want sharp images, BUY A TRIPOD.  Even at 1/500th, you will see a difference in sharpness shooting off a tripod.  Most lenses are sharp lenses when shot at F8 and off a tripod.  Most people buy a 24mp camera and print 4x6" and complain about sharpness.  Ridiculous.  Most refuse to take the time to learn how to hold the camera steady, and instead blame the lens.  Most modern lenses are plenty sharp, it's the photographers with shakey hands that are to blame for non-sharp images.Bokeh:  While there is the option to "add blur" in software, it's not natural.  Without getting into optics and physics, of the items listed here, bokeh is the only lens characteristic that is difficult if not impossible to compensate for.  I can correct CA and vignetting in software, I can shoot at a higher ISO for lens speed, I can shoot off a tripod or use a timer or learn to hold the camera better or use a faster shutter speed to increase my sharpness, but nothing I can do if the bokeh on a lens sucks.  How it renders the blur is how it renders it.So when I the second time around, went shopping for a 50mm, I looked through literally thousands of images, to see which 50mm had the best bokeh, the Sigma 50mm F2.8 Macro; heads and shoulders had superior bokeh.Compared to the Nikon 50mm F1.8G;I think the F1.8G might be sharperThe F1.8G is certainly faster by over a stopThe F1.8G is lighterThe F1.8G is less expensiveThe F1.8G focuses a lot quieterBut when it's all said and done, I get plenty of comments about my images because of the bokeh.  The 3D'ness of popping that front subject out and the smoothness of the background blur.Since switching my personal criteria to "Bokeh first" when picking lenses, I have seen drastic improvements to my images; I now have another arrow in my quiver; I can use great bokeh to isolate a subject.If you are looking for the best Bokeh in a 50mm, look no further.  As my normal travel lens, I get the added bonus of macro-ness.  This means that food photography is possible, taking pictures of fauna and flora is possible.With the lens hood on; the lens is a bit bulky; but the benefit of the lens hood aside from blocking stray light is that you can put a 72mm cap on it; and all my other lenses are 72mm caps as well, so it works out great.Is it a perfect lens?  No.  But I am able to live with all it's flaws because it renders an image that is flat and distortion free, sharp, and has amazing Bokeh.I hope I've made some arguments for the fence-sitter to take the plunge if they are considering this lens; and to consider "Bokeh first" in your lens selection.  No regrets, just high praise for this lens. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The preferred "normal" lens. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

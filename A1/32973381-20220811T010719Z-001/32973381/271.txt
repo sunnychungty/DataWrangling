@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B001JAHSAA <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-21-2012  
+<h2> review.text </h2>
+
+ <p> This is the last good season of the show. I always did think it was a great show although I don't even know how I got into it. The show should have ended here because it ended with Will getting married. I mean yeah he doesn't in the end but I still think it should have ended this way.Did you know that Will Smith wanted the series to end because his movie career was gaining momentum at the time and he wanted to focus on that. He was also going back into making albums as well with Big Willie Style in 1998 and the show would have been in his way with the time commitments required for taping. There are rumors that Smith was ready to call it quits earlier (going back to Philly) but with the show still being popular, he decided to continue for a little while longer to satisfy the fans.Season 5 was a great season but their were some weak episodes. Save the Last Trance for Me was probably the worst one of the season and I think would have fitted better for season 6. Kim Fields and Sherman Hemsley appear again but as different charterers. Lisa (Nia Long) was great. She was a great actress and a good girlfriend and almost wife for Will.I doubt I will get season 6 because to me this is the end.  But this a a funny and great show. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The last good season </p>
+
+
+<h2> review.date </h2>
+  12-15-2013  
+<h2> review.text </h2>
+
+ <p> I have season one to season four of fresh prince.  Now I just bought season 5 and continued watching will smith comedy of fresh prince. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fresh prince of Bel air season 5 </p>
+
+
+<h2> review.date </h2>
+  02-08-2010  
+<h2> review.text </h2>
+
+ <p> well i'm so happy and relieved that they are finally releasing season 5 since that long wait. A funny sitcom with good actor Will Smith. Can't wait!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> its about darn time!! </p>
+
+
+<h2> review.date </h2>
+  09-16-2013  
+<h2> review.text </h2>
+
+ <p> Been waiting for this to come out for year FINALLY picked it up this weekend one of the best shows ever made </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Waiting forever </p>
+
+
+<h2> review.date </h2>
+  10-21-2013  
+<h2> review.text </h2>
+
+ <p> I am a huge Fresh Prince fan.  Never missed it when it was on the air, then always watched it in reruns.  To own the complete series is a given for any Fresh Prince fan.  This is the first season I've given anything less than 5 stars to, and the reason behind it is that I am rating the season itself.  I was sad to see the real Aunt Viv leave.  The new Aunt Viv just didn't fit in.  I noticed a few episodes that didn't feature any scenes w/her and surprisingly, I found those funnier than any episodes that did feature her.  It's sad that they couldn't work out their differences for the sake of the show but that's Hollywood I guess.  I watched every episode and plan to buy the last 2 seasons ASAP.  The show itself is a gem and 100x better than any of the garbage on TV today. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Season 4 is a definite Must-Have </p>
+
+
+<h2> review.date </h2>
+  02-06-2011  
+<h2> review.text </h2>
+
+ <p> we now come to season fiven of the fresh prince of bel-air. this season is pretty good. i love this show. can't wait until season six comes out in april. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Fresh prince Of Bel-Air Rocks </p>
+
+
+<h2> review.date </h2>
+  06-16-2013  
+<h2> review.text </h2>
+
+ <p> The above episode is just one of several fine episodes in this Fifth Season of "The Fresh Prince of Bel-Air". The episode in question's titled "Will's Up A Dirt Road" - where Will, attempting to sell photos to a sleazy magazine, ends up being sued by guest-star Jay Leno. Will manages Ashley's singing career in a two-parter, which consists of the episodes "The Client" & "What's Will Got To Do With It". Phil & Vivian are invited on Soul Train for their anniversary, but Phil is reluctant to attend in the episode titled "Soooooooul Train", & Will takes Nicky (Ross Bagley) to see Nicky's favorite mascot Dougie the Whale in "Reality Bites". Nia Long joins the cast this season as Lisa, who dates Will, & Will comes to regret it in the episode "Will's Misery". Lisa defends Will from a harasser on a date in "Love Hurts", & Will looks to settle the score. Will meets Lisa's father (played by John Amos) in "Same Game, Next Season" - & the two hit it off real well until they end up spending way to much time together. It's "A Very Special..." episode where Will is shot attempting to defend Carlton from a gumman in "Bullets Over Bel-Air". Will, Carlton & Jazz find themselves stuck in an elevator in "Love In An Elevator" & Will has cold feet regarding his marriage to Lisa in "For Whom The Wedding Bell Tolls". This is a dramatic Fifth Season, which doesn't overshadow the comical moments one iota in "The Fresh Prince of Bel-Air - The Complete Fifth Season". Get your very own copy of this DVD set today! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "It's Celebrities' Houses...At Night!" </p>
+
+
+<h2> review.date </h2>
+  02-08-2013  
+<h2> review.text </h2>
+
+ <p> The fifth season was okay.  Not as good and the first four seasons.  Too much about sex and girls.  The earlier seasons were much funnier.  Still good though, you can't help but like Will Smith.  The whole cast is still funny. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay series </p>
+
+
+<h2> review.date </h2>
+  02-03-2010  
+<h2> review.text </h2>
+
+ <p> It's about time that it's here. But I remember reading somewhere that it was because of rights to certain music in seasons five and six that was taking them so long. So now that five is here (or close enough, anyway) hopefully six should be here shortly after. After all, if they had to wait for rights for season five, they should have gotten them for season six, too, right? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's Finally Here! </p>
+
+
+<h2> review.date </h2>
+  02-16-2013  
+<h2> review.text </h2>
+
+ <p> I am so happy to add this to my already existing Fresh Prince tv series, and couldn't be happier with the series. I have watched the show since I was a kid and never get tired of it! Old school tv rocks! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Collection Addition! </p>
+
+
+<h2> review.date </h2>
+  07-25-2013  
+<h2> review.text </h2>
+
+ <p> The childhood memories came flooding back after watching these shows. I watch these when I need a pick me up. It always makes me happy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun Times!!! </p>
+
+
+<h2> review.date </h2>
+  06-28-2012  
+<h2> review.text </h2>
+
+ <p> You can't go wrong with this Will Smith classic! Will Smith showed us his comic skills in this fun family friendly series. Also, who can forget the Carlton dance. Love it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fresh Prince is a classic! </p>
+
+
+<h2> review.date </h2>
+  08-17-2010  
+<h2> review.text </h2>
+
+ <p> I LOVE WILL SMITH IN FRESH PRINCE..  Love the show, so I can't wait for season 6..5th season has 3 discs.. no problems with any of the discs.. the packaging is great.I don't have to say anything about the 5th season shows as all fans of Fresh Prince already know, Will Smith NEVER disappoints.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Will Smith never disappoints.. </p>
+
+
+<h2> review.date </h2>
+  07-14-2011  
+<h2> review.text </h2>
+
+ <p> I just love fresh prince of bel-air,when it was on tv.so I just had to buy itwhen it came on dvd.I laugh so much it's a great show to watch,forall ages. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fresh Prince DVD </p>
+
+
+<h2> review.date </h2>
+  12-23-2012  
+<h2> review.text </h2>
+
+ <p> Season 4 of The Fresh Prince of Bel-Air ended on a poignant cliffhanger.  With Will becoming reminded of how much he truly loved his Philadelphia roots upon experiencing them firsthand during the Banks' family vacation thereto, Smith hesitates to return to Bel-Air.  But, after thinking it over (in this case, by contract agreement [gotta love the hilarious opening scene of the Season 5 debut]), Will quickly heads out west to resume his alter ego.Speaking of the season opener, the two-part beginning to the series's fifth year in operation ("The Client"/"What's Will Got To Do With It") parodies Motown in its caricature of record company founder, Berry Gordy, as "Gordy Berry".  (For those viewers who have seen the miniseries, The Temptations, actor Obba Babatunde played Berry Gordy in that movie in 1998, four years after the brief stint as "Gordy Berry" in Fresh Prince.)  In terms of the plot of this episode, Will attempts to help Ashley launch her signing career through auditioning for Gordy, with the hopes of getting her discovered in the music business.  While the result is unfortunate, the hilarity and cleverness that ensue in the buildup are not to be reckoned with!Many of the episodes of Season 5 contain thick plots and detailed storylines--whether elaborated upon over two episodes, or packed into one, each--which help to make them (and the season itself) quite memorable.  A lot of classics are featured this year, including "The Wedding Show (Psyche!)"--in which Will and his girlfriend-turned-fiancee from this season (Jackie from Season 4 has querily vanished from the face of the earth), Lisa, flee from their fathers' bickering about wedding arrangements and head to Vegas for a trippy yet hilarious Shaft-style "wedding ceremony" (the late, great Isaac Hayes guest stars in this episode).  By replacing "Shaft" with "[Will] Smith", and absorbing Lisa's father's fiery wit towards Uncle Phil during the opening scenes: [Lisa's father, to Uncle Phil] "Have you ever worked one honest day in your life?!"  [Uncle Phil] "Excuse me?!  I happen to be a judge!"  [Lisa's father] "I'm a take that as a 'no'", this episode will have you rolling in hysterics!  One other gem of an episode is "To Thine Own Self Be Blue...and Gold"--in which a college fraternity friend of Uncle Phil's con's Will into working a mob-related job for him, jeopardizing his and Uncle Phil's old friendship.  Regardless of the dark humor, the highlights of that particular episode involve Will, Uncle Phil, and Uncle Phil's friend gettin' down to "Ain't Too Proud To Beg" at the beginning and end of the story (this was a throwback to the entire Banks Family dancing to the same song in Season 1's Thanksgiving episode, "Talking Turkey").With regards to the other characters on the show, Hilary is still Hilary; Ashley progresses further into womanhood, and her rebellious outlook increases from that which she held in Season 4 (now leaving Will to frequently come to her rescue); Carlton's regard for Will grows, especially when Will gets shot in the two-part "Bullets Over Bel-Air/"A Decent Proposal" episode; Jeffrey increases his sarcastic nature, also gaining the Will Smith influence of permanently poking fun at Uncle Phil's massive bodyweight and temperament.  (Will, however, briefly experiences life through the opposite physical angle when he wears a body suit to simulate weight gain and corresponding public ridicule, in "Will Steps Out".)So although the show begins to fade from its outlandish comedy once held at the beginning of its run, Season 5 remains intact with charm, depth, and lots of smiles.  See for yourself! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five stars for Season 5 of The Fresh Prince Of Bel-Air!!!!! </p>
+
+
+<h2> review.date </h2>
+  02-08-2010  
+<h2> review.text </h2>
+
+ <p> For years we have waited. Now it's time. One of the greatest shows of all time is finally on its way to being fully released on DVD. Bring it on! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The first miracle of 2010 </p>
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> I highly recommend the entire series. It is laugh out loud entertainment for the whole family. Will and Carlton are the funniest ! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome </p>
+
+
+<h2> review.date </h2>
+  11-19-2011  
+<h2> review.text </h2>
+
+ <p> Like any other great sitcom, it was no suprise that this show has completely "jumped the shark."  The season premiere was enjoyable (as well as a few episodes later on when Will started a long term relationship with Lisa - played by Nia Long), but many of the episodes became way too obnoxious to attempt to compensate for increasing number of serious episodes that occured on seasons 3 and 4.  Starting with this season, most of the characters are even louder and more obnoxious than previous season.  Geoffrey, the butler appears to be the only character on the show who appears to be more humorous as the seasons progressed.  Not one episode retains its magic from the first 3 seasons and I think the series should have ended with season 4.  It was bad enough that Janet Hubert was replaced with the lame Daphne Maxwell-Reid last season, but it got worse when the producers aged baby Nicky four more years (recruiting young actor, Ross Bagley) for this season.  If you are a fan of the entire series, purchase this and the final season with caution, unless you can get a really good deal for them or just want to use them for collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Get ready to start wiping your tears of dissappointment, not laughter. </p>
+
+
+<h2> review.date </h2>
+  06-05-2010  
+<h2> review.text </h2>
+
+ <p> I have been waiting so long for this season to come out!  This season is packed with hillarious episodes...The show never gets dull & is always fun to watch...I dont see as many re-runs on tv as I used too, so buying this season was the best thing I could have done!!!Also, please release the other 2 seasons right away...We all want to see them again too...Thanks... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> another great season of the show that finally shows up! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

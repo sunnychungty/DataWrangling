@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1595826467 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-10-2013  
+<h2> review.text </h2>
+
+ <p> This was one of the best books I've read about the Star Wars universe.  My favorite character was definitely Darth Thanaton.  He broke the rules of Darth Bane. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Anthony, age 8 </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> This is a really good graphic novel for any Star Wars fan! It was shipped quickly and it was done fantastically! Good business! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great graphic novel! </p>
+
+
+<h2> review.date </h2>
+  09-22-2013  
+<h2> review.text </h2>
+
+ <p> I bought this book because I thought it was a real book. I had no idea it was a comic book. It was still O.K. though.  The book in general was O.K. I just think it should be made more clear that this book is a comic book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ok </p>
+
+
+<h2> review.date </h2>
+  01-02-2013  
+<h2> review.text </h2>
+
+ <p> This is a great Star Wars story, I love reading about the Sith. I recommend this to any Star Wars fan </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sith </p>
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> Love this graphic novel.  It tells a compelling story of how the Sith really do things during their time in the spotlight. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Old Republic Volume 1 </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed this book. The animation and story line were very good. The only issue I have with it is that for the price it was a little short and could have used a bit of character development. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good read. </p>
+
+
+<h2> review.date </h2>
+  10-13-2011  
+<h2> review.text </h2>
+
+ <p> This was not very good. The story seemed contrived and disjointed. The protagonist is boring and shallow. I have deep buyers remorse. I felt like I should've read it in a bookstore like B&N. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This was not worth buying ... go to the library for this one. </p>
+
+
+<h2> review.date </h2>
+  01-18-2014  
+<h2> review.text </h2>
+
+ <p> The Sith Empire rules the galaxy. Teneb Kel, one the emperor's "hounds," is sent on a mission and on the way, his starship crashes on a Republic planet. He is sent to Bogan, a prison moon, because of his Dark Side capacity, which is very high. The story is about his struggle to figure out who he is and what his mission is. The Emperor thinks that his "hound" has betrayed him, and he sends another "hound" after him. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> From slave to Sith empirical Council </p>
+
+
+<h2> review.date </h2>
+  10-19-2013  
+<h2> review.text </h2>
+
+ <p> -Very good story with mature content (the scenario is based on Sith characters from the "Old Republic" video game period, 4000 years before the rise of Gallactic Empire and Emperor Palpatine)-Excellent graphical design-Realistic battle representationsIn total, i very much enjoyed this book and hoped it had more pages to read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> EXCELLENT !! </p>
+
+
+<h2> review.date </h2>
+  02-20-2011  
+<h2> review.text </h2>
+
+ <p> It's always interesting to read a Star Wars story told from the point of view of the Sith. Red Harvest, the Darth Bane books and several others show that the Sith can be just as compelling and interesting protagonists as the Jedi. With "Blood of the Empire" we get another entry into that list.Teneb Kel is a Sith apprentice who's just has a terrible turn of luck but is given one last chance to redeem himself in the eyes of the Sith Lords. Teneb isn't the smartest or most powerful Sith around but he's certainly the most desperate which makes him more dangerous than he would be in normal circumstances. I'm not going to go into the plot very much to avoid spoilers. But as we follow Teneb we're treated to a story of pride, ambition, secrets and above all loyalty.If I could sum up the theme of this story in one word it would be loyalty. "The Sith always betray each othere" is a well known Star Wars quote. This story asks a lot of questions about the Sith and loyalty. Can Sith be loyal? What does loyalty mean to a Sith? Can loyalty be violated in such a way that even a Sith might consider it unacceptable? This story asks these questions but it's up to you as to what they answers really are.Moving on, if you've been following the the world of Star Wars: The Old Republic like I have in anticipation of the game, then the lore this story provides is some very heavy stuff. Especially as it relates to the mysterious Sith Emperor. We're getting some information here that's sure to play heavily into the game so if you want lore then dig in.My only real complaint with the story is the art. Not that it's bad. It's more of a case of the style not really moving me and several panels that I thought were a bit sloppy. That said there's some really great details given to crowd scenes and the armor of the Sith Lords, the action is portrayed well and Exal Kressh looks fantastic in several places.All in all, any Star Wars fans who likes the Sith or those awaiting the MMO would be well advised to pick this up. I'd also call it a good pick for more casual SW fans interested in a story that's a bit different but still good Star Wars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Dark Side Is Strong With This One </p>
+
+
+<h2> review.date </h2>
+  05-01-2013  
+<h2> review.text </h2>
+
+ <p> This is my first Star Wars graphic novel and I loved everything about it. From the art to story line. Would highly recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great graphic novel </p>
+
+
+<h2> review.date </h2>
+  05-31-2013  
+<h2> review.text </h2>
+
+ <p> I won't give too much away, but this was great backstory for anyone who loves the lore of SWTOR, especially anyone who has played the Sith Inquisitor or Jedi Knight story lines (or just wants to know more about the Emperor in general). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great story, especially if you've played SWTOR </p>
+
+
+<h2> review.date </h2>
+  12-28-2012  
+<h2> review.text </h2>
+
+ <p> My son LOVES all the Star Wars books, movies, Legos, EVERYTHING! And I am so glad for his Amazon WISH LIST he always updates.  Makes my shopping easier.  These books are great. Packaged well and great paperback quality! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Great Star Wars Volume </p>
+
+
+<h2> review.date </h2>
+  07-21-2012  
+<h2> review.text </h2>
+
+ <p> im a huge collecter of comics of all types especially star warsthis is one not to be missedit centers mainly around a very well written sith who may or may not have a consciousthere also is some pretty darn good artbut the ending is by far the best part it left me cheering an evil cheer whilst rooting for the sith "hero?" </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great action packed funny book </p>
+
+
+<h2> review.date </h2>
+  12-30-2013  
+<h2> review.text </h2>
+
+ <p> Star Wars The Old Republic Volume One: Blood of the Empire is a graphic novel prequel to the Bioware/LucasArts video game.  It's meant as a tie in but without the need to have played the game beforehand.  Unfortunately, weak scripting and editing as well as poor characterization create a muddled, disaffecting mess that leaves the reader either bewildered or bored.The story follows Sith apprentice Teneb Kel and his loyal companion maggot. Kel's master has betrayed the empire and the Sith - leaving Kel in a tenuous position.  He is given the task of hunting down another Sith traitor (guess that was pretty common?) in order to avoid execution for his master's lack of vision.  Wanton destruction and deaths ensue.I am guessing that the point of the story is that Kel is not yet fully corrupted but his blind obedience to the Sith ideals take him down his eventual path of evilness.  One one hand, he is protective of and saves his loyal companion.  But then, he's quite happy to kill padawans or bystanders in order to protect the Sith goals. So the whole book is him calmly being evil or calmly being good - whiplash confusing to a reader since this happens within panels of each other. I get that the author wanted to pursue this duality of Kel's nature - but it's just so random without actually giving us any insight into Kel in the first place.All of the characters were poorly defined, Kel especially, so we had no basis for understanding who he is, where he is right now with his idealism/fanaticism, or why he's always so calm and honest, and kind of boring in a resigned way.  I just wasn't interested in him - I found the person he was hunting FAR more interesting, though she was sprouting mumbo jumbo just the same as every other character.  It's one of those times I really hoped the main character would get axed (or sabred, in this case).The action scenes were incredibly confusing and I had a hard time following the story.  Eventually, I just gave up and kind of went with the flow.  The artwork itself isn't bad - it is crisp and clean.  But there is a lot of lost potential in the action scenes and I had no idea what was going on.  Several times I thought I was missing something important but couldn't find anything significant in the previous panels to tell me what I missed.As with all Star Wars novels, there is quality here. But I think without an editor providing coherence and guidance, even the most quality of artists and writers can get lost.  Which appears to have happened with this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Muddled and a bit Incoherent </p>
+
+
+<h2> review.date </h2>
+  03-30-2013  
+<h2> review.text </h2>
+
+ <p> I've always been a fan of star wars, especially for the dark side for some reason. After I played the first KOTOR game, I became even more interested and started reading most of the books/comics that have been set in the old republic era. This first volume, Blood of the empire, was interesting to me. Not only is the main character a deeply troubled sith slave more or less(Teneb Kel), but he is ordered by his 2 superior sith masters to hunt down yet another emperor apprentice(Exal Kressh). There is of course a jedi in this story but its mostly just an introduction for the next two volumes. The story is compelling and loaded with action, but for some reason I found it harder to connect with the characters of this book more than the other books I've read. Maybe it just me, but overall I give this book 3.5/5 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sith hunting sith...dark </p>
+
+
+<h2> review.date </h2>
+  12-04-2012  
+<h2> review.text </h2>
+
+ <p> A good take on evil vs evil. It also sets up the sith wars and the fall of corascant opening up what is going on in the game. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good read for thoughs who play the old republic. </p>
+
+
+<h2> review.date </h2>
+  06-05-2013  
+<h2> review.text </h2>
+
+ <p> I've been hoping the Old Republic stories were gonna start off good and they have not disappointed so far. The book 'Deceived' is great and I'm looking forward to more of the old stories. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> GREAT!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

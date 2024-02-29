@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004RG7Y16 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-05-2013  
+<h2> review.text </h2>
+
+ <p> Worked fine, was easily set up and made an instant impact on pictures.  Looking forward to using it in most of my photographic situations. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Met expectations </p>
+
+
+<h2> review.date </h2>
+  01-02-2014  
+<h2> review.text </h2>
+
+ <p> Everyone who looks at this says the same thing.  &#34;Tie dye huh?&#34;  I'm like, &#34;No really, it's not that bad once you blur it out with some lighting and bokeh...&#34;  It's a perfect way to scare away potential clients...  I should have trusted the reviews.  My wife saw some pics I took with it and says, &#34;The eighties called and wants their backdrop back.&#34;  I guess I'll pull it out when a client comes in wearing leg warmers and a headband. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tie dye </p>
+
+
+<h2> review.date </h2>
+  03-28-2012  
+<h2> review.text </h2>
+
+ <p> The quality in the muslin is very good for me.I working now whith the muslim and the color of picture is very good.Tks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Quality </p>
+
+
+<h2> review.date </h2>
+  02-07-2014  
+<h2> review.text </h2>
+
+ <p> This works out great if you use these on how they are intended to be used. This can be used on both sides, one side is lighter than the other for a slightly different look. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad for the money. </p>
+
+
+<h2> review.date </h2>
+  05-01-2013  
+<h2> review.text </h2>
+
+ <p> it's what i wanted, was sealed in a protective case and folded neatly, nothing torn or ripped, just how i hoped. very satisfied. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> its a background </p>
+
+
+<h2> review.date </h2>
+  09-24-2013  
+<h2> review.text </h2>
+
+ <p> This is NOT A GRAY muslinThis is NOT A GRAY muslinThis is NOT A GRAY muslinIt is a white muslin with black dye.. Real contrasty and doesnt work well with color gels.Quality of materiel is heavy duty and rugged but if yoour looking for a gray marbled BG then look elsewhere.The materiel also has a very strong odor from the dye. Sent back the same day I received it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as Pictured or Described </p>
+
+
+<h2> review.date </h2>
+  02-25-2014  
+<h2> review.text </h2>
+
+ <p> Quality, Price, etc is great. I started Photographing in a Well known Photo studio and I always loved the Grey Background they used, and always wanted one for myself, and I finally got it.I gave it a 4/5 because the picture shows a more Blueish tone vs the discription says Grey, so I was kinda expecting a slight blue tone to it, but all in all it is a great Background! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Background! </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> I was torn between this one and the smaller one that shipped with the tripods and support rod.When I added the other one to the cart it summed up to a hundred. I decided to go with this one.It arrived the next day although I ordered with standard delivery. Nice surprise. I did not use it yet, it looks good quality and the colors are what I thought they would be. Grey with white.I might update this review after use.I give it 5 because of the apparent quality, the generous size, and the delivery speed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good value for the money </p>
+
+
+<h2> review.date </h2>
+  02-15-2013  
+<h2> review.text </h2>
+
+ <p> Excellent quality backdrop at a very affordable price! The color is fabulous! and looks fantastic in your finished product! I would recommend this product to any photographer, whether as a beginner or intermediate, it is just a fabulous multi-use product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My new favorite backdrop! </p>
+
+
+<h2> review.date </h2>
+  03-12-2014  
+<h2> review.text </h2>
+
+ <p> Lighting is a little tricky with this darker background but well worth it for the many unusual effects I was able to get using it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dual Shaded Backdrop gives a variety of effects </p>
+
+
+<h2> review.date </h2>
+  10-30-2012  
+<h2> review.text </h2>
+
+ <p> material is of good quality. others have complained about wringles but all of them will have wringles once you fold them for storage. add a steam iron to your tools. there may be better one but this serves the perpose just fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good enough </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

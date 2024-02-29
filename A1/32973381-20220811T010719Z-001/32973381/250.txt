@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000RZIH6W <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-07-2014  
+<h2> review.text </h2>
+
+ <p> I think it was ok. I was a bit disappointed because I was looking for a lot more I guess. But it does help give a partial understanding of what the last days might be like when the rapture happens. I think this one will be up to each person that purchases it. But its not a waste of time or money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> was not really sure how I felt </p>
+
+
+<h2> review.date </h2>
+  01-23-2014  
+<h2> review.text </h2>
+
+ <p> Stright to the point I didn't like this at all. I watched about 5 minutes and stopped it due to it being presented in a obviously boring format. I left it on the window sill of a neighbor and never looked back. You may want to risk giving it more of a chance but there it is! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No go! </p>
+
+
+<h2> review.date </h2>
+  04-29-2014  
+<h2> review.text </h2>
+
+ <p> I would pray that many people can be saved through end times prophecies.  This time on earth is your only chance to believe and receive The Lord Jesus.  Do it now there may not be a tomorrow.  World news is bad.  Why fema camps.  China is sick of America's debt and thet have something in the making. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I believe in the Rapture. </p>
+
+
+<h2> review.date </h2>
+  06-20-2010  
+<h2> review.text </h2>
+
+ <p> Yes, the information gathering is scary and national identification cards, GPS tracking, the NSA listening to phone calls, etc. is really happening and is of  great concern.  However, the "end of days" argument and christian-bias of this film takes away from it's credibility.  I expected a documentary about the real deal and got a propaganda film.After seeing this movie, I checked out the websites and did some research about the organizations being targeted as the "secret conspirators" behind this information tracking and here's what I found....The "Council of Foreign Relations" is essentially a research/news group that tracks world events and affairs that impact country-to-country relations around the world  [...].  "Philadelphia Two" is a group that wants the US Constitution to be changed through public initiatives, rather than through the US Congress [...].  "The World Constitution and Parliament Association" is, as is stated in the film, a group advocating a single world socialist government, but again with a rag-tag group of intellectuals and low-level power seekers for leaders.These organizations are fringe groups and either apolitical and/or rag-tag groups with little power or powerful members.  This film is Christian-right propaganda with some facts thrown in for the "fear factor", in hopes of starting Armageddon, not raising awareness and the insight of its viewers.This film not worth watching. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> HALF TRUTHS </p>
+
+
+<h2> review.date </h2>
+  04-16-2013  
+<h2> review.text </h2>
+
+ <p> Love the film. Great dvd. Informative. I am glad I purchased it. I highly recommend this dvd. Great price,and inspiring </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great dvd </p>
+
+
+<h2> review.date </h2>
+  11-18-2011  
+<h2> review.text </h2>
+
+ <p> This book is an 'eye opener' about how your social security number is being used, how the government can look at your PC without even having it in their posession or even if it is in your home and turned off. How people traveling with a lot of cash (legitimate purchases)are detained at airports, stopped, etc. and money confiscated without any charges brought against them.  Better heed the Final Warning. It could happen to you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better heed the Final Warning </p>
+
+
+<h2> review.date </h2>
+  02-03-2010  
+<h2> review.text </h2>
+
+ <p> It's an on the edge of your seat truth to what the government doesn't want to tell the American people. It goes in detail on what is happening to people in our economy today and what will continue to happen until the return of Jesus Christ. If you love prophecy and you are a fan of Grant Jeffrey then this is for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Truth In Bible Prophecy </p>
+
+
+<h2> review.date </h2>
+  11-04-2013  
+<h2> review.text </h2>
+
+ <p> This one hour program presents the same old new world order/Big brother society conspiracy theory we've seen so many times. While the DVD was released in 2008, it was first released on VHS in 1995 so it is very dated. Towards the end, host Grant Jeffrey says all of this was prophecied in the Bible and we should trust in Jesus. Certainly not worth spending money on. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Same old New World Order conspiracy </p>
+
+
+<h2> review.date </h2>
+  02-06-2013  
+<h2> review.text </h2>
+
+ <p> It was a decent DVD to watch but dated. I will giveit two of my best starts. I did not leave an impact on me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another governent conspiracy movie </p>
+
+
+<h2> review.date </h2>
+  12-30-2012  
+<h2> review.text </h2>
+
+ <p> This DVD by Grant Jeffrey is very informative about the end times and the coming World Economic System which will employ the use of an electronic chip implanted in a human beings right hand or forehead. Without the Mark of the Beast (as it is called), no one will be able to buy, sell or do any kind of activity without it. If one takes the mark then that person has chosen to follow the Mark of the Beast and will be doomed to damnation in Hell. Any person CHRISTIAN or not would enjoy this cutting edge documentary about what seems to be the future of our Economic world. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Prophecy DVD </p>
+
+
+<h2> review.date </h2>
+  08-04-2013  
+<h2> review.text </h2>
+
+ <p> I would receommend this product for those wondering about the future.  Know the signs of the times and prepare for what's ahead and know that God wants the best for his children.  Great movie! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent movie!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

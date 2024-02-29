@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 159695146X <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Webster's New Explorer Large Print Dictionary. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The printing is not as clear as I expected. Makes it hard to read the subject word. Why do you need more? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exactly what we wanted! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This dictionary is perfect. Because it is easy to see with the large print.  Nice sturdy covers that will last for years. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Handy Features </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The 2013 move to his high rise apartment in the dead of a Montana winter left M.E.S. with no dictionary.  I spent several weeks going through the large print dictionary's Amazon.com had offered for sale to send him as a gift.  When I chose and sent M.E.S. the Webster's New Explorer Large Print Dictionary his response was, 'The new dictionary has new words listed according to their area of use and meaning in a separate section in the front of the book.  It is a very handy feature.&#34; </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Large Print Dictionary </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> It is good to have a book that is easy to read and also has more information in it than my outdated dictionaries.  It's big and bulky, but it certainly is worth it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A wonderful aid for aging eyes! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> An excellent reference book made easy for dimming eyes by it's great layout, design and font choice.  It hasn't left my desk since it arrived. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> NICE QUALITY AND LIGHTWEIGHT TOO! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this as a gift for a family member and she were delighted. We thought it would be really heavy because it is large print, but it is fairly light, which is wonderful. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My Son Loves It </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-30-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased this dictionary for my son, who loves to read actual paper books (no Kindle dictionary!), but doesn't need long definitions of words or their etymologies. The large print makes it easy for him to locate the words and the font is clear and easy to read. I definitely recommend it for anyone who would like to have an easy-to-use dictionary. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Dictionary </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I ORDERED AND PURCHASED THIS TYPE OF DICTIONARY AS I HAVE A EYE SIGHT PROBLEM. SMALL PRINT I CANNOT SEE.IT HAS 40,000 ENTRIES. SURE IT WILL CONTINUE TO HELP ME FOR A LONG TIME.  IT ALSO HAS THE MERRIAM-WEBSTERWHICH I RECOGNIZE FROM SCHOOL DAYS. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> large print dictionary </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-04-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Thank you for this wonderful dictionary.  I gave my other Dictionary's away.  Had to use a Microscope to use them.  Now I have one with large print!  Yeah Thank you for the fast & courteous service. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Missing Words! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love to read and I love to discover new words. The print is just too small and the weight just too heavy for the dictionary I have now (American Heritage) so I thought, hmmm how about a large-print version for guys like me? Well, this &#34;Large Print Dictionary&#34; is not the one! Every third word I look up isn't in it and the the definition of the ones that are are WAY abbreviated. Bottom line: pretty useless unless you're a myopic, rather weak grade-schooler (no offense intended, I assure you).PS: Even the Introduction admits to &#34;brevity&#34; saying its necessary. Really, why? </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B006PNS15M <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-28-2012  
+<h2> review.text </h2>
+
+ <p> Book 1: Righteous Lies:  Single Grace Templeton is suddenly catapulted into one of the worst fears for someone who uses a sperm-bank.  Instead of the child of her deceased husband nestled in her stomach, she discovers she is carrying instead the child of handsome cowboy Jack Hansen, who in turn thought his sperm had helped his sterile brother's wife grow their child.  When they are all gathered together at the clinic to learn of this mix-up, emotions run high and Grace goes into early labor.  Unable to cope with total bed rest alone in her small home, Grace is gathered up by Jack and taken to his ranch.  Grace is unable to keep her heart safe from Jack's allure - masculine cowboy with a nurturing side, but one who has no intention of marrying anyone, even Grace.  The author pulls you into their lives, the sensuality, the conflict, the love.Book 2: Pandora's Box:  Justine Page, Grace's sister, has tried to breach the glass ceiling of corporate America by every means possible - including using her beauty, and body to further her cause.  After her liaison with the CEO of the company she worked at goes south, unemployed and tired of her lifestyle, she takes her battered heart to Dancing Moon Ranch to take stock and recover.  Brad Meecham, who has secluded himself in a rental cabin at Dancing Moon Ranch, is a best-selling author and ex-war correspondent.  Struggling with PTSD, he's reluctantly attracted to Justine and actually considers convincing her to be a permanent part of his life.  That is, until a knock at the door brings a child he never knew about.  A child who bonds with Justine, as Brad decides that Justine isn't the kind of woman he would want as a role model for his child.  The way the author brings this small family together, at the same time allowing Brad and Justine to explore their sensuality and love, is a delight to read.Book 3: Jack's brother, Sam, has advertised for a guest ranch manager for Dancing Moon Ranch.  His mother is ready to hand the reins over to someone else, Sam and Jack have interests in other ventures, but they wish to keep the ranch.  Jayne Hamilton applies for the job, and although Sam feels she is hiding something, he hires her anyway.  Jayne's skills bring even more income to the ranch, and Sam is wildly attracted to her (he is no longer married to the woman in book one), although he is still suspicious that she is hiding something.  The author does a fine job of revealing, a bit at a time, the conflict between Sam and Jayne, as well as what Jayne is hiding.  She weaves relationships skillfully, always expertly blending the romance, sensuality, and internal conflicts of her characters.  Makes you feel you're right there with them, feeling what they feel, experiencing their joys and sexual tension!  All three are MUST READS! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Captures the perfect amount of tension, sensuality, and romance </p>
+
+
+<h2> review.date </h2>
+  05-22-2013  
+<h2> review.text </h2>
+
+ <p> I have read all the books that have published and have loved every book.  All the twists and turns the story takes really blows your mind!  The first 3 books introduce so many characters I found myself having to go back and think, ok who belongs to who and which kid goes with which parent!  Made my head spin.  Once you get further in the series, it is easier to keep track.  Patricia, you need to think about writing the family tree maybe on the last book so the family will always be there so anyone can go back and see who is who.I highly recommend this series it grabs you quickly and it is hard to put the books down.  I read a book on the avg of 1 every two days.  Can't wait for the final 2 books to be released!Sandy SmithNorth Carolina </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nicely written even in the hot steamy scenes! </p>
+
+
+<h2> review.date </h2>
+  06-16-2013  
+<h2> review.text </h2>
+
+ <p> a great book I just need more to the book. love the way you kept adding more to the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> the love of aman </p>
+
+
+<h2> review.date </h2>
+  04-18-2012  
+<h2> review.text </h2>
+
+ <p> Downloaded the trilogy. In the last book, "thought this would never end" was said.  So true.  Books were all slow, drawn out and I disliked most of the characters, Grace (selfish), Brad (hypocrite) and especially Sam (!!!).  This author has a thing for 'erections' how many ways can you describe one? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Slow </p>
+
+
+<h2> review.date </h2>
+  08-24-2013  
+<h2> review.text </h2>
+
+ <p> Good looking cowboys and happy endings!  Who could ask for more.  Meet this family who are dealt impossible scenarios to comprehend and deal with and see how they meet the challenges that life presents them.  Learn to love these characters and their children and enjoy the family dynamics, the love and respect that the family unit is given by Ms. Watters writing.  A refreshing book dealing respectively with a variety of complications.  You will enjoy.  I plan to re-read in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love, respect, family honor and cowboys. </p>
+
+
+<h2> review.date </h2>
+  06-26-2013  
+<h2> review.text </h2>
+
+ <p> Books 1 through 3 are well written but starting to get preachy. I couldn't get through book four because I had read enough about saving yourself for marriage. Over and over and over. If you have a teenager she might enjoy this series. The cover is the only thing sexy about these books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For Teenagers or Very Young Adults </p>
+
+
+<h2> review.date </h2>
+  05-25-2013  
+<h2> review.text </h2>
+
+ <p> I got caught-up in the first book of this trilogy and couldn't wait to read the books (2 and 3).  Each book was a very good romance novel.  The writer did a tremendous job in creating the characters in these books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great read! </p>
+
+
+<h2> review.date </h2>
+  03-03-2013  
+<h2> review.text </h2>
+
+ <p> Those men and their story's  They way your heart fills with their sadness, hate, caring, loneliness and then they finally find love.  They are sexy hot and all male you just want to keep reading  and discovering the meaning of sex relationship and finally family comes to you.  With all of these books you can relate with dreams and true loves and the value of family with the hard aches and the heartaches which draws you in.  I can not wait to read the other books but I am not sure about Maddy's story.  I like the ideals of the ranches that's why I pick the books but I hope their is more of the stories of  DANCING MOON RANCH.  And those MEN !!!!!!!!!!!!!!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Oh wow!!!!!!!!!!! </p>
+
+
+<h2> review.date </h2>
+  05-19-2013  
+<h2> review.text </h2>
+
+ <p> I bought the series of theses books and i really enjoyed the 1st book thought is was very good. The 2nd book didn't like at all. All Justine could talk about was all the men she had sleep with to get to the top of the ladder in here job.It was just over and over again about the men she sleep with, I got so tired of reading about it.  Then there is the 3nd book I really enjoyed this book the story line was so good that I turned around and bought the 4 5 6 series and have started reading those  so far 2 out of 3 is good odds the other books will be good to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 2 were very good </p>
+
+
+<h2> review.date </h2>
+  03-02-2013  
+<h2> review.text </h2>
+
+ <p> The premise was good, I'm sure the outline of the stories was good, but...this series reads like it was written by a high school girl that has never been in love, or she's following what she thinks is the "correct" behavior for passion.  If Sam had shirked his responsibilities one more time so he could lust after that twit, I may have puked!!!  Why in the heck does she keep referring to Grace as plain...because she isn't stick thin and falling out of her too tight clothes???  Like I said, started out okay but no way in Hell do the problems these people have get solved as naively as this writer wanted us to believe.  I love fiction, I love romance and this series could have been good but it isn't, it's immature! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> immature </p>
+
+
+<h2> review.date </h2>
+  06-06-2013  
+<h2> review.text </h2>
+
+ <p> This bundle is a great way to continue the Dancing Moon Ranch Saga started by the prequel Justified Deception.Book 1 Righteous Lies. Starts with Jack and Grace's story both have to deal with the mess created by the mix up of two vials of sperm at the clinic where Grace went to be inseminated with her dead husband's sperm and ended up with Jack's but could destiny have brought them together or is this the beginning of the Righteous Lies?Book 2. Pandora's Box : Justine (Grace sister) comes to the ranch to recover from her latest run in of the corporate mattress and finally decides that she wants to change her life and reputation. While at the ranch she meets Brad and falls for him while he is helping her rebuilt her reputation and she is helping him deal with his own demons and a surpriseBook 2 False Pretense's  Sam (Jack's brother). Is still recovering from a nasty divorce but falls for his new ranch Manager Jayne but she has something to hide and he he won't rest until he figures what it is. He doesn't want his son Rick exposed to another uncaring woman .All three books are amazing I am in love with Ms. Waters prose, her writing style that just hooks you right in soap opera style. I am done with the first four books and going on to the next four for this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Living With Lies Bundle </p>
+
+
+<h2> review.date </h2>
+  05-19-2013  
+<h2> review.text </h2>
+
+ <p> Loved this trilogy. I really appreciate how all the chracthers were fleshed out.  I cared about all of them and how their stories turned out. I love interconnected books and family sagas. I look forward to reading the rest of the novels in this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

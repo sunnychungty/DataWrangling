@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0000C2IUC <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-14-2008  
+<h2> review.text </h2>
+
+ <p> Along with Mike Myers, Dana Carvey helped to create some of the most memorable characters on SNL during the 90's (Wayne and Garth, Hanz & Franz, Church Lady, etc.) This video shows some of the best moments from his wonderful career on that show, which (unfortunately) overshadowed his attempts to break out of his SNL shell with flops like his short-lived talk show and movies like Master Of Disguise. But despite his recent failings, we can always go back and revisit his best moments with this video. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well isn't that spe-cial! </p>
+
+
+<h2> review.date </h2>
+  01-27-2005  
+<h2> review.text </h2>
+
+ <p> In my opinion, out of the three SNl Best Of's that i have watched so far (Will Ferrell volumes 1 and 2, and Chris Farley) this is the funniest and best yet. Dana Carvey is a brilliant impressionist and is able to transform his own natural voice into anything he wants to. Whether it be The Church Lady, Hans, Garth, George Bush...etc. The other two Best Of's that i watched actually left out some of the more funnier sketches. I believe the sketches compiled into this DVD are the funniest Dana Carvey did. Also, the extras are great too. You can watch Dana's original audition for SNL, watch many outtakes, a sketch that was actually completely cut from the actual show, and his appearances on Jay Leno and Conan O'Brien. Highly recommended for Dana Carvey fans, SNL fans, or just comedian fans in general...Expect to be laughing to the point of tears in this great DVD! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Funniest of the 'Best of SNL' so far </p>
+
+
+<h2> review.date </h2>
+  08-19-2011  
+<h2> review.text </h2>
+
+ <p> Most of your favorites will appear, even some you forgot about like: "you like-a de' pepper?" An uproarious sketch I forgot all about.  It's on of those sketches even they can't stop laughing at.And, that is why you don't edit the sketch down to SECONDS long in some cases.  SNL is funny because we love to watch the actors feed off of each other.  Seeing a few minutes of Church Lady is like seeing none of it once I get mad at the TV for cutting the sketch short.  And, some of them are literally seconds long.  We need to see the whole sketch to watch all of the subtle looks and expressions that happened on the show then.  At points I feel like I bought a DVD that is an infomercial for another seperate real DVD I can't buy.  I'm not showing this to a room full of ADD patients, I am sitting back on my couch trying to enjoy Dana Carvey change the face of comedy and save SNL from near insignificance...following the years when Joe Piscopo was the anchor of the cast AKA the funniest of the non-funny.  Don't play any of the sketch if you plan to edit out any of it, please!You decide for yourself, knowing the above, if you think it is worth it.  I am a massive Dana Carvey fan and would probably pay to see him read from the phonebook so it was worth it to me.  But I am left with a sour taste in my mouth from the editing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Watch Dana Carvey save SNL, But Edited Skits are Like No Skit at All </p>
+
+
+<h2> review.date </h2>
+  03-23-2009  
+<h2> review.text </h2>
+
+ <p> This has some of the greatest sketches that Dana Carvey had to offer during his time with SNL. I honestly beleive that alot of the DVDs miss out on the truely funny moments on some of their cast members, and place in some of the okay scenes. All of the funny ones that I remember from watching many moons ago they are all here and just as funny as I remember. If you loved Carvey on SNL, then this is a definite must have for your collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Best of Carvey </p>
+
+
+<h2> review.date </h2>
+  09-25-2007  
+<h2> review.text </h2>
+
+ <p> Carvey is a legendary impressionist; his Carson is so good it's silly. Carsenio is genius writing that pays off in spades, and Hartman's Ed only adds to the perfection. It's sweet that these two were on the show at the same time; they did so much good stuff together, and were so willing to do what it took to make a skit as funny as it could be.Most of these characters are still outstanding; Hans and Garth and Perot and a great Bush (captured his weaselly nerd-fuehrer thang perfectly) are only a few of Carvey's many highlights.One of the few true comic geniuses in the show's history, Carvey had the comedy magic.The other snl genii? Hmmmm; off the top of my head, I'm thinking Hartman, Belushi, Gilda, Murray, Aykroyd, Murphy, Myers, Farley, Ferrell, Short/Crystal/Guest/Shearer (one season doesn't really count, but what a season...Lorne needs to wake up and release that year, it was one of the best, period), maybe Sandler and Oteri and Shannon; Wiig is the pick of the current crop.That list is the reason so many of us keep taping this crap every week and hoping....once a month or so we get a great skit (Dick In A Box was last year's highlight, along with the Tony Bennett duet with Baldwin).Michaels is so lazy now. Where's the edge? He's sure made the cash he wanted...how 'bout taking some risks again now that you're fat and happy, Lorne? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Choppin' broccolaaaaaayyyy..... </p>
+
+
+<h2> review.date </h2>
+  10-06-2013  
+<h2> review.text </h2>
+
+ <p> Sure I liked the best of SNL  with  Dana Carvey  although  I have to admit that seems like some of the segments got chopped a little short. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dana Carvey </p>
+
+
+<h2> review.date </h2>
+  01-06-2006  
+<h2> review.text </h2>
+
+ <p> Dana Carvey is one of the funniest and most talented comedians to have ever appeared on SNL.  Although his film career did not truly take off, like many other SNL alumni to follow, he is among the finest when it comes to comedic material and timing.Best known for his impressions, his "Best of" DVD is loaded with them.  George Bush, Regis, Jimmy Stewart, Ross Perot, George Michael, Johnny Carson, etc...  Some of our old favorites are also revisited: The Church Lady, Garth Algar, Hans and a Grumpy Old Man.  Whichever is your favorite, you will enjoy them all.  This is some of the best material Saturday Night Live has to offer, courtesy of their best impressionist to date.Also included on the DVD you will find Carvey's original SNL audition tape footage and appearances on Jay Leno and Conan O'Brien. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can I Finish? </p>
+
+
+<h2> review.date </h2>
+  03-26-2011  
+<h2> review.text </h2>
+
+ <p> Well, any SNL or Dana fan will be very disappointed in this DVD.The Church Lady and the Church Chat bits.  One of his classic characters right?  NOT one entire sketch.  They cut up several of them.  Just ruined the whole thing.Wayne's World, cut up.Other sketches cut up.This has been done on several of the SNL Best Of DVD's.Very disappointing, a let down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DVD is another SNL cut up mess </p>
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> I love the old SNL back in the day of Dana Carvey and others. I would recommend to anyone who is a fan of SNL comedy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SNL .... </p>
+
+
+<h2> review.date </h2>
+  12-20-2012  
+<h2> review.text </h2>
+
+ <p> Some of the clips are rather dated.  People like Ross Perot who are no longer household names.  His George Bush Sr impression doesn't seem as accurate now.  It would have been nice to see more Church lady skits. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's amazing how versatile he was. </p>
+
+
+<h2> review.date </h2>
+  12-18-2009  
+<h2> review.text </h2>
+
+ <p> The multi-talented comedian Dana Carvey gets his due here, and rightly so. During his seven-year stay (1986-1993), Carvey run the gamut from hilarious impersonations (Jimmy Stewart, George Bush, Sr., Ross Perot, Mickey Rooney) to memorable characters (Church Lady, The Pepper Guy, Massive Headwound Harry) to classic sketches (Church Lady, Hans & Franz, Wayne's World). A stand-up comedy veteran even before he arrived on SNL, there was almost nothing Carvey couldn't do on the show. And when he did leave, he took a trunk load of his material with him, leaving a gaping hole in the show's comedy format.It was SNL's loss.Happily, this collection really showcases some of Carvey's best work on the show. And as the Church Lady might say: "Well, Isn't THAT special??" </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the funniest & most versatile of SNL performers </p>
+
+
+<h2> review.date </h2>
+  12-07-2011  
+<h2> review.text </h2>
+
+ <p> I call this the second generation SNL funny people, and I'm collecting them too.  Dana and Mike Myers were the leaders of the pack, but brought some more subtle humor to couple with the gut busting laughter they generated. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> second generation snl </p>
+
+
+<h2> review.date </h2>
+  12-06-2009  
+<h2> review.text </h2>
+
+ <p> This DVD is truly funny.  Dana Carvey is one of the funniest guys ever.  My favorites are "Massive Head-Wound Harry" and impersonation of Arnold Schwartzenegger (spelling?). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dana Carvey Is One of The Funniest Guys EVER! </p>
+
+
+<h2> review.date </h2>
+  06-09-2009  
+<h2> review.text </h2>
+
+ <p> Dana Carvey was an "SNL" cast member between 1986 & 1993-During those seven years,he provided TV viewers with a wide variety of characters:The Church Lady,George H.W.Bush,H.Ross Perot,Garth Algar,Johnny Carson,radio personality Casey Kasem,& Jimmy Stewart-You get over an hour's worth of classic comedy from Mr.Carvey-This is a must have DVD for any fan of "SNL". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Dana Carvey is an awesome talent" </p>
+
+
+<h2> review.date </h2>
+  04-29-2013  
+<h2> review.text </h2>
+
+ <p> "Saturday Night Live" fans will be disappointed with this Not Ready for DVD release. The badly edited compilation offers few sketches in their entirety. Dana Carvey's versatile talents occasionally rise above the Veg-O-Matic presentation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Carvey Deserves a Better "Greatest Hits" Package </p>
+
+
+<h2> review.date </h2>
+  06-02-2013  
+<h2> review.text </h2>
+
+ <p> This DVD contains some of Dana's funniest moments & characters from Saturday Night Live, during it's relevant 80's heyday. It's just a shame that he could not transfer some of his other hilarious caricatures (not counting Wayne's World) into a funny scripted motion picture. I would still pay to see him, in a live comedy show anytime! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dana Carvey Is One Funney Man. </p>
+
+
+<h2> review.date </h2>
+  11-16-2013  
+<h2> review.text </h2>
+
+ <p> A collection of the best SNL sketches in which Dana Carvey participated. This is a good collection but it is a sometimes collection. What I mean by that is, you want months, if not a year or two, to go by between viewing sessions. Stand up comedy, regardless of the medium you find it in your collection, a dvd, an album, a saved show from Comedy Central on your DVR, it is really only entertaining to its fullest when the jokes are a novelty, a surprise. The first viewing has all of that. If you watch or listen to it too much though, then it loses its magic. So buy it, add it to your collection, but don't spam it. The exception to the rule is if you are entertaining one or more people who like comedy but aren't all that familiar with Dan Carvey and his work. In cases like that, the joy comes from watching the mirth other people get from the feature. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good but Watch Sparingly </p>
+
+
+<h2> review.date </h2>
+  12-10-2012  
+<h2> review.text </h2>
+
+ <p> I bought this for choppin broccoli. Got it. What more can i say. It had what I wanted, so i'm satisfied. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> got what i wanted </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

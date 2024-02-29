@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00C8820NC <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Loved the illustrations, but ... </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It was, well, boring. I really wanted to like it. There is a positive message and the author's heart is in the right place. But, a good story can teach without preaching. The Sneetches by Dr. Seuss is a great example of the kind of message this author was trying to get across, but well-written in a highly entertaining and engaging way. This story fell short. I did like the illustrations and the book could help you start a conversation with a child having self esteem issues or struggling to "fit in" at school. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Song of Praise </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is a good choice to instill confidence and self-esteem in children. The illustrations are simple but adequate to tell the story. Camilla the Clarinet is told by Tim the Trombone that she should not play in the school concert because she sounds too squeaky. Together with her friend, Fred the Flute, they visit other musical instruments like Danny the Drums and Vanessa Violin. They reassure Camilla that she plays nicely, but now Camilla seems to find fault with the way they play. Fred the Flute continues to maintain his confidence in Camilla's talent. Camilla is beginning to believe in herself. Will she ever be good enough to play in the school orchestra? Will the rest of the instruments accept her and what does Camilla learn about herself and others? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A delightful story </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I thought about how to describe to you what I've read, a story that I connected with him, inviting, beautiful illustrations, I think kids will love it like our kids loved. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Beautiful </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a beautiful story about a very sensitive clarinet and her search for assurance and self-confidence.Children get to know musical instruments and enjoy the very beautiful illustrations. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The story is interesting and kind </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was impressed that the author turns kids the way they can understand, in total figures, messages and correct direct reference, I recommend </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Flute and clarinet, really nice. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Flute and clarinet, really nice.Short story, suitable to convey to children, stimulating their imagination and funny illustrations are nice (you could improve them) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Orchestra and musical instruments, just for kids. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nice simple story and entertaining, with funny characters. The message is clear and catchy, and also educational. The kids will enjoy this book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a children story with a message </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> My daughter loved the story, she also plays the flute, and the image of the instrument charmed her, I would recommend it. Thank you </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An empowering story </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I liked that this story was about empowering children. The story helps them believe they are great! They just need to believe it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Musical instruments, great </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I liked the use of musical instruments for children to illustrate the concepts of self-confidence, friendship, and more.Could improve the illustration and make interactive book </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> very exciting story </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> A great book that talks about relationship, although the instrument but also can be understood in humans, loyalty, dedication, very exciting story </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

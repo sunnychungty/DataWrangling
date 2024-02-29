@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1573242136 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Change Your Mind and Your Life Will Follow: 12 Simple Priciples </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-07-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> I originally bought this book for a friend who needed to take a new approach to her marriage. I found it so compelling as I breezed through the pages before wrapping it, that I kept it to read first! It's a lot like "The 7 Habits of Highly Successful People" in that it gives you simple (actionable) ways to find peaceful solutions to every kind of problem. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Gentle, Wise and Exceedingly Practical </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-21-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is one of those books that I plan to read again and again.  Karen Casey shares her recovery story to set the stage for the 12 principles she discusses.  Much of her wisdom comes from her 30+ years in AA and recovery.  But even if you've never had an addiction problem of any kind her gentle, practical wisdom applies.  When I got the book I was going through a period of self-inflicted misery.  The moment I was reminded to let go of judgment and control I began to feel better about myself and my life.  By the end of the book, simply by focusing on those two principles I had experienced a total paradigm shift.  The title tells it all:  when you change your mind and mindset, let go of judgment, give up the illusion of control and make peace and kindness your #1 & 2 goals, life begins to work in unexpectedly positive and beneficial ways.  As I said at the start I will be reading Karen Casey's gentle, wise and practical guide to living again and again. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent ! Simple to Understand-Practical Steps to Grow </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-17-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have been impressed with Ms. Casey's works for several years. I don't often write reviews,but I felt compelled to make an exception in this case. The reason? So often when people are struggling to learn and change in difficult times they are overwhelmed with they're circumstances and can't (or aren't capable of) of delving into deep "complex" Spiritual or Cognitive Self-Help readings. Ms Casey's book shed's light are some common and very debilitating issues...but just as important as the identification,she offers simple suggestions to address them- immediately and effectively. Can't go wrong... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Helpful perhaps to religious people </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-28-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Karen Casey has overcome some adversities in her life and she claims these are the 12 principles she has disccovered or, as she freely admits, rediscovered.The problem I have with the book is that it is, in many ways, a non-denominational religious tract. While I don't hold religious people in disdain, I myself am not religious. Thus the endless references to literally putting yourself in the hands of a "Higher Power" and allowing your life to be guided by said power don't do anything for me. Her core advice is sufficient: the invitation to simply "have faith" I think will actually harm some people who will come to believe that they merely need to believe that they will somehow be guided to make the right decisions, rather than invest the will and energy to change their own lives.I think Karen Casey does well at putting her message forth and that many people, especially those with religious beliefs, will find comfort, solace and encouragement in her words, even if I do not.Jerry </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Religious Based </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you are religious based person, this is a very good book. Even if you are not and the word &#34;God&#34; does not bother you, a person can learn a lot from this book. It makes so much sense that if you change your thoughts from negative to positive you can live a better life. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Helpful </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was recommended to me and for a good reason. Really helps in clarifying destructive thoughts and how to eliminate them from your thought process. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Treasure! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-09-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Borrowed this book from library. It got my attention from page 1 and proved to provide helpful insights. We've all heard the adage of our inability to change others, that we can only work on ourselves. Through concise and direct language, the author expands on this point and offers clear suggestions. For me, it demonstrated the possibilities available when I choose to change my thoughts. I am eager to read some of Ms. Casey's other work. This book merits a spot in the home library. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for caregivers, parents </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-30-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Some of this book is based on Al-Anon and other 12-Step principles, and the author presents all these ideas clearly and concisely, using a conversational writing style that I really enjoyed. The basic messages of "Remember you are not in control" and "Quiet your mind" are reinforced in every chapter, as the reader is offered to new ways to look at, and obtain, the freedom that results from letting go. There is nothing earthshakingly original in this book, but it is so well-organized and pleasingly written that it invites exploration of the ideas from a fresh perspective, and guides the reader effectively through the material. The last chapter is "Shortcuts for changing our minds and our lives" and it serves as a summary of the others. This book would be great for caregivers, parents, and anyone seeking a more balanced way of life. Mary Lee Moser, author, There and Back: A Journal Companion for Special Needs Parents </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Help for those who tend to get stuck on helping others </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-03-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book isn't directly about how we lose ourselves in others; it's more about what happens when we decide to give ourselves up to the whims of the world. The book helps describe where this comes from, and offers some ways to get out of it. Life can be a walk on the beach, it doesn't have to feel like we're stuck in slow moving quicksand. This book can be helpful if we want to pull ourselves out of where we're already stuck - whether that place is in our own heads or in the lives of others. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very good </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-18-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a very good book. It is filled with common sense and alot of wisdom.  I would recommend this to all of my family and friends. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Change Your Mind and Your Life Will Follow </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-30-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book had an abundance of thought provoking and wonderful solutions for living life to the fullest with peace and harmony.  I would recommend this especially for women in recovery! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Easy Reader </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is an excellent book.  It's easy to read, thought provoking and not preachy. The ideas presented make sense, can be accomplished and will work. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 12 Steps to a More Peaceful Life </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-18-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> "When we choose a peaceful response, the effect of our choice radiates outward into the world." ~ pg. 124Karen Casey has written a small book that takes about an hour to read, however the lessons contained in this book can have big results. She starts the book by talking about how we should not interfere in other people's lives and then each chapter seems to have something to do with working on our own lives vs. worrying about other people's lives.From what I can tell from her own experiences she grew up with very controlling people trying to run her life. This book takes a completely different direction, it almost preaches: "withdrawal." This might be fine for some people who are not in a relationship or who don't have kids. I believe you need to be active in your relationships and not neglectful. What happens if your kids are on drugs, should you not "interfere." I would take the chance to save my kid's life.While the advice is good at times I did disagree with this sentence: "I also suggest that whenever thoughts of the future come into your mind, you envision blowing them away." ~ pg. 29 Many spiritual teachers would tell you just the opposite and that you should visualize your future which then leads to success.If you are traveling along a spiritual path (and all of us are in some way) then many of the ideas in this book may seem familiar to you. As you read each chapter you can do your own reality check to see where you are in regards to the advice given. For example, the advice on never arguing seems like good advice but it is probably never going to happen. You are probably still going to argue sometimes even if you try to avoid all negative experiences.What I appreciated most about this book was the fact that we can make positive choices that will better our lives. Karen Casey guides you through each step so you can analyze your current life and find out what changes need to be made.~The Rebecca Review </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice little book on change </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-31-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Here are the 12 great principles that the book teaches on changing your mind so your life will then change.1>Take care yourself. First and foremost.2>Focus on solutions not the problems.3>Try your best and don't try to contol the outcome.4>Change your mind daily, do not cling to your opinions if proven wrong.5>Choose to be proactive instead of reactive.6>Quit judging yourself and every one else.7>Remember that you are not in control.8>Discover your own lessons.Learn and change from this.9>Do no Harm.10>Quiet your mind.11>Every encounter is a holy encounter .Respond accordingly.12>There are two voices in your mind one is always wrong.The author has been through a lot of hardships in her life and writes with great clarity and compassion. If you would like to read her take on how to live the above 12 principle buy this book.If you already have those areas covered, look for more advanced reading else where. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I like it!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Simple and real principles that are most needed in todays world and general consciousness!!  I will have to read this one more than once!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This Book will transform your life - if you let it. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Unlike most "personal transformation" or self-help books that tell you what you need to do, but don't tell you how to do it, Karen Casey gives simple, practical ways of changing the way you think.  Every decision you make is filtered through every thought you have and all your perceptions come from those thoughts.  So learning how to think a new way is critical to changing the life you now live.  She doesn't give you complicated advice that doesn't work - she gives you simple ways to give yourself permission to change the way you think, which in turn will change the decisions you make for yourself.I LOVED this book - and it began a transformation in my thinking and my life immediately.  It will change your life too - if you allow it to! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

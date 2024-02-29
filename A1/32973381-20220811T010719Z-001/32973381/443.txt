@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B009USN56E <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-20-2013  
+<h2> review.text </h2>
+
+ <p> My 7 year old. Really thought the story was.funny. Its a great read. She thought it was.funny.that the wolf was.hiccuping </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute </p>
+
+
+<h2> review.date </h2>
+  09-28-2013  
+<h2> review.text </h2>
+
+ <p> this held my 7year granddaughters attention and I don't mind read it over and over, a fun story about hiccups. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a Fun Story </p>
+
+
+<h2> review.date </h2>
+  03-05-2013  
+<h2> review.text </h2>
+
+ <p> Cute idea - good pics and some nice messages - my daughter likes to read a lot of books and we downloaded this for free - she enjoyed it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute </p>
+
+
+<h2> review.date </h2>
+  09-24-2013  
+<h2> review.text </h2>
+
+ <p> My 5 year old loves this story. He thought it was very funny. The illustrations are nice as well. This a great story for young children. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Cute </p>
+
+
+<h2> review.date </h2>
+  03-05-2013  
+<h2> review.text </h2>
+
+ <p> This is a great book that can be useful while teaching about sequences. The pictures are great and allow time for the reader to think about what will happen next. Great pictures. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hiccup </p>
+
+
+<h2> review.date </h2>
+  01-19-2013  
+<h2> review.text </h2>
+
+ <p> This book has a unique idea and followed through with it very well. The characters are cute and my kids liked the wolf, even though he is supposed to be the villain. The pictures are colorful and hold the child's attention. My kids laughed out loud as we read this. The story is simple and yet has enough substance to make it worth reading. I would recommend this book to anyone who is looking for a cute story for their 4-7 year old. We liked it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great for kids 4-7 </p>
+
+
+<h2> review.date </h2>
+  08-06-2013  
+<h2> review.text </h2>
+
+ <p> The Wolf Who Couldn't Stop His Hiccups is a basic repetitive type story that has a young wolf (the wolf is drawn in a non scary sort awkward teenager character not your typical big bad wolf style), who time and time again tries to sneak into a chicken coop, barn or whatever type of enclosure various farm animals are sleeping in and quietly take one of them as his dinner while the rest sleep on and don't attack him. Of course his hiccups never allow his plans to come off with each time his prey coming up with an old wives tale type remedy for him to try in exchange for never coming back and eating any of them.  The wolf isn't the brightest wolf in the world, and that helps the story as if he just worked out to use the chicken's remedy a second time we wouldn't have much of a story and he wouldn't be hungry anymore.Illustrations are very high quality cartoon style, the cover image is a good indication of the pages inside. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun Children's Comedy Picture Book About Hiccups </p>
+
+
+<h2> review.date </h2>
+  01-23-2013  
+<h2> review.text </h2>
+
+ <p> At bedtime every night, my nineteen-year-old son reads to my four-year-old son. I could hear them both giggling when they read this one and they chose it several times out of the hundreds of books we have. They both liked the surprise ending. :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My son really enjoyed this </p>
+
+
+<h2> review.date </h2>
+  10-30-2013  
+<h2> review.text </h2>
+
+ <p> All the children loved it.  The 6 year old read it for us and kept anxiously turning the page to see what the wolf would do next!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVED IT </p>
+
+
+<h2> review.date </h2>
+  05-21-2013  
+<h2> review.text </h2>
+
+ <p> A lovely book about a predator with the hiccups. Will he ever eat? Find out in this great tale with a great ending. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A sneaky wolf! </p>
+
+
+<h2> review.date </h2>
+  01-05-2013  
+<h2> review.text </h2>
+
+ <p> My daughter loves this story!  It is her favorite Kindle title so far!  The pictures are humorous, the poor wolf makes a sympathetic character and the ending, surprising and delightful! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very fun story! </p>
+
+
+<h2> review.date </h2>
+  02-24-2013  
+<h2> review.text </h2>
+
+ <p> This is such a cute little story for youngsters. My son really enjoyed it. Easy for him to read and loved the illustrations. I highly recommend this one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

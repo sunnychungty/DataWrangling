@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00BFMJX5K <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> This book reminded me of the movies in the 90&#8242;s I used to watch when I needed a break from my life. You'd immerse yourself in these movies so that you'd feel better and uplifted. It was refreshing to read a story that centered around God but was not preachy or vanilla. It was a true story about guilt and confusion that led to redemption for both parties. It delved into the harshness of death and loss. It showed how easily it is to isolate yourself and be stuck in a rut before you know it. I loved the emphasis of having faith in something and how sometimes you just need to let go and let fate work its magic. I highly recommend this book. It was like a breathe of fresh air in my drama filled life.I received a copy of this book to facilitate my review. All thoughts are my own and positive review was not required. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet Break From Reality </p>
+
+
+<h2> review.date </h2>
+  04-24-2013  
+<h2> review.text </h2>
+
+ <p> Deanne Wilsted's "Untangling the Knot" is a charming and unexpected tale of love, loss and the human heart. I enjoyed reading this story. I like the way it unfolded carefully with each of the characters having an opportunity to grow throughout the novel.The characters in this book captured my heart early on. They seem so much like real people that it was easy to form a bond with them right from the start. I was particularly impressed with the way the author handled the children in the story. The way they behaved and the certain way the author described them reminded me of my own kids, thus giving me another reason to really enjoy this novel.The love story in this book is compounded by side stories that invite the reader to see things from different points of view. I really liked this surprising aspect of this story and felt that it added more layers to the story than the standard romantic tale I am used to reading.There were a few places where I thought the book could have moved along a little faster, but in the grand scheme of things these places were short lived and the story kept pace pretty well otherwise. The author never strayed from her plot and there were some twists that I hadn't expected to see, especially in the last quarter of the novel.I was sad actually, to part with these characters when the book was over, and found myself still thinking of them after the last page had been turned. This is the kind of book that you want to keep so you can read it again in the future.While you can tell that this book has a spiritual angle, there really isn't all that much in your face religion, which I appreciated. I tend to stay away from novels that are overtly religious, and this one didn't make me feel as if I were being preached at.If you like romance that is centered around characters that are full of heart and soul this might just be for you. A great book from a talented author. I would keep Deanne Wilsted on your list of authors to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sweet, charming and well written </p>
+
+
+<h2> review.date </h2>
+  03-22-2013  
+<h2> review.text </h2>
+
+ <p> To be honest I was a little hesitant going into this read, mostly because I knew it has a slight Christian theme to it and I was really hoping that it wouldn't turn out to be preachy. I don't mind religion in books, I myself am quite religious but I hate feeling like I am being preached to (I know, I know, that probably doesn't make sense). Either way, I didn't need to worry. Why there are religious undertones to this story it isn't preachy at all and I never felt like the book took anything too far or over the top. The religious aspect of it is there but in a very subtle nice way.I really liked Gabriella. She was reserved (but still a little fiery), kind, strong and had a heart of gold. She wanted what was best for everyone and always seemed to know what were the right things to do and say with Peter and Chloe, who were still very much grieving over the loss of their mother two years earlier. She wasn't perfect, she had her own demons to work out but that made her all the better. I think her hardships made her who she was, made her understanding and caring and someone you would want to be with.Father O'Shea was surprisingly another favorite of mine. He too was kind but he was also a little mischievous and wanted what was best for everyone, even if that meant he had to push and meddle a little in the process to get what he thought was "right" for those he cared about. You could see that he too had a heart of gold.I liked Ryan but, I didn't love him. Sometimes I felt like he really needed a good smack over the head for him to open his eyes, see what was around him (mostly his kids and how they were dealing with his wife's death) and start dealing with the things that needed dealt with. To stop turning a blind eye to things that were staring him right in the face (and okay, maybe even all the signs that things were not as they should be!). It was a little frustrating at times.I did feel for him being a single dad trying to raise two children on his own and really, doing the best he could but I really thought he could of handled so many things so much better and really, in a lot more time than he had (that will make more sense to you once you read the story, I promise!).I did love his moments with Chloe and Peter though. They were great kids and I really liked that we got small glimpses throughout the story into their thoughts and feelings as well, it was a nice touch to the story.This was a little slower paced than what I would have liked but overall it was a very heartwarming story filled with learning to let go and love again and to follow your heart, no matter what. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3.5 to 4 Stars! </p>
+
+
+<h2> review.date </h2>
+  02-17-2013  
+<h2> review.text </h2>
+
+ <p> My review of Untangling The Knot.  It made me think about the movie The Wedding Planner with Jennifer Lopez. I really liked this story.  What happens when you become someone who is supposed to be all about love but never really had that right moment?  Then Bam it hits you like a ton of bricks but the bad thing is he is the groom to be.  The author told a very well written story that entertained me as a reader.  I would highly recommend this if you enjoy the idea of love and destiny.  I was given a copy in exchange for a honest and unbiased opinion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> can love really  conquer all </p>
+
+
+<h2> review.date </h2>
+  02-22-2013  
+<h2> review.text </h2>
+
+ <p> I absolutely love a good contemporary inspirational, particularly if it has something different.  This book met my expectations and then some.The slow build of Gabriella's and Ryan's relationship is juxtaposed against the undertow of grief and loss in both of their families.  For Ryan and his two children it is his wife, who died two years ago.  For Gabriella it is her mother's death, followed by her difficult relationship with father and his death. And Mandy, the difficult bride-to-be, serves as the perfect catalyst to bring everyone to an understanding of what is really going on in their lives.Untangling the Knot works on all levels. The children are realistically drawn and tug at the heartstrings throughout the book, while at the same time demonstrating they can be just as bratty as the next kid.  Gabriella's faith and belief is like many church-going parishioners. It is natural and based on a child-like acceptance, rather than an adult's full understanding of the commitment and the ability to accept both the pain and the love it can bring.  Ryan, the groom-to-be, serves as the opposite of Gabriella. Someone who has closed himself off form love, faith, and emotion as a whole. He moves the world saying and doing all the right things, but refusing to feel.Each of these five characters are expertly interwoven, simultaneously living a tangled outward life while carrying burdens of an inner life.  It is the way in which they come together, fall apart, and reunite that makes the amazing work of a healing presence real.  The secondary characters of Ryan's mother and the Priest also play important supporting roles.Both Christians and those who simply believe in finding and knowing love, in all its guises, will appreciate this book and be pulling for each person to find healing and love. I absolutely highly recommend this book.I received an ebook copy as part of a blog tour and in return for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Lovely story of grief, recovery, faith and love </p>
+
+
+<h2> review.date </h2>
+  03-08-2013  
+<h2> review.text </h2>
+
+ <p> A lovely romantic story that centers around the catholic church. Gabriella the church's wedding planner is a delightful character who immediately connects with the reader. She has a good heart, is dedicated to her work and the people that surround her. She slowly falls in love with Ryan who is marrying Mandi. Not so good a choice as he and his two kids discover. His heart is wrapped around Gabriella and with encouragement from his dearly departed first wife, he begins to see that she is the right choice. Fraught with obstacles and guidance from a higher power this story is truly heartwarming. It brings forth reminders of believing in fate, family values and following your heart. The story in the beginning is a little slow but as you get further in it becomes wonderfully entertaining.I received a copy in exchange for an honest review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderfully entertaining </p>
+
+
+<h2> review.date </h2>
+  04-07-2013  
+<h2> review.text </h2>
+
+ <p> Untangling the Knot is a sweet romance with a religious theme told from the Roman Catholic perpective. To the best of my knowledge, this is a completely neglected demographic in the inspirational romance market. This gentle, emotional story moves well, with compelling characters, especially the hero's children. I read it in one sitting and will look for more from this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hurray! A non-preachy inspirational romance for Catholics </p>
+
+
+<h2> review.date </h2>
+  02-25-2013  
+<h2> review.text </h2>
+
+ <p> This is a real cute and funny romantic story about Gabriella (Gabby) who is the Church's wedding ceremony coordinator She realizes that the groom is the husband of her friend that passed away, he has two adorable children. The Bride not so much what he and the kids needs, Gabriella thinks. when she gets closer to them then she wants, she backs off. totally when mistakes start to happen that she never made in her total carrier. The pastor tries to lift her up knowing she did not do it on purpose, when a third thing happens she decides to take a break and go on vacation. If it all works out and how read for yourself, it is a very sweet, nice storyI received a copy of this book for a honest review </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cute and funny romantic story </p>
+
+
+<h2> review.date </h2>
+  02-19-2013  
+<h2> review.text </h2>
+
+ <p> I really loved this story.It really goes to show you that GOD works in mysterious ways.Twenty-eight-year-old Gabriella is a wedding ceremony coordinator. So the fact that she has mistakenly registered her newest couple for an annulment, rather than a wedding, starts her guilt trip.One mistake leads to another mistake and during all of this she is becoming more attached to the groom and his children.I highly recommend this book.  For me, it was another one of those "I just can't put it down" books.I was given a copy in exchange for a honest and unbiased opinion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome Book!!! </p>
+
+
+<h2> review.date </h2>
+  02-15-2013  
+<h2> review.text </h2>
+
+ <p> This is a charming story of a wedding gone wrong through mistakes and angelic nudges. Its texture is layered with multiple point-of-view characters and even the bride-zilla shows her endearing side.Set within a Catholic Church, Untangling the Knot portrays an inner view of a small parish with a delightful, and wise, priest. I was personally glad to meet Father O'Shea as he reminded me a lot of a Fr. O'Brien from my childhood.The romance of Gabriella and Ryan has depth and poignancy as he's blocked by grief and she's trapped by guilt. The way these issues are revealed to them, and how they change, was inspiring and nicely presented.I've rated this story with 5 stars because it is well written, it holds true to the promise of a light and entertaining romance, but it also delivers more story than I expected. All the characters became more real as the story progressed and I was amused and surprised by some of the twists, as well as impressed by some of the resolutions.This was such a pleasant reading experience that I read it from beginning to end, in one sitting. However, that meant it was almost 3:00am when I finished - but I didn't have to get up early in the morning. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A watercolor wedding of Catholic guilt and grief </p>
+
+
+<h2> review.date </h2>
+  08-01-2013  
+<h2> review.text </h2>
+
+ <p> Well I have to say this is a really sweet book. I really fell in love with the characters & I must say that the kids in this book really act like kids. I truly enjoyed reading this even though it did make me cry. This book felt real to me. I so look forward to reading more books by Deanne. I would recommend anyone to read this book. I am very impressed with the writing AND the grammar. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So sweet a must read </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

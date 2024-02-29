@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1495391779 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-29-2013  
+<h2> review.text </h2>
+
+ <p> I never really thought that the answer was that simple to weightloss. 3 years ago I began the weightloss process. I would lose and gain quite often. Thanks for making this simple. I will begin 1/1/14 with 3 words. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing </p>
+
+
+<h2> review.date </h2>
+  01-19-2014  
+<h2> review.text </h2>
+
+ <p> MVF=Meat Vegetables FruitNothing else----no strategy at all to this diet.I will try it but I'm not so sure it will work </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not certain of this </p>
+
+
+<h2> review.date </h2>
+  08-07-2013  
+<h2> review.text </h2>
+
+ <p> Short, sweet, and to the point!  Great reminder of all that is really needed to get and keep yourself heathy.  Have intermittently eaten and exercised this way for several years.  Whenever I do I feel and look much better.  This book has motivated me to revamp my grocery list and start exercising again.  Thank you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short, sweet, and to the point! </p>
+
+
+<h2> review.date </h2>
+  03-23-2014  
+<h2> review.text </h2>
+
+ <p> I've read lots of paleo and low carb books, many including all the background chemistry. This little gem summarizes and simplies everything. It's a great reminder of the basics and a good motivator. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Short and 'Un' Sweet :-) </p>
+
+
+<h2> review.date </h2>
+  09-27-2013  
+<h2> review.text </h2>
+
+ <p> This is a quick read and keeps things simple. I've been on a version of this for 2 months and I'm already down 30 pounds! I think the exercise recommendations are better than what I've been doing, so I'm planning on the three week challenge </p>
+
+
+<h2> review.summary </h2>
+
+ <p> simple and real </p>
+
+
+<h2> review.date </h2>
+  01-22-2014  
+<h2> review.text </h2>
+
+ <p> Love the simplicity of  this plan. Already eat paleo, but this book inspires me to simplify even more.  Good little book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very smart summary of basic low carb lifestyle </p>
+
+
+<h2> review.date </h2>
+  10-16-2013  
+<h2> review.text </h2>
+
+ <p> This is a so so book. There is no substitute for weight loss except through proper diet and continuous exercise </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So So </p>
+
+
+<h2> review.date </h2>
+  09-18-2013  
+<h2> review.text </h2>
+
+ <p> To the point, simple, no extra jargon.  Yes, it's primal, but not loaded down with lengthy explanations, scientific hoopla or extraneous, unnecessary rules and restrictions.  Just the straightforward facts and tools.  THANK YOU! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  10-01-2013  
+<h2> review.text </h2>
+
+ <p> Sam wrote this book with clarity, common sense & humor!  It is a quick, memorable, life changing read.  If you need to lose weight - this is the first book you should read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AWESOME!!!  Must Read! </p>
+
+
+<h2> review.date </h2>
+  09-08-2013  
+<h2> review.text </h2>
+
+ <p> Delightful, common sense, practical book. Follow Sam Charles & you'll be on your way to a much healthier lifestyle. Bravo Sam </p>
+
+
+<h2> review.summary </h2>
+
+ <p> so simple, it's amazing </p>
+
+
+<h2> review.date </h2>
+  12-29-2013  
+<h2> review.text </h2>
+
+ <p> Which seems logical is the best. This book is nothing but common sense for a good nutrition and body maintenance. Really very useful for those going through the first steps to a healthy life. Congrats! I loved it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The basics, very well explained </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> This is basically an easy guide to the Paleo Diet, it is easy to follow since you are only remembering 3 words  for the food, drinks, and exercise .... so total of 9 words.  It helps me when I am tempted to eat the wrong foods. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simple - Keeps me on Track </p>
+
+
+<h2> review.date </h2>
+  09-29-2013  
+<h2> review.text </h2>
+
+ <p> I liked the simplicity of this bool. 3 simple words ... The theme carries through out this simple easy read. After many years of lots of diets I do share this philosophy w/the author. I just feel better with less carbs. I also love the idea of eating less processed food ... could not be easier ... READ the book ...and it's only .99 !! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Simple and straight-forward </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

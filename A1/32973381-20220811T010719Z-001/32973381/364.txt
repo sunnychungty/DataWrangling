@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1742371795 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-21-2011  
+<h2> review.text </h2>
+
+ <p> This book is a gem.  All the lifestyle changes recommended are evidence-based.  These changes will work for anyone.  Yes, you need to give them time and you need to stick with them, but if your neuro has told you that progression to disability is inevitable as mine did, you'll definitely stick with these lifestyle changes!  And yes, they have made a difference for me.  The drugs available for MS are an option - you can take them and prevent a couple relapses, delay progression somewhat, or you can not take them to avoid the side effects.  The lifestyle changes are not an option if you want to REALLY slow and stop disease progression.  You will see that MS is largely due to lifestyle factors and can be largely impacted by changing lifestyle.  Now that is logical.Thank you, thank you, thank you Dr. Jelinek for the impact your work has had on my health. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you have MS, don't think twice - buy this book! </p>
+
+
+<h2> review.date </h2>
+  02-01-2013  
+<h2> review.text </h2>
+
+ <p> I had researched many different MS books and this one was exactly what I was looking for and exactly what I expected it to be, with one exception of the chapter that speaks about his mom and her struggles with the disease.  It does explain the history that lead to him writing this book and so it has a purpose.  I am not all the way through it yet, but I do like the explanations of the systems and testing methods as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> exactly what I expected </p>
+
+
+<h2> review.date </h2>
+  10-06-2013  
+<h2> review.text </h2>
+
+ <p> A very well written book! Carefully researched. Presents tons of facts and science to support Dr. Jelinek's observations and conclusions. A real eye-opener and source of hope for MS sufferers! Presents a concrete road map to improvement for those of us who are stricken with this disease. Surprisingly, I began to see real results within weeks after adopting Dr. Jelinek's program and following it religiously, much earlier than I had hoped for! I purchased a additional copy for my neurologist, I plan to purchase an additional copy for another of my physicians. I  have written many recommendations for friends on MS website that I have joined. Every MS sufferer should have a copy of this book! Their health care providers would benefit, as well! An appreciative and enthusiastic &#34;two thumbs up&#34;!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful, useful text for all MS sufferers and their healthcare providers!! </p>
+
+
+<h2> review.date </h2>
+  08-22-2010  
+<h2> review.text </h2>
+
+ <p> Dr. Jelinek is amazing.After hip-hopping around for a few weeks with a book I could NOT put down, I'm finally starting again, from the beginning.The story of how this book came about is an incredible gift from an extraordinary physician and teacher whose life and work are inseperable.An amazing blessing for we who live with MS.I'm keeping my fingers crossed (thanking my lucky stars) and moving on to the next chapter.I'll keep you posted.  ;) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> BREATHTAKING </p>
+
+
+<h2> review.date </h2>
+  05-24-2014  
+<h2> review.text </h2>
+
+ <p> I was officially diagnose and read this book immediately after read Dr. Swanks book.  Must read because I found that ignoring any part is denying myself hope of living to my fullest.  I feel better armed to move ahead </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very informative.  Great for new ms or just learning </p>
+
+
+<h2> review.date </h2>
+  02-25-2013  
+<h2> review.text </h2>
+
+ <p> This is an excellent book regarding MS.  It is coming from a physician who has his MS in remission for a number of years and has many people and patients he has helped maintain remission also. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Value of this publication. </p>
+
+
+<h2> review.date </h2>
+  12-14-2012  
+<h2> review.text </h2>
+
+ <p> Again somebody curing and healing himself by changing habits and lifestyle - when will physicians  of conventional medicine start acknowledging what is going on outside hospitals and clinics?When ethics become more profitable than money, I suppose. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> medicine needs a profound overhaul </p>
+
+
+<h2> review.date </h2>
+  12-30-2012  
+<h2> review.text </h2>
+
+ <p> My first asked question was &#34;what do I have to change in my diet?&#34;  The Consultant in the Hospital only shifted his feet.That was 30 years ago with my first flare-ups of what later turned out to be MS. The same questions was posed by Professor Jellinek when he developed his own symptoms, BUT HE FOUND AN ANSWER! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Overcoming Multiple Sclerosis: An Evidence-Based Guide to Recovery </p>
+
+
+<h2> review.date </h2>
+  06-17-2011  
+<h2> review.text </h2>
+
+ <p> Dr. Jelinek has reviewed the extensive research relating to multiple sclerosis and used this research to develop recommendations in plain language for managing multiple sclerosis. This is why Dr. Jelinek is the leader in the world when it comes to the treatment of MS and this is why this book is the single most important book anyone with MS can buy.If you need to learn to live successfully with MS, this is the book that will give you hope based on rigorous scientific research. Not surprisingly, many with MS have seen their MS symptoms slowly melt away after they followed Jelinek's advice.Rebecca Hoover </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An outstanding book from an outstanding scientist, professor of medicine and physician </p>
+
+
+<h2> review.date </h2>
+  09-15-2013  
+<h2> review.text </h2>
+
+ <p> I read this book two weeks before my official diagnosis for MS. Thank god. It meant that I had a positive outlook and could face the news armed with a whole lot of information, well-summarised research, and most of all hope. I can't imagine how I would have handled those first few weeks without having read the book. It would have been a much more stressful journey. This way, right from the beginning, I had hope, and a plan and a way to be proactive about this condition.Anyone who has MS or has a loved one with MS or even has a genetic predisposition should read this book. Thank you Dr Jelinek for writing it, from the bottom of my heart. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I wish some more neurologists wold read this book </p>
+
+
+<h2> review.date </h2>
+  11-03-2010  
+<h2> review.text </h2>
+
+ <p> If I could give this book less than a one star review, I would definitely do so. I have a friend with multiple sclerosis and after looking at all the books on M.S. on Amazon, I put in an advance order for "Overcoming Multiple Sclerosis." What a huge disappointment. After reading the first several chapters and thoroughly skimming the rest of them, this is not a book I would recommend to anyone. The author has everyone eating a vegetarian diet, with a little fish. The best book I have ever read on diet, The Metabolic Typing Diet, by William Wolcott, rightfully tells us that some people need more fat and protein than other people. For almost anyone, but especially for people who need more fat and protein this diet would spell disaster.The author never says one word about getting out the refined carbohydrates and immune system destroying sugar. No, just get rid of the nasty saturated fat and all will be well. Saturated fat from the experts on the subject is not the killer fat that it has been made out to be. In fact, unlike hydrogenated vegetable oils and trans fats, which are the real artery clogging fats, saturated fats are healthy fats that perform many vital functions in your body. They are natural fats and not man made fats that our bodies can't recognize or use. I simply cannot believe the author said nothing about horrific effects of sugar and refined grains on everyone's health, especially those with the compromised immune system that people with multiple sclerosis have. If I could get a refund on this book, I certainly would do so.For all those people who have been helped by this book, good for you. I read several several chapters of the book and "thoroughly" skimmed the rest. After having read several hundred books on Natural health, I feel qualified to voice an opinion after skimming the book. Please let me know where it has one thing to say about the nasty affects of sugar of all types on immune system function. M.S. sufferers have a malfunctioning immune system. Good fats, such as saturated and polyunsaturated the way they are found in nature, are key components in building a healthy immune system. Sugar is a key component in destroying your immune system. Go to Dr. Joseph Mercola, D.O.'s website or read one of Dr. Mary Enig, PhD biochemist's books on fat. Her specialty is lipid or fat research. Also read the "Metabolic Typing Diet," by William Wolcott.  Some carbohydrate type people may well do better on this diet than the high fat, protein types.  I tried a diet similar to the one recommend by Dr. Jelinik and wrecked my health. Because of my nine years on that nutritionally inadequate diet, I now suffer from adrenal fatigue. For many of my years on this diet,  I was supervised by a doctor who is an M.D. as well as a D.C. I ate only healthy whole grains during that time. I'm a high fat, protein metabolic type and the diet didn't work for me. Feel free to check out my other Amazon reviews. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Forget This Horrid Book </p>
+
+
+<h2> review.date </h2>
+  12-17-2010  
+<h2> review.text </h2>
+
+ <p> I waited 2 months to get this book from Amazon and it was totally worth it.  Prof. Jelinek uses medical studies to prove that lifestyle changes are a very important part of overcoming MS and living an active lifestyle, without disability.  He talks about his own experiences with MS and his mother's decline from the disease, as well.  He also goes through medical treatments that are currently available and others that may be the future of MS treatment.I have been following his recommendations and cannot wait for my next MRI.  I have decided not to do any of the medications, due to my strong feelings about injections, and my belief that there is truly plenty of proof that there are better ways than the medication, to overcome this disease.  Thank you, Dr. George Jelinek, I owe you a great debt.  If you have MS, you absolutely owe it to yourself and everyone in your life, to get this book!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An absolutely necesity for anyone with MS!! </p>
+
+
+<h2> review.date </h2>
+  06-28-2013  
+<h2> review.text </h2>
+
+ <p> An excellent book for the readers, conbining both the scientific research review and the holistic approach for overcoming ms. And full of applicable advice. Thanks, dr Jelinek. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent book! </p>
+
+
+<h2> review.date </h2>
+  12-23-2013  
+<h2> review.text </h2>
+
+ <p> The nutrition research is compelling as is the epidemiological review of the natural history of the disease; I was surprised, for example, to learn that it takes decades to reach the milestone of using a cane, much less a wheelchair.  Unfortunately, the illness is often portrayed as one which invariably leads to wheelchair use.  Nothing could be further from the truth.  The Omega-3 and Swank overview was priceless as I had recently descended into a bad diet again.  I always generally ate healthy and avoided red meats, but I do have some reservations in the recommendations that seem paradoxical with his stated results. For example, on the one hand, we should avoid fats from meats other than fish.  On the other, he states that MS was relatively unknown prior the 19th century, therefore, a &#34;modern&#34; disease, as he claims.  Yet this doesn't jive with our ancestors' diet of meat. So, which is it?  I wish more of these disparate results were addressed.  Also, in the overview of essential fatty acids, he discusses the bad role that Omega-6 FA's play in immunity, at least initially, but then goes on to say how they are important in reducing degeneration.  So several inconsistencies in those looking for a magic bullet diet-type advice makes it understandable why physicians are reluctant to jump to Swank-style conclusions.  The dairy consumption also came as a surprise but is more believable.  But there is Vitamin D in milk....apparently not enough to change the bad.  Lots of inconsistencies like this should be addressed.  Also, why would diet help some with avoiding the disease if genetically susceptible, but others not?  For example, I grew up in Greece, close to the equator and constantly exposed to sunlight and Vit. D and my mom's healthy diet, but I still got MS.  And I have some disability.  It's hard to rectify these differing outcomes, hence why the RCT's he mentions remain the gold standard.  One small critique involves the book's need for updating the medication chapters. For example, he almost champions CCVSI, but we now know that it is no better than placebo and that the stenosis of the veins noted is not statistically different than the healthy population.  He does not talk about the most exciting research regarding remyelination drugs or stem cells, two of which are already in Phase I human trials and should be available within five years.  This is the most exciting research as it directly addresses the way to repair lost function and possibly reverse disability.  All in all, a worthwhile positive book on regaining control, but needs updating.  There are many other drugs not reviewed and several SPMS drugs in early trials showing promise in slowing down or even stopping that component of MS.  I understand that the book would be 1000 pages long, but hopefully he can update this every couple of years, along with his condition, or on his website. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good book overall but needs updating... </p>
+
+
+<h2> review.date </h2>
+  12-12-2013  
+<h2> review.text </h2>
+
+ <p> This is a perfect book for anyone who has MS or who loves someone who does.  I believe that many &#34;diseases&#34; we have today afflicting us are not diseases at all, but come about through improper nutrition.  People if there is anything I could tell you and wish you would take to heart, it is that it matters what you eat!  Stay away from &#34;food products&#34; and eat real food, veggies, fruit, nuts and grains and lean meats, read this book if you have this disease or love someone who does.  This book is written by a doctor who has MS and who sites studies showing what works, and what doesn't, and there is a lot of useful information on what is good to eat, do vitamins help, and so on.  He takes a very holistic approach and counsels stress relief etc.  Very worth reading and even if healthy, you can learn a lot of things that might help you stay that way. It's refreshing to find a doctor who believes that nutrition can be a huge factor in overcoming disease. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very worthwhile book and written so that the layman can easily understand what the author has to say. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

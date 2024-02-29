@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B003EGBHHW <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-16-2013  
+<h2> review.text </h2>
+
+ <p> This SD card is an excellent price and very good quality. I liked it enough to buy a second one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent price </p>
+
+
+<h2> review.date </h2>
+  08-18-2011  
+<h2> review.text </h2>
+
+ <p> Memory is just getting cheaper and cheaper- so you may notice that this 16GB SD card costs a bit more than some other 16GB cards. What you are paying for is read/write speed. For some devices, this is irrelevant- there is no need to spend extra money if you are using this in a device that doesn't take advantage of this speed; namely this card is going to be useful for DSLR cameras (especially if you shoot RAW) and HD camcorders/devices that record HD (720x1366-1080x1920) video.Even if your device does not need a high write speed, you can still take advantage of the read speed, which lets you move data off of the card more quickly. These class 10 cards are at the top end of Sandisk cards aimed and the "prosumer" market, the next step up is their "pro" line of cards. This card is really going to be good for most uses though, even in professional applications. Like most all Sandisk products, this is of very good quality- a couple steps further even- these are waterproof, and even have a lifetime warranty. So even if you drop you camera in the drink and have a sad day... at least your pictures are safe!Also, one more thing to note, not every device will work with SDHC type cards (as opposed to regular SD), so make sure your device is compatible. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great high speed card </p>
+
+
+<h2> review.date </h2>
+  06-08-2011  
+<h2> review.text </h2>
+
+ <p> Way to go if you are looking for high performance. Will take tons of pics in one click on a Nikon D7000 with the right settings </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Way to go </p>
+
+
+<h2> review.date </h2>
+  10-23-2011  
+<h2> review.text </h2>
+
+ <p> I bought this to replace my SanDisk Ultra 16GB (class 4).  It is definitely much, much faster.  In my Olympus E-P1, the Ultra card stopped filming in HD after less than 2 minutes.  It was just too slow in terms of write speed.  This card, on the other hand, is blazing fast and was able to record in HD up to the file-size limit with no hiccups.So, easy five stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> lightning fast </p>
+
+
+<h2> review.date </h2>
+  05-31-2011  
+<h2> review.text </h2>
+
+ <p> I purchased this memory card as my netbook had a memory card slot i dont use and i tricked my netbook into haveing a virtual paging file of 16 gb so that well my netbook runs a bit faster had i had a faster processor my netbook wouldve been like a ferrari so for now its a honda but with great options lol. I only hope processors become hot swappable one day..... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Memory card </p>
+
+
+<h2> review.date </h2>
+  04-08-2012  
+<h2> review.text </h2>
+
+ <p> Compra satisfactoria a mi necesidad, rapida al momento de tomar fotos con mi camara canon rebel t2i. compra realizada desde venezuela. El producto llego en perfectas condiciones </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excelente </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> Well it works. Im not Techy enough to give any more details then that. Extra memory is always needed. Fair price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works </p>
+
+
+<h2> review.date </h2>
+  06-19-2014  
+<h2> review.text </h2>
+
+ <p> I needed a new disc for my Nikon D5000. This disc fits the bill perfectly. The camera recognized it immediately and it performed very well on my trip to the Northeast. The pictures turned out great. SanDisk has always made a great product and so I chose them. I chose the extreme sdhc after a lot of research based on speed performance. The product shipped quickly and was packaged well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great disc </p>
+
+
+<h2> review.date </h2>
+  10-16-2012  
+<h2> review.text </h2>
+
+ <p> I ordered a class 6 card, and received a class 10 card. This should be even better, right? It works fine in my Panasonic Lumix DMC-FZ35, but the speed is not recognized by my older Canon Vixia HG20, and therefore it is unusable for video. I actually bought it for use when borrowing a friend's video camera, and I don't yet know whether or not it works on his. The real problem is with the seller, Digital Media Source, rather than the product, but from other reviews, substitution of supposedly equivalent products is clearly a common issue, and ordering a particular card doesn't guarantee receiving that card. So it is worth writing this review as a warning you may not receive what you order, and the substitute may not be an improvement.Update: The class 10 card does work in the borrowed Canon VIXIA HF S200 and a borrowed Canon EOS 550D DSLR. So the substitution has done me no real harm. But it was a concern, and ought not to have been made. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Other Card Substituted </p>
+
+
+<h2> review.date </h2>
+  01-07-2012  
+<h2> review.text </h2>
+
+ <p> Same as many others, item pictured and described was SDSDX3, was sent the SDSDRX3 HD video version fulfilled by BlueProton (though I see they've changed the picture since I ordered it a couple weeks ago--nice.)  You would think it would work in my Canon HD video camera which requires 17MB/s, but no.  E-mailed the seller, but never heard back from them.  From the looks of many other reviews, I guess Amazon is only interested in getting their cut, and not checking out these operations playing bait-and-switch on their customers.  After all, if it works in half the cases, those people will give it four or five stars for its blinding speed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the SDSDX3 you think you're getting </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

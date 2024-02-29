@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00LCP768G <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-06-2014  
+<h2> review.text </h2>
+
+ <p> Granted this book is free but it's no excuse for poor grammar.  Hire an editor please. At the very least ask someone to proofread before publishing . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Editor needed </p>
+
+
+<h2> review.date </h2>
+  07-17-2014  
+<h2> review.text </h2>
+
+ <p> Some helpful information. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Three Stars </p>
+
+
+<h2> review.date </h2>
+  07-13-2014  
+<h2> review.text </h2>
+
+ <p> A lot of great recipes for curing different common ailments. Highly recommend it if you want to try out some more natural ways of healing instead of going down to your local pharmacy for help! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great natural help! </p>
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> After having a bad reaction to some medication I decided to try the natural way of living. I have been using natural remedies for a little bit now. This book has given me so many different recipes to use to treat common ailments and skin problems.I love all the different things you can use essential oils for. I have recommended this book to many of my friends who are into the natural living lifestyle too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So many uses for essential oils! </p>
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> This book contains various amounts of essential oil recipes that are very useful and surprisingly really easy to follow. Plenty of information to learn yet fun to make. Highly recommend this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So many to choose from! Great book </p>
+
+
+<h2> review.date </h2>
+  07-06-2014  
+<h2> review.text </h2>
+
+ <p> This is a good book about essential oil for body protection. It contains 49 great recipes to cure common health problems like: different kinds of pain, addictions, bleeding, blisters, burns, flu, clods and many more. If you&#8217;re a fan of natural healing then this book is for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good book </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> I particularly liked this new book by Deniz Oglo book because it was easy to follow the recipes. I am a beginner at being a user of essential oils - and I needed something specific to start off with - this book did exactly that. The recipes that I have done so far have all been delicious.  Highly recommended.  Jake </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the Beginner </p>
+
+
+<h2> review.date </h2>
+  07-06-2014  
+<h2> review.text </h2>
+
+ <p> This essential oils book is interesting and informative, you will learn about different types of essential oils and how to help your body. These ideas have been turned into great recipes, giving you a healthy diet </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great ideas </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> I have always been a health buff and reading this book is generally knowing the healing properties of various oils and realizing the benefits of essential oils not only to our emotional aspects but also to our physical well-being. This book is highly recommended to those who practice organic and traditional healing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It has a good amount of detail and useful tips. </p>
+
+
+<h2> review.date </h2>
+  07-04-2014  
+<h2> review.text </h2>
+
+ <p> After looking for different natural ways to help cure sicknesses and skin problems that may occur, I have finally found a book that has wonderful information! There are so many different types of recipes in this book that truly work. I have personally  tried a few and they have worked. I have learned so much after reading this book on essential oils for body protection. I highly recommend this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful book! </p>
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> So many great ideas and recipes! And this is just the begining: you get 49 recipes that are not only good for your skin, they also treat a serious of common illnesses. And it's all natural! Recommend it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Oils are great! </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> Essential Oil for Body Protection: 49 Essential Oil Recipes to Cure Common Illnesses with Natural Cures is one of the best books about essential oils I have ever read. Deniz provides really great information on essential oils and their uses. We uses essential oils in everyday life and I loved this book. You will not be disappointed! Great recipes inside that will surely helps cure common illness in a natural way. This author always shared great ideas and tips about how to have a healthy and protected body. I always recommend his work to everyone. Very helpful and informative. Great book like this always deserves a high ratings!Great job! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Essential Oil </p>
+
+
+<h2> review.date </h2>
+  07-01-2014  
+<h2> review.text </h2>
+
+ <p> If you are into natural remedies you have to have this book. It has essential oils recipes for any ailment you can think of. The list goes on and on. The oils work well together for each ailment and the book explains why and how the recipes work. Great book. Must Have For Every Family. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Must Have For Every Household </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

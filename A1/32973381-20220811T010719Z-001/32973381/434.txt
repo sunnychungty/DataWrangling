@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00846ZUB6 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-05-2014  
+<h2> review.text </h2>
+
+ <p> I found myself liking the people in this story . I wish they had continued the story line a bit farther </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great light reading </p>
+
+
+<h2> review.date </h2>
+  04-01-2014  
+<h2> review.text </h2>
+
+ <p> This isn't my usual style of book to read.  The book was well written and I found it enjoyable to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> well done </p>
+
+
+<h2> review.date </h2>
+  12-05-2013  
+<h2> review.text </h2>
+
+ <p> Born during the war itself, the author lived his boyhood with Civil War veterans. He wrote during a time that the old men were meeting at Gettysburg and other battlefields for reunions. By alternating narrators of titles between cousins from North and South, he tells the war from a young man's experience.Altsheler wrote because there was a lack of wholesome, educational books for young people. He covered a wide variety of U.S. and European history in well over eighty books. He managed four about WWI, but died before he could complete more.Children of his day had no video games, tv, or other media competition. I have seen these go from a few remaining copies in libraries, to expensive collector's items to free e-books. These are suitable for serious readers, old and young. Enjoy the treasure you can have inexpensively. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This author knew Civil War veterans personally. </p>
+
+
+<h2> review.date </h2>
+  02-04-2014  
+<h2> review.text </h2>
+
+ <p> I gave it five stars, I totally enjoyed this book. I love to learn of our Great American History. I'm not sure how accurate this book is but it was believable to me as if Richard Mason was actually there. I need more like this. I feel I come to understand the hardships that was had shaping our Great Country. I know there is more to learn. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The guns of Shiloh </p>
+
+
+<h2> review.date </h2>
+  03-22-2013  
+<h2> review.text </h2>
+
+ <p> Don't know how accurate it is , but very readable. Adds nothing to the campaign. Since 5 more words are required, it adds a human interest to the accounts that I have read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I was able to get through it. </p>
+
+
+<h2> review.date </h2>
+  04-04-2013  
+<h2> review.text </h2>
+
+ <p> An interesting read. If it is indeed factual, it is an interesting account of the early apart of the civil war. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shiloh </p>
+
+
+<h2> review.date </h2>
+  12-05-2013  
+<h2> review.text </h2>
+
+ <p> A great historical novel. Alexander delivers a great story based on actual history and factually correct and delivers it  in a wonderful fiction. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Battle Shiloh </p>
+
+
+<h2> review.date </h2>
+  11-20-2012  
+<h2> review.text </h2>
+
+ <p> i thought the book was very close to real conditions, and real people. only problem i had with it was that it seems like at the end there should be another book tagged on to it. the war was far from over at this point. do it again joseph! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great book. believable. </p>
+
+
+<h2> review.date </h2>
+  06-27-2014  
+<h2> review.text </h2>
+
+ <p> A journey with a combatant from a border state takes us through several battles.I felt my heart strings pulled by the stresses gone through from this point of view. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a very personal view of the American Civil War </p>
+
+
+<h2> review.date </h2>
+  03-14-2013  
+<h2> review.text </h2>
+
+ <p> Excellent book to read. It seems to me that the author was historically precise in his descriptions. He also caught the battle situation, its terror and suffering well. I think this book would be appreciated by Civil War buffs </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Guns of Shiloh </p>
+
+
+<h2> review.date </h2>
+  03-14-2013  
+<h2> review.text </h2>
+
+ <p> Filled with action. Thought provoking. Interesting Civil War info. I will follow up to see how factual, but definitely makes you think. Makes me want to read others in this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding historical fiction </p>
+
+
+<h2> review.date </h2>
+  11-29-2012  
+<h2> review.text </h2>
+
+ <p> I read this before a recent visit to Shiloh (TN) and to Corinth (MS) battlefields.  Without first hand explinations of what ocurred on those days of the battle, it would have been hard to evision the battle and the bluders and courage exhibited by both sides. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another must read book </p>
+
+
+<h2> review.date </h2>
+  11-17-2013  
+<h2> review.text </h2>
+
+ <p> just not enough real action about what really happened during this campaign. I like to read a lot of civil war stories but want more details about how the battles were fought and won </p>
+
+
+<h2> review.summary </h2>
+
+ <p> shiloh </p>
+
+
+<h2> review.date </h2>
+  03-01-2013  
+<h2> review.text </h2>
+
+ <p> I would recommend for any history buff. This book is of a union stand point. You will find yourself worrisome of the families on both sides. Another book hard to put down. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent read </p>
+
+
+<h2> review.date </h2>
+  11-06-2012  
+<h2> review.text </h2>
+
+ <p> This book is obviously written for a youthful audience, I would say, as an excellent introduction or supplement to an interest in the Civil War. It could be considered a Civil War version of "Johnny Tremain," the very popular novel about the American Revolution where the "hero" is a young man. Nonetheless, as with "Johnny Tremain," the story is well written, historically accurate and interesting to adults as well. I looked up maps of the battles on the internet as I read it and that greatly added to my enjoyment and understanding of the descriptions. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Re The Guns of Shiloh </p>
+
+
+<h2> review.date </h2>
+  03-19-2013  
+<h2> review.text </h2>
+
+ <p> I almost stopped reading when Dick was captured.the story was very intense , never knowing for sure  what was coming next.I enjoyed this book very much.IRay. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> And the rest is history ! </p>
+
+
+<h2> review.date </h2>
+  08-02-2013  
+<h2> review.text </h2>
+
+ <p> This was a very good book with a lot of history in it. I enjoy historical novels and this is one of the best I have read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shilo Review By T. Tilley </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

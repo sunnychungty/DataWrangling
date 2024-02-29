@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1934841404 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Return of Elliott Smith </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-29-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the second of the Elliott Smith Mysteries.  Although this one can be read as a stand-alone, I'd recommend reading His Name is John first to gain some background on the characters and their relationships with each other."Dealing with, even accepting the concept of, John had been hard enough, and had seriously shaken the foundations of his concepts of an orderly, logical world. To think that other people might be involved, or worse, that he was responsible for involving them, in this inexplicable new aspect of his life was truly disconcerting." - This encapsulates Elliott perfectly.  He cares.  He's kind, considerate, and intelligent.  But Elliott isn't perfect.  He'd be a boring subject if he were.  Like the quote said, he has to struggle with the concept of John, a non-corporeal presence in his life.  Adding yet more supernatural elements disturbs him very much.  I do feel sorry for Elliott.  He wants to be "just an ordinary guy," but the forces above won't let him, so he's forced to deal the best he can.Elliott's reluctance to take things to the next level with his lover, Steve, was annoying but understandable.  There's cautious, and there's not willing to commit.  Elliott is in danger of giving off the latter vibe if he's not careful.  I'm a hopeless romantic and I've got my fingers crossed that things between these two will solidify in later books."He [Elliott] awoke in the morning feeling as though he'd spent the night staring into a washing machine in which thoughts of Aaron and Bill and Irv Wilson and Jim Babcock and suicide and possible murder sloshed back and forth in response to the agitator of his mind" Great quote this.  It mirrored my own thoughts about who had done it.  Grey has penned a complex mystery, I honestly had no clue as to who or how until very near the end.  The usual basket of red herrings, plausible suspects and motives abounded.  But as always Grey plays fair with his readers, so those of a more investigative mind than I might be able to figure things out ahead of time.  But for the rest of us we can reread the book and exclaim "Oh, why didn't I pay more attention to that clue last time?"  Yes, this book is definitely worth reading more than once. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Steep Step Down </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-01-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Although I appear to be in the minority on this, for me, "Aaron's Wait" was a sharp step down from the first entry in the Elliott Smith mystery series.  In this effort, Elliott is again joined by John, the ghostly voice in his head, to solve a suspicious death.  Elliott's real life relationship with his boyfriend Steve is progressing nicely and he's got a new house to renovate.  But so much of the story is lengthy exposition that it gets tedious.  For every action taken by Elliott, we get to hear what he thinks about that action and what we feels about he thinks.  Plus, his feelings are often conflicted over his thoughts and actions so it gets to be too much.  Certainly character development is one of the hallmarks that separate a good mystery from one that is merely well plotted, but enough already.As for the core mystery, Elliott goes through the motions of finding out about the list of suspects and such detection covers a tiny percentage of the novel.  Then, without any warning, he literally wakes up one day with a theory of the crime based on information that was readily apparent early on.  Everything is wrapped up pretty quickly after that.  So if you're looking for a twisting mystery with red herrings and amateur detection, you won't find it here.I'm a fan of Dorien Grey and own every one of his books.  But I hope the next entry in the Elliott Smith series offers a tighter, more interesting mystery and less conflicted feelings from the protagonist about solving it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wait no more! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-30-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I admit I am a fan of Dorien Grey's writing.  First there was the on-going Dick Hardesty series, a gay reinvigoration of the mystery genre reminiscent of Ross MacDonald's Lew Archer.  Could the new Elliott Smith series meet my expectations?  Quite clearly, based on the first two entries, My Name Is John and now Aaron's Wait, the answer is yes.Aaron's Wait is intricately plotted, the clues numerous, the red herrings equally abundant, the resolution more than satisfying.  The characters are well drawn, heroes, evil doers, supportive and minor roles.  This is a classic whodunit.  Have I mentioned one tiny difference that separates the Elliott Smith series from other mysteries?  Either Elliott Smith is schizophrenic or spirits (that is, ghosts) are real!Substituting pre-WWII Chicago apartment buildings in need of renovation for medieval ruins, a distressed gay ghost in a window for the damsel in distress in the tower, populating the story with villains, tyrants, a madwoman, creating a supernatural atmosphere, Aaron's Wait is an American modernization of the Gothic genre.  And Dorien uses the development of the renovation project that Elliott is working on as a metaphor for the parallel resolution of the mystery.By the way, I personally believe Elliott is sane, and that voice inside his head is a spirit.  But do yourself a favor - read the book, enjoy and decide for yourself. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Hooked on Dorien Grey as a writer </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-05-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Although I purchased this book via another vendor I wanted to recommend it and the author to those who enjoy a mystery with a bit of a twist. The characters gain more depth with each book and I am looking forward to the next one. My only wish is for Elliot and Steve to declare their relationship rather than continue skirting the "R" word and all it entails. Come on guys you were made for each other. Really. All kidding aside, what I appreciate about Dorien Grey's writing is the lack of gratuitous sex (boring) and actually crafting plots, dialog, and characters, which he infuses with sharp wit and dry humor. I end up feeling as though his characters have intelligence and maturity rather than a raging libido - this goes for both the Elliot Smith & Dick Hardesty Mysteries. I haven't disliked or been disappointed yet - I hate when I feel as though I have wasted even a few dollars or time on a mundane novel. "His Name is John" and "Aaron's Wait" are entertaining stories to curl up in a cozy chair and read. My two cents. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another Great Book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-13-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really enjoyed the second installment in this series.  I like the building of the characters and I enjoyed the "coincidences" in the mystery that lead to the ending.  I love to watch Dorien's unfolding of his characters in his novels.  They don't magically work everything out in one book but grow over time to create a realistic whole.  I look forward to the next one to see where we go from here.Laurie </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Aaron's Wait by Dorien Grey </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> In 'Aaron's Wait', the second book in the Elliot Smith Mysteries, by Dorien Grey, Elliot's partner Steve finds a house he knows Elliot will love and want to renovate. What they didn't know they would find there is a ghost, Aaron, who won't leave because he is waiting for his lover to return. In order to help Aaron with his unresolved issues, Elliott, with his own ghostly assistant, John's, help, becomes embroiled in another unsolved mystery.Elliott says he doesn't want to be a detective, but I have my doubts. He is getting very good at the business of sleuthing. Now that he believes and, in fact, depends upon otherwordly help, he doesn't discount any information he receives from his observations or John's. Elliott is still hesitant to involve Steve in his detective work, even though he knows that Steve is also sensitive to things that most people can't perceive; but Elliott is used to working alone. I think he knows that he loves Steve, but he's hesitant to need anyone or to let them that far into his heart and mind. It's too uncomfortable for Elliott to have to rely on anyone else. This is one reason it's taking him so long to accept John's existence. He doesn't mind his help but detests the way John can get into his head and read his thoughts. John knows this and tries to respect Elliott's feelings about it. Elliott also withholds information from his brother-in-law, Brad the police officer, for fear of him thinking he's insane; but as time goes on, Brad realizes that Elliot is getting his clues from some special source, gives up, and calls them hunches rather than pursue it further. With a warning from him to be careful, Brad accepts Elliott's hard work because it helps him solve cases and that's more important than knowing where the clues come from.John continues to improve in his development as a disembodied spirit. He and Elliott have an ever better rapport and a mutual respect. Many of their conversations are laced with wit and humor which gives them a sense of levity that accompanies the serious information they discuss. John is also better at making his presence known during Elliott's waking hours which is an important development. When John is there, Elliott knows he will get important feedback later. Aaron, the spirit living in Elliott's new project, is a challenge for John. Even though he's technically an older spirit, Aaron has been so wrapped up in his grief about his lover that he's not been able to evolve properly. He's a whirling mass of confusion, heartache, and grief. The only way he can communicate with the living is through a technique called knocking. He makes rapping sounds on doors, walls, wherever when he's trying to make his presence known, and although effective in announcing himself, it doesn't help convey any other message. When Aaron becomes more oriented, he begins to give John clearer important facts; John conveys to Elliot who pursues them. Aaron also begins to take a more active role by trying to contact Steve and Elliot which does more harm than good. With some negotiation, John convinces him not to actively participate.I simply love this mystery/suspense/love story series. The paranormal element gives it a special refinement which is engrossing and unique. As I traversed the hints, clues, and deliberately misleading information, it's not just the perplexity which caught my interest, but the amazingly real characters, each bringing their unique personalities into the plot. I especially love Elliott's sister and family who are exceptionally endearing and, of course, Elliott who constantly downplays his involvement and success, as well as Steve who has to be one of the kindest, most down-to-earth lovers anyone could have. They are so good for each other because they each bring a special kind balance to the relationship. Their interactions might seem restrained, but they are deep and meaningful, and apparently steamy in bed.If you'd like to read an exciting mystery which is also so much more, then 'Aaron Waits' may be a book you will enjoy. Thank you, Mr. Grey, for the excitement and suspense and for also introducing me to Elliott, Steve, and John. I look forward to reading more about them in the near future. Originally reviewed on Rainbow Book Reviews. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Aaron's Wait - the next installment in a great series... </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-03-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> We were introduced to Elliot Smith in HIS NAME IS JOHN. Elliot is injured and in a coma after being hit by a car. When he regains consciousness, he is aware of a new presence. That presence is John. John is dead, and in the first book Elliot finds himself trying to solve John's murder.In the second book, AARON'S WAIT, John helps Elliot solve yet another murder case. This time it's not the ghost who was murdered, but the ghost's lover. The ghost died of a broken heart, and he still waits in the apartment they shared for the return of his lover.This is a major problem for Elliot. See, Elliot buys old buildings, restores them, and then sells them. He loves the old architecture of Chicago, and each building he chooses is special. His restorations are detailed, painstaking and beautiful, and the buildings are worth a great deal more once he's finished with them.It is his great love in life, bringing back a wonderful old building to shine like new again.But Aaron is still waiting in his apartment in Elliot's new building, and he knocks on doors and bangs around, and it's going to be very difficult to sell a building that is haunted. So it's pretty important that Elliot figure out what happened so that Aaron can have some peace and move on.As a fellow ghost, John works on Aaron and Elliot works on the living.Elliot is a great character. He's stable, gentle, and has a loving relationship with his sister, her husband and children. He also has a boyfriend, Steve, who's a wonderful painter. Steve is also "sensitive" and when he does a painting of the building he places a figure in the window of Aaron's apartment.Figuring out what happened to Aaron's lover, Bill, is not easy. Nor is it easy for John to get through to the very upset ghost to gather information. But working together, John and Elliot do indeed solve the murder and bring peace to both Aaron and the building. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Lovely mystery </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-07-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this book thinking that I am buying the first Eliott Smith mystery  and instead it turned out to be second one. My conclusion is that it stands well enough on its own, although it will definitely help to read the first book to understand the initial setup of how Elliott and John came to be I guess and I am sure to see some character development.So, I loved this one, I used to love mysteries, but at some point read too many of them and almost stopped reading, that means that I am not a good judge of how well the mystery angle was crafted. I know that I did not figure out the villain right away, but that does not mean that more experienced mystery readers will not feel differently. But I definitely enjoyed the story, I loved how smooth it was moving forward, I loved the "not over the top" writing, I enjoyed the main character tremendously. I was cheering for him to develop his relationship with Steve further, but I think that slow is very appropriate for these books. I sympathized with his unwillingness to lie to Steve, but also worries about what Steve will think of him if he will share about John. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Worth the wait </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-10-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Elliot and "corporeally challenged"  John are one of the most peculiar team of sleuths ever appeared in mystery literature. Elliot's new building renovation project hits a snag...a tenant who won't go away and Aaron,a pathetic ghost who's waiting for his departedlover, Bill. Apparently Bill has killed himself, but there's something fishy, there... and Elliot and John will have many suspects to consider, a bit desperate business partner, an homophobic brother, a stalking ex boyfriend, all having a possible motive. Paranormal and oordinary reality mix deliciously, in this really original novel, showing detailed characters' development and a puzzling mystery. But what's wonderful are the consultations between Elliot and John, filled with sensibility and uncanny humour,and, as John says "I can go to the Beyond whenever  I want, and since I can't come back I'm in no no hurry"Let's hope so, since we look forward for other stories of the oddest of sleuths pair! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Four and a half stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-05-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I read this book without the benefit of having read the first in the series.  As many have commented, it stands alone very well; however, it would definitely have helped knowing the backgrounds of the characters and their relationships.  I plan on reading the first (except, strangely, it's not out in Kindle version).Elliot Smith is an independently wealthy man in his 30s who restores old buildings.  The problem with his newest renovation is that there is a ghost (Aaron) who will not leave the premises until Elliott is able to solve the mystery of what happened to Aaron's lover/partner, Bill.  Aaron is haunting the newly renovated building that Elliott is wanting to sell and, therefore, he realizes that Aaron won't allow him to sell until Bill's mystery is solved.  It would appear that Bill just left their house one day and never returned.  Aaron died shortly thereafter--before he found out what happened to Bill.  To say anymore would risk ruining for others.This is a fun read.  Although the plot gets a bit complicated, it's not a difficult read at all.  There is something very comfortable and engaging about the characters and their interaction.  To me, this is not a gay book.  This is a mystery where the main characters happen to be gay.  There is some occasional sexual innuendo but nothing that would offend the "run of the mill" straight reader (in other words, not for the Rush Limbaughs of the world).  I heartily recommend. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

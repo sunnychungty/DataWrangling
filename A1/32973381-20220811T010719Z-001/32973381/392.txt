@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0015SY0JI <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-03-2008  
+<h2> review.text </h2>
+
+ <p> Martial alien monkeymen moonside misappropriation recovery.3 out of 5 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Free SF Reader </p>
+
+
+<h2> review.date </h2>
+  05-04-2014  
+<h2> review.text </h2>
+
+ <p> It is just a short story and as a Dune lover I was hoping for more out of Herbert on this one. I think it is free so it is worth the quick read it represents. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just a short story </p>
+
+
+<h2> review.date </h2>
+  12-23-2013  
+<h2> review.text </h2>
+
+ <p> Where is the rest of this story? Perhaps part was not posted. Hopefully, Amazon will follow up on this problem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dissapointing </p>
+
+
+<h2> review.date </h2>
+  10-29-2013  
+<h2> review.text </h2>
+
+ <p> It's a quick read, but hardly a classic short story.  I got it for free.  I'd be ticked off if I'd have paid for it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So so </p>
+
+
+<h2> review.date </h2>
+  02-18-2013  
+<h2> review.text </h2>
+
+ <p> I have enjoyed a dozen books by Frank Herbert that were written separate from the Dune series.  This is one of them.  Since it was free, it was an especially good purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> excellent non-dune book by Frank Herbert </p>
+
+
+<h2> review.date </h2>
+  06-17-2014  
+<h2> review.text </h2>
+
+ <p> I am a real fan of Sci-Fi and of Frank Herbert.  His book Dune is one of the great classics of Sci-Fi.  This story is not up to his standards.  Frankly it was like he was being paid to write a story of so many words for a magazine and he suddenly realized that he needed to finish so the story quickly and abruptly ends.The story starts off well like one of Andre Norton's space interplanetary exploration teams making first contact with a new race.  The man assigned the task of making first contact knows the new race cannot be trusted and he knows that they have captured a space ship.  Suddenly within a few questions he solves the puzzle of where the ship is and turns the tables on his captor.  The story ends so quickly it makes you wonder why you wasted your time reading it.  It is only about 30 minutes of reading time so if you have an interest in the book then go ahead and enjoy it.  I am just glad that I didn't pay for the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A book that is not very good and not up to Frank Herbert's quality of storytelling! </p>
+
+
+<h2> review.date </h2>
+  06-16-2014  
+<h2> review.text </h2>
+
+ <p> I love Frank Herbert's books, so this was an interesting peek into the writer as an "embryo." This reads like classic pulp Sci-Fi, but you can see the writer-to-come in some of the passages. It's too short, it's the kind of stuff you read in "Analog", it needs more fleshing out, but the themes of later Herbert books are twinkling in the darkness. It was free, it was interesting. It wasn't great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Embryonic Frank Herbert--worth reading for Herbert aficionados </p>
+
+
+<h2> review.date </h2>
+  08-09-2013  
+<h2> review.text </h2>
+
+ <p> Kinda takes you back to when Herbert was a kook who wrote great SF for magazines, instead of a franchise with a dead guy's name. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> sweet </p>
+
+
+<h2> review.date </h2>
+  03-29-2013  
+<h2> review.text </h2>
+
+ <p> I, again, must congratulate you on your promptness of delivery.  It seems that I repeat myself, but it is so satisfying to know that I don't have to wait at all to receive an order. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Almost instant delivery </p>
+
+
+<h2> review.date </h2>
+  01-06-2014  
+<h2> review.text </h2>
+
+ <p> Herbert has a gift of setting scene and making people real nice story and a very quick read. had to find it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great read of older type sci-fi </p>
+
+
+<h2> review.date </h2>
+  11-21-2013  
+<h2> review.text </h2>
+
+ <p> This is a fun example of the timewhen writers were paid by the word and quantity was a living. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great early space opera </p>
+
+
+<h2> review.date </h2>
+  08-22-2013  
+<h2> review.text </h2>
+
+ <p> Herbert is my favorite  author but this book left me cold.  I reread his other works but I threw this one out! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not nearly as good as I expected </p>
+
+
+<h2> review.date </h2>
+  02-06-2014  
+<h2> review.text </h2>
+
+ <p> Short read of under an hour. Not a story that keeps you up on the edge of your seat with excitement. Light on the classic controversial topics that have become synonymous with great science fiction. The main character's encounter with alien life is more Gilligan's Island than Isaac Asimov. Sufficient to fill an hour, if you have one to spare.Free Kindle edition seemed free of error and functioned without flawlessly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Xenolinguistics....or lucky guess. </p>
+
+
+<h2> review.date </h2>
+  07-23-2012  
+<h2> review.text </h2>
+
+ <p> The protagonist in this story is a very clever fellow indeed. Only Frank Herbert writes such cerebral short stories.I recommend this short story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great Frank Herbert short Sci-Fi story </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

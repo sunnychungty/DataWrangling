@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0006TPDRU <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-28-2010  
+<h2> review.text </h2>
+
+ <p> WHAT A GREAT MOVIE AND WHAT LUCK TO FIND IT AGINE AFFTER SO MANY YEARS OF LOOKING FOR IT THANK YOU FOR YOUR SEVICES IT WAS SPOT ON TIME AND IN REALY GOOD CONDISTION THANK YOU </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great movie </p>
+
+
+<h2> review.date </h2>
+  12-14-2013  
+<h2> review.text </h2>
+
+ <p> I LOVED THIS ONE ALSO, IT HAD LOTS OF ACTION PLUS IT WAS FUNNY . I WOULD SUGGEST IT TO MY FAMILY AND FRIENDS, MOST OF US ARE FANS OF CHUCK NORRIS.suggest </p>
+
+
+<h2> review.summary </h2>
+
+ <p> FIREWALKER </p>
+
+
+<h2> review.date </h2>
+  03-10-2014  
+<h2> review.text </h2>
+
+ <p> This is a funny, action adventure. It doesn't take itself too seriously. My favorite part was the bar room brawl. In this film Chuck beats up the bad guys while telling many humorous one-liners. Gossett plays the brains who often gets beat up. Anderson is beautiful and plays the love interest. This is not a great film but if you like Norris you will enjoy yourself. The three main stars keep your attention and the action and humor come at a fast pace. If Norris isn't fighting he's cracking jokes. The film is enjoyable entertainment for the whole family. Recommended for all Chuck Norris fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An enjoyable adventure. </p>
+
+
+<h2> review.date </h2>
+  08-01-2013  
+<h2> review.text </h2>
+
+ <p> Kinda hammy, but I am a Chuck Norris fan and Lou Gossett fan. I believe Chuck may have been trying to break into those kind of adventure movies. Not his style, to me anyway. Still I like the movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good </p>
+
+
+<h2> review.date </h2>
+  11-23-2008  
+<h2> review.text </h2>
+
+ <p> It's a funny action movie. The action/fighting scenes are not as serious as other films starring Chuck Noris. However the humour makes this DVD very entertaining.I've watched it 3 times. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> FUNNY ACTION MOVIE. </p>
+
+
+<h2> review.date </h2>
+  05-10-2014  
+<h2> review.text </h2>
+
+ <p> This is such a great movie I watched in many times growing up and it never gets old. There is a lot of humour between these two great actors and I strongly suggest this film to and Chuck Norris fan/watcher. The only other film that I fell truly beats this one is Lone Wolf McQuade which is another film in which I STRONGLY recommend to those that do not have it. It is full of Action and makes you come to know why people fear Chuck Norris. SO BUY FIREWALKER AND LONE WOLF MCQUADE if these two films are not in your collection! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My second Favorite Chuck Norris Film! </p>
+
+
+<h2> review.date </h2>
+  08-15-2007  
+<h2> review.text </h2>
+
+ <p> Fun to watch, not the normal Chuck Norris film. One to watch overand over again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One for all the family </p>
+
+
+<h2> review.date </h2>
+  06-26-2014  
+<h2> review.text </h2>
+
+ <p> This is your standard adventurer movie, not a film, a popcorn movie. Chuck Norris isn't famous for his acting, but when he and Lou Gossett together knock out three men with their fists, (a one punch knockout) that scene alone is worth the rental. Fun storyline and Melody Anderson is great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> vintage chuck norris </p>
+
+
+<h2> review.date </h2>
+  11-23-2007  
+<h2> review.text </h2>
+
+ <p> Chuck Norris and Louis Gosset are great in this film. chuck and Louis play old friends who love to find treasure. Max (Norris) and Leo (Gosset)are at a bar thinking about calling it quits on treasure hunting anymore when this woman (Melody Anderson)walks into the bar looking for two men who are not scared of anything and love a challenge. so this woman is pointed to Max and Leo and she tells them about a map that will lead to treasure and it is dangerous. so they go and the aventure starts. the come backs between the three is funny. enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A REALLY GOOD MOVIE </p>
+
+
+<h2> review.date </h2>
+  12-16-2013  
+<h2> review.text </h2>
+
+ <p> One of the most fun Chuck Norris movies ever.  Lou Gossett, and Norris banter was awesome throughout.  Sort of like a funny Indians Jones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Norris Movie! </p>
+
+
+<h2> review.date </h2>
+  04-08-2013  
+<h2> review.text </h2>
+
+ <p> this is a really good moviebut for the price to keep going up is ridiculousso no longer want it as it will be removed from my favorites </p>
+
+
+<h2> review.summary </h2>
+
+ <p> too expensive </p>
+
+
+<h2> review.date </h2>
+  01-21-2014  
+<h2> review.text </h2>
+
+ <p> Great and a bit funny movie of him and some of the his truth of the man he is etc. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  01-13-2009  
+<h2> review.text </h2>
+
+ <p> Firewalker is a movie that will make you laugh. Chuck is calm, relaxed, and able to jump at amonents notice.  Lou is an excellent actor and makes the combo of him and Chuck work really well together.  If you like Indiana Jones this will make a good addition to your collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Firewalker </p>
+
+
+<h2> review.date </h2>
+  09-21-2008  
+<h2> review.text </h2>
+
+ <p> This is not a bad movie, i like it  and the chemistry between Norris and Gosset are really fun to watch.Of course, it's cheesy at times and the acting is not so good but that's what makes it fun.I recommend it, as a fan of Chuck Norris this is a must have in the collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> There are moments </p>
+
+
+<h2> review.date </h2>
+  03-30-2012  
+<h2> review.text </h2>
+
+ <p> I have been looking for this movie for about 15years, thank you Amazon, i now have one of the best action movies made in the 80's!  Chuck and Lou are great, as a Sonny Landham fan, it's the best!  And you can't forget Will Samson, in one of his last rolls. He is greatley misst!  If you like a good action movie, with a bit of fun, your going to enjoy this one a lot! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Firewalker Fan at 59! </p>
+
+
+<h2> review.date </h2>
+  04-29-2013  
+<h2> review.text </h2>
+
+ <p> Lots of action and adventure.  Would recomened to anyone who likes Action and adventure.  I've liked Chuck Norris in everything I've seen him in. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love Firewalker </p>
+
+
+<h2> review.date </h2>
+  11-21-2006  
+<h2> review.text </h2>
+
+ <p> Firewalker was meant to be a combination of Romancing The Stone and Lethal Weapon, and what it is instead is a horrible mismash that wastes the talents of two fine performers - one, a great action movie star (Chuck Norris) who knows how to be charming without going the full fledged comendy route, and a great actor (Louis Gossett, Jr.)whose desire to star in a potential blockbuster may have overwhelmed his judgment.In Firewalker, Norris and Gossett play two adventurers that end up on a quest for lost treasure, and run afoul of an evil spirit who doesn't want the treasure to be taken. That's as good (or in this case, as bad) as it gets. It's not fun, or particularly excting, and while it might have seemed like a good idea to give Norris a hand at comedy, it doesn't work.Firewalker is quite missable. Both actors have made many other movies that are a lot more entertaining. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not One of Norris' Best Efforts </p>
+
+
+<h2> review.date </h2>
+  03-09-2005  
+<h2> review.text </h2>
+
+ <p> Chuck Norris and Lou Gossett Jr. teamed up to make this "Raiders of the Lost Ark" inspired buddy adventure film that unfortunately had a few too many thrills and laughs to make it anymore than a mediocre film.  They play a pair of furtune hunters who are hired by a woman named Patricia Goodwyn (Melody Anderson) who has a map to a lost treasure.  Their quest takes them to Central America where the requisite two-dimensional baddie named El Coyote (Sonny Landham) is also after the treasure and has magical powers to back him up.  Even "Raiders" vet John Ryhs Davies pops up in a cameo.Unfortunately Norris just looks to stiff when he is not punching someone's lights out and the problem is only made worse as he tries his hand at comedy and it all comes off as very forced.  And while it tries its best, it has none of the sheer adventure of the Indiana Jones movies.  The film was directed by veteran J. Lee Thompson who basically directed all of Charles Bronson's bad movies of the 1980's such as "Death Wish 4", "Murphy's law" and "10 to Midnight".  Thompson seems to have been a poor choice to direct a comedy adventure film, especially since he also directed the even worse "King Solomon's Mines just one year earlier.  But I guess he was one of those Golan-Globus, Cannon Films stable of directors so that's why he got the gig.Melody Anderson was moderate eye-candy in the day but she quickly faded out of show business just a few years after she did this film.  I don't think this film was the cause, though.On the plus side the scenes and locations are nicely shot and it at least looks adventurous even if it's mostly window dressing.  This is a good movie but it had the promise to be so much more with a better director and a better script. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SHOULD HAVE BEEN MUCH BETTER </p>
+
+
+<h2> review.date </h2>
+  05-28-2013  
+<h2> review.text </h2>
+
+ <p> I was really pleased to find this DVD in excellent condition.  After all, it was in English and Widescreen.  I've been wanting to see this movie since I last saw it on TV probably in the latter 80's.  It's my favorite Chuck Norris adventure film. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Firewalker Widescreen DVD </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

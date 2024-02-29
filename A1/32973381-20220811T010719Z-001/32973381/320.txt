@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1563895811 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-15-2004  
+<h2> review.text </h2>
+
+ <p> I'll start off by admitting that I'm not a huge fan of DC comics--other than Batman. And I'm not really a Wonder Woman person (and this is a WW story). But this really was alright. It is a story of betrayal and has an interesting philosophical/morality bent to it. It has dragons. Good writing. And an interesting artwork--almost painterly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> really for Wonder Woman fans </p>
+
+
+<h2> review.date </h2>
+  05-31-2003  
+<h2> review.text </h2>
+
+ <p> A quick summary of "A League of One" goes like this: Diana discovers from the Oracle of Delphi that members of the Justice League will die if they face a recently re-awakened primordial dragon. The very breath of the dragon corrupts the soul, and Wonder Woman decides to sacrifice herself for the sake of her friends by resorting to lies and trickery to get them out of harm's way. This is much more difficult than it sounds -  Diana's essence is the spirit of truth - her decision to betray her friends in order to save them cuts into her very soul. Nevertheless, she goes ahead with her plans... I like this book a great deal because of the gorgeous artwork, which successfully fuses fantasy art with superhero action. Diana's character in this book remains true to both her mythological roots and to George Perez's revamp of Wonder Woman in 1986. Her pain at having to betray her friends, in particular Superman, is clearly portrayed, as is her deep friendship with Superman. Superman, the Boy Scout, and Wonder Woman, the Spirit of Truth, would have been so right for each other if it wasn't for Lois Lane. Although the theme of betrayal by a member of the Justice League is also explored in "JLA: The Tower of Babel" collection, I much prefered "A League of One". That is not to say this book is perfect - it is hard to imagine Diana not sharing her dilemma with her friends and trusting them to come up with a solution. The Justice League is family, and families take care of their own together. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A worthy book for any Wonder Woman fan's library. </p>
+
+
+<h2> review.date </h2>
+  08-12-2010  
+<h2> review.text </h2>
+
+ <p> Loved the way legend is blended with mythology and fiction. Also really liked the way the action has been blended with larger questions about morality, truth and deceit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> League of One </p>
+
+
+<h2> review.date </h2>
+  11-01-2002  
+<h2> review.text </h2>
+
+ <p> This graphic novel may be marketed as a JLA book, but make no mistake, Wonder Woman is far and away the star. When a monstrous dragon appears in Europe, the Oracle at Delphi makes a prediction to Wonder Woman -- the Justice League will defeat the dragon, but perish in the attempt. Wonder Woman swears, then, to save her teammates from death the only way she can -- by defeating them each, one at a time, and then facing the dragon alone.Simply put, this is one of the best portrayals of Wonder Woman I've ever read. She is gentle, but decisive, a woman of peace but ready for battle in an instant when she sees no other way. She is strong (as shown in her battles with Batman and the Flash) and wise (by taking Superman out of the picture the only way she could). She's a full, rounded, honest character, and that alone makes the book worthwhile.Furthermore, this story gives us something every comic fan loves to see -- heroes in a good scrap with each other. The problem is that those stories almost always involve some stupid misunderstanding or mind control or some other contrived plot device -- but not this time. It's perfectly in character and exciting to boot.Moeller's artwork is also beautiful. Although more suited for a fantasy story than a superhero tale, that's what this grapic novel really is -- a fantasy that happens to feature the JLA. There's one portrait of Wonder Woman emerging from dragonfire, her bracelets glowing with heat, that's absolutely breathtaking. (This illustration is used on the back of the paperback edition of this book -- even if you don't get it, check out that art!)"A League of One" is well worth the purchase for any fan of fantasy comics or Wonder Woman. It's great to see DC doing some good, original graphic novels. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonder Woman's League </p>
+
+
+<h2> review.date </h2>
+  09-02-2007  
+<h2> review.text </h2>
+
+ <p> A prediction of the future tells Wonder Woman that the Justice League will die will fighting a monster.So, the natural thing to do for a super-confident selfless Amazon warrior is to beat up her teammates, and go and beard the dragon herself.Ok, well, maybe not.  The science of time is not Wonder Woman's strong suit, methinks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Graphic SF Reader </p>
+
+
+<h2> review.date </h2>
+  04-12-2014  
+<h2> review.text </h2>
+
+ <p> Wonder Woman is something of an interesting icon in American comic history. Oft referred to as one of three members of DC universe's &#34;trinity&#34; (a gross misuse of the word, by the way), Wonder Woman has had one animated film, a short lived television program, and numerous supporting roles in cartoons such as the JLA. However, unlike the other members and the trinity, Batman and Superman, she has not been given a full treatment on the silver screen nor has she struck a chord with the American cultural vernacular in the same way. This is a great loss, for Wonder Woman is perhaps the most noble of three.I did not always believe this, but Christopher Moeller, with his graphic novel JLA: A League of One, has changed my mind. After reading this book I would certainly put Wonder Woman into my Top 10 Comic Book Heroes Of All Time, and I look forward to seeking out more of her adventures (though I think all will pale in comparison to this initial one that made me value her so).I can wax poetic about many things in this book: the story itself, Moeller's breathtaking art, the wondrous exploration of mythical creatures, and the beautiful theme of true heroism. All of these and more seem like good fodder for discussion. But perhaps the best way I can go about the recommendation of this graphic novel is very simply to say this: in a world of mundane and tired rehashes of the same old conflicts, JLA: A League of One is a masterful tale for the reader of all ages in all aspects of comic book composition.Granted, I come to the book with a love of myth as well as a working knowledge of the DC universe and it's many characters, but my knowledge of them is only skin deep. I recognize them by virtue of following various toy lines in which these characters recur. While I have read several DC books, I have not been steeped in the lore to any real degree (though the more DC comics I read the more I have an appreciation for that comic universe, something I cannot really say for Marvel given that the vast amount of books I read from that imprint are disappointing).Luckily, the story of A League of One is not necessarily concerned with all of the DC characters involved, less Wonder Woman herself, and this is a wonderful exploration of her. Let us not forget that she is one of only two members in the female members of the JLA, and in a great many stories (at least that I have read), she is lessened in favor of bolstering the exploits of the male members. Given this gender specificity within not only a team of superpowered beings but also an industry full of men, Wonder Woman deserves a great deal of respect simply by virtue of her presence. This book gives her all the more reason to be cherished not only among her super peers, but among all contemporary heroes. She is noble, intensely conflicted over doing what is right, and she serves as a stark picture of strength, truth, and sacrifice.With Wonder Woman at the heart of this book, Moeller creates a narrative that is constantly compelling and enhanced by his ever vibrant and beautiful art. For the comic reader, I cannot recommend JLA: A League of One highly enough. I consider it requisite reading for the DC Universe, and I challenge anyone to find the book anything less than excellent. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of My Favorite DC Books! A True Gem! </p>
+
+
+<h2> review.date </h2>
+  02-23-2003  
+<h2> review.text </h2>
+
+ <p> The title is incorrect. It should be "Wonder Woman : A League of One", as the JLA team members barely make an appearance at all. This is a Wonder Woman story all the way through. The art is beautiful, painted on par with Alex Ross. The story seems to be influenced by The Lord of the Rings... Wonder Woman is the Dragonslayer! As far as JLA books go, this one is better than anything Grant Morrison wrote... but not quite up to Mark Waid standards. If you enjoy fantasy, buy the book. If you're wanting a superhero story, skip this one. I thought it mixed mythologies well, but I'm sure some purists will find fault with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the better JLA stories </p>
+
+
+<h2> review.date </h2>
+  12-02-2003  
+<h2> review.text </h2>
+
+ <p> This is a GREAT story. Deep characterization of Wonder Woman, with everything flowing out of that characterization. This story could not have been told with any other superhero.Add to that the awesome artwork and you've got a high-quality tale that you'll be showing your non-comics friends to get them to consider buying comics. Yep, it's THAT good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Moeller's work is excellent </p>
+
+
+<h2> review.date </h2>
+  01-22-2001  
+<h2> review.text </h2>
+
+ <p> This was infact the worse comic drowing I ever seen , I'll remember the name Cristopher Moeller for never to buy a comic by his name again, though I did give the comic 2 stars its only as response for the plot, which would've become 4 stars if not for him . which is all about how WONDER WOMAN get a prophecy that the JLA will be massacred if they went to face a dragon , and for that she betrayed the JLA got them out of earth for her to face the Dragon as a the &quot;league in one&quot; knowing that death a wait her. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ugly </p>
+
+
+<h2> review.date </h2>
+  01-09-2010  
+<h2> review.text </h2>
+
+ <p> This graphic novel showcases WW's warrior spirit with profound clarity through the use of the artwork and the introspective narrative. No WW collection is complete without this issue! ;) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> League of One </p>
+
+
+<h2> review.date </h2>
+  05-14-2005  
+<h2> review.text </h2>
+
+ <p> Yup, I really have to admit that. I don't really like WW's tiara (she's wearing the pre-crisis one-pointed tiara, whereas post-crisis WW always wears the double-pointed tiara - serves as boomerang as well) and occasional painting of WW that made her look like a 40s year old maiden than an ageless Amazon.But that's not nearly a good reason for me to down grade the stars for this book. Truly, this book is cool. I missed this book as I thought it was a JLA book (I like JLA, though...) and for a sillier reason: the one-pointed tiara (I just don't like it, what should I do...).Yet, after I bought it and read it, man... it was awesome! The art was beautiful, like paintings. I especially like the panels when Diana faced the fire of Drakul Karfang alone, and the fire did no harms to her at all. Also the nice one page panel when she chased the dragon from above; with the clouds on the background, and her unique flying position. And when she yelled," Drakul Karfang Serpente Draconis! I did not give you leave to go!"  Man... Christopher Moeller knew exactly how to write and graw WW...And the story. Marvellous! She was the Spirit of Truth, but chose to hide the truth from her fellow leaguers in an attempt to save them from the gruesome death (as indeed none of them would survive the dragon's fire...). I say she was a true warrior. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The best stand-alone Wonder Woman story! </p>
+
+
+<h2> review.date </h2>
+  01-04-2001  
+<h2> review.text </h2>
+
+ <p> This is a well crafted story  with even greater artwork.  The story basically deals with sacrificing ones-self to protect those whom you love and care about.  It raises the question:  How does one do this?Wonder Women choose the road of hiding the truth and, what looks to be betrayal of friends, for what she considers the greater cause to save their lives.It begs the questions whether this is the right course of action?  Even though she is victories, she herself defies the prophecy about the JLA destruction with her own survival. (To know what that prophecy is, one must read the book). Did she choose well?  The reader is left to decide.That is the only problem, is that the author didn't steer the reader to a moral high ground and even though Wonder Woman's actions aren't really endorsed, one comes away thinking she might have done the right thing (if this was a philosophy class, one could argue against her actions solidly). Other than that, the book is well worth the read and get this in the hard back before it becomes a paperback.  The artwork is splendid to say the least. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> JLA and Wonder Women </p>
+
+
+<h2> review.date </h2>
+  01-23-2001  
+<h2> review.text </h2>
+
+ <p> with beautiful artistry and characterization,i feel that this is one of the best JLA books around. although not much modern action, it is best looked at on moral terms. an ancient dragon awaits. she has her own minions doing evil upon the earth. wonder woman, being foretold of this evil (and also told that she and her teammates will perish) decides to battle this one alone. one-by-one, she gets rid of her teammates. YES, even batman! in an all-out brute strength and skill fight! and so, she faces the dragon alone. she then realizes that one of the dragon's attacks would have destroyed her teammates, yet she alone can survive such an attack. in a touching ending, the JLA stand together again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> finally, portrayal of wonder woman done right! </p>
+
+
+<h2> review.date </h2>
+  05-26-2014  
+<h2> review.text </h2>
+
+ <p> This book deserves 5 stars because it is one of the best written and drawn stories in the JLA series. The artwork is amazing and the story is compelling. I've always wanted to own a copy and now I have a hard cover copy of this classic JLA comic/graphic novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> JLA A League of One </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

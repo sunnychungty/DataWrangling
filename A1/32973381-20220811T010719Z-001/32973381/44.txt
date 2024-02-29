@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B001D0G56E <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-14-2009  
+<h2> review.text </h2>
+
+ <p> This has been a great camera.  We are very pleased with the quality and functions.  Great camera at a great price - what more can you say.  Sure you may get more if you pay more, but for the average or above average user this is a great camera.  I bought it for my son and like it so much I will probably hand down my current camera and get another one of these. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great camera </p>
+
+
+<h2> review.date </h2>
+  12-25-2008  
+<h2> review.text </h2>
+
+ <p> I love this camera. My uncle bought it for me and sent it to me through Amazon. I am no camera expert, but then again it was only 200$.The camera feels small and compact, but powerful and agile. It has plenty of features that I have no idea what to do with! There's so many. The video quality is great, much better than I would expect from a camera that's meant for point and shoot. The batteries seem to last me plenty, but then again I don't take hundreds of photos every 10minutes.I recommend this great camera at such a great price.=) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Camera </p>
+
+
+<h2> review.date </h2>
+  09-21-2008  
+<h2> review.text </h2>
+
+ <p> I was looking for a "prosumer" priced and sized camera with the following features:1. Uses non-proprietary batteries (this one uses 4 AA batteries)2. Capable of optical zoom during video recording (this camera does that, but see below)3. Capable of digital zoom during video recording (this camera does 5.7x digital zoom - if you turn on the digital zoom feature, you can optically zoom before starting the video record, and then zoom digitally another 5.7x from that point forward - optical zoom does not work during the video if digital zoom is turned on)4. Long zoom (15x - lens range is equivalent to 27.6mm - 414mm on a 35mm camera)5. HD video mode (1280 x 720 videos, also does regular 640 x  480 and 320 x 240  videos).Although this camera does do optical zooming during video recording, there are some downsides to this feature.  You can hear the little gear motors running during the zoom (I've posted a YouTube video so you can hear the sound - it's audible but not super loud).  The focusing in room lighting at maximum zoom is not very accurate.  There is no macro mode during video zooming.The digital image stabilization works well at low zoom, but not as well at high zoom during video recording as it does for still photos (the digital image stabilization works better in stronger light than room lighting, and so this is probably related to the low light focusing problems at high zoom).At 1280 x 720 resolution, each continuous video recording can only last for about 15 minutes (takes up 848MB-884MB with the MP4 compression).As for the rest of the camera:The digital image stabilization works very well for still photos.The mono audio is pretty good, much better than what has been posted about an equivalent series of Panasonic cameras.Like all digicams, this one drains alkaline AA batteries quickly (it comes with a set of four alkaline AAs) - use NimH batteries!The lens comes with a lens cap which is a bit loose.  Fortunately there is a strap to attach the cap to the camera.  The lens itself does not allow for any lens filter attachments.Manual mode allows for two aperture settings (f3.5-5.4  to f7-10.8 depending on zoom setting) and speeds from 1/1000 sec to 4s.  There is a nice histogram and exposure meter that lets you know how the exposure will turn out (although in my camera, the middle of the meter setting was a bit too light).The black plastic body feels a bit cheap and flimsy.  Would have liked a sturdier aluminum body.The camera comes from the factory with all the clicks and noises turned on, but you can turn them all off.There is a good macro and super macro mode (focuses down to 1cm from the lens) for still photos. However, macro mode doesn't seem to work during video recording.The flash has to be manually popped open - if it isn't, it won't pop itself open and you won't get any flash.  However, it is reasonably powerful, and can light up an entire backyard at night from 15-25 feet away.There's an HDMI plug which I haven't tested yet.  The camera body also has a micro USB plug to hook to a standard USB plug to download photos and videos from the camera.  This micro USB plug is one step smaller than the mini-USB plug.  The cover to these two plugs is rather flimsy.Lots of other features, which I haven't tested yet. I'm sure others will post in more about this cameraAll in all, a nice camera with lots of features. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice high resolution prosumer digicam with 720p HD video, optical zoom, and AA batteries </p>
+
+
+<h2> review.date </h2>
+  09-26-2008  
+<h2> review.text </h2>
+
+ <p> After reading the details on the Fuji website, I decided to wait for the release date and order this new product rather than get the S1000. I was mainly attracted by the High Definition video and the zoom capability with video.  I've only had it for a few days, so this is a preliminary review which I will probably update after I've had a little more time to put it through its paces.I generally agree with everything the first reviewer said about the camera, although it doesn't feel cheap or flimsy to me. Certainly not at this ($275.00) price point.If you don't already have two or three sets of rechargeable batteries, prepare to make the investment.  At least while you are learning to use all of the features, you are going to be draining AA's four at a time with breathtaking speed.  Nevertheless, the fact that a camera with this many bells & whistles uses a common battery size you can purchase anywhere was one of the dealmakers for me.  Once I am more familiar with the operation and options settings I expect I will not be using up the batteries quite so fast.  Fuji says 400 shots with rechargables, 300 with Alkalines, and 600+ with Lithiums.The little rubber cover for the USB/HD connectors makes me wonder about its durability.  It's a little hard to pull open all the way (maybe that will loosen up a bit with more use), and I worry that one overly energetic yank will either break the tiny cord that attaches it to the camera or pull it out completely.  Be careful with  this.The optical 15x zoom with video does work well (except for the motor noise which does get faithfully recorded on the soundtrack).  It is selectable for optical or digital zoom, so if you can't live with the noise, you can work around it.  The digital zoom with video is quite limited, though: only 2x at VGA or lower and only 3x in HD.For still pictures the 15x zoom is extremely impressive, and when combined with the digital zoom you can get over 85x total magnification.  With the dual image stabilization switched on, I have taken handheld pictures in bright sunlight at the maximum zoom and gotten useable -if not razor sharp- images.  I think Fuji have done a really good job with this.  You'll see things in your photos that you can't make out with the naked eye.  You have optical zoom capability in macro mode, and digital zoom only in "super" macro.The HD video looks really good, but one caveat.  If you're planning on watching the videos on your computer, you're going to need a relatively powerful system.  I think Fuji says at least a Core2Duo @ 2GHz or higher & 1 Gig of RAM minimum.  I have a first generation MacBook with a 2GHz CoreDuo and 2GB of RAM, and the HD will play soothly in Quicktime, but only if the "high quality video" option is disabled in the program preferences. Otherwise it's choppy.  Whether it's activated or not I am unable to see any difference in the "quality" of the images, the only difference is the smoothness of the playback.If I have anything I consider a negative, it's this:  Fuji seems to be eliminating the included AC power adapters and sockets on their cameras.  I have a FinePix 6800Zoom and it has a socket that you can directly plug into, but for this far more  power hungry camera you have to buy a separate AC adapter and a separate adapter to connect THAT to the camera. (Yes, you read that correctly.)  Combined cost for these gizmos is over $60.00 currently, and seems a bit steep to me.  Especially since they imply that you should use an AC adapter when connecting the camera to a computer.  If you need it for proper operation, it ought to be included, seems to me.  How much would it have cost them to just put a socket connector right on the camera?  With volume manufacturing I can't imagine that it would have been more than a few pennies.  Then you would only be out the $25 or so for the AC unit.That point aside, I like it very much, so far.  Recommended.This is an update on October 17, 2008:I have now taken over 3000 photos with this camera, and I like it more now than I did when I first reviewed it.Additional specifics:  The flash is quite powerful when needed outside at night...it lights up my whole backyard.The auto white balance handles most fluorescent lighting very well, no need to preset it.Edit December 2008:  As of the end of December, this camera has dropped over $50 in price since I got mine, making it an even better deal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I second that emotion </p>
+
+
+<h2> review.date </h2>
+  10-07-2008  
+<h2> review.text </h2>
+
+ <p> The FujiFilm S2000HD arrived a week ago and I noticed that the LCD display, when taking a picture, and when reviewing certain pictures, had a line running down the right 1/3 of the LCD screen - and the screen was just a tad darker to the right of the line vs the left side.  The line wasn't apparent 80% of the time, but was a distraction on a new camera.  I got an RMA from Amazon and returned it yesterday.  The defect didn't appear on any of the pictures when viewed on the computer.I currently have a Casio EX-Z600 - a 6 megapixel vs the Fuji's 10.  The pictures from my 2 1/2 year old Casio are definitely equal to, and in some instances better than the Fuji.  I especially wanted the macro in the Fuji to be superior, but after taking several pictures in a restaurant with both the Fuji and the Casio, at the same time - alternating, even my wife said the macro pictures taken with the old Casio were more colorful, showed more detail, and showed significantly less noise that did the Fuji (when viewed on a 22" HP widescreen monitor).  Question now is whether the Fuji was defective other than for the LCD display.  I suspect not.I liked this camera - I found the controls to be very intuitive and easy to use.  I really liked the 16x zoom.  The lens cap pops off easily, but this is necessary because when you turn the camera on, the lens does extend just an inch or so.  The lens cap does need to fit loosely so that it will pop off if you forget it when powering the camera on.  The cap has a small string to attach it so it doesn't get lost.  I purchased 8 rechargeable hybrid AA batteries, and a 16 GB SD card for this camera, but I'm not going to buy another and may wind up not using either the batteries or SD card.  Maybe pictures taken in daylight on the Fuji are equal to the Casio, but I can't keep it without seeing any significant improvement over the old Casio. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I wanted to love this camera </p>
+
+
+<h2> review.date </h2>
+  01-12-2009  
+<h2> review.text </h2>
+
+ <p> He probado este equipo en diferentes condiciones y me ha satisfecho, el &uacute;nico inconveniente es que se debe comprar las pilas recargables para darle mayor capacidad de uso, por lo dem&aacute;s estoy muy contento. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excelente calidad </p>
+
+
+<h2> review.date </h2>
+  01-08-2014  
+<h2> review.text </h2>
+
+ <p> Have used this for many years. It is a decent camera but not great in low light conditions. It was a good value at the time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK </p>
+
+
+<h2> review.date </h2>
+  12-10-2008  
+<h2> review.text </h2>
+
+ <p> I saw this camera at Best Buy and loved it but came online to look at reviews.  I was a little concerned because it definitely got some mixed reviews.  I went back to Best Buy to look at it again (I just need to see things in person sometimes) and ran in to the Fuji rep who was servicing the store.  She was an AMAZING help to me.  She showed me tons of features on the camera that I might not have known about.  I also started asking her about some of the issues I saw in these reviews and she answered each one perfectly.  It boils down to the fact that people get used to the way that one camera does things and then expects future cameras to do the same.  Most of the time they are different.  This is a great camera but you really need to learn how to do things.  I'm a mom and getting great (and fast) pictures of my kids were my main concerns.  This camera achieves that and I am very happy.  Now, its not completely perfect but I can definitely work with the issues I have.  You can't beat the price either! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Camera! </p>
+
+
+<h2> review.date </h2>
+  06-30-2013  
+<h2> review.text </h2>
+
+ <p> Best camera, most intuitive, I have ever used.  So easy to use, not a lot of menus to reach simple functions. Brilliant photos. I was lucky, the seller sent me 4 rechargeable batteries and an 8gb sdhc card as a bonus! And packaged it in dog proof dust proof packing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best camera, best seller </p>
+
+
+<h2> review.date </h2>
+  06-02-2009  
+<h2> review.text </h2>
+
+ <p> Most of what you are hearing and read is true about this little Fuji and I have owned several Fuji's, S602Z, S9000, S9100, etc., alongwith several Canon's A710IS, S5IS, etc.  For the money it is quite unbelievable capability-wise, and the more you tweak it, the better it gets, at least that is how it has worked for me and I do not regret buying it one iota!  I also, as others, do not recommend using the Auto setting at all but especially the Program mode is where I have gotten my best results especially turning down the exposure quite a bit for outside photos.  The video is very smooth and does get out of focus rather easily and works much better on a tripod for best results.  I would buy this camera again and it is probably the most loved or hated camera at the same time that I have ever read about. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the money but must read manual to get it right! </p>
+
+
+<h2> review.date </h2>
+  02-22-2009  
+<h2> review.text </h2>
+
+ <p> I bought this camera to replace my S9000 that I need to send in for repair (dropped it). I got this S2000HD for $250. Wow! Then I started taking pictures with it and then it's value started to drop almost immediately. There is numerous setting but not the ones you need to reduce blur on "slow synchro flash" or keep skin tones from becoming purple in lower light or totally blown out with the flash. It says on the box "image stabilasation", OK, where is it? Face detection works...the faces will be nice, bright and with purple fringe at the price of blowing out anything brighter in the frame, dynamic range is not an option here. I feel kinda bad for beating this thing up when all I have to do is pay a little more and get what I want. I'll wait for April when the SX1 IS makes it to the sales counters here in USA.I'm giving this thing 2 stars because maybe you'll get a good photo 20% of the time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does it all! but not very well. </p>
+
+
+<h2> review.date </h2>
+  11-04-2009  
+<h2> review.text </h2>
+
+ <p> For the money, I really expected more from this camera.  Even my tiny Nikon micro-handheld camera goes down to an f3.3; and this Fuji with the nice big lens only goes down to 3.5?  C'mon.  Most superzoom cameras these days go down to f2.8, which provides much better image quality by allowing lower ISO and faster shutter speeds.  The lack of adjustablity in the aperature is disappointing; you really can only choose either a 3.5 or 7.0 (nothing in between).  When at maximum zoom, even on a bright sunny day, image quality is sub-par.  Image distortion is apparent and there is a very noticeable "purple fringe" effect.  Image sharpness at this zoom level is also not as sharp as you would expect from a $280 camera.  These are my biggest complaints.  But wouldn't you consider these MAJOR FLAWS; I mean, why would you even buy a superzoom camera at this pricepoint if you didn't want nice looking pictures?The camera is comfortable to hold, and is a nice compact size, compared to other cameras in it's class.  It's features compare nicely to the competition.  The 15x zoom is nice; unless you're using a tripod, more zoom than that would be difficult to use.  The flash is acceptable, if a bit harsh.  Macro mode is easy to use, and movie mode does work as advertised.  The menus are sub-par.Overall, I would only consider this camera a good value if you could get it for $100-$150.  Otherwise, skip it--there are much better options out there!  Look into the Canon Powershots. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a good value </p>
+
+
+<h2> review.date </h2>
+  03-01-2010  
+<h2> review.text </h2>
+
+ <p> I bought this camera about a year ago... On the first day of having it I took my best photo I ever have! Since then I have continued to take amazing shots!Pros:- Macro is simply astounding! I have out bested friends who have $600-$1000 cameras in the macro category.- Battery life is amazing! Can last me a full day on 4 charged AA's- Video function can create great movies.- Photography is really good!- 15x Zoom is great!!!- Pop up flash gives the user good optionsCons:- No manual settings: If you were hoping for manual, this is not for you. F-stop is barely controllable. Max shutter open time is 4 seconds. Etc.- Uses more batteries than some portable.- Hard to learn about. There is very little literature about it, so it is hard to find many of the settings without just playing.Overall a great camera and great for any amateur photographer! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty good for price! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

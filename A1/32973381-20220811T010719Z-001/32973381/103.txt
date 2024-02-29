@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004S62TBU <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-26-2011  
+<h2> review.text </h2>
+
+ <p> The HD enclosure arrived in just a few days, and works as promised. No problems with overheating as one review claimed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works just fine. </p>
+
+
+<h2> review.date </h2>
+  07-19-2013  
+<h2> review.text </h2>
+
+ <p> Its not the best design or the easiest  box to work with, but considering the out dated technology and the price it is GOOD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> eForcity 3.5 usb external HD </p>
+
+
+<h2> review.date </h2>
+  02-10-2013  
+<h2> review.text </h2>
+
+ <p> My customers love it when they can get their old hard drive in an enclosure to use as an external. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for old laptop harddrives. </p>
+
+
+<h2> review.date </h2>
+  03-07-2013  
+<h2> review.text </h2>
+
+ <p> Needed a case for an old IDE HDD. This did the trick, only thing I don't like is it has a very specific charger. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just as described </p>
+
+
+<h2> review.date </h2>
+  08-30-2013  
+<h2> review.text </h2>
+
+ <p> I couldn't get this to work..  The unit came with no instructions.  Searched the net.  Couldn't find any instructions.  Tried every setting I couldn't.  Still didn't work.  Contacted eForce directly.  No response.  Contacted eForce through Amazon.  They stood on the no returns after 30 days and told me to contact the manufacturer.  Their 'customer service' in this response totally ignored that they, eForce, are the manufacturer.This is why I am rating this as low as I can.  Don't buy this product.  Based on this experience I will NEVER purchase ANYTHING with the eForce name on it or anything with them as a supplier.  To my knowledge this is my first ever 1 star rating. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Zero Customer Service-  NEVER BUY ANYTHING FROM eForce </p>
+
+
+<h2> review.date </h2>
+  10-28-2013  
+<h2> review.text </h2>
+
+ <p> Installed an extra hard drive and use it for backing up the data from my PC. It is &#34;fed&#34; on a schedule usign Everyday Automatic Backup [a FREE utility from the NET]. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Still working </p>
+
+
+<h2> review.date </h2>
+  02-28-2013  
+<h2> review.text </h2>
+
+ <p> I bought this to replace a unit that had stopped working.  After I ripped open the box and found all of the parts inside I installed the drive from my defective unit, plugged it in and away I went!  My computer quickly recognized the drive and all of it's contents with no problems whatsoever. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as expected </p>
+
+
+<h2> review.date </h2>
+  10-14-2013  
+<h2> review.text </h2>
+
+ <p> No firewire, no SATA. But worked well with an IDE drive and USB 2.0 port. Was hard to pry apart (retaining tabs are hard to fully depress), and screws are so small, I used a thick rubber band to hold it together instead. Saves a lot of time when replacing drives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works OK, but cheaply made and limited versatility, between a 3 and 4 </p>
+
+
+<h2> review.date </h2>
+  05-01-2013  
+<h2> review.text </h2>
+
+ <p> I know very little about PC's; hardware, software, I'm ignorant of this stuff. But, I got this thing, and I plugged my old hard drive into it; it worked! To order the thing; I just cut and pasted from the info I got from Google. It worked! And, it&#8217;s still working a month later.llcw08 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I know almost nothing about this stuff. </p>
+
+
+<h2> review.date </h2>
+  05-27-2012  
+<h2> review.text </h2>
+
+ <p> I needed a external enclosure to recover data from two old IDE HDD's in a broken computer. This enclosure does the job. I'm now using two of these enclosures for additional storage. Great deal for the price. Great for mobile laptops, but not so great for semi-permanent desktop applications with multiple units, if only for the lack of stacking/vertical mounting provisions.+Easy to assemble, small screwdriver included in kit.+Durable aluminum case.+Decent transfer speeds.+Attachment points to mount HDD using screws - solid fit within enclosure.+Will function on USB power, without power supply.+On/Off switch.+Stacks horizontally fairly well, but without interlocking lugs or spacers.-Dual-state red/green LED power/activity light very bright, somewhat distracting.-Large separate power supply enclosure with relatively short cables(uses common PC AC plug - can be substituted).-Short male-to-male USB cable.-Some(2) screws for enclosure are VERY small(2mm or less), easy to lose(1 extra included in kit).-No active cooling features. Gets fairly warm over time.-No provision in case design for vertical mounting(rounded edges). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great deal... </p>
+
+
+<h2> review.date </h2>
+  02-25-2013  
+<h2> review.text </h2>
+
+ <p> I like cheap and I really like cheap when it works and doesn't fall apart in three days.  This case is a bargain. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's Cheap and It Works </p>
+
+
+<h2> review.date </h2>
+  11-13-2013  
+<h2> review.text </h2>
+
+ <p> Works just like it is suppose to  and the shipping was quick. This is the second one I have purchased and am very happy with both of them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It Just Works </p>
+
+
+<h2> review.date </h2>
+  08-19-2013  
+<h2> review.text </h2>
+
+ <p> works great. allowed me to connect upthe harddrive from my old computer tomy new one, and then save it as a backup. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> disk interface </p>
+
+
+<h2> review.date </h2>
+  04-04-2013  
+<h2> review.text </h2>
+
+ <p> I have replace many computers over the years and kept the hard drives that had ample storage. This became a problem when I wanted to retrieve or store anything to the drive. The hard enclosure was a good solution for me. Light weight and tight fit, just plug hard drive into the case and into a usb port to access the hard drive. Simple and works like a charm. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hard Drive Encloser </p>
+
+
+<h2> review.date </h2>
+  09-18-2013  
+<h2> review.text </h2>
+
+ <p> Works great and even works with other IDE devices just not in the case take an old hard drive from your pc and turn it into an external </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  05-23-2012  
+<h2> review.text </h2>
+
+ <p> Works as intended. Very well worth the price. I got to tap into some hard drives I have not in years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth the price </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

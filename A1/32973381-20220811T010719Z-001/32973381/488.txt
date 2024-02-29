@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00J1MW06U <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-02-2014  
+<h2> review.text </h2>
+
+ <p> What a marvelous story and even more marvelous characters. Exceptional,light reading and thoroughly enjoyable. To prove how dumbed down we are, I WOULD LOVE TO SEE  THIS MADE INTO A MOVIE or BBC SERIES. Bravo </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brilliant, light </p>
+
+
+<h2> review.date </h2>
+  06-29-2014  
+<h2> review.text </h2>
+
+ <p> I am not interested in a book that contains four-letter words.  Sorry, but that is not my kind of reading material. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not my style </p>
+
+
+<h2> review.date </h2>
+  06-06-2014  
+<h2> review.text </h2>
+
+ <p> The characters became real and like family.  I enjoyed the book although I would not consider it great literature,but simply a good idea read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very nice,relaxing read </p>
+
+
+<h2> review.date </h2>
+  07-11-2014  
+<h2> review.text </h2>
+
+ <p> What made this story charming was the Britishness of it. I'm an American and reading this with the delightful Use of the Queen's English made me smile. Just reading that a baby outfit is a baby grow made me wish to use that.While the plot is rather contrived and does go on a bit on details, but for an easy read without any depressing scenes nor violent language or sex or gore, this is perfect. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> charming tale </p>
+
+
+<h2> review.date </h2>
+  07-04-2014  
+<h2> review.text </h2>
+
+ <p> nice read, just right for a lazy summer day.happy ending after a bit of trouble. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice read </p>
+
+
+<h2> review.date </h2>
+  06-17-2014  
+<h2> review.text </h2>
+
+ <p> Again, this was a free book that I picked out on the free pages.The beginning chapter or two may have been a bit slow, or it may just have taken me a bit of time to get use to the differences in United Kingdom English vs. American English. The book is well written and the character's are all unique, sometimes downright crazy. Lois and to a lesser extent her boyfriend/fiancee/husband Tom are the main characters. At the beginning of the story they have bought a home not too far out of London, but in a country setting. Upon receiving the key, Lois proceeds to the house, only to find that the relatives of the former owners have literally stripped the place of everything movable. However, Lois seems to handle e each crisis, including neighbors who i fight so loud, it can be heard in their house next door and another who stops by to give them a list of "rules" however all is not as I it first seems.As they get to know their neighbors, there little enclave, former homes of servants from the neighboring manor, they new adventures, interesting friends and a new way of life. This is a feel good book and I have to admit that I laughed and cried at the appropriate places. I highly recommend this book to anyone looking for a good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The title says it all </p>
+
+
+<h2> review.date </h2>
+  06-28-2014  
+<h2> review.text </h2>
+
+ <p> A fun read for a hot summer afternoon.  The thin plot redeemed by interesting characters.  A good one time only story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Obvious, but cute </p>
+
+
+<h2> review.date </h2>
+  06-16-2014  
+<h2> review.text </h2>
+
+ <p> This was a fun read about a wonderful group of odd people living in the British countryside.  it was a delightful book from start to finish. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quirky story </p>
+
+
+<h2> review.date </h2>
+  06-23-2014  
+<h2> review.text </h2>
+
+ <p> I think this book could have been a short story instead.  It took forever to get that baby here!  I like a few more twists and turns to a book -- more complexity.  This is a nice sweet tale though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A little slow </p>
+
+
+<h2> review.date </h2>
+  07-20-2014  
+<h2> review.text </h2>
+
+ <p> Really great, easy book. I hope there will be a sequel. I am sure there are more tales to tell of the quirky inhabitants of the village. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  05-25-2014  
+<h2> review.text </h2>
+
+ <p> Nice story about being pregnant while renovating a house in the countryside of England and planning a wedding. I enjoy the English sense of humor and the writing style of many writers from &#34;across the pond&#34;; this book fit the bill wonderfully. Not overly burdened with details of the renovation, but a pleasant blend of all the elements of its story. Of course there's one grouchy old neighbor, but he doesn't figure too heavily either- just enough. All together a great evening/beach read, well worth the time and money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Unorthodox Arrival of Pumpkin Allan </p>
+
+
+<h2> review.date </h2>
+  05-31-2014  
+<h2> review.text </h2>
+
+ <p> this was allabout the way people in England spend the time reducing a house that is very old and needs much rebuilding and the couple get married and have a child. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  07-19-2014  
+<h2> review.text </h2>
+
+ <p> A light and enjoyable read though a bit predictable in places.  The characters were charming as far as they went, it almost seemed an introduction to more stories to come perhaps.  At times there were so many neighbors introduced in a short span, it was difficult to remember who was who.  Good summer read! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good summer read </p>
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> could not make myself finish the book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> book </p>
+
+
+<h2> review.date </h2>
+  06-14-2014  
+<h2> review.text </h2>
+
+ <p> A bunch of quirky characters, infused with English humor.  I would recommend this book . Would like a sequel to see the story continue. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very enjoyable </p>
+
+
+<h2> review.date </h2>
+  07-10-2014  
+<h2> review.text </h2>
+
+ <p> What looked like an interesting book at first turned me off within the first 3 pages or so. The first curse word printed was the &#34;F&#34;-word, and I stopped reading it there. Why do authors think that they need to include foul language to get readers? I, for one, am not interested in reading this language, especially since I am constantly bombarded with it whenever I go out to a public place. I will NOT attempt to read anything by this author again! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Foul language inside!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

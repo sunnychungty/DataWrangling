@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000EGLZUE <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-20-2008  
+<h2> review.text </h2>
+
+ <p> I use earbuds with my Ipod and I have tried many different models from inexpensive to near top of the line -= this list includes Sony's MDREX71, Phillipp's SHE9500, Shure SE110, Creative , and Ultimate Ears Super.fi 5 Pros. For the price, the Sony MDR90 is excellent and although the sound is not as perfect as the high end Ultimate Ear's unit, it's close enough and also much easier to use and more comfortable to wear.The Sony's will be criticized by some bass addicts for lacking said bass and on first listen I felt the same way and was ready to return them. There was no boom or chunk to the bass but then I realized that I was hearing the instruments as they were supposed to be heard. The bass was there it just didn't boom - it sounded correct and was detailed and articulate.I'm a musician and I realized then that the Sony's and the UE's made music sound like it did when I listened to it on my full stereo rig where I use Acoustic Research AR48B's.The UE's have better sound (I still own them) but they are finicky as to fit and if you lay down on your side or compress the ear in any way, you lose sound on that side. Plus they are double the cost of the Sony's.On the low cost side, the Phillipp's SHE9500 are excellent but for near audiophile sound at a sub $100 cost, the MDR90 is the very best choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Spectacular </p>
+
+
+<h2> review.date </h2>
+  03-31-2008  
+<h2> review.text </h2>
+
+ <p> I was amazed at the sound quality coming from these little things. I was looking for work out phones to replace my big clunky ear cupping head phones and these are nearly as good! As a matter of fact, I'm using these headphones full time now! That's how good. Now I am no audiophile but my Ipod has never sounded better! I have over 3,000 songs and videos so I'm no novice either. These little things are worth the price in sound quality and simple aesthetics. They are sophisticated looking. I've already had many questions and compliments. Sony is known for sophisticated looking gadgets so it's no suprise but the sound quality impressed me for sure. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sophisticated looking and great performance! </p>
+
+
+<h2> review.date </h2>
+  07-29-2009  
+<h2> review.text </h2>
+
+ <p> I bought these heaphones for jogging, replacing cheaper Sony MDR-A35G phones ($15-20). I used to be able to get 6-9 months out of the MDR-A35G phones before one channel failed. Then Sony must have changed their supplier. More recent headphones (in 2007, 2008) would snap into two within the first two weeks.The MDR-EX90LP have much, much better sound, really great sound, are comfortable, easy to put in, and stay in fairly well when jogging, but the sound failed in one channel within six months.Adios Sony!I switched to Sennheiser CX 500-B, which also have great sound and seem more durable, but they won't stay in my ears while jogging, especially in the summer in Washington D.C when I'm sweating like a fish.Now I'm trying the Sennheiser PMX80 Sport Series II Behind the Head Ear Phones For Sports, but, I have to admit, the sound was better with the Sony MDR-A35 phones! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great except one channel failed in less than 6 months </p>
+
+
+<h2> review.date </h2>
+  01-21-2009  
+<h2> review.text </h2>
+
+ <p> Had them for a few hours, and the sound is just amazing....  The only thing I dislike is how easy it is to identify flaws in a low-bitrate rip - now I have to go back and re-rip all my CDs in a lossless format! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome </p>
+
+
+<h2> review.date </h2>
+  06-28-2006  
+<h2> review.text </h2>
+
+ <p> Owning MDR-EX 71 and 51's, I found that I prefer the 51's most of all.  EX-51's are more comfortable to wear.  I can sleep with them on.  The EX-90's are not that comfortable and can not wear them over a period of a couple hours.  I can wear the EX-51's all day.The sound:  While the EX-90's sound is more open and spacious.  The Midrange is more articulate and pronounced; the bass seams a bit bloated and muddy.  Yes, the bass is deeper but not $75 to $50 better.I currently own over 20 pairs of headphones from low end portable to High-end reference Cans. With that I will not replace these when they go bad.  There are those who will say I not placing or putting them on right or I need to change the silcone pieces. I will say not out of arrogance but experience; I know what I talking about here.  You might find them comfortable, I didn't.  I would recomend the EX-71's or the EX-51's.Update:  I have a pair of EX-85's they are very much the same as the EX-90's w/o the metal casing and a much more comfortable phone I would recommend EX-85 in a heartbeat. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Open and Spacious Sound </p>
+
+
+<h2> review.date </h2>
+  02-28-2009  
+<h2> review.text </h2>
+
+ <p> Although this is not one of those fancy-schmancy noise-blocking earphones, this pair does damp down environmental sounds.It fits comfortably in the ear and performs very well for the commuters that enjoy a soundtrack to their travels. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good basic earphones </p>
+
+
+<h2> review.date </h2>
+  08-12-2007  
+<h2> review.text </h2>
+
+ <p> I have had the ex90's for about 2yrs now. Use them 5 days a week on my commute. I listen to a lot of 80's rock music which needs bass. The ex90's have it. I have dropped them in coffee, stepped on them, had the wires tangled up in my computer bag which ripped them from my ears all the time. They may look delicate, but there tough every day use. I think they sound great at all frequencies, and are a great buy for $100 bucks. If a little wire danging down upsets you (bothers some reviewers) please don't buy these, and stay inside. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> solid performer, tough, great bass, good buy </p>
+
+
+<h2> review.date </h2>
+  12-10-2006  
+<h2> review.text </h2>
+
+ <p> I would like to point out that this headphone NEVER says it has noise isolation, so beware don't mixed up with EX71/EX81 architecture though they are very similar.  With less noise isolation, you won't feel the vibration of the cord that much and also provides more heat dissipation during workout.  This is important, not just for sound quality but health issue during workout.  I tried to use the EX71 when I was running, then I had a headache after couple minutes.  This was due to the noise isolation design to prevent heat dissipated from my body through the ear canel.MDR-EX90LP is considered as Mid-Hi Range, it was the cheapest model of the Mid-Hi to Hi End ear bud type of headphone (though there are more competition nowadays), and I was going to give it a try.I bought the MDR-EX90LP headphone since June, 2006 and have been using it ever since.  I have compared with the headphones from Sony Ericsson W800i and W810i, these headphones are the same as EX71 and EX81.  I must say that MDR-EX90LP does have crispier sound espeically for vocals and pop music.  The EX71/EX81 just not as clear and kind of muffle at the treble.  When you have a Walkman phone or Sony's product with MegaBass technology, the MDR-EX90LP seems to provide more distinct frequencies at the bass and also the treble at the same time compare to EX71/EX81.  You can definitely notice that EX71/EX81 is unable to output some frequenices while the MDR-EX90LP can.  The song becomes a lot richer after using MDR-EX90LP.  However, if you are into gaming like BATTLEFIELD, MDR-EX90LP cannot really provide enough gun power, this also applies to movie sound effects.  For best experience, ear-cover type with strong vibration and bass is needed for gaming and movies. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Crispy Sound Quality.  Best for SONY's MegaBass, not as good for movies or gaming. </p>
+
+
+<h2> review.date </h2>
+  11-07-2007  
+<h2> review.text </h2>
+
+ <p> I have used MDR-EX90LP for about 6 months now and have been extremely impressed with their performance. The bass is strong and punchy the mids feel full and the highs crisp. I have compared these directly with Shure, Sennheiser and a few others and I think the MDR-EX90LP have the best overall sound for what I listen to (pop/rock/electronic). It seems like it's the large driver that makes the difference and I'm surprised I haven't seen anyone else try something similar. They're also very comfortable. I can wear them all day at work and my ears won't get sore (which is something I can't say for the 'stuff it deep in your ear canal' type ear buds). They feel sturdy although i have lost the rubber piece of the end a few times having it catch on something while stuffing the buds into my bag. All things considered they're very good value for money. Best overall earbud I have owned by far. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  08-10-2006  
+<h2> review.text </h2>
+
+ <p> I replaced a pair of Sony's MDR-EX81SL earbuds with these, thinking it was an "upgrade." I was wrong. The -EX90's deliver marginally better bass and clarity over my old headphones, a difference far too small to justify any price increase, let alone $70 worth. They are also far less comfortable: despite using the same size ear caps, which are made of the same material, the -EX90's created sore spots in my ear canals after only 3 uses. Finally, the -EX90's are a bit less capable of blocking outside noise.Not to mention, unlike my previous earbuds, the -EX90's don't come in matching Apple white.These are now on their way back to Amazon, where I've since purchased another pair of MDR-EX81's (in white, of course). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Definitely not $70 better than the MDR-EX81 </p>
+
+
+<h2> review.date </h2>
+  07-15-2011  
+<h2> review.text </h2>
+
+ <p> I owned these pair of earbuds for 4 years and finally broke on me.  I used them everyday.  Honestly the best set I've ever heard.  These are 100% 5 Star.  Secure Fit, incredible bass, great noise isolation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Earbuds I've ever heard - 4 years </p>
+
+
+<h2> review.date </h2>
+  07-27-2006  
+<h2> review.text </h2>
+
+ <p> Though not in the same league with in-the-ear headphones such as the "Shure E4c" or "Ultimate Ears Super.fi 5 Pro" (both of which sound better, but cost hundreds more), these headphones possess formidable audio in there own right, including impressive bass and clear treble: overall, they possess a clear, warm sound, that belies its (relatively) reasonable price. They certainly sound better than the Sony MDR-EX71, as well as the Sony MDR-EX81; they are also superior sounding to the Shure E2c (I have done extended side by side comparisons with all the aformentioned headphones). Overall, as far as in-the-ear style headphones go, these are the best deal for the dollar. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Impressive value! </p>
+
+
+<h2> review.date </h2>
+  07-18-2009  
+<h2> review.text </h2>
+
+ <p> this mini review is after 2 weeks of daily use ...I've been using sony buds for ... well over 14 years. I seriously grew up on Sony Buds and never had any issues until today.As far as sound, they play good, but not amazing. If I compare them to 3 years old Sony Buds I got from sony store for around $[...], it's almost the same.I have 2 issues:1. as you can see the shape is not classic bud as most of the sony phones, but 2 buds (small which fits into your ear and bigger which kinda stays outside). My problem is that the bigger round part is too big and does not fit well, this is hard plastic and I feel it in my ears all the time)2. this is minor but still ... because of the shape and kinda sharp angles, when you pull this out of your pocket, it will take you 2x longer to untangle the cord than any other buds.note: small advise to everybody who is looking for any new headset in general. Be careful about 2 things - length of the cord (some are very short, some are too long) and if it's V shape or goes around your neck (I like when right bud goes around your neck). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> too big </p>
+
+
+<h2> review.date </h2>
+  09-11-2010  
+<h2> review.text </h2>
+
+ <p> Personally, these do not sound better than my J-Buds but I needed a new pair and the folks at J-Buds decided to switch to a straight connector instead of the "L" or 90 degree mini-jack connector. I do not understand the straight connectors since I tend to wrap my cord around my iTouch (iPod)for ease in storage. Thus I had to find a maker with the "L" plug. Sony appears to be one of the only makers still using "L" plugs.These earbuds/headphones tend to be a little bulky. I do NOT like the cord since it is not even and splits to the right. The right earbud has a much shorter cord than the left. I prefer an even split since sometimes I carry my iPod in my left pocket thus it pulls away from the right ear since the cord is not long enough. While minor, I will continue my quest for a relatively inexpensive earbub/earphone set that has the "L" plug and the split evenly. I only paid $17 for mine so I am unsure if these are worth the high prices asked by sellers here.Hope this helps. If you are aware of other "L" shaped earphones, please post since the plug is never included in any descriptions. THANKS!UPDATE Jan. 2011: After a long trip, I found these to be very uncomfortable. The JBUDS are much better but they no longer have the "L-shaped" connector. Thus, these are now gone from my earphone collection. I still rank JBUDS #1 until they switched to straight connectors. Now I am looking into Sennheiser CX200Sennheiser  CX200 Twist-To-Fit Earbuds with Powerful Bass Driven Soundand Altec Lansing MZX106W Mesh HeadphonesAltec Lansing MZX106W Mesh Headphones (White and Black). Good luck those in search of the "L-plug" earphones with comfort and low price! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good sound + "L" mini-jack connector </p>
+
+
+<h2> review.date </h2>
+  02-22-2009  
+<h2> review.text </h2>
+
+ <p> Very good headphones and they are authentic unlike on ebay. I bought them on ebay first and as soon as I put them in my ears I knew they were fake. I then ordered these from amazon and they r the real thing, good bass and highs and they stay in your ears comfortably. Do not buy any of them from ebay as all of those are fakes. Make sure wherever you buy them they come with a warranty card and the new ones are made in Taiwan, not china (like the fakes on ebay). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> authentic Sony product </p>
+
+
+<h2> review.date </h2>
+  01-13-2007  
+<h2> review.text </h2>
+
+ <p> Overall, I think that this product is excellent in quality and design which is what I'd expect from Sony, however I feel that the bass response isn't as rich and dynamic as they state. Granted, I bought this product specifically for use with my iPod to replace the ones that came with it which make an excellent upgrade, however I listen to quite a bit of hip hop & rock and love the bass from studio reference monitors. Although for their size I can't expect the same results, I'm quite impressed at the snug yet comfortable fit (really like the fact that they don't "pop out" at all like the OEM iPod headset does), angled jack, the color scheme fits my black 80GB iPod perfectly in addition to the amazing sound that they produce especially when compared to the OEM and a few others that I've tried in the marketplace currently. If they just had a tighter, richer, more expansive bass response would I give it the full 5 stars, but all-in-all a great buy for the money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent upgrade from an OEM iPod headset however... </p>
+
+
+<h2> review.date </h2>
+  07-25-2006  
+<h2> review.text </h2>
+
+ <p> I picked up these on a Japan trip last month. I actually demoed them at BIC camera before buying. I paid less than $100 and they are in my opinion, a better buy than my previous 2 sets: Etymotic ER6 and SenheiserPXC 250. The sony's have more output and more bass and they still cancel  enough noise to make the subway go away when riding it. They look like luxury items too, very well built. The rubber is softer and more comfortable than the Etymotics wich always end up irritating my ear canal in spite of periodic replacement of the outer rubber.The Sennheisers might have overall higher fidelity, but their output is low and the external noise cancelling unit is an annoyance; you can't really take them to the gym (I only use the Sennheisers for flying) The Sony's are an exellent choice for commuting and jogging. Exellent product, I can't recommend it enough. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than Etymotics and others.... </p>
+
+
+<h2> review.date </h2>
+  01-11-2007  
+<h2> review.text </h2>
+
+ <p> I purchased these for my VX8300 cell phone but it hasn't got the power to drive the low frequencies or it's equalization is off (it sounds fine through a cassette adapter in the car so I'm guessing the earphones require more drive than the phone can provide).They're great with my Nexus XM player and superb with my Axim X51V PDA.As commented above, these provide virtually zero isolation.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice but inefficient </p>
+
+
+<h2> review.date </h2>
+  04-16-2008  
+<h2> review.text </h2>
+
+ <p> The Sony MDR-EX90LPs are different from all other earphones out there - they don't isolate you from outside noise.  For many people, this is a deal-breaker.  But, if you want some ability to hear what is going on around you, the Sony MDR-EX90LPs are great.  In addition, because there is little isolation, there is almost no "microphonic effect" (noise from the cord moving).A more minor difference from other earphones is the fit.  The Sony MDR-EX90LPs come with the same comfortable silicone tips that many other earphones use.  This alone is usually enough to keep earphones from falling out.  But, in this case, the large driver also sits in your outer ear much like a pair of earbud headphones.  This makes them fit more securely than other silicone tip earphones, without sacrificing comfort.Overall, the Sony MDR-EX90LPs are excellent earphones.  Both the sound and build quality seem excellent; they are definitely worth the price.  They are very efficient in terms of volume produced and have plenty of bass.  If you need more bass, make use of their efficiency by EQing the mid and treble down and turning up the volume.  (EQing up on mp3 players usually causes distortion.)  Also, keep in mind that the cord is designed to run behind your neck; some people prefer a more standard "Y-shaped" cord.Basically, if you aren't too concerned with isolation, the Sony MDR-EX90LPs are worthy of consideration due to their quality, secure fit, and lack of "microphonic effect".  For activities where being conscious of your surroundings is important (e.g. running outdoors or working in an office), they are more than worthy - they should be your first choice among earphones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unique Design - Earphones without Isolation </p>
+
+
+<h2> review.date </h2>
+  04-11-2010  
+<h2> review.text </h2>
+
+ <p> i like my 51's better than these, but they are a fine second pair.....check the 51's for cheaper,better sound... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> sony headphones </p>
+
+
+<h2> review.date </h2>
+  10-03-2009  
+<h2> review.text </h2>
+
+ <p> I just received these headphones today, and the sound is spectacular! I am really enjoying them. They cut out the outside noise a little as well. The only slight issue would be that the inside of my ears are a tiny bit sore from them. That's tolerable, though considering the sound quality, and the fact that these earphones STAY in your ears. They won't fall out, which is another plus with me. I've had earphones in the past that sounded great, but kept coming loose. What a pain. Anyhow, GET these! You won't regret it!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome! </p>
+
+
+<h2> review.date </h2>
+  12-31-2007  
+<h2> review.text </h2>
+
+ <p> I received these as a gift. I honestly wouldnt spend this much on MP3 player phones! They have a very even and balanced sound. Slightly bass heavy though. I had expected and kind of wanted the trademark sony earphone sound; solid and detailed with a sharp treble. At first these headphones seemed kind of dull sounding then I recalled that I had set my ipod's EQ to treble cut in order to tame the eardrum shredding treble of my previous phones (free Virgin airlines buds I was using after my other ones broke).After I set the ipod to "flat" it sounded much better.  These don't have a very hyped sound at all. It seems to be almost perfectly flat throughout most of the audio range! As I mentioned before, the bass is rather prominent.  But this seems to be controllable by the position in the ear and the size of earbud cushion you use.I like these so much I used them to mix some songs! (I am an audio engineer/musician) They are much more detailed than my Sony 7506 over the ear phones and easily rival my venerable AKG K240M circumaural (open back) headphones. An added plus is that they are very sensitive. Meaning they get louder for a given power output than most other earbuds. In fact  I have to crank my laptops output down to the last volume notch!This is great because this allows your headphone amp in your ipod/laptop/zune etc to not work so hard, which results in better sound overall.If you can afford them, get them.they look coool too! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprisingly good </p>
+
+
+<h2> review.date </h2>
+  01-27-2010  
+<h2> review.text </h2>
+
+ <p> I was replacing an exact set I bought a few years ago.  I took a chance on the refurb.  I've heard of "copy cat" versions of these earphones.  My were genuine Sony refurbs from this seller.  I love these earphones.  I was very happy to get a set of refurbs for half the price of new ones.Note: My last pair tended to come apart after more than a year of use.  I was able to glue them back together every time and still get good use.  I was actually quite surprised at how long I was able to keep these earphones given the occasional unplanned tug that would pull the cord from my player.  Despite the problem with them coming apart, I still rate them high.  The fact that I replaced them with the very same set speaks well of them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great deal - very good earphones </p>
+
+
+<h2> review.date </h2>
+  12-27-2008  
+<h2> review.text </h2>
+
+ <p> I bought these after looking at several reviews. Most reviews are positive toward the sound quality. And I do agree with that, the sound quality is pretty decent.However, the comfort of these things is horrible. I kept thinking it was the tips that were bothering me and kept trying the different sizes. Also ordered comply tips. After much experimenting I was looking in the mirror at them (while in my ears) and realized it had nothing to do with the tips. It is the circular metal housing just behind the tip. Much too large. It presses against some of the other protruding parts of your ears. Within 5 minutes these things are becoming uncomfortable. Within a few songs I was ready to get these parasites out of my ears.Look elsewhere. Earbuds with driver housings that are narrow near where you insert them into your ears are a better choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Like shoving hot pokers in your ears </p>
+
+
+<h2> review.date </h2>
+  04-03-2010  
+<h2> review.text </h2>
+
+ <p> I am writing this review keeping in mind that I paid $39 total for the earphones. I was amazed to get them at that price, since they were at $99 at Best Buy the day I purchased them online on Amazon. The sound is excellent, definitely high-end with good bass (Sony earphones always have a lot of bass). I used them primarily with my mp3 player. I listen to mp3 songs in high quality (320 kbps, non-variable rate) and these earphones give me all I need in terms of quality and richness of the sound. Sure, for the original $99 I would have gone for another brand and model (Shure SE-110 that I loved and lost, and which were superior for $99), but at $39, I really don't see which earphones offer such outstanding quality. I have had a lot of different models over the years, including different lower to mid-end Sony models: MDR-EX32, MDR-EX55, MDR-EX56. This one is better. I am very happy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding quality for the price! </p>
+
+
+<h2> review.date </h2>
+  05-17-2007  
+<h2> review.text </h2>
+
+ <p> very satisfied with sound quality, very clear, good bass, mids  and not muddy like the sl70's.only compliant is the construction of the cabling. very thin wiring and could get yanked if not careful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> sound quailty is great, but cord kinda fragile </p>
+
+
+<h2> review.date </h2>
+  06-22-2009  
+<h2> review.text </h2>
+
+ <p> Before purchasing these headphones I read most of the recent reviews here on Amazon... one in particular about the lack of comfort on these headphones. I was skeptical, and figured this had more to do with the shape of your ear, and that they would be fine.After enjoying the great sound quality of these earbuds on a flight yesterday for 12 hours, I must admit that my left ear was a little sore. The 13.5mm driver is suprisingly large, and won't fit well in all ears in my opinion. The ear canal is fine, but the driver that sits adjacent to the canal in your ear does push on my ear somewhat... and although I did wear the headphones almost my entire flight, in the end it was considerably painful to put the earbud back into my ear. I'm going to try pushing past the discomfort for the next few days to see if my ear will get used to it, but I highly recommend trying these earphones on before purchasing them if you can.Overall, I gave this product a 4/5 stars, since the sound quality is excellent. I'm certainly no hardcore audiophile, but I can appreciate a nice set of earphones, and these are nice. I certainly would enjoy them more if they were more comfortable, but don't get me wrong... even knowing about the slight discomfort these things come with, I would still buy them again.Overall, I do recommend these earphones. Slight discomfort should be expected, but I'm assuming you can get used to it. I can sleep in them as well, with my ear on the pillow, no problem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Sound, Moderate Comfort </p>
+
+
+<h2> review.date </h2>
+  03-20-2007  
+<h2> review.text </h2>
+
+ <p> I purchased these cans based on the Amazon reviews. If they were better than stock Nano 2G earbuds, I wanted to give them a try. I agree that they produce better sound.Treble: I am not impressed by their ability to reproduce the high percussion sounds, like cymbals. My listening was lacking the clarity produced by my reference headphones, Sony MDR-V6 over-the-ear cans. I just cannot get over the fact that I am unable to hear some of the percussion dancing in my head, like in the V6s. If I am going to listen to a song, I'd like to hear everything.Bass: The bass reproduction is very good--clean bass without distortion or messy gimmicks to falsely boost the bass response.Spatialization: I thought the spatial placement of instruments was excellent.Comfort: The extra-wide portion of the EX90LPs that does not go in the ear canal rubbed against my ear, making the cans uncomfortable after awhile. They did stay in the ear well. Also the chord has an unusual construction, it is split with more cord length for the right earbud than the left, as if they want you to loop it behing your head to plug the right ear in. I think they wanted the weight to be on your shoulders, rather than pulling down the cord as it runs to the player.EQ: I was not able to get the best sound out of my Nano 2G on the same EQ setting on both phones. The MDR-V6s liked the "rock" setting, however I used "spoken voice" to get the best sound from the EX90LP for the classic rock I listen to. Perhaps the treble could have been better except for the Nano's limitation of EQ presets with no way to adjust treble. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Decent but I expected better from the reviews here </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1877988359 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-27-2013  
+<h2> review.text </h2>
+
+ <p> I learned so much from this book!  I will never buy another cosmetic again without consulting this book!  Argh!  To think of all the money I wasted over the years on products that didn't live up to their promises.  Wahoo!  It won't happen anymore thanks to this book!  It's going on the shelf next to my dictionary and my Bible. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I should have bought this book years ago! </p>
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> This book is every makeup and skincare consumers DREAM and probably (certain) makeup and skincare companies nightmare. It is full of so much useful information! LOVE IT And HIGHLY recommend to any female consumer concerned with the ingredients in her cosmetics. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> YES!! </p>
+
+
+<h2> review.date </h2>
+  04-30-2013  
+<h2> review.text </h2>
+
+ <p> This book has been so useful I can't say enough good about.  If you are in need of cosmetics or have a skin problem, don't buy anything before you consult this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Can't live without it. </p>
+
+
+<h2> review.date </h2>
+  06-18-2013  
+<h2> review.text </h2>
+
+ <p> A go to guide when you want to know whether or not a product/product line is worth the purchase. So glad a friend recommended it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great information! </p>
+
+
+<h2> review.date </h2>
+  10-22-2013  
+<h2> review.text </h2>
+
+ <p> I am a repeat buyer of Paula's books. I always purchase the most updated version. As always, this resource does not disappoint. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent as always </p>
+
+
+<h2> review.date </h2>
+  09-28-2012  
+<h2> review.text </h2>
+
+ <p> How can one trust reviews of cosmetics written by someone who has her own product line?  Yes, it defies logic, but come closer and let me tell you what happened to me.I don't read women's magazines; I don't particularly like magazines.  I don't watch daytime television, either, because I'm working.  And I don't care for daytime television for the same reasons I don't like magazines:  From one issue or episode to the next, they offer conflicting information.  You know it's true, even if you do like the magazines and shows.The library is my friend.  Since I got my first library card, I have used the library to research anything I want to learn.  In 2005 or 2006, I saw a copy of "Don't Go to the Cosmetics Counter without Me" on the shelf and checked it out.  I wasn't expecting much, but it didn't cost me anything.  I'd never heard of Paula Begoun, but I do try to be an informed consumer.  I figured that book couldn't be any worse than other skin care books I'd read.  I skipped over most of the beginning chapters and went straight for the reviews, and it hadn't really sunk in there might be a conflict of interest until I was convinced I'd found a worthy source of information.  Finally!We have, in this edition, a brief overview of Paula's rather checkered career and some chapters that discuss skin care and makeup industry claims, packaging, ingredients to avoid, ingredients to seek, and basic skin care regimes.  These chapters are thorough but succinct.  Then there is the good stuff:  product reviews of many skin care and makeup lines.  Not all of them, but a lot.And it gets juicy.  Paula doesn't want you to waste your money.  She doesn't pan department store products altogether, nor gush over all drugstore products.  In fact, whether you buy products from brick and mortar stores, or from television shopping networks, or that lady who rings your doorbell, you will find favorably and unfavorably reviewed products.  And then it starts to make sense.  You know that you have rarely or never liked every single product in a brand.  You've purchased bad product thinking you were buying a good product because the other products were good.  That's the way it is with makeup and skin care products.  I know it happened to you, because I don't know anyone who hasn't gone through this frustration.  I will tell you this:  This book is worth its price simply because you can dump those products you have right now that are irritating your skin, or just don't do anything at all.  You may become a bit irritated yourself, because like me, you think you are making informed decisions.  Paula puts two indicators before each review.  She uses smiley (or not) faces and rates products as BEST, GOOD, AVERAGE, and POOR.  Make that three indicators because BEST products also get a check mark.  There are about a gazillion reviews in this book.  It's a big book!  But the reviews are short.  The rating and a brief explanation are what you'll find.Paula and her team do not try every product personally. They are not human guinea pigs.  Most of the reviews are based on ingredients lists.  Paula has done her research, and continues to do so.  She cites many sources that support her opinions.  If she expounds on a topic, she doesn't just say "clinical studies indicate" and leave it at that.  She says what study, or what publication she found that supports the information she offers.  You can check this yourself and read the material she actually uses to determine yourself whether she's well-informed or off her rocker.There is a condensed section at the end of the book that lists what Paula calls BEST products.  Paula used to call the products she deemed most deserving "picks," but that's gone.  You'll find a categorized list of best products at the end of the book, and finally a brief explanation of why Paula is passionate about her do's and don'ts.The list of companies that use animal testing is absent from this edition, as is the cosmetics ingredient dictionary.  You can consult her website for the ingredients dictionary.  It would be a book on its own.Now, let's go back to that conflict of interest thing, shall we?  Paula does review her own products, and of course, they're BEST products.  But you don't have to buy them.  In fact, if Paula is new to you, just skip the reviews of her products.  You will find favorable reviews for products from many, many sources.  I don't think Paula's reviews are perfect, but they're pretty darn good.  And I think providing consumers useful information about a wide range of products is still why she gets up in the morning.  She could have stopped doing product reviews after she launched her own line, but she keeps pushing more and more information.  In fact, you don't even have to buy this book to read what she has to say.  You can go to her websites for free.  I realize this doesn't seem rational, but that's the crux of the issue when it comes to buying any product.  Humans are irrational beings.  It isn't rational to sell cosmetics and review other lines and recommend someone else's products, but Paula is a human being.OK, now you know I've drunk the Paula kool-aid.  This book isn't my only source for product reviews because not all products are reviewed.  There are also some excellent consumer reviews to be found on the internet.  But DGTTCCWM is my reality check.  It's completely worth it to me, using the guidance found here.  Not every product I buy is wonderful, but I'm not buying clunkers any more.  I am ever the skeptic, and still, I give this book my highest recommendation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Reviews Review </p>
+
+
+<h2> review.date </h2>
+  12-02-2013  
+<h2> review.text </h2>
+
+ <p> Love this woman . This book is such a great blessing for us who don't  have the money to spend on expensive products .  This book is worth the price . Trust me you won't be disappointed . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book for saving money on make up and skin care . </p>
+
+
+<h2> review.date </h2>
+  09-25-2013  
+<h2> review.text </h2>
+
+ <p> I had an earlier version of Paula Begoun's &#34;Don't go to the cosmetics counter without me&#34; and wanted an up-to-date version.  She didn't disappoint me!  The only negative for me was when she recommends HER line of cosmetics.  There are so many lines out there that I was interested in finding out about, with her personal line, it was more confusing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shipping was quick - Exactly as described! </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> I'm sorry, but this book was so unhelpful! Amazing how HER product line is rated as darn near perfect while every other product line is ripped to shreds! I'm sorry, but basically you are paying for a phone book sized tome of advertising for Paula's own skin care line. I can't believe this was even published... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Guess she should just buy Paula's products </p>
+
+
+<h2> review.date </h2>
+  12-19-2012  
+<h2> review.text </h2>
+
+ <p> The book came within days of ordering!  It was as described if NOT better!  I tend to always check first to see if the book I want is offered at a discounted price in good-great condition before making my final purchase- and to this date although from various outlets (stores) I have yet to be disappointed!  Fast shipping, comes well packaged and no problems with my transaction and so the same is with this company!As for the book itself- its self explanatory!  Paula offers GREAT INSIGHT and professional advice/outlook on all things beauty related!  If you are a beauty lover-junkie like me you will find LOADS of helpful information all in this AMAZING well put together book!  I love how she isn't bias and gives honest reviews pro's and con's about a product... be it $100.00+ or $1.00 worth!Worth getting for any beauty/makeup lover! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exactly What I Expected! </p>
+
+
+<h2> review.date </h2>
+  12-20-2012  
+<h2> review.text </h2>
+
+ <p> Love Paula's reviews. I will not purchase any cosmetics without first reading what Paula has to say. This is recommended for all cosmetic junkies like myself! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> this is my Cosmetics Bible </p>
+
+
+<h2> review.date </h2>
+  11-27-2012  
+<h2> review.text </h2>
+
+ <p> I ALWAYS buy the current copy of this manual in paper and in kindle. There are some significant changes, mostly good. Here is what I saw.Good stuff:-She is relying on a team now to critique what is out there. The team approach is better, it avoids some of the one sided likes and dislikes. I appreciated the new reviews done by the team.-She uses peer reviewed journals and respected dermatologists to base her critiques on as she always has done. She mentions when a dermatologist has funding from a company or when a company funded the research.a little aside--- if you as a reader want to know how something works on a larger number of people then I suggest balancing this book by ALSO reading the reviews on Makeup Alley, often written by more than a hundred different people who actually used it, and thought enough about it to write recommendations or warnings about the product. (down side to Makeup Alley? Often the reviewers are influenced by a pretty scent, or a pretty jar and don't account for the potential for harm or the costs involved) When you have over 4000 reviewers disliking something (Maybelline Great Lash) or over 3000 LOVING something (Maybelline Full N Soft) it is worth looking at. Often but not always, Paula and Makeup Alley agree. Revlon Fabulash which over 300 reviewed was an almost universal fail, while Paula gave it a top pick. I like to check BOTH Paula, AND Makeup Alley before buying anything.-She looks at the chemistry and gives points and takes them away based on actual known reactions to ingredients. This is the ONLY place I've ever found where I can trust the chemistry knowledge on things like potential sensitizing chemicals. Over the years, I've been able to track down reactions to certain products thanks to her in depth discussions of why some things like DMDM Hydantoin or lavender essential oils are problems. DM. is a terrible sensitizer because it is a formaldehyde DONOR thus allowing the manufacturer to claim a formaldehyde free product, yet have reactions in the hapless helpless customer from, you guessed it - FORMALDEHYDE! In the case of lavender she warns this common irritant isn't soothing to your skin AT ALL, despite the ad copy in such things as the purple version of Neutrogena makeup wipes. (you'd think Neutrogena would know better, and they do, but the dollar rules and it's buyer beware!)-her "best of" lists at the back are MUCH better organized and far clearer to read and puzzle out where to start. She dropped quite a few, leaving a stripped down, easy to read "best of the best" list. To her great credit, Paula doesn't recommend you buy from her lists at the back. She would prefer you look at all the Best and Good rated stuff first, then make up your mind. Problems such as rosacea may mean a good product is better for YOU than a Best product. She will explain why.-You will save MEGA BUCKS with this book, more than enough to buy the book, and get a kindle copy too, with money left over. My experience over the years has been that Paula really does tell you which of the drugstore products are the same or better than the expensive department store or mail order versions. For example Nivea is almost the exact same stuff as La Mer or La Prairie. None of which are as good as OLAY or NEUTROGENA top picks. If you want the anti aging arsenal of goodies, in a form that will keep well, then listen to Paula, buy her top picks, and use them. Listen to her explanation of why even these will not compare to the results you get from a laser or injections of filler. Paula will explain that if you buy a good skin cream for under 30$ you can save up for a procedure that really works rather than constantly buying top of the line Estee Lauder cream or La Prairie and spending more with little to show for it.-Save the money, listen to Paula. I got sucked into buying the calming line of Aveeno, and later reading her reviews AFTER finding that stuff actually made my redness worse not better. Reason? Feverfew --the main medicinal ingredient is a skin IRRITANT, not a redness reducer!!!! Although Aveeno claims their version of feverfew is stripped of the skin irritating part of the extract, it is interesting to see on Makeup Alley that a lot of people react to this product. (I got sucked in by a sale, and clever advertising, and it was before I had a Kindle--so I bought it BEFORE reading about it) (Please invest in a kindle and kindle copy of Paula to take with you to the mall or drugstore!!!)--my biggest plus is the fact that many of these cosmetic companies wouldn't have changed much over the years without her constant badgering. Even now, Garnier Nutrisse's annoying insistence on including all the more irritating and sensitizing fragrances in their skin and hair care products persists, and then there is the covering up of Formaldehyde donors such as DM DM Hydantoin or the skimpy SPF that is less than a 15 and or doesn't protect from UVA rays at all.A very current example, Maybelline persists in putting Methylisothiazolinone (Kathon)in products. It is in it's new BB cream for example which is NEVER supposed to stay on skin due to it's potent sensitizing action. It can create an allergy to itself or other ingredients in the product when left on skin for any length of time. And NEVER near the eyes! Hello, BB cream? You put it on and it stays there all day till you take it off. If you are good and remove makeup at bedtime religiously, and we all do that all the time right?Unfortunately here in Canada, the new 9th kindle version isn't allowed to be sold yet but they did ok on my old 8th kindle edition with a few glitches in the table of contents. So rather than wait till it comes out here in Canada on the kindle, I bought a hard copy of the book. I'm glad I did, but I really wish they'd get it together about books available on the kindle in the states and make them available AT THE SAME TIME IN CANADA!!!!!Due to the sheer size of the book, if Paula includes new stuff like the new reviews of Too Faced cosmetics, she has to make room, even if that means her coverage of a product line as popular as Cover Girl mascaras  is curtailed. For example while Lash Blast is covered, Lash Exact is not, nor are half of the currently available CG Mascaras. But she can't cover it all in the book.She assures you the reader, that more reviews, and fresher ones plus more product lines are on her site, Cosmetics Cop --follow her link there to BEAUTIPEDIA which is now free for right now at least and has all the extra reviews and material.Huge new advances such as the BB creams are only partly covered in the book, with the promise that the rest of them are on her site. She gave a complete review of Estee Lauder's BB cream (expensive) while completely ignoring the Maybelline BB cream (cheap) in the book and it's my understanding that the Maybelline product launched about the same time. Nor did she give a best of list of BB creams, however her reviews of the ones she did cover explain her ambivalence towards them and her comment that for a list of all of them, you should go to her site where you have access to her gigantic data base of reviews which are also dated, so you can tell if they are fresh. It was on her SITE that I found out about the Kathon problem.Things I'm neutral on: Yes Paula has her own line of skin care and cosmetics, and yes she gives them top marks, including them in all her best of lists at the back of the book. Most critics make a big mountain out of this molehill. As she points out, you don't expect her to not love her own line. I don't see this as a big issue. Many cosmetic companies are grumpy at her for that but honestly it makes little difference. I don't read a single one of her reviews of her own products, nor do I buy them basically because I can't be bothered with mail order over the border. I live in Canada and cross border shopping is expensive especially with taxes, shipping, duty and if you have to return something, even more shipping and taxes on the shipping. If I were interested in one of her products I'd look up the reviews on Makeup Alley (and her products are fairly well rated there, by a number of people who use her stuff faithfully).But it is the REST of her reviews that are helpful, along with her comparisons of say Estee Lauder against Lancome or L'Oreal against Revlon or NYX against Rimmel. And the most valuable of all is her comments on how well the product stacks up against current health and safety standards.BOTTOM LINE?Buy this book--preferably on Kindle (see my comment below on why), AND join her website! The site has more detailed information, and now it's free. It's called Beautipedia, and you find the link on her cosmetics cop site. If she included the material in the book it would be the size of some encyclopedia collections!You'll be supporting Paula's consumer advocacy and gaining her valuable opinion on the ingredients of a cosmetic or skin care product.If you have an old copy of a previous edition HANG ONTO IT!!!! You can still look up current products in there, and her remarks and reviews DON'T change much from book to book if the product itself didn't. One exception, and I like her for this: she always compares the current ingredient list against the current wisdom available from dermatologists and peer reviewed research so when she does downgrade something that hasn't changed it is to reflect current standards and thinking. Good for Paula.One last comment:KINDLE is a good way to haul Paula with you in your purse to look up a review fast BEFORE plunking down your hard earned dollars. I have her last one on my kindle and it's useful in the store when I'm thinking "do I buy this one, or that? What does Paula say?" If the kindle is too big for your clutch, stick a kindle app on your smart phone, and keep a copy of this book on it.I want her book in my purse because she is giving the information the cosmetics companies DON'T want us to know, information that can prevent harm, and save mega bucks. Over the years, no matter what I've paid for this book, it's always paid it's own way in saving me money not to mention avoiding nasty reactions.And while Makeup Alley reviews are great, sometimes there aren't enough people reviewing a product to glean useful information, or they fell in love with a pretty package, colour, or ad campaign and you will rarely if ever find useful comments on the safety of the ingredient list.Paula will always give you the benefit of her opinion, and you can make up your mind from there. She encourages people to consider buying anything with a happy face and up and explains carefully why something is a good buy versus a best buy. She warns against shoddy or dangerous practices and in a BUYER BEWARE market, I'm always grateful for more information, not less.So buy the book, kindle version preferably, and take it with you in your purse to the cosmetic counter and join her website for more reviews and more details which are free, and the website as an app available for smart phones which I just noticed today. I haven't tried that out, but it's another good thing from Paula. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some great changes,and this book will save you it's cost over and over again </p>
+
+
+<h2> review.date </h2>
+  02-23-2014  
+<h2> review.text </h2>
+
+ <p> This is my beauty bible. It is wonderful to have a reference book like this to check out the different cosmetics on the market by how they work or not work and what it is in them. There is a chapter with the best cosmetics that she recommends and I I have followed her advice from every edition of this book and am completely satisfied with her recommendations. Every woman should check out the cosmetic she intends to buy to make sure it works. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't go to the Cosmetics Counter Without me. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

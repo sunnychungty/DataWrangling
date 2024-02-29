@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00006JLOS <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Weak lens ruins a good camera for third time </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-14-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the third time the lens mechanism has broken. The first one was with a similar C-3030 and it was repaired under warranty. The second time it broke it was not under warranty and too expensive to repair. I thought the lens looked sturdier on the C-5050, but it failed.The mechanism that moves the lens in and out failed. It had taken two pictures and then the next picture the lens just got stuck.I've pulled the camera apart - but can't get the lens out - maybe I'll try again.Its too bad because the lens was good for the camera's compact size, for its age it was fun to use all the controls and it was very good in low light.My other camera I had to sell on eBay for parts - I fear this will go the same way. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A classic compact </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was the best incarnation of the Olympus C-series cameras, the final one to be made with the two key features that made the line unique: a fantastic F/1.8 lens and the ability to run on AA batteries.  In addition to this, its other main virtues are build quality and feel in use: it's built like a truck (or like a very serious camera) and designed around a solid, comfortable grip and controls that drip with precision and sturdiness.  Sensor technology and Moore's Law mean that the guts of a digital camera age very rapidly indeed, and in many respects (light sensitivity, fine detail, and speed/shutter lag) this is indisputably an obsolete piece of equipment compared to newer cameras, but I still miss using it anyhow and wish Olympus made a truly comparable one today.  The Canon G series and newer Panasonic and Olympus models are similar, but made much smaller and without AA battery capability, and even their very good lenses still don't quite seem like a match for the C-series' excellent glass... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Living with a digital camera </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-16-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have been doing photography for 30+ years: portrait, scenery, sports/action and so on. I expect a lot out of my equipment as I push it to the limits. Digital cameras tended to be too much marketing, too little substance and too much changing too rapidly. As such, I held off getting a digital camera for a long time.Overseas travel loomed in my future. I did not want to lug the camera, lenses, films and such across the ocean only to be inspected at every security point. With the possibility of fogged film, I decided to take the plunge. I had used Olympus for decades, liked the gear and found generally good reviews for the C5050 model. So I took the plunge and purchased the camera.After using the C5050 for close to 6 months now, I am quite pleased and happy with the purchase. The images are crystal clear, sharp and true to the original scene or subject. And with 5MP of resolution, I can crop, blow up and print without getting stairsteppy, something that lower resolution cameras do not do as well. The various modes also allow me to adjust to a variety of situations with just the touch of a dial. There is even a setting to take video and sound for motion pictures. All in all, Olympus has done an excellent job with this camera.Only nit: it comes with a 16MB memory card. That's too small for normal use. Solution: go out to Crucial and buy a 512 MB card for it. That gives you 400+ high-res shots, more than enough for even the most snap-happy photographer.Bottom line: if I could take it back and do it over again, I would still buy the camera. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Consumer Reports top pick...OK number 2 </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-26-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just went online with Consumer Reports and they have the C 5050 by Olympus as the number 2 spot in the 5 megapixel showdown. The Nikon coolpix was number one. I don't exactly understand that considering that the 5050 gets 400 shots per battery charge, and the coolpix only 100. Additionally, the coolpix has an 8x zoom, and the Olympus has a 3x. Sometimes bigger isn't better. The problem with bigger zooms, is that they have really small lense sizes, therby limiting the amount of light they are capable of taking in. For inside the building shots, that is a super big factor. The Olympus with a 1.8 Super Bright Lense beats the competition. Think about it, if you want to take a shot in low light conditions, you have to have a long shutter speed. With a long shutter speed you need a tripod or a very steady hand. With a bright lense the C-5050 you barely need a flash. I have the Olympus C-2040 which also has the 1.8 lense, and I prefer to take pictures without the flash. It is almost like the camera records light undetected by the naked eye. The pictures are unbelievably bright for a so so light condition. Without the flash, you avoid the red eye problem, and the bleached out flash light. Skin tones and colors look a lot better without a flash.Think about the brighter lense this way, when someone is moving around, or when you are in an action shot, the brighter lense automatically creates a faster shutter speed, so you get a non blurry shot. With a smaller lense opening, you are stuck with a longer shutter speed which results in a fuzzy shot. I know my earlier experience with 80-210 zooms, I always had to work around a 2.8 aperture. That is a serious limitation. My 2040 has a 3x zoom, and that is all you need. If you go crazy with a high zoom, you once again, should be using it on a tripod. The slightest hand shake is magnified with a big zoom. Then that is amplified even greater with the smaller aperture.My Olympus C-2040 was consumer reports number one rated camera two years back. As CR puts it, the 2040 had superior printed picture results even above the 5 megapixel cameras. The following year it was comparable to the 5s. When printed on 8 1/2 by 11 glossy photo paper, you can't tell it from a 35mm photo. I have seen shots blown up to that size with a direct comparison to the Nikon Coolpix at twice the price, and the 1.8 lense made the background a lot more defined. Both produced great detail in the subject.I am keeping my 2040, but I thought something should be said about the 5050. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Camera That's Seen Better Times </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-31-2005  
+<h2> REVIEW TEXT </h2>
+
+ <p> The C5050 is a remarkable camera in so many ways that only the passage of time can take away from it. Just a year after the 5050 made its debut, the market saw a veritable flood of 6- and 7-megapixal cameras, most considerably smaller with new features and capabilities. For those who have external flash units, this camera offers a flash shoe; however, those who want to travel light, I'd recommend a smaller 6-megapixal with a non-glare LCD and AA batteries. Skip the proprietary batteries. They won't be around in a few years.The Olympus D-40's a great camera if you can still find one. It's a 4-megapixal, but it's a beauty. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Pictures but problem with Battery Door and Lens </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-30-2004  
+<h2> REVIEW TEXT </h2>
+
+ <p> It takes great pictures! I had to send back my unit twice because the tiny plastic clip in the battery door keeps breaking off for some reason. Also be extra careful handling the unit. The lens retraction mechanism is very delicate. Next time, I will go for a camera with a lens that stays inside the body. Also remember, the repair warranty only lasts 6 months. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Outstanding Quality with great control of settings </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-13-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> GREAT CAMERA:  I have owned many Olympus Digital cameras and I find this to be the best near pro model there is. I love the control I get with the many setting options and manual settings. The Multi-storage media and hot-shoe for flash gives added selection and options.You get excellent pictures weather you are a novice or pro.The only problem I can find is in the fact that the owner's manual is on Adobe file and not printed. It could have been written better so you could understand the control buttons more easily.. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent Camera </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-13-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great camera. While I've only used it for two weeks, it does everything I've asked it to. The menus are easy to use and intuitive. The buttons are easy to use and the battery life seems really good. The delay between depressing the button shutter button and the recording of the picture is much better than my previous camera but there is a delay.  SLR camera are still better than digital for action photography because of this. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great camera, but one big warning </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-05-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this camera.  That said, I have experienced a major glitch you should know about.  I originally bought a Viking 1 GB CompactFlash card to go with it.  Hours out of the box the card doesn't work.  After reading extensive forums on the subject (look under Olympus forum ..., it seems there are major compatibility issues with higher capacity CompactFlash cards and this camera.  Specifically firmware version 77 and 76 (and lower if you have it).  Version 78 seems to have very few complaints and you only get v79 when you send in the camera for repair and they happen to update it.  Now, there seems to be no way to check this version until you take a pic, put it onto you computer and use a program to look at the Exif information (like Exifer, freeware).  Olympus, Nikon, and other companies experiencing this are not giving up any info on this subject.  Apparently Olympus firmware upgrades can only happen overseas.  Some CompactFlash card companies are starting to list camera compatibility charts, but be warry.  Viking says the CF1GB works with the C-5050, but it didn't in my case.  I'm still trying to figure out whether I will be returning the camera and try to get another one in hopes it will have the better firmware.  Fortunately this camera takes 4 types of media.  Interesting how Olympus and Fuji make there own, new media type (xD Picture Card) and now the camera has problems with the CompactFlash.  Hmmm.  Maybe I should buy the Olympus brand card.  Kind of fishy, but I bought this camera with plans of using the cheaper CF cards.  I'm no expert on this.  You now know what to look into if you want or have this camera.  This is an annoying issue, but notice I still gave the camera 5 stars.  I love it otherwise. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good camera, Olympus made good on bad CCDs </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-15-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have owned my 5050 for coming up on 3 years now.  It's a great camera, although many were effected by the bad Sony CCD issue.Mine went dead just after 2 years of use.  Olympus covered the repair under an extention of the basic warranty  for this problem only(announced just about the time miine broke, and they rebated earlier people who had paid for the repair).  Took about 2 weeks to turn it around, and they did a nice job.There are some other longevity issues, many relating to the capacitor that preserves the settings when the batteries are out of the camera.  Olympus is not covering that problem.I do love the camera.  Takes great pictures, especially with the Olympus FL-36 flash attached.  It has a fast, bright lens and works wonderfully after you lower the default sharpness setting and move the ISO mode to 64 or 100.Fears of longevity issues keep me from rating it a 5.  Love of the pictures keeps the numbers high. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> impressive feature set, but check out the competition </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-25-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> pros:- fast F1.8 lens, 5MP resolution, 3X zoom lens.- very good resolution.- good reliable metering.- good color balance.- full manual controls.- allows fine-tuning of white balance.- impressive macro performance.- solid build quality.- shooting priority play mode (double press quick view button to go to shooting mode).- eight separate user settings - that's a lot!- very wide range of manual and parameter controls.- flash hot-shoe.- good night exposures with noise reduction enabled.- no color cast from flash.- AF assist lamp.- impressive bundle included IR remote control.- flexible: supports three types of memory cards: xD, SD, CF.- supports both RAW and TIFF formats.- uses non-proprietary rechargeable AA batteries.  this means that in a pinch, replacement batteries are as close as the nearest convenience store.- impressive battery life.cons:- competition has at least 4x zoom.- noticeable purple fringing.- images noisier than expected, even at low ISO setting.- jagged diagonals sometimes visible.- complex user interface - button placement has a random feel to it.- shutter lag when shutter speed isn't fast.- LCD only tilts and not flip-out like canon's and nikon's.- cannot cancel writing to memory during TIFF capture - very frustrating if you already know you're going to trash the picture you just took.- slow start-up (over 5 seconds!).- slow shot to shot times.- bigger and heavier than its competition: 4.5 x 2.7 x 3.2 in, weighing 17.1 oz.- 32MB xD card provided is inadequate so add $$ to your budget to buy external memory.- manual is on CD - very annoying.this is a solid 5MP camera but suffers from noisier than expected images (even at low ISO settings) and noticeable chromatic aberrations.  its flexibility and wide feature set deserves consideration; just makes sure you also check out its impressive competition: the canon g5, sony dsc-v1, and nikon 5400.i hope this helps you with your buying decision. peace. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Camera </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-16-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased this camera about four years ago and it's still going strong.  Although it was my first digital camera, I had few problems with all the controls - most of them seemed rather intuitive.  I used the camera for professional photography and had flawless results every time.  Between the camera's capabilities and my ability to edit, pictures came out literally poster perfect nearly every time.  The only "complaint" I have is that there is no way to turn off the LCD when using the viewfinder, which makes the camera an annoyance to others when using it in a dark theatre situation.  I had to come up with a little black velvet-like "baggie" to put over the LCD when I was using it in dark places (such as when I went to a museum show).  The camera is a complete joy and is so portable that I can even pack along my tripod and some extra lenses without feeling like I'm loaded down with camera equipment. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Eary Digital Camera </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was my first serious digital camera, bought in 2003 for a trip to Peru. Even with a measly 5mp sensor, I took wonderful pictures of Cusco, Machu Picchu, and the indigenous Quechua people. Long out of production and succeeded by vastly more sophisticated point and shoot digitals, I still use this camera to produce bright, brilliant landscape and nature prints and carry it as a backup camera when I travel. This camera will write to three different switchable cards, a great feature. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Who needs Polaroid?! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-22-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> As a professional photographer who still strongly believes in film (and first experienced digital imaging as a $40,000 option for a twin-lens Rolli) I've watched closely as digital cameras evolved. That said, it took me until I had a serious need for a camera that could hook up to my Speedotron studio strobes.  I needed a replacement for a defunct Polaroid back so that I could test my lighting, etc. I also wasn't looking to replace my film based equipment so my need was for something reasonably priced that could produce fairly high quality images, can use camera/lens mounted filters and could fire off my studio strobes.  I found that in this camera!  Since the camera has a hot shoe (and no p.c. outlet) I'm able to attach a Wein Hot-shoe to PC adapter and fire my strobes.  The camera has fantastic optics and amazing range of capabilities that I've yet to get the opportunity to fully appreciate.  The picture quality is crisp and contrasty and yields excellent results under a variety of lighting conditions.  The fast 1.8 lens (at the wide angle position) produces fine images even hand held at 1/15th of a second (not that I'd typically take something that slow handheld but, I had to try it!).  Overall, a great camera for someone who needs the bells and whistles such as full manual exposure, multi-spot metering, flash exposure compensation, etc.PROS:- Mult-spot metering- Flash exposure compensation- "MY Mode" custom exposure mode settings- HOT SHOE!! (which can provide TTL flash with their flashes)- fast lens- adjustable display- rugged construction- Multiple media formats, multiple power source options- much, much more!CONS:- Doesn't go down to ASA 50 (though easily correctable with exposure compensation)- Learning curve for multi-spot metering because of unclear directions in manual- when in full manual the monitor doesn't show you what the image will look like at the current settings (check out the Canon A70 to see what I mean) it only shows you what a "proper" exposure would be (as determined by the camera's meter).- f1.8 only at wider angle setting.  Would be nice if it maintained f1.8 maximum through entire range.- would like a minimum aperature of f16 or f22- minimum aperature not consistant throughout entire zoom range.- would prefer a camera that had a zoom range of 28 - 135 (35mm equivilant)Now, that being said, the minimum and maximum aperature issue seemed to be consistant through every brand I played with.  Overall, the Olympus 5050 best fit my needs in features, performance, quality, etc.  For someone who loves the technical side of photography this is a great addition to your set-up.  For the avid amature, you won't be disappointed!As another reviewer pointed out, the Olympus CLA-1 lens adapter is a must.  Not only so that you can use filters on the camera but also to protect the zoom lens from damage (a fear of mine where all non-SLR or non Pro equipment is concerned).So much more can be said but I'll leave it at this.  You can't go wrong with this camera if it's in your price range. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best Non-SLR digital available on the market! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-25-2003  
+<h2> REVIEW TEXT </h2>
+
+ <p> Typically, digitals have suffered from two major problems.  Shutter lag and poor performance in low light situations.  The Olympus cameras (particularly this one) suffer none of that.  The shutter opens when you push the button which is crucial when your subject is a two year with the attention span of a gnat.  Additionally, the f1.8 aperture lens is as good as it gets for a non-slr and consequently this camera does a great job in low light situations.  Combine this with the incredible # of features (umpteen shooting modes, you can shoot the shot in Sepia, save to SmartMedia, CompactFlash, & XD picture cards), this is one great camera.  I simply could not be more pleased.  Finally, if you learn to master a decent photo editor (e.g., photoshop, paint shop pro), you can produce near works of art with this camera that people are willing to part money for.  I have. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0002TSZME <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-11-2013  
+<h2> review.text </h2>
+
+ <p> I love this anime series and somehow missed out on in back in the late 80's early 90's when I was first getting into anime. This overlooked gem features a lot of amazing music too which only adds to its greatness. The characters are unique and each have personalities characteristic to themselves. Some of the episodes are serious and some of more light-hearted and funny. The episode &#34;Scoop Chase&#34; is easily my favorite of the series and offers a lot of silly character interactions and rivalries. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must own! </p>
+
+
+<h2> review.date </h2>
+  01-18-2006  
+<h2> review.text </h2>
+
+ <p> The Bubblegum Crisis franchise in one of the strongest anime franchises out, with numerous spin-offs and a release of a new Bubblegum Crisis series, and there's no wondering why in my book. The characters, for there time, were original, the story was well-done and plotted excellently, the world in which the series was based was thoroughly thought out, and the music, though dated, works well with the anime.In 2032-33, we get to meet the original four girls: Sylvia, Lena, Nene, and the ever popular Priss, as they battle Genom made Boomers from episode to episode in order to protect MegaTokyo. The first three episodes deals with the Knight Sabers battle with Brian Mason, the evil leader of Genom bent on destroying these four girls at all costs. The next episode gets away from the Genom story as the girls must fight a car infected with the Boomer virus, which is determined to destroy the Outriders, a biker gang. When Priss becomes a target, the Knight Sabers are forced to act. The fifth and six episodes gets back to the battle with Genom, and the Knight Sabers find themselves fighting some powerful new enemies: themselves, and the mysterious Largo. This is essentially the end of the series, yet two more movies follow that are almost entirely unrelated to the first six. In Double Vision, they must figure out a series of terrorist attacks against Boomer engineers. These attacks somehow involve Vision, an American singer. In Scoop Chase (my personal favorite) we follow Nene in her job as an AD Police officer while she watches over Lisa, a young girl who seems to idolize the Knight Sabers. That's when a new group of Boomers attack the AD Police headquarters and the Knight Sabers must act in order to save allies and friends from the ongoing Boomer threat.What's great about this series is that it's actually a huge collection of short films. None of these episodes are less than a half-hour, and some are near to an hour or more. It makes it much more watchable, in the end, since there is never a "to be continued." You see one conflict resolve itself before moving onto the next, without ever truly escaping the core storyline.This is a classic anime series that should be picked up by any person who truly wants to call themselves a hardcore fan. This is one of the founders of the cyberpunk genre and without this series, great anime like Akira may have never been. I recommend this to everyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bubblegum Crisis, an Original Classic </p>
+
+
+<h2> review.date </h2>
+  03-10-2014  
+<h2> review.text </h2>
+
+ <p> Great show. Cancelled too early, but what was made is classic cyber punk anime.  Enjoyable to all anime fans. Product came as expected.  Highly recommended to fans of the genre, especially those who don't know the awesomeness of the 80's and 90's anime, and are looking for a more serious change of pace from what is put out in todays market. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blast from the 80's Cyber-Punk Past! </p>
+
+
+<h2> review.date </h2>
+  07-31-2013  
+<h2> review.text </h2>
+
+ <p> Bubblegum Crisis/Crash/Tokyo 2040 are among my favorite animes. The remastered edition is complete and well done. I got this to replace my copies that were lost, and it is a nice compact set of DVD's, with no problems that I noticed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good job! </p>
+
+
+<h2> review.date </h2>
+  07-29-2009  
+<h2> review.text </h2>
+
+ <p> Bubblegum Crisis: 7 out of 10: Hot chicks, giant robots, and evil corporations fill every frame of Bubblegum Crisis as does some surprisingly catchy Eighties tunes.Bubblegum Crisis, like Akira or Macross, is one of those Anime that separate the thirty something Anime fan from this year's crop of snot nosed punk kids. When you think Japanese cartoons, do you think Pok&eacute;mon or shower scenes. Do you think irritating children or kick ass adults. Do your favorite plots involve the little kids defeating the big evil corporation or adults facing economic hardship and self-sacrifice. Bubblegum crisis is an Anime for the thirty something.As I settle into my damn kid's today voice and distaste for every exaggerated, rapid cut seizure inducing, saccharine piece of crap that passes for entertainment these days. (I am looking your way Cartoon Network). I can sit back and watch full-grown woman destroy some boomers (as well as half of Tokyo) and reminisce about my childhood when cartoon characters swore and a gratuitous nude scene followed every battle.Is Bubblegum Crisis as good as I remember it? No. The episodes do not flow into each other well and vary in quality. Some of the dubbing is dubious and the live action music videos contained in the extras are simply painful (In a OMG what cheese kind of way).Bubblegum Crisis allows me to both relieve my childhood and look down upon kids today. What more could I ask for my entertainment dollar. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boomer Baby </p>
+
+
+<h2> review.date </h2>
+  04-23-2009  
+<h2> review.text </h2>
+
+ <p> This series of 6 episodes has an ongoing battle/theme, but each episode was done by a different producer. The series leaves many un-answered questions, even at the end. But if you enjoy collecting classics get it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hop Scotch </p>
+
+
+<h2> review.date </h2>
+  07-23-2005  
+<h2> review.text </h2>
+
+ <p> Very classic.  The setting is MegoTokyo, in 2032, which is recovering from a earthquake.  Within the ashes fight two sides - GENOM corporation and its androids, Boomers, against the Knight Sabers, a small band of high-tech warriors (who fight for a price).  Battles, rock-n-roll and diet issues.Tons of music videos, text interviews, programs notes, art calleries and promos.You can follow the changes in artwork, the evolution of characters and production methods from episode one to episode eight.  Many of the staff who worked on it, like Sonoda Kenichi, Hayashi Hiroki and Gooda Hiroaki went on to become big names after this series.  Their art skills and ideas about anime developed during these episodes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Classic Sci-Fi Anime... </p>
+
+
+<h2> review.date </h2>
+  02-17-2011  
+<h2> review.text </h2>
+
+ <p> In my personal opinion this is the best anime ever! The music featured in the series is amazing and the English versions of the songs are equally perfect. If I rember corectly this wonderful series was created as an OVA in the late 1980's. Never concluded Bubblegum Crisis Crash was created in the early 1990's to conclude the series.This work of art, im my opinion, is the story of the Knightsabers - without going into detail they are a group of women with extreamly powerfull hardsuits (advanced battle suits) that they use to combat boomers.I am a huge fan of Bubblegum Crisis: Tokyo 2040, released in the 2000's, however I believe I like the originol Bubblegum Crisis the best.I believe that any fan of Classic Anime and Science Fiction anime will enoy this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing Anime!!! </p>
+
+
+<h2> review.date </h2>
+  12-12-2004  
+<h2> review.text </h2>
+
+ <p> Synopsis:The year is 2033, and Mega-Tokyo is just beginning to finish recovering from a HUGE earthquake that completely rearranged the face of Tokyo. Part of the recovery is due to the recent advancement of Boomer technology. Boomers (or Bumas, if you're watching the subbed version) are androids that look, think, and act just like human beings. They can be put to work, perform in the military, or, um, go berserk and terrorize the population.The corporation responsible for all the major Boomer advancements is a monolithic company called GENOM, whose power seems to grow with every passing moment. GENOM seems to have a rather underhanded secret agenda (to take over the world, of course). With the world dependant on Boomer technology, there doesn't seem to be much that can resist its power.Enter the Knight Sabers. This mercenary team of four young women equipped with hardsuits has the firepower and the courage to stand up to rampaging Boomers and the company behind them. Knight Sabers, sanjo!My Review:Being the sequel to Bubblegum Crash (which I haven't seen), this has an eqaul rating to Bubblegum Crisis Tokyo 2040. This was a popular series in 1987 (according to my brother). Handling great elements in anime, you've got your "cool" mecha, big ugly androids to slay, and cute females in hardsuits. Pretty good package. And a plot? What there's no need for a plot!In a few episodes, there are threads still hanging especially at the end of the series. Those that seek a good amount grain in anime, will respect this series for exisisting. For mild understanding, extrapolation is needed at times, which can become a bit tiresome.As for the characters, I'd be more happy if more details were given. Details as to how the four women met each other and became Knight Sabers.Animation is pretty good, especially in the for an action series. The android, robot scenes are pretty well drawn.If you like J-Pop, you'll love the soundtrack and themes to this series. One warning, though: the dubbed version of Crisis is not quite up to par. Voices are usually quite mismatched, and the voice acting falls flat precisely in the scenes where convincing acting is most important for credibility.The feel is heavily reminiscent of Blade Runner, and the creators of Crisis cleverly intersperse references to Blade Runner throughout the series (one of the less subtle references is how Priss's rock band is named The Replicants). It's not all gritty, though, and the occasional humorous touch adds a nice light feel to the series.Overall, not a bad watch. In fact, at times, Bubblegum Crisis can be really good. Unfortunately, oversights and carelessness here and there keep this series from being all it can be. Though I give this series, Crisis the same as the next sequel, Tokyo 2040 fairly the same 4 stars/ out of 5. I favor Tokyo 2040 a bit more. I will note that you can watch these series w/ out refrences. You don't need to watch the prequels. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Original Series </p>
+
+
+<h2> review.date </h2>
+  10-30-2010  
+<h2> review.text </h2>
+
+ <p> Let me just say, I've been dying to get my hands on this series without breaking my wallet. I'm happy to say that everything went quite smoothly with my expectations. I'm a huge fan of 80's style anime, like Dirty Pair and Robotech. It just has that look that anime now a days just can't replicate. First of all, most if not all of the series was made by hand and not computer help. It just shows a lot of blood and effort on that part alone. They also took great care in making each episode on movie standards, all quite polished thanks to the remastering. I would highly recommend putting the settings of audio to Japanese and subtitled, since the english is a bit crappy, America back then was just getting into anime and unfortunately not every voice actor was good at expressing emotions or tone for that matter. Other then that, this series is an absolute gem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Times </p>
+
+
+<h2> review.date </h2>
+  08-23-2005  
+<h2> review.text </h2>
+
+ <p> This is a mecha style anime that takes place in the future in a post of a disaster Tokyo, know known as Megatokyo. The series has a manga adaptation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> what a great japanese classic </p>
+
+
+<h2> review.date </h2>
+  08-27-2006  
+<h2> review.text </h2>
+
+ <p> In a "Blade Runner" like future, four vigilante women - the Knight Sabers - assist the AD Police in fighting boomers, living machines not unlike the Replicants from "Blade Runner". The Knight Saber ring leader is Sylia Stingray, a rich, mysterious brunette who is the daughter of the man who created the boomers and whom might actually be a boomer herself. The others include rebellious biker girl Priss Asagiri, aerobics instructor Linna Yamazki and ADP computer hacker Nene. Other characters include ADP man Leon McNichol, a Brad Pitt like pretty boy with high ideals and a jerky attitude as well as a thing for Priss and with Leon is his hilarious partner Daley Wong. Oh and Sylia has a pervert whiz kid for a brother by name of Mackey. The villains include Quincy, chairman of GENOM, the company that produces the boomers, his right hand man Brian J. Mason (killed off too soon) and an obnoxious boomer man named Largo.A good series overall, but being dated is the least of its problems. Originally slated for 13 episodes, it was cut short at episode 8, leaving many series plot threads unresolved. A sequel series, Bubblegum Crash, was concocted to solve this problem but it didn't help. Also the characters are never as well developed as you would like them to be. The most interesting character, the Knight Saber ringleader Sylia, is never completely explored. Linna had potential, but her subplot involving a friend who was apart of a mafia family was never resolved and most of the time Linna was just ignored. Nene was cute and funny but only had one episode to call her own, the last one. Sadly, most of the series attention was centered on Priss, who somehow became the most popular character of the series, so much in fact that although she was originally suppose to die, a fan backlash saved her; I think this was due partly to the fact that she was voiced by a then popular Japanese singer. But Priss herself was not that interesting of a character: all her episodes basically revolve around her seeking revenge for a minor character friend that we the audience sometimes didn't even get to know in depth. Priss became repetitive and dull after a certain point. I could never quite figure out what Leon saw in her.But the series itself is not inherently bad. Animation is still pretty good in most of the eps (excluding the first one, which is a bit herky jerky, and the last one, in which the characters are drawn much too thinly), was generally good natured, good humored, and it had an interesting theme on humanity VS technology.Remade for TV as "Bubblegum Crisis Tokyo 2040" in 1999. Hate to say it, but 2040 was superior in many ways, though not completely perfect in and of itself. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good stuff </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

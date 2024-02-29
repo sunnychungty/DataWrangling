@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B008TC1Z1O <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-18-2012  
+<h2> review.text </h2>
+
+ <p> I am very disappointed in this book.  The narrative is very disjointed and hard to follow.  I have absolutely groaned over the large number of misused words.  The author needs a dictionary. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Over-rated </p>
+
+
+<h2> review.date </h2>
+  08-06-2012  
+<h2> review.text </h2>
+
+ <p> I'll admit it, I like history so I have a tendency to read Regency romance. But, I was so intrigued with a romance set during the American Revolution that I couldn't wait to try it. After reading Ruse of Love, I can't wait to go back and read Patriot Secrets.I loved the backdrop of the Revolution and how the author took us from the battlefields to the high society of the South. The story and mystery kept me guessing the whole time. Who was good? Who was bad? The characters were well developed and I felt for them during this chaotic time in history. The story wrapped up nicely and, since I don't want to spoil it, let's just say it was great!If you like Kathleen Woodiwiss or are interested in the Revolution period, you will love this book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kept me Intrigued </p>
+
+
+<h2> review.date </h2>
+  09-21-2012  
+<h2> review.text </h2>
+
+ <p> This is the second book I've read and reviewed by talented Author Jerri Hines. Once again, it is a history lesson and a romance novel all in one. Due to the fact that I read "Patriot Games", it felt like I was already acquainted with a few of the characters which made it all the more enjoyable. It was delightful to discover what happened to Dr. Jonathan Corbett after the death of his wife Catherine. His dangerous role as doctor/soldier continues during the historical American Revolution, the time frame in which this novel takes place.Coming to the aid of his long time friend, Rebekah Morse, poses many challenges and unpredictable dangers for the admirable and stoic character of Dr. Corbett. The death of Rebekah's parents force her and her siblings into the life of their ruthless uncle, Adam Reed. His hatred for her is apparent, much to her surprise and lack of understanding for the reason.  She has no idea why he holds these dark feelings toward her but she is bound to discover the depth and depravity of these negative emotions. Her abduction and subsequent threats on her life are orchestrated by this vengeful uncle. Black Rory, a disgruntled raider whose family has been slain, appears to come to her rescue. Many twists and turns unfold as the plot thickens and the story unfolds. Rebekah spends months with Black Rory but he manages to betray her too.Expect the unexpected in this captivating, well-written, historical romance. I certainly hope there is more to come in this enthralling series (Winds of Betrayal)! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great follow-up to "Patriot Secrets"!! </p>
+
+
+<h2> review.date </h2>
+  02-22-2013  
+<h2> review.text </h2>
+
+ <p> My three biggest complaints about this book:1. Sentence structure was awkward and words were not  used properly or in the correct tense.2. There were too many characters involved.  It was difficult to remember all of the names and how people were related to each other; most of the characters were superfluous anyway.3.  The plot was too complicated. Complexities didn't add to the story, just made it more difficult to read.Now that being said I can forgive a book all these atrocities if it's got great romance. (Because shoot, don't a hot kiss fix all?)  Unfortunately this book was tap water warm at best.Would not recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Confusing and unromantic. </p>
+
+
+<h2> review.date </h2>
+  08-06-2012  
+<h2> review.text </h2>
+
+ <p> Wonderfully descriptive, "Ruse of Love" immerses you in the drama of the Revolutionary War. The characters are well drawn and imaginative, and the plot keeps you guessing. If you enjoy early American history, "Ruse of Love" is not to be missed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautifully Descriptive Historical </p>
+
+
+<h2> review.date </h2>
+  11-21-2012  
+<h2> review.text </h2>
+
+ <p> This is the second book in her Winds of Betrayal series. I have not read the first book and honestly don't feel it is necessary to read the first book. It is very much a standalone book. Hines does reveal some information later in the book so if you don't like spoilers then read the first book, Patriot Secrets, before this one.Hines spins an intriguing tale with the American Revolution as the backdrop. Ruse of Love follows Jonathan Corbett in the South after spending several years in the North. Hines does an excellent job contrasting the sharp differences in the climate of the North and South of the American colonies. Those of us familiar with American history will remember the conditions at Valley Forge in the winter of 1778. One scene that stood out for me was in chapter one, "A burst of bitter wind gusted. Dr. Jonathan Corbett yanked his cloak across his chest to protect against brutal cold...The pines moaned in the darkness, but offered scant protection to the elements in this godforsaken winter camp."The historical research and the undertaking of it in her novel is exceptional. It's been quite some time since I read a historical with so much detail and you can feel the frustration with the war effort. The American Revolution is often romanticized and we often forget how difficult it must have been for the American colonists and the men as well as the families living under such circumstances. Hines portrays these feelings and we can see Jonathan's disillusionment with the war in chapter one, "Seemed a lifetime ago when he answered the call for life, liberty, and the pursuit of happiness. How eager he had answered that call."  Later she touches upon it again when Jonathan remembers the sacrifice his family made, "He, too, had once held the cry to the fervor of freedom." The reader can't quite work out if his personal feelings are due to the conditions of war or if there is something more to it. You can taste the bitterness he feels. Hines weaves a tale that makes us understand why Jonathan feels the way he does and leaves you wanting to delve into the history of the American Revolution to learn more.Not only do we have Jonathan's tale and what he's experiencing, but we also have Rebekah Morse's tale. Now here is where the book diverts into basically two separate books. On the one hand you have Jonathan's life as a doctor during the war and on the other, you have Rebekah's tale as a young woman. Unlike today, women didn't have many choices for a career especially if you relied upon male relatives and their assistance. Rebekah's tale is heartbreaking and brutal. We never really are told the full story as to why her uncle hates her until the every end and even then the big reveal as to why her uncle wanted to hide his background is a bit weak. I suppose in many ways I was expecting this grand confession of a secret to be life shattering and yet it wasn't (well...it was for the time period, but I was expecting more). In addition to that Rebekah's life is intertwined with that of Black Rory, a notorious raider. He saves her one night, but then held her captive for three months. I realize she's a young girl, eighteen years old, and lived a sheltered life, but her relationship with Black Rory and what ensues afterwards was a bit unreal. Especially at how fast it happens. Despite that we are left with a character, Black Rory, we are suppose to dislike and yet one can't help feel sorry for him and everything he lost. He made a choice to forgo his second chance for happiness and there lies the heartbreak. In the end we too have to wonder if Black Rory profession of love for Rebekah was indeed a ruse as Jonathan claims.Ruse of Love is a beautifully written story with rich historical details. It's also an emotional roller coaster. You'll feel the frustration of war, makes you relive your first romance as well as the failure of one, but most importantly it makes you feel like you were there. Jonathan's fear in the battlefield is gritty and your heart pounds as you read his emotions and what could very well be his final thoughts. You feel Rebekah's anguish at not knowing who to trust and all the while cheering her on to be happy with Jonathan.I debated over the rating between a four or a five. I gave it a four because at times it felt like I was reading two separate books. I understand the reason for this since it gives us a glimpse into the lives of Rebekah and Jonathan before they meet again and how different their lives were; I worried when we'd see them together and the time spent together wasn't enough to satisfy my need that a bond of love had formed. A four for the detailed historical elements and because I really can't wait to see how the series concludes.**This review appeared on my blog & the author provided me a copy to review** </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Literary, etc Review </p>
+
+
+<h2> review.date </h2>
+  04-01-2013  
+<h2> review.text </h2>
+
+ <p> I have now finished this third book in the "Winds of Betrayal" series.  I enjoyed all three books and look forward to the fourth due out next year.  I must again say that it was a shame that such a good plot of history and romance was tainted by all the typos and words just not being in the right place, etc.  If this series had not been full of those errors, I would have rated all three books 5 stars.  I am hope that by the time the 4th book comes out, this problem will be solved. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kept my attention </p>
+
+
+<h2> review.date </h2>
+  08-30-2013  
+<h2> review.text </h2>
+
+ <p> This book took a bit of a departure from the story of the main interest in the first two books (Hannah) and is focused more on her brother Jonathan.  This book takes the story as well as the Revolutionary War to the South.  As in the first two books, this one is an interesting story with enjoyable characters and many suspenseful moments.  I understand there is to be a fourth installment sometime in 2014.  I will look forward to continuing the story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Book 3 of the Winds of Betrayal Series </p>
+
+
+<h2> review.date </h2>
+  04-14-2013  
+<h2> review.text </h2>
+
+ <p> Plots and more plots about in this wonderfully complex, exciting and fast-paced tale of love, revenge and honor set in the Carolinas during the American Revolutionary War.The American Revolution we learned about from dry history books comes alive with real people suffering the hardships of war. The plight of nave, downtrodden Rebekah, suffering for crimes she didn't commit, is heartbreaking. Jonathan, surgeon in the Continental Army, is honorable, loyal and a hero to die for. Not all snakes slither in the grass, and Ms. Hines has created several genuinely evil, but true to life and the period, villains.The best part of the story is Jonathan. A truly heroic man, but also human in his quest to avenge and protect those, especially his family, whom the tides of war have harmed. His fiery patriotism dims but never falters as he continues his support of the American cause while he ministers to the sick as well as navigates the politics (there are always politics) of the different factions fighting the British.Ms. Hines's heroes are heroic, her villains villainous, and the backdrop of the war makes everything play out with an intensity not possible in peacetime. A big story, and although we know who won, we wonder how the characters will fare even as we reach "The End". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderfully Complex, Exciting and Fast-paced Historical Romance </p>
+
+
+<h2> review.date </h2>
+  11-11-2012  
+<h2> review.text </h2>
+
+ <p> While the story line had some merits, it could not begin to make up for the unbelievable number of misused words and poorly constructed sentences.  I wondered often if the author had an editor or not. I would definitely not recommend this book to anyone else. In fact, I will probably be removing it from my Kindle list. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very poorly written. </p>
+
+
+<h2> review.date </h2>
+  08-06-2012  
+<h2> review.text </h2>
+
+ <p> Discovering this historical romance set around the American Revolution is a refreshing and compelling read especially if you love romance and American history. The characters of Rebekah, Jonathan and Black Rory are well developed and believable. I loved how J. Hines keeps you guessing and reading. I really enjoyed Ruse of Love and look forward to reading more by this author! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Delightful Historical Romance </p>
+
+
+<h2> review.date </h2>
+  09-28-2012  
+<h2> review.text </h2>
+
+ <p> In my opinion this book is not worthy even the free download. I purchased it driven by the positive reviews but I've been very disappointed. The story is incomprehensibly convoluted and eventually loses sense. I endured the foggy narration hoping for a plot to emerge, but nothing worthy of this name comes.  Characters appear and disappear in the story without any comprehensible reason. At many points the names and family relationships flow out of control in a dizzy way. The dialogues are often fragmented and rambling to the point to be unintentionally funny. The characters fall in love too quickly to be remotely believable. Many words are misused. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very disappointing </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> This series is a fun romantic series based in a sort of Victorian Era.  Each book of the series kept me in suspense on how it was going to turn out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kiss of Deceit </p>
+
+
+<h2> review.date </h2>
+  08-06-2012  
+<h2> review.text </h2>
+
+ <p> Ruse of Love really brings to life how difficult, dangerous, and gritty the American Revolution was.  Set against that backdrop is a secret plot involving Rebekah. As a naive young girl of fifteen, she has a crush on Dr. Jonathan Corbett. Sadly, he has married another. When Rebekah's parents die, she's thrust into a difficult situation for the sake of her younger siblings.  She tries to make the best of it in 'Charles Town,' with the help of her friends, but some mysterious person is intent on causing her harm.  When she's kidnapped, she falls into the power of an attractive and deadly rogue, Black Rory.  She loses her innocence, but not her goodness. How Rebekah ultimately finds love and happiness is an engaging journey.I really enjoyed Ruse of Love.  Hines creates very sympathetic characters in Rebekah, Jonathan, and even Black Rory. I wasn't sure who I was rooting for to win Rebakah's heart... Black Rory or Jonathan!  I'd recommend this book for anyone with an interest in the American Revolution, the deep South, or romance literature. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> American Revolution Gem </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

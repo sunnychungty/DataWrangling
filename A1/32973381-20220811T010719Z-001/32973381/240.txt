@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000GDH9J6 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-19-2007  
+<h2> review.text </h2>
+
+ <p> 'Mountain Patrol:  Kekexili,' may make you feel noble going into the film, but it will leave you feeling exhiliarated.  Featuring particularly gorgeous landscape in the mountains bordering China and Tibet, the whole venue made me envy theater goers or HD and widescreen TV owners.  Greed and need is the theme as the same-titled voluntary border patrol is vigilant against poachers killing and hording rare, endangered Tibetan antelope.  The movie shows how even the Third World can have people hording natural resources--imagine that!  Here even the women are casualties as every step the men take away from home to work is toward a warzone.  With a tight drama and authentic scenes, the whole presentation comes across like an indulgent popcorn* flick with a message.  Whether you root for protecting the antelope or the people who are casualties on both sides of the war (more like me), 'Mountain Patrol:...' will at least have everyone cheering for the movie.(*Clarification:  "Popcorn flick" at the time meant entertainment to me.  Here it is an adventure, but I've come to understand that "popcorn" means more well rounded entertainment.  Don't expect 'Raiders of the Lost Arc' or the 'Pirates...' series.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Patrol Vs. Poachers </p>
+
+
+<h2> review.date </h2>
+  02-08-2012  
+<h2> review.text </h2>
+
+ <p> The movie is much slower-paced than I expected after reading other reviews. No major complaints in the execuition of the storyline, acting or dialog; I just found it only mildly interesting. [My wife was downright bored.]The one thing that really stood out for me is how they concluded the movie. Without spoiling, basically all of the sub-plots do come to resoution. What struck me as odd is how they jump from one person to the next in short clips. Kudos on an unique approach to not leave loose ends, but I didn't really like it. I guess I'd say that editing was biggest downfall of the film. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting, but nothing special </p>
+
+
+<h2> review.date </h2>
+  12-28-2006  
+<h2> review.text </h2>
+
+ <p> Mountain Patrol: Kekexili is a truly powerful film that draws the most poignant of contrasts between the beauty of nature and the brutality of men.  The film plays on many levels, as this story of a group of brave volunteers fighting to drive out the poachers from their land ultimately turns into nothing less than a spiritual journey for one character and most definitely for the viewer, as well.  This is much more than just a good story, however, as it was inspired by actual events.  With poachers decimating the herds of Tibetan antelope in Kekexili, a volunteer patrol was formed in the 1990s by locals to patrol the area and stop the poaching, even at the risk of their own lives.  We're talking about a huge area of mostly barren land in the unforgiving mountains (over three miles above sea level) of Tibet, one of the coldest places on earth.  Some of these men gave their lives to the struggle, but they did ultimately succeed in bringing international attention to the problem and the establishment of Kekexili as a natural animal reserve by China, and the number of Tibetan antelopes has now begun to rebound strongly.We initially see events play out through the eyes of a reporter from Beijing, sent to write a story on the Border Guard's struggles against the poachers.  Ga Yu arrives during the funeral for a guard who had been murdered.  Westerners may be perplexed by what they see here, as the funerary tradition of this land is, to put it far too simply, to feed the dead body to vultures.  Soon thereafter, Ga Yu joins Ri Tai and his men on patrol into the mountains.  As he gradually bonds with these men, who have left family and friends behind to take part in this dangerous journey, the story evolves into Ri Tai's story.  Ri Tai will risk everything, including his very life, to stop the poachers from polluting his land.  The viewer gets a visceral look at the destruction the poachers leave in their wake, as the men come upon a snow-white field completely covered with the carcasses of dead antelopes.  When they spread out hundreds of seized pelts, the effect is similarly powerful, particularly as it shows how the animals were basically mowed down with large caliber weapons.  After finding and arresting a group of skinners, Ri Tai knows he is on the trail of the men behind all the killing, and he won't stop until he finds them.  The journey could not be more dangerous: extreme, dangerous weather conditions, a dwindling supply of food and supplies, and the threat of ambush attacks by the men Ri Tai seeks.  The Border Guard numbers dwindle down to almost nothing by the ending, setting up the viewer for a most memorable and in some ways shocking conclusion.Director Chuan Lu has made a masterful film, overcoming innumerable challenges along the way.  The beauty of the environment, the camaraderie of the Border Guard volunteers, and Ri Tai's unflagging determination are all presented exceptionally well, while the cast of predominantly non-actors is really superb.  You can't help but be inspired by the unbounded determination of these local men, volunteers all, to take a stand and make a huge difference in the land they call home. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A profoundly impressive, important film </p>
+
+
+<h2> review.date </h2>
+  06-09-2008  
+<h2> review.text </h2>
+
+ <p> Over the past decade, many simply marvellous, award-winning films have come out of China, to include "Postmen in the Mountains," "The Road Home," and many, many others - and this one!If you are anticipating coming out of this one with a morally uplifting spirit, do not.  This a a story based on actual events in Tibet, and the events, especially the climax, will "get to you."  One thing you will experience is the utter desolation of Tibet, and in truth, it is something to behold.  My wife and I visited Tibet in 2007, and I was the first westerner to travel on the new two-day train from Chengdu to Lhasa, an experience I would not trade for much of anything.This film will leave you with mixed emotions, but among them will be some positive feelings about the true nature of the Chinese and Tibetan people, and the struggles they endure to live and work in a very inhospitable environment, as well as some of their environmental sensitivities.I highly recommend this DVD to anyone who wants to truly "experience" a film.  A great story, and some truly fine cinematic work! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A gripping, morally wrenching film </p>
+
+
+<h2> review.date </h2>
+  09-19-2009  
+<h2> review.text </h2>
+
+ <p> I found this by chance in a bargain bin somewhere and bought it because I adopted my daughter from China and am always on the lookout for asian films and documentaries.  I have to say - if I'd seen it in the theater and had to pay full price to acquire the DVD, I gladly would have done so.  It's an excellent film and went straight to the shelf with my most prized classic movies.  From a cinematography standpoint, it's a masterpiece of storytelling through use of wide shots.  Like other films in which the environment is so overwhelming that it becomes a character in the story, these stark mountain plains quickly move from geographical backdrop to a shifting role as ally/antagonist.  The plot is suspenseful and the acting superb.  Because of the violence of the storyline, I can't show it to either my young daughter or my middle school film class although I'll probably show a clip the next time I do a unit on cinematography because it's just so well executed.  In the meantime I'm happy to shelve it for myself and look forward to the day when I can screen it for friends, lend it to a another film buff, or rewatch it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Masterpiece of wide shots </p>
+
+
+<h2> review.date </h2>
+  09-02-2006  
+<h2> review.text </h2>
+
+ <p> 'Kekelixi' ('Mountain Patrol') is one of those quiet, quasi-documentary films that now and then rises out of nowhere and has such an impact on the viewer that it has the potential for creating some global change action.  Written and directed by Chuan Lu from China and sponsored in part by National Geographic the film was distributed as 'travel/foreign places/environmental issues' product, and while it satisfies those designations, it resonates as a story that is not only based on fact, but one that opens our eyes to another way of life in a very remote area. The effect is stunning.A journalist from Beijing - Ga Yu (Zhang Lei) - travels to Tibet to investigate the poaching of Tibetan antelope and the group of unpaid citizens committed to eradicating the poachers and saving their beloved antelope. The leader of the mountain patrol is Ri Tai (Duobuji) and he has gathered devoted men who spend their lives selflessly searching for the elusive poachers.  Ga Yu goes along for the search, camera in hand, capturing the magnificence of the mountains of Tibet, the men's camaraderie and commitment to their mission, and the fields of antelope carcasses left behind by the poachers whose only concern is to skin the antelope for their pelts of luxurious wool for the world market.  The patrol encounters endless problems with their equipment, food supplies, loss of men to the poachers' guns, and finally capture a group of men (a family) who serve as skinners for the pelts.  Ri Tai attempts to remain fair and non-violent, but his attempts are constantly thwarted. Ga Yu changes from a journalist role to a committed hunter and his relationship with Ri Tai and the other patrolmen is exceedingly touching.  The ending of the film is as quiet as the Tibetan landscape and equally as impactful.The cast is not known to this viewer, but it is difficult to imagine that Duobuji and Zhang Lei are amateur actors, so profoundly moving are their performances.  The haunting music by Lao Zai and the breathtaking cinematography by Yu Cao support Chuan Lu's film.  This art piece is excellent on many levels and is one that deserves a large audience.  Highly recommended. Grady Harp, September 06 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Magnificence of Man's Bond with Animals and the Perpetuation of Life </p>
+
+
+<h2> review.date </h2>
+  02-27-2007  
+<h2> review.text </h2>
+
+ <p> This film is a wonderful cinematic experience. The story is real, and the Nepalese high mountains are the perfect backdrop for this dramatic, amazing story about the clash of honour, sacrifice and greed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing! </p>
+
+
+<h2> review.date </h2>
+  07-17-2009  
+<h2> review.text </h2>
+
+ <p> The Bottom Line:An engaging and wonderfully-shot feature about the battle between poachers and underpaid rangers over the rare Tibetan antelope, Kekexilli/Mountain Patrol is a fine and memorable film no matter which name it takes; the movie may wander a little from time to time, but it offers some dark and beautiful scenes and is an altogether worthy motion picture.3.5/4 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Starkly beautiful </p>
+
+
+<h2> review.date </h2>
+  07-14-2013  
+<h2> review.text </h2>
+
+ <p> Where's the action, you know?  Also, I don't care about antelopes.  I only watched about half of this movie, and it was boring. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Boring </p>
+
+
+<h2> review.date </h2>
+  06-11-2007  
+<h2> review.text </h2>
+
+ <p> I'm interested in Tibet, if a movie dvd box has Tibet on the front i'll at least pick it up and read the back. I was uncertain if i would like the movie from reading the blurb on the back, but i was willing to give it a chance. It exceeded expectations and is an excellent movie despite the poor description on the dvd box. The best thing to increase sales and rentals of this movie is to first-rewrite that box.It can be best described as a terminally sad movie, sad for the people of Tibet, for the antelope on the high dry cold plains, for the world for standing by as Tibet's inheritance is machine gunned down, stripped and shipped off to make some rich person's collar or gloves leaving the people even more impoverished, cold, hungry and dying.The only heroes die; painful, often solitary, always cruel and ultimately useless and meaningless deaths. Mirroring the frozen ground's burden of was-pregnant(there could have been hope) but now just red rib cages and dangling legs(stark, mindnumbingly counted and finally burned), the people seem as cruel, as uncaring, as empty as the Tibetan plain swept by winds, seared by the cold, hiding death everywhere.Even those that fight the death dealing poachers are sadly at best just standing their ground, unpaid, begging for food and gas from those even worse off then they are. Most are like the Tibetans hired to butcher the antelope and skin them, just trying to live in a harsh, unforgiving, bleak world that seems unaware of their efforts and their very existence.The movie is about making the destruction of the Tibetan people, their culture, and the land that supports them, real and palatable to those far away, but yet often intimately involved (where do the furs ultimately end up?, the Tibetan's don't wear expensive furs). I didn't see any hope in the movie, it was more like a run away tank that no one can stop but the best are trying to slow it down with their bodies under the tracks, but it doesn't really deflect let alone stop the juggernaut, it just speeds along destroying. It's a broken system, full of broken people who are just trying to survive, in the midst of an uncaring world that is being impoverished even more by their efforts. It is a moving movie, anyone unmoved by tears is simply dead inside, but one asking serious questions without really trying to answer any of them.It is worth watching, but don't expect to leave with much implanted or imparted positive energy to rise up and tackle tough problems, or maybe i just took the quicksand death too seriously ignoring the facts at the end that the army is now fighting the poachers and the herds have greatly increased in the last few years, your call. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> it's a moving, beautiful, but cruel, uncaring deadly world </p>
+
+
+<h2> review.date </h2>
+  05-31-2007  
+<h2> review.text </h2>
+
+ <p> This movie has some of the best camera work and aesthetic qualities I've seen in a movie of this nature. The starkness of the landscape is captured in such a rich fashion. This film is right up there with Eric Valli's "Himalaya" in it's treatment of the Himalayas.The quality of films coming out with Tibet and the Himalayas as their setting and subject has been improving greatly over the past few years. I hope we see much more in the future!I read a review of the film (I think it was in Phayul) that criticized the film for being guilty of perpetuating an anti-romanticized view of Tibetan life. One of savagery and hardship. However, I'm inclined to disagree, though I can see where one might come to that conclusion. I think the film mainly uses the setting as a vehicle to make a statement about the duality of nature in general and man's place within it, and not just in Tibet. How it can be at once very majestic and beautiful, and yet also savage and unforgiving. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Astounding </p>
+
+
+<h2> review.date </h2>
+  11-10-2006  
+<h2> review.text </h2>
+
+ <p> Margaret Mead is reputed to have said, "Never doubt for a moment that a small group of committed, thoughtful people can make a difference. Indeed, it's the only thing that ever has." In MOUNTAIN PATROL, Director Chuan Lu demonstrates, indeed, how a small group of Tibetans made a difference in the vast and harshly beautiful region known as Kekexili (which the movie tells us means "beautiful mountains and girls."In 1985, machine-gun toting poachers began ravaging Kekexili's herds of Tibetan antelopes for the furs, to be sold in the West. By the mid-1990's, an antelope population that numbered over a million had been reduced to less than 10,000 and was being hunted into extinction. Volunteer patrols of local Tibetans, including both the Wild Yak Brigade and the Kekexili Mountain Patrol, began their own efforts to block the poachers and protect their native wildlife. This story, set in the winter of 1996 and presumably based on true events, describes the efforts of the Kekexili Mountain Patrol and its leader, Captain Ri Tai.The story line revolves around Ga Yu, a reporter from Beijing who is sent to Tibet to investigate the death of one of the Mountain Patrol's members at the hands of poachers. Ga Yu arrives a seeming novice in Tibet (even though his father was Tibetan) just in time to witness the slain patrolman's funeral ceremony. The deceased receives a sky burial, in which the human remains are chopped up and fed to vultures and the rest burned. Director Chuan Lu juxtaposes this form of human ritual with the appearance of vultures and the burnings of carcasses (antelopes, trucks, jeeps, etc.) throughout his film. Captain Ri Tai (Duo Buji, a dominating presence on the screen) reluctantly agrees to let Ga Yu accompany his patrol as they set out in search of the main band of poachers. Along the way, Ga Yu begins to understand that this search is more than just a policing action. It is protection of a venerated way of life; Kekexili has a sacred and primal place in the hearts of its people. As one character notes, the thing that haunts him about the land is that when he sets foot in a place, he may be the first person in all of human history to do so in that particular spot.Ri Tai and his men (a former university student, a highway checkpoint worker for loggers, a taxi driver, a soldier, and a herder, among others) encounter a pelt carrier and a group of skinners, led by the wonderously terse but endearing old man, Ma Zhanlin (his real name as well as his character's name). In a clever moment of environmentalism, Chuan Lu has Old Ma tell us that he and his three sons were once shepherds, but the grasslands disappeared and they switched to skinning antelopes for the poachers for about sixty cents per pelt. In the end, Ri Tai finds his poacher and refuses the latter's bribes in the name of justice and preservation of the antelope herd. None of this is achieved without a price, however, and Chuan Lu exacts an enormous and often tragic toll on all the players in this cat-and-mouse game.Chuan Lu's pacing in this movie is magnificent, slowing things down enough to mimic the pace of life (and the difficulty of breathing) in the Tibetan plateau yet keeping the action moving. The cinematography is breathtaking, both magnificent in its range and horrifying in its ferocity. Grays and earth tones predominate, so much so that the movie borders on black and white in places. Chuan Lu mixes Nature's basic elements - fire, ice, wind, water, sand, snow - into a stew of factors waging their own natural war on the patrol even as they as at war with the poachers. No one can mistake Kekexili for what it is: a majestic but unforgiving land where survival is a daily battle for man and beast. The battle between poachers and patrols make up a small piece of that larger struggle. This is a deeply felt exploration of the relationship between man and Nature and the role of human faith in the primacy of his natural environment. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Deeply Moving Story, Magnificently Shot and Told </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

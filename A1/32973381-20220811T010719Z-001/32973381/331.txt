@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1585714445 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-18-2011  
+<h2> review.text </h2>
+
+ <p> I liked the strong attraction between Diana and Trace. The conflict was evident throughtout the book. The confrontation between Trace's mother, Crispina and Diana was awesome. It made want to continue and see what would happen.I would read another book by this author. Good job holding this reader's interest. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Strong Attraction </p>
+
+
+<h2> review.date </h2>
+  11-30-2012  
+<h2> review.text </h2>
+
+ <p> Diana was so incredibly unlikable that I had a hard time reading this book. The conversations were so terribly unnatural and they had my eyes rolling back in my head the whole time. The fake conflict of him cheating on her allegedly is a played out plot point. I just got frustrated with all the dancing around the whole, him cheating thing. If he cheated, say so and stop refusing to discuss things. Very annoying and lame. I just wanted him to take the baby and leave her in the cold. I didn't like her one bit. I didn't get the draw everyone had to her, the characters liked her because they were supposed to, but she had few redeeming qualities.Trace's mom was terrible, and I wouldn't push reconciliation with her especially with what she said about the baby. She would have to crawl back on her knees apologizing to get my forgiveness.My non-helpful assessment:This book kinda sucks. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Trite and Cliche </p>
+
+
+<h2> review.date </h2>
+  03-28-2012  
+<h2> review.text </h2>
+
+ <p> I loved the characters!  The chemistry was almost tangible. I hate that his mother never came around, but that made it even more realistic! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Loved it! </p>
+
+
+<h2> review.date </h2>
+  11-15-2011  
+<h2> review.text </h2>
+
+ <p> This was a really good book!  The story was well written and believable.  Not everyone has the mother in-law from hell!!  Trace knew what he wanted the whole time although he was put off by Diana.  But, his seduction worked and I am glad.  The loves scenes were good as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Good Book </p>
+
+
+<h2> review.date </h2>
+  11-22-2011  
+<h2> review.text </h2>
+
+ <p> I truly enjoyed this book.  I loved Trace's arrogance and determine.  The chemistry between Diana and Trace was sizzling.  Yeah I got a little frustrated by Diana's stubbornness, but I also understood it. Crispina (Trace's mother) had no redeeming qualities, however I loved the way Trace stood up to her.  Susan was truly the best kind of friend and Dominic was also.  Although it is not a new storyline it was definitely worth reading and I would recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Truly Enjoy the Story </p>
+
+
+<h2> review.date </h2>
+  10-24-2011  
+<h2> review.text </h2>
+
+ <p> This story was an attention grabber from start to finish! The author took me on a journey through Diana's insecurities and Trace's ruthlessness. It was great. In the end, both Trace and Diana changed and opened themselves for the ultimate gift of love. Well done! Anything this author writes, I want to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a great story! </p>
+
+
+<h2> review.date </h2>
+  03-04-2013  
+<h2> review.text </h2>
+
+ <p> Another good book by Ms Wynn I only gave it 3 stars as I found mention of Mason twice  a character from her Seasoned Just Right in  a part of the book where it should not have been.  I agree with the reviewer who said the two main characters were just bobbing and weaving before they just admitted what had broken them apart.  The heroine was acting so immature if she were in front of me I would have given her a good dressing down.  I find that a lot of humans don&#8217;t like to stand up to others until they are backed into a corner.  I thought she should have done that and let the hero decide what he would do.  She was just hemming and hawing before she just admitted the truth to him. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> THE HEART KNOWS!!! </p>
+
+
+<h2> review.date </h2>
+  05-07-2014  
+<h2> review.text </h2>
+
+ <p> I loved this book. the characters were on point and the story line was good. a little slow in the beginning but I won't really complain. keep um (the books) complicated by. would love 1about the cousin n best friend------- </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Retreat!!! </p>
+
+
+<h2> review.date </h2>
+  09-21-2013  
+<h2> review.text </h2>
+
+ <p> I really liked this story. I appreciated the complexity of the characters in Diana and Trace, plus why it took so long for them to find one another again. The only thing I didn't like was the grammar errors in the book...who was Mason? For readers who catch that, the book is still referring to Trace. Otherwise overall good read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The heart can be treacherous! </p>
+
+
+<h2> review.date </h2>
+  10-15-2011  
+<h2> review.text </h2>
+
+ <p> Just an OK read IMHO...it's sweet & SPICY; but quite repetitive...I enjoyed the chemistry between Trace and Diana...but I also found Diana and her logic to be IDIOTIC and some of her actions towards Trace SELFISH and immature; especially the whole plot surrounding her son;  another small note someone dropped the ball on the editing; because at one point the hero was named Mason; and in some places throughout this novel they forgot to change it to Trace...oh, well...that being said I'd still give this author another shot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Second Chances </p>
+
+
+<h2> review.date </h2>
+  06-04-2012  
+<h2> review.text </h2>
+
+ <p> The misunderstanding was dragged out. Apparently the 2 did not even communicate with each other well over several heated arguments. That is what I thought was not realistic. As much as these two argued, the truth should have came out. I did not like the female character. She and Trace were in love, she thought Trace cheated on her so the logical thing to do was marry his uncle who was old enough to be her grandfather. She did this to save face with her parents because she was brought up to be a good girl. So it's not shocking to her parents that she married a man 40 something years her senior. Then she sends her son off to be with her parents So that Trace wouldn't find out about him. Yet everyone in the mansion plus the evil mother new that Trace had a son.The conversations in the book was annoying. As a matter of fact I felt like I was reading a play. There was just too much talking going on with all the characters involved. I bought the book because of the positive reviews and also the length of the book. This was not worth it of the 400 and some pages, you will find yourself skipping through 25% of the book just to get through the long drawn out unnecessary  dialog between characters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lost </p>
+
+
+<h2> review.date </h2>
+  01-09-2012  
+<h2> review.text </h2>
+
+ <p> Interesting novel.  The characters were well-developed, the story was refreshingly complex, and the love scenes were deliciously steamy.  Sometimes the author was a little redundant and overly descriptive, but overall, I enjoyed this novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting </p>
+
+
+<h2> review.date </h2>
+  10-29-2011  
+<h2> review.text </h2>
+
+ <p> This story grabbed my attention from the moment Diana walked into the room with all of her in-laws.  The sexual attraction between Diana and Trace was evident on the first pages.  I loved the way the author slowly revealed all the hidden secrets and the mother-in-law added a touch of realism to the book.  Of course the story had a happy ending just like I expect from all romances.  Good Job! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Emotion Grabber </p>
+
+
+<h2> review.date </h2>
+  11-11-2011  
+<h2> review.text </h2>
+
+ <p> The book starts off strongly with a great set up where Diana Pisano, the widow of a deceased billionaire is left nothing in the will but half the mansion she lives in. The other half of the mansion and ALL the money goes to her husband's nephew, Trace Montgomery, who just so happens to be her first love and the father of her son.But the story nose-dives quickly. It was rather boring, trotting out one romance novel cliche after another. And the dialogue did not sound like stuff that normal people would say.The biggest problem I had is that the entire conflict hinged on a 'Grand Misunderstanding'. You immediately cop to the fact that Trace and Diana have differing perceptions of what happened to break them up five years earlier. And yet each time they get to the point of discussing it, they refuse to re-hash the past. It was frustrating and cliche.Also this was another case of where the hero does all the romantic heavy lifting while the heroine is doubtful, uncommunicative and distrusting.This is also a secret baby plot where, for the life of me, I don't know how the heroine thought she could continue to keep her son hidden away given that the entire family knew he existed, she worked in the same building as Trace and they lived in the same house.I also felt the heroine's insistence that the hero try to forgive his mother was some noble-marytr-heroine crap. The hero's mother had all the maternal instincts of a long-tailed skink. She was neglectful when he was a child, she is a raging racist and calls her own grand-son 'a bastard'. By rights, Diana should've been snatching this hose-beast bald not trying to effect reconciliation! Ugh.This was perilously close to a DNF, but I forced myself to finish. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disappointing and Cliche </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

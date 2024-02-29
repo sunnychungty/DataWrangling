@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000X1U1EQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-14-2012  
+<h2> review.text </h2>
+
+ <p> I have to say that the case was brand new, everything was in great conditions. I do recommend this product to anyone who has a ZUNE and what else can I say... I'm happy with only paying 2$ and getting a brand new case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Quality </p>
+
+
+<h2> review.date </h2>
+  12-01-2008  
+<h2> review.text </h2>
+
+ <p> This case is stylish and holds the Zune 4/8 perfectly.  The two buttons on the Zune are covered by the case, but have the button label showing in the leather.  They are still easily pushed being covered.  The one drawback is having to take the Zune out of the case to sync via the USB sync cable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stylish and simple case </p>
+
+
+<h2> review.date </h2>
+  04-30-2013  
+<h2> review.text </h2>
+
+ <p> I choose five star because it fix perfect. I like the leather look. Yes I was recommand this idea to someone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Zune case </p>
+
+
+<h2> review.date </h2>
+  12-20-2008  
+<h2> review.text </h2>
+
+ <p> I ordered a Zune 120 GB with a number of accessories at the same time. This case was obviosuly NOT for the Zune I ordered - wrong size. Amazon never questioned the error. Almost too much trouble to mail back for refund. Don't count on Amazon to confirm misfitting accessories when you order a big ticket item. Isn't the first time. When Amazon shows recommended accessories for your new purchase, TRIPLE check everyhting possible to be sure it will work with what you bought! I also heard that 1 15 GB SD card I ordered for a new TomTom does not fit that model. Another cusromer mentioned many months ago but is still being sold together but card will not fit according to reviewer. Mine is a Xmas gift and I guess I will know soon if Amazon corrects the error and sends right one, or sends the one that does not fit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> received wrong size </p>
+
+
+<h2> review.date </h2>
+  12-25-2010  
+<h2> review.text </h2>
+
+ <p> i so love this case, it's easy classic and stylish!', i bought it with my Zune and in the very first day i used, my zune now is a year old and it has not a single scratch! :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> amazing! </p>
+
+
+<h2> review.date </h2>
+  06-05-2009  
+<h2> review.text </h2>
+
+ <p> Well, obviously it fits because it's from Microsoft.  But it is well made and attractive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect fit </p>
+
+
+<h2> review.date </h2>
+  02-14-2011  
+<h2> review.text </h2>
+
+ <p> I purchased this case to protect my Zune 8GB player and it does an excellent job. The fit is perfect, snug enough to hold the Zune in place and loose enough for easy removal. The magnetic closure works perfectly. All control buttons function as well when the player is inside of the case as they do without the case.I disagree with the reviewers who would prefer an opening for the sync cable. Having a large opening at the bottom of the case would subject the player to dirt and moisture. Especially at the sync opening. I would rather remove the device for syncing and have maximum protection while my Zune is in the case. I would also say that I don't need to connect the case to my belt or arm. It fits just fine in my pocket or messenger bag. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Case </p>
+
+
+<h2> review.date </h2>
+  03-20-2008  
+<h2> review.text </h2>
+
+ <p> I've been looking for something that keep dust from settling onto my zune...this is the closest thing since it has a cover.  bad part is that if you want to charge it you have to take out of the case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great in general </p>
+
+
+<h2> review.date </h2>
+  10-03-2009  
+<h2> review.text </h2>
+
+ <p> The seller NEVER replies my e-mail. I made an order, then within 15 minutes after I made an order I contact the seller through e-mail to change the shipping address. Instead of sending it to my new address, the seller never gets back to me. Terrible communication. Slow shipping. Bad seller. End of story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Terrible communication </p>
+
+
+<h2> review.date </h2>
+  02-18-2012  
+<h2> review.text </h2>
+
+ <p> Priced just right, well-stitched. I only wish that it accommodated the Zune connector for charging so I wouldn't have to remove the case to do so. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great value </p>
+
+
+<h2> review.date </h2>
+  03-03-2011  
+<h2> review.text </h2>
+
+ <p> If you are looking for a case to protect your new Zune purchase, in terms of durability I don't think you'll find much better than this (especially for the rock-bottom price!).  This is a great little flip-top leather case that is bulky enough to protect the hardware, but light enough to not weigh it down, either.The only problem with this case is that the charging-port is covered up.  Thus, in order to charge or synch the Zune, it must be removed from the case.  Just a bad design flaw.  Also, the headphone hole may be a tight fit if using an insulated plug.Overall, this is a great case (if you can handle the design flaws) and will protect your Zune for years to come! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Protection; One Major Flaw </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

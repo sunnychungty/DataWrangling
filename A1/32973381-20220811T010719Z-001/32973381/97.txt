@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004MC4KF8 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-15-2012  
+<h2> review.text </h2>
+
+ <p> At first, I didn't initially acknowledge the fact that the protective screening was in between the two film sheets that applies it to the screen.  When you follow the directions, it basically says that you have to wi[e down the screen, then pull the one side off; then place the other half on the screen (it adheres very well), then the part that confused me, was to pull off the other side as well.  I didn't even notice it until weeks afterwards, because using the stylus prior to taking the second film off just wasn't working properly.I would reccommend this product to those who have a NOOK Color or tablet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a must for the NOOK. </p>
+
+
+<h2> review.date </h2>
+  02-18-2011  
+<h2> review.text </h2>
+
+ <p> I was a little concerned about spending more for an "anti-glare" screen protector because of some of the reveiws I had read about some of the other so called anti glare products. Not a single one I read said it worked. This one also came with the cleaning cloth.(Like most I think) I took my time cleaning and removing lint before attempting to place the screen protector after reading some of the very upset people who fought with lint and fingerprints. It worked great. Easy to put on if you take your time. I bought it because I wanted to be able to read outside. So, I went straight outside on a bright sun day and it was way better. It wasn't as if I was inside, but I adjusted the brightness and it definitely makes a difference. I look forward to bringing it to the park when my kids want to play! Oh, and the stylus is a nice bonus. No more fingerprints! But I had a little trouble figuring out where to carry it. Not a huge problem. Definitely would purchase this again...But I still have a spare screen protector, so hopefully I won't have to! :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as described! </p>
+
+
+<h2> review.date </h2>
+  04-06-2014  
+<h2> review.text </h2>
+
+ <p> This is exactly what I was looking for to use on my NOOK.  I needed to protect the screen and be able to access the touch pad without messing up the screen with finger prints. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Accessories </p>
+
+
+<h2> review.date </h2>
+  06-05-2011  
+<h2> review.text </h2>
+
+ <p> This is typical for all the screen protection: there is always a label sticky to the screen protection itself, and it's very difficult to remove the instruction label. So you have to be very careful, otherwise, you leave a messy streak of residue from removing the sticky label from screen.The stylus is ok. It's not great on the nook, maybe it's just the touch screen itself. I found it better to use my finger to touch Nook color than use the stylus. Don't imagine that stylus could something you could use like a graphic pen that allow you easily draw things on the nook (using painting program), no, it's not very good to be used like that. Good for general clicking and pointing like your finger. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't expect too much </p>
+
+
+<h2> review.date </h2>
+  10-26-2011  
+<h2> review.text </h2>
+
+ <p> The title says it all.  Don't buy the bundle with the stylus -- it doesn't work hardly at all on the Nook screen.  No scrolling or sliding for example, just tapping.  Just get the screen protectors, which are quite good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Screen protectors are good; stylus is useless </p>
+
+
+<h2> review.date </h2>
+  08-10-2011  
+<h2> review.text </h2>
+
+ <p> The first one of these I bought turned out to be a disaster.  I had never put one on before and I really screwed it up.  However, my "Eternal Bride Of Many Years" said she required an anti-glare screen on her Nook Color, so I got another and this time I had someone MUCH younger and more experienced put it on.  My "EBOMY" says it works, so putting my bruised ego to one side, that's all that really counts.  Oh, and she says the stylus that comes with it works, too (some stylus don't). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Second time at bat! </p>
+
+
+<h2> review.date </h2>
+  02-13-2013  
+<h2> review.text </h2>
+
+ <p> Ok, I'm challenged I guess.  Destroyed the first one, got the second one on ok with no little bubbles. But now I have two nooks and only one screen protected.  Guess I'll have to buy another 2pack and try again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very difficult to put on... </p>
+
+
+<h2> review.date </h2>
+  03-19-2012  
+<h2> review.text </h2>
+
+ <p> Be careful and make sure the surface is free from dust before installing this protector.  I installed mine without a problem.  I used a compressed air from a can while slowly applying the protector.  No glare, no finger prints just adjust the brightness a little.  The stylus pens works but I still prefer using my finger.  Delivered on time and will highly recommend this seller. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great screen protector </p>
+
+
+<h2> review.date </h2>
+  08-13-2011  
+<h2> review.text </h2>
+
+ <p> I bought this for my nook color because I installed a modified version of Android and play games such as angry birds and scrabble, and touching the screen extensively left it gross and caused the pointer to become flighty.  This screen protector makes the screen easier to clean and solved the flighty pointer problem.First, the good.  Good feel, easier to slide my finger across screen than without protector- it lowers the friction between finger and surface.  Good protection, straight forward to install, and comparable to other screen protectors to install (may have some bubbles at first, as it is tough to install without getting any dirt caught between screen and protector, but that problem is not specific to this product).  Definitely reduced glare.Now, the bad.  The screen protector seems to have reduced touch sensitivity at the edges of the screen, so I have a hard time 'clicking' things at the very top and sides of the display.  The stylus is a good idea, but not very useful.  The screen doesn't register it as readily as a finger.  But the biggest problem is that the anti-glare coating on the protector makes the screen a bit grainy.  Glare is definitely reduced, but is the cost of graininess too high for that benefit?  I was torn and decided after a couple of days to keep the protector, and that the benefit is worth the drawback.  I have increased the font size when I read books in order to make sure the graininess doesn't hurt my eyes.These are good quality and are worth a try if you are willing to accept some graininess being added to the otherwise brilliant nook color screen for the benefits of scratch resistance, glare reduction, and easier cleaning. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great protection, good quality, but adds some graininess </p>
+
+
+<h2> review.date </h2>
+  02-01-2013  
+<h2> review.text </h2>
+
+ <p> I use this for my nook and it's a great product.  Protects the screen and cuts down on glare but makes reading easy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  01-01-2014  
+<h2> review.text </h2>
+
+ <p> The screens prevent glare and fit my nook but they can be a challenge to apply a get all the bubbles out </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Viewing </p>
+
+
+<h2> review.date </h2>
+  03-12-2011  
+<h2> review.text </h2>
+
+ <p> Follow their instructions and you'll soon learn why you got 2 of them. The anti-glare comes sandwiched between 2 masks. One side is labeled Step 1, the other Step 2. It's completely rectangular, so it fits above the left cutaway on the Nook Color. Held in portrait mode, the anti-glare fits precisely from top to bottom (height) with no space. But it's cut smaller from left to right (width). Not knowing this beforehand created a 1/8th-inch gap on one side after following the company's instructions. (2). Use a microfiber cloth to clean the Nook's color-screen and not what's given in the package. (3). Don't completely peel off the mask in Step 1. The anti-glare attracts dust from the air like a magnet. (4). Don't try to correct it by using water. So, after I trashed my first screen this is what worked VERY easily...Turn the Nook to landscape mode. Flip the anti-glare to have Step 2 on top and Step 1 underneath, when held in your hand. Working from the left side of the Nook. Peel off a small portion of Step 1. Center and align the anti-glare. Then place it against the left edge of the color screen, touching the frame(don't allow any space) and press down using your other hand. While peeling off more, continue to press it down while squeezing out air bubbles. After Step 1 is applied, squeeze out any remaining air bubbles. Then, completely peel off Step 2. Return the Nook to portrait mode and you'll find the top/bottom fits precisely; the 1/8th-inch gap is evenly spaced on left-right sides.The anti-glare has a nice matte finish. I reduced the Nook's brightness setting to get a great "Color-Kindle" experience. Maybe words are written in black and white. But we live in a world full of color. I hope this helps! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easier Installation after Trial-n-Error </p>
+
+
+<h2> review.date </h2>
+  05-26-2011  
+<h2> review.text </h2>
+
+ <p> Prior to trying this screen protector, I tried the ones made by Barnes and Noble and also tried other brands purchased here at Amazon. I have to say this one is the best one I've tried so far.It is the first one I've been able to put on with only one try and it fits perfectly. I don't know why others have said there is a small gap on one side or the other. That's not the case with mine. The protector is cut perfectly and completely covers the entire screen, no gaps and no overlap. You do have to put it on slowly and carefully to prevent bubbles and you need to be in a clean environment with no breezes or excessive air flow to prevent lint and dust from getting underneath while you apply it. I recommend that you apply the screen protector in landscape position instead of upright position because it goes on quicker and is easier to keep the protector straight when you apply it that way. Also, don't completely remove the film before placing the protector. Only peel up the edge and then gradually peel it away as you roll the protector onto the screen, pressing out any bubbles as you go and checking for and removing any lint on the screen as the protector is placed. This keeps dust and lint from getting onto the protector or the screen as you apply it.As for the quality of the protector... I like it better than any other I've tried. The screen appears sharp and clear through the protector and there is no glare, even when viewing the screen outside or in bright light. It is also smooth to the touch. My finger glides easily over the surface and doesn't feel as if it's dragging or catching on the protector like some of the one's I've tried. I don't even notice that the protector is there and it doesn't seem to get dirty as easily as some of the other protectors I've tried. It seems to resist dust and fingerprints quite well.I've also noticed that the touch sensitivity with this protector is excellent. The screen acts as if there's no protector on it at all and responds to even the lightest touch of my finger. The last protector I had seemed to dull the touch screen so that I had to press more deliberately for the screen to recognize my touch. This one responds quickly and easily to the slightest touch. I find myself clicking things without meaning to because I'm not used to it being so sensitive.The stylus is a nice bonus item and I do use it every once in a while, but not nearly as much as I thought I would. It's just so much easier to use my finger that I don't think about the stylus most of the time. It does come in handy for some things though and I keep it tucked inside my rooCase for when I need it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Screen Protector </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

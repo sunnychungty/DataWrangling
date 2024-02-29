@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00AUJH30Q <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-23-2013  
+<h2> review.text </h2>
+
+ <p> Shakugan no Shana season 3 part 3 is wonderfully done. I am glad I was finally able to get it. I hope they do plan to make another season or 2 since personally I'd like to know how Yuji and Shana grew up and how things are different on the world of Zanadu. I highly recommend all of the Shakugan no Shana seasons! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> Unlike season 2 this season gets back to the story, charter development, ect. This season is as good as season 1. IMO season 2 left alot to be desired, just seemed like they were milking the series for all the money they can since nothing really happened to the end of that season. Seemed like their was alot of episodes that were for the most part just filler to kill time. Not to mention it was almost 100$ as well.Season 3 on the other hand is more like season 1 in that it focuses more on the story and characters development, just not them runing around killing time and goofing off thru alot of it..Like season 1 this season is a little slow paced but not enough that it wont keep your attention. My only complaint is how they handle Yugi's char makein him into a bad boy. Yes i understand how this comes about but just didnt work  for me, this just totally goes against how his charater was in the 1st 2 seasons.Also the Funi dub u will either like it or hate it.Then again the price. Over 100$ this time, come on Funi this is riduculas. Its obivous their tryin to milk this series for all they can. I for 1 will be waitin for this to drop its not worth over 100$ for basically 600 min of show, but thats just me. Does piss me off though because i dont like haveing just 2/3rds of a series. I mean really why is this higher than season 2 since theirs basically the same amount of episodes.All in all if u liked the 1st 2 seasons u will like this season, and its well worth geting but u will hafta deside for yourself if its worth the asking price of over 100$, for now i for 1 will wait till the price drops. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> shakagun no shana season 3 </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> came in time, came in great condition, great movie, I would advise this movie to other people too, since it has a great story and I would say is for everyone from age 10+. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> provider did great </p>
+
+
+<h2> review.date </h2>
+  03-26-2013  
+<h2> review.text </h2>
+
+ <p> Yuji has disappeared following the battle that concluded season 2. All that he has left behind are the memories that his friends have of him and the love letters that he received from Yoshida and Shana on Christmas Eve. After some time, he returns, but as the leader of Bal Masque. A battle erupts upon his return. He takes Shana away with him and leaves Marjorie injured and in a coma. Keisaku rushes to Marjorie's side and realizes how much he loves her. Meanwhile, Wilhelmina, Khamsin, and Rebecca Reed (an old friend of Wilhelmina) set out to rescue Shana. In the midst of all this, a full scale war has broken out between Bal Masque and the Flame Hazes.I was very surprised at how this season began. All of a sudden Yuji is gone, and a bad guy? Well, I guess that's one way to stir up some drama. The war that breaks out between the opposing sides is pretty cool and I was also very shocked at what transpires between Keisaku and Marjorie. So far, season 3 offers some incredible plot twists, tons of action, and some touching drama. As you may expect, the animation, voice acting and soundtrack are all excellent. I can't think of a single bad thing to say about this season so far. There are a lot of new characters introduced that also play some key roles. I do wish that they had been introduced earlier, but that's all I can really say about this part that left me wanting to know more. Overall, I'm thrilled. It's just a shame that the end is in sight. In her final hour, Shana burns brighter than ever. This is one anime that you would be a fool for missing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> In Her Final Hour, Shana Burns Hotter Than Ever! </p>
+
+
+<h2> review.date </h2>
+  11-13-2013  
+<h2> review.text </h2>
+
+ <p> What a great story line . I always knew that Shana loved him . the changes in the voices don't bother me much but still a great anime </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love it </p>
+
+
+<h2> review.date </h2>
+  02-06-2014  
+<h2> review.text </h2>
+
+ <p> Shana falls in love.  It is filled with unexpected turns of events...  I was so thrilled with the concern of her lover and him wanting to help her save the world with her! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shana </p>
+
+
+<h2> review.date </h2>
+  02-01-2013  
+<h2> review.text </h2>
+
+ <p> The third season gives for the most part a closure on two story plots of the series,the final outcome with the Denizens and their desire to steal the power of existence from mortals and the love triangle of Sakai Yuuji/Shana/Kazumi Yoshida with mixed results. Also the third season plays on a small concept plot found in many JRPG's and Japanese anime series without giving to much away all I can say is it uses a .01% from say like from the game Kingdom Heart. The ending while expected will also feel somewhat flat and a little too typical but as said before expected,the Japanese subbed cast obviously did a terrific job playing their character roles and if you have or seen the second season of the series then you know that while not the original dub cast from the first season still do a pretty good job in their character roles.So while the third season was decent and overall give a reasonable sense of closure to the series overall it still feels a little too generic and somewhat plain as well but if you already have the first two season then the third is still an obvious add on to your anime collection... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Season 3  Gives Us Mostly the Closure We're Looking For But Not Entirely </p>
+
+
+<h2> review.date </h2>
+  01-16-2013  
+<h2> review.text </h2>
+
+ <p> i cant wait for this to come out in march and in english dub. and i wonder what type of special features their going to be on both seasons </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shakugan No Shana 31 </p>
+
+
+<h2> review.date </h2>
+  04-21-2013  
+<h2> review.text </h2>
+
+ <p> I love Shakugan no Shana. The entire series is great.However, we don't own a Blu-Ray player, and frankly don't feel like supporting the move to phase out DVDs so fast after they were made. So it's a choice of not being able to watch it, finding a (possibly illegal) version online, taking chances on it being on Youtube, or buying a Blue-Ray player just to watch this one show. We're not doing that! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stop trying to force Blu-Ray! </p>
+
+
+<h2> review.date </h2>
+  08-02-2013  
+<h2> review.text </h2>
+
+ <p> Fell in love with this Anime from Season 1 and Season 3 is a very close second favorite season. Season 3 shows the love of Yuji and Shana have for each other and each one is showing it a very different way, but it is exciting none the less. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Almost my Favorite Season </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

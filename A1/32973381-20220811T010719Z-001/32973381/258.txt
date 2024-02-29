@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0010V4VIA <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Revamped, a wast of time </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-26-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Here is just one more junk movie that's just one more poor quality in all areas.  I did try to find something nice to say but I'd have to watch it again and that is a bit too much. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Campy to say the least. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This isn't the worst movie I ever watched for free. There are a lot of familiar faces in this movie and the story is interesting. I am glad it was on Prime though. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> so-so </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Not what I expected, but it was OK.  Not something to watch again. It did not keep my interest that well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Started and could not finish! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Started watching it and it started so slow, that I could not stay interested long enough to find out if it got better as it continued. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Unexpectedly funny </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> There is no denying that this is hopelessly a B grade movie, but the first fifteen minutes had me laughing  really hard. After that it dragged a little, but if you are seeing it for free on Prime, it is fun to see these actors make some lunch money. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Afterlife Can Suck </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> So bad it's good.  Writer/Director/Producer Jeff Reactor of Corman years collects a gathering of B-Movie actors and aging stars into this otherwise ridiculous horror comedy movie about vampires warring with humans.  With appearances of Sam J.Jones (1980 Flash Gordon), Fred Williamson( Mash 1970, Black Caesar 1973) Christa Campbell(2001 Maniacs), Reggie Bannister(Phantasm 1 through 4) and Kato Kaelin this film has dark humor about it and having such a fine layer of cheese to this film.  If you just need some chuckles and you want to play a rousing game of "Hey I know that guy!" then by all means have a great time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Re-hashed </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-27-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> What a woeful film. It starts with the vampire telling his story, obviously if he's there to tell the story, you know nothing's going to happen to him in the end.He becomes a 'half-vampire' after contemplating suicide, and finding an ad on TV for those contemplating suicide (sigh) with the opportunity to become vampires!!!He soon becomes caught in the cross-fire between a war between a gang of full-blood vampires and human vampire hunters.The fight sequences are dull.The 'sexy' vampires (such as Christa Campbell) never get down beyond their underwear. Tane McClure, at almost 50! Alana Curry doesn't even get to that!Jeff Rector is the star, the writer, the producer, the executive producer and the director.The only thing interesting at all in this film is the list of b-grade actors;Billy Drago (Vamp, the Untouchables)Fred Williamson (From Dusk till Dawn)Carel Struycken (star Trek: the Next Generation (as Mr Hom), the Addams Family)Christa Campbell (Erotic Confessions)Tane McClure (Bikini Drive-In)Vernon Wells (Mad Max 2: the Road Warrior)Sam J. Jones (Flash Gordon)Anne Lockhart (Battlestar Galactica (as Sheba), Troll)Jason Carter (Babylon 5 (as Marcus Cole), Demon Under Glass)Martin Kove (the Karate Kid)and so on. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Reminiscent of those great old "B" movies </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> "Revamped" is the story of successful businessman Richard Clark who is bitten by a beautiful vampire and plunged into the dark world of the undead. Richard finds himself fighting for his very existence when he is targeted by a militaristic team of vampire hunters called the S.T.A.K.E. Team. Barely surviving Ricahrd also finds himself the focus of attention by a savage underground gang of vampires called The BLEEDERS. It's a war for survival as Richard is caught between two opposing and ruthless forces -- neither of which intend him any good! Written, directed and produced by Jeff Rector, "Revamped" stars and illustrious cast of gifted actors that includes Christa Campbell, Martin Kove, Fred Williamson, Tane mcClure, Victor Lundin, Sam Jones, Carel Struycken; Billy Drago, Alana Curry, Mickey Jones, Ann Lockhart, Deron McBee, Vernon Wells, Jason Carter, Paul Michael Robinson, David 'Shark' Fralick, Reggie Bannister, Spice Williams-Crosby, Raye Hollitt, Kato Kaelin, R.A. Mihailoff, Dennis hayden, and Dennis Haskins. With a total running time of 90 minutes, "Revamped" is reminiscent of those great old "B" movies that were the basic fodder of drive-in theaters, a comedic action horror film that is terrific good fun and highly recommended for both personal and community library DVD collections. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best B-Movie In A Long Time! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Starting off dramatic, hold on. After the credits it turns hilarious. Lots of familiar faces, a decent B-movie plot, campy acting, and some seriously solid jokes make this a fun movie.Seriously, you'll enjoy it if you like funny B-movies. Enjoy! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One Of The Better B Movies </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nicely done B movie and one of the better ones made, with big stars like Billy Drago, Martin Cove, and others. Billy Drago is a personal favorite of mine love him as the bad guy in this he is the HVIC head vampire in charge and bad guy. Starts out with a husband Richard and his wife, the day of their anniversary he gets a credit card bill with some outstanding charges from a fancy hotel on it. calling the hotel he learns that darling wifey has a lover who posed as Richard using his credit card to pay for everything. What happened to the good old days when cheaters would sneak off to a hotel pay cash and keep a LOW FROFILE? I mean seriously you 2 moronsLater Richard sees an add answers it and that is how he meets gorgeous seductive brunette Lilith who also happens to be a vampire, they do the deed and it's love at first bite. As events play out he two fall head over heels for each other she is the love of his life and he becomes a vampire. Richard looks for and gets rexenge on his wife and her lover, sweet. Sure this film has some campiness but it also has a decent plot, great actors, some comedy, drama, and action, so yep I loved it </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> NOT THE WORSE VAMPIRE FILM </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-28-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Like all good vampires films, it delivers on cleavage. The beginning was good enough to hold my attention. However after the main character re-animated, it went downhill. What started out as a clever campy movie degraded into B grade film. And in my R rated version, the women have sex with their tops on. I would have expected something more physical from super strong vampires: tossing each other around the room, knocking over furniture etc. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

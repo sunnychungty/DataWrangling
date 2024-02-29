@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0040XQ7PK <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-28-2010  
+<h2> review.text </h2>
+
+ <p> We have owned several remotes over the years that boast that they were the only remote you need. The "One For All SmartControl" is the first that really fits the bill.My husband was historically the one who had to control the set-up for movies, music, DVR, and TV (I'm not very tech savvy). Dealing with six remotes and all of the combinations of settings was a nightmare to me. To this day, I do not understand all of the settings and possibilities when trying to watch a simple movie. When he bought universal remotes in the past, they would do some of the basic functions of the original remotes: volume, channels, DVD chapters, etc., but about half of the functions on the original remotes were left out or inaccessible. We still needed the originals.The "One For All" changed all of that. It is truly the "One ring that rules them all". I seem to have complete control over all of the components with all of the functions of the originals. The instructions were a breeze, even for the most technologically challenged, like me. Three easy steps per device and you are done. This remote can automatically put you in control of the right devices for each activity. For example, push the movie icon button, and it will control the TV, DVD player, and stereo at the same time, without going from device to device. You can control three activities,--music, video, TV--and control up to six devices. It took me all of 10 minutes at the most to set up the entire audio and visual components of our home theater. The "All For One" even controls the Apple TV as well as our eight-year-old Onkyo receiver.My husband was amazed at my new-found abilities when he came home. Of course I made it sound much more difficult than it was. : ) He and my daughter love the remote as it has made life much easier. We were forever searching for remotes after our daughter watched TV. No more using three remotes just to watch a movie, and the coffee table is free of all of the tech clutter.For ease of use, device functionality, and convenience, I highly recommend the "One For All SmartControl" universal remote. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "One ring to rule them all" </p>
+
+
+<h2> review.date </h2>
+  06-15-2011  
+<h2> review.text </h2>
+
+ <p> I tried this remote as a cheaper alternative to a Logitech Harmony.  What a mistake.  The directions were not clear or consise.  I never did figure out how; or in what order I was to do what.  I never got it programmed.  I returned it for a refund. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This One Didn't Make The Cut </p>
+
+
+<h2> review.date </h2>
+  01-13-2011  
+<h2> review.text </h2>
+
+ <p> As other reviewers have stated, this remote looks and feels great. My favorite feature, in addition to combining remotes into one, is that it can replace lost/misplaced remotes fairly easy. I have a Philips DVD player with misplaced remote. It took me less than a few minutes to program it. If I decide to replace the DVD player at a later time, this remote can be re-programmed. On the downside, this remote does not work with a PS3 and is not user friendly for audio-receiver set-ups, as it lacks some of the standard features used for controlling audio inputs. Why 5 stars? The lost remote feature does it for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lost remote? This one can replace it. </p>
+
+
+<h2> review.date </h2>
+  11-18-2010  
+<h2> review.text </h2>
+
+ <p> Perhaps I received a defective unit, but I wasn't even able to set up the remote.  To get the remote to work you need to input the 3 digit code for your device depending on the manufacturer of that device.But most manufacturers have multiple codes, such as Panasonic (my TV) which had at least 6.  I would input one, which wouldn't work, and then when I tried to set it up again and input a different code it wouldn't allow me to do that (you hold a button until a blue ring flashes, but the blue ring wouldn't flash).  To remedy this I had to remove the batteries (a relatively painful task as they barely fit in the device to begin with so they are hard to pry out).After going through this painfully time consuming process for all codes, the remote still failed to work on my TV and at that point I just threw the remote away.I wouldn't recommend this to anyone. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Couldn't even get it set up properly. </p>
+
+
+<h2> review.date </h2>
+  01-13-2011  
+<h2> review.text </h2>
+
+ <p> This is a great remote just as all my other one for all's have been the only thing I dont likeabout it that it is kinda compact and you will be finding yourself using the tips of your fingers alot on the buttons because they are so close together.This is the only reason I gave it 4 stars..Ok now been a few months and let me tell ya I wish I had my 10820 one for all I replaced this with. I needed it to learn a couple more buttons from my dish remote and itwill not for some reason those two. and as I said before the buttons are so close believe me just compare this with the 10820 picture and see the difference and this remote you cannot swap buttons and the 10820 does. so I know give this a star less really this remote is played out more to be than really is and also you better have it pointing real straight to your device the angle has to be almost straight on. the 10820 you could hold the remote backwards and would work the device. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A little small for my big fingers </p>
+
+
+<h2> review.date </h2>
+  01-31-2011  
+<h2> review.text </h2>
+
+ <p> I already own a Sony RM-VL600 which I bought on Amazon last year, so I knew that some low-end screenless remotes are equipped with features like high dollar models.  That Sony remote has great macro and learning features, but the button layout is lacking for modern devices.  After I got a satellite DVR recently, I knew I had to do something, so I decided to get this One For All.My Setup and the PS3:I needed a remote to control an HDTV, PS3 (with a tooth fairy IR adapter I already own) as blu-ray and netflix player, satellite DVR/tuner, and an IR-controlled HDMI switch.  This thing works perfectly for all of them except the PS3, and even there it is almost flawless.  If using the power button programmed for a sony dvd player (which acts like a playstation button on a controller), you have to be careful because holding it down too long will trigger the power off macro if you are in an activity mode.  Since I had another remote that knew this code, I learned it back to this remote on another key (menu) to avoid dealing with this.  Now I hold down menu for a long press, hit ok, and hit ok again.  You cannot macro this sequence because the remote cannot do long presses in macro sequences, but it is easy enough to do even with the TV off.  This is fairly inconsequential for me since I can do it with 3 button presses even if I can't make it one, and I can forgive this inability on such an affordable remote.Button Layout:I do think that the rectangular set of buttons below the directional pad could be more spread out for easier use, but I can't complain about the available labeled buttons.  Having "list","guide","on demand" type buttons makes this remote great for matching the functions on newer TV remotes and satellite boxes.  The activity buttons with easy configurable power on/off macros are very user friendly.  The volume buttons are a bit of a reach across the raised light ring around the directional pad, but the remote is otherwise comfortable to hold with a soft-grip rubber back.Functionality:Learning works just as good as my trusty Sony, though I did find working codes for all my major components.  Macros work well, but this remote doesn't have gobs of spare buttons, so I was disappointed that setting macros on a button seemed to set it for all device modes.  The light blinks are actually pretty helpful when setting this thing up because the buttons sometimes take a harder press than you would assume.  IR range seems to be average, and it is probably weaker than my previous remote.  Volume punch through is very configurable, but for me I just used the remote-wide volume lock to send all volume control to the TV.Why it rocks:Activity buttons!  The activity buttons are more awesome than I thought they would be.  Not only can you use them to autoconfigure multiple device on/off macros, but YOU CAN OVERLOAD THEM WITH YOUR OWN CUSTOM MACROS IN ADDITION TO THEIR DEFAULT FUNCTIONS.  This wasn't mentioned explicitly in the manual, but I soon discovered it.  This was a godsend for me since I didn't want any other buttons dedicated to the same macro across all devices.As an example of how useful this is.  In my setup, I tied the TV/SAT to the TV activity button first as you normally would.  Upon doing this, you can press the TV activity button followed by holding down power to turn on those related devices.  However, I also needed to flip my hdmi switcher to the proper port though. So after learning the switcher functions onto a random aux device I set it to, I added a macro to the TV activity button which goes aux-> 3 (HDMI port number) -> sat.  Now when I hit the TV activity button it puts my switcher on the right port immediately, puts the remote into TV/SAT mode, and I can then hit power to turn on the tv and satellite with just one button press.  I set this up for all my devices so the move activity does the same sort of thing for the PS3, and the music activity switches to my desktop (which is controlled by a wireless keyboard).Why it doesn't rock:The setup involves lots of numeric code and manual reading.  It took me about an hour to get fully configured because the macros didn't work like I expected (though I found they worked better after playing around).  I would argue this remote is on par with the sony overall.  It is easier to do common things like activity mode assignments to certain sets of devices, but it is more complex to have it learn and macro since you have to enter the numeric code for those activities each time.  I knew it would be this way when I got it, but that is the trade off when you don't have interactive menus on a screen to guide you.  In my book, the durability, reduced cost, and reduced battery consumption of simpler remotes make the one hour sacrifice totally worth it since I rarely change out my devices.Other considerations:I read all the reviews on here before buying.  People really got too worked up about PS3 functionality in my book since you can turn it off from this thing if you have an IR adapter (just not in one button press).  Another thing to consider is an audio receiver.  I don't have one, so it wasn't a consideration, but many reviewers say this can't hack it for that use.  However, people should really look at the button layout before buying to make sure it matches their current remote functions.  I could have gotten a hell of a lot more remote in a low-end URC with monochrome lcd, but the button layouts weren't 1:1 for my stuff whereas this was.Conclusion:I couldn't be happier and highly recommend this remote.  Spend some time with the manual, and this product will reward you.  In the end, I think that once configured, this is far easier to use for all my stuff than the venerable Sony RM-VL600, and it looks nicer to boot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Almost Perfect For Me </p>
+
+
+<h2> review.date </h2>
+  11-22-2010  
+<h2> review.text </h2>
+
+ <p> I expected programming the remote to be a long and painful process. I was wrong, it was really easy to do and I had no difficulty following the clear instructions. I went from 3 remotes to 1 and I couldn't be happier. The price point is really good for what you get with this product. The buttons are placed well allowing for "no look" control functioning. I know what every button does and everything is very straight forward. This would make a great holiday gift! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to use! </p>
+
+
+<h2> review.date </h2>
+  11-16-2010  
+<h2> review.text </h2>
+
+ <p> For starters I'm really not all that technology inclined.  I HATE having to read a four-hundred page manual in order to be able to call someone on a phone or turn on one television set.  That being said, this remote was a breeze to install and it takes the place of the four remotes we had previously sitting on our table.Step by step instructions made it so that I was able to quickly sync all of my gadgets into one.  Now I have my DVD player, HDTV, and stereo system all on one remote.  The only complaint I have is that it didn't work with my fifteen year old VCR but I didn't really expect it to so that wasn't much of a disappointment.  This remote is a cheaper alternative to those fancy digital screen remotes and I would highly recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Remote For a Non-Teckie </p>
+
+
+<h2> review.date </h2>
+  05-11-2012  
+<h2> review.text </h2>
+
+ <p> This thing works well.  It's pretty easy to do the quick setup steps and get it up and running right away.  You can teach it new commands from your original remotes, and assign them to almost any button on the remote.  You can set macros up up to 15 steps containing any button from any device you programmed into it, including learned commands.  So all in all, it does a lot for the price, and so far has worked well for me.  I'd recommend taking a good look at the button layout before you buy and see if it will be a good fit for what you're trying to program into it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice, inexpensive option. </p>
+
+
+<h2> review.date </h2>
+  11-17-2010  
+<h2> review.text </h2>
+
+ <p> Honestly, I was prepared to be disappointed.  I thought this was going to be one of those generic all-in-one remotes that doesn't have all the features of any of them, but this one fits the bill on all the features of both my Sharp Aquos television and Playstation 3, as well as my DVR cable box.And setup couldn't have been easier.This is the first all-in-one remote control that I would actually give five stars to.Really excellent and well thought out.  The smartest remote control I've ever owned. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The smartest remote control I have ever owned. </p>
+
+
+<h2> review.date </h2>
+  11-16-2010  
+<h2> review.text </h2>
+
+ <p> The package itself includes the line "One remote to replace them all".  Well, not quite.Two negatives to this, however. 1) It can't control my Playstation 3, and 2) it's not a TiVo peanut remote. While this worked for me in controlling the TiVo, that kept me from using it full time was the fact that it was not a TiVo peanut remote. If you're a TiVo fan, you probably are used to the peanut remote control, and anything else other than that just "feels weird" in your hands.  The Playstation 3 only works with Bluetooth remotes.  Why more of these aren't Bluetooth compatible surprises me.  They make you buy an additional dock/port thing to make it work there.  I'm sure it's a cost issue, but having a dongle on my device defeats the purpose of an "All in one" remote, as it really isn't.However, I could not get it to set up with my TV, which was odd, as there were plenty of instructions.  I'm no computer neophyte, I know my way around gadgets.  But I couldn't get this to control my TV or my standalone DVD player.  Oh well.  I might try again later, and if I do, I'll update my review, but for now, I couldn't get this to work, so it doesn't get very high ratings at all.It does feel nice in my hand, it's back is a rubber feel, which I liked. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Had problems with this, couldn't get it working with my equipment. </p>
+
+
+<h2> review.date </h2>
+  11-17-2010  
+<h2> review.text </h2>
+
+ <p> The remote to my kid's room stopped working and I replaced it with this one.  He has multiple devices and the remote works well with them including a Magnovox television and a Direct TV satellite receiver.  My wife, who admittedly is no tech wiz, set the remote up in about five minutes.  The button configuration is a little anti-intuitive but overall this is a solid four star remote. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfectly acceptable remote control </p>
+
+
+<h2> review.date </h2>
+  10-25-2010  
+<h2> review.text </h2>
+
+ <p> I sat down to set this up and I expected a headache but it turned out to be pretty easy and direct.The remote,which is slim and very functional comes with lists of codes for tons of different brands of the electronics that live in your home theatre and if there is no code there are several other ways you can set it up even if you don't have the original remote control.I was shocked how easy it ended up being able to get this working and now there are less remotes on the sofa for me to deal with and that's a good thing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Change 6 remotes into 1 & it's easy! </p>
+
+
+<h2> review.date </h2>
+  11-03-2010  
+<h2> review.text </h2>
+
+ <p> This universal remote is easier to program than, and works as well as, my Logitech Harmony 880 and my Monster AV 300 (which works off the Harmony codes).  I rarely use it, though, because I cannot see the buttons.  The layout is fairly intuitive, but, where it isn't, I need a magnifying glass to see what I am doing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice universal remote.  Not for people with bad eyesight. </p>
+
+
+<h2> review.date </h2>
+  08-18-2011  
+<h2> review.text </h2>
+
+ <p> I've used good universal remotes for years, from the completely customizable Pronto, to the wonderful Universal Remote line of remotes and most recently the very user-friendly Logitech Harmony remotes. But I often find myself in the kitchen wanting to be able to pause my Tivo, or fast forward through a commercial, etc. So spending $100+ on a second Harmony remote was out of the question. A low priced universal remote like this one seemed ideal. And now, I seem to have lost my Harmony remote so it's become my primary remote! That made me really sit down and try to program it the best I could for my setup. Here's what I currently have:Panasonic HDTVYamaha Receiver (HDMI switching)Tivo Series 3Blu-Ray PlayerWiiSo your fairly basic setup, nothing earth-shattering here. However, I did not find this remote as easy to get working with my setup as I would have liked. It did have some basic codes for each device. But I ran into some issues such as the receiver code apparently using a discrete code for power on (so it only will turn my receiver on, but not off). As others have mentioned, it doesn't always seem to have a way to control everything you might want to do, so you have to resort to re-programming buttons and learning codes from the original remote. I then have to try and remember which button I assigned something to, since the labels don't match the function off the original remote. This is where a remote like the Harmony really shines because you have a small LCD screen where you can put custom commands, so you don't have to hunt around trying to find the right one.Likewise, the SmartControl buttons didn't work much for me at all, I'm still trying to figure out how to get those to work and if I can reassign them. Part of the problem for me is that they have a set list of devices by default that you pick from and those didn't match mine. For instance, for some reason the code for my Tivo falls under the VCR list of codes. But the TV SmartControl on the remote doesn't include an option for VCR. So this macro won't by default let me control the Tivo.From some of the other reviews, it sounds like there may be ways around some of the issues, but the end result for me is that this remote just wasn't as intuitive or easy to use as I would like. It does serve my needs as a secondary, extra remote, but I definitely can't see using it as my primary remote. If you are really on a budget though, and can't afford a more expensive one, it may be an option to consider. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay if you have a relatively uncomplicated A/V Setup </p>
+
+
+<h2> review.date </h2>
+  06-19-2012  
+<h2> review.text </h2>
+
+ <p> I own an LG 42" Plasma TV, a Dish Sat DVR, A Sony BD Player, a Pioneer Region-Free DVD Player, a Magnavox DVD Recorder and am looking into a sound bar to pull it all together. I have owned several universal learning remotes including the One For All URC-6131N, URC-8820 and URC-10820N. I watch a lot of TV and movies, so I handle the remotes a lot. I also use the menu screens on my Dish satellite frequently. This is where my remotes fail me first. The numbers and icons wear off of the buttons and eventually my directional button starts to fail, so I have to get a new remote.I bought the OARI06G because my previous remotes are hard to find now and some of the codes don't work anymore. I thought this being the latest incarnation from One For All that it would be the solution to my problem. Well, it only solves one problem while creating a whole slew of new ones. The one thing they got right is that the codes do work on my equipment. Now, for the bad.1) The remote is made uniformly. Often, you can't tell if you're holding it right-side up without looking at the buttons. Hard to do in the dark.2) Every single button has been moved to a new location from previous remote models, making it nearly impossible to operate in the dark. I hate having to turn the lights on just to change the channel.3) The buttons feel very cheap and click-y, often not responding until I push it again. This often results in multiple presses trying to do the same function. Not a good thing.4) The rubberized coating on the back is supposed to make it easier to hold, and it does to a degree, but it also attracts lots of dust and dirt.5) There is a rocker switch to select which mode you want to operate. Forget about switching modes quickly. You will have to press left or right to cycle though them. I foresee this wearing out quickly if you use the remote very much like I do.6) There are preset macros for setting which devices you want to turn on at once, but this is more for what you use most since I have multiple devices that I might want to use at different times.7) No back-lit keys. Only the device mode that you have selected at the time and the directional key ring will light up with each key press. Useless.8) Lastly, the silver plastic ring around the remote is very slippery. Unless you just have a death grip on the remote, you will drop it.I paid $30 for the remote on Ebay and would certainly be returning it if I had bought it from Amazon. I'll just try to get some more life out of my URC-10820N for now.UPDATE: 6/28/12I decided to try the One for All SmartControl macros. I was able to setup the macros by following the instructions in the booklet. I saw the blinking lights and everything. But when I hit the button to activate the macro, nothing happens!UPDATE: 6/29/12Okay, I played around with the SmartControl macros. After you set it up, you hit the one touch macro button that you want to access and then you hold down the power button for 3 seconds. This part was not clearly written out in the instructions. I still don't know how to make it change the input on the TV during this one touch process, though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not that great of a remote UPDATES BELOW </p>
+
+
+<h2> review.date </h2>
+  01-22-2012  
+<h2> review.text </h2>
+
+ <p> Surprisingly good multi remote control. I have a Panasonic TV, Comcast DVR Cablebox, TIVO and a Panasonic DVD player. This remote easily controls all of these items. The programming was not too complicated. The user manual instructions did not all work but the end result was good. I especially like the special TV button that controls the TV sound and the cable box at the same time. The only negative is that I need to get used to the small buttons.It would be great for this remote control to have a small screen showing the options, but that would make the remote more expensive.Go for it !!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Value </p>
+
+
+<h2> review.date </h2>
+  10-25-2010  
+<h2> review.text </h2>
+
+ <p> I have a conglomeration of equipment which includes  a Sony stereo receiver, Panasonic HDTV, Panasonic DVD player, aRoku XDS Streaming Player 1080pand a Sony 200 disc cd player. Consequently I have a lot of remotes laying around. Furthermore, I don't just adjust volume and change channels with my remotes. I am frequently going deep into menus and using many of the remote functions. I was hoping that this One For All 6 device remote would solve my remote clutter issue. It did not. And in the process of setting it up, a process that took way too long, I learned that this remote may work in some situations but in my situation it was woefully inadequate.My first impression was positive. It is a fairly attractive remote with a mixture of matte black, shiny black and chrome accents. My disappointment started growing as soon as I started to insert the batteries. First of all, no batteries are included with the remote and you'll need 4-AAA batteries for it to work. Just even inserting the batteries was more difficult than any remote I've used previously. And I inadvertently had a battery installed in the device with incorrect orientation and I found it difficult to get the batteries out. Then I noticed that the buttons are labeled but in a very small font. Some buttons are backlit for brief moments. But in a dim lit room, it is nearly to totally impossible to see what you are doing with the remote because you can't really see what buttons are for what function.During setup, the unclear-to-me quick start manual led me to push incorrect buttons which slowed down the programming process. Once I realized that the diagram in the manual was ambiguous I got back on track. Unfortunately every manufacturer has numerous possible device codes and if the most popular code doesn't work you need to keep entering different code numbers into the One For All remote until you discover the one that works for your device. There is also an option to have the One For All remote try different codes by repeatedly pressing the "+" key and you do this until your device is recognized. What I experienced is that if you wait just a little too long before you enter in the next code to try, the remote goes into  some sort of standby mode and you have to start all over again. This was most frustrating.My 200 disc Sony CD changer wasn't even recognized by the One For All remote at all and it was not very easy to map the other remotes to the One For All remote because of a lack of corresponding buttons to the remote you are attempting to emulate with the One For All. And that's one of my main peeves... you have to map your device remote buttons to buttons on the One For All remote that don't always correspond exactly.For the Roku for instance, there is no intuitive choice on the One For All remote to correspond to the "Home" button on the Roku remote. Additionally, my Panasonic HDTV remote has many functions/buttons that do not map to anything even vaguely intuitive on the One For All remote. The Panasonic remote has buttons for SD Card, VieraLink, Viera Tools and numerous others. The result is that you have to map these buttons to unintuitive buttons on the One For All that most people will surely forget about especially when you consider that you could be mapping 6 remotes to this one device.Anyway, to make a long story short, this remote failed me in a big way. It did not work with my Sony CD Changer and since I had lost the remote to that device, I could not program the One For All to work with it either. The buttons on the One For All are small, mostly closely spaced and of mostly similar size. The button labels are not easy to read especially in low light situations. It is also virtually impossible to see the button icons in a darkened room. Some buttons don't even have labels or icons and are merely color coded which is useless in the dark, so unless you have an exceptionally good memory you will not remember the unnamed buttons function.With the hassles that I experienced with this during setup and then operation, I'd just rather keep using my assortment of remotes rather than try to remember the special button mappings that this remote forced me to use.If you have a simple assortment of remotes to control a few devices and don't mind that fact that you will lose the complete functionality of certain functions when moving to the All For One remote, you might find it useful. It's great for turning the volume up and down and changing channels. For just about everything else, good luck. For me it failed miserably and I could not recommend this to most people. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Clumsy operation and not that intuitive to set up </p>
+
+
+<h2> review.date </h2>
+  03-20-2012  
+<h2> review.text </h2>
+
+ <p> Unless you are doing high end stuff like HDMI switching with lots of complexity, this is what you want. If you are like me, and just want to integrate a stereo, cable / sat box, TV, and blu ray player, you will be happy. For different scenarios you have one touch power up / power down. One scenario for movies for example (stereo, TV, blu ray), and one for cable (cable box and TV). You can individually program about 100 keys, and there are four color keys you can set up for your cable box and to do different things for different devices. It's easy to program and nice looking. That balance is a bit odd with the smooth bottom, but I can't quite deduct a star for that. It's a winner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OUTSTANDING value, does most all most will need. </p>
+
+
+<h2> review.date </h2>
+  11-17-2010  
+<h2> review.text </h2>
+
+ <p> Set up was very easy and this remote does what it says it'll do.  Didn't work with my VCR, but I'm probably one of the last people on the planet still using one of those.  :)  Works great with my dvd and television so I was able to go from two remotes down to one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine. </p>
+
+
+<h2> review.date </h2>
+  01-02-2014  
+<h2> review.text </h2>
+
+ <p> I thought I would appreciate a nice remote that works for all my entertainment devices. This wasn't it. I have a sony 3D home theater that I couldn't sync the remote to work with tried everything but now I have to use this stupid remote even though I wanter to unify everything and use one remote for the tv, home theater, and DVR. USELESS don't buy </p>
+
+
+<h2> review.summary </h2>
+
+ <p> bad description </p>
+
+
+<h2> review.date </h2>
+  12-01-2010  
+<h2> review.text </h2>
+
+ <p> "One button commands all the devices you need to watch TV, watch a movie or listen to music"The above sentence may hold true or false depending on your setup.It is hard to deny that the 'One for All' is a very appealing remote. It is light (considering 4 AAA batteries, not included, are needed to operate it), slim, elegant with a modern look and the back side of it has a rubber cover which is a nice plus as it holds well in your hand.The setup of the remote is perfect. Yes, one way to do it is the classic way in which you have to manually enter codes. The Easy 1-2-3 remote setup worked like a charm. The remote includes a chart with a list of devices and a number for each brand. Say for example in my case my TV is a Sony, its number in the chart is 8. You turn on the TV, press and hold setup, a button flashes indicating it is ready to be setup. Point the remote to the TV, press and hold '8' and the TV will turn off. That's it, your remote is setup!The same worked perfectly and without problems with my DVD player and my Audio receiver.Once each device has been configured, to switch from devices to control is as simple as moving an arrow to highlight the device you want to control. It simply can't get any easier. The remote has a nice distribution of functions and buttons so controlling your devices comes in a natural way once you get used to it.Why 3 stars then?Ever since I bought my PS3 and started buying Bluray discs I rarely use my DVD player anymore. Unfortunately (and contrary to what another reviewer stated) this remote does not work on a PS3, which needs a Bluetooth remote to operate. That did not sound that bad, after all I could control my TV, DVD and A/V receiver with one control now.Controlling the TV is easy, all the basic functionalities (even the 'Favorites' button) are included. The same goes for the DVD player, the basic navigation tools are in the remote, but it still lacks a 'subtitles' button. Many people may not mind or even use that button but I do, and navigating from the movie to the menu just to enable subtitles may not be ideal if you are used to pressing a button instead.My main concern comes with the Audio receiver. There is definitely room for improvement here. I did not have any problems whatsoever setting the remote up, however, the remote does not have enough functionalities or buttons to control an Audio receiver correctly. There is not a button that allows you to change the audio input selected in your receiver, so say you are watching in your DVD player and want to switch the audio input to that of a Bluray player (or any other audio you may have connected to your receiver), there is not a button in the remote to do that! So all it does is pretty much control the volume and that's it! If you intend to use it with an audio receiver that does not require of this functionality I would definitely recommend this. If your setup is similar to the one in my example, you can see yourself using the original audio receiver remote instead.Bottom-line, it is a great product for the price, very easy to setup and you will find yourself using it in a matter of minutes, but there is definitely room for improvement. I can see someone else with a different setup to mine using this without any problems so I wanted to be fair on my review. If your setup is anything like mine well, you know what to expect. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Is this what you need? Depends on your setup </p>
+
+
+<h2> review.date </h2>
+  12-13-2010  
+<h2> review.text </h2>
+
+ <p> A truly universal remote is a great idea, and nobody has been able to make it work yet. This mostly works.1) If you use your PS3 as a DVD player, don't even think about this remote. The PS3 uses bluetooth as the remote protocol, and this doesn't have it. I thought I could get around that limitation by buying an IR adapter for the PS3. This remote still can't deal with the complexity of the interface of the PS3.2) You can't switch inputs on an amplifier/receiver. At least not on mine.To watch a movie, I use this remote to turn on the amp & turn on the TV, then I use the PS3 remote to run the PS3.If the amp is set to use the PS3 as the input, I'm ready to go. However, if the amp is in any other mode (CD player, radio, iPod, etc) it won't switch to the correct input.If you have a simple setup, this remote might work for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works for simple setups - not all </p>
+
+
+<h2> review.date </h2>
+  11-19-2010  
+<h2> review.text </h2>
+
+ <p> I confess, I let this device sit around for two weeks after it arrived because I felt intimidated.  I was sure I couldn't easily figure out how to program it, or it simply wouldn't work with the devices I had, yada yada yada. Last night I picked it up and said to myself, "Self, it's time."My plan was to use this remote in the bedroom, which has just a TV and a DVD player. Considering this remote can operate up to 6 difference devices, the bedroom seemed . . . doable.It was pretty darn easy to set up, that is, after I found four AAA batteries, as it didn't come with them. Find the code for your TV; find the code for your DVD. Read the booklet (or, in my case, scan the booklet) to learn how to use the different buttons, and voila!  Now I don't need to keep with two remotes, because inevitably one of the dogs will roll over on one at an exciting moment in a movie or TV show and change the channel. Or one of the dogs will pick up one of the remotes and move it to the end of the bed (maybe they perceive it as threatening). So, now I just have one to keep up with, and that will be much easier.It's good looking, too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Even a technophobe could set this up </p>
+
+
+<h2> review.date </h2>
+  12-29-2010  
+<h2> review.text </h2>
+
+ <p> The One For All OARI06G Infinity Remote Control is a decent product. The setup wasn't the easiest but it wasn't too bad. I was able to setup all of my devices without much of a hassle. The macro setup took a while to configure and there are still some macro setups that I was unable to get to work properly.  I like that now I'm able to set this remote to turn all of my devices on or off at once. However, at times I find this remote slow to respond even when pointing the remote directly at the device it's programmed to work on. This is rather frustrating. This remote tries to be one that can operate elaborate component setups but it can't and it really doesn't do much more than cheaper remotes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ok remote but there are better choices out there </p>
+
+
+<h2> review.date </h2>
+  11-18-2010  
+<h2> review.text </h2>
+
+ <p> I've had One for All universal remotes in the past and they've always been great. We lost the last one in the move and it never turned back up so getting the chance to try a newer version out was fantastic. The remote is laid out very similar to our DirecTV DVR remote which is probably the remote we use the most. The European Teletext colored buttons are there too which is a great addition since our satellite box uses them extensively. Setting up was a breeze and I got it working literally within seconds - either enter the code(s) for your device or go through one by one until it hits the right one - the usual stuff. The backlight is a nice touch albeit brief; I wish you could leave it on for longer.I know this is a review and I usually try to find pros and cons with an item, but really a) it works and is inexpensive and b) there aren't any real cons! I guess I could complain about the lack of included batteries (4xAAA) but that would be petty! If you want an inexpensive all on one that works and will probably control every device in your media center and do it well - then pick this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid all in one </p>
+
+
+<h2> review.date </h2>
+  01-12-2011  
+<h2> review.text </h2>
+
+ <p> This is my fourth One For All remote, so I'm a fan anyway, but this is the nicest one so far! Very nice construction, with a classy look to it. Very easy to set up for initial use, but not as easy to set up for advanced use. It's not really difficult, but it takes some time and patience. The good thing is, when you're done it will do anything you program it to do. It has the learning capability, and of course the ability to do several macro's.The three "smart control" buttons make it nice, too. You don't have to fumble around pressing function buttons to control the appropriate device.You can spend a lot more for a remote, but it won't do anything more than this can do! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Nice Remote! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

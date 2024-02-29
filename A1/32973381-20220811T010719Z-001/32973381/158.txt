@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 6302177421 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-13-2008  
+<h2> review.text </h2>
+
+ <p> This has got to be one of the most boring movies ever made. It goes on and on and on with nothing happening.  You would be much less bored at a lecture on the origin of trigonometry. I saw it brand new when I was 15 in 1959. I know I was young, but I saw many serious films that year (I went to the movies every Saturday)--films like Imitation of Life, Anatomy of a Murder, On the Beach, Room At the Top, The Sound and the Fury, and Suddenly Last Summer (to name just a few), and I loved them and stayed interested. I don't think I was too young to appreciate this movie at age 15 because I tried to watch it a couple of years ago on TV and got just as bored. Even with these big stars (mostly just going through the motions here) this is one of the biggest flops in history. Save your money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If it is boring, make sure it's long long long. </p>
+
+
+<h2> review.date </h2>
+  06-27-2012  
+<h2> review.text </h2>
+
+ <p> This video was delivered promptly. It was of excellent quality and I found it to be just as the product description had said. I'm glad to now have a copy of this intriguing movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good service and product </p>
+
+
+<h2> review.date </h2>
+  04-14-2012  
+<h2> review.text </h2>
+
+ <p> This was one of the better westerns of the late 50's.Made at the time, when the genre was changing. From the bang-bang shoot'em up model of the 30's-mid 50's. To the more insightful thinking man's drama.More character study than western.The synopsis of the film deals with an Army officer who is deemed a coward. To shame him he is given the task of finding five soldiers who merit being given the Medal of Honor.He witness a battle between the U.S Army and the bandits of Pancho Villa from which five men emerge. These men he chooses to be the recipients.To be honored they must travel to the town of Cordura Texas. Along the way these men begin to show in turn their true natures. Thief, murderer, rapist etc. Hardly the type men to whom such an honor should be given.Yet the character of Tom Thorn,(played by Gary Cooper in the waning years of bothhis career and life.)began to realize that his act of cowardice was no worse thanthe acts committed by these five men on their way to receive heroes medals.In the end the message of the film is every man is different, so every act of bravery or cowardice is different. Therefor it's the motive behind each that we must look at rather than the man who commits them.And as with other reviewers, I agree that the only real complaint about this filmis that it was hacked and re-edited from its original running time. Which tookso much out of the film's true creative intent.Perhaps Criterion can get the rights from Columbia Pictures to restore this over looked gem in its entirety. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> T.C.T.C., Underated, over looked and forgotten! </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> During the pursuit of Pancho Villa's forces into Mexico, a vain glorious Colonel leads a last cavalry charge against a defended enemy emplacement without any advance preparation. Various acts of bravery or desperation occur to salvage the situation, which  are witnessed by a Major on Awards Duty.  He takes five soldiers in charge to return to the states to encourage positive press coverage, along with an American ex-patriate ranch owner accused of treason.  The background, character and motivations of each are revealed during what becomes a long desperate trip back across the border. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Heroes become real people, like 'em or not </p>
+
+
+<h2> review.date </h2>
+  09-07-2012  
+<h2> review.text </h2>
+
+ <p> I watched this on YouTube to not have to buy or rent it, and cannot recommend this to anyone.  This is one of the most tiring movies I've ever sat through.  Though it has my favorite actor, Gary Cooper, I feel he was horribly miscast.  Due to his health, according to Wikipedia, he was advised not to film it in such heat.  Probably because of his health, his voice sounds weak and stodgy, and I think his acting also suffers when he plays characters that are as internalized as this one.  His High Noon persona was internalized, but not to the point of being emotionally closed off from other people like he seems in this movie.  The story is entirely psychologically focused, on the ulterior motives behind acts of bravery.  The theme of the movie is presented in a statement by the actress, Rita Hayworth, that one act of cowardice or bravery doesn't make you one forever.  Somehow, movies that are intended to have a redemptive message often seem to get stuck in the quagmire of human depravity much longer than necessary.  The consistently drab terrain and single-minded focus on the savagery of Gary Cooper's fellow soldiers make the movie actually rather painful to watch.  The best acting comes from Van Heflin, who constantly tries to mutiny against Cooper as they're heading to Cordura after a raid on some of Pancho Villa's men (at which time they picked up Rita Hayworth).  Dick York, who later played Darrin on the show Bewitched, had his career ruined ultimately by a back injury from filming the end of They Came to Cordura.  The ending is intended to be inspiring as the soldiers realize they have the potential for heroism, but it doesn't make up for the constant, overdone savagery they exhibited towards each other earlier in the movie.  John Wayne said about it (imdb.com):  "The whole premise of the story was wrong, illogical, because they don't pick the type of men the movie picked to win the [Medal of Honor] award, and that can be proved by the very history of the award."  I can see why Gary Cooper wanted to make the movie, to explore the meaning of courage, but fitting a completely psychological story like this to the screen is unpalatable.  Another Amazon reviewer of this movie says "Forty-five minutes were cut from its two-and-a-half hour running length and some 15 minutes were tossed back in to clarify "motivation.""  I can't imagine the movie being even longer.  So much time gets taken up on slow shots of the drab, yellowish, rugged landscape, and as they argue with each other and explain the ulterior motives that caused them to assault the fort held by Rita Hayworth and Pancho Villa's men.  There are much better movies out there to spend time on than this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wearisome and poorly conceived </p>
+
+
+<h2> review.date </h2>
+  11-21-2013  
+<h2> review.text </h2>
+
+ <p> Spectacular photography, brilliant Rita Hayworth, one of Cooper's best roles, and Tab Hunter is a stand out.Robert Rossen's direction includes side views of characters while having Cooper or Rita walk in front of the angle creating what Cinemascope is all about, 3D without the awful glasses and awful effects.Fabulous screenplay and timely..about war, courage, and American know how backfiring..this in 1959!Great film, don't miss it! Rita shows once again that she could act. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> They Came to Cordura a definate HIT!! </p>
+
+
+<h2> review.date </h2>
+  08-14-2000  
+<h2> review.text </h2>
+
+ <p> This film is set in 1916 Mexico during General Pershing's Punitive Expedition to capture Poncho Villa. Gary Cooper plays Maj. Thomas Thorn, an  Army officer accused of cowardice, sent to observe and deliver five men  (Van Heflin, Tab Hunter, Richard Conte, Michael Callan and Dick York) for  consideration to receive the Congressional Medal of Honor. Rita Hayworth is  an American accused of giving aid and comfort to the enemy. The film is  rather tedious as it ever so slowly tries to discern the meaning of  courage. Its greatest assets are the beautiful color cinematography by  Burnett Guffey and an underrated and powerful performance by Van Heflin. I  have never seen Heflin better, as he remains a constant thorn in the side  of Cooper. Heflin plays one of the crudest and potentially violent  characters I have ever seen. He physically looks the part and plays it with  incredibly subdued menace. The film was directed by Robert Rossen and  co-written by Rossen and Ivan Moffat. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> They Came to Cordura </p>
+
+
+<h2> review.date </h2>
+  07-31-2013  
+<h2> review.text </h2>
+
+ <p> This is one of the most under-rated movies, cast in the era of Pershing's mission to capture Pancho Villa, just prior to WW1. Gary Cooper is assigned the task of identifying potential Medal of Honor winners; his task is very low for a Major, but we discover he is considered a coward, by other Senior Officers for not performing his leadership duties during the raid; he supposedly hid in a ditch, while the battle ensued. As a Major, and considered a coward, he is given the very low task of finding exceptional men who fight in a battle, with the purpose of awarding the M.O.H., to these men; to set an example of heroism for the future generation of Allied troops that will enter World War 1. This is not a war story, but an intense analysis of the human heart and soul; it is a story that underlies  the weakness in all human hearts, even in Medal of Honor winners; they are not leaders, nor men of fine moral character, but as the story matures, we discover that they are human, dealing with their own personal demons. For the one hour of battle, they exemplified the best in human character, but when removed from the battlefield, they lack the ethics, tenacity, and courage to follow the Major, regardless of his orders; all the men turn against him, and he is left with leading these men to safety, despite near death, because he believes in insuring their safe return to Cordura..he won't give up or quit in his duty. For one moment, he displayed cowardice, but that does not mean we carry that burden for the rest of our lives, most men and women find redemption from that burden by exhibiting courage in a very different ways....we see this change, as he displays the best of leadership, moral character, and pursues his mission to near death, despite the loss of faith of all the men, he is trying to protect, when they simply give up on life. As I recall, Audie Murphy was the most decorated WW2 soldier winning every conceivable medal, including the M.O.H., but as he pursued his acting career after the war, he also gambled, fell into debt, and fell into the Hollywood scene of wanting it all; his tragic accident ending his life, left his widow with $3 million in debts. She loved him deeply, was a dedicated V.A. volunteer, and it is my understanding, that all debts were repaid by Mrs. Audie Murphy.....thus, who is to say what constitutes heroism? Is it a brief moment of time, when one reacts to battle conditions, or moments of time, through years of suffering that describes best what we call bravery.Great acting by Cooper, Rita Hayworth, Van Heflin, Richard Conte, and Troy Donahue. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Movie on Defining Courage </p>
+
+
+<h2> review.date </h2>
+  10-17-2001  
+<h2> review.text </h2>
+
+ <p> This 1959 film from director Robert Rossen sets out to define the meaning of courage. Set in 1916 Mexico during General Pershing's Expedition to capture Poncho Villa in revenge for his raid into New Mexico, the US Army sets out to find soldiers worthy of the Medal of Honor. Ironically, a branded coward Gary Cooper is given the task. This is a slow and deliberate movie. It is noteworthy not for its script but for its depth of well constructed characters and their motivations. By the end of the film you may ask yourself if cowards and heroes walk the same thin line. Van Heflin gives a standout performance and he is the real catalist behind Cooper's internal struggle that manifests itself visually on the screen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> At What Price Courage </p>
+
+
+<h2> review.date </h2>
+  10-09-2006  
+<h2> review.text </h2>
+
+ <p> (3.5 stars) Directed by Robert Rossen in 1959, this exploration of the nature of courage has limited appeal in the present day.  Maj. Thomas Thorn (Gary Cooper) is assigned to find five men who deserve the Congressional Medal of Honor and accompany them back from Mexico, where they are fighting Pancho Villa in 1916.  The objective of the army is to make heroes of these men so they can serve as examples to other soldiers during the expected US involvement in World War I.  Thorn's selection as the man to accompany these five soldiers is ironic--he is regarded as a coward for his behavior when Villa's men attacked US troops in Columbus, New Mexico.On the long trek back from Mexico to Cordura, the true nature of each of the "heroes" is revealed.  Thorn has been interviewing each of these men for the citations he plans to write for them, and he is especially interested in what the men were thinking when they performed so bravely, hoping to discover what is the secret of their courage.  Adelaide Geary (Rita Hayworth), an American living on a ranch in Mexico, has had her ranch occupied by Villa's troops, and she is arrested by Thorn to be returned to the US, along with the medal winners.  The life-threatening journey tests each hero once again, and Thorn once again agonizes over the nature of courage.With an all-star cast, including Gary Cooper, Van Heflin, Tab Hunter, Richard Conte, Michael Callan, Dick York, and Rita Hayworth, the film offers a close-up look at many stars from the past, but acting styles and viewer expectations have changed, and Cooper, who won a Laurel Award as Best Actor for his role here, is so expressionless that he sounds, in places, as if he is haltingly reading the script, not acting.  With the journey taking place across scrubland, usually under the hot sun, the focus is on the actors, their conversations, pent-up emotions, fights, and resentments of Thorn.Unfortunately, the dialogue, regardless of its subject matter, tends to be stilted and predictable, rather than realistic, and Thorn's constant pre-occupation with the nature of courage leads to a very "talky" film.  Ultimately, all the characters come to new realizations, but by the time they do, many viewers will have exhausted their patience with the pace of this self-conscious film. n  Mary Whipple </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "I have a chance to put my hand on the bare heart of heroism." </p>
+
+
+<h2> review.date </h2>
+  06-16-2012  
+<h2> review.text </h2>
+
+ <p> Other reviewers have summarized the plot, so I'll just say that the acting is superb. In supporting roles, Richard Conte and Van Heflin do solid work that make this film a three-dimensional Western for adults.As for the two lead roles:In the past, dazzled by Rita Hayworth's beauty, I tended to underrate her acting ability. Here, at the age of 41, her talent has matured, and she gives a subtle and memorable performance.And Gary Cooper? Despite his two Oscars, some viewers were unimpressed by him (not me -- I always thought he was terrific). This film should put any doubts to rest: this may be his best film ever.This picture grows in power as it progresses. It left me stunned. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Compelling story, wonderful acting. </p>
+
+
+<h2> review.date </h2>
+  06-21-2006  
+<h2> review.text </h2>
+
+ <p> Is "They Came to Codura" (1959) as ill conceived and poorly executed as it appears to be or is an ambitious and well-intentioned western that falls short because it over-reaches? The problem is that so few films are ambitious that our brains go into a stall when a rare effort like this comes along and we don't know quite how to evaluate it.Compounding this is the extensive trimming that the film received prior to its release; this cutting may not have hurt anything (what was taken out wouldn't have made things clearer or transformed the performances into believable characterizations) but it no doubt accounts for the overall disjointed feel of the story.Finally there is Glendon Swarthout's source novel of the same title, an allegorical story of human redemption that does not translate well to the screen as must of it takes place inside the tortured mind of the protagonist.  The screen play follows the novel almost too closely, keeping Swarthout's weakest elements while replacing his devastatingly ironic ending with a tame "Flight of the Phoenix" finale.So if (for whatever reason) you are thinking about viewing "They Came to Codura" don't expect a typical viewing experience. And don't expect a masterpiece because the mixed description in the first paragraph is a pretty accurate assessment of the film.That doesn't mean don't watch. The surface story is reasonably entertaining and the themes are extremely interesting even if they are so poorly articulated that they lose much of the power that they should have had.Like the novel, the film is set in 1916 Mexico with the U.S. Cavalry dashing about in pursuit of Pancho Villa. Major Thomas Thorn (Gary Cooper) is in charge of escorting five prospective Medal of Honor winners back to the base at Cordura where their heroics can be utilized to fan a recruitment campaign for the looming U.S. entry into WWI.Thorn carries a lot of personal baggage into this assignment. The son of a famous soldier he is deeply ashamed of the cowardice he exhibited during a recent battle. It is his duty to interview each soldier during the journey and to then write up the commendations. His past performance causes him to over-compensate as a leader and to soon alienate most of the men under his command; Lt. Fowler (Tab Hunter), Sgt. Chawk (Van Heflin), Pvt. Hetherington (Michael Callan), Cpl. Trubee (Richard Conte), and Pvt. Renziehausen (Dick York). Being dragged along with the group is a woman named Adelaide (Rita Hayworth), an American expatriate accused of aiding the Villa.This is not exactly a strong cast, especially for a film that is more character study than action adventure. To be successful, an adaptation of a multi-character novel  must go one of two ways with those characters;  #1 assemble an extremely talented cast who can nonverbally communicate characterization or, #2 mold most of the characters into movie stereotypes and single out 2-3 for more extensive development (placing your strongest actors in those roles). This film's downfall is that it takes a third path, as none of the characters are predictable movie stereotypes (in fact all seven are extremely strange) and only Hayworth is able to give her character some degree of plausible dimensionality.Neither the setting nor the story is important. This could have been set anywhere at anytime. What is important is the theme, the nature of courage-its randomness, its situational nature,  and its lack of correlation with other character traits. The "heroes" are slowly revealed to be opportunists, bullies, deadbeats, and degenerates, but an isolated act of heroism was their redemption. And the coward ends up behaving like a hero.A variety of explanations for the individual acts of bravery are illustrated-recklessness, momentary insanity, accident, hatred, fear of being considered a coward, and a need for redemption. The point being that going above and beyond the call of duty is not something that can be predicted or relied upon, and that except for the last reason does alter the basic nature of the hero.Unfortunately none (ZERO) of these characters ring even remotely true and with the irony stripped out of the ending the result is a total failure to effectively illustrate the theme. So you watch, and if you can suspend disbelief it is possible to understand what the film is trying to say. But this is hardly great cinema and the viewer ultimately thinks more about the missed opportunity than about the mysteries of battlefield courage and human redemption.Then again, what do I know? I'm only a child. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Wasted Opportunity </p>
+
+
+<h2> review.date </h2>
+  06-13-2014  
+<h2> review.text </h2>
+
+ <p> This is a 5 star Gary cooper holly s*** great story line awesome secenery looking for Medal of Honor winners it's really good </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gary cooper </p>
+
+
+<h2> review.date </h2>
+  08-03-2007  
+<h2> review.text </h2>
+
+ <p> If you like Gary Cooper you will enjoy him in this tense story of a man finding who he really is. Rita Hayworth in a role that actually demands acting , serious acting . She usually plays the dance hall type but in this she is a woman of substance...This movie requires patience and attention to the characters. If you can do that you will enjoy it! Its an adult movie that treats you like an adult..... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ACTING AT ITS BEST  !!!! </p>
+
+
+<h2> review.date </h2>
+  11-09-2006  
+<h2> review.text </h2>
+
+ <p> Due to showing cowardice in battle, Major Thomas Thorn (Gary Cooper) has been assigned the degrading task of "Awards Officer" to the Mexican expedition of 1916 against Pancho Villa...Thorn witnesses the U.S. Army attack on a ranch house which results in an American victory, and selects five men as candidates for the Congressional Medal of Honor...Since Washington wants heroes in a hurry, for a World War I recruiting campaign, Thorn has to guide these men through the perilous border country to the 'out of danger' base at Cordura...Since Villa's men were given shelter in the ranch house of the beautiful Adelaide Geary (Rita Hayworth), she is accused of treason and is forced to accompany the men on their difficult journey...Before the seven get to the Texas border town, the five heroes are given ample time to show their true colors (cheats, thieves, rapists and murderers) and Cooper (always under great danger) discovers, far from crossfire, their true characters... Thorn also discovers that he has respect and affection for his prisoner...Rita Hayworth seems, on screen, to be a woman who has seen too much, lived too hard... There are circles under her eyes now, and an indefinable sadness about her presence... But she remains more delicious than ever... She had been the greatest girl of them all, a living summary of all our sexy, dreamy ideals... Now she is a reminder, for an aging generation, of the generous visions of youth... In "They Came to Cordura," Rita gives the best performance of her career as the shady lady surrounded by six men, substituting acting for sex and glamor... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Watchable adventure epic, not so arresting as was intended but quite professional... </p>
+
+
+<h2> review.date </h2>
+  01-18-2013  
+<h2> review.text </h2>
+
+ <p> Ok, so maybe not the best vehicle for Cooper or Hayworths' talents, but still a solid morality tale wrapped in the guise of an adventure flick.  The American excusion into Mexico prior to our entry inot World War I is a great backdrop for solid performances by a great supporting cast including Richard Conte, Dick York, Tab Hunter and especially Van Heflin. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Coop Rocks! </p>
+
+
+<h2> review.date </h2>
+  10-31-2004  
+<h2> review.text </h2>
+
+ <p> I wanted to like this movie. The premise is excellent and not often explored but Cooper was like a Zombie and I love Hayworth but not in this movie. She looked lost. Great actors and wasted in my opinion.Sets were excellent but the acting and story line left much to be desired. Maybe it was the cuts from the original version. I didn't even record it when it was on TV to watch the second time. I felt the first time I saw it I didn't like it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm sorry, this movie is a boring..... </p>
+
+
+<h2> review.date </h2>
+  08-17-2005  
+<h2> review.text </h2>
+
+ <p> They Came to Cordura was Gary Cooper's last western, and although it is a pretty good movie, something is missing.  During the 1916 campaign against Pancho Villa, Major Thomas Thorn is given the duty of seeking out soldiers who distinguish themselves in battle and recommending them for the Congressional Medal of Honor.  After choosing five candidates, Thorn is ordered to take the men to Cordura, an Army base back in Texas, along with an ex-patriate, Adelaide Geary, who has been harboring some of Villa's revolutionaries.  With all these courageous men around him, Thorn sets out to find out what makes men do brave yet dangerous things during the heat of battle.  Instead, Thorn begins to discover that his "heroes" are really anything but that on the march back to Cordura.  This is a good movie, but it does have its downside.  The movie clocks in at over two hours which causes the plot to drag in some parts.  As well, the ending just doesn't seem to fit.  With that said, I'm recommending this movie for the great performances from its cast and the deeper look "Cordura" takes at the heroism soldiers display in battle.Gary Cooper is excellent as Major Thomas Thorn, the leader of the detail heading for Cordura.  Thorn's character has a dark secret that is revealed on the trail, which Cooper pulls off perfectly.  Rita Hayworth gives one of her best performances in a different sort of role for her.  She plays Adelaide Geary, the American ex-patriate living in Mexico who has unwillingly helped Pancho Villa and his revolutionaries.  Van Heflin is great in a very dark role as Sgt. Chawk, one of the candidates for the Medal of Honor who causes Thorn more problems than he ever anticipated.  The remaining soldiers include Tab Hunter as Lt. Fowler, the preppy young officer, Richard Conte as Cpl. Trubee, the sinister soldier who knows Thorn's secret, Dick York as Pvt. Renziehausen, the brave but vain soldier, and Michael Callan as Pvt. Hetherington, the one soldier who freely admits he is afraid in battle.  The DVD offers no extras, but the movie is presented in widescreen presentation, another high point of the film.  Overall, an uneven western with a good message and great performances from its cast.  Check out They Came to Cordura! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What does courage really mean? </p>
+
+
+<h2> review.date </h2>
+  11-10-2006  
+<h2> review.text </h2>
+
+ <p> They Came to Cordura is one of those good ideas that never really works, as Gary Cooper's disgraced officer in Pershing's disastrous Mexican misadventure escorts a motley group of heroes he's recommending for the Medal of Honor to Cordura, hoping to find out the secret of their courage only to discover that one moment of unselfish heroism doesn't necessarily redeem a man anymore than one act of cowardice damns him. After a spectacular early battle, action is thin on the ground, with the film more concerned with the way this increasingly lost patrol gradually turn on each other as bandits and disease turn their simple journey into a test of endurance and character. Despite boasting an impressive cast - Cooper, Rita Hayworth, Van Heflin, Richard Conte - the performances are more professional than inspired, with Tab Hunter of all people giving the best performance by far as the ambitious young officer who, like the various others, has his own reasons not to want the medal. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Underachieving characters in an underachieving drama </p>
+
+
+<h2> review.date </h2>
+  10-14-2010  
+<h2> review.text </h2>
+
+ <p> What a disappointment. I love this movie, but while the "Format" said "Full Screen, Subtitled, Widescreen," it was only full screen. I can't think of a movie hurt more by having the ends cut off. The credits were widescreen -- maybe that's what they meant, but this should be clearly stated. I tried flipping it over and my DVD player gave me question marks.It's really a wonderful film, terribly underrated in my opinion. Cooper breathes weariness and pain better than any actor ever has. It's not flamboyant acting, it's just in him (actual chronic back pain may have helped). Hayworth and the evil guys are all wonderful. The panorama, when you can see it, is lonely, dusty and moving. A more ironic and yet deeply inspiring film on heroism was never made.The only thing lacking when you can see the movie correctly (not this DVD) is Sinatra's title song, which wasn't used. Too bad. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Where's the wide screen </p>
+
+
+<h2> review.date </h2>
+  03-04-2007  
+<h2> review.text </h2>
+
+ <p> The setting for this ambitious 1959 film is the 1916 U.S./Mexican border conflict. Entrance into WWI is imminent and Gary Cooper plays a major who escorts five men to the the New Mexican base town of Cordura (which means "courage"). The five men are candidates for the Medal of Honor; they've proven themselves courageous in battle and the government wants heroes to promote military recruitment. Cooper is chosen for the job to shame him since he acted cowardly in his last (only) battle. Along for the ride is Rita Hayworth, an alcoholic American expatriate charged with aiding the Mexicans.Cooper's character is in incredible agony throughout the picture. Courage is the one thing he believes he lacks and so he marvels at the trait, even if the person possessing it is a scumbag in every other way. He perceives courage as the noblest human quality, redeeming a person from all other flaws, no matter how bad. His past cowardice naturally compels him to over-compensate as the leader of the group, which doesn't win him any friends, if you know what I mean."They Came to Cordura" is a Western, I suppose, but it's more accurately a lost-in-the-desert/survival story (e.g. "The Flight of the Phoenix," "Sands of the Kalahari"). The entire film takes place in the desert wilderness. The group experiences hardships and set-backs on the journey. Four of the men become increasingly hostile toward the major, propelled by the authority-hating, rivalrous sergeant (Van Heflin).The film will appeal to anyone who, like me, is into lost-in-the-wilderness type stories. Unfortunately, although the screenplay and subject matter (What is courage?) are ambitious and highly thought-provoking, the execution is less than satisfactory. The dialogue/delivery is dated and the acting, at times, less than authentic. Still, the material is taken seriously by all involved.One highlight of the film is redhead Rita Hayworth. This is the first and only film I've ever seen her in. My only previous exposure to her was that famous WWII era photo of her in a nightgown with her hand in her hair. As far as I'm concerned that picture doesn't do her justice. She looks and is completely different than the image that picture conveys. At the time of filming she was almost 41 years old. Her character in the film compassionately relates to Cooper's character for reasons revealed in the story.I've heard that the film was originally a 2.5 hour piece; unfortunately it was taken out of the director's hands and about 30 or so minutes were cut. Director Robert Rossen was in the process of putting together a director's cut when he unexpectedly died in 1966.BOTTOM LINE: Yes, the film's reach exceeds its grasp and, yes, it is dated, but I really appreciate this film. I can see why some would give it a low rating while others consider a near-masterpiece. Cooper's torturous peformance is potent and Rita Hayworth is splendid. The ending wherein Cooper endeavors to move a train cart or die trying is a moving image. The film does succeed in provoking the viewer to consider the nature of courage, despite its flaws.For an incredibly well-written, detailed and accurate evaluation of the film please see Only-A-Child's review from June 21, 2006, just four reviews below.GRADE: C+ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Reach Exceeds Grasp </p>
+
+
+<h2> review.date </h2>
+  06-02-2004  
+<h2> review.text </h2>
+
+ <p> This movie is a failure in every way - I do not know what theother reviewers are talking about...This movie is about a bunch of people wandering around in the desert through the whole movie until the end.Cooper is too old and one does not like him playing a coward.Hayworth is the only good thing about it. She plays greatand looks great. This was her last A-movie for Columbia.Afterwards her big career was over in 1959. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> TOTALLY BORING MOVIE ! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00CSMDMBC <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Does not work on two different Chinese tablets </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this charger as a backup for two different Chinese-branded tablets. Even thought the connector looks identical to my other chargers, this just does not work on either tablet. What is insidious is that it appears to work on one of the tablets, but it does not charge. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Replacement </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Both this replacement charger after the original unit died in only a couple of uses. Fit the Tablet perfectly, good purchase and so far so good. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Spare </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great price, fast service, quality item. Got it as a spare for one of our Tablets. Don't like to have one go down without a backup. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> works for D2 721 tablet but is loose. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This works perfect for the D2 721 tablet. When its plugged in, the barrel plug is almost halfway out of the tablet, its a bit too long and you have to move it around to get it charging properly as it feels loose in the charging port.Works and charges perfectly though. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Connector is perfect. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I ordered this product for the connector. A large capacity external battery had all size connectors, except the one for my &#34;MID&#34; 7&#34; tablet computer. I plan on using the connector on this wall charger to fabricate an adaptor to connect to my external battery. I can't comment on how this product works, as I use the original charger that came with my tablet PC. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Four Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-28-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> No problems here. Delivered in a reasonable amount of time and well packaged. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works for me. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this to replace my android power supply that died.  This is working good so far, I hope it will last longer than the original that came with my droid. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Power Adaper is cheap, but works </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-06-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this for a friend, because she lost her charger to her Tablet and I did not have much money so I found this one on Amazon so I got it.I received it in the mail today and plugged it into her Tablet and it is charging just like the orginal one that came with it. This shows you don't have to spend a lot of money to get what you need, just shop around.Kay </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Doesn't fit Noria </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bought this for my daughter's NORIA, it doesn't quite fit, it sticks out and doesn't make a good connection.Save yourself the hassle and just buy it from Android. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-26-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Works...and at a good price.  Wish the cord was just about a foot longer, but other than that, it's great. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Does the job </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Purchased this charger to replace the one that came with my Chinese SmartQ T20 Tablet that had worn out and whose tip had been bent out of shape.I was a bit reluctant to be buying another cheap charger but I was happily surprised to find that it feels, and looks a lot more sturdy and better put together than the one that my tablet came with.It works well and for the price, was a good buy. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00BADY7MS <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-11-2013  
+<h2> review.text </h2>
+
+ <p> I was surprised and impressed by how thorough this book was. It starts with the basics, but quickly moves on to a wealth of couponing tips and tricks. By the time you finish the book, you'll be well-versed in couponing vocabulary and you'll be aware of several unique strategies for saving a bundle. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Thorough and Up-to-Date Book of Couponing Tips </p>
+
+
+<h2> review.date </h2>
+  02-04-2013  
+<h2> review.text </h2>
+
+ <p> This book opened my eyes to a number of opportunities for saving money beyond the usual coupons that come in the Sunday paper inserts. In the back of this book, there's a helpful reference guide to several blogs, online coupon sites, and much more. I never thought about using Facebook to find coupon deals. This tip alone is worth the price of the guide.When you consider the total savings from rebates, digital coupons, buy one get one free offers, store and credit card rewards and store loyalty cards, saving $100 to $200 a month is not only doable but very realistic. This amount of money is not something to sneeze at, particularly in this economy -- and there are no costs involved.Whether you're a casual or a "extreme couponer" this guide has something for you. Get this guide and start saving money today! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Save $100 a month or more on coupon deals </p>
+
+
+<h2> review.date </h2>
+  07-01-2013  
+<h2> review.text </h2>
+
+ <p> I love this book! In less than a week, I've saved over $45!This guide has been well researched and has lots of great tips to becoming an expert in couponing, it's easy to understand and easy to read. I learned many helpful tips I didn't know, and this book has a lot of great information about the ins and outs of getting the most out of coupons!If you are a beginner couponer than this is a must have! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book! </p>
+
+
+<h2> review.date </h2>
+  02-08-2013  
+<h2> review.text </h2>
+
+ <p> With this economy I'm looking for any way I can to save a few dollars here and there.  This book helps make finding and using coupons easy to understand and implement...I may never be an "extreme couponer" but this will definitely help me save a lot more money shopping than I normally do! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> couponing made easy </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> This book has a lot of information about couponing. Good information about how to get started, how to organize your coupons, where to get your coupons, how to stack your coupons, each store`s rules and regulations on couponing, and anything you needed to ask about coupons. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Couponing for dummies </p>
+
+
+<h2> review.date </h2>
+  03-18-2013  
+<h2> review.text </h2>
+
+ <p> I really like her honest approach to couponing. She doesn't promise that you'll save $200 a month on groceries, which is unrealistic when you are just starting out. But she teaches you how to gradually slash your grocery bill. She provides plenty of helpful ways to save money. I also recommendExtreme Savings: The #1 Guide To Getting Anything You Want For Free with Extreme Couponing 101 Secrets, Proven Ways To Save Money, and Financial Fitness Blueprint </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Couponing done right! </p>
+
+
+<h2> review.date </h2>
+  02-04-2014  
+<h2> review.text </h2>
+
+ <p> After reading a number of other books about couponing that claim all sorts of unrealistic results, I am happy to finally find one that lives in the real world with the rest of us. If you think that the couponing shows you've seen on your television are reality, think again.This book covers the basics of different types of coupons, where to find them, and how to organize them for use in the stores. One of the things I really admire about this treatment of the subject is the reminder to follow the rules and why this is important. Those rules are there to protect both the store and the consumer, and it's good to remember that when standing at the checkout counter. Common courtesy is also stressed by the author with small things like not planning your mega couponing visit to the store during their busiest time of day or trying to use out-of-date coupons.Advanced topics are covered too such as stacking coupons for maximum savings and writing letters to manufacturers for additional coupons. While I wouldn't purchase extra newspapers just to get extra coupon inserts that may or may not be for things I need, I wholly support the author's idea of picking up newspapers whenever traveling out of town. Not only can this get you additional regional coupons, it's a great way to compare prices on all types of consumer goods, even cars and houses, for comparison with your home area. It can be quite illuminating to see that what you think are good prices in your area aren't so great when compared to others based on local preferences or different store chains.The final chapter contains all sorts of useful links to websites with more information on couponing, coupon sources, and most importantly corporate rules for the use of coupons by stores and manufacturers.Recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Finally, a Realistic Guide to Couponing </p>
+
+
+<h2> review.date </h2>
+  11-24-2013  
+<h2> review.text </h2>
+
+ <p> I am a dedicated couponer who is always amazed when the person in front of me in line spends over $100 buying dozens of items and doesn't use a single coupon, even though I know they could easily save a bundle with the right coupons. With that background, I was interested to see just what type of advice this rather slim guidebook offers for beginners.The good news, I'm happy to say is that this is an excellent guide book for beginners. It goes over where to find coupons, how best to use them for maximum advantage, and how to store and catalogue them. A lot of this is old hat for me, but it would have saved me a lot of time when I was starting out. An added plus is the section that contains links to about a dozen sites offering coupons, several of which I hadn't heard of before.The only possible drawback for some people is the price. Let's face it, the book is short, and some people may not want to spend $3 to get the equivalent of the content in a good detailed magazine article (this explains why I didn't give this five stars). If you already know your way around the world of coupons, I'd think twice about investing in the book. If, however, you'd like to save money by using coupons but don't really know how to start, this book has all the information you need to get and keep track of a good coupon collection within a month or so. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Good Guide for Couponing Beginners </p>
+
+
+<h2> review.date </h2>
+  11-05-2013  
+<h2> review.text </h2>
+
+ <p> Great for someone just getting started. Lots of grammatical errors and a couple misspelled words. Also a bit repetitive in a couple places. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Basic coupon advice. </p>
+
+
+<h2> review.date </h2>
+  02-05-2013  
+<h2> review.text </h2>
+
+ <p> I just started staying home with my baby and desperately need to save money on my grocery and supply shopping. I've been wanting to get started with couponing but it all seemed overwhelming. With this guide I can get started! I like that this is someone who has been through all the troubleshooting. She tells you all about the various types of coupons you can collect, HOW to actually collect them, and all the tricks you need to know. Cant wait to save big on my next shopping trip! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'm new to couponing and this is just what I need! </p>
+
+
+<h2> review.date </h2>
+  02-21-2013  
+<h2> review.text </h2>
+
+ <p> I was a krazy couponer at one time, but now there are just 2 of us so there is no reason to go krazy anymore. Great ebook, and related more than just the basics on couponing. Would certainly recommend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Couponing guide is a great ebook!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

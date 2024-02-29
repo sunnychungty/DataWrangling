@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000HEVZ7G <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-04-2010  
+<h2> review.text </h2>
+
+ <p> Normally, when a particular movie captures my attention enough to where I'll wish to include it as part of my personal DVD library, my overall desire & intention is to acquire ONLY that specific title. But all too often I'm having to deal with DVD distributors who insist on "pairing up" or "piling on" additional feature films (often in the form of "sequels") with the main films I'm interested in with no way to circumvent it -- (examples include: "Silent Night, Deadly Night" paired with its gawd-awful sequel [whose ONLY redeeming quality was the "Garbage Day" scene]; "The Fly" remake paired with its not-so-bad but still not wanted sequel; and more recently the latest [and hopefully "final"] entry in the "JUON" legacy, "Shiroi Rouzyo" paired with the dull & inferior divergent companion piece, "Kuroi Syozyo").So as I sought to include the forgotten Boris Karloff classic, "The Man They Could Not Hang," as part of my library, it required me to purchase it as part of this 4-movie "compilation." In the end, however, the inclusions were like added "bonus features" which only served to enhance the viewing experience.Granted, we *are* talking about your average "B-rate" movies here, but for what they are, and considering the time period in which they were produced, they are mostly enjoyable.The "gem" of this collection is, of course, "The Man They Could Not Hang," not just because of my personal prejudices, but because it is in fact the best of the bunch. This story of a medical scientist wrongfully convicted of murder and sentenced to death is a bit more than just your standard "revenge from the grave" plot -- it has a nice bit of a twist to it, and could actually be considered the grandfather of the "Saw" and "Cube" series and similar type movies. - [[grade: "B"]]Next in line is a fun & clever (though admittedly not very humorous) "comedy" piece called, "The Boogey Man Will Get You," where Karloff attempts to perfect a process for creating "super men" for the war effort, but always with less-than "lively" results (inside joke: you've got to watch it for yourself to understand). Also features Peter Lorre as the township's "Every Man" (quite literally). - [grade: "C"]"The Black Room," the only movie in this collection not featuring Karloff as any sort of a "mad scientist" type, but still "mad" nonetheless, involves a struggle between twin Barons (both portrayed by Karloff) -- one "good"; the other "evil" -- and a family prophecy that could determine the fate of one or both of them. - [grade: "C-"]Then finally, "Before I Hang"... nearly identical title, roughly similar concept, with a few variations on the "Could Not Hang" story, where this time it does not involve a good man turned killer bent on revenge, but rather a good man turned killer based on a contaminated soul. - [grade: D]Overall, based mainly on the strength of "The Man They Could Not Hang," plus the addition of the extra features which gave a glimpse into some of Boris Karloff's more obscure works, I'll give the entire collection an impressive grade of "B".Enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> *BONUS* BORIS </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> Nice collection of four movies starring Karloff the Uncanny.  All are entertaining: one a comedy and one a lurid costume drama and the other two unlikely stories of science gone wrong. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Four entertaining little movies. </p>
+
+
+<h2> review.date </h2>
+  08-23-2007  
+<h2> review.text </h2>
+
+ <p> I bought this edition for one movie only...The Black Room. Even William K. Everson in his "Classics of the Horror Film" (the book that turned me into horror flicks like no other book) didn't have much to say about this one. But the few photos in the same book spoke a different language though.And what can I say? The Black Room is sure the gem in this otherwise mixed bag. The Man They Could Not Hang and Before I Hang I find pretty mediocre, with the first being slightly better than the latter.On the other hand The Boogie Man Will Get You in my humble opinion is a complete failure. How could a movie starring Karloff and Peter Lorre and directed by Lew Landers be such a mess? With all respect to 40s humor, which was of course quite different to what we are used to today, movies such as Hold That Ghost, yes, even King of the Zombies prove that there was much more than this flick could ever offer. A complete waste of Karloff's and Lorre's talents if you ask me.However, let's get back to The Black Room. An intelligent and atmospheric genre movie of the mid 30s. With Karloff delivering one of his best and most underrated performances as far as I am concerned. The clever editing and special effects plus Karloff's superb acting manage to evoke the illusion of those two rather unfortunate twin brothers...one being evil and one being good. The script delivers a plot that one could even find "real" medieval: the story of a family curse that over the centuries haunts the members of an aristocratic family, and finally destroys the last survivors of the same family, Karloff and ehh.. Karloff. You shall see...enjoy!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quite passable... </p>
+
+
+<h2> review.date </h2>
+  11-07-2006  
+<h2> review.text </h2>
+
+ <p> This one has four great Boris movies I've never seen before (3 I've never even heard of). THE BLACK ROOM gives Boris a dual role to sink his teeth into, resulting in a classic tale of good vs. eeevil, and the darkness lurking in the human heart. Karloff plays twin brothers, Gregor and Anton. He is so good at both roles that I came to think of them as two separate actors! THE MAN THEY COULD NOT HANG has Boris doing his mad scientist bit, being tried, convicted, and sentenced to hang for "murdering" a volunteer for his latest experiment. He comes back from the dead to pay back the rats that convicted him! In BEFORE I HANG, Boris turns into a crazed killer after his anti-aging serum goes awry! Edward Van Sloan (Dracula, Frankenstein) is along for the ensuing mayhem! THE BOOGIE MAN WILL GET YOU is strictly for laughs. Boris carries on strange experiments in the basement of an historic tavern. Peter Lorre is the coroner / sheriff / etc. who opts to help out w/ the scientific madness! I like this one. It reminds me of Roger Corman's Karloff / Lorre / Price "horror" comedies. This set belongs on every shriek shelf... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Cool Karloff Collection... </p>
+
+
+<h2> review.date </h2>
+  10-28-2008  
+<h2> review.text </h2>
+
+ <p> While all 4 titles are excellent pieces of entertainment, "The Black Room" is by far the best of the group as well as one of the best of this genre. While Karloff's often underrated performance in the original "Frankenstein" is perfection, his dual role in "The Black Room" is probably his finest piece of dialogue acting that I have seen. The film, made immediately after "Bride of Frankenstein," judging by release order of his films, has a very similar look in set, lighting, etc. to "Bride."If one didn't know it was a Columbia film, Universal would be the guess as to which studio produced "The Black Room." Much of Columbia's B product of the 1930s was generally far more entertaining than many A productions of other studios. Quickly paced, efficiently scripted, highly entertaining many of these B films by Columbia are becoming available on Turner Classic Movies. After I saw "The Black Room" and "Before I Hang" on TCM, I immediately purchased this video set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Columbia Product </p>
+
+
+<h2> review.date </h2>
+  09-29-2006  
+<h2> review.text </h2>
+
+ <p> No sooner had I finished writing a review of THE BORIS KARLOFF COLLECTION saying that someone should release THE BLACK ROOM on DVD when lo and behold here it is. The fact that it's being issued by Sony means that it will use the best prints available which is great considering how often Boris is badly served by substandard prints of his non-Universal films. Sony has already issued a couple of the Columbia Karloff "Mad Doctor" films on DVD (THE DEVIL COMMANDS, THE MAN WITH NINE LIVES) and while they were devoid of any real extras, the visual quality of the films was an improvement over the old VHS copies. This will complete the set and give us THE BLACK ROOM in the bargain which is the finest of the films he did for Columbia. Directed by Roy William Neill (known for the modern day Sherlock Holmes films with Basil Rathbone and Nigel Bruce) THE BLACK ROOM gives Boris one of his best acting opportunities in a double role as twin brothers one good the other evil (a triple role when you consider he also plays one brother impersonating the other).The other films are THE MAN THEY COULD NOT HANG, BEFORE I HANG, and a comedy THE BOOGIE MEN WILL GET YOU. Although I haven't viewed the set yet I assume that Sony will do the same for these titles as they did for the others with hopefully a few extras thrown in although it's a shame that they didn't include the previous two on a third DVD to have all the films in one package. So Karloff fans rejoice even more so than for THE BORIS KARLOFF COLLECTION as overall the quality of these films are better. Thanks to these, THE VAL LEWTON COLLECTION, and the British films THE GHOUL and THE MAN WHO CHANGED HIS MIND, virtually all of Karloff's 30s and 40s films are now on DVD. That just leaves THE WALKING DEAD which Warners should have issued in their upcoming HOLLYWOOD LEGENDS OF HORROR COLLECTION.... ADDENDUM: I have now seen the set and the picture quality is excellent. Unfortunately there are no extras whatsoever not even chapters for the various films. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ask And Ye Shall Receive. </p>
+
+
+<h2> review.date </h2>
+  10-16-2013  
+<h2> review.text </h2>
+
+ <p> Many of Boris Karloff's films are ify sort of things--as his reputation for horror films increased, the quality of his film frequently decreased, and while Karloff would make a good many excellent films, he also made a good many throw-away ones.  The 1940 BEFORE I HANG would seem to be the among the latter, but thanks to Karloff, a skillful supporting cast, and surprisingly elegant direction and cinematography, this 1940 movie plays very well.The story, like many horror movie stories, is a bit silly.  Dr. Garth (Karloff) has been convicted of a mercy killing and is sentenced to death--but it happens that he is working on a serum that can reverse the effects of aging.  While awaiting execution, he makes great strides in this work, but the serum has an unfortunate side effect: it turns him into a vicious killer.  Dr. Garth does not remember these episodes, and in spite of the mysterious deaths he is pardoned that he might continue his work.  Unfortunately, the side effect does not go away, and he is soon a danger to both his friends and his daughter Martha (Evelyn Keyes.)As mentioned, the supporting cast is very strong, with Edward Van Sloane and Evelyn Keyes particularly notable, and the film has a fast pace.  But it is really Karloff who makes it work, underplaying the role in such a way that when Dr. Grant becomes dangerous he is indeed frighteningly so.  This is not one of the great Karloff films of the 1940s--very likely that title would go to the Val Lewton film The Body Snatcher--but it is a very good one, an enjoyable movie for fans of horror movies of that decade.  Recommended.GFT, Amazon Reviewer </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You Want To Go On Living, Don't You? </p>
+
+
+<h2> review.date </h2>
+  11-23-2006  
+<h2> review.text </h2>
+
+ <p> By that title, I mean this collection gets 5 stars because of its one star, Boris Karloff. Karloff was a fine actor when given fine projects. Like his "running mate," Bela Lugosi, he sincerely applied himself to whatever the material. But unlike "poor Bela," Boris frequently got QUALITY roles and films. This collection shows a nice range, from two mad doctor roles (of which he played several for Columbia) to comedy to a nice tour-de-force of a dual role as twin brothers.Despite the title of the collection, these aren't "horror" films. They're dramas or melodramas (as TV Guide used to call them when they were shown on TV in the 50s). The sole comedy, THE BOOGIE MAN WILL GET YOU, is a welcome change of pace and a nice chance for Boris to be silly and get away with it. (Some of the other people in the cast don't fare as well, though Peter Lorre and Maxie Rosenbloom are delightful).It's nice to see Karloff get the releases he deserves on DVD. I still have my wish list (like DEVIL'S ISLAND and a watchable print of THE APE). But this set is a nice chance to see a fine old actor parade his talents. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars for One Star </p>
+
+
+<h2> review.date </h2>
+  12-18-2006  
+<h2> review.text </h2>
+
+ <p> These four films by Boris are of VERY good, crisp, black-and-white quality, all from Columbia Studios. THE BOOGIE MAN WILL GET YOU (1942) is the rarest film here, and it's about time...I've been looking for this for years. There are some bootlegs of this film out there, but get this one; the quality is the best. THE BLACK ROOM (1935) has the feel of a 1930's Universal horror film, as Boris plays twins - one good, one evil; BEFORE I HANG (1940) has Boris as a man who injects himself with the blood of a killer and starts murdering against his will; and THE MAN THEY COULD NOT HANG (1939) is great - Boris is executed only to be revived from the dead and wields revenge on the ones who condemned him - the last 20 minutes are not what you'd expect and it's very, very absorbing!The Universal Karloff DVD set may have five films instead of four (and they could've picked better movies as well!), but this Columbia set is far superior.....quality, acting and plot-wise, it's the better of the two. Karloff fans won't be disappointed! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Krisp Karloff Kollection </p>
+
+
+<h2> review.date </h2>
+  01-19-2008  
+<h2> review.text </h2>
+
+ <p> Columbia's Karloff collections presents four of the studio's horror films starring Boris Karloff, all of which were released between 1935 and 1942.  The first film in the series, THE BLACK ROOM, is an underrated gem in which Karloff plays aristocratic twins, one good and one evil, in one of his most interesting roles.  It's worth the price alone, but unfortunately the rest of the films in the collection are far less interesting.  THE MAN THEY COULD NOT HANG is the best of the lot, featuring Karloff as a kindly inventor wrongly executed for his experiments involving an artifical heart.  His assistant revives him, but Karloff is now posessed with a thirst for vengeance against those who convicted him.  There are some nice moments, particularly Karloff's statement before the court, and a great cast of Columbia regulars, but the film is far-fetched and too rushed thanks to its brisk 65 minute running time.  BEFORE I HANG features Karloff in an almost identical role as yet another wrongly condemned scientist, only this time his sentence is commuted and he winds up injecting himself with an experimental youth rejuvenation formula, one tainted by the blood of a murderer, which somehow turns him into a homicidal maniac.  By this point in the series, it is obvious Karloff has lost interest in this sort of role, and while the film re-teams him with Edward Van Sloan from the 1931 FRANKENSTEIN, the results are underwhelming.  It is clear that no real effort is being made by the filmmakers, as they clearly wrote this one off as just another B thriller.  THE BOOGIE MAN WILL GET YOU is at least a change of pace, a comedy ripoff of Karloff's then-current Broadway smash ARSENIC AND OLD LACE.  Here Karloff is a dotty old scientist in a crumbling country home stuffed with corpses.  Peter Lorre is great as the Mr. Haney-ish local banker/sheriff/doctor who runs the hayseed hamlet, and his bits of business with Karloff are welcome.  But other than their scenes together, this film is staggeringly unfunny.The Columbia Karloff Collection doesn't even have chapter stops or illustrated menus, making it look like a cheap Public Domain disc you'd buy for a buck at your local convenience store.  There are no extras, and the best two Columbia mad doctor flicks, THE MAN WITH NINE LIVES and THE DEVIL COMMANDS, are inexplicably absent from this boxed set.  If you are a Karloff Kompletist, then you gotta get this set.  Otherwise, go watch something else.  RATINGS:  THE BLACK ROOM *** 1/2  THE MAN THEY COULD NOT HANG ** 1/2  BEFORE I HANG **  THE BOOGIE MAN WILL GET YOU * 1/2 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Must for Karloff Fans, but Everybody Else Can Skip It </p>
+
+
+<h2> review.date </h2>
+  10-07-2007  
+<h2> review.text </h2>
+
+ <p> I was bored with the films.  I don't think they were as good as his other films. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Letdown </p>
+
+
+<h2> review.date </h2>
+  11-05-2009  
+<h2> review.text </h2>
+
+ <p> Before I Hang: 3 out of 10: Boris Karloff stars as Dr. Kevorkian in this expose of stem cell research gone wrong.Okay maybe that is not completely accurate but one might certainly think along those lines as a doctor found guilty of a mercy killing is sentenced to hang despite his promising youth serum.Karloff quickly finds himself in a prison experimenting with the blood of a recently hanged killer the clock ticking against his own execution. He injects himself with the serum it works the governor pardons him and he goes off to save the world. Actually that is not completely accurate as well. Apparently the blood came from the prisoner "Abby Normal" and Karloff starts getting that look in his eyes and his over-sized handkerchief out of his pocket and the population of the movie starts dropping precipitously.The movie is poorly directed and despite some initially good albeit rushed ideas it quickly falls into the old blood memory turns man into killer nonsense. The pacing is bizarre with a ton of plot simply explained through voice-over (the hanging verdict in particular seems unlikely as shown) in the first half the second half with Karloff stalking the elderly drags.A weak film that starts of strong and quickly goes nowhere.The Boogie Man Will Get You: 6 out of 10: If Ma and Pa Kettle ever did Arsenic and Old Lace it would be this movie. Very very silly and occasionally quite funny the Boogie Man has a couple of big faults. The supporting cast is mixed at best and the ending is a mess.It also has two great assets, Boris Karloff and Peter Lorre. Karloff is spot on as the bumbling well meaning murdering scientist. Whose experiments on traveling salesman to create super-soldiers for the war effort are both well meaning and quite homicidal.Peter Lorre is hilarious as the Mayor, Police Chief, Undertaker, Notary, excreta. He dresses in a three piece suit with a Siamese kitten in his pocket to which he coos in German.Watching these two together is pure entertainment and certainly worth a viewing. The rest of the movie is light, frothy, derivative, and occasionally irritating. Just watch the stars at work and forget the rest. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Before I Hang... Stem Cell research gone wrong....The Boogie Man Will Get You... Arsenic and Supermen </p>
+
+
+<h2> review.date </h2>
+  01-23-2008  
+<h2> review.text </h2>
+
+ <p> I am a big Boris Karloff FanDid You all Know his real name was William Henry PlattThese Movies are a must for all Fans </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The King Of Horror </p>
+
+
+<h2> review.date </h2>
+  05-03-2009  
+<h2> review.text </h2>
+
+ <p> Fantastic set of some of Karloff's Columbia films.  Great prints and great films.  Sony has been very negligent in getting out Columbia's older films of the 30's and 40's.  They have some other Peter Lorre films and many mysteries that should be made available, especially in sets. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> KARLOFF THE ICON!!!!! </p>
+
+
+<h2> review.date </h2>
+  12-17-2007  
+<h2> review.text </h2>
+
+ <p> This is one of the best Karloff collections out there. Most of these films were put into the "Shock" and "Son of Shock" packages that were sent to many local TV stations across the US and then which were intro by a favorite horror host of the 50s/60s/70s..many, many rare classics that hardly get shown on TCM and AMC. Highly Recommended!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A truly awesome Karloff collection </p>
+
+
+<h2> review.date </h2>
+  01-11-2013  
+<h2> review.text </h2>
+
+ <p> "The Black Room" is the best of the four films in this set. Playing twins, one good one evil, has been done by several excellent actors (Bette Davis, Olivia deHaviland, Jeremy Irons, etc). Boris Karloff shows his outstanding acting skills playing two totally different rolls in this film. The older twin Gregor and the benevolent younger twin Anton. After their father's death, Anton leaves the estate to disprove a family curse and to avoid conflict. Gregor becomes the land baron and is despised by the people. Years later Anton returns at his brother's request to help calm the people and ease their hatred for Gregor. At least that's what Anton thinks. Gregor has other diabolical plans.In "The Man They Could Not Hang" and "Before I Hang" Karloff plays a similar character in both, a doctor who experiments with expanding life which lead to fatal results, and is then convicted of murder and is sentenced to death. Without revealing too much, in each film, Karloff manages to escape his punishment. That's when the films go in different directions, but both lead to a series of murders. Both are entertaining B movies with a modicum of suspense. Again Karloff's convincing performances help to make these films quite enjoyable."The Boogie Man Will Get You" is a total waste of time. Stupid, moronic, unfunny, boring. A shame that Karloff and the great Peter Lorre are caught in this mess. These two fine actors put their comedic skills to much better use about 20 years later in "The Raven" and "Comedy of Terrors". "Boogie Man" is sort of a cross between a poor man's "You Can't Take It With You" and "Arsenic and Old Lace", with a barrage of looney characters who merge together in one house. The storyline is so convoluted, it's not worth the time to try to explain it.Why do multi-packs always seem to have one clunker in the batch? Instead of "The Boogie Man Wil Get You", Columbia could've included the much better Karloff film, "The Man With Nine Lives". Then this set woul've rated 5 stars instead of 4. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 3 good flicks, 1 stinker </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> you can't go wrong with boris Karloff,if your a fan of his movies this is one for your collection,you won't be sorry. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> classic </p>
+
+
+<h2> review.date </h2>
+  01-07-2007  
+<h2> review.text </h2>
+
+ <p> Boris Karloff may have been one of the great horror actors, but that did not mean he was always in great movies.  The Icons of Horror Collection for Boris Karloff features the actor in some of his lesser efforts, including some of his "mad scientist" roles for Columbia.Actually, one movie in this four flick set is pretty good:  The Black Room.  In this film, Karloff gets to play two roles as twins:  evil Gregor and good Anton.  They live under the shadow of a prophecy that states that the slightly younger twin (Anton) will kill his brother in the so-called Black Room of the family mansion.  Anton is exiled, but is called back by Gregor, who has a scheme to take Anton's place; it seems Gregor's homicidal tendencies are too much for the townspeople and he needs to make a hasty escape.  Although not a perfect movie (most viewers will know the ending long in advance), it benefits by Karloff's wonderful portrayal of villainy.The Man They Could Not Hang and Before I Hang are similar movies, both featuring Karloff as a scientist who winds up being sentenced to hang for deaths caused by his work.  In the former, Karloff is resurrected by his assistant using an experimental technique; he subsequently seeks revenge on those responsible for his conviction by luring them to his house to be cleverly killed.  In the latter movie, he eventually gets a pardon, but his experiments in restoring youth have made him a homicidal killer.  Both movies are watchable but completely unexceptional.The Boogie Man Will Get You also features Karloff as an elderly scientist, but this time the film is played strictly for comedy.  He plays a professor doing typical mad scientist experiments in the basement of an inn.  Peter Lorre plays the local coroner/justice of the peace/notary, etc.  It is a decent enough movie that demonstrates Karloff can do comedy, although there are only a few chuckles in this piece.This set has no extras and only rates three stars overall.  The thing about Karloff is that he's at his best when he plays either monsters or truly evil figures, and only in the Black Room do we get such a role.  In his more "kindly" roles, he is okay, but his potential is never realized.  But while this set is hardly representative of Karloff at his best, none are really bad; nonetheless, this set is for Karloff completists only. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lesser Karloff with at least one good film </p>
+
+
+<h2> review.date </h2>
+  08-16-2006  
+<h2> review.text </h2>
+
+ <p> This four-movie set contains one almost forgotten Karloff classic, two quite watchable B-thrillers and a comedic misfire noted only for the performances of Karloff and Peter Lorre.THE BLACK ROOM (1935) - One of Boris's best. He plays twin aristocrats who grow up under a prophecy that says the younger will kill the older in order to fulfill a family curse. The curse apparently began in the "black room," hence the title. Karloff is at his best, playing the brutal older brother, Gregor, as well as his cosmopolitan younger twin, Anton. There are some nice twists and turns during the course of the film, and the pacing helps to hold our interest.THE MAN THEY COULD NOT HANG (1939) - During his tenure at Columbia, Boris starred in a number of B-programmers playing a mad scientist. Here he plays Dr. Savaard, a med scientist obsessed with bringing the dead back to life, specifically by using a mechanical heart he has invented. Needing a suitable subject, he experiments on a medical student who is assisting him. This upsets the assistant's girlfriend, who tips off the police. Savaard is arrested for murder, tried, convicted, and sentenced to hang, vowing revenge on the judge, jury and prosecutor. His body is released to his right-hand man, who restores Savaard to life. Suddenly, it's noticed that six members of his jury have committed suicide by hanging and that the remaining jurors, along with the judge, prosecutor, police inspector and the girlfriend who blew the whistle have all been invited to Savaard's house.BEFORE I HANG (1940) -- A fast paced B-movie using the old chestnut that blood has memory and that the tissues and bones of the criminally insane throb with a life that makes them who they are. Boris plays Dr. John Garth, a scientist who is seeking the cure for the ravages of old age. Being a mad scientist, of course, he performs a "mercy killing" on one of his subjects, which land him the death sentence. He is given a chance to redeem himself through medical research in prison, where he and a colleague (Edward Van Sloan) inoculate Garth with an experimental serum. Unfortunately, the serum was developed from an executed killer, and, while it works, it turns Garth into a homicidal maniac. He kills Van Sloan and a prison trustee while tricking the authorities into granting him a pardon for his medical efforts. Once he gets out, he really goes to town..THE BOOGIE MAN WILL GET YOU (1942) - This psychotronic take-off on Arsenic and Old Lace finds Karloff , as nutty professor Nathaniel Billings, working on creating a race of supermen in the basement of his New England house along with his equally batty assistant, played by Peter Lorre. He sells the house to a nave woman and her ex-boyfriend to run as a hotel. Karloff and Lorre then hit upon the idea of using the guests for their experiments. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Forgotten Karloff Classics </p>
+
+
+<h2> review.date </h2>
+  11-30-2011  
+<h2> review.text </h2>
+
+ <p> I love Karloff and have never seen him give a bad performance. That being said I recommend all fans grab this set as the Hang movies are worth every cent. Karloff holds these movies together and it all works through his presence. They are entertaining and I feel you can not go wrong with a karloff film. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Crazy for Karloff!!!! </p>
+
+
+<h2> review.date </h2>
+  06-20-2014  
+<h2> review.text </h2>
+
+ <p> One of the classic horror actors. Can watch his films over and over again - I never get tired. Timeless. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Actor </p>
+
+
+<h2> review.date </h2>
+  02-25-2008  
+<h2> review.text </h2>
+
+ <p> Sets like "Icons of Horror Collection - Boris Karloff" are greatly appreciated for fans of underappreciated actors like Boris Karloff; however, certain films like "The Black Room" (1935) deserve its own release with extras, some extras, anything.  This barren release is so meager in its extras that there are no trailers, no separate screens for chapters and the menus do not even have images (analogous to the "Yellowbeard" (1983) release).  Thank goodness the films look good.The Black Room (1935: ***/****):  When Boris Karloff was given an acting challenge, even in the confines of his stereotypical genre of horror, he could deliver quite well.  In "The Black Room" he gets to display his talents in performing the role of two twins, one good (Anton the younger who is partially a cripple) and one evil (Gregor the older twin). As part of a prophecy, the younger brother was destined to kill the older brother in the Black Room - a room previously used for torture and disposing of the family's enemies in the past.  The father of the twins decides to seal off the room to prevent any access to the room.As time has passed, Anton moved away in fear of the prophecy and Baron Gregor has become a despised tyrant in his little fiefdom.  Gregor decides to murder his brother and take over his identity to trick and pacify the peasants, marry a lovely lady who thinks he is his brother and to prevent his brother from killing him.  He has fooled every person; however, something is amiss.The direction of Roy William Neill (directed several of the Sherlock Holmes movies as well "Frankenstein Meets the Wolf Man" (1943)) is quite fluid and helps the pace of the film quite much.  However, his use of mise-en-sc&egrave;ne is sometimes derivative (homage?) of James Whale's Frankenstein with his placement of graveyard crosses and village scenes.  The camera movement is much more dynamic than much of the boilerplate horror of its time and especially the 40s horror cinema.  The sets are just wonderful to behold.The Man They Could Not Hang (1939: **/****): The first of the four misunderstood "Mad Doctor" films Boris Karloff did for Columbia (the others are The Man With Nine Lives (1940), Before I Hang (1940) and The Devil Commands (1941).  I have seen three of the four and the plot and premise vary little with the variance being the specific knowledge The Doctor has that no one else can duplicate and the commonality is almost everything else (in many aspects these films are almost carbon copies of each other).  In this movie he plays Dr. Henryk Savaard, a scientific genius who has created a glass mechanical heart that can be used with surgery to eliminate the need for a heartbeat to help do complicated surgery.  When he experiments on one of his workers, it goes awry and Savaard is considered responsible for the death and sentenced to be hanged. His death will not stop him from exacting revenge on the judge and jury that sought out his execution.Boris is the consummate conflicted doctor who is not evil, just possessed by exterior forces to commit atrocities.  Too much similarity between the other films makes it feel almost boilerplate, even though the film is fun.Before I Hang (1939: **/****): The third in the four of misconstrued "Mad Doctor" Boris Karloff movies by myopic misanthropes.  In this film Boris plays Dr. John Garth a Kevorkian-type character who has been sentenced to hang for a mercy killing.  The "system" is quite lenient in that he is allowed to continue his research to solve the ravages of age until his death date (a few weeks later, the death penalty sentencing must have been much faster then ').  Since he is expecting his demise after the hanging, he injects a serum mixed with a serial killer's blood into his body and after the execution he is to be subject to further experimentation.  However, at the last moment he is given reprieve.  Mixing serial killer body parts (or blood) never mixes well for the recipient and the populace at large.This is probably one of the least interesting of this series with even-less focus on secondary characters (especially the daughter and assistant characters which are much more prevalent in the other films) with the notable exception of Pedro de Cordoba (who played the "living skeleton" Bones in Alfred Hitchcock's Saboteur (1942)) who plays an aristocrat quite well as well as he seems to be doing the actual piano playing for his scenes.Boris Karloff is good, even if he is redoing the same role over and over.  I like the aspect of the character who does evil, but is not.  This movie has this semi-typical theme that has been done most effectively in "The Wolf Man" (1941) and "Hangover Square" (1945).  Some scenes seemed to influence the later (superior) The Haunted Strangler (1958).The Boogie Man Will Get You (1942: ***/****): Here is an early comedic/horror spoof on the Mad Doctor genre with the consummate Mad Doctor himself Boris Karloff.  He is trying to create a super-race of superman; unfortunately, the experimental subjects keep dropping dead.  He has an additional problem of owing lots of money to the local lender/sheriff/coroner/many more jobs (Peter Lorre) who takes his Siamese kitten wherever he goes.  Luckily for Karloff this is solved by a nutty young lady (Jean Marie Donnell) who offers to buy the decrepit house so she can create an inn though there is a caveat that the Doctor gets to keep working on his experiments until he finishes them along with keeping his elder companions: an elder lady who wants chickens and an elder man who is quite proud of his pigs.Add a traveling dance choreographer, a jealous ex-husband of the nutty young lady and a couple of unexplained murders (besides the bodies in the basement) and then the plot starts to get interesting.This film has the second pairing of Peter Lorre and Boris Karloff (the first is "You'll Find Out" which also has Bela Lugosi and the movie is not on DVD nor laserdisc and they would not be paired in a film until 1963's "The Raven") and the two act so well together that you wish everyone else was as devilishly delightful as this pair.  If more time had been spent on making this film, fixing dropped plot points, better ending (except for a great line by Lorre) then this film could have been a brilliant parody.  However, it is still a fun film that will please fans of Karloff and Lorre though might disappoint others.  I enjoyed it -- well that is all that matters.Now who is the Boogie Man? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Karloff The Uncanny </p>
+
+
+<h2> review.date </h2>
+  01-09-2007  
+<h2> review.text </h2>
+
+ <p> The main reason for owning this collection is the superb, yet surprisingly underrated "The Black Room," a period film in which Karloff plays twin brothers, one good, the other evil.  Karloff is exceptionally good in this 1935 film, which never received the recognition of his "Frankenstein" or "The Mummy" films.  Production values of "The Black Room" are first rate, even though the movie was made on a low budget.  Karloff makes the material glow.  The other films in the collection are fun, but do not achieve the quality of "The Black Room." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Unsung Karloff Performance </p>
+
+
+<h2> review.date </h2>
+  10-23-2006  
+<h2> review.text </h2>
+
+ <p> Sony's new Icons of "Horror - Boris Karloff Collection" consists of four films Karloff made at Columbia between 1935 and 1942. Quality varies from film to film but with Karloff on board these films are all worth watching.Perhaps the very best and most interesting film included is 1935's "The Black Room" a first-rate costume drama in which Karloff delivers a tour-de-force performance as twin brothers. This film is reminiscent of the fine historical spectacles one might expect from a studio like MGM. It also offered Karloff an opportunity to play a more mainstream dramatic role (or roles to be precise) before he got completely pigeonholed into the roles of monsters and mad scientists by the mid-40s. "The Black Room" is considered one of his all-time best films and should be a pleasure to all Karloff fans.As for the other three films, well, they're not his best but they do offer some fun and entertainment. My favorite of these three is 1939's "The Man They Could Not Hang." In this one Karloff is a mad scientist sentenced to death who is brought back to life and seeks revenge against those who sentenced him (including the judge, DA, witnesses and jurors). He sets up a dinner party inviting his enemies in order to imprison them and kill them one by one every 15 minutes. This is Karloff at his most maniacal best."Before I Hang" (1940) recycles some plot points from "The Man They Could Not Hang," including the concept of the scientist being brought back to life after a death sentence, but isn't quite as entertaining as its predecessor. In this one Karloff is a kinder more gentle scientist who turns evil through the blood of a killer. It's also nice to see Karloff and his "Frankenstein" co-star, Edward Van Sloan, together again. Karloff even gets to kill Van Sloan's character one more time."The Boogie Man Will Get You" (1942) is a B comedy which doesn't have too much to offer although it is interesting to see Karloff on screen with Peter Lorre in comedy shenanigans. It makes me wonder how the two might have interacted had Karloff been cast as Jonathan Brewster instead of Raymond Massey in Warner's film adaptation of "Arsenic and Old Lace." Karloff did not get the film role, which he had originated on stage, because he was playing it on Broadway at the time. He would have made a great Jonathan Brewster on film.Sony doesn't offer anything else other than the four films in this collection. Unlike Warner Brother's releases of classic films there are no trailers, no scene selections, no commentaries and no featurettes. This is a shame as a nice little documentary about Karloff's films at Columbia would have been interesting. The DVD menus are pretty basic (almost amateurish) and the packaging is nice and compact with two slimcases tucked into a cardboard sleeve. The packaging graphics try to simulate a movie poster look with Photoshopped images of Karloff. It would have been more attractive had they used real movie poster images instead.If you want to complete your Karloff collection of Columbia horror films I'd suggest acquiring "The Devil Commands" (1941) and "The Man With Nine Lives" (1940). These  two had been previously released as single DVDs.All in all, Sony's "Icons of Horror - Boris Karloff Collection" will surely appeal to Karloff fans, like myself, and allows us to own some rarely seen performances from a truly gifted and underrated screen star. It also makes a nice companion piece to his more famous monster roles and Universal's own recent "Boris Karloff Collection." </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An assortment of Karloff's Columbia output </p>
+
+
+<h2> review.date </h2>
+  07-01-2013  
+<h2> review.text </h2>
+
+ <p> Like no other, his acting performances were astonishing,  and his work lives on for those who bothered to look. Please look at one of the immortal greats as I do over and over again. Thank you Sir! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Karloff was simply </p>
+
+
+<h2> review.date </h2>
+  03-07-2008  
+<h2> review.text </h2>
+
+ <p> The 3 stars I have given this Icons of Horror - Boris Karloff (The Boogie Man Will Get You/The Black Room/The Man They Could Not Hang/Before I Hang)are only for the films, which I must say, despite having Karloff as the lead and supporting role, are not the best of his work. I would give half a star to The boogie man will get you, 1 star to the black room, half a star to the man they could not hang, and a formidable one star to the so called classic Before I hang. 3 stars in total for all the movies put together. And if quality were thrown in, I would bring it down to 1 and a half stars. Boogie man constantly goes black and pauses. Black Room is exactly as it says, the entire picture is full of specks and lines, and is so dark it could almost be seen as a black screen. Man they could not hang is the man I could not hear, literally no sound except hissing of the actual film and short mumbling when people are yelling. And finally Before I hang is generally awful. There is actually no voices, but there is music as if it was a silent film.DO NOT GET THIS ITEM! For much better quality and acting from Karloff the Uncanny getThe Boris Karloff Collection (Tower of London / The Black Castle / The Climax / The Strange Door / Night Key)or the even betterThe Bela Lugosi Collection (Murders in the Rue Morgue / The Black Cat / The Raven / The Invisible Ray / Black Friday), with Karloff in lead for most of them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very bad quality. Not to get! 3 stars for all films together alone. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

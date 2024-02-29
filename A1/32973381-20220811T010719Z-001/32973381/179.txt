@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00003L9CN <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-20-2004  
+<h2> review.text </h2>
+
+ <p> Dana Carvey was one of the most versatile cast members in the long history of &quot;Saturday Night Live&quot;. He stayed on for 6 years (1986 - 1992) and has wound up hosting several more times over the years.The opening sequence features Carvey as a dead - on Ross Perot, fielding questions asked by Sandler and Schneider. The dvd mainly focuses on his unique impersonations of many famous people, including Robin Leach, Tom Brokaw (the one when he's Brokaw going over ways to announce that Gerald Ford is dead is hilarious), Jimmy Stewart, Keith Richards and, of course, George Bush. Also included are some of Carvey's quirkiest characters, including Garth from &quot;Wayne's World&quot;, &quot;Carsenio&quot; (a spoof of &quot;The Tonight Show&quot; featuring Carvey as Johnny Carson trying to recapture his place with the public by copying Arsenio Hall), and &quot;The Church Lady&quot;, which always has me laughing.This one of the best discs that Broadway Video has released in their long line of &quot;best - of&quot; collection. &quot;The Best Of Dana Carvey&quot; will keep you laughing no matter how many times you watch it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well Isn't That Special? </p>
+
+
+<h2> review.date </h2>
+  07-11-2004  
+<h2> review.text </h2>
+
+ <p> Dana Carvey may have left "Saturday Night live" in 1993, but his legacy still lives on. Along with Phil Hartman, he was the most versatile actor of the show's 1986 - 94 seasons, creating a variety of classic impressions and zany characters. This dvd shows just how amazing he was in those seven years (plus the years he came back to host).Unlike Phil Hartman's dvd, this disc I have no complaints about. If you like good, old - fashioned American comedy, then look no further here. On this dvd, Carvey's most popular comic creatiosn are here. Whether you enjoy the sarcastic Church Lady, the conceded bodybuilder Hanz or the lovable Garth from "Wayne's World", it's hard not to enjoy what's here. Also, there's a series of his amazing impressiosn. In additon to two hilarious George Bush sequences, most of Carvey's repetoire is hre: Ross Perot, Tom Brokaw (the funniest sketch on the whole dvd), Paul McCartney, Johnny Carson (in the infamous "Carsenio"), John McLaughin, George "Look At My Butt, Dennis" Michael, Robin Leach, Prince Charles and a host of others. Even "Massive Hoeadwound Harry" is funny once gget past being grossed out at Carvey's bleeding head and the dog chewing on it.This is a great dvd honoring one of the greaetst contemporary American geniuses. Highly recommended for "SNL" fans and anybody who enjoys laughing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well, Isn't This Special </p>
+
+
+<h2> review.date </h2>
+  03-15-2005  
+<h2> review.text </h2>
+
+ <p> Dana Carvey left "Saturday Night Live" 12 years ago, but he left behind a hilarious body of work only matched by Phil Hartman and Will Ferrell. He was one of the show's most vesatile performers of the classic 1986-93 years, creating a wide range of classic characters and dead on impressions. "The Best Of Dana Carvey" features all of his best moments from his seven year career, plus several from his eight guest appearances.All of Dana's best charcters are here, including the Church Lady, Hans of Hans and Franz, Garth Algar, Grumpy Old Man, Ross Perot and of course, President George H.W. Bush. All of the sketches featured here are hilarious (though I would have preferred a full "Church Chat" bit and the 1988 and 1992 debates sketch with Bush). Also there's a great montage of all his most memorable impressions including George Michael, James Stewart, Paul McCartney and John Travolta and the infamous Il Cantore sketch. The funniest sketch is the Tom Brokaw segment where he's going over various ways of announcing Gerald Ford's deah. As the sketch progresses, each potential from of death gets more absurd, from commmiting suicide to getting eaten by wolves.If there's any complaints I have, is that are no Ching Chang or "Nightline" sketches (Dana Carvey's impression of Ted Koppell was so hilarious). But still, this is a hilarious look at Carvey's amazing "SNL" career. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Back In My Day, Dana Carvey Was On "SNL", And We Liked It! </p>
+
+
+<h2> review.date </h2>
+  05-31-2004  
+<h2> review.text </h2>
+
+ <p> When Dana Carvey left &quot;Saturday Night Live&quot; in 1993, he left behind a legacy of zany characters and hilarious (and dead - on)impressions. Since his departure, he has hosted 3 more times (in 1994, 1996 and 2000) and has made numerous guest appearances. This dvd captures the genius that Carvey was (and still is).The opening sketch is a lively parody of Ross Perot's press conferences. When watching this sketch, it's hard to pinpoint whether you're watching Carvey or Perot of himself since he does him so exact. I loved him in &quot;The McLaughlin Group&quot;, in which he portrays tv debate group moderator John McLaughlin as a egotistical maniac, further proof of how good &quot;Saturday Night Live&quot; at political satire. I loved the &quot;Church Chat&quot; montage, thogh I wish they had one complete sketch. The montage of his impressions is hilarious. It's amazing how well he did them, especially Robin Leach, James Stewart, George Michael and Paul McCartney, to name just a few. The Tom Brokaw sketch is better (I'm sure Crvey does him better than Chris Parnell). The Bush stuff is funny, but I wish they would ahve included the 1988 debate with the puRepublican nomiees for President, featuring one of Carvye's earliest Bush impressions.There are many other great sketches, too many to name. I think this is a highly hilarious romp through over 10 years of classic humor. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Portrait Of A Comedic Genius </p>
+
+
+<h2> review.date </h2>
+  12-13-2000  
+<h2> review.text </h2>
+
+ <p> What a show indeed. An awesome collection of Carvey at his best. Is there a better impressionist in world? I don't think so. He's brilliant as Perot, Bush, and Johnny Carson as well as some of his own created characters. A must SNL fans and a definite for any Carvey fan. Side splitting laughter that is as good as anything Eddie Murphy did and better than Chris Farley's (although I loved his also) stuff. Buy this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a show. </p>
+
+
+<h2> review.date </h2>
+  06-25-2000  
+<h2> review.text </h2>
+
+ <p> Dana Carvey stopped appearing as a member of the cast of Saturday Night Live in 1992, but he left behind an amazing legacy of hilarious fictional characters, while also showing himself to be one of the leading  impressionists in contemporary American comedy. During a period when SNL  was largely a hit-or-miss affair (as compared with its classic first five  years), Carvey could always be counted on to elicit guffaws when he  appeared as Garth of &quot;Wayne's World,&quot; The Church Lady, The Grumpy  Old Man, Hans the bodybuilder, or even the grossout-inducing &quot;Massive  Headwound Harry.&quot; But it is perhaps as an impressionist of political  and show business personalities that Carvey showed his greatest talent.  He  became nationally famous for his George Bush impersonation, but he  repertoire included so many others: Paul McCartney, Ross Perot, Tom Brokaw,  George Michael, Keith Richard, Jimmy Stewart, Johnny Carson, Strom  Thurmond, Bob Dylan, and on and on--his ability to capture every nuance of  a character was nothing short of astounding.This video presents an  excellent cross-section of Carvey's work, including some hilarious Church  Lady sequences, a rapid-fire series of impersonations, and a terrific  combination impression of Johnny Carson and Arsenio Hall called  &quot;Carsenio.&quot;  Anyone who enjoys laughing will find this video well  worth the money.It's surprising to me that in recent years Dana Carvey  has not found a lot of new venues for his great talent. While his onetime  partner on &quot;Wayne's World&quot; Mike Myers has achieved superstar  status as &quot;Austin Powers,&quot; Carvey has more or less receded into  the show business background. Here's hoping that Dana finds his winning  show, film, or character soon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An excellent sampling of one of the best SNL personalities </p>
+
+
+<h2> review.date </h2>
+  10-22-2001  
+<h2> review.text </h2>
+
+ <p> I am a big fan of SNL and have really enjoyed Dana's work in the past. I hesitated before I bought this dvd not sure if it would be another effort to cash in on a poorly put together dvd... However I was impressed with what I saw. The DVD contained some of my favourite of Dana's moments including some Waynes world skits, Church Chat, his hillarious impression of Dennis Miller, George Bush and my personal favourite the skit where he plays the psychic contestant on a gameshow... It made me sad watching it all knowing that Dana wasn't doing as much as he should be now! The best part though was in the special feature not listed here &quot;Dana's original uncut audition for SNL&quot; this rare never before seen piece is worth the price of admission alone! Check it out for fans of Saturday Night Live or just people who appreciate fine comedians. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dana Carvey... Comic Genius </p>
+
+
+<h2> review.date </h2>
+  11-03-2008  
+<h2> review.text </h2>
+
+ <p> Many of the skits just dragged on for much too long. I wish I had read these reviews BEFORE I purchased it.....Disappointed </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Not that Great" </p>
+
+
+<h2> review.date </h2>
+  03-16-2000  
+<h2> review.text </h2>
+
+ <p> The Best of Dana Carvey shows one of Saturday Night Live'sliving legends. His incredible talent for celebrity impersonationssuch as Bob Dylan, Jimmy Stewart, Ross Perot, George Bush, John McLaughlin, George Michael, Dustin Hoffman, and many others. From his offbeat characters as Massive Headwound Harry, Hans of Hans and Franz, and most famously, Church Lady, Carvey is definitely one of the smartest comedians working today. This showcases some of his best work. I'm glad he's gonna be in Little Nicky and the deal he made with Disney. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A pure comedic genius at work </p>
+
+
+<h2> review.date </h2>
+  08-12-2000  
+<h2> review.text </h2>
+
+ <p> Dana Carvey is simply brilliant. To watch him is to witness magic. His unique talent helped largely to bring Saturday Night Live out of its slump,  and has made countless people take notice of the show. He is my greatest  influence and I can't say anything more than I just adore him. He is, as  Dave Letterman once put it, a national treasure. Probably even worldwide. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I can only give it five? </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

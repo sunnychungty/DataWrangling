@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000E0I5AI <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-27-2008  
+<h2> review.text </h2>
+
+ <p> Nice sharp video much better then the Hi 8 that I had and much better then the hard drive models. Nice cam if you can find it but dont pay over 400 for it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DCR-HC96 </p>
+
+
+<h2> review.date </h2>
+  07-06-2007  
+<h2> review.text </h2>
+
+ <p> I got this camcorder for a week. Overall it is a nice camera.The goods:1. The color is much more accurate then those use sony lens(Or non T* carl zeiss lens).2. It is very easy to use as a point-and-shoot.3. Overall the connections to computer is OK for both USB and 1394. For USB connection, you'll need to go through the menu and make a selection before it can start. I had some difficulties in getting the 1394 cable working at beginning.4. Auto exposure can get reasonable result in most conditions.5. Frame lines are very useful during filming.6. Digital zoom result is very usable. Thanks to the 3.0M CCD sensor.The cons:1. Poorer room light performance than TRV608.2. Focus is slower.3. Not enough dedicated button for functions. Like exposure, etc.4. No focus ring.5. Bundle software is useless. It only allows you to create VCD discs.6. 10x zoom is OK to me but might be a problem to other people.7. Not so good still pictures. Very noise to me. But it is OK to get some snap shots. You'll still need to carry a digi camera for serious pictures.Overall I like it, just can't give it a 5 star. Actually I like the high end models of Digital8 camcorders. The bad things my old camera died too late for me to catch a nice digital8 camcorder. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good camcorder but poor bundle software/poor manual control </p>
+
+
+<h2> review.date </h2>
+  12-04-2007  
+<h2> review.text </h2>
+
+ <p> Spent weeks researching which camcorder to get and decided on this one. Why? The large sensor (1/3"), the MiniDV tape format, the hot shoe for either external mic or video light...and the almost universal positive reviews. Do not regret getting it at all, but here are the things that I found lacking...most solved by some ingenuity and throwing more money at Project Camcorder.After I got it, read reviews for the few Sony mics that would work with the hot shoe, and nobody seemed impressed. Oops. However, I bought a mic jack adaptor that fits onto the hot shoe, so I can connect an external mic of my choice. So got a used shotgun and found cabled workaround to use my Olympus stereo digital voice recorder as an external mic. Realized with iMovie that I could even record the audio track separately on the voice recorder (say for a seminar speaker) and replace the soundtrack in iMovie. That would free the hot shoe for a video lamp. Anyway, so far I've worked around all shortcomings, even to using a portable dvd player as a large video monitor.I hope to keep working with the camera, but so far am so satisfied with the picture quality under all circumstances that I have not gone beyond the Easy Mode. I do not do large long programs, but short YouTube programs, and mostly shoot short video segments that are edited together. The still feature is nice also, to get sharper still images to work into the program. Would buy the camcorder again, and might buy another one day to for "two-camera" work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An almost perfect choice </p>
+
+
+<h2> review.date </h2>
+  06-10-2007  
+<h2> review.text </h2>
+
+ <p> The camera may be fine, it seems to be. But I interact with the camera through the software, and that's pathetic. All I want to do is transfer video to the computer for editing and creating DVDs. I've done this simply and elegantly for a few years with Hi8 tape and a digital converter (see my review of the ADS converter...I don't have many reviews up). But the software with this thing won't allow more than 10-minute segments of AVI's.  Sony Customer Support finally sent me to the software manufacturer, who said "that's normal".  I honestly don't understand who would want, say, a 45-minute school play chopped up into 10-minute segments.I guess I'll use Movie Maker.  But this is more trouble than using my 10-year-old analog camera was to make DVDs.  For the price, I did expect full functionality, not Mickey-Mouse software that even the company can't support.  I was warned about Sonys, now I know why.Oh yeah...they also said it supports "firewire" connection, but failed to say it was only a 4-pin, not 6-pin. Seems that the Sony computers have 4-pin, many of the standard motherboards use 6-pin.  I learned a computer lesson.[EDIT]:  Some folks have commented that my 10-minute issue may have to do with how my harddrive is formatted. Fair enough - - and thank you for the info - - it's more than I got after 2+ hours on the phone with Sony and the software manufacturer, both of whom eventually told me it was a limit of the software.  While I know it's not technically the "fault" of the camcorder, I had expected to receive a whole "camcorder experience", with functional software, for my several hundreds of dollars. Perhaps I was expecting too much, and was being naive when believing the description that was written. I have since purchased 3rd party video software and a (2nd) cable so I could use the camcorder, and it seems to work fine (which makes me wonder about the harddrive format thing).  I would add 1 star mainly because I've cooled down since then, but to me "camcorder" includes more than the piece of metal and plastic - - it's the "out of box" experience, the ability to actually use the object in a reasonable amount of time and in a reasonably understandable way - - and Sony let me down.Frankly....all of the camcorders technically "work" these days, at least at this price point. They all film videos with essentially indistinguishable quality.  It doesn't really matter where what buttons are where...you'll adapt and get used to the physical camera interface.  What matters is how easily one can use it to make videos that can be watched on something other than the 2" screen of the camera.  In my case, I had to spend another several hours and another $100 before I could use this camcorder as effectively as I had used a 10-year old analog camera and digital converter before.  And that's after having shelled out about $600.  I therefore was, and remain, dissapointed in my digital upgrade.  And I don't think that was supposed to be the case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I would give it one more star. </p>
+
+
+<h2> review.date </h2>
+  04-20-2006  
+<h2> review.text </h2>
+
+ <p> Francesco has done a great take on maximizing use of the DCR-HC96 and on its good features. I am a first-time camcorder buyer and want to provide a non-geeky take on this purchase. (I'm a geek in other parts of my life, but I'm missing the camera gene--I just don't care: I want the pictures. Please.)First: I nearly had a stomachache over this purchase (DVD or DV? Sony or Panasonic? Etc.), but now that I've had the camcorder for a couple of weeks, I love it. It feels nice, it's fine for small hands, and the buttons are all different enough so they're hard to confuse. The menu on the LCD is very easy to toggle through, and the lightest of touches will work. The manual was clear, though I understood what to do almost without reading it.Even more to the point, in Easy mode, this camcorder does great, at least for my needs. Yes, you can get more out of the camera if you venture into the menu. But I took some short clips around the house, at night and during the day, and then Ifilmed a church service, with great results--all on Easy mode. The colors were pop-out bright and clear, the pictures had lots of definition, and there were no odd tones. Yes, it's true: this camera performs well in low light, and by "low light" camcorder manufacturers mean anywhere indoors under normal indoor lighting conditions. It even performs ok when the conditions are worse than that, and I have the "cute cat moment" tapes to prove it.You may wonder why I didn't go for the DVD camcorder. First, I wanted more editorial control over the files than the current generation of DVD camcorders allows. I've been very satisfied with editing files with the OEM version of Nero that came with my Memorex DVD burner (again, very easy to use). Second, I bought this camcorder primarily for indoor taping of church services. DV lasts an hour or so; DVD, 20 minutes, plus you have to finalize the DVD in the camera before changing it out. There's nothing difficult about popping in a DV tape, and the transfer proved (almost) easy, though see my discussion of Firewire, below. Nevertheless, I can see where the DVD counterpart to the DCR-HC96 would have its appeal. In three years we'll be using something different, anyway!As for the case, after contemplating several cases that have STEAL ME I'M A CAMCORDER written all over them, and also seem huge, I'm going to do what I did for my laptop, and sew a custom case made from quilted fabric lined with foam, and then it's going into a backpack or a purse, depending on the trip. This thing is SMALL; I took it to church in a large ziplock bag tucked in my purse--not recommended for general transport, but that gives you the idea! You might not want to buy a case until you've seen the camcorder, in any event.I have not purchased an external microphone, and probably won't for a while. Indoors, with the camera a few feet from a family member, it wasn't needed. The voices were remarkably clear, and I did not hear the camcorder's own sound. At church, the voices were clear (I was taping three pews back; note that everyone in the pulpit was miked). Is it professional-quality sound? Of course not, but it's decent enough for most of us (the Easy button crowd). I may move up to a microphone, but I don't feel I have to, anyway.The docking station is a dumb idea, because if you're using an external tripod you've just lost the benefit of a quick-release shoe, which you have to remove to dock the camera. Sony, what were you thinking? The camcorder gains almost nothing from putting those ports on a second dock. Other than that, the dock doesn't bother me. You don't need the dock to charge the camcorder (but thank you, Francesco, for anticipating the "which battery" question I was just researching).On the other hand, the automatic lens cap is wonderful. Sony, you understand me!The Sony software, included, does a fine job transferring the files to my computer. It couldn't be easier.I bought a tripod, and yes, that's a good purchase. Amazon has a number of tripods under $20. You don't need the most expensive as long as you aren't going to wander away from the tripod with the camera on it. I compared filming I did with and without the tripod, and even with the camcorder braced against my face (using the viewfinder), there's a tiny bit of a "Blair Witch Project" wiggly feel to the non-tripod films. Still, if Baby gets up and starts taking her first steps, don't feel you need to set up tripod, reflector, external mike, etc.--just pick up this camcorder and let 'er roll! You are almost certain to be very pleased with the results (and again, I found closing the LCD and using the viewfinder resulted in much less wiggle).The first purchases you should make (aside from several DV tapes) are a Firewire card and cable. Save yourself frustration: do not believe the Sony manual that you can successfully burn DVDs from film transferred to your computer with USB. I spent many weepy hours learning this the hard way. See camcorderinfo.com for many instances of people learning this the hard way. This isn't unique to Sony, incidentally. I am using a high-powered laptop for this work (connected to an external hard drive), and I bought an external Firewire card for $30 and a Firewire cable for $15.In any event, for the price (which on Amazon keeps dropping--and I bought from Amazon because I've been shopping here a long time and felt nervous about using a new e-tailer for what is for us a big purchase), this is a great camcorder, particularly if you just want to point and shoot in indoor settings. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Great First Camcorder </p>
+
+
+<h2> review.date </h2>
+  04-08-2006  
+<h2> review.text </h2>
+
+ <p> I have been doing research for months and really wanted to buy a Panasonic PV-GS400. Its video quality, four-way ring, 3.5" LCD, 16:9 cinema mode, and overall prosumer features made it a camcorder legend (read review on [...] I missed the boat, though, since it has been replaced by the PV-GS500, which is not the same camcorder. So I opted for this Sony. This camcorder takes excellent video, make no mistake; just check the reviews on CNET and especially Camcorderinfo for more technical information on this. After all my research, I feel that this is the best overall family camcorder because it is very user-friendly for all the technophobes out there, but it also allows some manual control for the user that wants to explore more advanced (read: manual) features. Word of caution: these more advanced features are accessed via LCD menu, and do not have one-push buttons or rings like the PV-GS400 or other higher end prosumer cameras, but rearranging the LCD menu and putting controls like spot focus, spot meter, focus, exposure, and white balance in the first screen of the p-menu makes this little (literally) camera far more usable. The review on camcorderinfo made it sound like rearranging the LCD menu was a job for the gods of technology. It is not. I read the manual in a half hour, and after another half hour all the menu items had been sorted based on my preferences: it's just a matter of pressing p-menu on the LCD, scrolling all the way down, selecting the p-menu options, pressing the Sort button, and then moving the buttons around according to your preference. Now, it is really important to move all the buttons I mentioned above (spot focus and meter, focus, exposure, and especially white balance) to the first screen if you want to keep your sanity. The reason is simple: you will be using some of these features a lot. White balance, for example, offers four options: auto, outdoor, indoor, and one-push. If you want faithful reproduction of color, take my advice: use one-push. I noticed that the indoor option takes an orangey video, but if you get a white/grey card (you should, it's about $18 for a Kodak one here on Amazon) or use any white surface (the back of a notebook for example) under the same light as your subject, frame it with your LCD and press one-push under the white balance menu option, your video will have a perfect color reproduction. Do you see why you want to have white balance in the first p-menu screen?Other things you should do: enable 16:9 and also 30p (if you have an HD TV or watch your movies on a computer screen) so that you do not have the flickering of 60i interlaced mode; enable the zebra pattern feature (at 100) to see what parts of your frame are over-exposed; enable 16bit audio (default is 12bit) for higher audio quality; enable guideframe (the criss-cross-like option to help you shot video according to the rule of thirds. If you do not know what the rule of thirds is, google it. It is a very important composition guideline unless you are Steven Spielberg. Then again, if you were Steven Spielberg, you would not be reading reviews on this kind of camera, would you?). Once all this is done, there are a few other things you need to do if you want to convince your friends to watch your home videos and actually enjoy them:- Get a microphone; the on-camera mic is bad. Get the HCM-HST1 with its funny windscreen (you will see and laugh) or the new $199 bluetooth lavalier ECM-HW1 if you have the dough; with the former you have to be close to your subject to get good sound; with the latter, your subject can be up to 30 meters (I think, check the specs) away and still get very good sound. An external mic is, along with extra battery and tripod, a must. You will thank me later;- Get the NP-FP71 battery. It lasts a couple of hours with the LCD open; this way you will not run out of juice while your kid is giving the performance of a lifetime; I was considering the FP90 battery for extra juice, but it is very, very big. Not worth it unless you are planning on shooting the next Sundance indie masterpiece;- Don't forget the Sony BCTRP battery charger since you are at it;-  Get the Sony ND filter package (and maybe the Polarizing package if shooot at water, metals, windows...) to shoot outside;- Get a firewire cable to connect your camcorder to your Mac or PC; it is better than the USB cable that comes with the camera;- Get a tripod. People get sea-sick when watching shaky, hand-held home videos. Disable the camcorder's Steadyshot feature when you use a tripod. It is not necessary and reduces overall resolution. Remember to re-enable it if you are forced to shoot hand-held. The Sony $127 VCT870RM is an excellent choice for this camcorder. It is light, yet sturdy and with a pro look and feel. It offers smooth (very important) panning and tilting, and you can control your camcorder directly from the tripod's handle (record/stop, zoom, photo), which is very, very handy; it means you can control your camera without taking your hands off the tripod handle or your eyes off the LCD screen; you'll feel like a pro, which is priceless, especially for guys :) We are grown-up kids after all;- Monitor your audio. Unfortunately this camcorder does not have a headphone out connector, but you can use the AV out and some adapters to connect your headphones. Audio is very, very important, arguably more important than video quality, so monitor it for your important videos (weddings etc...);- Get the Sony DVC premium BLUE (not yellow) tape ($3 each, buy them in bulk) and stick with it until your camcorder dies. It is considered bad to switch tape brands (even though it is subject to hot debates these days), but I have read that Sony uses wet lubricants whereas other manufacturers (JVC, Panasonic, Fuji) use dry lubricants. If you use a Sony camcorder, stick with a Sony tape. Do not get the Sony DVC excellence or HD tapes. They are respectively $10 and $15 each, not worth it; get the premium tape and send me the difference :);TIPS to shoot great home videos:- Use a tripod and external mic;- Keep your panning (horizontal movement of the camcorder) and tilting (vertical movement) to a bare minimum while shooting. If you must pan, do it in one direction and then stop for 30 seconds or so). Do not pan back;- Keep your zooming to a bare minimum while shooting. Zoom in or out before the shot, then take your shot;- Consider yourself as a photographer: your camcorder stays still, only your subjects move within the frame; take hints from Hollywood movies; you'll find yourself looking at Hollywood movies with a different (more critical) eye, once you start shooting yourself, which is great;- Use a reflector (e.g. JTL 36" white/silver round reflector at about $30 on amazon) to reflect light coming from one direction so that your subject is lit evenly;- Use the 30-second rule: shoot at least 30 seconds of your subject even if your subject goes out of frame. This way you will have lots of room for editing;- Shoot the first minute of a tape on something non-important; when DV tapes screw up, they usually do so in the beginning;- Shoot your subject from different angles- Use wide-angle for introduction of scene and Telephoto for emotions. Here is where you may want to use your manual focus option to blur the background when taking a nice portrait shot of your kids (assuming they are not running all over the house J);- Turn your video into a story; don't shoot randomly; shoot with purpose and edit brutally so that the final video is fun and interesting;- Do not use the camera fader and other digital effects; add them in iMovie or whatever editing program you use;- Google great video techniques online. There is plenty of advice. Check out [...] for some great tipsWhy this camcorder? Great for the family, light and easy to use, takes great, sharp videos even in automatic mode, relatively cheap at $600 or $700, better low-light performance than a Panasonic PV-GS500 at a cheaper price (even though the GS500 is also a good one. It does not offer zebra pattern or headphone out, though). Where to buy it? You can buy it here on Amazon like I did. You might be able to find online stores like Click for Digital that offer it for less, but Caveat Emptor: you will have to deal with pushy Brooklyn salesmen that want to sell you expensive extras because that is where they make their money, and you might wait and wait before you get your camcorder (even though they say they have it in stock). I wanted to buy this toy to shoot my daughter's D-day :) and almost missed because of those guys. I promptly cancelled my order and ordered it from Amazon. No pushy people, and I got the camera the next day. Besides, if you have an Amazon card, that is a $25 gift certificate right there, which brings the price difference down to $60. In conclusion, we are in a transition from DV to HDV. HDV camcorders are expensive, do not offer 24p film-like mode (unless you spend $6,000 for the new Panasonic HDV camcorder), and HDV is slower to edit and impossible to watch on current DVD players (even though you can keep the tapes and rip HD DVDs once they become the standard). So, I bought this HC96 because I feel it is the best transition camcorder. After all, my daughter is not going to wait another couple of years in mommy's tummy :) She needs a camcorder now! Hope this review will help. I've got to go back to my Birth Book now. Ciao. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Arguably the best choice in early 2006 </p>
+
+
+<h2> review.date </h2>
+  11-21-2007  
+<h2> review.text </h2>
+
+ <p> If you get a working one, this is a really nice camcorder. it is remarkably small, quiet, good ergonomics and is loaded with features. A relatively large 1/3" image sensor promises solid low-light performance, and this is one of the rare models that accepts analog input. It also comes with a hot shoe for a variety of accessories. If you read the reviews and other customer comments, it is clear that a lot of people are very happy with their DCR-HC96. So, why the one star review? Simply put, this is a risky purchase.I was never able to get the Firewire/i.LINK connectivity to work with this camcorder. I tried different firewire cards, different cables, and tried it on an older Windows XP system, a new Vista system, and two different Mac OSX systems. I could connect via USB, but never through firewire, which is the only way to transfer DV files to a computer. From reading on the camcorder info website's forums, there's a number of other people who have had the same problem. Again, we're a minority, but to date, I've seen no sign that there's a fix to this problem. To make matters worse, the Sony support proved to be of little value, offering only simplistic troubleshooting advice (try a different port, turn off the PC, restart the camera). And, they only offer repair service, not replacement service, even though this product is only a few days old. Sony's solution was to have me send it in for repair and do without my new purchase for however long it takes them to fix it. For me, it just wasn't worth the effort, especially during the holidays. They had their chance to keep a customer, but decided not to. And, Sony is very invasive about gathering personal information. Before I could talk to someone or email someone, I had to provide my mailing address, email address and phone number. That is a lot of my personal data sitting in some Sony CRM database somewhere, and I'm not even a customer any more.So, weigh these risks when deciding on Sony. While they can make some nice hardware, their support policies and reliability issues could leave you out in the cold.That is why I'm returning mine for a different manufacturer, probably the  Panasonic.I thought I'd post an update, just in case it helps. First, I purchased a Panasonic camcorder, and it connected to my PC with no problems.Also, I should point out that Amazon was great to deal with on this order. Not only did they ship the product quickly, but Amazon also did a great job handling the return. No one likes to get a defective product, but at least one company (Amazon) knows how to stand behind what they sell. If only Sony supported their customers to the same degree Amazon does. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Could have been a contender, but quality and support woes hold it back </p>
+
+
+<h2> review.date </h2>
+  02-21-2006  
+<h2> review.text </h2>
+
+ <p> I've used it for a week, got it to shoot a wedding so indoor light and audio performance are important to me.- low light color accuracy is really good.  Incandescent lights don't make everything really yellow.- low light sensitivity is good.  Much better than my previous sony miniDV, seems to increase gain at the expense of a little more grain.- audio is sensitive but picks up tape hum.  I can record someone speaking from 20 feet away but tape hums quite a bit.  The buzzing sound can get annoying.  I'm considering getting a mic mounted on top.  Sometimes the hum goes away so this may just be a bad model.- body feels plasticky.  Not like the Canon powershot cameras that I have, with sturdy metal bodies.- touch screen interface can be learned after reading the manual.  It was not intuitive but now that I've read the manual and configured it the way I like it, I find it's ok.- progressive 30p mode is great!  My videos are meant primarily for computer display so I don't like interlacing.  Shooting at true 30p is just wonderful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> got the camcorder!  here are the pro's and con's </p>
+
+
+<h2> review.date </h2>
+  07-13-2009  
+<h2> review.text </h2>
+
+ <p> This camera is using a full sized 1/3 CCD and that makes a different compared to others that use a smaller one.  I have used this camera for some DvD's and it looks great.  It does lack in low light being only a single CCD.  Now if it was a 3 CCD at that size it would own.  The touch screen is easy to learn and the manual is straight forward so that any level of user can understand.  keep the heads clean and the camera clean it will last a good life.  invest in filters for it and a stereo mic like the Sony ECMHST1 and that's what I use.  Over 500 lines of resolution.  The only draw back is that it needs the handycam station to transfer via firewire.  There are more pros and cons but I still use it from time to time when not shooting in HDV.  With the Sony remote control trip pod VCT-D680RM you can control the camera from the handle. I wish I had gotten two of them when I did.  Amazon was the cheapest price anywhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This has been the best single CCD camera I have seen </p>
+
+
+<h2> review.date </h2>
+  02-21-2012  
+<h2> review.text </h2>
+
+ <p> This is a nice video camcorder.  I purchased it in late Oct 2007.  I have not used it a huge amount, but when I did it worked very well.  After not using it for a year I went to use it and found the cassette opened up fine, then it closed.  Went to put in a new cassette a day later and it would not work any longer.  I took it to an authorized Sony repair/service company and was charged $149 to 'fix' the cassette.  Apparently a circuit board that controls the cassette door decided to stop working and had to be replaced. (or so I was told)  For the limited use, I would not expect this to happen especially with the excellent care I take of my photo equipment.Now I would truly like a HD camcorder, but with the money spent on this one it will have to do until I win the lottery! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to use for normal video </p>
+
+
+<h2> review.date </h2>
+  06-13-2006  
+<h2> review.text </h2>
+
+ <p> If you are considering either of the two cameras (both of which happen to be the top of the line SD consumer camcorders in their respective brands), the first place you would want to check for an accurate and detailed review is [...]. The review accurately declares Panasonic PV-GS500 as the winner. Nevertheless, I chose to perform some amateur testing on the two camcorders and here is a summary of the results of my tests:1. Video performance: GS500 has a three 1/4.7" CCDs, while HC-96 has one 1/3" CCD. The three CCD configuration produces excellent and faithful reproduction of colors in bright light condition. I tested both the cameras outdoors in auto mode. HC96, in an attempt, to produce richer colors, would sometimes produce inaccurate colors, while GS500 consistently produced accurate colors. If you are not a professional and cannot keep your hand steady for a long time, you will notice that HC96 will introduce quite a bit of noise. This is primarily due to two reasons: One is that HC96 uses Electronic Image Stabilization (EIS) which is quite inferior as compared to the Optical Image Stabilization (OIS) used by GS500. The other reason is that HC96 sometimes struggles to find the right focus. This occurs quite randomly (and more prominently indoors). I viewed the results by hooking the two cameras directly to my 32" LCD TV. The Panasonic produced superior results than the Sony, though the Sony video was good too.2. Low light (indoor) performance: Here HC96 (in `easy' mode) performs better than GS500 (in `auto' mode), though HC96 again was not accurate in reproducing colors. But wait, don't jump to conclusion so quickly. Simply select the `low light' scene mode for the GS500 and it outshines the HC96. (Surprisingly, HC96 produces a worse image when white balance was set to `indoor' mode than `easy' mode). During day time too, if you are shooting indoors without light, you will find that the `low light' mode of GS500 does wonders. The more advanced users might be inclined to tweak the gain (IRIS) and white balance. But my elementary tests found that simply selecting `low light' mode and letting the camera handle the rest gave excellent performance. Both the cameras have modes for shooting in extremely poor light - HC96 provides `nightshot' while GS500 provides `magicpix' mode. In a nutshell, although 1/3" CCD of HC96 is technically supposed to give it an advantage, but here too, GS500 with its easy to set, `low light' scene mode beats HC96.3. Ease of use: I found both the cameras quite easy to use (Disclaimer: I am generally comfortable with electronic items). Panasonic has a convenient joystick while Sony has touch screen LCD. Professionals generally despise the touch screen LCD, but it is not as bad as it may be made to sound. Ergonomically, I found the GS500 more comfortable to hold (though it is heavier) - it has a solid feel and a steady zoom button. The zoom button and the overall construction of HC96 seemed a bit flimsy - not what you would expect in top of the line camera. The most annoying thing about HC96 was its docking station (or as Sony calls it the `handycam' station). This is made of cheap plastic - easy to break and lose. Also, if you hook up the camera to the handycam station, you cannot use the tripod. The handycam station is the biggest downgrade introduced in HC96 over its predecessor HC90.4. External mic: GS500 has an input for an external mic while HC96 does not. This alone is a big enough reason for most buyers to not consider HC96 (infact none of the consumer camcorders of Sony have an external mic input). Your only option would be to buy an expensive Sony hot shoe mic if you need better sound. Now you may say that for most of your recording, you would be fine with the built-in mic of the camcorder - true - but picture this scenario... you are sight seeing London in the hop-on, hop-off bus and are listening to the audio narration of the places of interests using the headphones provided. Now, instead of the headphones, if you simply provide the audio input to your camcorder and take a video, you get an awesome video with professional and accurate narration!In conclusion - Panasonic PV-GS500 wins hands down over Sony DCR-HC96. If you shop around, you will notice that the lowest price tag on the two differ by only $[...] or so (Sony being cheaper). But over time, your Sony may need much expensive accessories (including extra battery and charger) than the Panasonic and the total tag may run higher. As far as I am concerned, I am keeping the GS500 and returning the HC96. The GS500 produces excellent video for my 32" HD ready LCD TV and is a good solution until HD technology matures in camcorders. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Go for Panasonic PV-GS500 over Sony DCR-HC96 </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

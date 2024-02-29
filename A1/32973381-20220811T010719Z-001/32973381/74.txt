@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B003UTBDLS <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-18-2013  
+<h2> review.text </h2>
+
+ <p> I was skeptical, but needed the battery. Amazon has amazing inventory and the price was awesome. Dropped it in my remote, after removing the bulging one (omg!) and it works perfectly. Definately buy it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect </p>
+
+
+<h2> review.date </h2>
+  04-28-2014  
+<h2> review.text </h2>
+
+ <p> For the price its worth it. It was delivered on time and was optimally packed. Would recommend it all a a good buy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Helped me revive my remote. </p>
+
+
+<h2> review.date </h2>
+  05-17-2014  
+<h2> review.text </h2>
+
+ <p> Took a while to arrive, nearly 2 weeks I think and I was a bit worried based on other reviews it would not charge but got it put it in the remote and it worked and charged perfectly.  Remote can not last easily 3 days out of the charger again.  There is a big difference in price of these as they are in demand, no need to get the expensive ones this does the job! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does the job </p>
+
+
+<h2> review.date </h2>
+  04-08-2014  
+<h2> review.text </h2>
+
+ <p> this battery was dead on arrival it was in worse shape than the one it now resides  full time in the charger </p>
+
+
+<h2> review.summary </h2>
+
+ <p> bumer not battery </p>
+
+
+<h2> review.date </h2>
+  05-04-2011  
+<h2> review.text </h2>
+
+ <p> The battery works like the factory one. I'm not a complete couch potato, but I do get plenty of use out of my remote (Logitech Harmony 880). I'd say I may average 30 minutes of usage per day on a heavy-usage day. I like to channel surf. By usage, I am referring to the time when the remote is outputting an IR signal. At that rate the battery will last 5 or 6 days before recharge is needed. I you put it on a charger daily, then that's not an issue. All in all I recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works like the name brand </p>
+
+
+<h2> review.date </h2>
+  12-06-2013  
+<h2> review.text </h2>
+
+ <p> Exact replacement and does not appear to be swelling. No issue with installing but getting the old Logitech battery out without breaking the remote was a pain! Great price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No Swelling. Listen up Logitech! </p>
+
+
+<h2> review.date </h2>
+  09-12-2011  
+<h2> review.text </h2>
+
+ <p> I ordered this battery to replace the battery in my Harmony One remote.  The battery fit without issue (it is a bit of a challenge getting the old one out) and works great.  If you are looking for a replacement Battery this is a great choice. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked great in Harmony One </p>
+
+
+<h2> review.date </h2>
+  04-12-2012  
+<h2> review.text </h2>
+
+ <p> The old Harmony battery wouldn't hold a charge for longer than four hours. This one now holds a charge for a week or more at a time and doesn't constantly drain like the old battery. Was shipped quickly and I'm very happy with the vendor and the product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works perfectly </p>
+
+
+<h2> review.date </h2>
+  01-18-2012  
+<h2> review.text </h2>
+
+ <p> My Harmony 900 just went dark almost precisely 2 years after purchase.  It took considerable time to learn that the reason I could not extract the battery was because it swollen.  I then opened my other remote (Harmony 1) to see if its battery could be a substitute and found that it too was swollen (18 months of use).  No idea when these batteries became defective but clearly out of warranty now - both batteries have blue labels on them.  I stopped by BestBuy to purchase replacements only to have a clerk tell me that the batteries were half the cost of a new remote implying that I would just be better off with a new remote - needless to say, they didn't carry the replacement batteries.  The batteries I found here on Amazon are about 5% of the price of a new remote and work perfectly in both remotes. Given what I originally paid for these remotes I was not happy to learn that they both suffered the same plight without some kind of notice from Logitech. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Swollen Battery in Logitech Remotes </p>
+
+
+<h2> review.date </h2>
+  10-12-2011  
+<h2> review.text </h2>
+
+ <p> is only staying 3 bar charged for 3 days max, old battery would last a week, so... time will tell just how long this battery will last before it bulges & is unusable. shipping was almost as much as the battery itself so will be looking elsewhere. unfortunately, they don't sell these in my rural area but i'll find one somewhere with free shipping, maybe not amazon but somewhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ok, so far </p>
+
+
+<h2> review.date </h2>
+  06-15-2014  
+<h2> review.text </h2>
+
+ <p> Bought this battery to replace an old one in a Logitech remote I've had for a while. It was the perfect replacement, and works just as it should. Very happy with it so far. Hopefully it will last just as long as the original one did. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great replacement battery for my remote </p>
+
+
+<h2> review.date </h2>
+  09-27-2012  
+<h2> review.text </h2>
+
+ <p> I want to first start off by saying I will update this after I have used it and make sure it works 100%. I'm a little diappointed in the description of this battery. It states there is a holographic logo stating the battery is official etc... there is no sticker. The specs is the same as the OEM 900 battery. I was able to get my ballooned battery out of the remote (OEM battery had blue label). Replaced with new battery. Battery was 100% charged so I had to use the remote to verify that it would charge. I was able to put it on the charger and see that it was charging properly with no errors. I would give this a 5 star rating if the description didnt make it sound like it was a direct replacement and OEM with the sticker. Other then that the battery seems to be working properly and seems to be charging in my harmony 900 just fine. A lot cheaper then logitech is trying to sell them for so overall if this lasts I'm happy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Logitech Harmony 900 replacement battery... </p>
+
+
+<h2> review.date </h2>
+  01-09-2013  
+<h2> review.text </h2>
+
+ <p> Sometimes hard to find, it is just as expected; it fits and it works. No problems so far. Original battery became swollen in remote as it failed and was difficult to remove. Suggest these be replaced soon as charged time starts to shorten! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's a battery! </p>
+
+
+<h2> review.date </h2>
+  09-08-2012  
+<h2> review.text </h2>
+
+ <p> How do you rate a battery? It works and seems to keep a charge so I guess it's great. Go buy one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's a battery.. </p>
+
+
+<h2> review.date </h2>
+  08-05-2013  
+<h2> review.text </h2>
+
+ <p> My Harmony One remote works again.  Whoop Whoop!  I'm disappointed that the original battery only lasted a year before it swollen up.  But this was a cheap fix.  I've only had it for a week- so if it craps out on me in the near future, I'll review my post. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works. </p>
+
+
+<h2> review.date </h2>
+  11-29-2013  
+<h2> review.text </h2>
+
+ <p> This unit works as advertised.  It did not resolve the issue I was having charging my Logitech Harmony 880, but I was able to resolve the problem by other means.The battery replacement itself was necessitated by the fact that the original battery had started to swell.  Once I noticed how much it was swollen, I decided it was best to replace it, even if it wasn't causing the charging problem that made me investigate it in the first place.This new battery has been working fine for months. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine in Logitech Harmony 880. </p>
+
+
+<h2> review.date </h2>
+  06-12-2014  
+<h2> review.text </h2>
+
+ <p> I used this battery to replace a swelling blue label Logitech battery in a Logitech Harmony 880 Remote.  Upon receipt it was barley charged.  It charged up well when installed in the remote and and has maintained it's charge and the remote is working well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Logitech Remote Replacement Battery 950mAh 3.6V </p>
+
+
+<h2> review.date </h2>
+  11-23-2011  
+<h2> review.text </h2>
+
+ <p> We had a Logitech 880 that was getting flakier and flakier.  It was becoming very unreliable.  We would charge it - the charge indicator would show a full charge but we'd get a message that the battery needed charging.  Seems like a new battery was in order.We got this battery, popped it in our remote - two hours on the charger and it is working like new.  Quick and inexpensive fix for an expensive remote. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solved our problems </p>
+
+
+<h2> review.date </h2>
+  04-15-2014  
+<h2> review.text </h2>
+
+ <p> The shipping was fast and the battery arrived in great condition.  I have used it now for 6 month's and it is performing well and holds a charge for over 2 days. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Battery </p>
+
+
+<h2> review.date </h2>
+  03-18-2012  
+<h2> review.text </h2>
+
+ <p> Had to tear my old remote apart to get the bloated stock battery out.  There are 2 additional screws beneath the battery warning sticker I didn't find till it was too late.  Overall, it works great again.  Saved me a bunch of money over buying a new remote!OK. So now the remote kind of works, but the battery won't hold a charge.  Have to find another battery.  Disappointed...  At least this new battery isn't all bloated like the original, so I can take it right out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fixed my Harmony One  for a couple weeks </p>
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> I've had this battery for a bit now and it is still going strong.  I bought to replace my swelling logitech battery in my Harmony 890.  It is holding a charge just as well as the original logitech battery. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect replacement Harmony 890 </p>
+
+
+<h2> review.date </h2>
+  02-02-2012  
+<h2> review.text </h2>
+
+ <p> It was so incredible how fast to get it.I had no problem at all with this product.Thanks,Roney </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Logitech Remote Replacement Battery </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

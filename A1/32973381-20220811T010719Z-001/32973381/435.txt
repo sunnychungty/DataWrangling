@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B0088ENQ92 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-24-2013  
+<h2> review.text </h2>
+
+ <p> A no fluff real opportunity to make money online and offline. This book covers everything you need to know to make a success out the exploding voice over market. It starts with some very good background information and then it shows you the basics to get you into your first job. You will learn how to test and train your voice to get it to the right level. You don't need expensive equipment at all. Just a good headset with earphones which most of us already have. The software is free or very cheap. You will get the websites where you can signup and start looking for available voice over jobs.In the advanced section you will be given information to help you find places online where you can get training to improve your performance. You will be shown how to create a demo (for use when you apply for jobs), where to and how to find an agent, how to audition and some excellent tips about how to conduct yourself when you have landed as job.You will be shown how to market yourself through your own website including detailed information about building and maintaining your website.There is also good information about setting up your own home studio, the requirements as well as the equipment and software you need.There is an entire chapter about areas of specialization covering Commercial Voice Over, Promo, Trailers, Narration, Animation, Video games,Audio Books,Political and others. There are plenty of options.If you have missed anything it will be4 covered in the FAQ's. At the end of the book there is an extensive list of voice over agencies.Highly recommended excellent resource if you are interested in making money out of voice over. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> another brillaint way to earn extra income </p>
+
+
+<h2> review.date </h2>
+  08-25-2013  
+<h2> review.text </h2>
+
+ <p> If you are interested in this field or career in being a voice actor, this is THE book for you.The author leaves no stone unturned with information about becoming a member of this profession.  He tells us that there is more work than ever in this field...so, feel encouraged!  The author defines the job, gives helpful questions and answers, offers areas of specialization and even where is the best place to live to practice your craft.It is amazing the number of media in which to explore for your placement in the profession.  The author walks you through places to enroll in education, discusses an agent, booking a job and hints for an auditions.  This book is packed with information! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This book is packed with information! </p>
+
+
+<h2> review.date </h2>
+  09-05-2013  
+<h2> review.text </h2>
+
+ <p> Excellent resource guide provides detailed information about what is required to get into the field.  I was encouraged by all the areas of specialization that employ voice actors.  It was helpful to learn how to determine your particular sound and personality, which is important in finding the right type of work.  The technical end was discussed as well, including the equipment needed and step by step recording process.  The resource list of agents is a helpful reference to get started.  I highly recommend this thorough book to anyone considering voice acting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Step-by-step resource for voice actors </p>
+
+
+<h2> review.date </h2>
+  08-24-2013  
+<h2> review.text </h2>
+
+ <p> I downloaded and read this book both out of curiosity and because my friend is thinking of getting into the voice-acting field when she retires. She has an amazing voice (people notice her voice all the time), but she has no idea how or where to get started. And she wants to start learning about this industry now, a couple of years before she retires from her current job in accounting so she doesn't face a steep learning curve when she's actually ready to start in this new career.I'm definitely going to recommend that she buy this book because it is just what she needs. The book explains the various ways a person can become a voice actor, offers approaches for developing and improving your skills, and provides different routes to get your toe in the door (with the pros and cons of each approach). The writing is practical, clear, and literally step-by-step. At the end are great resources (a comprehensive list of talent agencies plus FAQs, for instance). Readers of this book also learn about all other aspects of this business, from how to create a demo reel to prepping for auditions, choosing your speciality based on your skills and personality, and even how to set up your own promotional website. Pretty amazing and complete resource for those who want to get into this business. You'll walk away knowing exactly what you need to do, what you already have, and what you are missing. HIghly recommended for those interested in this field. It's literally a practical field guide. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Step-by-step guide plus tons of resources </p>
+
+
+<h2> review.date </h2>
+  08-22-2013  
+<h2> review.text </h2>
+
+ <p> How to be a Voice Actor by Smithee is a great guide to get you started in VoiceOver or improve your skills. Having been professionally trained in VoiceOver I really enjoyed learning on a broader scale. My experience is mainly with commercials and some radio but Smithee showed me there are all sorts of other opportunities out there. This is a book you want to read if voice acting is a possibility for you!:) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Information From Beginner to Advanced! </p>
+
+
+<h2> review.date </h2>
+  08-26-2013  
+<h2> review.text </h2>
+
+ <p> This book contains a wealth of information for anyone who wants to be a voice actor and do voiceovers.  It provides details on how to get started and then covers more advanced topics to advance the career.  There are tons of resources.  The author provides names of people and agencies that can help.  If you think you might be interested in being a voice actor, this book is the place to start! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What a Great Guide! </p>
+
+
+<h2> review.date </h2>
+  08-22-2013  
+<h2> review.text </h2>
+
+ <p> If you have a great voice and wish to earn some money by using it, do read this comprehensive guide. It tells you what you should do and what kind of jobs are available. At the end of the book you will find a list of agencies. Conclusion: recommended reading if you want to speak for a living! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Your guide to becoming a voice over! </p>
+
+
+<h2> review.date </h2>
+  08-28-2013  
+<h2> review.text </h2>
+
+ <p> This is a really great resource for getting into voice acting. I thought it was very thorough in recommending not only the need for taking acting classes to getting a website to represent yourself online. Before I even finished reading it I had to recommend it to a friend of mine who does acting and is looking for more full-time opportunities.Overall, it's a great book that gets straight to the point and gives plenty of resources. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great resource </p>
+
+
+<h2> review.date </h2>
+  08-22-2013  
+<h2> review.text </h2>
+
+ <p> This is great guide for someone who has a great voice, but not sure how to get started with your voiceover career.All you need to know about workshops, training, scripts, agencies and more... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How to be a Voice Actor Guide! </p>
+
+
+<h2> review.date </h2>
+  08-23-2013  
+<h2> review.text </h2>
+
+ <p> This book is filled with loads of information at hos to become a voice actor. I really like how it was laid out - very simple, and easy to read. Loads to places to apply to as well. Great guide if you want to become a voice actor. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great information </p>
+
+
+<h2> review.date </h2>
+  05-26-2013  
+<h2> review.text </h2>
+
+ <p> This book accomplishes something that many how to books do not: It is quick, easy to read, AND comprehensive. A triple threat! It covers everything you need to know to get started and also includes lots of resources so you don't have to fuss about on the internet for hours. I would highly recommend this book to anyone who is even slightly interested in getting into Voice acting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> quick, easy-to-read, AND comprehensive </p>
+
+
+<h2> review.date </h2>
+  08-22-2013  
+<h2> review.text </h2>
+
+ <p> I have had an opportunity to talk in front of hundreds of people and try to improve my skills continually. I didn't realize, till reading this book, that I am in fact a voice actor. Also, I find many of the advises given for very useful - for example the importance of recording your own voice and listen to it regularly. Read this book if you use your voice in a some way and wouldn't be disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Voice actor? You can do it! </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> If you have a great voice and wish to earn some money by using it, do read this book ASAP!By reading this book you will learn what you should do and what kind of jobs are available in this field. I also liked that at the end of the book, there are a list of agencies that you can contact.I highly recommend that you read this book if you want to speak for a living!I also liked that this book is easy to digest with no fluff, rubbish or nonsense just fill chapters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How To Be A Voice Actor </p>
+
+
+<h2> review.date </h2>
+  08-24-2013  
+<h2> review.text </h2>
+
+ <p> This is a very very well written guide to master the art of voice acting .If anyone is planning to make a profession out of voice this guide is for you . It almost covers all the aspects of voice acting. It will save a lot of time for a beginner as all the information is provided in the guide you don't have to make any further research. Highly recommend the book.Thanks </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A real good guide to master the art of voice acting </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

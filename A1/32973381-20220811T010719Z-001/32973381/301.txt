@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1481915509 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Superb! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Awakened Love, More Love Poems are also written and illustrated by Kanta Bosniak. To truly describe this book, read Master of the Revels. No matter what anyone can say about Kanta's writing - I feel that every word she wrote, every line she drew represent love and faith and a reason to be alive and enjoy the moment "carpe diem"Adriana LG </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Words </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> With lines and words, Kanta paints a picture of love and lovers. Pictures of life itself in colorful words of emotions. Awesome collection. This one will dive headlong into your heart! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love Poems to make your heart smile </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Awakened Love has some really good poetry. I really enjoyed reading through this book. Some of the poems jumped out and said hey, here we are. Mr. Sandman was the first one that really caught me in this book. Another is called Sharing.  The one that really sticks with me is called The Perfect Sleeper. It is my favorite in this book. They all bring to mind how I feel with my husband and make me smile.I really enjoy the illustrations in all of Kanta's poetry books. They make me smile every time I open one of the books. I want to grab my color pencils and spend some time relaxing and coloring them.Disclaimer: I received a copy of the book free from the author in order to review it. Regardless, all opinions are my own. I was not required to leave a positive review. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Her words are fun, happy, soulful and spiritual helping you to recognise the true you </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The unique random uplifting poems continue in this second book from Kanta.  Her words are fun, happy, soulful and spiritual helping you to recognise the true you, your deep rooted inner you with cleverly worked triggers of simple subtle words in poems.  They trigger happiness and love and you find yourself smiling as you read, you can even find some touch your heart, as the title suggests they try to awaken the love inside.I found this book a little more focused yet still gentle and soothing.  The overall message I found to be is to be yourself as you are, not as you think you should be, love yourself and those around you, slow down and enjoy the life of love we have in the moment.  The simple free hand drawings from Kanta echo this, sometimes a very simple image creates the most intense meaning.  Quotes and phrases, selected by Kanta, also accompany the book throughout.I have plenty of favourites such as Mirror Heart but the one most closest to my heart was Porcupines and Otters.  A wonderful thought provoking book that can be enjoyed by so many. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great second book of poems by Kanta! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> 'Awakened Love: More Love Poems' is a fun poetry book.  It's definitely great if you share it with someone you love, like I did with my husband.  Like with her first poetry book, 'Love Poems', she included her own drawings that you can color and add to.  Such a fun book! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great activity book to read and do with your love </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I liked this book because my hubby and I could color and blend together while we talked about love. We also talked about our past, present and future. I am giving this book a 5/5. I was given a copy to review, however all opinions re my own. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awakened </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Like Love Poems, Awakened Love - More Love Poems is full of free verse poems.  These poems have a simplicity to them that speak to the heart.  They will bring back memories of those first moments of love.  This book combines poems and quotes with fun-filled pictures that will bring a smile to your face.  Young and old will enjoy this book.  You just might want to watch the kids as they read this book, they may end up coloring the pictures.  Of course, you will want to read them first to make sure that you feel that the poems are appropriate for your child.I received this book to review through Beck Valley Books Book Tours, all the opinions above are 100% my own. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A little treasure!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I LOVE this book! It is a masterful blend of the everyday in love, and the profound, from the simple sharing of food to sharing of soul. In understandable, relateable lilting language, it is both light and airy and deep and encompassing. !I enjoyed how happy and relaxed it is,, yet touches such important points with such delicacy , that one might miss the depth of spirit that it takes to spin such truths onto mere paper!This book would make a lovely Valentine gift for your beloved, or yourself! or a shower or wedding, or anniversary gift,, or just to have by the bedside for yourself!!Charming sketches embellish some pages and love quotes from other wise spirits and authors mingle with Kanta's  own poems to form a seamless gift for your imagination,,a precious little treasure of a book  !!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Holding on to this Treasure! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have previously reviewed one of Kanta's self help books and not only enjoyed what she wrote, but loved the illustrations and the accompanying coloring book of the illustrations.The same applies to this book.Growing up, I loved to write poetry and I am sure if you ask hubby, he has plenty of love poems I wrote for him, but I haven't written or read love poetry in ages.These are a great read that I enjoy and will be holding on to for quite some time! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great 2nd collection </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I adore this 2nd collection of poems that inspire the soul.My favorite poem from this collection is &#34;Rainbow&#34; I would recommend these books to anyone who is in love, awakening their soul, or even fans of the &#34;Chicken Soup for the soul series&#34; </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My Favorite of Her Poems </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the first of this author's books to which I have chosen to give a 5-star rating. Don't get me wrong--the author is a fantastic poet, but I especially liked this one. For whatever reason, I was able to connect with the literary and cultural references in a way I could not with the other two books. This is certainly my favorite, and I struggle to know why. Maybe it took me this long to grasp the author's style, but I connected with practically every poem, quote, and illustration in the book. If I had to choose one to give as a gift, I would pick this one. But again, poetry is one of the most subjective literary forms out there. Her word pictures are delightful, and at times I felt I was a part of the poem rather than just a spectator.I was sent a copy of this book in exchange for my honest review. I was not financially compensated, and all opinions are 100 percent mine. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1621050203 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Reports From The Front-Lines of the Burger Wars </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is absurdist lit done absolutely right.  The frightening bits of America are still visible behind the curtain of crazy characters, extreme situations, and even more extreme corporate culture.  Though not a super political book, in fact it doesn't take sides in the war for our guts, it is super funny. The characters, especially the boozy/punk-rock/marketing genius of a main character are off kilter, engaging, and so much fun to follow around in this whirlwind of tale.  There is creative magic in these pages.It's insanely readable, but also more complex then your average 'entertaining' read.  This is the third book I've read of his and I definitely think it's his most mature and accomplished work to date.  Not to mention his most enjoyable. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> More Than Just a Trademark-Infringing Cover </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-31-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is a bizarro fiction novel. Bizarro fiction is a literary genre where weirdness is the primary characteristic. Since this book has become very well known due to the news story about the cease and desist letter (regarding the cover design) from Jack Daniel's going viral, the book will be many people's first introduction to bizarro fiction.  Because of this, I was a bit worried that the book wouldn't be any good and people would be turned off from reading more bizarro. I'm happy to report this isn't the case. Broken Piano was a great read and my favorite Patrick Wensink book. It makes an excellent introduction to the bizarro genre because it does not take its weirdness as far as many other bizarro books.Usually stories feature main characters who are active rather than passive (meaning they do things do things to move the story forward rather than have things done to them and for them). When a main character is passive, it almost always means that it will be difficult for a reader to maintain interest in the story. This book features Deshler Dean, a man who has no control over his life because nearly everything he does that is important is done while he is blackout drunk. He has no memory of these events, nor does the reader read about them as they're happening. Like Deschler, the reader finds out what happened through the consequences of Deschler's actions while drunk. He is an extremely passive character. The fact that the book is great rather than terrible because of this is a testament to how fantastic it is. Also, there's a fantastic Red Harvest/Yojimbo/Fistful of Dollars vibe going on with Deschler doing things while drunk such as making each of the book's two fast food companies believe he's working for them and sabotaging them by playing them against each other.Highly recommended for fans of Kurt Vonnegut, Tom Robbins, and Christopher Moore. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Patrick Wensink for President </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It is the dream of every aspiring writer to be targeted with legal action by a major American company.As such, when Jack Daniels sent him a cease-and-desist order over the cover of this book, Patrick Wensink made indie publishing history. What's especially unique is that it's probably the most kindly worded document of its kind in the entire history of the world. For a brief time, various media entities picked up the story and tossed it around, sending Wensink into the limelight.Which is a good thing for bizarro. Broken Piano for President is about as good an introduction to bizarro as one could wish for. It is accessible, well-written (reminiscent of Kurt Vonnegut and Christopher Moore) and really goldurn entertaining. It's about a guy who gets blackout drunk and finds himself in the midst of a fast food burger war. He's completely clueless, but, somehow, manages to entomb himself in burger politics.There's just something about bizarro and burgers, I guess. Back in 2006, Carlton Mellick's book Satan Burger was the subject of controversy when a man in Alaska was arrested for giving a copy of the book to a minor. That's the key, bizarro writers- write about burgers and the books will sell themselves. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> "What would Gibby do?" He would read this book! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> "What would Gibby do?" He would read this book! Deshler Dean, lead singer of Lothario Speedwagon and sometime burger executive, drunkenly stumbles his way through incredible scenarios that he rarely remembers, all while trying to fulfill his dreams of rock stardom and figure out how to maintain his relationship with Malinta, if there is one. I liked the way Wensink starts by giving you Deshler's black out "memories" and then proceeds to fill in the gaps as the story moves along. Another aspect of this book that keeps you wanting more is that there are lots of characters whose intentions you are never quite sure about. Who are the good guys, who are the bad guys, is there a difference, does it matter? You should read "Broken Piano for President" and decide for yourself. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Five Stars and two middle fingers to PW! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-19-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Recently, "Publishers Weekly" reviewed Patrick Wensink's "Broken Piano for President." To say that they panned it is an understatement. To say that they couldn't be bothered to actually review it is another. Here's the link: [...]. I'd like to take this space to answer their limited criticism with a review of my own.First, the linked review is not a review. It is a plot summary with a couple of off-hand comments tacked on the end. The summary is accurate, but I expect better writing from a periodical that calls itself "Publisher's Weekly." While I think their summary gives too much away, I'll not bother with my own here."Wensink's convoluted and unpolished story requires a veritable suspension bridge of disbelief." Yes, the plot is convoluted. There are several threads going on, but Wensink handles them all with grace. In my opinion, "Broken Piano for President" is no worse on subplots than Frank Herbert's classic "Dune" series or Neal Stephenson's "The Diamond Age." Each thread strengthens the yarn, and pulls the reader into the insane world of Deshler Dean. Oh, and it's a work of FICTION, suspension of disbelief comes with the territory."...instead of being absorbed into what Deshler's publisher calls 'bizarro fiction,' the effect is more like waking up with a terrible hangover or trying to recall a bad dream." Okay, the first problem is that whoever this supposed "publishing expert" is has confused the main character of the book with the author. Second, by using the "hangover" simile, they clearly illustrate their ignorance. The whole book is about a guy in a perpetual blackout-drunk/hangover cycle! It's what makes the narrative interesting and engaging! The reader finds out things as the character does. The Sam Elliot/Big Lebowski-style narrator that crops up every so often adds humor and allows for quick exposition of the story's world.In short: if you want Oprah's Book Selection of the week, go read that. I hope you enjoy it. If you want to be challenged and drawn into a crazy but eerily believable and entertaining world, buy "Broken Piano for President." It is money far better spent. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another Satisfied Customer! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-12-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book has already had a number of favorable reviews, so I'll skip the preamble and tell you why this book affected me personally.  Throughout it's pages, the protagonist references The B*tthole Surfers, a band with which many people may not be familiar, but a band which formed one of the corner stones of my adolescence. The Surfers are a band that cannot be called GOOD by any conventional estimation, but they are undeniably unique and bad-trip inducing.  I recall taping their music on a cassette before going to skate badly in someone's driveway. The Surfers embody something juvenile yet unmitigated. Something raw yet transcendent.Their music is the kind of thing that 3 young guys might sit around in a basement jamming on, thinking they were really doing something special, while their parents bang on the floor so they will turn their amps down.  It's the kind of thing the 3 main characters of THIS book spend their time jamming on in the basement.  And it is also the feeling of complete dissociation that this books invokes in the reader. Faking your way through life -- we all do it, but it is rare that we see it so eloquently confirmed for us on the page.  My hat's off to Mr. Wensink.  You made me feel like a young poseur again. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> BPFP </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Thomas Pynchon and a burger enthusiast walk into a comedy bar, and a group of art rockers crash the scene. The bar can't handle all of this, so teleports all the tenants to their own universe. Broken Piano for President is born. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Familiar World---Completely Unique Execution </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Broken Piano for President takes place in a familiar world: an unforgiving, almost featureless city ruled by fast food corporations and millionaire execs. Nothing grows there except cement pilings.And the main character is a guy I knew in high school: the fairly clueless band member whose only loves are his band and his booze. No matter how close you get to this person, in real life and in Broken Piano, you don't really know what's going on with them. They're eccentric and kind of stupid, but so mysterious (maybe it's the memory loss, maybe it's the entertainer charisma), that you can't help wanting to be close to them.Considering all of these things I've seen and read before, Wensink's done a thing in Broken Piano that I've never encountered anywhere. He's made me feel the same way I felt when I was living in that city and dating that clueless band member. Like I wasn't on the bandwagon, like I wanted to be, and then when the life of Deshler Dean is falling to pieces and I'm finally aboard, I realize just what is at stake and it's too late to keep everything from self-destructing--which it does, in real life and in Broken Piano.It's weird, truthful, and hysterical. Wensink's timing is spot on, his writing is conversational and smooth, and his characters are so familiar, and yet still surprising.I highly recommend this book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Come for the Cliff Drinker, Stay for the Soundtrack </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Patrick Wensink's Broken Piano for President is a wryly-funny rock-and-roll novel tackling cheeseburgers, assassinations, marketing, and the collapse of the American Dream. Provocative and laugh-out-loud funny, Broken Piano for President is on its way to becoming a genuine pop culture phenomenon.Focusing on the misadventures of Deshler Dean, punk rock singer and alcohol-soaked marketing savant, Broken Piano for President is a perfect novel for anyone who's ever woken up with a hangover and a head wound... particularly if said head wound belongs to someone else. But this review isn't about the novel, it's about the audiobook, and at just an hour and seventeen minutes long, the Broken Piano for President audiobook is an ap&eacute;ritif to the full novel's weekend of reckless binge drinking. The reading itself lasts about an hour; the remaining seventeen minutes features instrumental tracks by True Neutral (Brian Miller of the band Foot Village). That's not to say that there isn't plenty to enjoy here; this is, after all, a five-star review. Read by the author, over a driving synthesizer-heavy instrumental score, Broken Piano for President gives listeners plenty to enjoy. Wensink's voice is pleasant and sonorous, and the excerpts he reads are funny and draw you into Deshler's booze-complicated world. But it is just a taste, a dram of whiskey to whet your appetite, and is liable to leave you wanting to order the full novel. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My favorite of 2012! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a complicated novel, this is a funny novel, and this is a great novel! I heard of this book prior to the nicest cease and desist letter going viral. I made sure to get a copy of this before the cover change.I was in for a grand ole time!Narrated by a black out drunk, Broken Piano is a long complex tale of the Burger Wars. Nothing in this story plays out in a way you can't see happening; it mocks our society gleefully.I really don't want to speak on the plot, because every little twist and turn is more delicious than the last.This book gave me flashbacks to when I first discovered Chuck Palahniuk, and learned how the way a story was told could be downright strange. A book really hasn't made me this excited in quite a few years. With the passing of every chapter I was more involved and entertained.This is a book for anyone who wants a little something extra in their novels. Something dark and secret, but just right. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A crazy ride with dips and blind curves... </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-16-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Normally, Broken Piano For President by Patrick Wensink would not come up on my radar screen.  The only reason it did was publicity over the cover (which resembles the Jack Daniels logo), and how the company handled the situation with class and humor.  Anyway, it was enough to get me to pick it up at the library and give it a read.  It turned out to be one of the most "out there" novels I've read of late.  It reminds me of a very dark version of a Tim Dorsey novel.Deshler Dean, the main character, refers to himself as a "cliff drinker".  When he starts to drink, he completely loses track of what happens.  But apparently, he's very active during those times.  From what he can tell, he apparently works for two warring hamburger mega-corporations, coming up with ideas that top each other.  Furthermore, each side knows he's working with the other side, but thinks he's really spying and trying to lead their competitors astray.  Meanwhile, he works a day job as a parking valet, approached by many important people who mean nothing to him, but who apparently know him very well.  His life is a continual quest to figure out who and what he's supposed to be, and whether he can be that person during the times he's sober and can remember things.Both the characters and the writing make this an enjoyable (if not strange) read.  In addition to Dean, there are band members who are reluctant assassins, girlfriends who aren't who they appear to be, and Russian cosmonauts who may or may not be real and who might have an axe to grind.  And during all this, the two mega-burger chains are continuing to top each other in bigger and more unhealthy fare (which the public literally eats up).  Wensink uses the characters and corporations to grill a few sacred cows (into hamburgers), and the mirror he uses to reflect back public eating habits is not flattering.Broken Piano For President a fast ride on a road filled with blind curves and dips.  They may not all makes sense, but the overall effect is a memorable trip.Disclosure:Obtained From: LibraryPayment: Borrowed </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> spoiler alert </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I hate this book. I don't say that lightly or to be a dick or to rile anyone, but I hate it. my first impression of the book is it's somewhat akin to listening to a drunken, unfamiliar teenage tell you a story while they try to play video games. before long you realize you just don't care.'it's fiction, you have to suspend disbelief!' the golden gate bridge doesn't do that much suspending. This is set in a world where corporations with 6 HUNDRED locations not only have corporate spies but also routinely engage in assassinations, coverups and international conspiracies to boost sales.Everyone over 30 seems to have been lobotomized, possibly twice, any half ass excuse from anyone will pass. explaining the same thing to the main character every time someone meets them doesn't raise any suspicions from anyone.the main character routinely blacks out after 2 drinks, but he keeps throwing back alcohol despite regularly waking to unexplained circumstances including, but not limited to being beaten, in the company of strangers, having sex, in many and varied corporate board rooms with no idea of how he got there or what he's supposed to be doing. I have to think any modestly reasonable person would either start keeping an audio recorder, baby sitter or stop drinking.the only thing interesting I've found about this book is the cover and Jack Daniel's cease and desist letter. which can pretty much be read any newsish site in 1/10 the time and none of the annoyance of the characters.all in all this most reminds me of one of my own college drinking experience. a friend and I purchased a bottle of cutty sark to try a blended scotch and despite the terrible, awful, burning taste I kept drinking it cuz I felt it was unreasonable to buy something and not finish it. that's all that's kept me going on this book, but I'm afraid the lasting after effects of this will be worse. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

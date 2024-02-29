@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B007FJOY4C <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-29-2013  
+<h2> review.text </h2>
+
+ <p> This is a good charger for up to 8 AA or 8 AAA batteries to be charged simultaneously, or any combination of these so long as both are the same type in any one of four charging stations. Each charging station holds 2 of these size batteries. Up to 4 C or 4 D batteries can be charged, since each station is independent and uses a separate LED to indicate when charging is complete for the station it represents. One 9 volt battery can be charged at a time. It charges batteries with pulses of electricity, which causes less warming of the batteries but takes longer than the quick chargers. This method should extend the life of batteries charged in this device. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Universal battery charger </p>
+
+
+<h2> review.date </h2>
+  12-08-2013  
+<h2> review.text </h2>
+
+ <p> I am able to charge multiple types of batteries at the same time and the indicator lets me know when my batteries are fully charged. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Charging station </p>
+
+
+<h2> review.date </h2>
+  06-27-2013  
+<h2> review.text </h2>
+
+ <p> This charger doesn't get hot and efficiently charges my D cells. It uses a regular two prong power cord rather than a wall-wart.It is not as good as some of the fancier smart chargers. They can give you longer battery life and performance in a smaller package -- but often only for AA/AAA NiMh cells. This charger is reasonably priced, plus it works with Ni-Cads and C and D cells and 9 volts.I won't use this to charge my high-capacity 2nd-generation NiMh AA cells, I'll use a smart charger for those. But this is a good general-purpose universal charger that I will use for plenty of other stuff. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for NiCads and D Cells - but use a smart charger instead for your high-quality NiMH AA/AAAs </p>
+
+
+<h2> review.date </h2>
+  04-26-2013  
+<h2> review.text </h2>
+
+ <p> Charges AAA, AA, C, D, 9V batteries !!!Charges Rechargeable Alkaline, NIMH, and NiCD batteries !!!There are 4 slots, each slot charges {1,2} x {AAA,AA} or {1} x {C,D} batteries !!!Indicator LEDs {one for each of 4 slots} turn on when batteries close the circuitIndicator LEDs {one for each of 4 slots} turn off when the batteries are charged.No bulky wall adapter, A/C adapter is built into the unit !!You can leave it plugged in when not in use - it draws no power !!Our early model (black with smoke battery cover) is still going strong after 10 years !!We've charged about 100 batteries roughly 20-50 times each, in this charger. Several batteries have failed inside the charger (including some of my own experiments with regular alkalines - don't try it!), and I have scrubbed out the insides with steel wool and sand paper - good as new, a very durable charger!For a charger in the $30 range, THIS ONE IS A STEAL. No, it doesn't have a fancy LCD or a bunch of programming buttons to confuse you. You simply install your battery, it auto-detects the type, and charges it while you forget about it !!! There is no charger that is more versatile or useful, available for under $75 - not Maha, not La Crosse, NONE.Once you get this charger, I recommend you buy some Sanyo Eneloop batteries to put into it.  I have purchased more than 50x nimh batteries and ALL have been thrown away, EXCEPT the Eneloops, which having been going strong for many, many (4+) years.  They advertise 1000-1500 recharge cycles, and with low self-discharge, you don't need to recharge them every month unlike regular nimh's.  What good is a 2850 mAh battery that's dead in 100 cycles?  Eneloops @ 2000 mAh advertise 1000-1500 cycles AND THEY REALLY DO LAST THAT LONG. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best charger under $60 </p>
+
+
+<h2> review.date </h2>
+  11-17-2013  
+<h2> review.text </h2>
+
+ <p> BEST CHARGER I'VE EVER USED. I WOULD RECOMMEND IT.TO ANY ONE WHO HAS MANY BATTERIES IN USE. IT'S COMPUTER CONTROLED (SMART CHARGER.) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> EXELENT GHARGER </p>
+
+
+<h2> review.date </h2>
+  07-14-2013  
+<h2> review.text </h2>
+
+ <p> This charger (grey and blue Platinum version of the old PS3) does not use proper neg. delta v termination.  It seems to terminate based on the voltage peaking out and leveling off for some time.  It takes a good couple hours of overcharging to terminate.  This is good for rechargable alkalines, not NiMh.  The PS3 is an alkaline charger with NiMh as an added bonus.  This charger is terrible for topping up cells as most of the time spent charging is overcharge and so it takes way to long what you would think is less than an hour ends up taking 3-4. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> overcharges. not smart neg. delta v </p>
+
+
+<h2> review.date </h2>
+  04-26-2013  
+<h2> review.text </h2>
+
+ <p> I've used the rayovac PS1 (AA/AAA only) charger for several years and it's still working.  The PS3 does most battery types & may have the same longevity.  While I recharge NiMH batteries, I mostly just recharge old alkaline types.  While the manual says you can't recharge ordinary alkalines, you can with care.  Except for 9V batteries, the others are nominal 1.5V  Most new ones are about 1.62 volts.  If they are discharged to 1.45 or more, they will recharge to nearly full voltage.  If they are discharged to less than 1.4 volts, recharging restores them to some extent, but it's probably not worth doing.  While the instructions imply you need to recharge 2 or 4 AA or AAA, this charger will do one at a time (I tested).  However, 9V batteries are different for some reason.  I haven't tested NiMH 9V, just alkalines, the PS3 recharges 9V alkalines VERY FAST for some odd reason (like in less than 5 minutes when there very discharged).  Unless there is something wrong with the one I have, you have to take the 9V batteries out in less than 5 minutes to test for voltage.  I'm amazed at how well rayovac chargers work and this one is no exception (just watch out for the 9V). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you need a charger for most battery types - this is it </p>
+
+
+<h2> review.date </h2>
+  02-13-2014  
+<h2> review.text </h2>
+
+ <p> I like this battery charger very much just make sure when you buy it that you buy batteries that are rechargeable to it works very very well thank you very much. Bjwolf </p>
+
+
+<h2> review.summary </h2>
+
+ <p> to whom it may concern on the Amazon review board </p>
+
+
+<h2> review.date </h2>
+  02-28-2013  
+<h2> review.text </h2>
+
+ <p> Does everything it's supposed to, and at a very reasonable price. Recommend to anyone in the market for a charger thats works with C, D and 9 volt batteries, as opposed to the majority of them that only recharge AA & AAA sizes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works perfectly </p>
+
+
+<h2> review.date </h2>
+  10-14-2013  
+<h2> review.text </h2>
+
+ <p> Works like a charm!  Rechargeable Batteries of all brands get ready fast. This is the perfect gift for a person who has kids or grand kids with tons of battery powered toys... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works like a charm! </p>
+
+
+<h2> review.date </h2>
+  11-03-2013  
+<h2> review.text </h2>
+
+ <p> This baby charges fast!  The batteries stay relatively cool while charging, as compared to other chargers I've used.  Great unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Charges fast, stays cool </p>
+
+
+<h2> review.date </h2>
+  09-23-2013  
+<h2> review.text </h2>
+
+ <p> We bought an earlier model of this charger back in 2002 when we needed rechargeable batteries for our baby swing. It has charged D swing batteries for four babies, countless AA and AAA batteries for remotes, toys, and every thing in between, and also a few Cs and even a square. I would say it has been in almost constant use. It is now 11 years old, and just quit working. Not bad for $20! I am definitely buying this model again!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It might not be Energizer, but it just keeps going! </p>
+
+
+<h2> review.date </h2>
+  04-05-2014  
+<h2> review.text </h2>
+
+ <p> We use rechargeable batteries in virtually everything we own except devives that run on button cells.Our old charger charged a battery for eight hours, whether it needed on hour or twenty. THat is not good for the battery in the long run and doesn't provide maximum use per reharge. THis product solves all that. Very nice. Only tiny complaint is that the lid requires too much force to open. No biggie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A big improvement </p>
+
+
+<h2> review.date </h2>
+  05-21-2013  
+<h2> review.text </h2>
+
+ <p> This product is the ORIGINALRayovac PS3 Universal Smart Battery Chargerwhich I bought in 2008. Unfortunately, Rayovac has discontinued this excellent charger around end of 2009, and replaced it with an inferiorRayovac PS3D Universal Battery Charger(just remember 'D' stands for Dumb). So I'm happily surprised to see that this old PS3 Charger is still available through Amazon.com.I already have at least half a dozen smart chargers in the house, including top-of-the-line models such as theLa Crosse BC1000and Maha C9000, but I still wanted this Rayovac PS3 Charger for the following reasons:1. It can accept C, D, and 9V batteries in additional to the standard AA and AAA cells.2. It can handle rechargeable alkaline cells in addition to the standard NiMH or NiCd cells.3. It has the potential to recharge up to 8 AA or AAA cells at once.I'm happy to discover that this charger is a lot smarter than I previously imagined. Unlike a typical dumb charger in this price range (for example: theEnergizer CHFCV Overnight Family Charger), the PS3 has four independent charging channels. That means I am free to charge different cell in any channel. Each channel comes with a status indicator LED, which goes out once the cell is fully charged. But most of all, this charger is smart enough to recognize the difference between NiMH cells and alkaline cell, and can pick the correct charging method accordingly.When an unknown cell is inserted into the PS3, the charger first starts off with a trickle current (800mA peak current at 10% duty cycle, or an average current of 80mA). Based on the voltage profile of this cell, the PS3 can determine whether this is an alkaline cell, or a NiMH cell. After two minutes, the duty cycle is increased to 60%, so the average current is now around 480mA. For a NiMH cell, charging will continue until a negative dV/dt is detected, in which case it switches back to trickle current again. But for an alkaline cell, charging current will gradually decrease with higher terminal voltage until it reached 1.65V.The Rayovac PS3 is designed to recharge the Rayovac 'Renewal' brand of rechargeable alkaline cells (which are now discontinued). The user manual warned against charging ordinary disposable alkaline cells, but I experimented with it anyway. Initially I observed good results in reviving a lot of spent alkaline AA and D cells. But my happiness was short-lived, because after a few weeks, some of those cells started leaking electrolyte. I was lucky that the leaks were discovered early, and they only caused minor damages to some cheaper appliances. My conclusion is that: it is not worth the risk to recharge disposable alkaline cells. You have been warned!Back to the charger itself, I do have a complaint about its claim of "recharge up to 8 AA or AAA batteries". It turns out that each of the four charging channels can accept one to two AA or AAA cells, but the two cells are electrically connected in parallel. So in case somebody accidentally placed two cells of different battery chemistries (NiCd, NiMH, or alkaline) in the same channel, the one with lower voltage will discharge the other one. The charger may also get confused and fail to terminate correctly in such case. It is safer and faster to charge only one AA or AAA cells in each channel.Conclusion:The Rayovac PS3 may be old, but it is still a great charger even as of today. The only problem is that it can only recharge batteries up to around 3000mAh in capacity. So it is not convenient for use with high-capacity C- or D-size batteries such as theTenergy Centura C Size LSD NiMH Rechargeable Batteries(4000mAh). For that you'll need a more advanced charger, such as theTenergy TN190 4-Channel AA/AAA/C/D/9V Ni-MH Charger.[Update on Aug 26, 2013]I have tested theChargeIt! Battery Station Proand consider it a better product. It is similar to the PS3 in that it can recharge ordinary alkaline cells. But it is able to handle higher capacity cells, and it offers two high-current USB ports. See my review on it for details. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This Oldie is still the Goodie </p>
+
+
+<h2> review.date </h2>
+  04-23-2013  
+<h2> review.text </h2>
+
+ <p> this thing is great. you can charge so many batteries and so many combinations of batteries. and it doesn't take long to charge, but you can get the new slow discharge batteries that last five to nine times, or more, as long as before. i really love this thing!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> battery charger </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> It works great, so why not 5 stars? As pictured, you see this attractively designed charger has a transparent blue cover, but it comes with a large sticker attached to the compartment cover that is absolutely impossible to remove. This label largely obscures the batteries inserted for charging, so I assumed that it must be removable. Sequentially, I tried every imaginable method to get it off. Ultimately I used Goof-Off, a solvent that has in the past that has successfully cleaned labels from every surface. In this case, it resulted in melting the surface of the battery compartment cover. I recommend the Rayovac PS3PL SMART CHARGER but equally strongly recommend that you DO NOT try to remove the label. You've been warned! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great! </p>
+
+
+<h2> review.date </h2>
+  01-23-2014  
+<h2> review.text </h2>
+
+ <p> We purchased this in order to save on batteries in the long run. It does charge AAA, AA, C & D batteries, but it takes for ever. Ever = 8 +/- hours. Which is just too long. The charging stops when the battery is completed. A battery meter would be a huge upgrade. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It Works, But Takes Forever </p>
+
+
+<h2> review.date </h2>
+  03-18-2014  
+<h2> review.text </h2>
+
+ <p> Great price, great device to recharge batteries and save money and handy way to purchase and not have to drive all over. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rayovac PS3PL Smart Charger AA/AAA/C/D/9V Platinum Universal Battery Charger </p>
+
+
+<h2> review.date </h2>
+  05-08-2013  
+<h2> review.text </h2>
+
+ <p> i like this charger because it includes 9 volt batteries.  It's easy to put the batteries in place and the lights go out when the batteries are charged.  It works well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Good Charger </p>
+
+
+<h2> review.date </h2>
+  12-14-2013  
+<h2> review.text </h2>
+
+ <p> Rayovac PS3PL Smart Charger AA/AAA/C/D/9V Platinum Universal Battery Charger it work no complaint i now have too buy the battery </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rayovac PS3PL Smart Charger AA/AAA/C/D/9V Platinum Universal Battery Charger </p>
+
+
+<h2> review.date </h2>
+  09-03-2013  
+<h2> review.text </h2>
+
+ <p> Fast, easy to use, love the secure lid to keep cats from messing with it.  Love the auto shut off. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does a great job. </p>
+
+
+<h2> review.date </h2>
+  01-20-2014  
+<h2> review.text </h2>
+
+ <p> I was sick and tired of chargers that would not handle 3 batteries. Which seems to be what nearly all LED flashlights require.This one seems to do a great job without overheating the batteries. Hopefully it will last.Five stars IF it lasts... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Seems to do the job, and you can charge as few as 1 battery at a time </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00G769E9O <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-28-2013  
+<h2> review.text </h2>
+
+ <p> I don't know why this hasn't gotten better reviews. I thought it was an easy, good read...it was fun and entertaning </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy fun read </p>
+
+
+<h2> review.date </h2>
+  12-24-2013  
+<h2> review.text </h2>
+
+ <p> New author, therefore he has some credit with me, but,  book is too short, needs more development front to back. Not an original but then how many are? A lot of characters introduced quickly, I became a little lost keeping them together. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not yet mature, but promising. </p>
+
+
+<h2> review.date </h2>
+  11-06-2013  
+<h2> review.text </h2>
+
+ <p> This is a great story with the right combination of character development vs action detail.  A very promising author.  I can't wait for the following stories.  Keep up the great work. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A must read!!!! </p>
+
+
+<h2> review.date </h2>
+  11-04-2013  
+<h2> review.text </h2>
+
+ <p> This writer knows his genre and subject matter.  The Valiant Incident is a fun read sure to leave you wanting more.  Highly entertaining from the first page to the last. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great effort from a new writer! </p>
+
+
+<h2> review.date </h2>
+  11-17-2013  
+<h2> review.text </h2>
+
+ <p> This story starts out with the ending placed first.  Then regresses to the beginning.  I don't care for this literary ploy.  I do think that generally, the author handles this well.  When you reach the ending.  The story abruptly changes from the Valiant's story to a 'teaser' story of the Earth being attacked.  As you can surmise, the ending is poor.  I felt that this space opera was barely worth the read.  But, then I like space opera. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Reasonable start, poor end </p>
+
+
+<h2> review.date </h2>
+  01-24-2014  
+<h2> review.text </h2>
+
+ <p> This book has a great story line and is well written from a character development point of view.  Well worth the read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well written SiFi book. </p>
+
+
+<h2> review.date </h2>
+  12-29-2013  
+<h2> review.text </h2>
+
+ <p> So-so story line could have been ever so much more interesting if the author could decide whether the story would be told in first-person present tense or third person-past tense, sometimes varying within the same paragraph. Do not even get me started on spelling mistakes. Not a book I would recommend and I am usually pretty forgiving as long as the book is interesting... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Blah! </p>
+
+
+<h2> review.date </h2>
+  12-03-2013  
+<h2> review.text </h2>
+
+ <p> This book makes me believe that I could write. Poorly written is an understatement!  Writer needs to attend writing classes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very poorly written </p>
+
+
+<h2> review.date </h2>
+  12-07-2013  
+<h2> review.text </h2>
+
+ <p> The series is not as bad as some reviews would have led me to believe. I didn't understand some of the ideas and the direction of the action certainly kept me from going back to reread a small section I skipped until the end. I will likely continue to read Jeff Jake material. He showed promise and I enjoy seeing writers grow as they continue to entertain me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Speed and resolve </p>
+
+
+<h2> review.date </h2>
+  12-07-2013  
+<h2> review.text </h2>
+
+ <p> Not a bad space opera as such go. Not much real science to the science fiction but not bad. There was some character building and the story was enjoyable though the author has a tendency to understate speeds and distances in space warfare as I've seen other authors begin to do recently. Causes the story to lose a lot of &#34;realism&#34; which keeps you from getting really into the story. Didn't really care for the ending either, probably the author is preping for a sequel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a bad space opera as such go. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

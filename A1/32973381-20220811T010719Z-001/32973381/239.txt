@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000GB5M2Y <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-31-2007  
+<h2> review.text </h2>
+
+ <p> Very good, scary and thrilling.. I was surprised at what they were able to do with such little time. You'll enjoy this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Masters of Horror - Fair Haired Child </p>
+
+
+<h2> review.date </h2>
+  09-16-2011  
+<h2> review.text </h2>
+
+ <p> I received this movie on time as promised. It wasn't exactly what I was looking for but was fun to watch. Guess I was looking forsome scary movies without the sex and blood. Hard to find these days. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Horror Film </p>
+
+
+<h2> review.date </h2>
+  06-26-2007  
+<h2> review.text </h2>
+
+ <p> Artistic and creative the master of horror series is incredible.It is a modern Tales from the crypt Great Job Anchor Bay.......... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing................. </p>
+
+
+<h2> review.date </h2>
+  10-02-2009  
+<h2> review.text </h2>
+
+ <p> A young girl named Terra (Lindsay Pulsipher) is abducted, drugged, and imprisoned by a demented couple who seek to use her in order to fulfill their pact w/ the dark side. THE FAIR HAIRED CHILD is quite well done, especially considering that the man directing it was also responsible for the toilet-raft known as FEARDOTCOM! The story is gloomy and bleak, The characters are interesting, and the demonoid critter is suitably horrific. I really enjoyed TFHC's twisty, vengeful final&eacute;! Check this one out... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Abomination... </p>
+
+
+<h2> review.date </h2>
+  10-02-2010  
+<h2> review.text </h2>
+
+ <p> A disaffected teenage girl (Lindsay Pulsipher) is kidnapped and imprisoned with a young man (Jesse Hadock) who has a horrifying secret.I've been pretty underwhelmed with the "Masters of Horror" series, but this is a good one.  It features some really creepy make-up effects and a story that went in unexpected directions, culminating in a nice bit of poetic justice.  It's a real shame that more of the episodes haven't been up to this standard. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A rare good episode in a disappointing series </p>
+
+
+<h2> review.date </h2>
+  05-02-2011  
+<h2> review.text </h2>
+
+ <p> This isn't bad. It isn't good. It just isn't much of anything. When you look at the director Malone's history, there's really nothing that sticks out as being exceptional and this is more of the same.Here's the scoop. A young girl who is an outsider at school (a point which seems to have no baring on the story) is kidnapped, drugged and wakes up in a basement. She finds she has a male roommate who is hanging from a noose. She rescues him and the two set out to try and escape. She soon realizes he's integral to the problem in that mom and dad need to kill 12 girls to bring sonny permanently back to life after an accidental drowning. She's the 12th victim.This is OK. Laurie Petty does a fine job as the mom. I didn't much care for dad's performance and the two young folk do a decent job in their rolls. The creature that sonny transforms into is genuinely creepy and is the highlight of the proceedings. Somehow this all seemed too familiar and the ending was just so-so. The camerawork, editing, sound and directing aren't bad, but they don't aspire to any new heights.At a merciful 55 minutes long it won't tax your patience but don't approach this as being anything more than a mild diversion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Much of Anything </p>
+
+
+<h2> review.date </h2>
+  11-06-2009  
+<h2> review.text </h2>
+
+ <p> Two grieving parents (Lori Petty and William Samples) make a pact with the Devil so their deceased son Johnny (Jesse Haddock), can be brought back to life. The process involves sacrificing 12 young virgins to a vicious boy-beast (see DVD front cover) who feasts upon their young, innocent flesh. The latest victim, a troubled loner named Tara (Lindsay Pulsipher), ends up bonding with the tormented soul in the basement and tries to unravel the mystery before she too falls victim to the fair haired child.This entry in the "Masters of Horror" series was directed by William Malone who has surpassed expectations by delivering an entertaining episode despite its flaws. The film is visually haunting but some of the performances, with the exception of the young male protagonist (Haddock) fall flat. The young female lead (Pulsipher) was unconvincing. Physically speaking, she was too pretty to be believable as an outcast teenage freakazoid who everyone likes to pick on and her performance was a bit uneven. At times, she was good, other times she was clearly struggling to convey emotion but I will give her credit for trying. Visually, this film is interesting and out of all the episodes of Season 1, this one stands out over the others for its visual style and atmosphere. There are flashback scenes in vivid black and white and some scenes are set to classical music (the parents are accomplished musicians) which adds a dream like tone to the piece. The demon child is also a sight to behold (again, see DVD front cover). Too bad it doesn't get much screen time. I am a big fan of the "less is more" mentality especially in horror films (although I do love a great gore-fest as is evidenced by my other reviews). But sometimes the suspense, atmosphere, plot, build-up etc are suffice to make a film scary without resorting to buckets of blood, Carpenter's "Halloween" is one example, Bob Clark's "Black Christmas" is another. The "Masters of Horror" series has not taken that approach since gratuitous nudity and explicit gore are plentiful throughout. This episode is an exception and while I give the director credit for trying to create an atmospheric and surrealistic horror tale, a little more was needed to make this memorable. I was yearning for more shots of the nasty creature. After all, it looks so good in the cover art and photo stills yet the actual film only offers a preview. The climax is a bit disappointing and it was hard to believe that this tormented young man who obviously had guilt issues would have done what he did to appease and protect the young attractive stranger in his basement.Overall though, "The Fair Haired Child" is consistent. It differs from the others as this installment is devoid of purposeless nudity and gore galore but the film's visual flair will compensate for that as well as the lack of genuine scares and that lovable, huggable, charmer gracing the cover art is worthy of the 3.5 stars I am awarding it. Recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stylish Entry Has an Interesting Premise and a Great Looking Monster </p>
+
+
+<h2> review.date </h2>
+  05-09-2014  
+<h2> review.text </h2>
+
+ <p> Product arrived early & in great condition however, I have not yet viewed this DVD so I can not comment on it's content or how well this DVD plays. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Masters of Horror: Fair Haired Child </p>
+
+
+<h2> review.date </h2>
+  05-13-2007  
+<h2> review.text </h2>
+
+ <p> This is a good one.  Very creepy entity that lives in the cellar.  Freaked me out.  Good story too.  I hope this series goes on for many years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cool episode. </p>
+
+
+<h2> review.date </h2>
+  05-08-2007  
+<h2> review.text </h2>
+
+ <p> A lovely blonde teen girl (Lindsay Pulishpher) is walking home from high school one day until a couple of maniacs (Lori Petty and William Samples) take her to their manson to lock her down in the basement. Unknown to her there is an unspeakable horror awaiting for a fresh virgin girl in order to become human again.A dark and twisted supernatural story from William Malone (Director of "House of Haunted Hill 1999 version" and "Feardotcom") even though he isn't really much of a master of horror. The acting is fairly good except from wooden Pulishpher who's hot but can't really act and the creature itself is the stuff nightmares are made from is done in a realistic way. The story is quality H.P. Lovecraft-esque with a horrific fairy tale twist to it, this is one of the best episodes shown on Masters of Horror.The DVD has great extras like audio commentary by writer Matt Greenberg and director William Malone, Trailers, Still gallery, William Malone Bio, DVD-Rom extras, Interviews with the cast and crew and behind the scenes featurette.Also recommended: "Cigaratte Burns", "The Ring", "Dreams in The House of the Witch", "Re-Animator", "Ringu", "Demons", "The Others". </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the better stories on Masters of Horror! </p>
+
+
+<h2> review.date </h2>
+  01-28-2011  
+<h2> review.text </h2>
+
+ <p> SpoilersSpoilersSpoilersThe movie is a good hour long experience to quench a little horror thirst.  About a outcast girl (Tara) at college that gets abducted, thrown into a basement by some wacko satanic parents that have lost their son to fulfill an ancient pact with the forces of darkness to  bring their son back to mortal life.  It takes 12 sacrifices one for each year on the sons birthday and this girl (Tara) is the last.  However she develops a relationship with the boy that is trying to b e resurrected and the parents plan goes awry, as he turns out to be a better negotiator with the powers of darkness than his parents were.I thought this movie did quite well being only an hour in length.  The movie did appear pretty dark at times and it was hard to make out what was happening. Though I suppose that would be true to story being most of the movie takes place in a dark basement, so that part cant really be faulted.I did think that another girl should have been casted, or the actress that was casted needed more makeup to appear "Not so pretty", because it did not lend well to the "Outcast girl that no one really liked" type of look, because she was indeed pretty and probably would not have been the outcast girl in real life.  Still though the actress did extremely well given her part. A good buy for your horror collection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Fair Haired Experience </p>
+
+
+<h2> review.date </h2>
+  05-08-2008  
+<h2> review.text </h2>
+
+ <p> This was a very good DVD. The story was well written and enjoyable for a horror movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fair Hair Child </p>
+
+
+<h2> review.date </h2>
+  04-01-2008  
+<h2> review.text </h2>
+
+ <p> This movie was Trash, It wasn't even an hour long and it wasn't scary. The only scary movie i have seen from the masters of horror so far is Penny Dreadful, and thats it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> TOO SHORT!!!! </p>
+
+
+<h2> review.date </h2>
+  11-02-2008  
+<h2> review.text </h2>
+
+ <p> I was satisfied with the product and the time it took to get to me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Shape and Right on Time </p>
+
+
+<h2> review.date </h2>
+  12-06-2006  
+<h2> review.text </h2>
+
+ <p> I'm not quite sure that "House on Haunted Hill" and "FeardotCom" qualified William Malone to be called a Master of Horror in the Showtime anthology series--but we'll have that debate later.  Considering the uneven quality of many of the episodes, the real surprise is that Malone surpasses many of the more acclaimed directors.  "The Fair-Haired Child" is definitely a solid, if not great, episode in the infuriatingly inconsistent "Masters of Horror."  In fact, "Child" (considering his resume) might be Malone's most effective work yet.The tale begins with the abduction of a young girl.  Trapped by a couple, led by a gloriously deranged Lori Petty, she is locked in their basement with another child.  Forming a tentative friendship with the mute boy, she eventually learns that they will be involved in some sort of ritual to bring the couple's deceased child back to life.  Let's just say that they made a pact with the devil that involves child sacrifice and a rather unpleasant beastie.The mood and atmosphere of "Child" are genuinely creepy, the performances good, and the effects are nice. The spooky ambiance and brisk pace distinguish this tale from some of the others.  This certainly isn't a groundbreaking work, though.  You've seen elements of this story in many other films.  However, it is put together with confidence and competence.  I enjoyed "The Fair-Haired Child," and would rate it at 3 1/2 star if possible.  Not the best the show had to offer--but far, far, far from the worst.  KGHarris, 12/06. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some Of The True Masters Could Take Lessons From This Relative Unknown </p>
+
+
+<h2> review.date </h2>
+  01-18-2007  
+<h2> review.text </h2>
+
+ <p> Wow is about all I can say, because this movie is so good it left me speechless. I watch LOTS of horror movies, read horror books, research hauntings, and even read horror comics. It takes a lot to impress me because 99 times out of 100, I've seen it before. The Fair Haired Child blew my socks off.Not only is this movie artfully crafted and skillfully directed, the special effects are killer. Some scenes I immediately watched again, just to catch every second of the chilling graphics. The storyline is demented, twisted, and oh so evil. The acting also doesn't disappoint in the least (who doesn't love Lori Petty?) The monster of the film is grotesque and Lovecraftian. Everything here is perfection. Normally with a running time of just under an hour -in this case, 55 minutes- you might feel cheated. However, in this case, everything about the movie is so spot on you don't mind the short time. Besides, the short time means you can watch it again right away, which is what I did.I can't recommend this movie enough. It is trite and childish to say this deserves 8 out of 5 stars, but it does. If you are a horror fan at all, please, treat yourself to a viewing of this film. You will NOT be disappointed.Highest possible recommendations to all horror movie buffs!!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW! </p>
+
+
+<h2> review.date </h2>
+  01-30-2007  
+<h2> review.text </h2>
+
+ <p> Distraught father Anton and mother Judith (played by Lori Petty of Tank Girl fame) try to resurrect their dead son by sacrificing a young girl to a demon.The film opens with young Tara being teased in school, riding her bike home, then getting kidnapped by a man in a van. I could only imagine the fears this scene would conjure up in any parent. After Tara wakes up, she tries to call her mom for help explaining that she has been drugged, kidnapped, and hospitalized in another state to which her mom casually replies, "Can I call you back later?" Malone directs a surprisingly restrained tale of suffering considering his previous outings included, which was oddly gratuitous and devoid of meaning. Fair-Haired Child is a touching story of a mother so heartbroken she is pushed to desperate lengths, a rebellious teen that betrays the ones that love him, and a kidnapped girl that no one notices is missing. The story is a simple one with a nice twist ending and pleasantly reminded me of the old Twilight Zone series.The mood and atmosphere are great with many scenes set to classical music. There are black & white scenes that represent the dark doings of the parents and the little blonde girl looking up from the bloody bathtub through the hole in the basement looks like a lost Alice after falling through the rabbit hole.On a side note, I thought it a curious gesture to add Malone to the list of "Masters of Horror". He did a few low budget creature flicks, followed by the good House on Haunted Hill remake, which was followed by the very bad. I think this TV episode is one of the highlights of his resume now. Another interesting thing I noticed is that while many of the directors chose to push the limits in their episodes, this one seemed tame in comparison and yet was still quite good. Unfortunately, it did not get much attention, as it was not controversial like many of the others.The 55 minute TV show is presented with a 1.77:1 ratio aspect, Dolby Digital 5.1, and Surround Sound 2.0. The creature looked awesome with the stand out image being the aftermath of Tara after confronting the Fair-Haired Child.Favorite Quote: Anton, "Nietzsche said anything done out of love is beyond good and evil. We're not evil. I still love you Judith." DVD Extras: Interviews with Director & Cast, Commentary, Behind-the-Scenes, Trailers, Stills, Malone's Bio, and the Screenplay on DVD-ROM.Bottom Line: Good tale rooted in family values and the price of love. Minimal gore and scares, but well told and acted nonetheless.Rating: 7/10by Molly Celaschi </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good tale rooted in family values and the price of love </p>
+
+
+<h2> review.date </h2>
+  09-28-2008  
+<h2> review.text </h2>
+
+ <p> William Malone, director of the 1999 House on Haunted Hill remake and the dreadful Feardotcom, is another one of those directors in the Masters of Horror stable that certainly isn't worthy of the title.  His entry into the first season of Masters of Horror, Fair Haired Child, contains some eerie atmosphere and some genuine moments of suspense, but there isn't a whole lot else to distinguish it among the series' best episodes.  Lindsay Pulsipher stars as a troubled teen who is kidnapped by a couple (Lori Petty and William Samples) who have been sacrificing kids to bring their dead son (Jesse Haddock) back to life.  There's some good gore effects, effective scares, and a creepy looking monster to boot; but where Fair Haired Child fails is with the uber-campy black & white flashback sequences, which are just more laughable than anything else.  Still though, Fair Haired Child isn't all bad, and is definitely worth seeing, and you'll certainly see worse episodes of the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great atmosphere, not a whole lot else </p>
+
+
+<h2> review.date </h2>
+  10-19-2010  
+<h2> review.text </h2>
+
+ <p> I guess I bought this movie because I thought the picture on the cover looked cool. I know..... "don't judge a book by it's cover" well, that certainly applies to this movie.I'm always looking for a new horror flick that will scare the heck out of me and I can just keep looking. I guess the story line isn't too bad, but the acting......really,really bad ! The actors/actresses seem decent enough, maybe they were rushed through the scenes or something ??There are some good parts, although they seem to have slipped my mind at the moment. Did I mention the bad acting? Actually, the young girl and boy(who were in the basement) did fine, well..OK. It was the mother and father that needed acting lessons, or maybe the director needed directing lessons(?) This really took away from the plot and any chance of it being scary. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not so scary </p>
+
+
+<h2> review.date </h2>
+  03-25-2007  
+<h2> review.text </h2>
+
+ <p> About as horrifying and creative as your average episode of Tales From The Crypt or The Outer Limits, and maybe that's all this series was meant to be, I dunno, but I expected more. Started out promising with the kidnapping and the basement, but the implication of the creature down there was more imposing than the reality, and the same applied to the parents twisted mentality. By the halfway point it was just a tiresome hero vs villain scenario, the way the parents were eventually defeated went underexplained, oh and there's the requisite open-ended twist ending. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Please enter a title for your review </p>
+
+
+<h2> review.date </h2>
+  04-02-2011  
+<h2> review.text </h2>
+
+ <p> I have been disappointed by the other "Master of Horror" films. They are neither entertaining or scary. Some are just strange and confusing. They would be great on "The Twilight Zone". "Fair Haired Child" is excellent it is scary, creepy, and it sets you up to be terrified. This has to be the best "Master of Horror" film. If you have seen the other films and have been disapointed this one will finally put a smile on your face. I love horror films and this had to be a great idea for a film. I never pictured Lori Petty in horror but I was wrong. She was perfect in this film. It was hard to believe that a 60minute film could get an awsome story across and still have the perfect mix of horror and suspense. This is a must see for all horror fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Finally a decent master of horror film </p>
+
+
+<h2> review.date </h2>
+  10-25-2008  
+<h2> review.text </h2>
+
+ <p> Masters of Horror was a show released through Showtime in which some of the best known directors and writers in the horror industry conjure up 1 hour stories similar to a Tales From the Crypt style. This format is right up out alley. We loved Tales From the Crypt and other short tv series and hoped this anthology would be on the same page. Unfortunately it's not in any sense. In two 13 episode seasons there is about 2 good efforts, the rest are complete garbage which makes sense since the show was cancelled after it's second year. So out of 26 episodes there are only 2-3 worth watching. Luckily Fair Haired Child was one of the select few and turned out to be a pretty creepy effort. What drew us to try this one out was the creepy looking face on the cover (yeah we fell for the cover again). With a mug like that this creature had to be worth checking out especially if it's under an hour long.The short starts with outcast teenager Tara and she sits through another painful day of school. Being shunned by everyone she hops on her bike to head home when she gets plowed down by a van. It was really fake looking so there were a couple laughs. While on the ground she is dragged into the back of the van where she's drugged and passes out. When she awakes she is sitting in a room with a nurse waiting. She tells Tara she is in a hosiptal in Vermont, far from her home in Virginia. Tara starts to freak out and gets up to call her mom who has no interest in picking her up. Seems the mother wants nothing to do with her daughter and gives her the brush off so she can get back to her nap. Parent of the year! Now that Tara is abandoned the nurse tries to ease her mind then starts asking her questions in regards to her health. Finally she asks if she's a virgin, which she is, forcing Tara to wonder what kind of hospital this is. Turns out it's no hospital and the woman isn't a nurse. Tara has been kidnapped by a couple who refuse to let her leave. They grab her by hands and feet and chuck her into the dark basement where the door is locked behind her.Once in the basement she sees a kids hanging from the ceiling but is still alive. She rushes over and helps him down but he hasn't enough energy to talk. She tries to find out why he's here and all he can down is warn her by writing on the wall his name is Johnny and she needs to hide quick. She isn't sure why until Johhny starts morphing into the creature you see on the cover. This thing is really creepy looking so kudos to whoever did the makeup. It walks around all quick and eratic looking to eat Tara. She manages to escape to a part of the basement just in time for the creature to turn back into Johhny. She approaches him and asks what his deal is and why he turns into this thing. He informs her that he died years ago and the parents made a pack with the devil that they would sacrifice 12 virgins to the creature he becomes in order to bring him back. Tara happens to be the final sacrifice (Rowsdower!) in order to bring him back to life, but Johhny doesn't want it to heppen. He is harmless and doesn't want to kill but the creature inside takes over. After all the screams end the parents unlock the basement and retrieve their son. Now that the sacrifices have been complete he is a normal boy again. The family is sitting upstairs where Johhny just stares at the window forcing his mother to ask what he's doing and he responds; waiting. He tells them he had made a pact with the devil that instead of sacrificing the girl he'd prefer his parents be the sacrifice and the creature bursts through the window to rip apart the parents. Johhny now is back to a normal boy and Tara is unharmed. The ending is turned out corny since Johhny and Tara now seem like a couple and will live there lives together in the secluded home. Could've wrapped it up a bit cooler then that but whatever.Overall this Masters of Horror was a pretty good effort. The atmosphere and creature were extremely creepy and represented the intruguing cover well. This wasn't one of those you were tricked into by a great looking cover, it actually delivered. So if you are interested in checking out any of the Masters of Horror series then make Fair Haired Child one of your only choices. Almost all the rest are a complete waste. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Probably the only good entry from the Masters of Horror series: 3.5 stars </p>
+
+
+<h2> review.date </h2>
+  12-06-2008  
+<h2> review.text </h2>
+
+ <p> This is one of the 5 best out of the 24 MOH episodes. WHile a bit cliched in some respects, the overall effect succeded. There was some genuine scares and the acting was appropriate and the cinematagraphy was A+.Parents out in rural Vermont resort to Satanic rituals to restore their dead son. The final sacrifice, a kidnapped outcast teenaged girl puts up a helluva fight that makes for a great episode.Two thumbs up on this one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Scares! </p>
+
+
+<h2> review.date </h2>
+  01-28-2012  
+<h2> review.text </h2>
+
+ <p> This is by far the best movie of the Masters of Horror series. I've see a lot of horror movies and I really love the theme. This movie was built op really great, the cast did really good and the story is good as well.Highly recommended short movie for horror movie fans. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quality horror movie </p>
+
+
+<h2> review.date </h2>
+  12-01-2012  
+<h2> review.text </h2>
+
+ <p> My son was shocked when he opened his present and it had the movie sitting in front of his eyes. He loves this movie. He has played it several times. Excellent picture and sound quality. I have not seen it but, I will sit and watch it some time. He says it is a classic horror and it is one of his favorites. Thank you Amazon for having his movie in stock. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My son loved it. Happy birthday!! </p>
+
+
+<h2> review.date </h2>
+  09-10-2010  
+<h2> review.text </h2>
+
+ <p> This is ANOTHER FREAK IN THE BASEMENT STORY with a twist. Tara is an outcast in her school. She is stalked, hit by a van and kidnapped. She is eventually placed in the basement and has to fight off the freak son. This is not how we want to remember Lori Petty. No bad language, sex, and very brief Polaroid nudity. Decent show, but not the best from Masters of Horror. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ANOTHER FREAK IN THE BASEMENT STORY </p>
+
+
+<h2> review.date </h2>
+  10-27-2010  
+<h2> review.text </h2>
+
+ <p> Very creepy. I liked how it actually had a good storyline and KEPT it. Plus, the monster was really creepy. Watch this one during a thunderstorm for best effect! (if you've seen it, you know why) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> an eyebrow raiser </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

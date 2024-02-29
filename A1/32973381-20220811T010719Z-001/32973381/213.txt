@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0002A2W3Q <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-23-2009  
+<h2> review.text </h2>
+
+ <p> Sure Morrison is gone, but this dude is prob the bets they couda got, fantastic job filling in. The Band is tight, great set list, great 5.1 sound....this DVD ROCKS!The only member missing (besides Jim) is drummer John Densmore, but who cares, hes just the drummer, you cannot replace Robby's guitar work and certainly not Ray's keyboard style.  The Band does what wouda been the LA Woman tour....you must get this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> F*#%^&ing GREAT! </p>
+
+
+<h2> review.date </h2>
+  10-26-2005  
+<h2> review.text </h2>
+
+ <p> Whether one is a fan of the Doors or not, what I liked about them was the style of the keyboard and guitar playing - both quite distinctive . I also loved the drumming .Though the singer died , they have found another singer who loves the music and takes the opportunity to sing for all the fans who deserve to hear the music performed again - as long as it's done well .This DVD shows all this was done with the best intentions and there is nothing worse than a musician who can still play and is not playing - it is a kind of living death .A lot of bands have gotten rich imitating the Doors .This is as close as we can get to the original sound , forgetting about the original drummer's lawsuit .Well done guys - I wish you more success . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well worthwhile , they're not just in it for the money </p>
+
+
+<h2> review.date </h2>
+  10-23-2007  
+<h2> review.text </h2>
+
+ <p> To all who wanted to hate this D21C band with Ian Astbury at the vocals, admit it....they are GREAT, and Ian is just plain fabulous as the vocalist. He really seems to connect with the audience and brings out his own poeticness in his rendition of the songs. What an awesome performer. They are all having a great time and loving it and you can see it in this dvd. I have always loved the doors and the cult and when I found out Ian Astbury was doing this just recently, I had to see what it was like. And, I was very pleasantly surprised. They couldn't have made a better choice than Ian Astbury. Ray and Robbie are awesome too and are obviously enjoying themselves; and I think Robbie looks great in his military fatigues? He's really on with his guitar playing as well. I liked the interview clips in between the songs as well. We all love and miss Jim Morrison. He was one of  the great ones and his legacy will live on. And, we can still enjoy listening to his music and the music of the Doors. But, I believe Jim would love that Ray and Robbie are still out there performing their music and would love that one of their admirers/fans, Ian Astbury, is singing his songs with such feeling, and doing an amazing job of it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow! What a show. Ian Astbury is GREAT!!! </p>
+
+
+<h2> review.date </h2>
+  05-17-2007  
+<h2> review.text </h2>
+
+ <p> Great band, amazing performance.  Now they are called Riders On The Storm and now that Ian Astbury is gone back to reform the Cult i've lost interest their new singer does not fit the part at all.  They are getting embrassing now, Ian was their last hope at replacing Morisson who will never be replaced. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Doors Of The 21st Century </p>
+
+
+<h2> review.date </h2>
+  06-29-2005  
+<h2> review.text </h2>
+
+ <p> If you read my other reviews, you'll see that I am a big fan of The Cult (Ian Astbury's former band), which makes me one of the few who was looking forward to this project BECAUSE Ian was the lead singer.For the record, the D21C project is not the first time Ian Astbury's name has come up in conjunction with Jim Morrison's.  For those not in the know, in 1990 when Oliver Stone was casting "The Doors" his first choice to play Morrison was Ian Astbury over Val Kilmer who eventually played the part of Jim.  Coming off their huge success of the platinum "Sonic Temple" album, the Cult were touring and Ian could not commit the time needed to the project.  In addition, in the mid to late 80's when the Cult were in their hey day, more than one critic mentioned how the Cult was clearly influenced by the Doors and how Ian Astbury even resembled (and sounded like) the Lizard King himself.The last time we saw Ian, he was attempting to revive the Cult with 2001's "Beyond Good and Evil", unfortunately, the public's interest in the Cult is stuck in 1989, and after a 2001-02 tour of an album that was going no where, the Cult (I think) finally called it quits.  Moreover, Ray Manzarek came knocking on Ian's door (pun intended) about reviving the Doors to tribute Jim with an "LA Woman" tour.  Ian, at the time was all to willing to finally abandon the Cult and fill the Lizard King's shoes after many years of comparison.Enough history, on to the DVD. Being fairly ignorant about the Doors, once I heard Ian was taking on the role of lead singer, I began downloading some of their more famous songs from iTunes and started to get into the band, I borrowed the aforementioned "Doors" DVD but have yet to watch it, lastly, I ordered this DVD last week on line.  After watching the DVD, the verdict? Mixed.Not only is Ian trying too hard to sound like Jim, he's now trying too hard to look like Jim too.  Yet as awkward as he is in the role, he still manages to pull it off and quite brilliantly at times too.  Highlights are "Roadhouse Blues", "Light My Fire" and "Break on Through."  The DVD mixes in interviews with Ray, Robby and Ian throughout the performance, which conceptually is a good idea, but you can tell that Robby and Ray were clearly part of the "60's hippy generation" because some of the things they say just seem all wrong and I found my skin crawling with embarrasment for these guys.  Ian's spots seem out of place too, maybe some vintage footage of Jim would have served the DVD better.  Finally, I sort of wish the guys would have fit in a Cult song, perhaps "She Sells Sanctuary" or "Fire Woman" (I wonder if Ian was thinking of "Light My Fire" when he wrote that song.)At the end of the Day, if you're a Doors fan, it's great to see Robby and Ray giving it all they've got for their fans who never saw this album played live.  For Ian, he elected to take on the impossible position of being compared (usually in a not-so-positive light in the minds of Door's purists) to a rock legend by filling in with these guys. The production of the DVD is first rate, sound, video, editing are all excellent!  Some of the best I've seen in a live DVD.  A good value, even for Doors purists.Three questions remain; will this group and this DVD revive the fortunes of the remaining members of the original Doors? Will it revive the career of a fallen 80's rock star in Ian Astbury?  Will it help either?The answers to all three questions are; who knows?  In order for it to work and make it legitimate, these guys will need to release a CD with new material that catches on in popularity, I just don't see that happening.  Which will make D21C little more than a tribute band. At a minimum, it looks like these guys are enjoying themselves.In the end, LA Woman Live is a worthwhile purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, not Great - Ian fills in admirably for the Lizard King </p>
+
+
+<h2> review.date </h2>
+  03-05-2007  
+<h2> review.text </h2>
+
+ <p> I was skeptical about this DVD at first.  Singing classic Doors songs without Jim just didn't seem right to me.  However, after seeing this remarkable concert, I am more than pleased.  Ian Astbury is a very capable Jim Morrison look-alike/sound-alike.  He even mimicks some of Jim's poetry (as in "Break on Through" - "dead cat, dead rat...").  And seeing Ray Manzarek and Robby Krieger on stage together again is a breath taking experience.  There is one moment in "Light My Fire" where Ian leaves the stage, and Ray and Robby each solo for a few minutes before Ian's return.  It's fabulous.  All in all, this performance  is very strong and any Doors fan will be happy to have this in their collection.  Now, what might also be an interesting experiment is for Ray and Robby to go out and play their "Other Voices" and "Full Circle" albums. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Strong Performance </p>
+
+
+<h2> review.date </h2>
+  03-06-2009  
+<h2> review.text </h2>
+
+ <p> The 21st Century Doors played only two songs from the "L.A. Woman" album -- the title cut and "Riders on the Storm" -- when I saw them perform in Manhattan several years ago.  Thus, I was glad when this DVD came out, with every song from L.A. Woman performed except "Crawling King Snake." (I do not like it anyway.)  I certainly did catch renditions of "Roadhouse Blues," "Break on Through," "Love Me Two Times," "When the Music's Over," and "Soul Kitchen" in NYC, and on this DVD these big guns are just as strong.I also remember how good the light show was in New York, and it is perhaps greater on this DVD:  Rays of purple, blue, pink, and crimson envelope the stage and the audience throughout the concert.  Appropriately, yellow often becomes prominent when the L.A. Woman songs are played.  A great slide show in the back displays shapes and forms that constantly metamorphose, like bubbles in a sea of blue, but also shows some scenes from videos.  When the concert begins, keyboardist Ray Manzarek wears a whitish coat and guitarist Robby Krieger sports an outfit modeled after a National Guard uniform.  Later, both take their jackets off, figuratively rolling up their sleeves as the show becomes more absorbing.Ray employs multi-sound keyboards, but their softer character and lower volume sometimes de-emphasize his input so that the overlay does not sound quite like the old Doors.  His part on "When the Music's Over," for example, is not so overwhelming.  This results in greater prominence for Robby, and does Mr. Krieger ever rock with power!  Anyone who watches this video should find it strange that some say that Robby's skills have diminished.  The fact is his power is equal to the old days and his dexterity is even greater.  As good as Robby's blistering, extended soloing on "Roadhouse Blues" is, he outdoes it on "Love Me Two Times," arguably the DVD's best track.  As for Ray, setting aside the above he remains a whiz on the keyboards, always romping and in complete control, and he comes up with some original textures. Ian Astbury of The Cult is groomed like Jim Morrison and sings with great force, but he does not try to become Jim Morrison, for which he deserves credit.  For example, he does not go into drawn-out poetry on "When the Music's Over," but instead basically sticks to the original structure.On the song "L.A. Woman," I would have liked more extensive instrumentation.  Still, the group displays its worksmanship there and on the other tunes.  Robby shows a great blues edge on "Been Down So Long" and "The WASP."  After "Light My Fire" comes the concert's best moment, the finale:  "Soul Kitchen."  Ray's keyboards come alive for the streaming parts and combine with Robby's funky guitar to blow the crowd away.  The song's dramatic texture excites everyone so much that a huge throng comes on stage mid-way, dancing and singing in one of those situations in which human consciousness unites in celebration of existence and brotherhood.  It is one of the most enjoyable things I have ever seen in connection with a rock concert.  The spirit of The Doors lives forever! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Doors Redux, for Cult Followers </p>
+
+
+<h2> review.date </h2>
+  08-12-2004  
+<h2> review.text </h2>
+
+ <p> I bet Jim Morrison while in heaven would be pleased to see his band members move on and rock the 21st century. I admire & adore them not only for continuing Jim's legacy but for making our hearts fully loaded because of their love of music. Truly one of the best rock bands in music history. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Doors of the 21st century". </p>
+
+
+<h2> review.date </h2>
+  02-22-2006  
+<h2> review.text </h2>
+
+ <p> I was lucky enough last December to see The Doors of the 21st Century (now called Riders on the Storm) and it was one of the best days of my life. The songs they placed were well chosen, they did a great job of doing it. I met drummer Ty Dennis and new bassist Phil Chen backstage and almost met Ray Manzarek, Robbie Krieger, and Ian Astbury. It was great; So, I was interested to watch the DVD to see them perform a few songs they didn't perform at the concert I went to (like one of my favorite Doors songs "Love Her Madly" & "Soul Kitchen). This DVD is great and does not dissapoint. The way it's filmed and compiled is great and of course the video and audio quality is spectacular as well. At the concert I went to Ray Manzarek was playing keyboards with his teeth and his feet at moments. In this one, he plays with his head. Robbie Krieger looks awesome, wearing a beanie and dog tags. Ian Astbury looks very Morrison-esque, but I did notice that when on camera the band did act quite a bit differently. Astbury spits on stage quite a bit and is literally drinking water every chance he gets. On this DVD, he drinks no water and doesn't spit at all. But he does wail away at every song placed in front of him and that's something I love about Astbury. While there is definitley a resemblance between Astbury and Jim Morrison, Astbury never tries to be Morrison. He uses the same voice he used in The Cult, when he begins to chant Mr. Mojo Risin' during the performance of the song "L.A. Woman" he dedicates it to Jim Morrison. He does do a few things (dance moves, etc.) that are Morrison-esque, but all-in-all does justice to the fallen poet. Obviously, if you're a Doors fan you'll notice that John Densmore does not appear on drums and is replaced by Ty Dennis. Dennis imitates Densmore's every move perfectly and is a great guy to replace him with. Bassist Angelo Barbero replaces Ray Manzarek's hand really and does a great job, but is (in my opinion) not quite as good as Phil Chen. Anyway, this is a fantastic concert DVD and a must for Doors fans/enthusiasts. A+ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  07-28-2004  
+<h2> review.text </h2>
+
+ <p> I found out about this whole project quite by accident doing a search for something completely unrelated and there it was a reference to Ian Astbury being a member of THE CULT and some band called The Doors of the 21st Century.  WHAT?  Clicked on a link to here a link to there and boom.  They have been doing some shows since 2003 and touring in 2004.  There are live audio recordings of some of the shows this year, available for purchase via download or by mail.  Downloaded the Denver show and was blown away by the sound and the fact that after 30+ years, they put this project together, found a suitable replacement for Jim Morrison (IMHO) and the result just ROCKS!  Then I hear about this DVD, picked it up and gave it a play and it ROCKS!  The picture quality is pretty great for the most part and the audio, especially in DTS once you get the trim or 5.1 balance right is fairly great.  It's just incredible seeing these guys again for the first time.  Ian channels Jim Morrison and Robby Krieger burns on guitar.  I never considered him one of the guitar gods but he can definetly hold his own.  The DVD is a great show, thoroughly enjoyable.  I'll probably never get to see these guys live but this is the next best thing and if you were or are lucky enough to catch one of the shows on the tour, you still might want to pick up this disc.  Now which Doors of the 20th century DVD to buy? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Open the Doors of the 21st Century </p>
+
+
+<h2> review.date </h2>
+  06-24-2005  
+<h2> review.text </h2>
+
+ <p> God, this was like a really good Doors Tribute band, but on an off-night. Ray's Keyboards sound really thin and the new drummer just doesn't get the vibe that Densmore was so good at capturing. Kreiger is pretty good, but looks ancient on stage. Ian Ashbury is no Jim Morrison and having someone up there looking like him and partly sounding like him only makes you miss Morrison all the more.Rent this if you just like NEW things, but otherwise, its not the Doors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Glazed and Shrunken </p>
+
+
+<h2> review.date </h2>
+  08-07-2004  
+<h2> review.text </h2>
+
+ <p> I'm in my mid 50's and purchased my first Doors album in 1969. In the past I owned an operated a record store for 20 years, my record collection was over 5,000 albums before switching to CD's. For the past two years my passion has been concert DVD's, now that collection numbers almost 150 titles. I can still remember the first time hearing L.A. Woman, it was August 1971 and news of Jim's death still seemed like a bad dream. I was stationed in Korea and our base chaplain ran a little coffee shop for the troops that didn't like the NCO Club scene, you could play cards but most importantly listen to records. Now, over 30 years later, the Doors have been on my back-burner for quite a while, that is until I started purchasing DVD's. "L.A. Woman Live" is my seventh Doors DVD, although "Isle of Wight" only features two songs. The six DVD's have rekindled that interest, watching Jim and the boys perform makes you feel you've just discovered some great new music. If I hadn't purchased those other Doors DVD's before this one, my feelings and anticipation might be different, but I can't really say. But, I can say, this is the best DVD in my entire collection, if someone tells you they don't like it, they are trying to find fault. There are flaws, however the original Doors had flaws, they weren't "Yes", it was Jim and his poetry with a little back-beat. The only glaring omission is the other living member, drummer John Densmore isn't with them, but that was his choice. If you liked the Doors' Storyteller DVD, you'll love "L.A. Woman Live". End of story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Sleeping Giant Awakes! </p>
+
+
+<h2> review.date </h2>
+  08-26-2004  
+<h2> review.text </h2>
+
+ <p> THE SHOW THAT WAS SUPPOSED TO BE RECORDED FOR THIS SHOW (AND AS FAR AS I KNOW WAS RECORDED BUT NOT USED FOR THE DVD) WAS THE JONES BEACH, LONG ISLAND NY SHOW. IT WAS A PERFECT SHOW, GREAT NIGHT OUT, GREAT SOUND AND WONDERFUL SHOW BUT THEY DID NOT USE THAT SHOW. IN FACT THAY PLAYED THE ENTIRE L.A WOMAN RECORD AT JONES BEACH AND THE NIGHT BEFORE IN N.J.BUT EITHER WAY I'M SURE IT'S A GOOD SHOW BUT I CAN ATTEST THE JONES BEACH SHOW WAS PERFECT. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> almost perfect </p>
+
+
+<h2> review.date </h2>
+  04-11-2008  
+<h2> review.text </h2>
+
+ <p> Dismissing any "should they have done this," "shouldn't they" issues up front...They did. And it was a good thing.John Densmore chose to sit this one out. Hence the "Doors of the 21st Century" label. He wouldn't allow Krieger and Manzarek to bill themselves as "The Doors." Right or wrong, fair on unfair, it was his legal right to do this.Did Ian Astbury deliver? No, he didn't. He BLED. This isn't some bar band garbage. From the opener "Roadhouse Blues" to the closer "Soul Kitchen," Astbury gave everything he had to these classic songs. He held nothing back. Ray and Robbie SMOKE. Jim's gone and there's nothing we can do about that. I agree with Ray...this band kept Jim's songs alive and he WOULD HAVE loved that.It's the tour that never happened...th "LA Woman" tour, aborted due to the death of the band's lead singer. In 2003, Manzarek, Krieger, Astbury & crew gave you the impossible...the LA Woman Tour.It's shock & awe. Astbury's no poser, and for anyone who disapproves of the concept, he's gone...reunited with The Cult...but while he was there, he reminded us of the spark that Jim Morrison brought to the world.Why do you think Jim is mentioned in the same breath as Jimi and Janis? Al three of them changed the rules. I feel that Manzarek and Krieger had the right to do this. It's over now...until they decide to reinvent themselves yet again...but this is a 5-star release. Period. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "Jim's Poetry is being BLASTED out to the audience...he would have LOVED it" </p>
+
+
+<h2> review.date </h2>
+  07-20-2004  
+<h2> review.text </h2>
+
+ <p> Okay...I am getting sick of this...has it happened to you? You avoid a live show for any number of reasons...and then the video/DVD from that tour comes out and you wish you had moved heaven and earth to see the show!Case in point...the doors of the 21st century..I hated the idea of &quot;beatlemania&quot; versions of THE DOORS....even loving Ray and Robbie as I do....I didn't think the singer from The Cult did that well on Storytellers....(Scott Weiland was the best by me)....so I avoided this tour and now .....after watching the DVD....I am mad at myself...It looks like a very fun/cool show....Ray and Robbie played GREAT....Ian didn't do all that bad and struck a great JIM pose...and while it may echo Beatlemania.....it would have been great to have been there.The quality of the production is first rate but to repeat myself...there is no greater praise I can give a show than to say it makes me WISH I would have seen it and this DVD had me on Ticketmaster HOPING they would return...hopefully with more people digging this video they will be encouraged to tour again... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> another missed show....CURSES ...wrong again!!!! </p>
+
+
+<h2> review.date </h2>
+  08-12-2004  
+<h2> review.text </h2>
+
+ <p> The Doors touring without Jim Morrison? This will surely seem like sacrilege to many purists, and indeed it has. When original Doors members Ray Manzarek and Robby Krieger (drummer John Densmore is not joining the revival and has actually taken Manzarek and Krieger to court) decided after a popular VH1 Storytellers episode to tour again with former Cult frontman Ian Astbury filling-in for the legendary, highly influential Morrison, it sparked a lot of uproar. It can be argued that Morrison was the heart and soul of the band. His image of a wild poet in leather pants collapsing and screaming in ecstacy during concerts is part of what has kept the music of The Doors so popular. But fans need not worry, this DVD, "L.A. Woman Live," which is basically a performance of the entire "L.A. Woman" album with a few other classics thrown in, is more homage than comeback. There are no new songs and Krieger and Manzarek come off more as two veteran rockers who want to just play in public again. All eyes however, are most likely on Astbury. During his years with The Cult his Jim Morrison-like persona was signaled out a lot but here he's actually filling-in for the Lizard King. A lot of his performance is very good, Astbury doesn't lack a voice and his range fits well with the songs. Of course he looks more controlled and subdued than Morrison, who with one look at the camera was telling you he was completely insane. But Astbury isn't trying to copy the original, even his hair looks more like a fun way of winking at the Morrison icon. Stand out tracks include a dynamic "Break On Through" and epic "When The Music's Over" where Krieger really whales and assaults with his guitar. "Light My Fire" is of course here and it's been so endlessly infused into popular culture that all you can say is, "it's cool, of course the original's the best." The production is also stylish and artistic, especially the touch of psychedlic lighting and candles on stage. The only complaint here is that while it's interesting to see the entire "L.A. Woman" album played live, it doesn't feel very fulfilling. Would we seriously prefer to hear "Cars Hiss By My Window" over "People Are Strange" or "Hyacinth House" over "The Crystal Ship" or "Backdoor Man?" I caught their show in Albuqurque, New Mexico and thought their renditions of "Not To Touch The Earth," "Maggie MGill" and "Alabama Song" were excellent, it's shame they aren't featured here. A few more extra features would have been welcome as well (Doors DVDs are apparently poor in this department except for the "Doors Collection" and "The Doors" movie DVDs). The Doors Of The 21st Century prove they got the stuff to rock, but a better DVD still eludes them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Good Performance, Classic Songs But DVD Lacks. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

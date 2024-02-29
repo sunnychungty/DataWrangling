@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0078CZBUM <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Replacement Battery </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Works well as a replacement for a defective battery I had in a refurbished Uniden phone.  My original battery would  only last 30 minutes or so.  I have not had this one even drop one tic on the battery indicator after more than an hour. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I'm a happy customer </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I had two phones that had about 15 minutes of battery life.  After these were charged, I've used the phone for an hour and still showed a good charge. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It works just fine </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bought it about 6 moths ago. Fits and works as represented.I love it when a plan comes together and i can use my phone. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfect! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Perfect! These batteries are like $10 each at wal mart. These work perfectly. I ordered 2 different brands, the others were a slight but longer but these are the perfect size. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Better than original uniden Battery </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-10-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This battery is better than the original one that came with my Uniden cordless phone. I charge it overnight and it lasts me for over 3-4 days fter that without going back on the recharge dock. Awesome product !! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> worked great bin my uniden phone </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> wireless handset batteries used to be so expensive.  these batteries were very inexpensive and saved me from having to buy new wireless handsets. The seller sent the sent the product quickly and I have no complaints </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Bought 2 Only 1 Works </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought these to replace the non working batteries in a phone I bought from a 3rd party Amazon seller. One of the batteries isn't holding a charge as it should.For the price I supose I got what I paid for. That's the risk on these 3rd party sellers. More folks should send in reviews. I rely on them for purchases.I wouldn't recommend this seller. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> 3 phones that wouldn't hold a charge, until I purchased these.  Now each phone in any given room works and doesn't die as soon as I answer it.  Much cheaper than replacing the phones! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Uniden replacement battery </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-27-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Fits well as a replacement battery for the Uniden phone BUT it takes way to long to arrive and there is no tracking data available although the company did it's best to keep me satisfied. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It workwed. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Although it is over rated for my phone (mah), it worked ok. Why do you ask for so many words? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Replacment </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> These work great I ordered 2. One phone had died and we have 2 matching handsets. I figured there is a good chance the stock battery will die in the future on the working handset so I wanted a back up. what else can I say it saved me from having to spend 50-60 bucks on a new phone system for the house. They also had a small charge in them so I was able to test them as soon as they arrived. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It Fits!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased a replacement battery from another dealer which was said to be for the Uniden DECT 6.0. The battery connector plug would not fit the port. Time and money wasted.I then ordered another battery from EZFindDeals. The battery arrived on the first day of the estimated delivery period. There is a note on the battery to charge it for 16 hours before using. I will do that. First though, I did check to see if the battery connector plug would fit. It does fit, and the instant I plugged it in, the phone lit up ready for use. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works right away </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Changed the battery in the phone in a minute, and the battery worked right away.  Perfect replacement for OEM battery. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Defective-avoid this seller </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Battery came on time, but would not accept a charge in my phone handset. I tossed it and bought another at retail store.I assume that it had sat on a shelf somewhere for too long. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> They are just fine. </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I ordered a package of three. They arrived in record time. We installed them on three Uniden phones, charged them up in the first 24 hours and we are using them. They are just fine. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> BT1021 Cordless Phone Battery Replacement </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Timely shipping and arrived with no issues.  This is an exact fit for my Uniden Dect 6.0.  Had phones in storage for a year and when pulled them out all the batteries were dead.  These replacement batteries solved the problem and now they work like new. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Long lasting </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great replacement.  Most of the time a new battery is all it needs.  Cordless phones haven't changed much so keep yours going. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very long lasting </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> These batteries have been installed in my phones for about 6 months now and a charge lasts for about 3 - 4 days on my cordless phones with about 10 - 20 mins of talk time on an average day. These are a great buy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> fits well </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-19-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> we were hesitated in the beginning to order it and not sure if it is fit well but it does fit well, very easy to install and hold charge for long time. highly recommended </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works fine! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This item perfectly matches the OEM battery that came with the phone and works fine. Very pleased with this purchase. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cheap, easy, works perfectly </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Thought at this price might be a throw away, but for this price why not chance it? Cheap, easy, works perfectly. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Acceptable replacement for OEM battery </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-02-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This review is being written 12/2/2012 for Uniden BT1021 Cordless Phone Battery 2.4 Volt, Ni-MH 750mAh - Replacement fo UNIDEN BT-1008, BT-1016, sold by third party vendors who advertise on the Amazon website.This battery replaced the OEM unit in the Uniden phone OK.  It contains two AAA batteries connected together and surrounded by an outer jacket.  Its performance is rather weak, but that is more the fault of the phone design and decision to use AAA's to save weight and cost vs. AA's which last longer and are used in some other Uniden phones.  Even with the so-called power-saving design on the newer Uniden phones, the AA-designed units last longer between charges for me.Overall, I'd recommend this product as long as the price is cheap. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Worked right out of the box ! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Good product and, you cannot beat the price ! Fit our phone perfectly and worked immediately.Would buy again, and recommend it. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

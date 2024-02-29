@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00008DDRJ <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-21-2013  
+<h2> review.text </h2>
+
+ <p> This is a wonderful DVD- I would recommend it to every musician and anyone interested in good entertainment. The singing and acting were tops! The jovial relationship between the drunken jailor was great fun. I loved every minute of it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Die Fledermaus - a great entertainment </p>
+
+
+<h2> review.date </h2>
+  04-15-2014  
+<h2> review.text </h2>
+
+ <p> Enjoyed this very much. Especially with Domingo conducting and interacting with the jailer in act three.  A very enjoyabledvd11 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> LOVE IT! LOVE IT! LOVE IT! </p>
+
+
+<h2> review.date </h2>
+  10-18-2009  
+<h2> review.text </h2>
+
+ <p> I do not want to go into the details of the story encase this is your first introduction to "Die Fledermaus" by Johann Straus. However it is a lighthearted tale about a man Dr. Falke "Her Dr. Fledermaus" (BenJamin Luxom) getting back in his friend Gabriel von Eisenstein (Hermann Prey) for an embarrassing moment. The story starts off quite simple and gets more complex as it goes turning into a farce, than a bit of slapstick, than into a revelation, and the last laugh.This is my favorite version of the story is all of the people in here are well known today. During the second act they even deviate from the story to allow a lot of the individual performers to perform individually such as Dame Hilda Bracket & Dr. Evadne Hinge sing "Three Little Maids" from the Mikado, and Charles Aznavour "She"; it is a fun break. Even the conductor, Placido Domingo, gets a chance to enter back here and in several other parts of the play.Verdi - Otello / Solti, Domingo, Te Kanawa, Royal Opera Covent Garden </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A tale of revenge </p>
+
+
+<h2> review.date </h2>
+  09-23-2009  
+<h2> review.text </h2>
+
+ <p> All the complimentary remarks about this performance are appropriate.  There is, however, a more delightful performance with virtually the same cast, recorded New Year's Eve 1977, which may be the first year this production was used.  It was, amazingly, broadcast on a local TV Station ... twice.  The first run-through had a slight glitch in the sound.  The second time through, the glitch was corrected.  I was fortunate to videotape it but, alas, I taped the first performance. Even with the glitch, I wouldn't part with it.  The only major personnel difference in the earlier performance was the conductor, Zubin Mehta.  The Overture is truncated but the performance is complete and includes the balloons and confetti (it was New Year's Eve)at the end.  Visually, the major change is that all of the singers had gained ten to twenty pounds.Yes this commercial release is a delight ... but. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This is a fun performance, but there is a better one ...  where is it? </p>
+
+
+<h2> review.date </h2>
+  04-12-2006  
+<h2> review.text </h2>
+
+ <p> Johan Strauss II didn't get his reputation as Vienna's Waltz King for sitting around eating strudel mit shlag. He wrote glorious melodies...waltzes, polkas, mazurkas...that set people to dancing and smiling. His music still does.Die Fledermaus is a Viennese fable of lechery, love, revenge and romance, of beautiful wives, juicy maids, amorous husbands, clever friends, a mysterious count and a drunken jailer, of white tie and tails, beautiful gowns, a gold watch and lots of champagne. Most of all, it is a light-hearted and mischievous story that features some of Strauss' most romantic and bubbling music which just washes over the audience. The story is too comically complicated to go into. Just remember that it's all about a bit of revenge for a practical joke played by one friend on another a year earlier. In Act One we're at the home of Gabriel von Eisenstein (Herman Prey), who is about to spend eight days in jail for an indiscretion. But his good friend, Dr. Falke (Benjamin Luxon), convinces him to delay the trip to the jail until the next day, so that the two can go to a magnificent dinner party, without telling Eisenstein's beautiful wife, Rosalinda (Kiri Te Kanawa), held by the mysterious Russian nobleman, Count Orlofsky (Doris Soffel). Ah, but then the plot thickens. Through clever stratagems, invitations have also secretly arrived for Rosalinda, who is to go in disguise so she can see for herself her husband's amorous ways, and for Roslinda's maid, Adele (Hildegard Heichele). All that follows is a story of mistaken identities, beautiful songs and, eventually, happy endings.What makes this particular production at Britain's Royal Opera House so effective is that it's not only sung superbly, it's not only sumptuously mounted, but it's funny. The dialogue is spoken in a mixture of German, French, English and Italian in an amusing play on the characters' nationalities, but also on the nationalities of the singers. And the singers are not only in great voice but are seeming to take great delight in playing the characters. All of them, especially Herman Prey and Benjamin Luxon, appear to be having the times of their lives. Their good spirits are as infectious as the music they sing.It's traditional for the party at the Count's to be interrupted by special surprise guest performers. Making appearances are Charles Azvanour, ballet stars Merle Park and Wayne Eagling in a stunning pax de deux choreographed by Frederick Ashton, and two genteel English ladies, Dame Hilda Bracket (who sings) and Dr. Evadne Hinge (who accompanies on piano). If you didn't know they were really...well, see for yourself. To fully appreciate them, you'll need to use Google. Joseph Meinraad plays the 3rd act non-singing drunken jailer, Frosch, who has several comic moments bantering with the conductor, Placido Domingo.This is a filmed record of the performance. Clear subtitles are available and are probably recommended if you're not already familiar with the story and the songs. The only drawback is the quality of the DVD. It's not really bad, but is about at the level of a middling VHS tape. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Outstanding, Clever, Funny Production of Die Fledermaus </p>
+
+
+<h2> review.date </h2>
+  08-23-2006  
+<h2> review.text </h2>
+
+ <p> The first and third acts are both delightful, the second act is where I had a problem. Whereas the first and third acts followed the score fairly closely, the second act is greatly expanded with specialty performances that vary considerably in their ability to communicate. On repeated viewings, I found it increasingly easy to fast forward over several of the added performances. Such is the beauty of the DVD.The first and the third acts generally make up for the somewhat bloated second act. The second act does have some enjoyable parts, and one can pick out the parts that will stand repeated viewings, and just skip over the others. I will admit that I've viewed the DVD in it's entirety only once; I have, on the other hand enjoyed the first and third acts, as well as selected parts of the second act many times.The added performances are, in their own ways, competently done. I just feel the flow of the second act is seriously compromised by all of the extra performances.On balance, I'm glad I have the DVD; the portions that I've mentioned favorably above are really quite good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It Has Some Sparkle </p>
+
+
+<h2> review.date </h2>
+  07-18-2009  
+<h2> review.text </h2>
+
+ <p> To kultur, we owe this distribution of a 1981 Australian production of the Viennese standby by Johann Strauss. In light of the reviews to other DVD performances by Dame Joan Sutherland, pleasure in this one will be dictated by ones responses to her performance in what were her 50's. In other respects, this is a traditional approach emphasizing the fun and games of life  for the wealthy in the last days of the Austro-Hungarian Empire. The cast fills its assigned role in this story of a practical joke played upon a practical joker. Dame Joan's husband leads the orchestra and the cast in a rousing, effervescent performance while the sets and costumes reinforce the gaiety, so that the now classic score is shown to best advantage. Never having seen Dame Joan's more youthful performances, I cannot compare them with 1981 when she would have been in her mid-fifties, not really old for a well-trained voice carefully managed voice. I enjoyed the evening with her in the role but, for me, a more Patrice Munsel, Roberta Peters, Dorothy Kirsten type would have been suitable; however, that is merely a matter of taste not a qualitative judgment.All in all, this is quite an acceptable offering among Fledermaus DVD's but I do not find it to be markedly superior. If you are a fan of Dame Joan's you should be quite happy with it( I should think). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another Joan Sutherland Evening </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> These are souvenirs of my past time when yeye,gogo were not in our culture. Too bad!!!! Let it be,as the Beatles says. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ALL of these </p>
+
+
+<h2> review.date </h2>
+  01-03-2013  
+<h2> review.text </h2>
+
+ <p> Dame joan Sutherand was obviously enjoying doing this role, the opperetta is funny and very well done and the music great </p>
+
+
+<h2> review.summary </h2>
+
+ <p> wonderful music </p>
+
+
+<h2> review.date </h2>
+  09-13-2007  
+<h2> review.text </h2>
+
+ <p> SOURCE: Live 1983 performance at the Royal Opera House, Covent Garden, London.SOUND: Reasonably good stereo.  The singing of the soloists is generally well caught, the orchestra and chorus slightly less so.  Some dialogue fades occasionally, but that may be due to the performers as much as the sound pick-up.CAST: Gabriel von Eisenstein, a prosperous Viennese gentlemen with a roving eye - Hermann Prey (baritone); Rosalinde, his wife - Tiri Te Kanawa (soprano); Alfred, Rosalinde's would be lover - Dennis O'Neill (tenor); Adele, Rosalinde's maid - Hildegarde Heichele (soprano); Dr. Falke, Eisenstein's good friend but also the victim of one of his practical jokes - Benjamin Luxon (baritone); Frank, Governor of the City Prison - Michael Langdon (baritone); Prince Orlowsky, a jaded and bored visiting aristocrat - Doris Soffel (mezzo-soprano); Dr. Blind, Eisenstein's lawyer - Paul Crook (tenor); Ida, Adele's sister - Ingrid Baier (speaker); Frosch, a jailer - Josef Meinrad (speaker).CONDUCTOR: Placido Domingo with the Royal Opera House Orchestra and Chorus, Covent Garden.TEXT: The lyrics are sung in a German not heavily burdened with Viennese lilt.  Spoken dialogue veers wildly from one language to another.SETS AND COSTUMES: The Royal Opera House, Covent Garden, is a very large theater with a big stage.  The settings are of necessity of large scale.  This makes Eisenstein's residence, which ought to be the well-appointed townhouse of a prosperous but nevertheless middle-class Viennese banker who keeps only a single servant, seem out of scale.  The ballroom set for the second act and the jail in the third are serviceable.  The costumes are generic, late 19th Century, but attractive and appropriate.STAGE DIRECTION: Overall, the stage blocking is quite traditional, even sensible, leading one to make wild speculations about the director having actually read the libretto before staging the piece, improbable as that seems.  The decision to sing in German and speak the dialogue in polyglot form is a questionable one, probably earning, I imagine, about equal quantities of praise and disdain.COMMENTARY: The roots of Johann Strauss II's "Die Fledermaus" stretch back to an 1851 German farce by Robert Benedix, "Die Gef&auml;ngnis" ("The Prison").  In 1872, that admirable pair of hacks, Meilhac and Hal&eacute;vy, cobblers of libretti for both Offenbach and Bizet, converted the old German play into a French vaudeville called "Le r&eacute;veillon" ("The Revel" or perhaps "The Christmas Eve Party").  In 1873-4, the French text was re-translated back into German for Strauss to set to music, but with all references to Christmas carefully expunged as a sop to respectable Viennese sensibilities.  Oddly enough, the one-time Christmas Eve tale that premiered not far away from Easter in 1874 has taken firm root in Austria and elsewhere as a New Year's Eve entertainment.If there exists a poor sound recording of "Die Fledermaus," I have never encountered it.  Each major recording has its unique merits and its champions.  Choosing the best among them is simply an exercise in expressing personal taste.  "Chacun," as we are wisely advised, "&agrave; son got." Unfortunately, the same cannot be said for all the DVD outings of "Die Fledermaus" (and especially not for two recent outright horrors from Salzburg and Glyndebourne, respectively.)  Let me now hasten to allay fears by assuring you that this DVD "Fledermaus" is a good one.  Many, including the Good Grey Gramophone Magazine, regard it as a very, very good one.The cast is a generally sound one, and everyone (but Heichele) seems to be having an infectiously good time, especially Domingo, conducting in the pit.  They are all right, but neither Te Kanawa nor Heichele would be my first choice for Rosalinde and Adele, respectively (nor, indeed, my twenty-first choice, if it came to that.)  Hermann Prey is a sprightly Eisenstein, although perhaps a bit too old and stolid-looking to make Eisenstein's shenanigans entirely convincing.  Eisenstein is a low-lying tenor part or a high-flying baritone role.  I prefer a character tenor as Eisenstein, especially in Act II where he will be the only tenor voice.  Dennis O'Neill sings pretty well as Alfred, here translated into as Alfredo.  Benjamin Luxon, oddly enough for an operatic baritone, is adequate singing but notably better in speaking the dialogue.  Doris Soffel, is a tall, splendidly epicene figure as Prince Orlowsky.  Soffel, a very fine and well-known mezzo-soprano, here sounds very soprano-ish.  Had I been given the choice, I'd have cast her as Adele and Heichele, if I had to use her at all, as Orlowsky.While the performance is enjoyable enough the first time through, there are problems that emerge on subsequent viewings.  The choice of having characters speak in different languages to one another--Te Kanawa in English to Dr. Falke but in German to Eisenstein and Adele, for instance--gets real tired real fast.  The part of Alfred was intended for a Viennese tenor--imagine the young Richard Tauber.  Strauss wrote appropriately Viennese music for him.  Performance tradition, however, has turned Alfred into a caricature of an Italian tenor, Alfredo, and interpolated all kinds of tags and snatches from Puccini and Verdi.  Here, they have gone one step further and made him speak in Italian--hardly the native tongue of a Dennis O'Neill, I fancy.  It's a wearisome conceit. (When they extend the idea to make Eisenstein emulate Wotan when he bids "farewell" to Rosalinde, it's really just too much!)  Even more wearisome is the "gala" in which outside performers offer a mixed bag of turns during Orlowsky's ball ... amusing once, tedious thereafter.Finally, there is the matter of Domingo's conducting.  The Good Grey Gramophone calls it "stiff."  Since the Royal Opera House Orchestra is manifestly not a Viennese band, I'll give Domingo a pass on that point.  On the other hand, he seems to me to be a little over-indulgent on making comedic points at cost to the essential snap and crackle of Strauss' champagne-soaked score.Compared to the overall enjoyability of the show, my negative comments count as relatively minor.  You can certainly do worse--much worse--than acquire this particular version of "Die Fledermaus."Four stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good live performance, fun the first time, but with problems for repeated viewings </p>
+
+
+<h2> review.date </h2>
+  12-02-2003  
+<h2> review.text </h2>
+
+ <p> I have to compare this version to the Carlos Kleiber version and what is most striking is the musicality and ensemble playing plus pure energy visible on the stage of the Kleiber version.  This version is a routine version adapted to an English audience and I find it prosaic at best with the added Act 2 guest appearances which I found annoying.  While I agree with an earlier reviewer that Herman Prey's Eisenstein is well sung, the sheer energy and joy that the Eisenstein of Eberhard Waechter conveys makes Prey's Eisenstein seem pallid.  Janet Perry and Pamela Coburn in the female leads bring both outstanding singing and energy to this production that is not present in this Convent Garden Version.  I really recommend the Kleiber version, not because this version is so terrible, but because the Kleiber version is so integrated and musical that it brings the pure pleasure of Fledermaus to the viewer and listener. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Disappointing Fledermaus </p>
+
+
+<h2> review.date </h2>
+  01-15-2011  
+<h2> review.text </h2>
+
+ <p> This operetta was recorded on stage - but when it is the Royal Opera, Covent Garden in London, the sound is superb, the sets lavish Viennese Belle Epoque, and costumes very elegant.  The performers are world renown artists, and in Act II a very famous surprise guest appears...  The Daily Mail calls this performance musical champagne and I truly agree. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Truly Viennese </p>
+
+
+<h2> review.date </h2>
+  01-31-2004  
+<h2> review.text </h2>
+
+ <p> These comments refer to the performance of Strauss' Die Fledermaus done by the Royal Opera, Covent Garden, conducted by Placido Domingo, starring Kiri Te Kanawa and Hermann Prey as the Eisensteins.  (sung mostly in German, with subtitles in English, German, Spanish, and Japanese.)This performance is a good introduction to Strauss' Fledermaus because Dr. Falke explains to Prince Orlofsky IN ENGLISH! the plot of his complicated prank on his old friend Gabriel Eisenstein.As if the cast of excellent singers and the beautiful costuming were not enough, Prince Orlofsky's celebrity guests make this an evening to remember.  In addition to an appearance by French crooner, Charles Aznavour, there is a ballet vignette with such superb dancing that it will leave breathless even those (like me!) who usually eschew ballet--it's dazzling!Recorded in 1984, this is a New Year's Eve performance that you'll want to enjoy again and again with family and friends. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> THIS  BAT  CAN  FLY! </p>
+
+
+<h2> review.date </h2>
+  03-01-2008  
+<h2> review.text </h2>
+
+ <p> Although the performance dates from the 1980s the DVD is visually and technically quite satisfactory. The DVD I ordered suffered from two or three brief interruptions.  It was a gift to a relative and I wasn't able to determine whether the problem was with the disc or the player.  The performances were all first-rate.  Domingo took the orchestra at a very fast clip in the more "technical" portions of the Overture, but it was musically still quite appropriate.  I particularly enjoyed the occasions where the spoken dialog switched over briefly to English.  The ad libed "entertainment" at Prince Orlovsky's party was very good, but I've seen better. It was a bit inclined for a British audience. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Die Fledermaus </p>
+
+
+<h2> review.date </h2>
+  05-27-2013  
+<h2> review.text </h2>
+
+ <p> I upgraded this opera to DVD from VHS.  I wore out the old copy.I am delighted with this presentation (obviously).  It is my favoriteDie Fledermaus and cast and hope to watch it many more times. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A most entertaining opera </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

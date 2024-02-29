@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1933952415 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-11-2009  
+<h2> review.text </h2>
+
+ <p> This is a book dedicated to explaining the setup and use of the Nikon Creative Lighting System. Its primary focus is on the equipment, explaining how the flash units interface with the sensors in the camera. There are helpful tables that show which flash units can be used with which camera, and which don't.The book appears to be primarily an extension of the user manual. There is a section on the theory of using flash, and a few examples, but the main focus of the book is on getting the flash (single or multiple) and the camera to work together, and understanding  what the various settings and messages mean. Those wishing to focus on creative setups and techniques for flash photography may wish to look elsewhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Extension of the User Manual </p>
+
+
+<h2> review.date </h2>
+  05-28-2013  
+<h2> review.text </h2>
+
+ <p> this book is a one stop for any kind of Nikon speed lights , all instructions well defined and easy to understand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> everything covered in regards to nikon flash </p>
+
+
+<h2> review.date </h2>
+  04-16-2009  
+<h2> review.text </h2>
+
+ <p> I've read a number of articles on line and the manual over and over so I had some vague ideas of the concepts already.  Let me emphasize vague.  This book takes seemingly complicated concepts and explains them in  language and examples that made me wonder --"oh that's what the other articles were referring to".  Honestly I am still reading the book but so far it's been very easy to read and understand.  I'm so excited to finally understand how and why to use different functions.  I am a beginner so perhaps you more experienced shooters will not find it as thrilling as me.  Very very glad I bought this book!!  It's frustrating to buy an expensive piece of equipment and not know how to use it!  .....Was Blind but now I see!!  How sweet is that! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I once was blind but now I see!!! </p>
+
+
+<h2> review.date </h2>
+  02-27-2009  
+<h2> review.text </h2>
+
+ <p> Amidst all the hype about megapixels and flicker, a new technology seemed to slip in under the radar.  The Nikon Creative Lighting System (CLS) arrived and gave users of the brand an unprecedented way to control large numbers of lights with an ease that would help to make better images (whatever better means).  Lots of Nikon flash guns, or speedlights as they are now called, could be spread around a subject and fired again and again, while the photographer looked at resulting images on the camera monitor and adjusted the speedlights without ever leaving the shooting place until the photograper got just the lighting desired.  Unfortunately, with this increase in versatility came an increase in complexity.  It's this complexity that Mike Hagen is attempting to deal with.The book includes chapters on the CLS system and flash theory in general; the buttons, modes and operations of each of the speedlights in the system, including the SB600, SB800, SB900, the SU800, the SB200, and the R1C1; the capabilities of the Nikon cameras that are integrated into the CLS system; batteries; and technique, including some examples of the use of the system.The author aims primarily at the functions of the equipment rather than applications about which there is little discussion.  For example, multiple flashes are quite useful in lighting interiors but there is no mention of this in the book.  Nikon actually provides a pamphlet with their speedlights that does a better job of showing applications.Unfortunately, the author often shows a lack of precision in discussing topics.  For example, he indicates that the flash will tell you that it was not powerful enough to illuminate a scene by placing a minus sign in the upper right hand corner of the speedlight screen when a scene is underexposed.  One might assume that this is some form of pre-metering but actually one must first take a picture, using the flash, to get this indicator.  He also doesn't mention that the flash indicator on the flash will blink and that on some Nikon cameras, an indicator will blink in the viewfinder.  For another example, Hagen tells you that you can press the zoom button to change the dispersion pattern of the SB800, but doesn't show you an image of the zoom button.  That's because there is no separate button for zoom on the SB800; you have to use the multifunction dial for this purpose.Some important subjects are omitted completely, like the integration of the speedlight with the camera.  For example, there is no mention of the difference in shooting in aperture mode, shutter mode or manual mode.  Similarly Hagen fails to provide important information that would allow one to figure out how to handle unique situations, like the fact that the flash tube only lights with one brightness and that it varies its illumination effects by the length of time it is on, or that in high speed mode the flash fires more than once, meaning that it will put out less illumination for each burst.Users are hungry for information about the CLS system, and this book is the best available on CLS.  Let's hope a better one comes along. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Neither Precise nor Comprehensive </p>
+
+
+<h2> review.date </h2>
+  04-14-2010  
+<h2> review.text </h2>
+
+ <p> While Nikon CLS is a really powerful system to take great, near pro level flash photos, the various flash units that fall under the "CLS" umbrella are each unique.Each of the Nikon flashes I have, SB-600, SB-900 and R1 all have completely different controls. I am convinced these were designed in different countries and cultures as the controls for one model has ZERO to do with the others.The Nikon manuals that come with these units are very detailed but there is often no context for the comments. That makes it hard to relate various shooting situations to the methods of how the flash can be used in that scenario.This book is just the opposite. It takes the features and shows examples where they come into play.After reading the sections on my flash units, my shots were clearly better and much less "snap shotish" in appearance.I am convinced the 2 hours it took to read the sections on my flash units has reduced the learning curve by as many weeks.I highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quickly gets you on track </p>
+
+
+<h2> review.date </h2>
+  12-07-2010  
+<h2> review.text </h2>
+
+ <p> As a pro photographer myself, I've come to rely on Mike Hagan's expert advice. I keep a copy of Hagan's book on my laptop desktop, so it's available for quick reference when I need it in the field. I find the instructions very well written, logically laid out and the illustrations augment the text and help clarify his points.[...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Indispensable resource! </p>
+
+
+<h2> review.date </h2>
+  09-01-2009  
+<h2> review.text </h2>
+
+ <p> Mike Hagen's book is a quick, easy way to add information and learn from his experience, even if you have read the owners manual completely. Mike's book introduces some nice, useful accessories and ideas to explore.  If you use your camera and flash alot, or have a mixed bag of Nikon strobes any additional insight is worthwhile.  This book is worth the price.  It's quick and easy to use.I'm a professional photographer.  I've used Nikon equipment for decades.  It took me a long time to transition to digital Nikons, but now that I have, I don't know how I'd survive in todays climate without digital.  I do lots of event photography, and depend heavily on my flashes, both for primary lighting and fill flash. I've used most of Nikons' speedlights, but with the introduction of the CLS I now have wider capability with less weight and complexity using multiple flashes.  For "Big" shoots I still use my Q-Flash units, with freewire transmitters and receivers.  I really like the new SB-900 and I wanted to see how well it integrates with my other iTTL and CLS strobes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Value added! </p>
+
+
+<h2> review.date </h2>
+  05-15-2009  
+<h2> review.text </h2>
+
+ <p> THE NIKON CREATIVE LIGHTING SYSTEM USING THE SB-600, SB-800, SB-900, AND R1C1 FLASHES is for photographers already seasoned in basics but who need lessons on flash photography and advanced light systems. Step-by-step methods for using the latest Nikon flash units teach all the steps needed to achieve amazing flash photos. Any library strong in photography basics needs this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Any library strong in photography basics needs this </p>
+
+
+<h2> review.date </h2>
+  01-01-2012  
+<h2> review.text </h2>
+
+ <p> Doesn't matter how much you know: if you own a Nikon SB600, SB800, SB900, SU800 or R1/R1C1, you *must* read this book. I've never read such a complete and simple approach to the complexities of Nikon's CLS system. And if you have the newer SB700/SB910, watch out for the upcoming 2nd edition: I've already pre-ordered mine.[...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you have a Nikon Speedlight, you must read this book. </p>
+
+
+<h2> review.date </h2>
+  06-06-2009  
+<h2> review.text </h2>
+
+ <p> Mike Hagen has produced an outstanding and comprehensive book on how to use the Nikon CLS system to maximum advantage. It also covers all current Nikon strobes in detail, and the same for Nikon cameras that can use the CLS system. It is written in an easy-to-follow and understandable manner, and makes the set-up and use of the CLS system very easy to master, contrary to Nikon's instructions books which are about as hard to follow or understand as any such instructions I have ever encountered. A really big "plus" for this book is the very high quality printing of both text and photos.  Many books of this type fall down on the graphics and photos; this one does not as the graphics and photos are clear, large enough to see easily and demonstrate the function the author is explaining. Last but not least is the author's willingness to respond to emails with specific questions. His email address is in the back of the book.  I could not be more pleased. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The absolutely best CLS book available </p>
+
+
+<h2> review.date </h2>
+  04-15-2009  
+<h2> review.text </h2>
+
+ <p> As a fellow Nikonian, I'd like to say thanks to Mike for making my understanding of the CLS (and the SB600 in particular) a lot clearer.It seems as though every generation of gear gets more and more complex. Yet, the manuals from the manufacturers get more and more useless. This book picks up where the manual doesn't even leave off because the manual never even gets close to explaining the practical aspects of using the system.To put things into perspective, I have about 40 years experience in photography and 30 or so using Nikon equipment. Although I'm more than familiar with using flash in "manual" and "auto", the Nikon CLS only became clear to me after reading Mike's book.If you own, or are planning to buy, a Nikon speedlight, do yourself a favor and order the book at the same time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Helpful </p>
+
+
+<h2> review.date </h2>
+  03-04-2009  
+<h2> review.text </h2>
+
+ <p> The user manuals that accompany speedlights are tough to read, and some of the other guides aren't a lot better. Mike Hagen just hit a homer with the updated "Creative Lighting System". Having a SB-600, R1, and just purchasing the new SB-900, I needed a book to simplify the units for me, and here it is. Read it in a night, and actually learned to use my units the way they were designed to be used. Thanks Hagen! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great book, about time! </p>
+
+
+<h2> review.date </h2>
+  12-15-2011  
+<h2> review.text </h2>
+
+ <p> I bought this book on a recommendation from a fellow Nikonian.  The book contained great information on not only the CLS system, but on the speedlights from SB600 thru SB900, including the SB200 macro lighting kit.  This issue was published prior to the SB700.  I would recommend this book to anyone wanting to know more about the system, including iTTL and the other flash settings. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Resource! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

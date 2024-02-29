@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0000AERK6 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-10-2007  
+<h2> review.text </h2>
+
+ <p> I bought this lens Last year on the Tamron Student program.  Its a nice lens.  My first one had a problem that showed up in the first 3 days, it would not go from manual to auto focus.  So I had to replace it.  A hassle but still worth it.  I liked the lens a lot and only sold it off to move up to the much sharper Canon 180mm L 3.5.  If you are looking at a 90/100mm Macro or the 180, get the 180, its so much nicer.  If you cant afford the Canon L series, get the Tamron!  Its tons better than the sigma junk!  And the 180 gives you some distance between you and the object, very nice esp if you are shoot an insect!!!!  I have some images up at Tamron.com  and if you have a tamron lens you can post images there too! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great lens for the $ </p>
+
+
+<h2> review.date </h2>
+  02-05-2014  
+<h2> review.text </h2>
+
+ <p> it has been my dream for a loooong time. finally tamron made it possible with great price & performance. lens is as good as nikon when it comes to sharpness. focusing a little bit slower & a great macro power!!!must to be in the kit. 3.5 at telepohoto & 5.6 at macro photo!!! good price & amazing performance </p>
+
+
+<h2> review.summary </h2>
+
+ <p> micro power!!! </p>
+
+
+<h2> review.date </h2>
+  11-12-2009  
+<h2> review.text </h2>
+
+ <p> Image quality is just astounding. I love the pics I took with this lens.When I purchased the lens I realized that the focus was a little forward, but as it's a macro I'd only be using manual focus.All was going well until it started to auto focus when both the camera and the lens were in manual focus mode.I have returned it today and miss it already. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Such a shame </p>
+
+
+<h2> review.date </h2>
+  06-22-2013  
+<h2> review.text </h2>
+
+ <p> And the price is right too.  I usually don't like Tamron lenses but this one is an exception.  Can be almost as sharp as the Canon 180mm and is good enough for this fussy-about -sharpness person. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good macro lens </p>
+
+
+<h2> review.date </h2>
+  07-06-2012  
+<h2> review.text </h2>
+
+ <p> Pros:Extremely sharpSmooth focusingLighter than a Canon L lens (easy to lug around)Nice rubbery tactile focus ringCircular polarizer rotator ringLonger distance for 1:1 macroBlack (doesn't stand out like the Canon)Has a Lens collarVersatility (180mm also good for portraits)Cons:Slowest autofocus ever on a lensLighter than a Canon L lens (less resistant to impact/mirror slap)Depth of field 1-2mm!As you can see, the pros far outweigh the cons. And the cons are really menial in nature, except for DOF. In macro shots, you rarely need autofocus, and the lightness of the lens is both a pro and a con, higher shutter speeds and you won't need to worry about slap. If you can, use a monopod with this lens, or even a tripod, although that's hard when you NEED 1:1 and your subject moves. It's better to use improvised support and breathing techniques for stabilization than a tripod. You never use autofocus really in very close up shots either. DOF is razor thin. Literally, 1-2mm is all that is in focus at f/3.5. Stop down to f12 with a flash for best results on bugs and flowers, otherwise you could have one eye but not the other, or the top of a stamen, but not the root of the stamen stalk.Now about those pros. This lens is extremely sharp, as with most Tamron lenses. I can pick out a hair on a spider with this thing. That's the end of that. It has very smooth focusing, not gritty in any way. Manual mode rocks so much, but if you really desire to use autofocus, all you do is pull the lens focus ring forward (or pull it back, I don't remember, never use AF). It's a pleasure to hold because it's light and the focus ring has a nice texture to it. If you attach a circular polarizer (72mm btw, they can get expensive, I recommend B+W) then you can rotate it with the lens hood on using the polarizer rotator ring on front, which is amazing if you choose to do so. This thing is 180mm, so it has a longer working distance for 1:1. With my 28mm macro, you have to get 3 inches away for 1:1, with this lens, it's 14 inches, son! No more wasp, bee, hornet, spider fear! It's also black and gets less attention drawn on the street. It has a lens collar like many other long lenses. I also have the option of using the lens collar or the camera mount for a 'pod since it's so light, but I still prefer to use the collar since it could stress my EF mount if I don't. This lens is also good for portraits because it can focus to infinity, and it has a good f/3.5 aperture.Worth every bit of the cash paid, and though camera bodies switch every year or two, lenses take decades. Put your money into a good lens. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best Macro I've Ever Used </p>
+
+
+<h2> review.date </h2>
+  11-09-2011  
+<h2> review.text </h2>
+
+ <p> I was planning to buy the Nikon 105mm macro when I came across this Tamron. It appealed to me because the longer focal length allows shooting farther away from skittish subjects. The increased working distance means also means you are less likely to cast a shadow on the subject. I couldn't justify paying three times as much to get the Nikon 180mm macro and the reviews indicated that the Tamron was just as sharp. Some reviews talk about the autofocus being slow, but I find manual focus better for macro work, so that wasn't a factor. The Tamron is also lighter than most lenses of this focal length. That makes it nice for hand held shots. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Value for Macro Work </p>
+
+
+<h2> review.date </h2>
+  07-03-2012  
+<h2> review.text </h2>
+
+ <p> Maybe some of the negative reviewers got a bad copy of this lens, or Tamron has improved it... but the autofocus is *very* quick even in indoor low light, the working distance is fantastic, build quality is excellent, and the optics (the important part!) are amazing.  Sharpness and color rendition are superb, even from just some hand-held shots.  In terms of image quality this is on par with the Canon 100mm macro which is my favorite lens.  Or maybe it was....  (and it should have been an L-lens and cost twice as much!).This lens is sharp wide open in its DOF, and even one f/stop down it's crisp enough to resolve the tiniest filaments on a tomato vine.  Bokeh is also very nice, smooth, and natural looking.  This will probably be paired with me olde 5D almost permanently. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Razor sharp, great value </p>
+
+
+<h2> review.date </h2>
+  04-17-2012  
+<h2> review.text </h2>
+
+ <p> This is an awesome macro lens.  Optically, it's amazing.  And the ability to focus so close at 180mm allows you to capture some amazing macros.  Or, if you prefer, you can use the focal length to shoot from a little further away and still get pretty good close ups.I haven't had the problem that a few other reviewers have had with focusing.  It doesn't have its own autofocus motor, so it depends entirely on your camera's screw drive.  I've used this lens on three different Sony alpha cameras (A550, A77, and A850), and have had no problems.  (Perhaps the other reviewers were using very old cameras?  I have no idea.)I find Tamron lenses to be amazing values generally, and this lens is no different.  Highly recommended! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent macro lens. </p>
+
+
+<h2> review.date </h2>
+  06-13-2011  
+<h2> review.text </h2>
+
+ <p> This is my first non-Nikon lens and I'm sorry I bought it. While the lens is OK, the focus mechanism is incredibly, painfully, agonizingly slow. The focus mechanism must make three full revolutions to go from closeup to infinity, stopping and stuttering all the way, and passing the focus point until you attempt a second squeeze at the focus. I'm shooting with a Nikon D700 body and I'm accustomed to near instant focus with the high end Nikon lenses. I needed a longer Macro lens to go along with my 105, and the Nikon 200 was not available at the time I bought it. It was also listed as quite pricey in the wake of the Japan Earthquake. I gave the lens 3 stars because the image quality is decent, but it would have been a 4 star had the focusing mechanism been screwed down more tightly so that three rotations were not necessary to go from closeup to infinity. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Painfully slow autofocus </p>
+
+
+<h2> review.date </h2>
+  10-10-2012  
+<h2> review.text </h2>
+
+ <p> This lens is a good value for the money.  You can use it as general telephoto lens and Macro lens.One issue that you should think about is the front filter holder of this lens rotates in order to be convenient to use filters that need rotations while the hood is on.This is helpful when you need to rotate a filter with out having to stick your hand inside the hood or remove the hood to use these types of filters. But if you use this lens mostly for Macro work and you use any type of flash that attaches to the front filter holder of the lens the flash wight causes the front lens element to rotate and makes it impossible to set up the flash in exact location.  Otherwise it works OK.Update:  10-17-2012After using it a while longer the images are so sharp it has won me over and I am giving it a 5 star.  As for the front filter rotation,  Gaffer tape has been my friend. Also I forgot to mention earlier that this lens at close focussing range is a f5.6.  That is not an issue for me since I use f8 and higher to get a better DOF.  But if you are going to hand hold this lens with ambient light for Macro photos it may be an issue for you.Hope this helps. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Value, The filter holder rotations can be an issue. It is really a f5.6 lens </p>
+
+
+<h2> review.date </h2>
+  08-04-2010  
+<h2> review.text </h2>
+
+ <p> I am using the lens with a Nikon D80 Camera.As its been reviewed by others, it is a well-made lens. If you don't mind the extra weight (usually you will use the tripod so I don't think the weight would be an issue), this lens is highly recommended. Just be aware that the lens is a little bit slow when it's in AF mode. I mostly use the manual focus when doing macro so that was not an issue for me.I have tried Tamron before and after using the 180mm Macro, I could safely say Tamron is one of the best companies when it comes to lenses. When you weigh the quality verse the price, Tamron differently would be a winner. No wonder most of its lenses are award winners.Thumbs up :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Price vs Quality = Worth it </p>
+
+
+<h2> review.date </h2>
+  03-16-2011  
+<h2> review.text </h2>
+
+ <p> The copy I had didn't autofocus correctly, it had a back focusing problem. But even ignoring this, the autofocus was so ridiculously slow it was practically unusable. As someone else said, you could go get a cup of coffee while this thing focused.PROS:- Very sharp, even wide open- Good build qualityCONS:- Unusable autofocus- Quality control issuesIt could be used as a manual focus lens, but for that, there might be cheaper options available. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quality Control Problems and very slow focus </p>
+
+
+<h2> review.date </h2>
+  03-23-2012  
+<h2> review.text </h2>
+
+ <p> Less than half the price of the Canon L version, with reports of the Tamron being superior optically.My experience with this lens so far:180mm is an excellent working distance for small objects, flying bugs, timid birds.  AF stinks and is noisy.  I never use it.  There is no focus lock.  MF rocks, and the big fat focus ring is easy and fun to use.  I'm a handholding ninja, but many people might feel more comfortable putting this on a tripod or monopod.Color and contrast are excellent and natural.  Sharpness is great, as would be expected.  Bokeh is so-so.  DoF is razor thin, of course getting thinner as you get closer to 1:1.Not sure if this is made new anymore.  Aside from a similar Sigma version that came out, this lens stands alone as an underrated precision dedicated tool at a bargain of a price.Lastly build construction is so-so, but the lens is light.  Hood is good.  Collar is a bit small.  CPL rotating ring is a nice touch.Overall a sweet bang-for-the-buck macro lens with a perfect price point and very pleasing performance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sleeper macro lens </p>
+
+
+<h2> review.date </h2>
+  11-02-2011  
+<h2> review.text </h2>
+
+ <p> This is a very good lens for macro and working in a studio setup, however don't count on the autofocus to work very well. I have a Canon 100mm macro and love it. The AF works reasonably well 50% of the time when shooting in a well lit area. This is good as you can free up one hand to hold a light modifier. The Tamron 180mm, perhaps its a bad copy, doesn't lock the focus with auto.  The 180mm is great because of the added working distance to the subject. Compared to the 100mm macro which works at about 4-6 inches from your subject from the front lens element, the 180mm is closer to 16 inches which is perfect for a flash or reflector to provide more light. I like the way Tamron shifts from auto focus to manual by shifting the focus ring either forward or back. It is convenient versus finding a side switch.  I give it four stars because it's well packaged with the hood, carrying case, and tripod ring and is very sharp when using manual focus. If you are fascinated with manual focus macro photography and use a sturdy tripod(required for the 180mm) and perhaps even some strobes, this lens is for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good working distance, AF with Canon doesnt really sync... </p>
+
+
+<h2> review.date </h2>
+  06-28-2011  
+<h2> review.text </h2>
+
+ <p> I bought this used "like new", and it really is JUST like new. I'll just summarize all of the pros and cons.cons:Slow/loud autofocus. It hunts. A lot. More and more the closer you get.Heavy and telephoto, so it requires a tripodMakes loud click when you switch autofocus/manual focusNo matter how hard you try, the focus is going to shift when you switch from auto to manual.No image stabilization, which ended up being a being a bigger problem than I thought (long exposures on cheap tripods degrades the sharpness because of the minute motion blur exaggerated by 180mm focal length, even with a shutter release).pros:sharpness/contrast/saturationmagnification (1:1/6 con crop-sensor, 1:1 on full frame)solid construction qualitycomes with tripod collar/ case/ hooddoesn't extend when focusingmin aperture f/3.5smooth bokehconclusion:I love this lens. It's heavy and difficult to use on-site, but I am glad that I bought this lens instead of the 90mm. I love it. It's an amazing piece of equipment. Also, you've probably heard that the 90mm is sharper that the 180mm but the difference is tiny. the 180mm is a VERY sharp lens even when opened to f3.5. If you do more than point-and-shoot, invest the extra money into this one, rather than give into the temptation of the 90mm. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid, high contrast, sharp, etc. </p>
+
+
+<h2> review.date </h2>
+  12-31-2011  
+<h2> review.text </h2>
+
+ <p> I have always enjoyed macro photography and I have been doing 'okay' with my 18-200mm zoom lens.  It would get me close enough that I could enhance the photo in photoshop and I considered the results acceptable but certainly nowhere close to perfect.Finally I was sick of 'acceptable' and I wanted to move into perfect.  I spent countless hours researching lenses by all sorts of various brands, spending an amazing amount of time on the famous Nikkor macro lens.  After doing careful analysis of reviews and careful examination of the resulting photos I had a very difficult time seeing the difference between it and this Tamron's resulting photos.  Ultimately I decided to go with this lens because I was buying it directly from Amazon and I could return it if I was not pleased with the quality.  If it worked then I just saved nearly 3 times the cost of the famous Nikkor lens.Photo results:I have now taken hundreds of photos with this lens and I can certainly say my photos are perfect.  The clarity and detail I have obtained from the lens is outstanding and I am truly pleased with the results.  I do not see any distortion or pixel loss at the edges of the photo and it captures the colors in correct detail.Usage:The lens is easy to use overall.  Changing between manual and autofocus is a real breeze by simply sliding the ring back and forth however I did find this to be a pain at time.  I would get the subject in focus with manual setting and then switch to autofocus in an effort to squeeze that last bit of 'perfect' out and in doing so the camera would move.  This would result in the auto focus now going through the entire range which feels like forever but is actually up to about 5 seconds in time.  If you were trying to capture an insect, animal, or something alive and moving you just lost your shot as you waited for the lens to seek.  In the end I kept with manual focus to prevent this from happening.Weight:As one would expect this thing weighs a lot.  I would certainly not recommend letting it hang off the body without holding the lens itself.  Also, if you are going to be using a tripod with it then use the ring mount provided.  You will get better shots and you don't have to worry about it damaging your body.Conclusion:While the seek time on the auto focus can be annoying it is overcome by all of the other pluses of this lens.  If you are wanting to get into macro photography or you are needing another lens to add to your macro collection then look no further! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow, what a lens! </p>
+
+
+<h2> review.date </h2>
+  11-23-2012  
+<h2> review.text </h2>
+
+ <p> I spent countless hours researching for a good macro lens and basically had it narrowed down to the Sigma 70mm, Tamron 90mm and 180mm. I read complaints about how close you have to get with the 70 or 90mm lenses and decided that any extra distance I could place between myself and shy animals and bugs would be nice (this lens is supposed to be able to focus at 18.5 inches).The lens arrived wrapped in a plastic bag (with small packet of desiccant) and placed in the provided lens pouch (and in the original box). I was glad to see it packaged this way because Amazon did a poor job filling the shipping box with plastic cargo pillows.The first thing I noticed immediately upon unboxing is the provided lens pouch is not made of neoprene but seems to be made from high quality nylon (possibly 600D?) and about a 1/4 inch of extra padding was stitched around the entire pouch. I was happy to see this because I really don't think neoprene offers much protection and I can't stand the smell. The case is very well made and has a dual drawstring system to close the lens pouch. Also, it has a nice handle to make carrying easier. Unfortunately, there are no hooks, d-rings or loops to easily attach it to your bag or to attach a shoulder strap.This lens measures about 7.5 inches long with both end caps attached and about 3.5 inches in diameter. Of course, length and diameter will increase if you have the lens hood or tripod mount attached. BTW, the lens hood is huge (which is a good thing) but it will add an extra 4 inches to the length of the lens.I am using this lens with my Sony A57 and upon mounting it to the camera body I noticed it's a little loose. This is something I find very common with Tamron lenses and is worth a 0.25 point deduction from the overall rating. No, the lens is not going to fall off and no, it's not going to break any connection between the lens and the camera, but I think this is something that Tamron needs to address. I will say that this lens has much less movement than my 17-50 and 70-300 Tamron SP lenses. For the price, I would expect a more precise and tighter fit.This lens is made mostly of plastic, but does not feel cheap. The fit and finish is perfect and the large focusing ring is awesome! The focusing ring has a nice rubberized (and textured) band and rotates smoothly in MF mode. One thing I found odd (or at least very different than any other lens I've used) was the absence of a AF/MF switch. Instead, you need to grasp the focusing ring and pull it towards the front of the lens for AF or pull it towards the camera for MF. The ring locks in place nicely and should not move out of AF or MF unless you really want it too. AF performance is definitely lacking (as most reviewers indicated) but it does work and when it locks on, you get a perfect photo. I prefer to use MF because I find controlling the focal point to be much easier and faster. If you switch the lens to AF and the focus is not close, it will cycle through the entire focal range, but if you switch the lens and the focus is close, the lens may focus within a fraction of a second. It really depends on the environment, but overall, I found AF to be lacking and it usually cycles through the entire range which takes a few seconds. This is worth a 0.25 point deduction because it would be nice (in some instances) to have AF that works fast.At the font of the lens, there is another ring that allows for FEC (filter effect control). This allows you to very easily rotate a filter with the hood attached (otherwise you would need to remove the hood, rotate your filter and reattach the hood). I really like this feature (even though I don't use filters) and anyone who uses filters can benefit from this quick and easy way to rotate their filter.The tripod mount is easy to remove/attach due to its hinged design. It fits in a predetermined groove and there are markings on the mount and on the lens itself so you can be sure your camera is square/level. I plan on keeping the mount attached to the lens most of the time because it's comfortable to hold and can rest in the palm of my hand when taking photos without a tripod.I really enjoy taking photos without a tripod simply because I don't have to lug it around and I almost always have a very steady hand. However, for macro shots, it's nice to utilize the stability of a tripod because the slightest movement could cause your photos to turn out blurry or the area you thought was in focus could shift to another area of the image. This is the first lens I've used where I noticed this happening. I actually thought there was something wrong with the lens because I would MF an object and when I was ready to take the photo I would notice it was out of focus. Now that I know what is happening, I have been able to effectively correct this without a tripod. But by all means, if you have your tripod with you, use it.Before I forget, I should mention that this lens features internal focus. This means that the lens barrel does not physically extend or contract when focusing (unlike your typical zoom lens). This feature is nice and can greatly reduce the amount of dust that is capable of making its way into the lens.So far, I've just been able to test the lens on inanimate objects inside my home as we are preparing for winter and it's just too cold outside. I will be taking a trip to the southwest very soon and hope opportunities for some great outdoor macro shots will be presenting themselves.Overall, this lens is great. Optical quality is top notch and so far I have not experienced any issues such as chromatic aberration, vignetting or distortion. I've added some photos to the product page and plan on adding more in the near future.0.25 point deduction for the lens mount0.25 point deduction for the AF performanceOverall rating is 4.5 stars out of 5 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good macro lens </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004F6GJAU <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great deal, great card! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-22-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I upgraded from a 8800 GTS 512 and what a major difference! I dropped it in a GA-990FXA-UD3 with a shiny new 1090T and it does awesome in most games I've tried. For whatever reason Fallout 3 and New Vegas both set the auto-detect to low setting but it will play both on Ultra without a hicup. I didn't realize what good graphics that game actually had until I played it on ultra. BF3 and MW3 are next! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great graphics card </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This graphics card is excellent. Note that it is a large card and you will need to have two slots open in the back of your case, and room around where the card will sit on your motherboard - so make sure to tame those wires and keep them out of the way. The card has independent fans and is quiet and powerful. Before installing I was using HD3000 graphics which were capable of handling standard matters but for serious graphics or newer games this card allowed max settings and multitasking like never before.My final build was as follows:Cooler Master eXtreme Power Plus Series 500W ATX12V V2.3 Power Supply (RS500-PCARD3-US)Cooler Master Cooler Master Elite 430 Mid Tower ATX Case with Window (RC-430-KWN1)Corsair Vengeance Blue 16 GB DDR3 SDRAM Dual Channel Memory Kit  CMZ16GX3M4A1600C9BSony AD-7280S-0B 24x SATA Internal DVD+/-RW Drive (Black)GIGABYTE ATI Radeon HD6850 1GB DDR5 2DVI/HDMI/DisplayPort PCI-Express Video Card GV-R685OC-1GDSeagate ST2000DM001 Barracuda 7200RPM 2 TB SATA 6 GB/s NCQ 64 MB Cache 3.5-Inch Internal Bare DriveCorsair 60 GB Force Series 3 SATA III 6Gb/s 2.5-Inch Solid State Drive - CSSD-F60GB3A-BKGigabyte GA-Z68XP-UD3 LGA 1155 Intel Z68 HDMI SATA 6Gb/s USB 3.0 ATX Intel MotherboardIntel Core i5 2500K Processor 3.3 GHz 4 Core LGA 1155 - BX80623I52500K </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Worth the money. </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Passmark.com says it's the best gpu card with the most power for the money. A better deal than this you can't really get. With my i5 3450, I got55FPS on all high settings in Arma II, DayZ mod60FPS on Minecraft full settings while using dual screens~110FPS on Trackmania highest settings possible with dual screensThe computer says the graphics rating is a 7.7.My box came with a VGA to DVI converter, so if you have dual screens with one monitor using VGA, this will hold you over until you decide to get another DVI cable, if you decide to. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great cooling. </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The thing that drew me to this is it's amazing amount of cooling ability. Two fans and a heat sink pipes on it. It wasn't too costly either. Sadly I used this in my store bought PC so it's far from getting it's full effect. I'm not too hardcore about computer hardware myself so take my review with a grain of salt I guess. But were I to have built my own PC I'd have bought this, of course now it's more than likely old tech by comparison. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fast, quiet, low power consumption </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-11-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> `I am using this card in a home theater PC that is on 24 hours a day. I was looking for a good gaming card that is quiet, not too large for my microATX case, and that doesn't consume much power when idle.  Electricity in California during the summer season (May thru October) is expensive.This card fits the bill on all counts!+ The card is silent when idle, and very quiet even while gaming.  My old XFX Radeon 6770 card was loud under load+ whole system power consumption is only 54 watts when idle.  With my old XFX Radeon 6770 card, idle power was 70 watts+ This card only needs one PCI-E power plug.  My 350-watt SFX power supply works fine.+ Length is only 9 inches, other Radeon 6850 and 6870 cards are largerWhen running 3DMark Vantage and Unigine Heaven 3.0 benchmarks, this Gigabyte 6850 card is about 50% faster than my old XFX Radeon 6770.  And it runs quieter and uses less idle power.A great gaming card for the price! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> this thing is quiet and puts out! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-12-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I don't believe in overclocking. I buy stuff that can be overclocked, and yet keep it &#34;vanilla&#34;, and running cool.I live in Hawaii, so most of the time, all windows are open and ceiling fans are on all night long.This is fast as it sits. if someone gets 120 fps, and I get 99, who cares? I enjoy the game just as must as they do!Besides, the next computer build, will smoke anybody's setup they have today, right? This goes on year after year. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> AWESOME </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-12-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Awesome!!! I can play bfbc2 on max settings (with only 4x AA) at an average of 54 fps after 2 hours. This card is amazing!!! and for the price... jeez why would you NOT buy it? I strongly recommend this card to anyone who wants a mid range graphics card :D </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> not great but good, fans stopped working </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-20-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> bought it from amazon warehouse in like new condition. 50/50 chance it would come in new condition but just missing plastic wrapping or damaged box. mines came it fairly new condition with a lot of barcode  stickers all over the box so i knew it had a couple of previous owners that returned. i was able to run it with good fps on star wars old republic with no lag with everything set to high. when i wanted to try to crossfire it with my 6770 i couldnt cause the 6850 it came with missing crossfire bridge. after a week of playing countless hours it died on me during intensive gameplay. come to find out both fans weren't working so after 5mins of gameplay it would overheat and i'd get no picture. it was good while it lasted, so i had to return it and buy a whole different one since amazon warehouse deals never had it in stock. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good card </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is my second Gigabyte HD 6850. Using each in different builds. I have a Nvidia Gforce 450GTS collecting dust. Thought about swapping the 450 with one of the 6850's and crossfiring the Radeons. But wait! The Gigabyte 6850's didn't come with a crossfire bridge. What's up with that?That said, the 6850 works well. Using one in an Intel machine and the other in an AMD build. No problems over 6 months. Plays games on High and Ultra settings. The Intel build has Blueray and the 6850 plays movies perfectly on 47" TV (the Intel I7 graphics work just as well for TV). AMD Catalyst and Engine Contol are wonderful software packages for getting the most from the cards. My only complaint about all consumer cards is the 60Hz limitation. The TV is capable of 240Hz. A'm I wrong that I can't find a card that is 240Hz? Or even 120? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent card even with compability issues... </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-10-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> So as I had a 6870 in one, and a 7770 in the other this was the last graphics card I was going to get for my son's machines for a while.After a lot of research, and an Amazon price drop, I grabbed this for the cooling, OC, the name and hey it matched the X58 board!So I put it in the X58, smooth, VERY quite and was moving the 6870 to another and it wouldn't work. As it had been working 5 minutes earlier I did some research and found that many or most of the 68xx (2.1) AMD boards have problem with the Asus P5N-E SLI boards. I worked for hours to no avail on this card and the 6870 and thought of sending it back...Then I decided to try the 7770 in the P5N-E, maybe they fixed the issue with 3.0 and to my happiness, and that of my son, it worked.Thus this card ended up in a different machine but is producing higher framerates than the 7770 so my oldest is elated!While the requirements state the need for a 500W power supply the box says 400W and it's running with no issues on an Antec 450. It's very quite, can't hear it running and faster, from the tests we have run, than the 7770... much faster on most games. Air flows out of the case with the nice Windforce cooler helping to keep temps down.I would recommend this card to anyone looking, I probably should have gotten 2 of these rather than this and a 6870 as I'm not seeing much difference between the 2 in everyday use. I've had great luck over the past few years with Gigabyte motherboards and this 6850 OC, the design, feel and initial performance of the card alone looks to continue that tradition. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> works like a 6850 but cooler then most </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-13-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> works like any other 6850 clocked at this speed, only difference between most video cards between brands is overclocking software and cooling, this unit does both very well, the fans and very silent as well and stays cool.only problem is it did not like my tool less tower set up, was kinda hard to get in because of the like 1/3 inch of plastic in the way on my tower, but so close, but that's my tower not my vidoe card </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-02-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was updating my 2 year old gaming PC, i was only missing a good -not too expensive- GPU to replace my old hd4850 (which by the way, impressed me with its perfomance during all these years) and I always liked the Gigabyte design for this 6850, though the 6870 Gigabyte model with 3 fans is impressive too. But after reading lot of reviews, i finally decided to go with the 6850, and one lucky day i saw it at an incredible price here, so i went for it!!First at all i had to wait for almost 2 weeks to get it, but don't get the wrong idea, the product arrived at the fourth day after the purchased, i got it after 2 weeks cuz i live in Ecuador, and that's another reason why i'm very careful on adquiring quality products, and for the time being, it's not dissapointing!!One thing that i was curious about is that when i connected it with the 6 pin of my PSU, it didn't started up, so i went scared thinking that maybe i got a damaged GPU, but then i used the molex to 6 pin connector included in the package and then it worked :D, so i'm putting the blame into my PSU though it powered up my old 4850 with no problem (but maybe cuz is an old one right? ha)...funny huh? </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> runs quiet if you control the fan speed </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-31-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> i bought two of these to run in crossfire in my gaming rig. i used ati BRE to flash my gpu bios so the fan would run quieter in hackintosh mode. i use msi afterburner in win7 to control the fan speed because the ati driver overrides my gpu bios fan settings. the card is definitely plenty powerful and quiet but if you got the dough, go for a 2x 7970, lol </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Strong card in a crowded field </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-16-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Video cards are coming out at a surprising rate. Its almost impossible to "future proof" a card in today's market, even 6 months from now there will more than likely be something better. But the latest push in gaming is back into PCs. And, especially given the fact that Xbox and PS3 are both now pushing 5 years, you can really get eye popping graphics from one of the newer video cards and a well tuned monitor (or multiple monitors, tee hee). If you've been away from PC gaming for a time, the Gigabyte 6850 should definitely be considered if you're on a budget.I can say that the Gigabyte 6850 is very good video card that can be gotten for just over $150 presently, if you shop around. The advantages of the Gigabyte card are this: 3 year warranty (its no lifetime or double lifetime like XFX, but very good) and its unique fan assembly. The stock AMD cards are very good, but Gigabyte went and dropped two large fans and copper heat pipes. Not only does this allow the card to run a little faster without modding, the card also runs quieter.Before I bought this I foolishly bought a "6750" video card (which is really a 5750 card with AMD branding). It had the stock fan and was noticably louder than the current card I have. Like most new double slot cards, it is also a long card.On my microATX motherboard in a mid-tower case, there's just enough to connect the power cable to the card with the cable sticking into an empty bay slightly.as the numbers indicate, the 6850 is a respectable "enthusiast" card. Not top of the line, but a solid performer above "basic". I've had little issue with low framerates on games such as Brink, Crysis and Portal 2 with high-ish settings (some of Brink's and Crysis's flashier options can start to interfere with gameplay). Portal 2 can be run at max settings.Further relevant computer info: Intel i5-750, 6GB RAM, Windows 7 64 bit home premium.I'd recommend doing some basic "burn in"/benchmark testing with the card you get by running Furmark. If you set up furmark and just let it run for a while you'll catch anything that might be wrong with plenty of time to arrange a return or troubleshoot if its actually the card messing up on your or some other issue. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Power for the price </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a very reliable card for the price. Although not a 'top of the line' card by any means, you won't be spending two weeks salary on it either. It has handled every game I have thrown at it, playing at high settings or better and has worked very well for photo and video editing as well as movie playback. If you are looking for an affordable video card that will allow you to perform any of these functions, this is a very good choice. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good performance for the $$$ </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-21-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm running a pair of these in crossfire mode.  I've also overclocked them using AMD's catalyst control center to 860mhz for the gpu and 1110mhz for the memory.  Mostly used to play Battlefield 3 at 1920x1200 with most of the eye candy turned on with a 27" monitor.  Looks great!  They're also reasonably quiet, even during gaming.  Five stars. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love this video card </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Go out and buy this, best card in the world. Works great for any game out there. The price is amazing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> great card so far </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-02-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> i have had the card in my new build for a month now and had no issues. i ever bumped the over clock to gpu 925 and the memory to 1150. has been great so far. waiting for diablo 3 to release so i try and push the limits of this card. i also have been thinking of buying a second card the running sli and using the eyefinity future with new screens still to come. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The best graphics card overall in its class! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-02-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> My computer has a built-in graphics card and had purchased a XFX HD6750 graphics card from Best Buy hoping to use dual displays for stock trading and occasional computer gaming. I had learned three things from this experience. 1) Most computer motherboards will disable the built-in graphics upon inserting a graphics card into the PCI-e slot, so you better be sure to get a graphics card with multiple monitor support such as the Gigabyte HD6850. 2) The number one complaint about the XFX series graphics cards from my experience and what I read here on Amazon are the noisy cooling fans. Needless to say I returned the XFX HD6750 to Best Buy and it also didn't help that I could have bought a better card for the same price. I purchased the Gigabyte HD6850 from Amazon. 3) Don't go to Best Buy if you want a good selection of the latest and greatest graphics cards at a decent price. Amazon is your best bet and the Gigabyte HD6850 is the best you will find in its class.(HD6850 Review begins here)Now for my review of the Gigabyte HD6850 card while adding new content and glossing over what has already been said. This card is designed really well with a lot of ingenuity and quality built in, coming from an engineer's viewpoint. Without going into too much detail, you are definitely getting quality and great engineering for your money with this card that's made by a motherboard manufacturer compared to other cards because of the use of 2 ounce copper board layer, unique Windforce cooling technology, and the best electronic components available such as the use of all solid capacitors, tier 1 memory, and the fastest switching MOSFETs available that all contributes to this cards performance. One problem that I foresee happening with this card is that the metal fins incorporated in the Windforce cooling can collect dust and debris in between which can cause blockage leading to the overheating of the GPU, so I recommend cleaning the fins out occasionally for efficient cooling.One major note to those considering this card is that it is 9 inches long and 3 7/8 inches wide (not including the part of the board with the PCI-e teeth for insertion) so you need to make sure your case has the room to fit it. Take a measurement from the rear of the computer where the board brackets are secured out towards the front of the computer and make sure no part of the case or motherboard will interfere with installation. The card also uses two mounting bracket slots. I did not know the exact length when I bought the card and it was blocked by my motherboard's SATA connections upon insertion into the PCI-e slot. It took me a few attempts before I found a solution. Lucky for me I had SATA data cables that are right angled at one end so I switched the cable around making use of the right angle, but I gave up a SATA slot by doing so. I highly doubt I will need the SATA slot and it was well worth being able to use the graphics card.Some other things to note that are probably already mentioned... the card was designed to be overclocked and comes that way from the factory. This means you can get more performance out of this card and yet it runs cool. The dual fans are quiet and after a day of running dual monitors the GPU temperature stays at 52 degrees C with the fan speed at about 48% using all factory default settings. I have not tried connecting three monitors yet.  The card takes only one PCI-e power connection from the case power supply, not two as with the newest cards, but an adapter is included in the box with the graphics card that connects to two 4-pin drive power connectors from the case power supply if you don't have a PCI-e power connection. The box also comes with an analog DVI to VGA adapter. No crossfire cable is included. Crossfire is a feature of this card that allows you to add additional crossfire enabled graphic cards working in conjunction to boost your graphics processing capability for more extreme graphic performance. The card comes with a 3 year warranty not like the lifetime warranty of some others. If you are a serious gamer, you might buy another card after 2 years anyway.When it came to connecting two monitors, I found that the HDMI output did not scale correctly on my monitors that are set to auto scale and would have probably needed to manually adjust the scaling. I recommend connecting the monitors to the DVI-I and DVI-D ports on the card for a hassle free installation unless you need picture and sound going to your monitor, then you may need to manually adjust the picture scale whether it is a monitor or TV.  Read my update below if connecting a third monitor.I will leave it to someone else to provide any graphics performance index measurements. You can find them on the internet, just Google the words 'gigabyte hd6850 performance.'  However, I can say that I can now run graphics at the highest settings smoothly for graphic intense games and see amazing detail that I never knew existed!I am very pleased with this card and highly recommend it. You will definitely get your monies worth for the high performance and quality of this card compared to other higher priced cards. I will definitely consider Gigabyte graphics cards again in the future if they keep building quality and performance for a decent price.Update: If you are looking to do some serious overclocking... as far as my research goes, the factory overclocked cards like this one and ones made by ASUS are limited in that area because there are no graphic card applications like Catalyst, Afterburner, and Trixx that support flexible voltage adjustments for the new voltage regulator chip on this card that is necessary to push the card further. I would not be surprised that the new voltage regulator chip is supported in the future however. Already the latest version of Catalyst software will overclock this card to 985Mhz.Update: Its been several weeks and this video card has been a solid performer.  I am now using three 22" monitors without any problems.  The GPU temperature remains between 51C and 54C at 50% fan speed throughout the day. If you are considering using three monitors and your third monitor doesn't have a Display Port, be sure to use an ATI certified ACTIVE DP adapter such as Accell, otherwise you risk the third monitor not displaying. Also it has to say it is ATI certified, otherwise don't buy it. The one I am using is an Accell B087B-005B UltraAV DisplayPort to DVI-D Single-Link Active Adapter. Make sure this adapter has firmware 0x95 if you buy it because a major display bug was fixed. If you buy this adapter from Amazon, most likely it will have the latest 0x95 firmware. So far the setup has worked really really well!  No complaints.  2-07-12(Check out the pictures I have included in Amazon's product description). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Simple to Install and Works Great </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-03-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The graphics card was easy to install and runs FlightGear and OpenBVE very smoothly. Drivers have been stable for many weeks. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

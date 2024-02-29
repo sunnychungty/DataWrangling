@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1601623526 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mixed Feelings.................. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have been following Dez and Roc's story from the very begining and it's still going strong and a DEFINITE 5 star read.....I really hope this is not the last I will read on the couple....So if you haven't read Who Ya' Wit the love story on Dez and Roc please pick up your copy.....the only thing I hate is that it's a anthology and not long enough at all.....but with that said if you like anthologies then you will love the story by Brenda Hampton.....GREAT READ.... 5 stars!!!!!!The second story is called Chocolate Temptation by Rose Jackson-Beaver......I have never read anything by this author and I am really trying to be fair and read the story in it's entirety before giving it a negative review......but this story is all over the place and I really had a hard time finishing it....thus giving it a 2.5 star rating..... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love "Black Love" </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-02-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was hoping there would be one more installment of "Who Ya Wit". I couldn't have been more excited when I found out about it in Full Figured 5. Love these characters like I know them personally. And even though she's my girl I'm glad that Desa Rae was finally served a dose of reality. I'm glad she finally realized that she couldn't control everything and everybody. And her bitterness towards her ex-husband, she should let go. So much happended in this story and I loved every minuet of it. Love these books, love this story, Mrs. Hampton please keep delivering like only you can. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> awesome </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-28-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> anything with carl weber's name on it is worth buying! love the 'who ya wit' stories and i love the way it ended for them. great stories! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love, love Carl Weber full figured series. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love to read Carl Weber's full figured series, his writing and story line will keep you turning the pages. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Full Figured Review </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> The first story was good, well written and fun to read.  However, the second story was horrible!! The writing was all over the place and the story didn't produce a good point at all, it seemed the writer was just babbling.  Total lack of cohesion and not worthy to be included in the book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awesome </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-21-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Again, I LOVE Carl Weber, whatever he is apart of I am reading. These are all good reads....Keeps us Full Figured girls confident and constantly giving us hints! LOVE IT!!!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> love it </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> loveeeeeeeeeeeeeeeeeeeeee it the story was beautiful. love it cant wait for the whole book to come out September waiting paitiently </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It was a struggle... </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed the first story.  However, it took me about two weeks to get through the second one.  I'm an avid reader and usually read on my commute.  A passenger even commented how surprised she was that I wasn't reading.  I told her I was bored with the book I was reading.  It was so repetitive and just didn't move.  The level of writing was amateurish and made the main character seem desperate.  Mr. Weber I've been a fan since I read your first book, but you must be careful what you put your name on...  Brenda's story is what got this book three stars! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Roc, ohh my Roc... </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love Who you Wit and I am planning to buy the finale that should be out by now and it is a stand alone novel.  The way Brenda Hampton tells the story about Des and Roc, I feel like I am right there watching like a fly on the wall.  If I could meet a true life Roc (not so thugged out); I think I would be in love!!!  Brenda Hampton has definitely done well with this story! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 4 stars for Brenda Hampton </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this just for the Who Ya Wit series.  Ms. Hampton has done it again.  I am completely in love w/ Roc. I wasn't disappointed at all.  I was surprised w/ the ending, mixed feelings about it. Won't spoil it for anyone else. As other reviewers feel I really hope this isn't the end for Roc & Dez. I look forward to reading more about them.The other story in the book Chocolate Temptation I would give it 1 star. The main character was redundant, I felt like the same things were repeated over & over & over again. It was long & dragged on, I struggled to finish it & thought about just giving up on it several times. I got so tired of her sexual day dreams every few pages. The sex was just thrown it  & it took away from an already lacking story line.  The best part of the book was the last page. There was finally a slightly unexpected twist that added some excitement. With over 200 pages to the story, the author could have made it better by finishing it & not leaving the reader hanging just to do a second part bc it def feels like that's where it's heading. After I stuck w/ this book till the end, I ended it feeling disappointed & cheated. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Who ya wit saved this rating.. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Another rollercoaster ride with Roc and Des in the sequel, Who ya Wit. I always enjoy reading about these to strong minded characters.The second story, Chocolate tempation did not grasp my attention. I wish the plot was a little more developed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Written by a junior high teen </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-07-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Carl Weber is one of my favorite writers. When I saw this book &#34;presented by&#34; him I was eager to read it. Never again will I bother with any of the &#34;presented by&#34; Carl Weber. Horrible!! It seemed to be written by a junior high girl. Let me rephrase that so that I don't insult all junior high school students. It seemed to be written by someone who was a junior high school dropout!  Bad grammar and spelling, run-on sentences. Poorly written descriptions. Did Mr. Weber not have an editor or proofreader go through the book? It is great to give someone an opportunity but when your name is associated with a product you should make sure that the product is worthy of you! I have a friend who would call the a ghetto book or a thug book. I never understood what she meant. I am so sorry that I now understand. This book was crap. I tried to look past the obvious flaws but I finally had to give up. Don't waste your time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Loved "Who Ya Wit"!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-02-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I can't get enough of Roc!!!!! Gotta love a thug with a heart! Excellent! Loved the way it ended so much so that I read the ending like 5xs LOL!!!!!!!! Thanks Ms Hampton....Keep'em coming! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> loved it </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Brenda Hampton and Rose Jackson-Beavers was a good up lifting plus size woman is always a treat I Loved it check it out for your self they are very talented authors </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Read </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I read the entire book and would like very much if Carl could please develope the first story.  It was great!  There were many secrets that were left untold.  Bring those characters back and develope a story around them married. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HOTT!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Brenda Hampton is the truth! BLACK LOVE! She got it just right!! The who you wit series is so satisfying. I sympathized and cheered out loud for Roc and Des. Ms. Hamptons writing is on point and brings all our flaws to the forefront. Made me think. All I know is I am going to work at keeping Black Love alive. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Yes </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I had to get part five just knowing it was out made me need to have it. Brenda Hampton's Who ya wit is the reason behind it though I so loved des that I just had to find out what happen and I did it was a beautiful story. The whole book is good but it will be even better if u start from one to work your way up to five </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Queen B did it again! </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-01-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Full Figured 5 was an AWESOME read.  The story of Roc and Desa Rae is complicated, but intoxicating and adictive at the same time.I'm hoping this is not the end for these two, and am also hoping this will begin the makings of a full novel.Brenda Hampton did her thing....once again! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Ladies Have It </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-21-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Brenda Hampton and Rose Jackson-Beavers brought the "peppa".  Plus Sized Divas like it SPICY.  This was my first "Carl Webber Presents" and I was not disappointed.  Like all soulful meals, this is good on many different levels.  I loved the sensuality, sizzle or substance the writers portrayed in their own "diva".Wish this had been a Kindle Book.  Since I am begging Mr. Webber to put these ladies between the covers again, I won't be choosey.  (Is choosey a word?) </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

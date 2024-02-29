@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00CCM5540 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-17-2013  
+<h2> review.text </h2>
+
+ <p> Read in full on bus ride into work. Really has opened my eyes to new opportunities. Its a very personal story about how the author became a tutor and how you can do so to. I liked to book and the only disappointment was that I was looking for more. I suppose that's a good thing really. It kept my attention and I like her writing style. Would like a part 2 if there is one on some of the methods that were talked about. Well worth the money and will be on the look out for some more books by Victoria </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little read </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> There is little in this book. However, I did find one useful advice on pricing. It is useful advice for parents to not simply focus on price when looking for a tutor. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One useful advice for parents </p>
+
+
+<h2> review.date </h2>
+  05-03-2013  
+<h2> review.text </h2>
+
+ <p> As a retired teacher, I've often thought about starting a tutoring business. I'm so grateful I found Victoria's book. Some of the details I found informative include: the ways of branding yourself so you can stand out from your competition, the formula to use for determining your price point and how to set up an online class. She also includes some excellent resources to help with online lessons and a tutor plan. I highly recommend this book to anyone wanting to start a successful tutoring business. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Comprehensive Guide for the Tutoring Business </p>
+
+
+<h2> review.date </h2>
+  06-19-2014  
+<h2> review.text </h2>
+
+ <p> I always thought that home tutoring would be difficult, but it isn't... well, it is, but this gem of a book makes earning a living tutoring from home child's play. The author takes you through her journey into the industry and then highlights many of the problems you may face and then offers up some great solutions to those problems.If you are considering a change of direction, or want to take up a career as a tutor then this book is a great place to start. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A brilliant foundation book. </p>
+
+
+<h2> review.date </h2>
+  04-19-2013  
+<h2> review.text </h2>
+
+ <p> Until I read this book, I had no idea that private tutoring was such big business (an estimated $5 billion globally). As far as home-based, freelance businesses go, this must be one of the most underhyped and less well-known. Even the author admits to have entered it "by accident" (word of mouth spreads when you're a terrific teacher). The author shares her knowledge and secrets (I particularly liked how she deals with potential clients who claim that they can't pay her asking price and want to bid her down; her answer to them can be applied to any similar business transaction) and not only covers how to choose subjects to tutor in but also the growing world of online tutoring which dispenses with having to confine your business to the local geography and the need for travel to conduct a face-to-face tutoring session. There's a lot to think about here in this compact guide. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful Guide </p>
+
+
+<h2> review.date </h2>
+  09-20-2013  
+<h2> review.text </h2>
+
+ <p> This book gives you the perfect road map for what to except as a tutor along with helpful tips and suggested methods of running your business. As a person who's been teaching internationally I definitely plan on using some of these methods. Great book! highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Book For International Teachers </p>
+
+
+<h2> review.date </h2>
+  04-01-2014  
+<h2> review.text </h2>
+
+ <p> Very educational! I really enjoyed this book. It really shows you step by step how you can start being your own boss in the tutoring business. Absolutely Excellent! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Educational! </p>
+
+
+<h2> review.date </h2>
+  04-23-2013  
+<h2> review.text </h2>
+
+ <p> The book starts the point "If you have a skill in a specific area and don't have a criminal record then you are free to tutor if you like. It don't matter who you are:- mums, dads, graduates, teaching assistants, former teachers, former corporate executives and dinner ladies.This book guided "why tutoring can be a wonderful career choice"This book covers many areas like-Bad Tutors vs. Good Tutors vs. Great Tutors?What are the 5 Marks of a Great Tutor?How to choose the subject?How to market your business?How to charge a best fees?The best annunal income you may think? Some top strategies....Where to get the onlie lesson?The tutor plan?I love this book as it not only guided us many rule for a best tutor as well How to earn a big money at the same time?Thanks for the author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW!!!! : This Book Really Changed Your Way of Thinking about Private Tutorial Business! </p>
+
+
+<h2> review.date </h2>
+  06-08-2013  
+<h2> review.text </h2>
+
+ <p> This book is a good, short read with some valuable tips. I would caution the reader to have a currency convertor neaby as this book mostly references the British pound. A bit of old english is also found throughout the book but neither this nor the currency thing takes away from its organizational flow. Finally, some of the advice found in here is also useful in starting a small specialty business in general. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Become A &#34;Good&#34; Private Tutor </p>
+
+
+<h2> review.date </h2>
+  04-28-2013  
+<h2> review.text </h2>
+
+ <p> This book is very helpful for people who would like to become a tutor.  You may have a talent and you can help others while making some extra money on the side.  This book has great tips, resources, and even a tutoring plan. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Resource </p>
+
+
+<h2> review.date </h2>
+  06-20-2013  
+<h2> review.text </h2>
+
+ <p> Brief and to the point, Olubi&#8217;s book is packed with useful information that will help the reader to achieve success as a private tutor. I recommend it to anybody who is serious in pursuing this career, you&#8217;ll definitively need Olubi&#8217;s guide to avoid mistakes and understand exactly what you are doing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really infomative! </p>
+
+
+<h2> review.date </h2>
+  04-25-2013  
+<h2> review.text </h2>
+
+ <p> This is a great guide for those who are interested to become a tutor and for those who never realized about this possibility. There are some very important recommendations how to become a successful tutor, how much to charge and other important things. Really good book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great guide for new tutors </p>
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> Become a Private Tutor is an outstanding book in which when purchased you learn an abundance of information. I highly recommend this book; buy it and you will recommend it too.PattimariSheetsCacciolfi, Therapist and Author </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I highly recommend this book </p>
+
+
+<h2> review.date </h2>
+  03-30-2014  
+<h2> review.text </h2>
+
+ <p> I'm always interested in learning about new business venture ideas. I've often thought tutoring would be a good option for me because I love teaching others new skills. Victoria Olubi has written an book on the topic that is packed with essential information. With Become A Private Tutor you'll earn everything from who makes a good tutor to what rates to charge. The best part is the plan worksheet at the end that allows you to move forward right away in planning your business. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Comprehensive and Full of Essential Information </p>
+
+
+<h2> review.date </h2>
+  04-19-2013  
+<h2> review.text </h2>
+
+ <p> I would like to start the review by saying for anyone slightly interested in tutoring, this book is a must have. All aspects of tutoring people are covered in here from A-Z. What I really found helpful was how to market a tutoring business since I know I provide a great service, but unless I get the clients it doesn't matter. Another thing I found helpful was the workbook that enabled me to figure out which demographic I want to work with.The eBook itself was very easy to navigate through with links in the table of contents so anyone can go straight to the topic of preference. At the same time, it is formatted correctly with no visible spelling or grammar mistakes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing Tutoring Guide!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1560258144 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-08-2011  
+<h2> review.text </h2>
+
+ <p> "There are more things in heaven and earth, Horatio,Than are dreamt of in your philosophy."I enjoyed this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting and unusual </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> some of the topics and phenominum convered are appropriate and dealt with in a logical way, for example with helpful explanations of blood pressurehowever this falls down on the fact that he has no psychiatric experience - and certainly lacks experience in dealing with abuse survivors - his one and only source to speak about satanic ritual abuse is a very one-sided and poorly research booked which does not attempt to look the evidence rationally or objectively - the age of the source book was a great suprise too.it is harmful to survivors of pedophile rings that there experiences are automatically dismissed as untrue - there have many many recent convictions of those who use satanism, witchcraft or other religions (notably the Catholic church) as a means to abuse children without detection, notable examples includeJacksonville and Sioux City in 2007 and 2009, Kidwelly (Wales) 2011 and Truro (England) December 2012.I can only hope the author updates this book to exclude commenting on criminal activities which are outside his experience/awareness </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not an objective view points, has some dubious sources </p>
+
+
+<h2> review.date </h2>
+  11-16-2009  
+<h2> review.text </h2>
+
+ <p> I have a preference for books that bull a subject apart bit by bit. I read such books as "A Perfect Red", "Oranges", and "Green Cargoes". This book fits very well on the same shelf or Kendal.Before you try to place Dr. Bobrow in the category with new age cooks like Shirley McLane or Gary Zukav Wait and read. This book is a natural extension of a research paper and the bulk of the information can be found and verified at "pubmed.gov".The basic theme is that maybe we ascribe technology or phenomenon that we do not understand to witchcraft and the like. Be aware the there may be reviews that take statements from this book out of context, and make more of it than was intended. Speaking about the theme in this book, you may want to read a story by H. Rider Haggard "She" where the use of scrying is explained as a technology that is old but technically workable and not magic.Any way I find the individual cases fascinating. Dr. Bobrow made a good selection and dissertation. I think you will enjoy the book and come away with a new view of medicine.I also think he left room for a second book.Just a note my version is on the Kendal and I used the reader a lot during my morning commutes to work I just plugged onto the car speakers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dr. Robert Bobrow makes a great spell checker </p>
+
+
+<h2> review.date </h2>
+  01-06-2011  
+<h2> review.text </h2>
+
+ <p> This was a fascinating read for me. If you are at all interested in so called 'miraculous' healing and what not you will enjoy this look at it from a DR.'s perspective. Very interesting POV. I just wanted to add that for the 1 star review, that the terms witch and witchcraft used in this book are separate from the meaning of a modern day wiccan. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  09-02-2013  
+<h2> review.text </h2>
+
+ <p> This is a very interesting book written by a person with scientific training(MD)and insight. He presents his case in a well structured manner and with a engaging style of writing </p>
+
+
+<h2> review.summary </h2>
+
+ <p> witches and such </p>
+
+
+<h2> review.date </h2>
+  01-25-2007  
+<h2> review.text </h2>
+
+ <p> "The Witch in the Waiting Room" is not only mind-expanding, but just a great read.  Absolutely bizarre things have happened in doctor's offices; these are  stories of things you'd hardly believe, yet, they've been witnessed and corraborated by trained professionals of the highest integrity.  This book will make you wonder how much we don't know yet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow. </p>
+
+
+<h2> review.date </h2>
+  06-16-2006  
+<h2> review.text </h2>
+
+ <p> When Charles Darwin's ship, Beagle, anchored off Patagonia in 1831, the natives on the shore could see the ship's tiny rowboats, but they could not detect the huge ship itself.  They were selectively blind to large sailing ships because nothing in their previous visual experience prepared them for it.  For the Patagonian natives, their belief system determined their reality.Nothing like this occurs in our experience, we smugly tell ourselves; we're open to whatever confronts us.  We are trained in the scientific tradition, which means that we honor good evidence wherever it may lead us and no matter how challenging it may be.  This attitude is flattering, but it is unfortunately incorrect.  Scientists and healthcare professionals can be as prejudiced, bigoted, and narrow as anyone else, even when they are doing science in their area of expertise.  As Whitehead put it,  "The Universe is vast.  Nothing is more curious than the self-satisfied dogmatism with which mankind at each period of its history cherishes the delusion of the finality of its existing modes of knowledge.  Sceptics and believers are all alike.  At this moment scientists and sceptics are the leading dogmatists.  Advance in detail is admitted:  fundamental novelty is barred.  This dogmatic common sense is the death of philosophical adventure.  The Universe is vast."The briefest review shows how stubbornly scientists and physicians can obstruct objective evidence, as Hal Hellman shows in his books Great Feuds in Medicine  and Great Feuds in Science.  Where does this attitude originate?  I have often thought that many physicians suffer from IDS -- imagination deficiency syndrome.  When we can't imagine how something could be true, our mind closes and for us, as for the Patagonians, the thing doesn't exist.  As a remedy for IDS, I recommend Robert S. Bobrow's The Witch in the Waiting Room:  A Physician Investigates Paranormal Phenomena in Medicine.Bobrow is currently a clinical associate professor at the School of Medicine at New York's Stony Brook University and has practiced general medicine for over thirty years.  He has a keen eye for things that don't fit into the conventional medical paradigm -- happenings that most medical professionals dismiss as chance events, flukes, anomalies, or "just one of those things."  When Bobrow confronts anomalies, he, like Sherlock Holmes, gets out his magnifying glass and studies them intensely.  He combs the medical literature for corroborative cases that have been reported by other observers.  Where possible, he discusses the theoretical underpinnings of these events. The result is an invigorating romp through unexplained phenomena -- a kind of aerobics for the imagination.The book is composed of twenty chapters devoted to witchcraft and voodoo, remote viewing and telepathy, distant healing, prayer, therapeutic touch, auditory hallucinations or "voices" that often convey benevolent information, lycanthropy (the delusion of being an animal), cacodemonomania (having sex with the devil), dying on time, near-death experiences, the collective unconscious, satanic ritual abuse, dreaming, hypnosis, xenoglossy (speaking in tongues), children who remember past lives, acupuncture, holographic patterns in life, electromagnetic perspectives in healing, temporal lobe influences on spiritual experiences, and the presence of witches in modern healthcare settingsThe evidence for distant healing is much stronger, in my view, than Bobrow presents, but the many gems in the book make up for this minor quibble.  Among them is his discussion of the correlation between a researcher's beliefs about a therapy and the outcome of randomized controlled trials.  Why do different researchers, using similar methods, often come up with different results?  Bobrow suggests that an experimenter's beliefs play a role in the outcomes of the experiment itself.  This suggestion is based not in philosophical musings, but in actual instances from recent medical history.  "Perhaps the attitudes and expectations of the researchers should be included in publications," he says, "the way funding sources and affiliations are" [p. 252].Science-fiction writer Isaac Asimov said, "The most exciting phrase to hear in science, the one that heralds new discoveries, is not `Eureka!' (I found it!) but `That's funny....'"  The Witch in the Waiting Room is a splendid exploration of "funny" things, things that don't fit in. Those who prefer a debunking approach to these controversial topics will need to go elsewhere; this book is for those whose imaginations are still intact and who want an imagination booster.Bobrow shows repeatedly that beliefs, emotions, and meanings help configure our world.  The result is a stimulating book that is a lubricant on the hinges of the imagination.  The Witch in the Waiting Room may infuriate materialistic skeptics, but it will delight those who know that wonder remains a doorway to wisdom.-- Larry Dossey, MDSanta Fe, NM </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Booster for the Imagination </p>
+
+
+<h2> review.date </h2>
+  01-12-2009  
+<h2> review.text </h2>
+
+ <p> Dr. Bobrow, a physician and professor, writes an easy to read, fascinating book about paranormal phenomena, bringing to us many aspects,  mostly regarding its effects on the human body, including experiments regarding the power of prayer, therapeutic touch, and remote healing, to name a few, with surprising and often conflicting conclusions.  He touches on various cultures and the effects of voodoo, spell casting, even the phenomenon of zombies.  This is a recommended book for anyone who is interested in unexplained phenomena, and I believe you will appreciate the open-minded approach in which Dr. Bobrow delivers his findings. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An M.D's Investigation into the Paranormal </p>
+
+
+<h2> review.date </h2>
+  05-05-2011  
+<h2> review.text </h2>
+
+ <p> Just bad.  I don't recommend it.  In fact it does not support herbalism, or witches.  It is really rather insulting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> witches bitches </p>
+
+
+<h2> review.date </h2>
+  11-04-2006  
+<h2> review.text </h2>
+
+ <p> The author, Robert S. Bobrow, has practiced general medicine for over thirty years and has also published many articles, so The Witch in the Waiting Room: A Physician Investigates Paranormal Phenomena in Medicine comes not from a new age outsider but from a respected physician who uses case studies and analysis from respected medical journals to investigate evidence of the paranormal in medical diagnosis. A fine blend of traditional and alternative analysis results, The Witch in the Waiting Room is fascinating and highly recommended reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Witch in the Waiting Room is fascinating and highly recommended reading. </p>
+
+
+<h2> review.date </h2>
+  02-14-2013  
+<h2> review.text </h2>
+
+ <p> A provocative look at how belief systems - whether those of the experimenter or patient, affects study outcomes and how an individual's "reality" is perceived.  Author Bobrow deftly supplies examples of such influences from recent medical history.Another reviewer used this quote, which I too, believe is the supporting theme behind "The Witch in the Waiting Room..."---Perhaps the attitudes and expectations of the researchers should be included in publications," he says, "the way funding sources and affiliations are" [p. 252].Modern day witch hunts, conspiracy theories of epic, yet unsubstantiated proportion...  continue to replace the truth for many who heavily devote their lives to fictitious fear-mongering. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Belief Systems = Individual's "Reality" </p>
+
+
+<h2> review.date </h2>
+  09-11-2007  
+<h2> review.text </h2>
+
+ <p> Anyone who knows even the most basic concepts of witchcraft will be struck by the author's stereotyping of witches and witchcraft.  Take the opening sentence of chapter 2 as an example:  "Loosely defined, witchcraft is a ceremonial marshaling of evil (or negative) spiritual forces, a  sort of flip side of prayer (which focuses positive spiritual energy."  WHAT!!!!  The Wiccan crede is 'As it harm none, do as you will'.  Hardly a bunch of people sitting around marshaling evil.  The word 'wicca' is often translated as 'wise one' and was used to describe the elders in a community who used natural herbs to heal the sick.  Again, doesn't sound like evil to me.  But then, praying for your god to protect you before you march off to war to kill people doesn't sound like "focusing positive energy" either.  Perhaps the author has his definititions reversed.  This book gets 1 star, because it can't get less. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ignorance wears a lab coat and a stethoscope </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00IDAZJY6 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> This story started off slow, but I did like the concept. However, the grammar, punctuation and awkward sentences spoiled it for me. Also the overuse of pronouns confused me and at times, I didn't who was thinking, talking etc. I found myself having to re read sentences often. I'm not a great fan of erotica and the two scenes in this fantasy story just seemed odd to me, but if you like erotica, then you'll enjoy it. The bad guys are scary and well thought out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> but I did like the concept </p>
+
+
+<h2> review.date </h2>
+  07-21-2014  
+<h2> review.text </h2>
+
+ <p> The book was enjoyable and became more interesting as I read.It's a good read for anyone who likes books that have to do with magic or books about early English peerage. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rook and Raven:The Celtic Kingdom Trilogy </p>
+
+
+<h2> review.date </h2>
+  05-28-2014  
+<h2> review.text </h2>
+
+ <p> I didn't know what to expect when I started this book, but the description sounded intriguing. Although Sebastian (aka Rook) has a sorted past, I found myself drawn to him as a character and rooting for him to win back Jessamy's heart. As both Sebastian and Jessy's secrets become revealed, the reader will fall more in love with them both. This book had more twists than I was expecting and had me guessing as to what the outcome would be. I'm looking forward to the next book in this series and I can't wait to see how the story will unfold. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I would highly recommend this book. </p>
+
+
+<h2> review.date </h2>
+  03-06-2014  
+<h2> review.text </h2>
+
+ <p> Where to start? First by saying that I normally do not read this genre of novels. With that being said, this was absolutely fabulous! A story that is magical, filled with mystery, excitement, romance, suspense and the power of family and friendship. I fell in love with the characters, even the ones that were evil! A most enjoyable read, that has left me anxious for the next book in the series.....I hope I don't have to wait too long!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fabulous! </p>
+
+
+<h2> review.date </h2>
+  04-27-2014  
+<h2> review.text </h2>
+
+ <p> This is a very sensual book.  It's not the type of book I'd usually go for because heavy description sometimes scare me away. But I ended up enjoying it.It reminds me of The Princess Bride in some ways... Well, a more sexy version.There are fabulous sex things, by the way.  And the novel is very romanticThe novel does well with the whole good and evil thing.  Sometimes it gets a bit scary... Priests with black blood who are not very nice.There are gruesome death scenes that are emotionally charged.And there are happy moments that made me emotional.  I like books that can make me feel something. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> romance and mythology </p>
+
+
+<h2> review.date </h2>
+  03-28-2014  
+<h2> review.text </h2>
+
+ <p> By the description, I was not sure if I would enjoy a book set in the early 1800's. (I prefer iron age, medieval, or unspecified very early times) But the description and rave reviews also peaked my curiosity enough to give it a try. I am so glad I did! This author has a talent to pull the reader in, and I will anxiously wait for the next book in this series! It should be noted that there is sexual content, so if that is not your cup of tea..... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding </p>
+
+
+<h2> review.date </h2>
+  05-12-2014  
+<h2> review.text </h2>
+
+ <p> I didn't read enough of this book to write an overall evaluation.  I am interested in Celtic history, but from the beginning found this book was more fantasy and magic than historical fiction.  Could not get going with it at all, although if you like fantasy, you may enjoy reading this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wanted history, not fantasy </p>
+
+
+<h2> review.date </h2>
+  03-18-2014  
+<h2> review.text </h2>
+
+ <p> I didn't care for this one.  I couldn't get into the magic aspect of the story.  It just wasn't for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not into magic </p>
+
+
+<h2> review.date </h2>
+  03-29-2014  
+<h2> review.text </h2>
+
+ <p> What a great fantasy and romance.  The bad guys were really creepy.  And all the good guys are awesome.  I especially love how Arthurian legend was woven into the story.  Love love love  all the secondary characters, esp. the animals.  Murphy and Boru!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WO. OH. OW!!! </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> Just when you think you've seen every possible take on Arthurian legend, this lady comes up with not only a new one, but a very, very fresh, wonderful, and intriguing start to a trilogy I will have to hope will be soon in coming., </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Once and Future King </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

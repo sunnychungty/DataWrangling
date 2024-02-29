@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B006DTHALE <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-13-2012  
+<h2> review.text </h2>
+
+ <p> Tight Little Stitches in a Dead Man's Back is legitimately brilliant. If you want a brutal story that'll rock you to the moral core, look no further. Lansdale's World Fantasy Award-winning short story will make you see hate and pain everywhere in the world, but it'll also make you think about redemption and how relationships fair when you're the one who creates the apocalypse.The narrator of the story helped to create the Big One. And whaddyaknow? The Big One gets dropped. He escapes with his wife to an underground bunker, but leaves his daughter to cook outdoors. She blames him. He blames himself. The bunker, home to 1100 other creators, is Mad Max meets Lord of the Flies and nobody wants to be there. His wife passes the time telling him how much she hates him and tattooing anyone who wants one with a homemade kit. Twenty years later, a group of them decide to take their chances up top. They find a very changed world where whales prowl the dry bed of the Pacific ocean and roses are predatory. The narrator and his wife find a lighthouse and decide to hole up. She starts tattooing the face of their dead daughter on his back. Day after day, it becomes more clear, until his daughter comes alive and brings the weight of the world on his back, just as his wife is invaded by the roses.God this is a brutal story. It'll make you lose your faith in humanity, while making you feel terrible for the main character. He is fundamentally sympathetic. Yeah, at times it goes a bit far, a bit vulgar, but this is a world without boundaries, and the story makes that abundantly clear with its lack of restraint. If you want a challenging, engaging, heart-stomping read, you can not go wrong with this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brutal in the best of ways </p>
+
+
+<h2> review.date </h2>
+  04-28-2012  
+<h2> review.text </h2>
+
+ <p> I stumbled on this story by accident, and I may have never heard of it, had a friend of mine not informed me the author had several short stories available on Amazon.com for Kindle.The story my friend told me to read was INCIDENT ON AND OFF A MOUNTAIN ROAD, which I read first, and thoroughly enjoyed. It was very good, so I decided to see how well rounded an author Mr. Lansdale was, and picked this one next, mainly due to the seemingly ambiguous title.Fifteen minutes later, I was a Lansdale fan for life!I truly didn't know what to expect when I started reading this masterpiece, but if I would have had any expectations, suffice it to say they would have been dashed apart over and over again, as this story just continued to surprise and astonish me.I love it, and if you are not squeamish, you will too. Staggeringly twisted, brilliantly written. One of my new all time favorites. Read it, you won't regret it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> INCREDIBLE! </p>
+
+
+<h2> review.date </h2>
+  02-25-2013  
+<h2> review.text </h2>
+
+ <p> This is my first book by Joe R Lansdale. I really liked this. It was totally different then anything else I have read. It is about the end of the world when the bomb blows. It is about a couple, who cannot let go after many years after the bomb. One feels guilt and the other hate. But the description of the world after the bomb is very new and creative. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice little book to pass the time </p>
+
+
+<h2> review.date </h2>
+  05-20-2012  
+<h2> review.text </h2>
+
+ <p> This is one of Joe's first stories that he wrote I believe in the 1980's. The story moves along nicely about how this father is having a large tatto done on his back as an act of remembrance for his daughter who died. When he holds up a small mirror and looks at his back in the other mirror he can see his daughter looking back at him.The last chapter is a gut wrenching terror filled and I'm glad I read it during the daylight and not at night as it was unbelievable!If you like these kinds of scary stories please read the scariest true story everTrue Hauntingby Edwin Becker. Ed and his wife Marsha purchase a two story home in 1971 and it's so cold in summer no AC is needed. They purchased it for $16,500 and sold it one year later for $10. A copy of the deed of sale is in the back of the book. Two tenants went insane and one of them was Ed's sister who dabbled in the occult and an Ouiji board. This is the best book I've ever read! Check it out! You'll be glad you did. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> TERROR FILLED GUT WRENCHING STORY </p>
+
+
+<h2> review.date </h2>
+  12-28-2012  
+<h2> review.text </h2>
+
+ <p> Lansdale never fails to deliver. This clear-as-day rendering of love, survival, fear, and guilt will break your heart while it creeps you the hell out. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unexpected and vivid </p>
+
+
+<h2> review.date </h2>
+  06-24-2012  
+<h2> review.text </h2>
+
+ <p> "Tight Little Stitches in a Dead Man's Back" is a short story about Paul and Mary Marder - and, distantly, their daughter, Rae.Paul was part of THE CREW that helped bring about nuclear devastation to the Earth.  He and his wife, Mary, barely make it into extensive underground shelters and are "safe."  Their daughter is not so lucky.Paul lives with his overwhelming guilt of what he has helped do to the world and their daughter, and Mary never lets him forget it.  She refuses to talk to him and every night deeply tattoos a picture of their daughter on his back.  He looks forward to the nightly cleansing pain.After twenty years some of the survivors, including Paul and Mary, decide to go topside.  And then the story really gets strange.Joe Lansdale is one of my favorite authors and is a master of the short story.  Lansdale considers this little post-apocalyptic gem to be one of his favorites. I can certainly understand why.  Oh, and Freud would have had a great time analyzing Joe after he read THIS story! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 'Her hatred of me has cured to 100% perfection' </p>
+
+
+<h2> review.date </h2>
+  05-21-2012  
+<h2> review.text </h2>
+
+ <p> It is easy to see why this story won the Bram Stoker. It is a gem from a master. Devastating in its bleakness as it shows not only the desolated land left by a nuclear apocalypse but also the blighted landscape of the hearts and souls of those left behind to do perhaps nothing more than prolong the moment of their death. The first to die clearly are the lucky ones because what do the survivors do to fill the void of those who are gone? To make this disturbing story all the more unsettling the final evil facing mankind takes a form of beauty. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A truly great short story.  Devastating. </p>
+
+
+<h2> review.date </h2>
+  04-27-2012  
+<h2> review.text </h2>
+
+ <p> This is one of the creepiest and most disturbing post apocalypse stories I've ever read. This story is not for the faint of heart. However if you're like me and enjoy this genre, this is also one of the best I've ever read. I actually wrote an essay on it in college. I have to admit I'm biased being a huge Joe Lansdale fan, but I'm writing this objectively. If I read this not knowing who wrote it, I would immediately guess Stephen King. It's that good. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A very troubling post apocalypse short story </p>
+
+
+<h2> review.date </h2>
+  07-12-2014  
+<h2> review.text </h2>
+
+ <p> Great short story. Joe has a wonderful way of doing &#34;weird&#34; and it's on display here. He's also got a distinct brutality to his writing that is edgy, and it's here too. Loved this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great short story </p>
+
+
+<h2> review.date </h2>
+  12-06-2011  
+<h2> review.text </h2>
+
+ <p> Wow.  I'm not really sure how to rate this book.  I don't want to give it 5 stars, because I can't say I "loved" a story this dark - but it is so well written, I can't give it a lower rating.This story certainly grabs and keeps your attention.  For a short story, it is well-developed and hits the reader in the gut.  Many short stories, even if well-written and developed, don't quite garner the primal reaction this one does.  I don't know how to describe it, just...  read it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Intense </p>
+
+
+<h2> review.date </h2>
+  12-09-2012  
+<h2> review.text </h2>
+
+ <p> I thoroughly enjoyed this book.  A little bit of Yuck but not too much.  Read it in one sitting.  Great imagination.  Will read more of this authore.  Recommend to the not too squeamish. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just gross enough. </p>
+
+
+<h2> review.date </h2>
+  03-20-2014  
+<h2> review.text </h2>
+
+ <p> Amazon sent me an email mentioning this story was on sale for 99 cents. I decided to "peek inside" to see what writer could be so special that one lousy short story got it's own book cover. I read a few pages and tentacles from the story shot out and penetrated my brain forcing me to order the story on the spot and then sit down to read it. Joe says this was the story that "put him on the map" in the publishing world, so to speak, back in 1986. It's written as a fevered dream, a vivid anti-nuclear proliferation tale that normally would turn me off if it got too preachy, but never crossed the line. It's from the wildest, out-there reaches of man's imagination while adhering strictly and perfectly to rules of structure, timing. world-creation and characterization.Joe Lansdale, how come he's so hot? Because not only does he have LED-bright talent, he's got mastery of craft to go with it. The story may be 28 years old but it stands with the best writing of today. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Oh yeah, Joe Lansdale, How Come He's so Hot? </p>
+
+
+<h2> review.date </h2>
+  04-15-2012  
+<h2> review.text </h2>
+
+ <p> This short story had to be one of the most unique and original works I've ever read. It deconstructs reader expectations like no other. To say any more would be to ruin it for you, but make sure you don't overlook this story like I did - it's a hidden gem waiting to be uncovered by a wide audience. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unforgettable and Amazing! </p>
+
+
+<h2> review.date </h2>
+  04-03-2014  
+<h2> review.text </h2>
+
+ <p> I thought there wasn't much out there that could gross me out, but Lansdale managed it. There's a lot between the lines in this short story, and a whole lot spelled out in nice clear inky letters and lines (on the main character's back). Lansdale has the kind of hard-hitting no holds-barred imagination that take you on a super-vivid ride through Dystopia Land.The dissolution of a mind is a common trope in horror and dystopic SF, and the way Lansdale writes it is mesmerizing.  You feel sorry the main character & his wife and their overwhelming guilt (overridden by their overwhelming need to survive).Reading Lansdale is like eating Chili made with Carolina Reaper chilies and feeling the burn as it moves through your gut. And this is just a short story! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Gut Punch </p>
+
+
+<h2> review.date </h2>
+  05-10-2012  
+<h2> review.text </h2>
+
+ <p> The bomb has dropped. The survivors are wracked with guilt, and find their feelings expressing themselves in truly disturbing ways. And then there are the roses...Joe Lansdale, one of the hardest working and most underrated authors today, turns out a knockout story with "Tight Little Stitches". I'm going to warn you: this one is pretty high-octane nightmare fuel. But where else can you find a story that's part character study, part horror tale, part post-apocalyptic novel, and part psychological thriller? And all of that in a very short time?If you like this one, go check outIncident On and Off a Mountain Road, another story from the master. You won't be sorry. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A nasty little post-apocalyptic horror tale </p>
+
+
+<h2> review.date </h2>
+  04-27-2014  
+<h2> review.text </h2>
+
+ <p> And what a pleasant surprise it was! Now all I gotta do is figure out which others to get. I know from what I read in Stitches, I'm going to enjoy reading his stuff.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> First read of Lansdale's... </p>
+
+
+<h2> review.date </h2>
+  06-30-2012  
+<h2> review.text </h2>
+
+ <p> Normally I am not a fan of contemporary graphic horror with its slash and dismember shock value. Discovering Joe R Lansdale is a great treat as he seems to be able to satisfy the masses fascination with bloody terror but also rise a step beyond with his journey into the human id. I really thought this story deserves a place among those rare gems category; like the strange earlier works of J. G. Ballard, but written for the generation who grew up with the Texas Chainsaw Massacre; unlike my generation which grew up with the more tame Hammer Films. Although this short story did have some very graphic images I felt the violence did not overtake the story, it only helped to spice the deeper drama and darker emotions of guilt, loss and remorse that were being explored one needle thrust at a time. Definitely would love to read more stories like this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Rare Gem </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

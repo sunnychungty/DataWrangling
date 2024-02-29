@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1493692704 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-07-2014  
+<h2> review.text </h2>
+
+ <p> Frank wrote about Positive Thinking in a manner that encompassed all aspects of life.  There is the stressful work like, financial burdens, weight/health issues, he covered it all.  Yes, a lot of it was common sense, but it focused on how to directly apply it to your life with Mantras.  Those are important, that self talk to bring you out of negativity.  Yes, Highly recommend this book and keep on your shelf for continued reading and encouragement.  I know I am going too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> There is the stressful work like, financial burdens </p>
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> This one is a positive thinking Bible! It has detailed and comprehensive steps to goal setting and goal achieving and they are pretty useful. Also I liked the chapter on &#34;Overcoming Past Negative Thoughts to Move Forward in Life&#34;. Its something I hadnt found anywhere else. Its a good read on the whole and I'd recommend it to anybody. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, Comprehensive Book </p>
+
+
+<h2> review.date </h2>
+  05-19-2014  
+<h2> review.text </h2>
+
+ <p> Positive Thinking ~ Discover the Magic of Positive Thinking by Author Frank MullaniWhat a wonderful motivational book! It is definitely one that I can relate too as I am an inspirational/self-help author myself and I found the tips in this book on positive thinking most helpful.Author Frank Mullani goes to great lengths to stress the power of the subconscious mind and the importance of retraining it to have positive thoughts and end goals. He believes it is necessary to learn new habits in order to bring a more positive approach into the conscious mind. We have all been negatively affected to varying degrees by our past and are constantly influenced by this negative frame of reference. In order to bring about the desired change, it is a good habit to get past our possible negative self-image. In doing so, we must dig deeper than the surface/conscious level to bring about true and lasting positive changes in our lives.This gifted author provides numerous suggestions and tips on how best to conquer and overcome these past negative influences in order to have a full and rewarding life based on positive thoughts and experiences. He touts the benefits of meditation, visualization, and setting positive goals. I like his idea of initially taking small steps in order to achieve our goals and then going from there to achieve even bigger ones. He states that good ideas come to mind long before the dream is realized. There are many thought provoking ideas in this easy-to-read handbook. Good stuff!Inspirational Author & Book Reviewer ~ Dolores AyotteGrowing Up & Liking It </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Art of Positive Thinking... </p>
+
+
+<h2> review.date </h2>
+  02-25-2014  
+<h2> review.text </h2>
+
+ <p> Mullani's book explains the necessity of training thesubconscious mind to conquer negativity and replaceit with positive thoughts and positive people.The author challenges us to record our thoughts,meditate, problem solve, visualize and engage ina concerted effort to move toward better outcomesin life. People need to form good habits, articulateachievable goals and resolve to succeed despiteknown impediments.The author names the positive aspects in life likefaith, love, desire, romance, hope and enthusiasm.The converse characteristics are greed, envy, fear.hate, revenge etc.The author challenges us to secure new beliefsand even new friends. Belief in success is anothercondition precedent to achieving it.People need to have a sense of what they want, aswell as, a plan or set of goals to achieve it. Successrequires staying positive, setting priorities, identifyingchallenges, making firm commitments and setting forthgoals in writing.Overall, the book will be helpful in setting forth a specificmethodology to accomplish changes aimed in a positivedirection. If you are thinking of changing any aspect of life,this book will help you to formulate strategies on how to do so. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Positive Thinking Is The Key To Success </p>
+
+
+<h2> review.date </h2>
+  03-05-2014  
+<h2> review.text </h2>
+
+ <p> For those who are looking for a thorough discussion about how to change your life through changing your thinking and outlook - this is the perfect resource. The author helps work the reader through the steps on how to completely change your attitude and ultimately your life. By taking some simple steps and making some changes a person can completely change the course of their life. This is a great resource for helping you make those changes a little at a time. Great resource! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Resource for Positive Thinking </p>
+
+
+<h2> review.date </h2>
+  04-28-2014  
+<h2> review.text </h2>
+
+ <p> Positive Thinking is the best way to start your day right. Sometimes I keep on thinking negatively I mean not 100% but more than half of it, but after reading this book my mindset will surely think always in a positive way. One of the things that I really liked about this book was that the author had a good balance between emotions and our faith. Great content and I will most likely read this book again so I can keep the tips to fresh in my mind. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing Book </p>
+
+
+<h2> review.date </h2>
+  06-04-2014  
+<h2> review.text </h2>
+
+ <p> This book has definitely helped me change my mindset, Positive thinking really is the best way to start your day and there are many great ideas in here to change the way you see the world. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing read, really inspirational. </p>
+
+
+<h2> review.date </h2>
+  04-27-2014  
+<h2> review.text </h2>
+
+ <p> a great motivator to keep you thinking positive.  Basis on law of attraction with some good tools on choosing your mindset. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a great motivator to keep you thinking positive </p>
+
+
+<h2> review.date </h2>
+  03-08-2014  
+<h2> review.text </h2>
+
+ <p> I found this book to be very helpfull for me. It made me look inside myself and really understand the root of some of my negative thoughts and, then, it gave me strategies to change those perceptions. Great book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great ideas to try and change the way I see the world! </p>
+
+
+<h2> review.date </h2>
+  07-06-2014  
+<h2> review.text </h2>
+
+ <p> Get out of your rut and become a winner. It all begins with a positive attitude and that begins with positive thinking. This book is making a difference for me. It can do the same for you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome! A must read if you want to become successful and grow. </p>
+
+
+<h2> review.date </h2>
+  05-27-2014  
+<h2> review.text </h2>
+
+ <p> Positive Thinking is how I start my day. It's hard not to think negative thoughts but with the help of this great book I am focussing more on positive thinking all day long.There is a nice synergy between positivism and faith, and although I am not religious I found this to be helpful. I am finding that it is having an effect on my life so will keep it up and refer back to the book often.Nice share - thanks! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> POSITIVE THINKING - Discover The Magic of Positive Thinking </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

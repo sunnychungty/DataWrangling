@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B004DUMR86 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-21-2012  
+<h2> review.text </h2>
+
+ <p> This is awesome for lugging your iPad all over the place.  It adds some weight to it for sure, probably double the weight actually, but I never worry about kids playing with it or someone dropping it when I have this case on it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Makes me feel safe lugging my iPad! </p>
+
+
+<h2> review.date </h2>
+  06-21-2011  
+<h2> review.text </h2>
+
+ <p> I have had 3 otterbox products in my whole life and each was better than the next. The defender is absolutely the best quality case I have ever seen for the iPad hands down. It is a product that is a bit pricier than it's competitor's but you are getting MORE than what you paid for. When I have the case on I am not worried about dropping my iPad because it just feels stronger and able to withstand an extreme drop. Sometimes I'm tempted to test it but I'd rather not do something I might regret.The silicon of the outer shell is high quality and gives the product a nice feel and grip. In a way it prevents you from dropping you iPad. The case is also very stylish, the white accents the black very well and the hard plastic cover is really a nice addition. The built in stand is a plus for watching movies on a table, it just adds more value to you purchase. I don't recommend you take off the case once you put it on because the silicon tends to stretch if you pull it too much. The case is a little frustrating at times to put on because you have to make sure everything clicks.Lastly, I didn't like the screen protector that came with the otterbox so I bought one of my own and it feels even more protected from spills than before.Truly an incredible value for the price, you don't even need to think twice about it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> High Quality Case - Incredible Value </p>
+
+
+<h2> review.date </h2>
+  12-02-2012  
+<h2> review.text </h2>
+
+ <p> Very sturdy with lots of options. Don't like that I can't charge it on my stand though. But the pros outweigh that con. Like the cover for the screen when traveling. Feel safe with my toddler holding it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+
+<h2> review.date </h2>
+  08-26-2012  
+<h2> review.text </h2>
+
+ <p> This a great product for the iPad!  I've had my case for about 9-months  and it has provided excellent protection and a handy stand with two unique viewing angles. One of the many cool things about this product is that the white rectangular piece can be used as a stand or as a cover for the front of the iPad. It fits perfectly on the grooves of the case.I accidentally dropped my iPad once on cement and no damage was done.  Thanks Otterbox!  My two gripes about this product are:1.  The retail price is listed as $89.99.  I was lucky to purchase mine on Amazon from a third party vendor for under $10 - a great bargain!  I wouldn't pay more than $24.99 for this product.2.  The three layers of protection add a few pounds to the overall weight of the iPad. I wish the case weighed a little less, yet providing a comparable level of protection.Overall, an excellent case for the first generation iPad.  If you have a tendency to drop things, especially expensive electronic items, I highly recommend you purchase this product to save yourself from potential damage and heartache. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Strong and Sturdy, but Heavy </p>
+
+
+<h2> review.date </h2>
+  03-06-2012  
+<h2> review.text </h2>
+
+ <p> bought this thinking the protection would be nice but it literally feels like it weighed 2 lbs (it may have I didn't weigh it).  There are a lot of parts that didn't seem to fit properly in my opinion and a lot to keep up with.  Mine actually came dirty on the white part and scuffed up looking plus the parts did not fit properly.  I ended up sending mine back and stuck with my Incipio kickstand cover which is stylish and provides decent protection. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> You could replace your dumbells with this thing </p>
+
+
+<h2> review.date </h2>
+  12-29-2011  
+<h2> review.text </h2>
+
+ <p> I bought this for my wife's Ipad from a local cell phone provider when they were closing them out.  The case is pretty bulky, but it protects your Ipad like nothing else that I have seen.  I have two younger kids that like to play with it while we aren't looking so it's nice to have something to keep it protected.  The only reason I didn't give it a 5 is that it is bulky (which is sort of a pro and con) and not all headphones will fit in because the case gets in the way (initially I thought the headphones were bad). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A bomb shelter for your Ipad </p>
+
+
+<h2> review.date </h2>
+  12-19-2012  
+<h2> review.text </h2>
+
+ <p> This case is freaking awesome!  It is extremely well made, and durable.  It has been in use since the ipad for over a year now by myself and a ten year old.  The white gets a little dingy but it cleans off well each time I try.  I bought it for $12 on Amazon!  Works with OEM keyboard stand.  Its really heavy, but when you have kids using it who cares. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent!!! </p>
+
+
+<h2> review.date </h2>
+  12-27-2011  
+<h2> review.text </h2>
+
+ <p> After a previous experience with an Otter Box on an iPhone 3G I was hesitant to purchase this product.  When it dropped to only $10 I decided to try it out.  It adds substantial weight and bulk to the iPad but it does an excellent job of protecting it while allowing access to all switches, speakers, ports, etc.  The front cover that snaps on is especially nice for extra protection when traveling with the iPad.  As long as you don't recommend the extra weight and bulk, I would definitely recommend this item.  It's also easy enough to remove and reapply to the iPad. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> much better than expected! </p>
+
+
+<h2> review.date </h2>
+  12-28-2012  
+<h2> review.text </h2>
+
+ <p> You can't find a better price! I wish I had ordered more of them.  If you need to protect your original iPad, this is a great case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Case! </p>
+
+
+<h2> review.date </h2>
+  03-03-2012  
+<h2> review.text </h2>
+
+ <p> I got this case for my husbands iPad and he loves it. Nice product.. I'm thinking of getting one for mine but I didn't see a color I like yet.. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice case </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> This is a very late review but there isn't much to say. This was purchased for the Ipad II because of the price at the time. He had to make a hole for the camera so it works in that regard. it does protect the Ipad well and it is still working to date. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Made It Work!!! </p>
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> Bought this for the original iPad that I sold to my brother in law.  I bought a Defender case for my iPad 3 and he liked it so much that he asked me to remove the custom case I had on it and put the more rugged Defender case on it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful </p>
+
+
+<h2> review.date </h2>
+  01-29-2012  
+<h2> review.text </h2>
+
+ <p> Completely change the look and feel of my ipad.Pro (not in any particular order):1.  White trim makes my ipad looks like a white ipad2.  Hefty and seems to provide very good protection3.  The rubber buttons makes is feel better and easier to press, especially the volume rocker4.  Thicker, make it easier to hold (also see the con below)5.  The front is also protected with a snap on plastic cover which doubles as a angle stand6.  Comes with a screen protector, and nice big piece of microfiber cleaning cloth7.  Inside of the case is lined to help protect the ipadCon:1.  Make the slim ipad big and heavy, more bulk to carry2.  need to take off a piece of the bottom in order to charge the ipad3.  This one is not really a con, there is a camera hole build in??? ipad 1 do not have a camera???Overall, it is a nice case that provide good protect and make it more comfortable to grip. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice and hefty ipad case </p>
+
+
+<h2> review.date </h2>
+  03-28-2013  
+<h2> review.text </h2>
+
+ <p> I bought this used, which is always iffy with electronics becasue your never sure what you getting but I use it almost every day now and am very happy with this purchase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

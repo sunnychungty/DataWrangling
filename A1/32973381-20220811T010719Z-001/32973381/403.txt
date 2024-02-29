@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004QGY37A <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-07-2014  
+<h2> review.text </h2>
+
+ <p> So Fallen From Grace was another short story I picked up.  Even though it wasn't exactly what I was expecting I think it was definitely worth picking up.The entire novella is in the form of diary entries written by Allarde, the main character. He was likeable and interesting.  While I think the story did a decent job of introducing him, it's length prevented me from becoming absolutely obsessed. But I think that only served to encourage me to want to read the actual book series that the novella is a part of.I liked the way that the diary entries helped to keep the pace of the story by skipping forward through time.  As a full novel I don't think this would work,  and maybe not with every novella, but the author did an awesome job of pulling it off with this one.I haven't read any of the Dark Mirror series, so this was my first introduction into that world.  I have to say it was interesting and enjoyable and I definitely want to pick up the rest of the series and see where it goes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Review of Fallen From Grace </p>
+
+
+<h2> review.date </h2>
+  12-30-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed this short story. It left me wanting to read more.... but of course I already knew I would like it as I have read all of M.J. Putney's Dark Mirror novels and that is the very reason I downloaded this short story to read.  Anything by Putney is great if you like historical novels! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great story! </p>
+
+
+<h2> review.date </h2>
+  03-24-2011  
+<h2> review.text </h2>
+
+ <p> I haven't read "Dark Mirror", but after reading this short story I want too. I'm a sucker for historical English mages (Sorcery & Ceceila, Jonathan Strange & Mr Norrell, the Bartimaeus trilogy, etc...) and this story makes the world very intriguing to me. The writing was good, the characters were developed, and the story that was told was very good. Obviously it doesn't tell the whole story, they want you to read "Dark Mirror" for that, but it was a very good introduction into the world the author created. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great short story! </p>
+
+
+<h2> review.date </h2>
+  05-03-2014  
+<h2> review.text </h2>
+
+ <p> It's a delightful teaser. It is well written and suggests fascinating adventures. I like the characters and want to know what happens next. I'm interested in the full-length stories now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Tantalizing </p>
+
+
+<h2> review.date </h2>
+  12-27-2012  
+<h2> review.text </h2>
+
+ <p> Short story but added in some dimension to the series.  Not pricey so why not? Different perspective to the same story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice little bonus </p>
+
+
+<h2> review.date </h2>
+  12-13-2013  
+<h2> review.text </h2>
+
+ <p> Told from the POV of Allarde, it tells exactly how he ended up at Lackland Academy. If you've read and enjoyed the Dark Mirror trilogy, you'll enjoy the snippets of backplot contained in this story. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A nice addition to the Dark Mirror trilogy </p>
+
+
+<h2> review.date </h2>
+  01-19-2013  
+<h2> review.text </h2>
+
+ <p> I have not yet read "Dark Mirror," but this short story set in the same world is interesting enough that I may give the first novel a try. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Putney's "Fallen from Grace" </p>
+
+
+<h2> review.date </h2>
+  04-27-2011  
+<h2> review.text </h2>
+
+ <p> This is a quick, easy read that nicely complements what we know about Allarde from Dark Mirror.  I was definitely curious to know how he'd been "found out" and ended up with the rest of the magic misfits and this neatly filled in the blanks for me.  It also reinforced just how good a guy Allarde is and the lengths he would go for other people.  If you liked Dark Mirror then this is a definite must read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice bonus read to go along with Dark Mirror </p>
+
+
+<h2> review.date </h2>
+  06-30-2011  
+<h2> review.text </h2>
+
+ <p> I agree with the reviewer above. This isn't a short story. Not only does it not have a beginning or end, it starts off with a page titled Preview and there are no other headings. That is all there is. It appears to be 20 page preview. This was interesting and did make me want to add these books to my future reading listThis didn't cost anything to read, it's a free download (except for my phone codata charge) so I wouldn't complain at all except I wouldn't have selected it at all if I'd known how short it is. It seems a little sneaky to me. But they will probably get at least one more sale from me out of it so somebody had a good marketing idea! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not a short story </p>
+
+
+<h2> review.date </h2>
+  04-24-2011  
+<h2> review.text </h2>
+
+ <p> When I selected this  short story I was not aware that M. J. Putney is the name author Mary Jo Putney uses when she writes Young Adult fiction.  As it says in the sample, her "alter ego".  This story, Fallen From Grace, is definitely a short story but it seems to lack several important elements, namely a beginning and an ending.A young boy is a student at Eaton and we see through his diary entries how he is trying to deal with the fact that he is a member of a noble English family, but he is also a mageling and that discovery causes his expulsion from Eaton.  In order to inherit the title and family wealth this young boy agrees to attend a school where he will be stripped of all his magic abilities.This wasn't really a bad story, it just didn't make very much sense given the context of a very short story.  I read this in less than 15 minutes.  What follows are several chapters from the novelDark Mirrorby Mary Jo Putney which uses the same basic magic plot with a young girl from an aristocratic family who discovers that she has magical abilities.  This story, however, is a full length novel, but if the name change is to be heeded, presented as adult fiction instead of Young Adult.  I'm sorry to say the sample certainly did not seem to change in tone very much.  Certainly it still felt very 'young' to me.I read Young Adult fiction quite often if the writing is well done and the plot interests me.  This short story and sample have allowed me to make the decision not to pursue this novel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The preview chapters for a novel follow this short story. </p>
+
+
+<h2> review.date </h2>
+  08-30-2013  
+<h2> review.text </h2>
+
+ <p> Best book ever had to put down the best book I ever read in afraid going to read the second book </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Favorite </p>
+
+
+<h2> review.date </h2>
+  02-11-2013  
+<h2> review.text </h2>
+
+ <p> This is a very short story, totally a lead in to Putney's Dark Mirror series, and it does it job well.  I now want to read the Dark Mirror books because this "journal" by makes me very curious as to what happens.  Putney's Dark Mirror world of the early 19th century where magic exists, but is forbidden to the nobility, seems intriguing, but is not explained in this cliffhanger.  However, if you read the excerpt included, the beginning is explained. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lead in to Dark Mirror </p>
+
+
+<h2> review.date </h2>
+  05-10-2012  
+<h2> review.text </h2>
+
+ <p> I love anything by this author.  All of her books are on my keeper shelf and are always preordered so I can be among the first to receive them. They are reread over and over. I have no hesitation in telling anyone to read anything that she writes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Putney </p>
+
+
+<h2> review.date </h2>
+  02-17-2012  
+<h2> review.text </h2>
+
+ <p> As a general rule, I don't enjoy "previews" or "teasers."  This was an exception.  It's kind of like as mix of Harry Potter, and X-Men with a heavy dollop ofJonathan Strange and Mr Norrell.  In 1801, a young member of the English Aristocracy reveals he has magical abilities.  Since these aren't considered appropriate for members of his class, he is sent to a de-magicing school and discovers an underground of well-born magic users there.  This sets the scene for the author's full-length novel (a preview is included with this story).While this doesn't totally succeed in standing alone, it is an interesting read.  I wasn't a big fan of it being told in diary form (it created awkward asides, as when the narrator noted the incongruity of what the English call "public schools" - how would a young English man in 1801 even note that incongruity and why would he note it in his journal - it would just be part of his world.  It was obviously an assistance thrown to American readers of the story, handled in a clumsy way).Based on the strength of the story, I would be interested in reading the full length novel.  The idea of magic users fighting Napoleon isn't exactly original, but the way it is handled in this book seems like an interesting set-up. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting </p>
+
+
+<h2> review.date </h2>
+  05-19-2012  
+<h2> review.text </h2>
+
+ <p> I think this was more of a 3.5 for me.This is a short story where we meet Allarde, a young aristocrat who will inherit his father's land and title one day until he finds out he has already inherited magical genes. To be of status and have magic is taboo in the in 1800 England. Any person found out will have to either go through a specialized purging of magical sense or become an outcast.Allarde's story is written as a diary. Even though this story was short I felt the author did a great job in giving us enough information that we didn't have to read the first book and served as a great intro to the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Meet Allarde </p>
+
+
+<h2> review.date </h2>
+  01-05-2013  
+<h2> review.text </h2>
+
+ <p> Very fun to read this book I love this book like a lot of other books I have read hehe </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fallen from Grace </p>
+
+
+<h2> review.date </h2>
+  07-14-2011  
+<h2> review.text </h2>
+
+ <p> If you have read Dark Mirrors then you will like this bonus material. Allarde quickly becames one of your favorite characters and this  gives you the insite into how it was discovered that he new magic. How his parents treated him when they found out and how he took to his new school. Its some great back story material told through the diary he keeps. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice short story bonus to go with Dark Mirror </p>
+
+
+<h2> review.date </h2>
+  08-24-2011  
+<h2> review.text </h2>
+
+ <p> Just imagine being a student at the exclusive Eton School in England, and then being found out that you are a mageling, your parents are told that you have magic abilities, and if so, you are out of Eton forever.  That's what happens to Allarde in the story of Fallen From Grace by M.J. Putney.  He is forced to go to another school that takes away the gift of magic from such people, but what if people who have this gift don't want to lose it?Where there is a will, there is always a way.  And Allarde isn't the only one who doesn't want to give up his magic and his title and inheritance, too, if he doesn't comply.This is a pretty good story that is written for young adults, but is enjoyable for any age.There is some humor in the story and and also a few exciting times, too. The story begins in the year 1801, when things weren't looking good for magicians and gypsies.  We follow the story mainly through Allarde's diary as he wrote it.Dark Mirror sounds like an intriguing book to read, also.  I wouldn't mind giving that one a try, too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A very enjoyable story </p>
+
+
+<h2> review.date </h2>
+  09-09-2013  
+<h2> review.text </h2>
+
+ <p> This is the story of how Allarde gets sent to Lackland Abbey. I loved seeing things from his point of view as he chronicles events in his diary. We also get a peek of when he first sees Tori, the main character of the actual books! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A great little addition to the Dark Mirror trilogy </p>
+
+
+<h2> review.date </h2>
+  04-09-2013  
+<h2> review.text </h2>
+
+ <p> this story is really goodit could be turned into a whole bookloved reading this great storynice sory by the great M J Putney </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great sory </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

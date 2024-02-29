@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000O7LEG8 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-13-2010  
+<h2> review.text </h2>
+
+ <p> This speaker system is just right for my needs. It's not too expensive yet produces very good sound. It's not a reference system, of course, but it's good enough that I can easily hear the differences between Dolby Digital over the cable TV or broadcast (good to very good), and Dolby from a DVD (very good to great), and Dolby / DTS on a DVD (excellent). Wasn't so with the previous mix-match set of speakers (with no center). The amp is a Yamaha RX w/ 100 w/channel; plenty of power and no need to go beyond 4/10 or so. I have the sub turned up only to about 30% and the LFE shakes the (15' x 30') room. Watch out for speaker placement, though. First I put the center onto an empty bookshelf slot (27" x 15") which acted as a resonator and made the center voices sound like they were coming out of a barrel! Put the speaker (all of them actually) as far out in the open as you can and they will sound much better. As other reviewers have noted, these are slightly weak in the mid-range but not so much as to be a problem. Also important to use the A/V amp's balancing and delay settings to tweak it just right.Easily wall mounted the mains and surrounds; put the center on the fixed bracket (it's liable to tip forward due to poor balance if let on its small inadequate feet). I have about 30' of cable to either of the surrounds, so I got some 16-ga speaker cable at the local R-Shack for not much and used it for all five. Had to move the sub farther away than the supplied cable and so have ordered a 25' sub cable from Amazon (Belkin, on sale). Tucked the wires into some stick-on cable runs from H-Depot, and all is neat and tidy. Note that when I was finished I didn't use any of the supplied wiring -- oh well, I can use it somewhere else I suppose. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just right </p>
+
+
+<h2> review.date </h2>
+  12-08-2013  
+<h2> review.text </h2>
+
+ <p> This is first time using "5.1 channel speakers" in a box for me.The product came very well packaged, brackets are good, cables are good, sub woofer power cable could have been longer though.Performance wise, very disappointing except for the woofer.I used various entry level speakers over a decade (whaferdale 9.1 and 10.1, cambridge audio s30, JBL 4312M - made in japan, JBL ES20, monitor audio BR2, sony ss-b1000 etc...)And this speaker set doesn't perform as good as any one of them.2 or 3 years ago, I paid $99 for Polk Audio PSW10 subwoofer from Amazon (occasionally they still offer same deal)and JBL ES20 book shelfs for $110ish, and these two alone outperform JBL CS6100BG.To my ears, speakers lack in detail and bass is too exaggerated with this set even without subwoofer.I don't know why they have tuned like this for a set which includes subwoofer.Subwoofer is very heavy and sturdy and performs well.I feel as if I have paid $350 for a subwoofer.I would have returned this if I was in US.but it costed over $200 for shipping and duty getting this down to Guatemala.Pros :-PackagingBig subwoofer which can fill up any room.Convenience of 5.1 channel in a box.Supports banana plugs.4 wall brackets and 4 fixed wall brackets.Cons:-Speakers are too bassy even without subwoofer.Aluminum parts (chrome?) of speakers are too shiny and looks cheap.Summary:-Not a bad option If you want a budget 5.1 channel setting with wall brackets and uniform look for all channels.Sound wise, there are hundreds of options which can outperform this with combination of any 2.1 channel setting at lower price.------2013/12/28 Update------I have been using this for over a month.Sound clarity is still lacking, but it is good for movies and TV shows.I am still not very satisfied when listening to music though.------2014/1/3 Update------Movie materials are acceptable.But when you listen to any kinds of music, either stereo or dolby or whatever setting you may like, it just cannot create stage.And very easily distorted when pushed only by little.I will be keeping rear and sub and get new set of speakers for front 3.If you just wish to use this for TV and Movie materials, go for it.But if you also consider listening to music, AVOID THIS!! You will be 10 times happier by making a 2.1 ch setting with bookshelves and a sub.------2014/5/21 Update------I am only using 2 rears and subwoofer now.Bought front 3 speakers from internet direct speaker brand and I am much happier with new set of speakers.Avoid this set if you look for a decent sound.They lack detail and bass is muddy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Only for the convenience. </p>
+
+
+<h2> review.date </h2>
+  03-07-2010  
+<h2> review.text </h2>
+
+ <p> I had to keep the size to a minimum, but still wanted good sound.  This system doesn't sound like the tower/floor stand type speakers; but for the size and price, they are great.  The subwoofer works well.  The dual midrange cones provide good sound also.  Also the system comes with speaker wire and a subwoofer cable, so unless you are going to put these a long way from the receiver, you probably don't need to order any additional.I would definitely recommend these. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good speaker system </p>
+
+
+<h2> review.date </h2>
+  05-07-2012  
+<h2> review.text </h2>
+
+ <p> Very good product after my Philips home theatre. I am really enjoying the product connected to Yamaha V671 receiver. Very good sound quality and appearance as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Home Theatre System </p>
+
+
+<h2> review.date </h2>
+  04-22-2014  
+<h2> review.text </h2>
+
+ <p> I think this set is highly under rated for the price. I mean you get 5 speakers, sub-woofer, and speaker mounts for less than $300. If you buy generic speaker mounts they are $100. I have two sets of these speakers to make up 13 speaker THX movie system for less than $1,000. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sound, Great price </p>
+
+
+<h2> review.date </h2>
+  01-18-2014  
+<h2> review.text </h2>
+
+ <p> Wanted 5.1 for my living room without spending a lot of money. The speakers sounds great and the sub woofer rattles the room quite well ;) I just wish I can find the matching stand somewhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for the price </p>
+
+
+<h2> review.date </h2>
+  06-02-2008  
+<h2> review.text </h2>
+
+ <p> I purchased the JBL CS6100BG Home Theater Speaker System for my bedroom. Overall, I've been really impressed with the quality of sound. The subwoofer packs a powerful punch. Installing the wall brackets for the rear channel speakers was really simple. It took me about 15 minutes. This system comes with fixed and adjustable brackets for the rear channel speakers. I used the adjustable brackets. It also comes with a wall bracket for the center channel speaker. One thing the product description doesn't say is that this system does include speaker wire for all 5 speakers and a 15' subwoofer cable. The speaker wire is black #18 gauge with polarity coding. The only negative thing about this system, which really isn't that big of a deal, is that it doesn't include wood screws needed to mount the speaker brackets. I highly recommend this system for a bedroom or a small to medium sized living/family room. For a large room, I would go with bigger speakers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good speaker system at affordable price </p>
+
+
+<h2> review.date </h2>
+  12-17-2012  
+<h2> review.text </h2>
+
+ <p> Was really hesitant about buying these speakers.  Their are so many options out there when it comes to home theater.  I  am really picky about my sound quality and always have been.  So i know it is worth paying the extra dollar sometimes when it comes to audio equipment.  What threw me off was the fact that when it comes to speakers the 400$ price tag still seems too cheap to be as high of quality as some of these really expensive speakers.  Once I opened the box and felt the weight of the speakers and saw the high quality connecting posts on the back I knew these were quality speakers.  Crystal clear and loud.  The subwoofer is nice and large but still stylish.  Wall mounts are ingenious, super easy to install, if you choose to use them.  They have nice rubber feet on them in case you want to place them in other areas.  Speakers are magnetically shielded for endless mounting possibilities.  Sound quality is amazing.  Movies are just awesome.  Window rattling bass that can be manually adjusted for quieter atmospheres.  You can play these as loud as you want with almost no distortion.  Works great for music.  These are a steal, anyone would be happy with these large or small room it does not matter.  Paired mine with the cheapest yamaha receiver works great.  Super impressed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> JBL CS6100BG High-Performance Complete 6-Piece Home Theater Speaker... </p>
+
+
+<h2> review.date </h2>
+  04-04-2010  
+<h2> review.text </h2>
+
+ <p> When upgrading to an HD system I decided I'd had enough of the big Infiniti speakers I had and looked for something a little more compact.These are definitely eye candy, especially when mounted on their (separately available) stands, but they also provide great room-filling sound, and sound good regardless of whether you're watching an action movie or a classical music concert. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sound, great looks, hideously expensive stands </p>
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> This surround system was worth $$$ with high quality built and great sounds. Recommended with small or mid size entertainment room. A nice thing that included the mount bracket speakers. Also, it's fast shipping. A+++ </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sounds for small bucks </p>
+
+
+<h2> review.date </h2>
+  02-21-2013  
+<h2> review.text </h2>
+
+ <p> I upgraded to these speakers from a Yamaha 5.1 set that was fairly good, but wanted dual and larger woofers on the satellites for better high/mid-range performance. These deliver very good sound especially now that I have them pairs with a Denon AVR-1613. When I was initially using a Yamaha RX-467 receiver, I was having trouble getting just the right balance between highs from the satellites and lows from the subwofer. The Denon's sound calibration software equalized the speakers (minus subwofer on this model receiver) and I can tell the difference -- even my wife when she first heard the new set up said she was hearing things that she doesn't think she heard before!I would deduct 1/2 a star because like others have said about these speakers, maybe could get a bit better mid-frequency performance -- but I wasn't expecting larger bookshelf speaker-type sound from what are still small satellite speakers. The subwofer -- I cannot say enough at how good it sounds. I have found myself smiling many a times listening to music the last couple of weeks once I completed the setup.When you consider how much these speakers used to cost originally and the price that you can get them for now -- I'm more than impressed and happy with the purchase. Just make sure you pair them with a good receiver and you should be happy too! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good speakers and phenomenal subwofer -- 4.5 stars </p>
+
+
+<h2> review.date </h2>
+  06-28-2010  
+<h2> review.text </h2>
+
+ <p> I have had these speakers in my home theater for over 1 1/2 years.  I have a very serious dedicated home theater room that I started building 2 years ago.  Money became short and I wanted to get the best "temporary" speaker system knowing that I will be slowly upgrading the components.  The speakers were my last item.I started with these CS6100s from JBL after reviewing many sources.  They have performed SO WELL!  I recently purchased my new speakers, they cost much more than these... and now have to get rid-of the JBLs.  A few of my friends who have heard these at my house have already started knocking on the door!  That is how good they are... listen to them and they will easily sell themselves.  Especially knowing the system is well under $1,000.Pros:  Sound quality is very good, looks are great, unbeatable system price, easy to install and set-up.  Having 5 identical voice matched speakers really helps the sound transition across the space smoothly.  Fits medium to small rooms very well.Cons:  Speakers tend to focus the sound where the speaker is aimed - minimal dispersion.  I also prefer more mid-range punch, but smaller speaker usually have this problem.  The sub covers well except for the very low.  On this subject, I already added a monstrous SVS deep bass sub, so this had little impact on my system.  I used the JBL for mid-bass and the SVS for under 50hz (it goes to 12!).My personal catch 22:  It is hard to depart from this set-up after using these JBL speaker as a  "temporary" speaker system for almost 2 years now.  I found it VERY hard to sell the need for the more expensive speakers (which I just purchased) to my wife... there is so little wrong with the "temporary" JBL speakers!  They are a perfect affordable solution to very good HT sound. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AFFORDABLE HT - Entry Level HT Speaker System </p>
+
+
+<h2> review.date </h2>
+  12-20-2013  
+<h2> review.text </h2>
+
+ <p> What a great deal for an awesome sounding surround package! You need your own receiver, but it is definitely worth the investment! The sound is incredible! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing Sound, Amazing Price </p>
+
+
+<h2> review.date </h2>
+  12-31-2012  
+<h2> review.text </h2>
+
+ <p> I hooked up these speakers about a month ago and they sound great. The strings on a guitar to the water rushing by in a movie is very clear. If you are an audiophile, then these speakers are not for you. If you like great music and to watch movies with theater quality sound then these will do just fine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for small to medium areas </p>
+
+
+<h2> review.date </h2>
+  08-30-2009  
+<h2> review.text </h2>
+
+ <p> Good clean lines, easy mounting on the walls, wires are adequate size and length.  Stylish for the black, stainless, glass color choices in most High Quaility components.  I replaced the Bose Life style 28 and its speakers and am just as satisfied with this product.  I've connected the Onkyo TX NR906 and that just blew my bose out of the water as far as options and usability.  Anyway ... completely satisfied with this product.  Bass is very strong if you like that...Of course it is adjustable. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Speaker System </p>
+
+
+<h2> review.date </h2>
+  08-01-2009  
+<h2> review.text </h2>
+
+ <p> very good stuff. this is my first powerful speakers/ so it is some what my best one/ if it is not on sale, it is kinda pricey. recom for decent people </p>
+
+
+<h2> review.summary </h2>
+
+ <p> pro </p>
+
+
+<h2> review.date </h2>
+  07-06-2008  
+<h2> review.text </h2>
+
+ <p> I can't say enough about this speaker system.  You can tell that JBL took great care in construction and sound quality.  The mounting brackets are top of the line and the speakers are surprisingly solid for the price.  I replaced my former JBL tower speakers with this set and I haven't looked back since.  Great product from JBL as always. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Great Great </p>
+
+
+<h2> review.date </h2>
+  04-28-2009  
+<h2> review.text </h2>
+
+ <p> I purchased these speakers as my previous system rendered the spoken word on TV, and in movies, inaudible. I first paired the speakers with my existing Onkyo HT R330 receiver and noticed a significant improvement in sound quality and clarity.I then replaced the Onkyo with a Harman Kardon AVR254 and it's like night and day. These speakers do exactly what I wanted them to, and paired with a quality receiver the sound quality from Blu-Ray movies and even just Dolby Digital from DVD is awesome. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Clear Concise Sound </p>
+
+
+<h2> review.date </h2>
+  12-18-2011  
+<h2> review.text </h2>
+
+ <p> This is an awesome speaker system!  Bass is amazing.  The subwoofer is Huge.  When viewing a movie at night, I have to turn my sub all the way down.My main stereo has Mirage OM series speakers.  I am used to big sound that provides thunderous bass and incredible sound field with glass shattering clarity.  I consider myself an audiophile who thinks a good sound system is as important, if not more important, than a good TV.So when I started shopping for a compact system, I did a TON of research.  I was surprised by just how many systems there were.  Energy, Boston acoustics, altec Lansing, and Polk also have some really nice products.  And heck, if you aren't as discriminating with your audio preferences, Sony, Samsung, LG all have good deals.  But I didn't want to settle.  I wanted something that would rock my world.I stumbled upon these, and I couldn't be happier.  Jbl is a great name in audio, so I knew these weren't going to suck.Because all speakers are identical, they are a perfect tonal match.  This is critical for maintaining tonal integrity when the speakers pass the sound around the room.  Imagine an xwing zooming over you in star wars, or a gtr zooming past you in fast and furious.  For the Doppler effect to work, you want compatible or identical speakers.The highs are amazingly clear.  these speakers glisten.  The subwoofer is phenomenol.  The sub alone could be worth $500.  I can get into a lot of technical reasons to love these speakers, but better yet...I will explain it one way.  WOW.  These speakers have the ultimate wow factor.  In a lot ways, these exceed the performance of my milti-thousand dollar stereo.  They are that good.Buy these.  You will LOVE them.  Stop looking at other speakers.  Buy these and NEVER look back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing! </p>
+
+
+<h2> review.date </h2>
+  01-02-2012  
+<h2> review.text </h2>
+
+ <p> Paired with the Onkyo NR-TX609 and you get killer sound. I would have given 5 stars if it wasn't for the way the bracket swivel bolt mounts into the speaker. You have to be careful or you can break the speaker plastic from the inside out. I did just that because the directions supplied do not tell you - not to over tighten the locking nut. One good thing is I'm handy "mechanic by trade" and it also helped that the speaker was easy to disassemble. I used two part epoxy designed for plastic. This made the connection at least fifty times stronger than the original design. I might just support the rest of the speakers the same way "it is that much better" than the original design. Only other issue at question is the supplied speaker cables, they are cheap and I'm somewhat sure they only support bare minimum requirements. Invest in much higher quality wiring and you will be blown away by the sound difference and this also requires above average HDMI cables. Below are examples of products used.AudioQuest 1M HDMI Carbon 1m Indulgence series HDMI cableKnuKonceptz CL3 In Wall Audiophile 12 Gauge Speaker Wire 250'AudioQuest SUBX 12m (39.37 ft) Subwoofer CableMonster Cable QL GMT-H QuickLock Gold Banana Connectors (2 Pair)Onkyo TX-NR609 7.2 Channel Network THX Certified A/V Receiver </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Sounding Speakers...... with a Great AV & Cabling !!! </p>
+
+
+<h2> review.date </h2>
+  01-05-2012  
+<h2> review.text </h2>
+
+ <p> Not sure why but the speakers cannot produce high frequency sounds. It did ok as a surround sound system but not acceptable if you plan to play music out of this set of speakers. I decided to return it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good looking but terrible sounds </p>
+
+
+<h2> review.date </h2>
+  04-15-2013  
+<h2> review.text </h2>
+
+ <p> No way this home theater will blow away audiophile speaker system. But for me the speakers were very good, totally love it. Also, I brought this home theater speakers with Like New condition. The sub woofer make very weird shaking sound inside when you turn audio on high, like something loosing up inside the sub woofer. So I don't know if the brand new sub woofer from this home theater system has the same problem or not. Also my sub woofer got broken terribly at the corner like it got drop when delivery or something. But I couldn't complain more since I didn't buy it brand new. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very sound quality!!! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

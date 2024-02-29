@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1500283673 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-17-2014  
+<h2> review.text </h2>
+
+ <p> The Grower&#8217;s Gift is a strikingly original and thought-provoking story that allows the reader to foresee a future where the environmental issues we face now have spun out of control.Author Vanna Smythe enables us to envision the world she has created with ease. The characters and situations are brought fully to life in an all-too-real manner. The hopelessness and despair that exists in a world where natural resources have diminished and all except the rich are struggling to survive, is offered a glimmer of hope when Maya endeavors to develop her gift. Maya leaves her home to study at a school in Neo York that will help her develop her gift and share it with the world. Only as it turns out the school is not as altruistic as Maya had believed. There is also Ty whom Maya has developed feelings but is not sure about trusting. He is the heir to Neo York and comes from a privileged family.Smythe is able to weave together a multi-faceted story involving youth, love, romance, fear, suspense, catastrophe, environmental failures and hope. There are many unexpected twists and turns that keep you on your toes. Maya is a beautiful character and a great example to the young people who read this book. She is kind and gentle yet strong and brave, intelligent, noble and beautiful. It is about time someone introduced this kind of heroine to modern literature.I highly recommend it and am anxiously awaiting the next book in the series! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fascinating and Illuminating! </p>
+
+
+<h2> review.date </h2>
+  06-25-2014  
+<h2> review.text </h2>
+
+ <p> This book is about a world that we destroyed and then had to find a way to live. Maya has the gift of growing a very useful but feared gift. Ty has a gift that is even more feared but he must not let anyone know he has this gift or someone close to him may destroy him. Maya decides against her parents&#8217; wishes to attend a school in NEO York the new domed city that barely allows people to survive with some comforts. Maya being from the outside is not allow within the city and must find a way to get to the school or lose every dream she has ever had. Will Ty be the key to her dreams or her destruction? This is a YA novel with a bit of a twist on the end of the world versions. I really liked this one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> after we destroy the earth what do we do? </p>
+
+
+<h2> review.date </h2>
+  06-16-2014  
+<h2> review.text </h2>
+
+ <p> This book captured my attention and I didn't want to put it down. It was very good but ended on a cliffhanger. I get so frustrated with writers who split their books up like this and I'm left hanging, wanting more.I really enjoyed it but I'm not happy.There are also quite a few errors in this book that could have been caught by proofreading.CST </p>
+
+
+<h2> review.summary </h2>
+
+ <p> this was pretty good </p>
+
+
+<h2> review.date </h2>
+  06-14-2014  
+<h2> review.text </h2>
+
+ <p> This book is terrific! written in a very profesional way with a great plot and amazing and well described characters! I can't wait to see the other books by the same author being published! :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great book! </p>
+
+
+<h2> review.date </h2>
+  05-18-2014  
+<h2> review.text </h2>
+
+ <p> I received a copy of The Grower's Gift in exchange for an honest review. I would only call this book &#34;science fiction&#34; because it's set in the future - not for the usual technological/alien/spaceship-y qualities, which aren't present or the point here. Rather, we are faced with a dystopia wherein all our lack of care for the environment has come home to roost.One thing I really enjoyed about this book were the main characters - Ty and Maya totally come off the page and seem like real people. Their backstories are also very cool. This book also paces well: things are described well enough to picture them clearly, but the descriptions aren't longwinded or boring, which makes for a very fast-paced read.The main focus of the book is on the characters and their relationships and problems, but The Grower's Gift also serves as a very well-thought out image of the future of our planet if we don't take environmental problems seriously now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dystopian future-fiction with an important message </p>
+
+
+<h2> review.date </h2>
+  06-01-2014  
+<h2> review.text </h2>
+
+ <p> Just imagine living in a dry arid desert area where food is scarce and water is even scarcer. Where plants, specifically, fruits and vegetables are all but nonexistent. Now imagine that you had the power within you to make things grow, you just needed to learn how to master your power. You would probably do all you could in order to help your fellow man by using your gift to grow food, trees, grass etc to help life flourish, right? That is exactly what Maya wants to do and in searching for the ability to focus her power, Maya puts herself in danger.The danger, Maya finds herself in is due to the desire of some to keep the knowledge that  there are people who have certain powers  under wraps. If that information got out their perfectly little run world, where they have all the power would start to crumble. Add in a little budding romance between Maya and the heir to the city Ty and you have The Grower's Gift book one in the Progeny of Time series.I have to say that I really enjoyed this story. I was a bit saddened to learn that I would not get a true ending due to this being a trilogy, but I dealt with it and moved on. I enjoyed the headstrong attitude of Ms. Maya and her desire to help her town/world to become a better place. Her eventual love interest, Ty is another fun character. He has a strong will and feeling of obligation to keep his family safe and out of harms way. Ty, also, of course, has a strong attraction to Maya and the two have an interesting connection that I look forward to seeing continue.The Grower's Gift is a book I would have no hesitation to suggesting to someone as a potential new read. It has good characters and development. The setting is detailed and descriptive and I, quite happily, admit that I enjoyed the dialogue between all the characters. It felt genuine and aided in moving the story along while bringing the characters to life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Doubleshot Book Reviews very nice start to a new trilogy </p>
+
+
+<h2> review.date </h2>
+  06-19-2014  
+<h2> review.text </h2>
+
+ <p> This is an amazing and wonderful story. I loved it. The story line is wonderful, a young girl coming of age and learning to control the powers within her. The characters were perfect and played off each other to make this real and intense. It has mystery, intrigue, romance, and the bonds of true friendship and new love. It is written extremely well in a format that is easy to follow but the book is hard to put down. I was held to it from the start and hated to see it end. The author, Vanna Smythe is a very gifted writer with a wonderful imagination and passion for life and writing. I strongly recommend this book to everyone. It is a wonderful book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Joy To Read </p>
+
+
+<h2> review.date </h2>
+  06-18-2014  
+<h2> review.text </h2>
+
+ <p> I thought that this book was a great start to the series.  I found the main characters, Maya and Ty, to be very well written adn i really grew to care about them as the book progresses.  When a book can make you really feel for the characters than the author has done their job well.  The plot moved at a nice pace, enough to keep me interested but not too slow that you get bogged down in the details.  Overall a nice book and I am looking forward to the next one! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Series Debut </p>
+
+
+<h2> review.date </h2>
+  06-10-2014  
+<h2> review.text </h2>
+
+ <p> It was the recent Occupy Wall Street movement that first drew the attention of the world to the gross disparity in income and living standards between the top 1% and the rest of us 99%.This book, &#8220;The Grower's Gift&#8221;, by the talented writer Vanna Smythe, seems heavily influenced by Occupy Wall Street, and paints a grim dystopian future, in which the 1% lives in beautiful, prosperous Cities, and want for nothing. The rest of the 99%  live in what are known as the Badlands, where food and medicine are scarce, the environment degrading rapidly, and people just struggling to live a tolerably decent lifestyle.Indeed, the Badlands are what our planet would look like if environmental pollution and deforestation are allowed to go unchecked. Life in the Badlands is &#8220;solitary, poor, nasty, brutish and short&#8221;, as the famous 17th century philosopher Thomas Hobbes described life in England at the start of Industrial Revolution.Still, hope exists in the form of a young 16-year old girl Maya, who is blessed with the special power to grow things, bring life to the dying and the decaying. However, Maya's powers are still underdeveloped, and she is desperate to develop them at any cost to save the Badlands from certain doom. Maya is smart, beautiful, kind, and yet feisty and stubborn &#8211; a great young heroine to base an exciting Young Adult series on.Complimenting Maya is Ty, the rich, handsome and arrogant heir to the City of Neo York, where the rich and the privileged live. Maya and Ty are drawn to each other, and their romance is interesting because it brings together contrasting cultures, backgrounds and outlooks towards life.This book basically sets-up the background for what promises to be an exciting series, an ends on a promising note, which had me asking for more. I look forward to how the story develops, especially how the writer handles the conflict between the Cities and the Badlands in next book of this series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Start to An Exciting New Series! </p>
+
+
+<h2> review.date </h2>
+  05-21-2014  
+<h2> review.text </h2>
+
+ <p> Recently I was given a copy of "The Grower's Gift" for an honest review and I have to admit that as soon as I read the novel's synopsis I was immediately intrigued. This is a YA dystopian novel that mixes together a gripping apocalyptic plot with a sweetly burgeoning romance, a thought-provoking message about the cost of the all too present environmental issues our world faces and a cast of characters that are as authentic as they are compelling. Vanna Smythe weaves a fast-paced and gripping story that blends emotion with adventure and action with drama, creating a multi-layered story that sparks with imagination.What I liked about the novel is that it felt refreshingly original with an emotionally charged underlying thread of the environmental message that just makes it stand out from the rest of the pack in the novel's genre. It's well-written with an evocative tone and descriptive writing style, making for a novel that was well worth the read. It left me eager to read the next novel in the Progeny of Time series to see  where Ms. Smythe Maya and Ty next. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Thought-Provoking Environmental Message Wrapped in an Imaginative YA Dystopian Novel </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

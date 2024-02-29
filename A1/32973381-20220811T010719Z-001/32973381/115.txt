@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B0067UUE5S <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great value, attractive, and sturdy </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this to go with a basic Kindle that I bought my sister for her birthday. It looked good on the Amazon site, and I was hopeful. When it arrived, I was very pleased with it. It's a good color, the Kindle fits perfectly, it's sturdy, and it protects the Kindle with not a lot of extra bulk. I have a couple of M-Edge covers of simulated leather, one for a Keyboard Kindle & one for a basic, and they are much more expensive, but I think this one is almost as good in quality, and it certainly looks as good.I've read other reviews that mentioned an odor. I held it to my nose when it first arrived, and I could smell a kind of &#34;new product scent&#34; -- slightly chemically -- but it wasn't super strong. My sister's been using the Kindle for several days now, and the odor seems to have dissipated completely. My sister likes the cover, as well.I'm thinking of getting one of these for my Kindle Keyboard just for variety -- I like the color options -- and they are inexpensive enough to be able to have more than one quite easily. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very nice leather cover for Kindle </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-26-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> My leather Kindle cover arrived today and I love it.  The Kindle slipped easily into the cover and all of the controls are available. The cover is sturdy, very nice color and closely into a compact package. It has a band that closes it securely. Although it is light weight, it has a very sturdy feel almost making it a "book". I actually like the feel of it in the cover.  Very nice product worth every dime! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great cover for the price </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-14-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have purchased three of these. They are all nice colors and fit the Kindles well. The leather isn't particularly soft, but that's just fine with me. All I need is an affordable cover to protect my Kindle. For the price, you can't go wrong with this one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love It </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-17-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love the color and the case it fits my kindle e reader nice, would recommend to others as its a nice case and strong, would order again when I need another one. Thank you. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An inexpensive cover that smells a little </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-25-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bought this for the price as my brand new kindle only costs $53 after tax.The smartest design is the small compartment. But the overall design was not great and I'm worried about the band because it has to be "removed" every time you read.It does smells a little when I open the package. But it is OK now after 3 days.All in all, it is a good buy for the price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Kindle reader case </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-29-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Got this kindle reader case for my mom's kindle e-reader.  Helps to protect her kindle and keep it in good working shape. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great for the Kindle non-touch Gen 4 </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-20-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This little cover is actually a little hard to get the Kindle non-touch 4th gen into, but you know if it's hard to get the Kindle into it, it will NOT be falling out of it. I think that the cover is very stylish and sophisticated and I really like the elastic band it has, you can even use the band to hold back the cover while you're reading. The case has a very sturdy feeling to it, so that the Kindle does not feel like it'll get smashed while you're using it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fits well and is excellent </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Fits perfect. Highly recommend this case. Best case for the money. (not much else needed to say, buy it instead of their expensive one.) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A simple kindle cover that does what it's suppose to! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-23-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> When I ordered this from Amazon, I was worried that I wouldn't like this cover, but when it came (got it a day early) the color was even nicer than what it looked like online.  Kind of a turquoise/aqua blue, Love it...  makes taking my kindle along a no brainer, kind of a grab & run...  I like how the band that keeps it closed or open fits right in a recessed edge and becomes part of the cover.  At first I found it difficult to open the band, but I have found I can easily lift the band from the bottom.  I've gotten lots of compliments on the cover and everyone wants to know where I purchased it...  The band also holds the cover in place while reading...  I want more colors, to coordinate with each of my bags...  Very Nice for the Price!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> kindle cover </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-08-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This cover offers good protection for my kindle.  It fits perfectly.  I like that it has a pocket, which is where I keep my library card.  My only complaint is that the fake leather is kind of cheap looking. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> perfect fit! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> My daughter replaced her original cover for her Kindle e reader with this and it's perfect. Great fit, function, and fashionable. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

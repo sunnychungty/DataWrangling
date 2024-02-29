@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B000CS461O <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-21-2011  
+<h2> review.text </h2>
+
+ <p> I saw this show years ago on TV and thought it was great.  You get to learn a little history of Disneyland and Walt before they dive into how they made Disney World!From buying the land and starting out to where they are today, well 2005 anyway.  Which is when the Mt. Everest Rollercoaster opens in Animal Kingdom!If you like Disney and little trivia tidbits you will definately enjoy this movie! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyable History for Everyone! </p>
+
+
+<h2> review.date </h2>
+  10-10-2006  
+<h2> review.text </h2>
+
+ <p> I rated this only four stars because the audio track on my DVD was out of sync with the video.  It appears that the film to DVD transfer didn't compensate for the film audio being several frames ahead of the images.On the other hand I now have images of the Utilidors.  I managed to take two backstage tours of Walt Disney World during the 1990's.  The Keys to the Kingdom tour and the three-park Backstage Magic tour were expensive and took up an entire day--but I thought them worth the trouble and expense.  It took me three years to book the Backstage Magic tour, and for several good reasons I didn't get to take home photographs of the backstage areas such as the Utilidors.  Modern Marvels provided me video images to keep these vital infrastructure of Walt's utopian village fresh in my mind.I learned about the new Expedition Everest ride, and how the Tree of Life was grown by the Imagineers.  I love the Monorail system and the Contemporary Resort--featured!  This DVD lets me tour Walt Disney World and its secrets in the comfort of my home, without flying cross-country and putting up with crowds.  It isn't "the real thing," but this DVD allows me to scratch my Walt Disney World itch until I get the time and a couple of thousand dollars to return to Orlando. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inexpensive Backstage Tour </p>
+
+
+<h2> review.date </h2>
+  05-11-2012  
+<h2> review.text </h2>
+
+ <p> This is by the History Channel, and provides enough real inside information on the imagineers, the animatronics, and all those terrific things Disney people actually invented, including some that are now being picked up by more serious applications. It also goes into the planning and financial considerations, the Disney philosophy of how to treat visitors to the theme parks, and the things they learned from the limitations found in Disneyland.If I had kids and the money to indulge, I'd be planning a trip to Orlando right now. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Make Your Reservations and Pack Your Bags </p>
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> My husband and I watched this and were amazed at how entertaining and informative it was.  We've been to Disney World and are hoping to return soon. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I'd defy anyone not to enjoy this </p>
+
+
+<h2> review.date </h2>
+  09-01-2009  
+<h2> review.text </h2>
+
+ <p> This is a great show for any WDW fan(especially w/o commercials). As a true fan, I would love to see a more recent one done that would be even more detailed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent video </p>
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> Walt Disney World is far more technologically advanced than I realized.  It took two watchings in a row of this for me to absorb everything it was saying about its many technological wonders, including Audio-Animatronics, the monorail, EPCOT's Spaceship Earth, EPCOT's fireworks and colored fountain show, the car stunts at the Hollywood Studios theme park (in Florida, even though it's called Hollywood), thrill rides such as a hanggliding simulation, the most amazing manmade tree in the world, a safari with carefully planned landforms and barriers so the animals will be visible, rides, underground tunnels under the Magic Kingdom, and more.  There is not only a wealth of information, but it is very interestingly presented and well written.  The enormous level of collaboration/teamwork, amount of material, and technical knowledge necessary to make these wonders of the world, would astound even the kings of ancient times, I suppose! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Disney World has some of the world's most amazing manmade wonders </p>
+
+
+<h2> review.date </h2>
+  02-03-2013  
+<h2> review.text </h2>
+
+ <p> for any one who is going to disney world or just likes disney this is the dvd for them it takes them behind the secinds and shows them a disney like you have never had before </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great find </p>
+
+
+<h2> review.date </h2>
+  04-23-2011  
+<h2> review.text </h2>
+
+ <p> Yes, I think Disney World is one of 7 wonders of the world. The place is incredible and I'm even more impressed since getting the behind the scenes look I got in this documentary.It begins with a brief history of Walt Disney himself and his vision for Disney World. They get into the impact his passing had on the efforts. It was his brother and the team he had assembled who decided they could see the dream through to completion.The documentary then takes the time to go through each of the four major parks: Magic Kingdom, EPCOT, Hollywood Studios, and Animal Kingdom. It was fascinating to see the development and the inner workings of some of my favorite attractions and rides like the Rock n' Roller Coaster and the Tower of Terror. Of course, at the time this documentary was filmed, Everest was still under construction. If you haven't been on it, it's an awesome ride.You will be fascinated by the underground tunnel system, the animatronics, and the  whole host of other things that go into the inner workings of Disney. Definitely an interesting time, especially for this Disney fan. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An In-Depth Look At Heaven on Earth </p>
+
+
+<h2> review.date </h2>
+  04-10-2008  
+<h2> review.text </h2>
+
+ <p> The Disney fanatic's Dream! Behind the scenes to the extreme.  Learn the secrets to the Disney Magic and how the whole thing functions and is soo perfect! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WOW </p>
+
+
+<h2> review.date </h2>
+  02-28-2010  
+<h2> review.text </h2>
+
+ <p> Being a long time Disney fan I grabbed this when I first saw it.I love the theme parks, though the only 1 I have ever been to is the 1st & the original Disneyland.  I always want to watch any program about any of the Disney theme parks/resorts.This program is very interesting.  Filmed when Everest was being built.At 100 minutes you do get to see a lot of different items.  More varied featuring of the attractions should have been done.  They just center on a few attractions.Disneyland is mentioned/referenced/shown several times in this program.  So, I have this question-where is the Disneyland version of Modern Marvels?Cheap DVD package-no chapter search list or any back ground information inside. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting program-where is the Disneyland version? </p>
+
+
+<h2> review.date </h2>
+  09-29-2008  
+<h2> review.text </h2>
+
+ <p> Being on the other side of the world, in Australia, I have only made it to WDW once - way back in 1983 about 5 months after EPCOT opened.  This DVD not only brought me up to date with ALL the fantastic developments since then, it has inspired me to plan another visit there in 2009! I lent my copy to my best mate who was there in 1994 and he's so excited, he's plannning to come with us next year.Basically, whether you're a Disney fanatic (like me) or not, this documentary provides spellbinding viewing.  When you see the effort and imagination that goes into making this one of the most visited places on the planet, you can't help but want to experience it.So for those who want to visit, or even those who already have experienced the magic, this is a great eye opener to a fantastic place!At such a great price, how can anybody NOT buy this DVD? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WDW for all the world to see </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> Love this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> How fun! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

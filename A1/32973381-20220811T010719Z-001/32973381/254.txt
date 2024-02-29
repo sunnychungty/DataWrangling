@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000W8LX5G <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Beautiful Story </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-26-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a most beautiful piece. The music, the story, the actors, everything was simply perfect! A most exquisite film to me!! I loved every minute of it!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Brilliant and beautiful </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this movie, the story and the music. Jay Chou is very talented. The story was interesting with a twist in the end. The music was beautiful. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A nice love story. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a cute love story which leaves you puzzled as to what is actually happening. Despite that it is well worth watching. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Twilight and New Moon Pale in Comparison </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-16-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Excellent movie for middle schoolers who are learning Mandarin to watch and compare with popular love story movies such as Twilight and New Moon.  Better music too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A very romantic movie!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-01-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's a very romantic movie!!! I highly recommend it. It shows how love transcends time - literally! The love story is very sweet and simply but it struck my heart so much! It's a very good movie!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a high school romance move with time travel magic piano </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> don't waste your time unless you like high school romance movies.  this really isn't a 5 star movie.  not sure how this got so highly rated. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Taiwanese Jewel </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-13-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Jay Chou wrote this story, composed most of the music for it, directed it and acted the lead role. The love story is good, with a twist of course, but what really makes me love this is the music. It's gorgeous. I listen to it over and over. This showcases three talented pianists, Jay himself being the best. He made it fun to watch them play. He also plays cello beautifully, and you will hear it briefly here.As others have said, the cinematography is beautiful too. So far, the best movie I have.I would like to add that, although difficult to determine why---with multiple viewings the love story becomes more and more enhanced and gets deeper and deeper---again, it's like a magic film for that reason. I would also like to echo the reviewer who said "When you think you know everything"....the mystery is good! One of the best I've seen! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Gem of a Little Film </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a wonderfully made beauty of a little film, under total control of a Master. For a long time nothing seems to happen, yet you suddenly realize it has merely been toying with you, building and building and slowly building....The sound track is gorgeous, the actors all beautiful, the production, direction, and cinematography brilliant....Of particular interest to me were the fantastic scenes of almost spontaneous-seeming interaction between father and son---just wonderful and pumped the flow where it was needed. This director is astonishing. This is as beautiful a tortured love affair as they come--almost Shakespearian grade. I admit, okay, it brought a tear to my cynical eye at times.The girl Sky is gorgeous, with a beautiful body, but so is Rain, her tortured counterpart...what's a boy to do?BUT--all of a sudden, just when you think you have this figured and think you might be getting bored----it ratchets up to indescribable heights of Revelation you never dreamed of.For what this is---it's one of the best little films ever made. And I have been watching films since THE WIZARD OF OZ, in the original LIVE theater.This film pumped as much stunning emotion through me at the ending as I have ever felt for real...See it!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> You think it's going one way...then it pleasantly throws you unexpectedly to the ground. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-18-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> "Secret" was one of the films I decided to try with some hesitation.  The plot line (as far as the description was concerned) almost turned me off to the film because of it's almost "cliched" description.  But the fact that it took place in a music school...and that it wasn't focused on "bringing about a musical revival through more contemporary music forms" (not that I have anything against those kinds of films...it was just a trope that was getting old for me as of late) was what swayed me to take a chance on this film.  I was pleasantly surprised and greatly moved by the film...and it caused me to look at life differently.  This is such a beautiful Taiwanese film.CONTENT ISSUES:Ultimately, you have nothing to worry about here.  There is absolutely nothing that parents should be worried about should they show this to kids.  There's no gratuitous sex or innuendos, no foul language...it seriously is one of the cleanest films that I've seen recently.  But keep in mind that this is a romance...not a kid's drama.PLOT (ABSOLUTELY NO SPOILERS):Normally in my reviews, I do stress never giving out spoilers...but even more so I will emphasize that.  The reason is because, with this film, part of the beauty and message of it comes through the discovery and initial confusion.  I will at least tell you this much...any confusion you will experience is tied up rather nicely at the end.  Other things I really loved about the film was it's integration of music into "everyday things", and its exploration of the power of music and human emotion.  The pacing was fairly quick for an Asian film, but not out  of place.  It felt very full and complete.  The narrative itself is quite simple, but it's presentation is stunning and amazing.  What's more, though there's nothing "new" or "groundbreaking" about this film over others, it's presentation, how it was pieced together, and how smoothly it worked led me to many surprises in the film (I won't go into further detail lest I ruin the whole experience for you).  There are so many tearjerking moments, but also tons of cute moments that brought a smile.CHARACTERS:Generally speaking, the characters were good.  The male lead, however, could have been much stronger.  His role and the way he played it out wasn't terrible...but it just wasn't stunning.  That said, the story and how the female lead played her role more than made up for anything the male lead lacked...I mean, like seriously, her acting even made the male lead seem quite exceptional at points.CINEMATOGRAPHY:Very rarely do I feel a need to comment on camera angles and "stage blocking", but in this case I must.  I love how intentional all the shots and frames were.  Whoever planned out all of the blocking positions and the shooting path/angles was brilliant.  Not only did they capture some amazingly beautiful scenes and scenery that brought an almost fantasy'esque feel to the film, but they used the camera and staging to help further the intrigue of the story.  The camera work/stage blocking is just as much a part of storytelling as everything else.  What's more is that it's very naturally executed and does not feel forced at all.ALL IN ALL:This was a very beautiful film that gave me much to think about.  I'm more than glad I took a risk on it.  It caused me to cry like a baby at points as well as to smile like an idiot during other segments.  What's more, the way  they make music prominent in this film is amazing.  It was well crafted and pieced together...and encouraged me to enjoy my own life that much more. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Lovely and Romantic </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-09-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> One of the best movies ever made, i enjoyed every moment..the most beautiful way to fall in love and find love even 20 years ahead or before' </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A reallty good movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It was the best movie I have seen in a long time. Loved the music and the story. It would make anyone want to be a piano  major. :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> My wife watched </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I didn't watch this but it seemed like an interesting concept and was done well. It's subtitled, in case that matters to you. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Watch the last 40 minutes </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-30-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Whoa, I don't know how this got so many good reviews. The whole first hour I kept thinking I would turn it off because it was so boring. I only left it on because the description said it had a sci-fi twist. The entire first hour is spent showing the building of the relationship between two students at a music school (along with the usual encounters they had with other students). Sorry, but nothing exciting happens - bike rides together, walks through the village - absolutely nothing dramatic or exciting. Now two people can fall in love without any serious drama, but if it's a movie, you don't need to spend an hour on that part of the story. If your children care to sit through it, it is very PG - two kisses, a couple of cigarettes, and the word &#34;crap&#34; in the subtitles. So... it finally got interesting after a whole hour, and by then there wasn't enough time to adequately explain what was going on. I'll give it two stars because I did like the ending, but even that was lacking. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Don't let the title mislead you--it's a love story </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Almost passed this one by because of the title, but it's a really good story of the love lasting through time. (no porn folks, just love). Liked the actors, too. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wonderous story, Wonderous music </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Loved the relationship between father and son, between classmates, between music and musician. Give yourself enough time to step into another world, where the tempo slows to a fresh pace, and enjoy the slow ride. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not really Sci-Fi </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It was torture sitting through this, waiting for the rumored payoff at the end. And it didn't pay off for me. Other people will probably enjoy it though, I just prefer serial killers and aliens. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very different and enjoyable movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Jay Chou was amazing as the writer, director and actor in this film. The music was outstanding. The acting great, and the story one I have come to expect with Korean films and why I love them (not the newer violent ones!). The only reason I took off a star is because I thought it moved a tad too slowly (but perhaps that was because I had seen before, but watched again because it was so long ago I couldn't really remember the details of the story line). </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's no secret </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It has everything.  A tender love story, fantastic music. a supernatural twist, jealousy and happily ever after.  I've watched it twice, will do it again.  Don't miss it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sweet </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-06-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> A lovely story with beautiful music.  Boring at times, but all in all it was sweet.If you are paying attention you know what is coming next, so nothing is a surprise. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wonderful Love Story </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-22-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This has to be one of the best movies I have seen in a very long time.  A very romantic and well done love story.  The storyline was awesome as was the setting and the music.  I have to say, I'd never want to see this movie in any other but the original language with all the background that comes with it. I look forward to watching it again, which I will soon with my partner, and be able to enjoy the story without having to read the subtitles. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Really good movie. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-15-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really enjoyed the movie, and I have to say the only negative review I bothered to read was from a complete buffoon. The movie itself has roughly 3 genres in it and is quite original. The person giving it the negative reviews not only will spoil the movie for those who haven't seen it (watch the movie before reading reviews EVER, in my opinion), but they also used the major plot points to define a genre that doesn't exist. It's like watching Star Wars and saying "PUH, a completely predictable movie, not good unless you like sci-fi space-based movies where people use the force and the main antagonist turns out to be the main character's father. That genre of movie I just made up is soooo predictableeee." Just watch the movie and don't read any spoilers, it's a great movie. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good movie with great Blu-ray presentation </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-23-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is an entertaining flick and an excellent Blu-ray Disc.  The movie has some surprising plot twists, but I can't really say any more without spoiling it.  Jay Chou (INITIAL D, CURSE OF THE GOLDEN FLOWER) both directs and stars in this film, and he acquits himself surprisingly well.  The English subtitles are fine.  Recommended. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Sweet, Romantic Drama With A Twist </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very nice musical score and very touching. Liked it very much.  I would recommend everyone watch it.  Can't say everyone will like it but the chances are pretty good that they'll enjoy it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> maybe 5 stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> From the dumbed down usa, a movie like this demonstrates it's not, thanks to the arts at least, a world phenomena. Fine music, good dialogue, very good acting, multi-lingual characters and a plot that would make Deleuze proud (somebody is listening!) There's also what I can only characterize as a strong Korean influence especially as regards cinematography but also in the consistent quality of the whole production. Anthony Wong is in the movie though without the fanfare that used to always accompany him. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> (4.5 STARS) Jay Chou's Debut Film as Director Is an Engaging Romantic Drama (and a Secret) </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-20-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> The 2007 Hong-Kong / Taiwanese film "Secret" is one of the recent pleasant surprises for me. I know Jay Chou has been a big star in the music scene of Asia, but I never thought he could make such an emotionally engrossing film. Those who were disappointed with his rather colorless performance in "Curse of the Golden Flower" will be amazed to see Jay Chou as gifted storyteller in "Secret," his debut as director.Not much should be revealed about the story of "Secret." I only say it starts as a romance. Jay Chou plays a new student at art school, Ye Xiang Lun. In the old school building he encounters a beautiful girl student named Lu Xiao Yu (fantastic Lunmei Kwai) playing a mysterious tune on piano. Asked about the strangely absorbing song, she answers playfully, whispering to him that it is "a secret," a secret that cannot be told.Yes, the romantic love story has a secret which no one should know. I'm sorry that I cannot disclose even the nature of it. All I can say is, when you think you know everything, you haven't even got a clue. Perhaps you should enjoy the love story of the two likable leads and you will see what I mean by and by.Anthony Wong plays the father of Jay Chou's character (as in "Initial D") and gives a comical touch to the film's slightly nostalgic world. There is a "piano battle" sequence that might remind us of "The Legend of 1900" (but done with less bravura), which is an enjoyable scene and also a showcase for Jay Chou's musical talent. Jay Chou's approach as director is surprisingly orthodox and he seems to always keep in mind that his goal is telling a good story. And he is very good at that.Beautifully shot "Secret" is a refreshing and well-told romantic story with originality. Strongly recommended for anyone who loves good romance. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This movie was ok for me. I'm a girl, but I am not a hopeless romantic (too left-brained for that! lol) I could guess how it was going to end once I got about 40 minutes in. I don't want to spoil the storyline for anyone, but this is a definite, "Awww..." chick flick for sure. :) </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B003DV71DW <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-15-2011  
+<h2> review.text </h2>
+
+ <p> My third Visio and I think they are great tv's with lots of extras. I couldn't find a small one that was wireless internet ready and Amazon had it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great quality for low price </p>
+
+
+<h2> review.date </h2>
+  08-12-2010  
+<h2> review.text </h2>
+
+ <p> Bought this for a bedroom tv. Easy to set up. Includes wireless N band internet connectivity. Picture is awesome, but the sound is just OK.This TV has Widgets that you can add to access various online accounts like Yahoo, Netflix, Pandora, plus more. There is a huge choice of these widgets. You can get your TV program listings even without a cable box.The stand and control are a bit gimpy. You'll love it. Sam's Club has it for $239 as of 8-10-10. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great TV with Internet built in </p>
+
+
+<h2> review.date </h2>
+  08-08-2010  
+<h2> review.text </h2>
+
+ <p> I was really looking forward to receiving this TV.  Of al the 22" tv's this is the only one that had 1080p, led lighting, and the capability to connect to the internet.  I had read some reviews that said the sound was bad, but I didn't care since I can't tell the difference between an LP and a CD.  Unfortunately when I received this TV the first thing I noticed was how bad the sound was.  When I turned off the "surround sound" setting it improved somewhat but it was still pretty bad.  The picture was all washed out, it looked like an Insignia or Dynex brand TV I saw at Best Buy.  It may be because it's contrast ratio is 50,000:1.  I bought a Samsung LED 22inch that doesn't have all the features the Vizio had.  The Samsung does have a beautiful picture and excellent sound.  The Vizio was lacking an on/off timer which is good to have if you use this as a bedroom tv to help you wake up.  The remote on the Vizio felt very cheap too.The OSD menu was confusing to use on the Vizio.  The Menu button had the same effect as pressing the Vizio Internet Application button.  I think the set I got was defective.Amazon was great in processing the return, but if you buy it with the intention to try it out buy it directly from [...] since then you'll be able to take it to the store to return it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> lots of features, disappointing performance </p>
+
+
+<h2> review.date </h2>
+  10-19-2010  
+<h2> review.text </h2>
+
+ <p> I checked all the reviews and decided this was the TV I could afford. If you're looking for an HDTV this size, this is a good buy, except for its speakers. I'd suggest anyone ordering this unit add a set of speakers to your order. After much researching, I decided on the Logitech S220 2.1 w/subwoofer. this combination creates a very good system. Both the TV & the speakers are priced affordably, as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good TV - Terrible Sound </p>
+
+
+<h2> review.date </h2>
+  06-08-2010  
+<h2> review.text </h2>
+
+ <p> I bought this tv for my bedroom and it is perfect. I use this strictly for streaming movies from Netflix and my only complaint is that the glossy black remote control shows finger prints way to much but that is my only complaint. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The perfect bedroom tv! </p>
+
+
+<h2> review.date </h2>
+  09-23-2011  
+<h2> review.text </h2>
+
+ <p> Every thing seems ok with the TV. My only issue is the sound quality. Invest in a surround sound system then your good to go :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad for the price I paid. </p>
+
+
+<h2> review.date </h2>
+  09-20-2010  
+<h2> review.text </h2>
+
+ <p> This TV is so lightweight that I use it both at home and when traveling in my RV.  The built in wireless N connectivity and downloadable Internet apps are fantastic and easy to use.  Paired up with a Verizon Mifi cellular wifi device, it's a great was to stream Netflix while RVing on the go!  As others have mentioned, sound out of the box is not that great (rather tinny).  But just going to the Advanced Audio settings can improve things greatly where you can turn off the SRS feature and adjust the equalizer to your liking.  It's also easy to plug in a pair of computer speakers to improve the sound greatly.  This TV was an absolute bargain at only $250 from Target.  Great picture, remote, and features and extremely portable! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great TV for bedroom or RVing </p>
+
+
+<h2> review.date </h2>
+  07-25-2011  
+<h2> review.text </h2>
+
+ <p> Ok, loved the idea of Wi-Fi ready, and Vizio has been around a while now, so thought I would get this product for our NEW Kitchen remodel as the surprise gift for my other half.What a flipping disappointment, there is NO VERSA wall bracket with this TV even though product say it works! I also called Vizio and was told to call third party for replacement... nope not them either , was sent back to MFG and spoke to support rep who took my info down, I also got told that was being processed and now 60 days later, and 2nd TV purchase ( went back to Samsung who I have always rusted ) I have never gotten the replacement part.Grrrrr Very disappointed, as the design of this TV is NOT well thought out and they have no customer support methodologyNever again will I buy this brand </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quite Dark, NO Wall Mount ability! ( even after getting run around from VZ customer support ) </p>
+
+
+<h2> review.date </h2>
+  12-27-2010  
+<h2> review.text </h2>
+
+ <p> First of all, I'd like to say how pleasurable it is to shop here at here at Amazon.com. The whole buying and shipping process is always a breeze and I hardly shop anywhere else online now.My wife wanted a TV for the kitchen, so I recently bought this 22" Vizio HDTV for this location. Hooked up to digital cable, the picture is great but the sound is awful, so I started looking around for some decent speakers in hopes they would make the sound better.First, I dug into a storage box and tried some older Panasonic battery powered portable speakers ... they made the TV sound better but not quite good enough for everyday use. After searching and reading a lot of specs and reviews, I settled on the AC powered Cyber Acoustics CA-2022 2.0 Computer Speakers. Verdict: not bad, certainly good enough for a second TV used primarily for watching the news and some talk shows. Sound quality is much better than the embedded TV speakers. In the location where we use them, space is at a premium, so I have them lying on their sides immediately in front of the TV screen, kind of like a small sound bar and this works out well for us.Recommended.Cyber Acoustics CA-2022 2.0 Computer Speakers- Black </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good picture, lousy sound </p>
+
+
+<h2> review.date </h2>
+  02-13-2014  
+<h2> review.text </h2>
+
+ <p> put in bed room this TV was refurbished and was a great buy could not tell from new.  had a broplem connecting to Cable. Comcast requires a box whichmis really not needed if you have Wow. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> wanted Netflick and Hulu movies </p>
+
+
+<h2> review.date </h2>
+  12-01-2010  
+<h2> review.text </h2>
+
+ <p> This was my 2nd attempt at a bedroom HDTV. The first one was a TV/DVD combo from Toshiba, which I returned because of remote control issues.I have to say that maybe the 2nd time's a charm:*Once the TV is wirelessly connected to your network, you can load up the Netflix App and watch your instant ques with great clarity with no interruptions.*This unit is super thin and lite, creating a sleek look on our dresser table.*Picture quality is very impressive (1080P), and I don't see too much loss in clarity when viewing off center.*So-so sound quality can be remedied by connecting it to a computer sound system with subwoofer.*Some people might be put-off about the lit-up "VIZIO" logo on the bottom of the TV both when on and off, so keep that in mind if looks really is an important aspect to your decision.I bought this HDTV from Target through Amazon, which in retrospect I should have just bought it at the brick n' mortar Target store. The $10 shipping was so slow that even the free Super Saver shipping option from Amazon would have gotten to my house sooner. Plus I would have saved my $10. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Bedroom TV with great features: Netflix through wireless receiver FTW! </p>
+
+
+<h2> review.date </h2>
+  01-12-2011  
+<h2> review.text </h2>
+
+ <p> This TV was temporarily on sale at a membership store for such an amazingly good price that I had to try it, thinking an LED-lit screen would give me better contrast for my photography work, with the TV features being a bonus.It is a pretty amazing little TV - very good picture, wireless connectivity, tons of internet widget apps including my favorites: Netflix, HuluPlus, and Pandora.So what's the problem? Even though this TV has a "computer" setting, it's not really calibrated for the color space of a computer. I have it connected via HDMI to my MacBook Pro running in 1080p mode and despite running my color calibrator on it 10 times, and hours of manual tweaking, I simply cannot get the colors right. You might never notice this when watching TV or DVDs, but when surfing the web (and other computer activities) the blues/violets seem to be way too hot, but manually lowering them causes the other colors to shift. For semi-serious photography work, it's just not going to cut it and I'm going to have to return it. (One tip - turn off ALL the advanced video adjustment features and turn the sharpening all the way down - this gets you *almost* to the point of being a good computer monitor.)Other complaints:it has the WORST remote I have ever used. It feels super light and cheap. The high gloss finish instantly sucks all the oils out of your fingers, never to be wiped off again. The directional keys "bounce" like crazy - if you don't press them super quick, you end up getting 2 or 3 key presses, and the often-used "select" key is barely larger than a pencil eraser and is butted up (and flush with) the direction keys. If you have large fingers, forget about this remote - even with my slim fingers I have to use the tip of my finger to press the center key without hitting an arrow key.A great feature is the built in support for HuluPlus. BUT BE WARNED: unlike my Roku which will automatically find the right quality video stream for your internet bandwidth, this one defaults to the highest setting, and for me, that means it jitters so badly it's absolutely unwatchable. It wasn't until I was packing it up to return it that I noticed you can "arrow down" when the INFO screen is on and manually select the stream quality that best suits your connection. Honestly? Unfortunately, when I set it to the lower HD value (2MB connection) it still jittered a little bit on my 3MB internet connection. Setting it to SD+ (1MB) appears to have gotten rid of the jitters - it's no longer HD, but it seems a lot better than traditional SD. Now I'm torn whether to keep it and use it as a bedroom TV.So, if you want a good little, high feature TV at a good price, this TV is hard to beat (although the remote will drive you mad), but don't buy it if you want to use it as a color-accurate computer monitor... and beware of the need for a 6MB internet connection if you want to stream HD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazingly feature packed TV - not a great computer monitor </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000F8OIEQ <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Unfortunately it is slow, not enough humor, lacks refreshing material. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-18-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> Taped in 2005 surprises me, because I really like Henry Cho when I first saw him in the 90s.  But with this DVD comic show, I was disappointed.  Yes, he is slow paced, and I accept that, but there is very little entertaining humor.The comic act was lacking fresh material!  We have long heard about the marriage jokes, the pregnancy and kid stuff.  That has been hashed about for years and years.  What he brought was nothing fresh.  The in-law family humor was unoriginal and unfunny, been there, done that, heard that!! In other words, if the inlaws aren't worthy of exciting funny material,.... can 'em.Along with the slow pace, the structure of the act lacked interest.  Too often, he uses filler talk, you know, the repetition of phrases just to fill time.  This makes the act slower and less interesting.  Every word a comedian says, should be important, if not, use filler time.The audience was lackluster over the performance.  But I guess if you have a bunch of Tennesseans, this might be for suitable for them.  Otherwise, this slow-paced, unoriginal marital, family-type humor would not fly elsewhere.As much as I wanted to hear Henry Cho, this was a downer!  ....Rizzo </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Henry, WHAT HAPPENED!? </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-18-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have enjoyed Henry Cho at his best, I mean real "funny".  This dvd "What's That Clickin' Noise" is not that good.  He often tells the audience that something is funny, no hearty laughs with this one. Sort of left us "ho hum". </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A very funny man </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-29-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I first saw Henry Cho on a dvd with other country comedians and it was hilarious.  He tells stories about being a Korean farmer living in Tennessee (I'm a big hit at the co-op).  He talks about his friends, like how Jonly Bonly Stuart got his name (his parents were dumb and he's as smart as a bag of hammers).  He's fun to watch and to listen to.  If you have never caught his act, do so soon. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very Funny and I Can Play it with My Kids or Anyone (rare) </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-18-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Well just to keep it short this is one of the most hilarious comedy acts I have seen in a long time.  The fact that it is clean enough to play for any group just adds to the appeal of it.  Henry Cho is a Korean who is born and raised in Tennessee and it gives him a ton of material to write about and relate to (including his wife from Arab Alabama).  Anyone who does not get a ton of laughs from this needs therapy.  Get this DVD and enjoy it, if you are from the South you will enjoy it all the more. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great comedian but wish show was longer </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Henry Cho preformance was amazing and he is a great comedian with good material.  I just wish the show was longer then it was with only one hour.  What made me buy the dvd was his bit on Arab Alabama, What's that clickin Noise, and when he says that college is the only time in your life you can write a check for 50 cent and it bounces and his father says to him "You don't have two quarters."  That for me made the show priceless.  So if you enjoy a good clean funny comedian then pick this guy up and enjoy a wonderful humorous show start to finish and great for the whole family. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> No Subtitles </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-13-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> ITS 2007!I AM GOING TO YELL HERE BECAUSE I AM JUST SICK AND TIRED OR THIS SIMPLE OVER SITE OVER AND OVER ON SO MANY DVDS I SAW THIS ON CABLE, IT *** WAS **** CLOSED CAPTIONED, AND IT IS A FUNNY SHOW!SO I LOOK IT UP ALL OVER ONLINE, NO CLOSED CAPTIONING/ENGLISH SUBTITLES ON INCLUDED IN THE DVD I HAVE DVD'S FROM ( 10 ) TEN T E N YEARS AGO THAT ARE SUBTITLED CAPABLE I HAVE CASH, READY TO BUY, SO DO MILLIONS OF OTHER HEARING IMPAIRED PEOPLE, HAVE CASH, READY TO BUY, BUT CANT.PEOPLE WITH HEARING PROBLEMS SEEM TO BE THE LAST GROUP LEFT IN THE USA THAT STILL GET THE SHAFT. HERE WE ARE, THE 21ST CENTURY.Ridiculous </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Henry Cho: What's That Clickin' Noise </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-22-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a very good DVD. Love Henry Cho. He is very funny and not a DVD that you don't mind sitting and watching with your parents in the room. This is very clean and that is one of the things I like about it. He has much personality. Just wish he had more DVDs out there. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Absolutely Hilarious - Good Clean Fun </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-14-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I first saw this on Comedy Central and HAD to have it.  Henry an American of Korean decent who was born and raised in Knoxville, TN.  According to him, this makes him, "South Korean."  He uses no bad words (and only one that may be debatable) or crude subject matter.  I enjoyed his humor, mainly about being the only Asian kid and being married, and think his comic timing is outstanding.  I recommend the DVD and Henry Cho highly - "Bless His Heart." </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> clean fun </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-27-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> Finally a comedian you can watch with your kids!! Henry Cho is funny and a breath of fresh air with his stories and jokes. This is clean comedy at it's best. I didn't think I'd ever get to watch another comedian again the way they all use such foul langauage and X-rated descriptions of their stories. I hope other comedians get the message a clean up their acts! Thank you Henry Cho for a great d.v.d. Looking forward to your next one. Sweetwater, TN </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Consistent Laughs... </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-19-2006  
+<h2> REVIEW TEXT </h2>
+
+ <p> I laughed throughout watching this entire DVD. Although his humor doesn't strike me as hilariously funny as some of my favorite comedians (Dane Cook, Jim Gaffigan, Brian Regan, & Ellen Degeneres), he's very funny & I don't regret the purchase at all. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

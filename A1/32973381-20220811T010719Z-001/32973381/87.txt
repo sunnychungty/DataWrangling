@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004BIGBWI <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  06-07-2011  
+<h2> review.text </h2>
+
+ <p> An excellent adapter that fits most receptacles in the EU and Eastern Europe nice and snug.Solid construction, and compact design make this an essential item to have while traveling in EU.If you're unfamiliar with the use of foreign power supplies, do your homework before shopping around.These Litefuze adapters are the best I've ever used at a fraction of the price I've paid for others.I only hope they remain available(through Prime) in the future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> perfect for EU and most EE countries </p>
+
+
+<h2> review.date </h2>
+  05-31-2011  
+<h2> review.text </h2>
+
+ <p> I purchased several of these adapters for our recent trip to Israel.  Make sure you understand that these are just adapters and not voltage converters.  If you plug something into it that cannot handle 240 volts, then you will fry your electronic device.  Most laptop, cell phone charger, shavers, battery charger power supplies will state that it accepts an input voltage of 100-240volts.  If that is the case then this adapter will work perfectly for you.It is well built and since it is the round design, it will fit into the european sockets more securely. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little adapter </p>
+
+
+<h2> review.date </h2>
+  08-07-2012  
+<h2> review.text </h2>
+
+ <p> It simply works. It has a good tight connection on both US plug side and European side as well.The profile is fairly low, so it does not take up much space.Used during  month long vacation - strongly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Solid, reliable adapter </p>
+
+
+<h2> review.date </h2>
+  12-18-2012  
+<h2> review.text </h2>
+
+ <p> used it in trip to Tahiti, works fine. construction may not be very strong, but for this price and for occasional use, it is ok. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> works </p>
+
+
+<h2> review.date </h2>
+  12-02-2012  
+<h2> review.text </h2>
+
+ <p> Ours were white in color, not black as show. We bought three of them to used on our trip to Spain and they worked perfectly, so glad we purchased these as we were able to plug in our laptops, charge our phones and ipods. They appear well made, we didn't have any problems with the quality, they performed as expected during our two week trip. We have them for our next trip to Europe, highly recommend these adapters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Product </p>
+
+
+<h2> review.date </h2>
+  10-26-2012  
+<h2> review.text </h2>
+
+ <p> I just got back from the first Europe trip where I could try these, and I'm really happy with them. They don't feel cheap at all, nice and solid. Fit no problem and work great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Super solid, nice quality, work great </p>
+
+
+<h2> review.date </h2>
+  12-01-2012  
+<h2> review.text </h2>
+
+ <p> I received a white one instead of black like on the picture. I had to bend/adjust (with thin knife) the inside pins since it was hard to plug into it at first. Afterwards worked well. The adapter is solid, but does have the pins that are a bit thicker so won't fit in all (older) Europe outlets. I used it Israel and it worked well in the newer outlets.The one I had to adjust and was white I ordered from the "Voltage Converter Store". Afterwards I purchased another one from "PVCS" and it arrived black and worked out of the box. Overall a great product considering the price! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worth the money </p>
+
+
+<h2> review.date </h2>
+  01-06-2013  
+<h2> review.text </h2>
+
+ <p> No complaints, it did the job, was cheap and small enough to pack easily.  Recommend for people who travel a lot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy to pack and worked well </p>
+
+
+<h2> review.date </h2>
+  06-15-2012  
+<h2> review.text </h2>
+
+ <p> Product is well built and solid.  Fits nicely into the sockets in Germany.  Used with an extension cord, gave me all the power I need for all my electronics. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well built </p>
+
+
+<h2> review.date </h2>
+  02-16-2012  
+<h2> review.text </h2>
+
+ <p> I took two of these on a trip to Poland and Germany to use with my laptop and cell phone chargers.  They worked perfectly.  I am very happy with the build quality and performance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good quality and performance </p>
+
+
+<h2> review.date </h2>
+  07-02-2012  
+<h2> review.text </h2>
+
+ <p> I used this adapter to plug in my laptop in Greece.  It has solid construction and worked flawlessly.  I would definitely buy more if I needed them. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as described </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

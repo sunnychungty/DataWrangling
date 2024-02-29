@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00494X5VO <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It works. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you plan to fool around with lens accessories this 67mm adapter is better then the smaller diameter option.  It fits perfectly, and has worked like a champ for me.  It is plastic, and it can be hard to remove lens filters from if you tighten them on too hard. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> read all reviews and take note.... </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-29-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I had not choice but to buy this product IF I wanted to use a filter on my new Canon SX40HS.  Read the reviews, and oay attention...the adapter works just fine, if you do not force it!!  Look for the very tiny ( had to put the glasses on) 'dot' and 'line' when you put it on.  Line it up and GENTLY twist to secure.  Works just fine.  I am only using one lens, a polarizer, so I do not remove the lens.  I THINK if I would use differnt lens, I would purchase additional adapters, and just keep the lens screwed in to adapter.  Have fun! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Original Canon item - Useful with Canon PowerShot SX 30IS and SX 40HS </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-31-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you're the lucky owner of either a Canon PowerShot SX 30IS or SX 40HS, this Canon FA-DC67A original filter adapter will be quite useful for your need. This ring is required as an adapter for a 67 mm. Lens filter.The lens filter will help you to protect your very valuable Canon camera lens from dirt and scratches.Just be sure to get a high quality lens filter. Don't worry, after 300-400 shots later I've found the filter won't produce any noise, color &/or image distortion on your shots.If for any reason you decide not to use the filter, it's easy to unscrew it from your camera lens.Also, please remember not to screw the lens filter to this adapter tightly. Otherwise it will be impossible to unscrew it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Adapter ring STUCK Problem </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-07-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Adapter ring is original Canon product and fits right. Does the job. Adapter ring mounts quickly. Although more expensive than other brands I didnt want to skimp on my camera accessories. I bought extra rings because I read that the filters sometimes get stuck on adapter ring and are hard to remove. So I have an adapter ring for the two filters I use most and the filters can be installed easily in the field.Update...  Concerning the adapter ring and filters getting stuck together.The problem is that when you grip the ring and filter and squeeze and turn trying to seperate them, the weaker plastic adapter ring distorts making it impossible to turn.  The solution is to place the two in the palms of both hands flat like your making a hamburger and twist both hands in opposite directions. It is amazing how easily they turn and come apart. It was driving me crazy and I experimented several times re attaching them and doing so very easily but they still stick together. The method described above worked every time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Adapter </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-25-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This works like it's supposed to.Like a few others said, it doesn't attach real easy.Some reviewers said at first they didn't think it was going to go on right.Well they were right. It's sort of a bayonet mount.But I kept trying, and finally I gently snapped it on, by giving it a firm, even push with a slightly cupped palm of my hand.You need to line up the bayonet mounts (splines) on the OUTSIDE of the camera lens, with the grooves on the inside of the adapter ring!Then I gave it the quarter turn to lock it down. Yes, it mounts to the outside edge of the Canon lens.Your filters then screw on the inside of the adapter, just like an ol' 35mm slr lens.Warning, down't over tighten the filter to this adapter. Just barely snug. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Might prevent lens from closing </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-15-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have this same adapter on my sx20is...Read in a magazine that it may prevent lens from retracting 100%....This may not be good for camera motor....Please check out... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The ONLY adapter that works correctly for SX30is! </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-25-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This adapter fits and works perfectly... Because it was made by Canon for the SX30is camera. It snapped right into place, and the 67mm UV protector filter I bought screwed right on. No problem at all... DONE!Don' be fooled into getting one of the knock-offs! I have heard that if you try the 58mm adapter (made by a third party), that it produces vignetting because it's too small for this wide angle zoom lens. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ring adapter </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased a lens and filter kit for my Canon SX30 IS camera, and needed a ring adapter to attach these items to my camera.  The ring attaches to the front of the camera lens, and this ring allows the other filters and the wide angle lens to be attached to the camera.  It easily attaches to the camera, and the other attachments easily attach to it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's PLASTIC! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> For $25 I didn't expect a plastic ring.  I looked carefully at the description both on the Canon website and on Amazon and never found anything about the material used to make it.  After all, if I wanted a plastic one, I would have ordered the much lower cost version.  It does go on correctly and holds 67mm filters just as it should.  BUT $25 for a plastic ring!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Simple </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-04-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very easy to install on our SX30IS. Was perfect for adding a UV filter to protect the long super zoom lens. One drawback is the shadow cast on flash photos. Won't notice it when using for field flash during daylight, but is very noticeable in low-lit conditions. As a DSLR owner and Speedlite flash owner, I find pop-up camera flashes to be woefully inadequate in nearly all lighting conditions. Purchasing Canon's mini Speedlite 270EX would be a good workaround. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fine inexpensive filter </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-10-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Good price.  I use mainly to protect the camera lense.  If it does as advertised and is inexpensive as it was - then it rates the 5 stars in my book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Package deal </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-26-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Needed this adapter ring to utilize the 67mm Hoya UV filter on my Canon Power Shot camera.Very easy to screw onto the lens, and I'm very pleased with the entire package. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Great Product </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-25-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> The adapter works very well with several of my filters.  It holds the filters firmly in place and twists off easily by hand. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Essential for PowerShot SX40, etc. </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> These plastic gadgets are arguably overpriced (not Amazon's fault) but they are essential for attaching filters to many Canon camera, which use a bayonet-type mount rather than a screw mount. They're difficult to remove from the filter, so I have one for each filter I use to facilitate switching between filters. Lensmate makes a similar adapter for about the same price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fits the SX50 </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-08-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This adapter fits the Canon PowerShot SX50 HS. My Hoya 67mm UV filter screws on and fits well on it. The thing I don't like is that it doesn't screw on securely and can easily be pulled off. I would recommend going with this adapter instead of the one made by Bower, because even though I had a bit of trouble getting this one to fit properly, I couldn't get the Bower to fit at all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exactly what I needed! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Fit just right with my camera and the filter I purchased to use with it!  Quick shipping.  Make sure to get a larger lens cap if you get this adapter and filter. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

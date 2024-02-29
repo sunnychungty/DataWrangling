@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1565124472 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> New Orleans </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-12-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> I bought this book for my husband who used to live there.  He really likes it.  He is a former lucky dog vendor so it was nice to see that they had been adressed in the book as well as other areas that he is familiar with.  I would definately recommend this book to people who are familiar with N.O. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Flimsy tourist nonsense </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you just want a caricature, go to Jackson Square and buy one. At least it will support a local artist and not this charlatan author.New Orleans is not "Cajun country." For the superficial information that's in this book you can easily browse the internet.If you want something more substantive than what you can get on a website, try Beautiful Crescent, which is also available on Kindle. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's Still the " Big Easy" </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-16-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a great book for the seasoned visitor or someone going for the first time. The info was right on and the artwork thruout the book was beautiful. BUY THIS as some of the proceeds go to Katrina relief. A lovely tribute to one of the greatest cities in the world. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> New Orleans </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Very New Orleans:A Celebration of History, Culture, and Cajun Country is a must for all who love New Orleans. Love this book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> nice little intro to NOLA </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-19-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Diana Hollingsworth Gessler doesn't live in New Orleans and it shows a little.  She has also written a Very Charleston and a Very California.Yet this is a nicely illustrated, well-packaged, interesting collection of factoids.  Filled with trivia, history, idea starters, and more, it makes a nice read and a good gift.Did you know that John J. Audubon perfected his signature style in NOLA?  That the St Charles Streetcar Line is the oldest in the world?  That the giant, ancient live oaks grow about 1.5 inches in girth per year?  Hundreds of those....I could quibble with some of it, but these are minor points: Uptown was not settled in teh early 1900s, but 20 years earlier; the Faubourgs were indeed ORIGINALLY 'suburbs' but they are within the city limits and today are just as 'urban' as the areas closer to the river, NOLA is more "Creole" than "Cajun" (there's a difference), etc.  And there are plenty of very obvious omissions.But overall, this is a great little book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> New Orleans </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I already read the book that I borrowed from library in my hometown few years ago so I decided to buy it online because I love the art pictures in it and someday I will take that book to New Orleans on my vacation. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> New Orleans </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Discovered this author/artist through an online art blog. New Orleans is one of my very favorite places to visit and this charming book added a lot to my knowledge of that city. Intend to order more of her books. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Loved it so much I had to buy it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-03-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> I first saw this book in the library, but once I checked it out, brought it home, and got a good look at it, I knew I had to buy it for myself.  The artwork makes it look like a "lightweight", but don't be decieved!  Among the cute drawings and clever musings is some good, hard info about New Orleans and the surrounding area. I have already bought a second one as a gift, and I recommend it highly. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> unique and pleasant souvenir </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased this book while visiting NOLA last year. It is such a different approach to a tourist/memory/information book. I love the author's artwork, and her tidbits of info about the city (and its' people, food, neighborhoods etc.) are presented in a lighthearted and creative manner. The contents are enough for a visitor to remember the city without being bogged down with TMI. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Best times remembered </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-30-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a lovely, charmingly illustrated tour guide.  Plan your trip to New Orleans with this and you will see the best.  History and highlights, plus the low down on voodoo, local characters, et al.  I enjoy each of her books and they make great gifts. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Delightful, Artsy Little Book </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I ordererd this book wanting to know more about New Orleans foundation and culture, and does this deliver. It is written and illustrated from soup to nuts as they say, covering everything from the formation of the state of Louisana up to the latest in street culture and local food and drink recipes. A delight! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

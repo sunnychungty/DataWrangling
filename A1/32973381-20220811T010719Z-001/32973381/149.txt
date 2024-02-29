@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00HG10XHQ <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-24-2014  
+<h2> review.text </h2>
+
+ <p> What can I say, I purchased 4 of these and 10 of grandstream 3611 almost a year ago. The price difference of $50 made me go with grandstreams for indoors. and I got these for outdoors. These have amazing picture quality during day time and very respectable picture with ambient street light. Grandstream on the other hand just doesnt cut it. Also I have had 4 of the grandstream's go bad on me in less than 8 months. Dahua all the way baby. You can see my grandstream review as well. Wish I had spent the extra $500. I have paid that much in aggravation. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absolutely amazing camera. No night vision. </p>
+
+
+<h2> review.date </h2>
+  07-25-2012  
+<h2> review.text </h2>
+
+ <p> These cameras are just amazing.  Extremely small and easy to mount, simple hook-up with a single RJ45 cable with power supplied by POE.  I've used them with BlueIris ($50) along with a number of other NVR applications (they are ONVIF compatible) but currently I run them with Digifort running on VMware.  I think what amazes me the most is the clarity - it's nearly as good as just what you'd see yourself.The web interface is very good without too many chinese "english" translations.  You can also view the cameras directly from the browser if you want or use other apps like media player or VLC.That said, the only down fall is that if you have a completely dark area without street lights or other lighting, the video will be less than perfect.  On a friends house we installed a few 13w CFL's and that was more than enough to even keep them in color mode (as opposed to B/W).Here is a video showing the unboxing of the camera (sorry amazon, it was too big for hosting on your site):[...] </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing performance for the price </p>
+
+
+<h2> review.date </h2>
+  12-20-2013  
+<h2> review.text </h2>
+
+ <p> Let me preface this review with the fact that I am a seasoned network/systems administrator.  I read reviews here prior and after receiving the unit and running it for a few days I have to conclude that most of the poor reviews are from absolute beginners to this type of technology who really have no business installing devices like these where traffic over a LAN can overwhelm their switches/routers without proper considerations in designing a network/LAN and understanding of this technology.  Everyone wants iClone installations for equipment that is designed to provide flexibility with a variety of equipment/software.  GET REAL.  If you want iSimpleton capability, go to your apple store and stop wasting everyone's time reviewing this equipment.  1080p even compressed will use plenty of bandwidth.  One negative I can see from this camera is the shipped firmware does have built-in accounts to the embedded web interface which you cannot remove.  These are likely used to push updated firmware to the units using the windows tools provided in an included CD.  This is still a backdoor if you open the camera up through your router to a WAN which is a key feature unless you are using something like Blue IRIS to control web access.  I have not sniffed the unit to see if it tries to broadcast its presence on a WANThe unit does ship with a static IP so you will need to understand basic networking to get a computer to talk to it so that you can change the IP.  I see one reviewer compared this unit to another brand with PTZ, Poor IR, and 480p resolution.  The unit was also $30 more.  I don't understand the logic in comparing a unit with reported poor additional features by reviewers with inferior resolution on top of it to this unit.  I'm seriously baffled at some folks logic or lack thereof.  This unit as advertised to be exactly what it is and you are paying for a higher quality lens/camera without the other accessories.  It's a semi-adjustable fixed dome.  This unit was also easy to tape the dome and spray paint the housing to match my home's siding. The backdoor is the only reason it didn't get 5 stars, that needs to be addressed, I don't need Dahua selling access to cameras sold abroad from China.  Fix that and you can have 5 stars.  Btw HD Security Store shipped it very promptly, so Kudos to them and I am trying another Dahua bullet with IR tomorrow.I believe it fulfills everything it was advertised to do.  The housing's construction materials are of good quality, the daylight image quality is superb for this price range, the lowlight is acceptable and as advertised.  These would make great cameras for indoor hallways in corners as well.  If you have another unit with all equal or better features for a better price I would love to see your comments with the make/model in all honesty and I would give it a try. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Camera and Features for the Price </p>
+
+
+<h2> review.date </h2>
+  03-31-2014  
+<h2> review.text </h2>
+
+ <p> I bought one of these to upgrade my 640x480 old cameras. I am very pleased with the daytime picture. I am satisfied with the nighttime picture. It is better than that of my old cameras. I did have to upgrade my computer to handle the video stream increase. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent daytime picture </p>
+
+
+<h2> review.date </h2>
+  08-15-2012  
+<h2> review.text </h2>
+
+ <p> I simply do not understand how or why this IP66 / 67, Vandal Proof, 2MP (1080 x 1920), POE, IP camera is costing so much less than even the most mainstream brands such as Axis.I purchased and installed 10 of these at my home - all POE.  I love the simple connectivity.The picture quality is astounding.  Moving from an analog D1 system to 2MP is jaw dropping.  That would be the case even with a lesser performing camera.  However, these cameras are simply beautiful.  They're clearer, faster, and more configurable than several other low cost IP cameras tested.With no IR, you will need some light for night.  But that is not to say these cameras have a great configuration set for low lighting situations (making it very effective at night).I am very pleased and saved TONS of money on my home system choosing these Dahua Domes.  The seller (HolidayCoro) was a snap to work with.  I would highly recommend!Oh, one more thing - these have a standard m12 lens mount and you can buy various focal lengths to accommodate your needs.  I have run the standard lens, 6, and 9mm lenses. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Extremely Impressed.  Exceeded My Expectations. </p>
+
+
+<h2> review.date </h2>
+  03-09-2014  
+<h2> review.text </h2>
+
+ <p> FYI, though advertised as a 3 mp camera, this is the model 3200 and 2mp. Now as a 2mp camera it is great, but the title is misleading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not 3mp </p>
+
+
+<h2> review.date </h2>
+  12-09-2013  
+<h2> review.text </h2>
+
+ <p> Quality of the images met my expectation for a 2 MP camera.  Good low-light performance, but not IR sensitive, contrary to what a few people have said.  Moderate barrel distortion from the wide-angle lens, not an issue in my application.My main complaint is the awful motion-detect capability built in.  Email notifications with pictures have a time on the mail that is consistently 15 hours behind actual time, even though timestamp on the pic, and time inside the email are correct (I'm GMT -7).Many notifications arrive with no attachment, and I get lots of "Motion DetectStop" emails, which aren't interesting.  Motion detect built in the $70 super low-end cameras isn't great, but it beats what this thing's got.  I'll be switching to Blue Iris or something similar, but sometimes you just want the camera to handle this. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sharp imagery, firmware stinks </p>
+
+
+<h2> review.date </h2>
+  07-15-2014  
+<h2> review.text </h2>
+
+ <p> Picture quality is excellent. However there is no audio with this model and it has no IR illuminators and it will not work with an external IR illuminator. So this is strictly a daytime camera or you have to have some other visible light source. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> PQ excellent, but no IR illuminators and no audio. </p>
+
+
+<h2> review.date </h2>
+  04-27-2014  
+<h2> review.text </h2>
+
+ <p> I simply LOVE this camera.  I have several outside and they work flawlessly. I use them with BlueIris to record video and send alerts and I also use a 32 GB Class 4 Micro SDHC card for internal recording (backup) as well. One of the features that I really love is that the cameras have 2 streams. This allows me to record a lower quality stream using a lower end machine until I get an alert, then switch to the high def stream.The only thing that could be improved are the 2, non-removable accounts on the camera.  For security reasons, my cameras never touch the internet and stay local but if you plan to connect directly to these from outside your network, not using a middle-man software like BlueIris, then just be aware of those accounts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I could not be happier </p>
+
+
+<h2> review.date </h2>
+  08-22-2013  
+<h2> review.text </h2>
+
+ <p> * * ABOUT THE CAMERAS * *Biggest PLUSes for me are:** Low profile** Small size** very, very discreteCan hardly tell what it is from the end of the driveway (30 ft). And you don't notice them unless you're looking for them. I hang mine from the eaves that are about 7 feet up.At default settings, picture clarity and quality are excellent. Connected via CAT5, PoE resulting in strong signals--video frame rates is consistently near 30 frames per second. Easy to install. A snap to configure once you have the ActiveX Controls correctly installed. (More about this later.) Camera switches from day mode (color) to night mode (BW) without issue. Day mode has excellent color: brilliant color capture, detailed, accurate. Night mode captures details as far is the light source will reach which is about 15-20 ft. Beyond that it's hard to distinguish features.The lens on these cams can only be tilted up or down and can be slightly angled to either side.Field of view. In practical terms, near the camera (about 4 ft away) I can see nearly the full width of my driveway (3-car garage). At the end of the driveway (30ft), I can see about 100 ft of my 150 ft front yard.These units replaced a Logitech Alert 750e (NIGHT AND DAY DIFFERENCE in picture quality and now get full 30fps video). Used on Blue Iris system.* * ABOUT THEIR IMPLEMENTATION IN MY ENVIRONMENT * *I finally set mine up on a subnet after complaints from the rest of the family about bad internet connections and poor movie streaming. On occasion we had 6 streams of HD video hitting a 3 year old router: 3 from other internet connected devices and the 3 IP Cams.Bought 4 from 2 separate sellers. Manufacture dates 2013-05 (1X from CCTV-ONE), 2013-06 (3X from HD_Video_Depot). The side of the lens on the CCTV-ONE  unit clearly indicated that it was a 3.6mm lens (Model IP-DO3200C-3.6MM). Web server came set to English. Great resolution and performance from the get-go. The HD_Video_Depot units(Model IPC-HDB3200CN-0280B) had no lettering on the lens shell. The web server on these came set to Spanish. Out of these 3 units, 2 were defective--1 had slightly blurred pictures the other would randomly be show feed in hot pink or go unresponsive. From the router I can see that it's connected (IP address) but neither Blue Iris nor the IP Cam Config application can see it. The 3rd unit from HD_Video_Depot worked perfectly from the start. HD_Video_Depot had no issues with return of the defective units. Ordering a 5th one from CCTV-ONE.I'm not worried about lack of IR capability. Three 13 watt CFL lights each side of my 3-car garage clearly lit the driveway. (At last, finally found out who our newspaper delivery person is and what time the paper is delivered...he's getting a nice tip.) Two 13 watt bulbs on either side of front door clearly lit the entire porch. Also, I had already installed motion-activated flood lights prior to getting these cams.* * ABOUT SETTING UP THE CAMERAS * *These cameras come with DCHP enabled.ACTIVEX ISSUE and SOLUTIONOn 64-bit Windows you will need to MANUALLY REGISTER the ActiveX Controls in Windows registry. (I suspect that this may work, too, if you're encountering installation problems on 32-bit Windows.)The ActiveX Controls for the web interface will only work with 32-bit IE. (Tested on IE9 and IE10.) Not a problem if you're running 32-bit Windows. Problematic for 64-bit Windows.(1) On 64-bit Windows, the controls are placed in C:\Program Files\webrec\Torch. Copy the entire folder contents to C:\Program Files (x86)\webrec\Torch.(2) Manually unregister the components that were installed from C:\Program Files\webrec\Torch.Start > Search > cmd.exe (Run as administrator) > "cd" to the directory above then enter the command "regsvr32 /u filename.ocx" for each.(3) Register the components that were copied to C:\Program Files (x86)\webrec\Torch."cd" to the directory above. Enter the command "regsvr32 filename.ocx" for each in that folder.I got all of the ActiveX components (video features) to work by doing Step 3 twice. I suspect the registration order/sequence was significant for at least two components. Live video would not work in Overlay config feature until I did Step 3 once more. I didn't bother "getting to the bottom" of this since things are working fine now.MICRO SD MEMORY ISSUENone of the 3 units I have would recognize the Class 10 16GB SanDisk Ultra Micro SDHC card. Didn't matter if in NTFS or FAT32 format. This card worked fine on my PC. No problems from my Hero2 and other cameras.Had no problem with a Class 4, 2 GB Kingston Micro SDHC card (Not sure if FAT32 or NTFS). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great little Cam </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> I have noticed some internal reflections caused by the dome and a less sharp image with the dome on vs. off, all in all not a bad camera for the price. I had one stop working after a couple weeks use and found the problem was a bent pin in the ethernet jack, I was unable to fix the bent pin so I put a new jack on the cable and the camera works fine now, luckily for me I already had a multi-meter a punch down tool, and a box of cat5e jacks so it was an easy fix. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good price for what you get. </p>
+
+
+<h2> review.date </h2>
+  10-16-2013  
+<h2> review.text </h2>
+
+ <p> This dome camera has Sony Exmor lens 2MP, high resolution and good color rendition.  However, this camera has limited pan and tilt movement,  Up down adjustment is limited with down about 70 degrees and pan limited to 15 degrees in either direction.  So not suitable for many wall locations.  Better suited for ceiling mounting.  Wish Amazon also stocked the 6mm lens. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Sharp with good color but </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

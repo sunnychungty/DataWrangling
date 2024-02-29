@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00FZBHAKM <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> What a collection of garbage!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-02-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Guys,This book is a waste of paper and money! All this genius did was google all free classified sites and paste them together with some filler BS! Please do not waste your money on this. he will not give you anything you don't already know. the whole premise of the book is look for stuff to sell online, instead of going around to stores. That's it. Done. Period.  and he charged $10 for this brilliant info!!! What a thief prick!. PLEASE PLEASE do not waste your money on this crap!!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A must read for new and seasoned sellers </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book is a  resource for anyone interested in buying and selling online. Frank does a great job on identifying sources that I bet even a few of the seasoned pros don't know about.If you are looking for creative ways to purchase inventory and outsourcing tasks, look no further. Easy to read and implement the ideas given, you will be bringing in profits in no time! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Amazon selling and how to source </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is the most comprehensive guide to both online sourcing and outsourcing that I have found. It contains all facts and no hype. Frank is a straight shooter with this information. I really liked the pros and cons he uses. I would highly recommend this to anyone looking to source their inventory online. The outsourcing tips really opened my eyes to what is available. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Online Sourcing At Its Best </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Selling on Amazon or eBay is a great opportunity for those of us that need that extra income, but if your like me sourcing products to sell online is somewhat overwhelming. I remember the first time I walked into a store to source items - I didn't know where to begin. I've sourced a small amount of items online but I have never been able to get a system down that would consistently find products for me to sell. After reading, Online Sourcing and Outsourcing for Amazon and eBay sellers, I now feel equipped to source products online with ease.Nor did I understand how to find those hidden bargains online - now I do. If your serious about selling and sourcing online you will be pleased with the information in this book. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A no brainer investment for any online seller.... </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-26-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Small book and at points a little light on info but VERY informative and packed with lots of useful websites and resources. Two of which are author's own extremely useful software to find sales and to find deals.A no brainer investment for any online seller.I have my copy highlighted and posted right next to my desk! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> If you source you better read this one!!!!!!!!!!!!!!!!!!!!!!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I read this book in one sitting which is unusual.  It is filled with different ideas that really make you think about other ways of sourcing that have not been discussed in other books I have read.  Thanks for such a great resource for this profession!!!!!!!!!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A Real Professional Resource ! </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I got this book today and read it in one sitting. It is short to to the point, No fluff,. And I appreciate that. It provides Excellent information on the subject, in fact the best I have seen. And I have read many similar books covering the same subject. I intend to keep this as a reference material.  If you are serious about successful online commerce, this is the book for you!I intend to use some of the ideas and resources Frank provides.  This Book is worth it's price. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Information. </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> As mentioned by other reviewers, I very much like how Frank is direct and to the point. Unlike so many others, he doesn't say the same thing over and over just to have a higher page count. So don't let the low number of pages or the very reasonable price keep you away. While I don't plan to use any of the ideas around classified ads, that doesn't mean I won't use (or already haven't) many of the other ways to source inventory. The bottom line is that he gives you multiple options, and it is up to you to decide which of them you will try out. I'm not going to give away my secrets, but I will tell you that I have made decent profits using a few of the methods described in the book.The key is to try one or more methods, and don't be too hard on yourself when you make a mistake and lose money on a transaction - I promise you - you will! So if you need direction on ideas on how to source inventory, this is a good book for you to add to your library. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Both seasoned sellers and novices alike are able to find new ways to locate inventory to sell on Ebay and Amazon. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> AS a seasoned seller on both Amazon and Ebay I was still surprised at the pearls of wisdom he shares openly in this selection. I thought there was alot of information that was good for both beginners and pros. I have been selling media products since 2008. It had alot of new sources that I hadn't even considered or didn't know about. I have read other articles by the author and he doesn't  hold back in revealing his experiences and shares his years of secret sourcing with us. I liked that it addressed both Ebay and Amazon. Very few resources I have read cover both. It was written in easy to understand language and I highly recommend it! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Takes you beyond the Basiscs </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> As a seller on Amazon and Ebay, I am always looking for ways to get more inventory to sell.  This book quickly got to the heart of the manner and gave me some real methods to get inventory other than the traditional yard sales and thrift stores.  This is a good read for anyone who wants to go beyond the basics. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> good start </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This e-book on online sourcing. Showed me several different ways and websites of online sourcing that I had not been aware of. It was good but had a couple of flaws that I would not endorse myself. I have used drop shipping as source that I would not recommend nor would I buy lists of wholesaler's but that my opinion based on personal experience. Would have pointed the reader towards more profitable ways of sourcing.other then that it was a fine e-book </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I just Like the way Frank Writes Stuff- Easy for Me to Understand & Implement </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have Frank's other book &#34;Amazing Amazon FBA-Work from Home the Easy Way&#34; and now this one-&#34;Online Sourcing & Outsourcing&#34; and I like the way he writes. He explains things so I can understand them without all the crap. I use nearly all the sites he suggests and that is what I look for in a book. Plain, simple, easy to understand. For this book I rate it a 5 star- my highest recommendation! ~BobD  (grayelephantclub) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Surprised it's this easy </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have been looking for a way to make some extra money. Everything has gone up but my income that last 8-10 years and getting older at he same time does not sit well. I thought this may be a lot like other books I have bought but no, this one was different. Firstly, the small amount and in a lot of cases, free way to get started surprised me. This book taught me that there are more ways to get into a small profitable business, maybe even a full-time situation, with little to no investment and that no matter how old you are, it can easily be achieved.There are so many different ways in this book to make money, it may be the last book I buy to be honest, and I liked the fact that all of those ways are actually easy and I think will be fun to do. I am happy to see that in today's world anyone can get started with basically pocket money, not going in debt, and all of the ways listed and all of the thorough details in this book is almost like someone taking you by the hand. I don't even have to leave my house to get stuff to resell or ship it back out, what else could I ask for, that's the way I see it. Great book, easy to read and comprehend and to follow.Finally something this baby boomer can do and get some of my pride back. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A good resource for online sellers </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This was a nice easy read and I did find some links and sites that I had not previously known about before. This would also make a great resource for someone just starting out. I think you can put to use the knowledge here, on selling both on Ebay and Amazon. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

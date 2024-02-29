@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00BU91JD2 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-12-2014  
+<h2> review.text </h2>
+
+ <p> I give it a 5*, its cheap, it works... Although it catches on some sections, I might put some Slick Honey grease on it and see if it helps... but other than that...  I like it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It works! FTW! </p>
+
+
+<h2> review.date </h2>
+  04-15-2014  
+<h2> review.text </h2>
+
+ <p> Smooth and the fit and finish are wonderful, especially for the price.  Mounts just about any way you could dream of. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Well done! </p>
+
+
+<h2> review.date </h2>
+  03-10-2014  
+<h2> review.text </h2>
+
+ <p> Having gone through other camera sliders by other manufacturers over the past couple years, I pleased to finally get to use an all-metal camera slider. And this Fancierstudio JS32 did not disappoint. Solid metal construction throughout. Excellent slider mechanism - ultra smooth motion. Great mounting options. And the thing looks looks great, especially with the legs attached. I cannot find one single thing wrong with this product. Money well spent! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wow! </p>
+
+
+<h2> review.date </h2>
+  02-21-2014  
+<h2> review.text </h2>
+
+ <p> I have a list of things i would improve but overall this thing is great and it works + the price is good </p>
+
+
+<h2> review.summary </h2>
+
+ <p> not the best but it works </p>
+
+
+<h2> review.date </h2>
+  08-30-2013  
+<h2> review.text </h2>
+
+ <p> At a fraction of the price. I've looked at footage of what I can get from it and footagefrom the Konova and they appear identical. Both will have some shake until you getgood at using it, it's a matter of putting a small amount of up or down pressure to steadyit. With a lightweight ball head (I bought the Vanguard PH-30) you can get the shot youwant. Sadly, I don't see this for sale much. The longer ones are on Amazon, but not thisone (32&#34;). If you can find it, you really should buy it (unless money is no object). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This appears to be the equal of the Konova 2 </p>
+
+
+<h2> review.date </h2>
+  04-20-2014  
+<h2> review.text </h2>
+
+ <p> I made a homemade slider dolly out of wood and skateboard wheels that was smoother than this. HOWEVER, this thing looks professional, unlike my DIY slider, it's easily portable and works pretty decent. It is a little noisy, so factor that in if you're using on board audio. It's solid and very well built. The main gripe is that it can get grabby while tracking. But, for $100, I would say it's worth it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not the best, not the worst. </p>
+
+
+<h2> review.date </h2>
+  11-12-2013  
+<h2> review.text </h2>
+
+ <p> The design is nice but it has issues.  First, there are no instructions, you get nothing.  The slider mechanism was too tight so it slightly jumped down the rail, making a stuttering effect.  Since there are no instructions on changing the bearings you don't know what to do.  I attempted to loosen the bearings by guessing what to do.  There are 2 round discs that appear to turn but there is no tool to turn them.  One of the screws was cross threaded as well.  I gave up and returned it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice idea, but has issues... </p>
+
+
+<h2> review.date </h2>
+  08-08-2013  
+<h2> review.text </h2>
+
+ <p> I was incredibly pleased when I took it out of the box because of the construction of the slider and the awesome carrying case it came in.My only complaint is that the end was BENT so the leg on the right side doesn't fit in like it's suppose to.I think someone dropped it at the factory. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Wonderful Slider </p>
+
+
+<h2> review.date </h2>
+  05-02-2014  
+<h2> review.text </h2>
+
+ <p> I am new to video, and wanted a cheap way to get more out of my videos.  I have researched sliders for months and decided to buy this one.  So far it works great.  It is smooth, but not as smooth as it should be.  If you are using a prime lens with no stabilization, then you will notice at times a small amount of jiggle from the unit. ( can be fixed in post).  If you use a decent lens or camcorder with stabilization, you can get some really smooth slider shots.If you are like me and new to this, you will not be disappointed considering the price.  This thing seems to be very wall built, and is pretty heavy.  You can use it with a tripod, or you can use the legs that comes with it,  But again it is heavy and the cheap tripod I have will not hold it steady.You can also mount it vertical for up and down shots.  Overall it is a great buy and I would recommend this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good slider for beginner </p>
+
+
+<h2> review.date </h2>
+  03-17-2014  
+<h2> review.text </h2>
+
+ <p> I bought this one to give me something better than my DIY solution.THE NEGATIVE:It is okay. The bag fell apart almost as soon as I took it out of the bag. Since I was going to use this for mobile set ups that was a big let down right away.When you slide the camera you pick up all of the noise from the bearings on the camera.It does have center threads to mount on a tripod but you'll need a really sturdy tripod to avoid the slider tilting when you get to the edges of the slide.THE POSITIVE:It is better than what I made myself. I don't plan on returning it. I'll use it for now and eventually upgrade to something really good. For now at the level I shoot and frequency of use it is fine for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Okay but not great </p>
+
+
+<h2> review.date </h2>
+  05-04-2014  
+<h2> review.text </h2>
+
+ <p> Once I purchased a similar (exact same mechanism) slider form another manufacturer and I found out it had an issue: the cart had a little tremble/ vibration when sliding, making the camera to shake up-and-down. I thought I had gotten a defective one, so I just got rid of it and tried another brand. (Fancierstudio one). To my surprise, this slider had the same issue, even worse: the trembling happened more often, making it unusable for the purpose, because the video captured looks wobbling... I am sad to say that this design does not work fine, having the second item malfunctioning as the first one.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shaky/trembling rail system </p>
+
+
+<h2> review.date </h2>
+  11-28-2013  
+<h2> review.text </h2>
+
+ <p> I bought this at the last minute to fly tow FL for a set of interviews.  I was trying to avoid excess baggage charges and my Dan Dolly would have broken the bank in that regard.  For the $, it works great!  You have to let out the set screw all the way for it to really work smooth, but once you do that, it was great.  If you use only a single tripod, it bends and you lose level but with a more beefy head and set of legs it would probably be fine.  On a tabletop it was flawless.  I love it!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For the $, it works great! </p>
+
+
+<h2> review.date </h2>
+  04-26-2014  
+<h2> review.text </h2>
+
+ <p> I like this, i'm sure the $800 models are worth their weight, but on a budget, this has proven to be simply awesome.  It is solid, well made, does the job (use an elastic band to pull), and is reasonably long.I would highly recommend, 4 instead of 5 stars because its not perfect, and i suppose in many cases that is why you'd pay $800 for one.  but, it works and works well.POLO </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I like this and it is a mush have item... </p>
+
+
+<h2> review.date </h2>
+  12-27-2013  
+<h2> review.text </h2>
+
+ <p> This track slider uses bearings instead of silicon pads like some of the other sliders on the market.  ive used the silicon padded sliders, and they suck.  i had to grease them up so much just to get the slider to be smooth.  Since these are using bearings, they are glide really smooth.my only complaints are:the bearings are a bit loud.  my gopro can pick up the sliding noise, probably because its attached directly to the mount, but ill probably grease it up a bit to see if it helps.head mount screw is a bit off.  when i mount my gopro tripod attachment, it doesnt sit straight, its off to a 45 degree angle, (not sure if this is intentional)  but i have to either slide it loose, or mess with the attachment to preset it at a 45 degree angle before i screw it on.  i havent tested this with a normal camera, so im not sure if its just my mount, but it does that to 2 of the mounts i own. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great value, but not perfect </p>
+
+
+<h2> review.date </h2>
+  03-09-2014  
+<h2> review.text </h2>
+
+ <p> I've from time to time checked out the latest and greatest video sliders, and pretty much arrived at the same roadblocks:  either they were out of my financial league, or they used plastic sleeves to facilitate the smooth sliding action.  This one is built with roller bearings.  Absolutely slick and silent movement.  For the price, I didn't think this kind of movement was possible.  It comes with feet attachments, but mine is mounted on a fairly solid tripod and fluid head.  Because of it's very manageable length, there is need for only one support (mounting holes are dead center, and at each end for other mounting arrangements).  Have recommended it to others, and would not hesitate to buy another if I find a need. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Didn't anticipate just how well this works </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

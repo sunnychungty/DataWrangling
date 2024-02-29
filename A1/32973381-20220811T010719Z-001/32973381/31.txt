@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000V1O1JE <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cables work, ends are cheap </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-31-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The cables seem to work without any issues, however the cabled as become separated from the end leaving the bare wires exposed. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Long, working, helpful! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-29-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It is a wonderful product that came fast and was easy to set up. I dragged it from the router across the house to my computer, it fit with length to spare and didn't loose power or weaken signal on the way! I have gone through many bad or damaged cables but this durable and strong cable is going to last me a long time.  Would recommend! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cat6 Works Fine for Cat5E (or Cat5) Situations </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-03-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This wire appears to have no flaws - using it in a 100Mhz Home Network. CAT 5 would have worked fine, but bought the CAT 6 for future system. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-01-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Works great, no problems, could have used a 50 ft, but 75 was cheeper dont know why.  I do not know why anyone would pay more in a store for the same thing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not gigibit </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> As others have posted this cable is of poor construction and quality. I am unable to get gigabit connections. The shielding has split at one end and I haven't even touched it after install.Very disappointing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> cat6 </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-07-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> It is a good cable and at a good price. I've been using it for a long while now and it's working great. I do notice that it is a little faster than the cat5 cable I used to use. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great, costs little </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-18-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This product works exactly as advertised. It is sold for a fraction of the price of cables you see in your local electronics or office supply stores. I am using this to connect the router in my office to an 8 port switch in the living room. Connected to that 8 port switch is my TV, DirecTV DVR, and Blu-ray player. The two most intensive application I use are when streaming movies from DirecTV or Netflix (via the Blu-ray player) and both work great. I have not had any problems. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> It's a cable and it works </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-01-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> A good cable and the quality seems like it will hold up over time.The price was right, fast shipping.I used it for my home theater setup and the TV, Bluray and HTPC stream everything good.The connectors have a protective cover over the release tab rather than a full boot.I personally like it since most of the time I leave the boot pulled back for easy removal.Only con is they didn't pull it through my drop ceiling for me. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Bad connection </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-30-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This cable is useless bacause the connectors on the both ends of this cable do not stay connected to my router, while all other cables I have work perfectly. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great deal on CAT6 cable </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-17-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Works great. Only problem I had was the cable kept twisting up and getting tangled. Had to keep unwinding it when running it through the ceiling. But as long as it works, that's all I care about. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Standard cat6 </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This came to me exactly as pictured. Seems to be good quality at a good price. The cable comes slightly stiff but they all do. It has worked great since I got it. No packet loss, no connection issues. Good buy! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nothing complicated with this product.  It's not the prettiest (clutter of blue cable), but it gets the job done.  If you want to reduce clutter, go with a router; however, this cable is simple to use. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great product and price! </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-15-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you need cable at a good price, then this is for you! I was extremely pleased with this purchase! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Exactly what we needed </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> We have an extremely long run from our computer to our modem, so this was perfect for our needs. And the price (about $8?) was amazing. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not getting Cat6 speeds! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-03-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Unfortunately, my purchase is outside the return window. I bought two of these cables to wire my house. Having tested them using a gigabit router and my laptop's gigabit ethernet port, I am getting 100mbps, not 1000bps (1.0gbps). I'm very disappointed. I tried a different brand Cat6 cable, and got 1000mbps. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not cat 6 speeds </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-22-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I purchased a Synology DS411+ and was using this "cat6" cable to connect to a DLink gigabit router.  I was getting terrible transfer speeds of 11mb/sec until I replaced it.  I made my own cat 5e cable, disconnected the purchased cable (real pain to disconnect from imac i7) and replace with my homemade version.  Immediately I got 75mb/sec transfer speeds.I couldn't believe it so I disconnected and tried this cable a second time and again transfer speeds  10mb/sec +/-.  I reconnected the hacked together cable and geot 75-85 mb/sec transfer speeds.  I'm going to try a different brand cat 6 cable and wasted my money on this...  Buyer beware </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Bought for friend </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Bought this for my friend, he hasn't had any complaints. He put a staple through it the 1st day he got it though. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works great! </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-11-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> We bought this cable to connect our DSL router to a secondary wireless router so that we could solve the problem of dead zones in our house.  The wire works like a charm and we were able to connect the original DSL wireless router from Verizon to an additional router and now have internet everywhere in our house.  Mission accomplished! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works Great </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-23-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Purchased this to run from my router to my Playstation 3, which is a different room. I subscribe to GVTC's 40 mb fiber to the home and consistently get 38+ mb download speeds when I run the internet connection test on the PS3. So it appears to be working as advertised! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> completly acceptable.  cheaper than most bulk cable </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> excellent value, inexpensive, good quality, no issues, ran it through my entire house, in up down and around.  bla bla bla bla </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not the best cable but it works </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-16-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> Yes.. all Cat6 cables are "the same". The quality of materials on this cable are "good enough" to meet cat6 standards. However the outer covering of the cable is kinda of mushy, gets discolored easily, not super durable. This is unlike cables from M0N0PR1C3 which a affordable and high quality. This cable gets two stars in quality of materials for a nice connector.It works... if you need a cheap cable fast and you have Prime. Get it, but it's not terribly nice to work with. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very fast cable </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-30-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Ran it from my modem downstairs to my Tivo and PS3 upstairs. I'm getting the full 20 MBPS that FIOS allows. Awesome cable. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Cable - Used for Streaming Movie - Blu-ray palyer to Router </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-28-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> This cable came in a great shape, same price as cat5This cable was the main connection between Samsung blu-ray player and my ATT router. I never had any issues with it. the cable had no twist or scratches.I did not notice a big different in performance, may be if my Vonage router was between them then performance will matter. but this cable did just fine.to notice the performance difference, you need to have all your devices wired with Cat6ExampleIF you, Vonage router, Desktop, XBOX360, Blu-ray player or wired TV, and the main internet provider.each one of these devices will take Cat6 cable connect them straight to the router. My att router has several ports that holds all of them, all of these devices are able to communicate with each other and share files/videos/photos. then that where you will notice a difference. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A real professional cable. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-08-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This cable was sent without fuss.  It is working fine.  Connected my firewall based home-router to my Raspberry Pie module to my Samsung TV and get to see youtube and PBS and other at very high resolution.  1280x1024 60fps.  The cable quality gives not problem at all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ethernet Cable </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Cheap for a long cable and it works great. Used it for a PC which is on a different floor than the router, cables are always more reliable than wireless. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great product </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-25-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I used this to run a cable to my living room HTPC setup.  Works great and the speeds seem just fine. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very cheap. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-12-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> This cable has the cheapest insulation wrap I have ever come across. Just the slightest bend and it will discolor and split. There is also very little flex or give without distorting the insulation which is important with a 75 foot cable. Very poorly made. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> super long, it works </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> super long, it works.  great to connect directly from the router to your PC across the living, upstairs, down a short hall into your room. haha </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

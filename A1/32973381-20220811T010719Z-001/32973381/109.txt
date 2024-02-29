@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B005B8M19O <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> The design and function of these caps make the perfect protection for my filters.  They keep the glass clean & scratch free.  Plus, they protect the threads.  I will be ordering a set for every filter size I get! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Best Option </p>
+
+
+<h2> review.date </h2>
+  08-18-2012  
+<h2> review.text </h2>
+
+ <p> These sturdy metal cap stack protectors seem to be machined well and I've yet to find any from the several I've purchased (67mm, 72mm, 77mm) that stick. Normally the shipping cost makes them less attractive, but Amazon's Prime helps reduce that problem depending on who it's ordered from. I recommend these for quality, reasonable pricing, prompt delivery, and optimal utilization of space in your kit--they're much better than the plastic clam-shell protective cases which tend to break easily and aren't very flexible when it comes to what size filter(s) they'll accommodate. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good metal threads </p>
+
+
+<h2> review.date </h2>
+  12-19-2012  
+<h2> review.text </h2>
+
+ <p> They almost got this right. I tried to clean the filter with some alcohol and my hands turned purple/black. Very bad quality finish. It also sounds like a rusty train when you try to screw it together. It looks good out of the box but feels like crap when you use it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Almost </p>
+
+
+<h2> review.date </h2>
+  08-17-2013  
+<h2> review.text </h2>
+
+ <p> When you have several filters, you better get this one, it will keep your filters ordered, handy and, overall, very well protected. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cool, very good accessory </p>
+
+
+<h2> review.date </h2>
+  07-28-2012  
+<h2> review.text </h2>
+
+ <p> I received this item in a tmely manner, I have simelar ones for bigger filters and could see that this one is thicker and it feels rougher. Not as well machined as my old ones, but the price is right. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a Litle roughly made </p>
+
+
+<h2> review.date </h2>
+  12-10-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this to be used as a 52mm lens cap (for a used lens I bought that came without a cap).  This cap screws in and out of the lens smoothly, and is sturdy.  I actually prefer it over the conventional lens caps.The only drawback with this is: when used as a lens cap - it will obviously take a few seconds to unscrew (maybe 3-4 seconds if you  are quick)- so if you need to take that quick shot, be prepared for that delay.Otherwise - a great product.  I will buy another one for my filters, because it will provide better protection than the traditional plastic materials. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great as a Lens Cap - Nice quality </p>
+
+
+<h2> review.date </h2>
+  02-11-2014  
+<h2> review.text </h2>
+
+ <p> This type is favored by me because they are lower cost than the brand name stack caps that have the bright ring, and these seem to me to be less prone to locking up, requiring a filter wrench. I think this type also tends to scar from scapes less, and are a little lighter weight as well. The knurled edges are larger gauge and easier on the fingers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> There aren't any better </p>
+
+
+<h2> review.date </h2>
+  11-04-2013  
+<h2> review.text </h2>
+
+ <p> Bought to easily carry and protect my lens filters. I found they tend to unscrew if carried in pants pocket. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Filter Protection. </p>
+
+
+<h2> review.date </h2>
+  11-05-2013  
+<h2> review.text </h2>
+
+ <p> These metal stacking filter holders are the best solution I have found for filter storage and transport.  They are the most durable, protective and space saving design I can imagine.Plus they are just cool looking.  Black aluminum... what's not to love?You can stack as many filters of the same size as you want, the only problem is you do have to find and unscrew the one you want to use, which can take an extra couple of seconds.  You also need a different Stack Cap set for each size filter.  I have three different sizes.It's up to you, the folder type of holder is universal, may be slightly faster in use but takes up more space and is not as protective or cool looking.The threads are a little coarse as delivered. You could lubricate them with a very small amount of petroleum jelly (Vaseline) but be careful not to put so much you have it getting on the filters or lens.  Instead I just screw and unscrew 20 or so times, pulling and pushing to smooth the threads, occasionally blowing out the tiny metal bits and dust I imagine is collecting, until they are smooth! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love these things! </p>
+
+
+<h2> review.date </h2>
+  12-11-2012  
+<h2> review.text </h2>
+
+ <p> If you take your filters with you in the field, then you need these all metal screw-in lens cap protectors.  Of course, that isn't what I use them for.  I keep my filters with me in my camera bag.  I don't like the carrying case they came with because it's too damn big.  So I attach them one on top of the other (pancake style.)  And on each end (that's right) I place one of the caps to protect the filters on the end of the stack. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> All metal toughness! </p>
+
+
+<h2> review.date </h2>
+  06-03-2012  
+<h2> review.text </h2>
+
+ <p> I used to carry all my filters in seperate cases. They took up a lot of room in my camera bags. By using the caps I reduced the room they took up a lot... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Space Reduction </p>
+
+
+<h2> review.date </h2>
+  11-27-2012  
+<h2> review.text </h2>
+
+ <p> I use these for filters, but also to keep my step-up and -down rings in order and it helps them to not get bent. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stack caps work </p>
+
+
+<h2> review.date </h2>
+  11-04-2013  
+<h2> review.text </h2>
+
+ <p> They hold my filters together without a problem, and cost next to nothing. Zero downside here, especially given the price. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does what it says it does </p>
+
+
+<h2> review.date </h2>
+  03-19-2014  
+<h2> review.text </h2>
+
+ <p> These do exactly what they're supposed to. My filters are protected, organized, and kept free of dust and dirt. Whoever thought of these, great job. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The best ideas are often very simple. </p>
+
+
+<h2> review.date </h2>
+  04-24-2014  
+<h2> review.text </h2>
+
+ <p> I use these as lens caps as much as I do stacking filters. Yes it does take a little longer to remove or replace the cap but I do not have to worry about losing the clip-on lens caps. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better Lens Cap </p>
+
+
+<h2> review.date </h2>
+  03-11-2013  
+<h2> review.text </h2>
+
+ <p> This little gadget, looking much like the other lens and filter accessories on Amazon, that are also made out of a black powder coated metal, was expected (by myself) to be of similar quality. Instead I got a thin, not very useful, metal puck, that feels as though it will either have the threading stripped, or the metal bent, with just the slightest twist. I considered returning it, but with postage and the time it would take to repackage and drop it off with UPS or USPS, it was just easier to toss it in the rubbish bin. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A bit of a let down. </p>
+
+
+<h2> review.date </h2>
+  02-01-2014  
+<h2> review.text </h2>
+
+ <p> These are top of the line filter caps, nicely machined, and will protect your filters when removed from the camera. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Top Of The Line </p>
+
+
+<h2> review.date </h2>
+  12-31-2012  
+<h2> review.text </h2>
+
+ <p> The RinbowImaging 58mm Metal Screw-in Lens Cap / 58MM Stack Cap Protect store Filter case is well made and works well.  However I don't like the concept of screwing all my filters together as much as I thought I would.  That's just a personal preference.  But it is handy if you need to take a few filters with you and keep them safe in your pocket. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does what it's supposed to do. </p>
+
+
+<h2> review.date </h2>
+  07-08-2012  
+<h2> review.text </h2>
+
+ <p> This is a great way to keep all your 52mm filters for in one, easily accessible place - stacked together. The screw threads work fine and, amazingly for the price, the case really is metal. I cannot see how anyone can go wrong with this item. I use it to replace the case that came with theOpteka 52mm High Definition Professional 5 Piece Filter Kit includes UV, CPL, FL, ND4 and 10x Macro Lensalthough it obviously will not fit the macro lens as the curvature of this lens makes it too thick. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice compact way of carrying unlimited filters </p>
+
+
+<h2> review.date </h2>
+  06-14-2013  
+<h2> review.text </h2>
+
+ <p> I've probably got 25 or 30 different RainbowImaging stack-and-caps.  They protect my filters;  they protect my step-up and step-down rings;  they serve as lens caps for a couple of older lenses that lack &#34;regular&#34; caps.  Whenever I order one of these I usually order 2 or 3 of them, because I know that I'll be using them eventually. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I use a lot of these. </p>
+
+
+<h2> review.date </h2>
+  07-09-2014  
+<h2> review.text </h2>
+
+ <p> They do not bind or stick. Easy on, easy off. Very convenient and all your filters are handy and quick to get to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy on, easy off </p>
+
+
+<h2> review.date </h2>
+  10-20-2013  
+<h2> review.text </h2>
+
+ <p> before starting to use those filter stacks i have used different products to organize filters but this is the best. i have them for 82mm, 77mm filters which i use most of the time. highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> useful </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

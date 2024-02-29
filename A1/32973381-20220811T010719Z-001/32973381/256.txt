@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000YDOOP0 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  08-29-2009  
+<h2> review.text </h2>
+
+ <p> Moving McAllister started off a little shakey, but eventually turned into a pretty solid comedy.It's not the kind of comedy that does anything different from most comedies these days, and honestly, there's no reason why it SHOULD be any different- it's just an innocent, funny comedy with a little bit of a romantic edge, but not enough kissing and mushy segments to turn away male viewers.I quickly realized who the woman playing the female character was- the young girl from the hit Fox sitcom That 70's Show.  She acts pretty much the same way in that show that she does here, except she's not going around thinking she's prettier than the other girls, haha.In fact, there's hardly any women in this movie at all- it's mainly one woman and two guys as the focal point, but the story is interesting because it's about an adventure across the United States all the way to California and meeting new people and discovering new (unexpected) adventures along the way, and how the relationship between the girl from That 70's Show and the young guy driving her across America develops.Now, I always thought she was a VERY attractive woman while watching That 70's Show, and I still do, but I promise I'm not giving Moving McAllister 5 stars for that reason alone.  It's just a really pleasant movie.I recommend this film for anyone just looking for a laugh and watching how it's done the right way. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> highly enjoyable little comedy </p>
+
+
+<h2> review.date </h2>
+  10-27-2011  
+<h2> review.text </h2>
+
+ <p> Wow, there are parts of this movie where you feel like you have to be high in order to enjoy it or "get" it.  The majority of this movie is really cute.  I wouldn't say this is gut busting funny, but it still gets a laugh out of me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quite a trip </p>
+
+
+<h2> review.date </h2>
+  12-16-2008  
+<h2> review.text </h2>
+
+ <p> A lighthearted comedy about a young man with a laborious life who is given the 'simple' task of moving his big boss' niece. The move is anything but simple, and the things that may actually get shifted is Rick Robinson's attitude as to what is truly important in life.Chrissy K. McVayAuthor of 'Souls of the North Wind' </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good comedy. </p>
+
+
+<h2> review.date </h2>
+  07-14-2013  
+<h2> review.text </h2>
+
+ <p> Predictable and fairly enjoyable story.  Mila Kunis shines.  The characters are somewhat engaging at times, but they can't overcome an average script. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Predictable </p>
+
+
+<h2> review.date </h2>
+  03-24-2011  
+<h2> review.text </h2>
+
+ <p> I wanted to like Moving McAllister. I truly did.It looked like it would be a cute little road comedy, an odd independent film that I could recommend to friends. Plus, it had Billy Drago, who I find immensely entertaining.Trouble is, it's sooo stupid. It tries to be wacky, funny, and touching, and handles each in such an inept way, it tries ones' patience.Jon Heder is incredibly irritating, perhaps more so than in Napoleon Dynamite (isn't THAT saying something), and for an actor, Ben Gourley is a pretty good screenwriter. Seriously--if he'd stayed in the writer's chair and let someone else handle his role, it might have helped.I've grown to appreciate Mila Kunis the further away she moves from That 70s Show. She's good here (if her character is too quirky, for the sake of  quirk), bratty and funny as the titular McAllister.A high point, however, was Hubbel Palmer, as Gourley's slovenly, laid-back pal Carl. Wasted in the film are Zack Ward as a gangster's henchman, who shows up for probably less than a minute, and Billy Drago as the gangster, himself. As usual, Billy shows up for about five minutes and gives 110%, as the purple-clad, mascara'ed "The Lady", then leaves--and left me wondering, `why couldn't the movie have more of THAT?'Brown-nosing, stuffed-shirt over-achiever volunteers to move his boss's niece, in the hopes of getting in good at his firm once he takes the bar exam. Said niece is a free-spirit actress type who insists on making frequent stops, picking up hitchhikers, taking many side trips, (including one to visit Our Hero's estranged family, AAAWWWWW), and generally deterring him from getting back in time to take his exam/showing him the importance of living life, rather than planning it.Watch if you must.3 stars for Billy Drago and Hubbel Palmer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Waste of time (and Billy Drago) </p>
+
+
+<h2> review.date </h2>
+  05-13-2013  
+<h2> review.text </h2>
+
+ <p> The main lead was not good.  We watched 15 minutes and gave up.  Would not recommend to anyone.  It has no storyline to follow. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No plot </p>
+
+
+<h2> review.date </h2>
+  04-17-2009  
+<h2> review.text </h2>
+
+ <p> There is a lot of physical humor and oddball characters in this movie. But it is not until the end that we actually figure out what the uncle/big boss really intended when he hooked his intern into moving his niece- who is his only family- accross the country.  Enjoy the ride. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun, but not perfect- and more going on that it first seems </p>
+
+
+<h2> review.date </h2>
+  02-11-2008  
+<h2> review.text </h2>
+
+ <p> I compare this movie to it's most memorable scene....A zit being squeezed off the back of an out-of-shape hitchhiker....Don't pick it up and don't hope to get anything out of it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Who are these actors and WHY did they make this movie? </p>
+
+
+<h2> review.date </h2>
+  05-21-2010  
+<h2> review.text </h2>
+
+ <p> Eager to score points with his boss (Rutger Hauer), law intern Rick Robinson (Ben Gourley) - who hails from Kansas and looks for all the world like Clark Kent - agrees to drive the old man's free-spirited niece, Michelle (Mila Kunis), from Savannah to L.A., and still make it back to Miami in time to take his bar exam. But Michelle has other plans in mind, and she's not about to make it easy for the uptight, highly regimented young man - whom she believes needs to learn how to let his freak flag fly and just enjoy life - to complete his mission.Though the opposites-attract, road-trip-from-hell premise is far from original, "Moving McAllister" has enough charm, wit and affability to keep it just this side of entertaining. The performances are winning (with Jon Heder particularly effective as a spacey, zonked-out hitchhiker the couple picks up on their way), and writer Gourley and director Andrew Black have provided a series of loopy dream sequences that help lift the movie out of its picaresque rut. Some of the detours are more enjoyable than others, and the ending lacks credibility and conviction, but the lighthearted tone makes up for most of the movie's deficiencies and shortcomings. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> halfhearted though still enjoyable indie comedy </p>
+
+
+<h2> review.date </h2>
+  05-22-2010  
+<h2> review.text </h2>
+
+ <p> I liked this Movie and would highly recommend to family and friends.very funny and have sense of humor at the same time. Mila kunis is so funny and hot. Also has romance. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> funny </p>
+
+
+<h2> review.date </h2>
+  03-15-2008  
+<h2> review.text </h2>
+
+ <p> This is not a high budget movie but it is enjoyable. Of course, the presence of John Heder [Napoleon Dynamite] completes the sale. It was full of offbeat characters and was amusing. The main male character did have a pretty closed emotional outlook and the girl was not really distinctive. But this flick is full of side characters that were entertaining and, of course, event though he has a bit part, John Heder is always, always, always entertaining. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Pretty Enjoyable Flick </p>
+
+
+<h2> review.date </h2>
+  02-21-2013  
+<h2> review.text </h2>
+
+ <p> Rick (Ben Gourley) gets recruited into helping his boss' neice, free spirited Michelle (Mila Kunis), move from Georgia to Los Angeles. What?! Road trip! Rick is seeking approval from Mr. McAllister (Rutger Hauer) because he hopes to move up in his law firm. He rents a moving truck in Miami, and picks up Michelle along the way. The truck breaks down in the middle of nowhere, which happens to be where they find hitchhiker Orlie, played by Jon Heder, who, let's face it, should play Napoleon Dynamite in every movie he's in. They subsequently ditch Orlie, run out of gas, visit Rick's parent's, have the truck stolen by "The Lady" (Billy Drago), and get into a cage match death fight. Of course Rick falls for Michelle, and blah, blah, blah. There wasn't a single likeable character in this movie, which naturally made it difficult to enjoy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> That's my flippin' ride </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

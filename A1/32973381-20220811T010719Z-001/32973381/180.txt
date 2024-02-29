@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00004R65K <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> AIR WOLF THE MOVIE </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-25-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I HAVE WANTED AIR WOLF THE MOVIE SINCE IT CAME OUT BECAUSE A ENJOY JAN MICHAEL VINCENT.  HE IS QUIT AN ACTOR THANKYOU ALLEN. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> airwolf </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> was good story and a lot of action. explain alot about air wolf. i own all of them now and will watch over and over. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great ction </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-06-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Saw this film while and was glad to finally see it available on DVD, but would like to see on Blu-Ray and even better in 3D. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Excellent movie... </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-27-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> About the purchase, excellent price, delivery time, and the conditions of the product. This movie as the TV show is excellent, great for anybody that loved the action movies related with helicopters.  Check the site to find more action movies. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Movie... </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-22-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I liked this years ago- & bought it for a &#34;change in pace&#34; & to remember something &#34;different&#34; from the &#34;old days&#34; </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Not to Bad but it could have  been better. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> It seemed that the use of scenes from the series appeared in the movie even though it was suppose to have created prior to the start of the series. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Way ahead of its time. </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Briefing:  Airwolf, a secret super-powered attack helicopter,has fallen into the hands of terrorists and you-know-what has hitthe fan. Pressure is on the intelligence agency that developedthe aircraft to recover it before the President calls in themilitary. It carries cutting edge, multi-functional technologynow that will give our enemies much greater range andeffectiveness in air combat. Nine seconds after ignitionAirwolf can exceed Mach-1 from sea level to 65000 feet.Jan-Michael Vincent is the agency pilot sent to bring it back.A terrific movie. Absolutely terrific.Now take a look at the models of this amazing helicopteravailable on Amazon.com. I have the indoor model thatattacks cats. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nothing better -- let the eagle fly! </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The movie that started it all... turn on your surround sound.... you think Airwolf is flying over head! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great restoration </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-10-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The only thing missing from the DVD version is the last part of the Movie where StringFellow Hawk Plays the Chello for the Eagle as he remembers Gabrelle while out on the dock and it is rather moving.  Other than that it is an excellent recording.  And the interview with Ernest Borgnine is fun.  He was a great actor and will be sorely missed.  (I wrote this review 3 days prior to receiving the series)As for the 12 or so minutes missing from the movie itself I found a cure for that.  The First Season DVD set has the Pilot for the series and everything that was missing from the Movie here is on that first disc.  So I got my music back at the end of the program I have always immensely enjoyed even at the age of about 12.  But now many years later I know I have a much greater appreciation for not only the music but the Series itself, the paintings, the scenery, the actors and actress's and all the work that went into making the series as enjoyable then as it is now.The reproduction is very well done.  It plays well on both my Blue Ray player and my DVD player.  I could not be happier.  Everyone did a fantastic job on this and everyone should be congradulated and commended for all their hard work and efforts to bring back something so many of us enjoyed for a very long time.  I can at least say Thank you so very much for releasing it so we can enjoy for a long time to come and at any time.  Sincerely and thankfully, Suzi </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> ok </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-19-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> ordered this thinking it was a actual movie it is nothing more than the origanal first episode of season one with some added language </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Airwolf-The pilot movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-07-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was a very big fan of this show and was pleaseed to find this item. It was well packed and in excellent condition. Looking forward to future buys. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A good movie ruined by European Language License Blaspheme and Vulgarity </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> Airwolf The Movie was a really good movie right up until the very beginning of the film where they Blasphemed God's name over and over.This added absolutely nothing to the film as did the sexual vulgarity. Taking intimacy down to the "Barnyard Gutter" isn't a good written script nor good acting. Unfortunately European society and the American one following close behind have become or are becoming desensitized to bad behavior, bad life styles and bad language. Character matters here. The special effects were very good, unfortunately it was ruined with totally unnecessary negative attitudes and bad language that are either are to suppose to impress us or try to get us following the same bad examples. I no longer own the film as I would not have it in my house. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Classic 1980 TV movie </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-11-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This movie is a classic TV movie  from the 1980's and  one of mine all time favorites. When you watch this movie and go right into the TV series. Then everything falls right  place and it makes the watching Airwolf  nice </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> airwolf </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> One of my favorite sat nite tv shows back in the 80s.Airwolf was full of action yet unreal but kept you instrested in show.Ernest Borgnine was my favorite. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> not bad </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-07-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just bought the first season of Air Wolf an the "movie " or pilot  seem to have all the things people in theses earier reviews said that certain  scenes weren't in the American Pilot , is not true , other than any cuss words , most scenes were intact . Back in 1983 , I drove to work with my Asst Mgr. whom loved this show , that got Me into watching the show . Yes I enjoyed the show , and now I wanted to watch it again an bought season one . Yeah the pilot was a little grainy at spots , but was ok . </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Did I miss something?? </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-10-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I just watched this version of the TV Pilot.  Ok, besides the few sprinkled f-bombs, I did not see anything to cause me to say "Hey... "I've never seen that".  It also says "remastered"... from what? 16mm film? The video is still grainy, but considering when this was made, I won't hold it against them, but it sure doesn't look "cleaned up" or remastered from the master film. As to the ending, I could swear in the TV pilot they showed the "lair" where they keep Airwolf.  In this new version it just flies back over the ocean towards home.  If you already have the TV Pilot as part of Season 1, I don't see the need to add this to your collection. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Always love the show nice to have hard copy. </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-10-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved this show and have the whole series, I didn't realize that most box sets include the movie ( pilot) but its always good to have. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 80's Television </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great for anybody that Loved the Show , and definitely got what I paid for at A great price in great time. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> GREAT MOVIE </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-12-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> i LOVE THE ACTION THAT AIRWOLF AND CREW BRING. JAN AND DOM WERE GREAT.I HAVE THE FIRST THREE SEASONS. EVEN THOUGH IT IS FANTANSY, THE LADY DOES THE JOB. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Airwolf The Best </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-30-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> One of the best shows out. Have it all on tape had to have it on disc.So much better than burning fropm tape to disc. Like the add on stuff. Does that tell you how much i Like it. Giving The Movie as a Gift. When this show first came out everyone wanted to own AIRWOLF. They even make scale models that fly.  As the third season opening said,This can not be left in unenlighted hands.  Guys took Airwolf from bad guy goverment type to help people.Yes glad I bought it. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

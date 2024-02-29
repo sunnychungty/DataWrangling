@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00B3OSKWW <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-06-2013  
+<h2> review.text </h2>
+
+ <p> I love it;  but I wish they would write more, about the people in the story,  How it end we did not what happens to the couple if hey got married?  I want to know about Hannah new life?  How is she doing with the Sears grandchildern </p>
+
+
+<h2> review.summary </h2>
+
+ <p> want more </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> Her writing is excellent.  Holds your attention, and is very informative and interesting.  I would highly recommend this book, as well as her other books. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Writing! </p>
+
+
+<h2> review.date </h2>
+  06-03-2013  
+<h2> review.text </h2>
+
+ <p> I read it while on vacation and was glad to find a new amish writer. Rachel doesn't have as strong a writing of Christian values as a lot of the amish writers but was still right on target! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good book </p>
+
+
+<h2> review.date </h2>
+  02-24-2013  
+<h2> review.text </h2>
+
+ <p> Raised in a Christian home my entire life, at age 60, I have much to learn from the Amish concerning forgiveness, true brotherly  love, and humility. All three of these stories showed the importance of all in living a truly Godly life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Christian Englishers have much to learn </p>
+
+
+<h2> review.date </h2>
+  01-26-2013  
+<h2> review.text </h2>
+
+ <p> This is not a seasoned author. Her work is very amateur and more on the line of a kids book. Sentences and conversations are very choppy and not realistic. The story lines are ok but nothing great. I think the three stories in this collection are out of order. A Simple Love should be number two and Simple Harmony number three. Also the editing is quite poor.I enjoy Amish fiction but these stories seemed a little off to me. Things were allowed in this community that I found were different from most Amish communities. However I know each community is different to some degree. As I said these were just OK. I would not buy this authors books again because there are much better books and authors to read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just OK </p>
+
+
+<h2> review.date </h2>
+  05-15-2013  
+<h2> review.text </h2>
+
+ <p> i liked this book, but it was hard to get started. once you get into the book it is really good </p>
+
+
+<h2> review.summary </h2>
+
+ <p> amish love story collection </p>
+
+
+<h2> review.date </h2>
+  03-24-2013  
+<h2> review.text </h2>
+
+ <p> I read this book as another venture into my passion for Amish Fiction books.  I was disapointed from the start but read it through since I was already into it.  It is more appropriate for a younger reader as it is written in such a simplified style.  It was hard to stay interested in it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For the younger reader </p>
+
+
+<h2> review.date </h2>
+  06-02-2013  
+<h2> review.text </h2>
+
+ <p> This was a good one, short stories but a good read. I will definitely read more of her books. Thanks </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good </p>
+
+
+<h2> review.date </h2>
+  06-24-2013  
+<h2> review.text </h2>
+
+ <p> I loved the story line of these books. I wish there was more or a continuation of the characters. Great </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good book </p>
+
+
+<h2> review.date </h2>
+  03-31-2013  
+<h2> review.text </h2>
+
+ <p> I enjoy Amish romances and have read almost 100 of them. This series would rate pretty far down the scale.I kept trying to picture real people speaking in the stilted language the writer uses. I just can't see anyone talking like this.The stories are over simplified and offer no surprises. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Found it to be disappointing </p>
+
+
+<h2> review.date </h2>
+  04-15-2013  
+<h2> review.text </h2>
+
+ <p> Good story and love reading series'.  I like this author too.  Love books I can read from my Kindle Fire. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great! </p>
+
+
+<h2> review.date </h2>
+  06-23-2013  
+<h2> review.text </h2>
+
+ <p> I really enjoyed this book. I love reading about the Amish. It was easy to read and very well written. I look forward to reading more books by you. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An Amish Love Story Mega Collection </p>
+
+
+<h2> review.date </h2>
+  01-22-2013  
+<h2> review.text </h2>
+
+ <p> I love this. The stories are the perfect length.  I love the characters. The plot is  strong.  I would totally recommend this set.  I cannot wait for more from this author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> nice </p>
+
+
+<h2> review.date </h2>
+  07-30-2013  
+<h2> review.text </h2>
+
+ <p> This collection is easy to read and it is hard to put down.  Would recommend these to anyone that likes Amish stories. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love this collection. </p>
+
+
+<h2> review.date </h2>
+  05-13-2014  
+<h2> review.text </h2>
+
+ <p> This is the best set of Amish Love Stories that I have read. Once started I couldn't put down.  Keep up the good work Rachel Stoltzfus. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Love Story </p>
+
+
+<h2> review.date </h2>
+  05-10-2013  
+<h2> review.text </h2>
+
+ <p> I enjoyed both stories.  I was not aware you had people that could be so hurtful.  I realized all communities can have trouble makers.  I liked how you solved your problems and you consulted your elders for advise and direction. We can all learn from your way of life.  I felt the books for too short.  I would liked to hear more about the families. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not enough information </p>
+
+
+<h2> review.date </h2>
+  02-04-2013  
+<h2> review.text </h2>
+
+ <p> I like the story's O.K. but the put them in the wrong order. Simple Love should of been # 1, Simple Pleasures # 2 & Simple Harmony # 3. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> lt was O.K. </p>
+
+
+<h2> review.date </h2>
+  04-01-2013  
+<h2> review.text </h2>
+
+ <p> A good book that's easy to read.  Predictable with very little surprises or adventure. A Christian fiction that is simple and worth reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

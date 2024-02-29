@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00CIF2AYE <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-02-2014  
+<h2> review.text </h2>
+
+ <p> Extremely upset, this book along with the oyher five in yhe series are unreadable on my device. I payed for this series and I am very upset that the pages seem over lapped and I cant make out a single word. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> horrible copy </p>
+
+
+<h2> review.date </h2>
+  08-12-2013  
+<h2> review.text </h2>
+
+ <p> Love love love this book. This is one of my favorite series. I can't stand for it to end. Cyndi Friberg best paranormal romance series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic </p>
+
+
+<h2> review.date </h2>
+  08-01-2013  
+<h2> review.text </h2>
+
+ <p> Yet another great book, from a great writer. One last book in the series and I'm sure I'm going to wish there were more books in the series. But will have to start the next series from her...it also looks like a good one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fire Pearl </p>
+
+
+<h2> review.date </h2>
+  05-24-2013  
+<h2> review.text </h2>
+
+ <p> okay love this author but i couldnt get into the two newest books from this series. Why? I just dont know. I really liked the 2nd and 3rd book from the beyond ontariese but these are just not up the same standard. sorry </p>
+
+
+<h2> review.summary </h2>
+
+ <p> love this author </p>
+
+
+<h2> review.date </h2>
+  06-03-2013  
+<h2> review.text </h2>
+
+ <p> Fire Pearl, book 5 in Cyndi's Beyond Ontariese series is the story of Aria (a jumanna/fire pearl) and Lord Drakkin (a mystic).  Lord Drakkin promised Vee (another mystic he mentored) that he would find and protect his daughter Aria (received a free copy in exchange for an honest review but would gladly have purchased book).  He search leads him to Las Vegas and he teleports her to the desert of San Adrin where he can awaken her mystic abilities.  He does this during sex but accidently bonds with Aria (making her his life mate).  Fire Pearl has some plot twists and the chemistry between Aria & Drakkin is electrifying making it a definite must read!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Highly Recommend </p>
+
+
+<h2> review.date </h2>
+  06-06-2013  
+<h2> review.text </h2>
+
+ <p> Too short!  My only complaint is that each of the lives/stories in this series ends too soon.  The stories are so engrossing I hate for them to end! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good sexy intriguing FUN! </p>
+
+
+<h2> review.date </h2>
+  09-23-2013  
+<h2> review.text </h2>
+
+ <p> As with the others in this series, I could not put this one down either...I would recommend the books be read in order... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I loved the series. </p>
+
+
+<h2> review.date </h2>
+  07-03-2013  
+<h2> review.text </h2>
+
+ <p> I have read the other  books and enjoyed each one. I really enjoy books that have happy endings that seem realistic. These books, including this one, have a heart stopping romance and action along with it. What I love most about these books are the first chapters of the next book to keep you wishing for more. I highly recommend this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprisingly captivating </p>
+
+
+<h2> review.date </h2>
+  08-27-2013  
+<h2> review.text </h2>
+
+ <p> Boy I don't know if these books can get any hotter and any better. It's like each book intrigues me more and more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fire Pearl </p>
+
+
+<h2> review.date </h2>
+  08-22-2013  
+<h2> review.text </h2>
+
+ <p> I have read all but the last book and I find them all to be very good wonderful characters. All so different and interesting as well.I can't wait to see how the last book is,it's bound to be as good as the rest.Great read. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fire pearl( Beyond Ontariese) by Cyndi Friberg </p>
+
+
+<h2> review.date </h2>
+  06-08-2013  
+<h2> review.text </h2>
+
+ <p> This book captured my attention from the first page and I could barely put my Kindle down long enough to go to work cause I was worried I would miss something..... I especially liked the cat and mouse game Drakkin and Aria was playing, cause I knew they would get their act together and I wanted </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fire Pearl </p>
+
+
+<h2> review.date </h2>
+  06-19-2014  
+<h2> review.text </h2>
+
+ <p> I think this was my favorite out of the series. I love Lord Drakkin  I was so happy to learn Vee and E'Lanna had a daughter. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Outstanding </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

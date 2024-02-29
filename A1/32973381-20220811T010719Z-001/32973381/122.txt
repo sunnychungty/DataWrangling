@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B007USA1F4 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-14-2013  
+<h2> review.text </h2>
+
+ <p> I bought this back in July of 2012. I mainly use this as a gaming display. Anything I play on it looks great. I currently have it in a dark room, where it can be overwhelmingly bright, but I don't intend on it being there forever. The display is very responsive when gaming. The internet apps work pretty smooth as well. The picture quality is great for Blu-Rays as well!My only two gripes about this TV are as follows:1. The speakers are sub-par. They make strange noises at higher frequencies. I use headphones mainly, and when I don't I use external speakers. Doesn't bother me personally, others this may be an issue.2. Some of the buttons of the keyboard side of the remote I have to press pretty firmly to get a response. Mostly the "R" button, but others too.Overall this TV is great and stacks up very well with much more expensive, non-internet, TVs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome TV for the money!! </p>
+
+
+<h2> review.date </h2>
+  02-12-2013  
+<h2> review.text </h2>
+
+ <p> I purchased this tv from walmart I thought it had the great picture for the price..I wish they had it where the sun don't shine..It went nuts and would not do nothing a couple months old, they replaced the main board,,,, about 4 months, it is doing the same thing again.I so wish I had not bought a vizio, I would rather have another brand...They have told me to provide the receipt and they was going to replace the tv instead of repairing it this time.. we will see. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Problems </p>
+
+
+<h2> review.date </h2>
+  04-05-2013  
+<h2> review.text </h2>
+
+ <p> This TV is a superb performer in terms of picture quality, feature set and user friendliness, all for a very good price. Comparing it to a 3 year old Sanyo LCD, (720p/60 Hz), the difference is quite dramatic. The picture has excellent contrast ratio (roughly the ratio of the brightest white to the deepest black that the light panel can produce). This measure (if not fudged by the manufacturer, which many, many televisions these days are), "should" indicate how "brilliant", "alive" or "dynamic" the picture will appear. Do not, under any circumstances trust published specs by the manufacturer. Many are grossly exaggerated, and few, if any, state how these measurements are made. Some others are just plain advertized incorrectly. I saw two TVs at the local Wal-Mart that showed two Vizio TVs with a contrast ratio of 2,000,000:1, when it plainly should have been 200,000. Off by a factor of 10, but who's counting?Suffice it to say, this TV, with a claimed contrast ratio of 200,000:1, has a brilliant and dynamic picture. It is the sort of TV that if seen on a wall of TVs, will jump out at you for three factors: image clarity, color saturation and "dynamic liveliness" of the picture. Don't get me wrong, this is not a $2500 Samsung. Its motion clarity is not nearly as good. The overall picture quality is not nearly as good. The feature set, however,  is every bit as good as the elite TVs.There are many outstanding and well implemented features on this TV. They include, but are not limited to:1. 4 HDMI inputs2. Analog Audio Out (3.5 mm headphone type jack) for use with wireless headphones and such.3. Optical Digital Out for use with soundbars and older non-hdmi switching home theater amps.4. The sensitivity of the TV tuner is very good, and the signal level and other info is available from a "system" menu.5. WIFI and Internet Apps6. Nice, but not exceptional remote (no back light), but has full QWERTY keyboard on back)The WIFI setup was quick and easy. It found the SSID of my router immediately and connected with no problems. Performance is impressive based on two measures: throughput and signal strength.  The TV is about 30 feet away and one floor up from the router. I consistently see > 4.5 Mb/s from my 6.0 Mb/s connection, even during the evening. There is a nice speed utility built into the TV that shows the throughput of the connection. I had no problem streaming HDX (1080p from Vudu) or Netflix HD. There were no interruptions or pixellation for either service.  There is a little bar graph and icon that appear briefly at the top right corner of the display which show signal strength (mine shows full scale). It looks like this TV's WIFI would see the router easily from the other end of the house (although this is an A-Frame open construction scenario).One Caveat: The TV is listed as 120 Hz refresh rate. It isn't really. As one other reviewer noted, Vizio plays a game with the refresh rate that does reduce motion blur, but it is not truly 120 Hz refresh. Consumer Reports took note of this and lists this TV's refresh rate as 60 Hz. There is no "smooth motion" adjustment in the menu...for a very good reason, this TV does not have Vizio's traditional "smooth motion" technology. That's one reason why it is less expensive. It is also why the higher end Samsung that I own, and other higher end Vizios (with true smooth motion) are clearly superior to the M420SL when it comes to ameliorating motion artifacts that LCDs are so well known for. It should also be noted that some people do not like smooth motion, period, and turn it off, so I would not make a purchasing decision on this TV based on the 120 Hz shortcoming.Summary:A TV rich in features that are actually useful, with a strikingly beautiful picture at a moderate price. While lacking a web browser, its internet features and performance should more than satisfy those interested in Vudu, NetFlix and assorted internet widgets/apps. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Exceptional Picture and Rich Feature Set </p>
+
+
+<h2> review.date </h2>
+  10-22-2012  
+<h2> review.text </h2>
+
+ <p> First let me say that I am proud to support American companies. I'm really glad I did in this case. The picture rivals that of my plasma. High def channels are brilliant and blu ray look excellent. The sound for a flat panel is great. The apps were a cynch to set up.  $600 on Amazon with free shipping and no tax was a steal. Visio is a top notch manufacturer. I definitely recommend this set. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 42" LED TV </p>
+
+
+<h2> review.date </h2>
+  07-06-2013  
+<h2> review.text </h2>
+
+ <p> You have to be kidding me.  I just returned a TV and ordered this one - and I was very excited.  I unpacked it carried it where I was going to mount itAND SURPRISE - There are no standard MOUNTING holes on the Television.  I own two other VIZIO's and all have mounting holes.Now - I'm going to have to pack this up and send it back.  I just can't believe it.  NO MOUNTING HOLES </p>
+
+
+<h2> review.summary </h2>
+
+ <p> No Mounting Holes </p>
+
+
+<h2> review.date </h2>
+  12-03-2012  
+<h2> review.text </h2>
+
+ <p> The TV pictured on the website is not the same one that was shipped.  The last two letters in the model number are SL.  The picture is for the KM (think newer model).  Thanks to Amazon's customer service, item returned. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good TV poor responsiveness from remote </p>
+
+
+<h2> review.date </h2>
+  02-04-2013  
+<h2> review.text </h2>
+
+ <p> Fantastic TV for the price. Absolute value. Everyone probably already knows the picture is clear and brilliant, but you might not know that the sound absolutely rocks as well.4x HDMI ports are also great. 1 for cable, 1 for the Xbox, 1 for the video file player, and 1 for the Blu-Ray player. It's amazing how many of these you need these days.I seriously considered two other similar LED 42 inch televisions that were a little cheaper - the Vizio E420I and the Sony Bravia KDL-42EX440. While both of those other TVs are very good, and also had great pictures, the Vizio M420SL has more features than the Sony, and has better sound than both, with a real sound bar. It also has more HDMI ports than the others. The extra money was well worth it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Couldn't be better. Seriously. </p>
+
+
+<h2> review.date </h2>
+  06-12-2013  
+<h2> review.text </h2>
+
+ <p> VIZIO M420SL 42-Inch 120Hz LED-lit TVhttp://www.amazon.com/gp/product/B007USA1F4/ref=cm_cr_ryp_prd_ttl_sol_5I HAVE A SONY 46&#34; AND A LG 32&#34; 1080i HDTVs AND NIETHER ONE COMES CLOSE TO THE PICTURE QUALITY OF MYVIZIO M420SL 42-Inch 120Hz LED-lit  HDTV ! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> VIZIO </p>
+
+
+<h2> review.date </h2>
+  10-07-2012  
+<h2> review.text </h2>
+
+ <p> I bough this TV for my den, and after doing research on all the 42 inch TVS, I decided on the Vizio, as it seemed to be the best value, without compromising anything. I can connect to the internet, stream from Amazon Prime(Netflix too), go on Facebook, Twitter, and several others. You cannot do google searches - there are limited applications, but it's plenty. Also, my son was able to get this TV up and running completely in about 15 minutes(he's 15). My ONLY negative, which doesn't bother me, is that it takes a bit of time for it to come on once you turn it on. Not a big deal but it's a bit longer than I'm used to from other TVs. All in all, I'd say this TV is an EXCELLENT TV and a GREAT value!! I even saw them give away the same exact one on ELLEN the other day!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great TV </p>
+
+
+<h2> review.date </h2>
+  12-07-2012  
+<h2> review.text </h2>
+
+ <p> Got this TV for our master bedroom, and couldn't be happier!  Great picture, and it has Netflix built in, so no other device needed to stream it.  The remote is a little funky, but it works OK.  I use the remote for my FiOS to control it for most normal, everyday kind of things anyways...I only use this remote for when I want to watch Netflix... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great picture! </p>
+
+
+<h2> review.date </h2>
+  12-05-2012  
+<h2> review.text </h2>
+
+ <p> Received this TV as an early Christmas present two days ago.  So far I am completely thrilled with it.  HD channels are awesome.  You can actually count the freckles on faces.  My son who is techno savvy set it up in less than 1/2 hour.  I highly recommend Vizio tvs as this is our 3rd one and a plus they are made in America! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome tv by Vizio </p>
+
+
+<h2> review.date </h2>
+  08-14-2012  
+<h2> review.text </h2>
+
+ <p> We bought this Vizio 42" last week and are very happy with it.  Crystal clear picture and great sound.  Easy to set up and the remote is nice.  My only issue was I couldn't handle the Vizio logo on front being lit up white while watching, it was very distracting to me so I wrote to Vizio to ask about how to turn it off and they sent me the following instructions that thankfully worked.To turn the Vizio light on or off:1. Press the MENU button on the remote.  The on-screen menu is displayed.2. Use the Arrow buttons on the remote to highlight the Settings icon and press OK.  The Settings menu is displayed.3. Highlight LED Logo Settings and press OK.4. Use the Up/Down Arrow buttons to select On or Off, then press OK. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fantastic picture, sound and value </p>
+
+
+<h2> review.date </h2>
+  12-06-2012  
+<h2> review.text </h2>
+
+ <p> I thought I would use this product for a month and then write a review.I used to own a 26" LCD from Vizio. I did not have any problems for 3 years and still works. Since I moved to a bigger appartment, I want to buy a bigger one. After going through many mixed reviews about this product, I thought I would give it a try.The Product came sooner than I expected. It was packed nicely.It took me just about 15 minutes to set it up by myself.The sound and the picture quality are amazing.I love the multi-USB and multi-HDMI ports.Setting up the wi-fi was a breeze. You just have to follow the instructions. So is setting up the Amazon video and Netflix.I had an issue with the remote after a few weeks. It wouldn't work. I called up customer care and they said to remove the batteries, press all the buttons on the remote twice and put the batteries back in. It worked!Overall, an amazing TV. I am a very satisfied customer. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing product - Great picture and sound </p>
+
+
+<h2> review.date </h2>
+  08-11-2012  
+<h2> review.text </h2>
+
+ <p> Great TV, great picture, great apps, well made. No problems. Got it for $430 with some promotions. Heh... took 10 minutes to set up with Aurum HDMI cables and DirecTV Home Media Center DVR.Olympics look great. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love it </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

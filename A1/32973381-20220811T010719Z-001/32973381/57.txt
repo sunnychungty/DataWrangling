@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B002P3KO8I <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-18-2009  
+<h2> review.text </h2>
+
+ <p> QUICK EVALUATIONThe Western Digital 640GB 2.5" SATA is a quiet, reliable, easy to install, drive.The 2.5"/9.5mm SATAs easily and perfectly mount inside a PS3's or laptop's drive bay where they can replace the laptop's or the PS3's original 20-40-60-80-160GB drive or the new PS3 120GB SLIM's without voiding the warranty. Same should hold true for the upcoming PS3's 250GB model. The minor price difference between purchasing a 250GB Slim vs. upgrading an existing 120GB PS3 to 500GB or 640GB should make such an upgrade attractive to anyone who feels that 200-400GB of extra storage are needed.At the time of this review, the 640GB does not offer the lowest cost per GB - that honor belongs to the 500GB model. I have little doubt that this is bound to change.POSSIBLE USES- Upgrade an existing laptop drive. I have upgraded mine from 60GB to a WD 500GB 2.5" SATA recently and I've been happy ever since.- Upgrade a PS3. I have upgraded my PS3 from 60GB to a WD 320GB more than a year ago and I no longer worry about disk storage limitation. I helped a co-worker upgrade her brand-new 120GB Slim to THIS model about a week ago and it was quick, easy and uneventful - it helps starting with a brand-new PS3 to avoid backup/restore complications.- Turn it into an external storage drive. It CAN be done by casing it inside an external enclosure and attach it to a computer and having it powered via an USB cable but why bother? Many vendors offer similar capacity external drives at better prices.It should be noted that there is a bonus involved when upgrading a laptop or a PS3 to a larger HDD - the old drive. I do buy enclosures for those and I tend to use them as backup devices - redundant storage for photos, documents and so on.MY RATINGI give this HDD its 5 stars for being the largest in it's class 2.5", 9.5mm form factor and for my happy history with WD drives - not one has failed me yet. WD and others do make larger, 1TB 2.5" SATA drives but those come in 12.5mm and will NOT fit inside a PS3 or most existing laptops.____________________________________Note:For anyone new to this who considers upgrading a PS3 (easy) or a laptop (much harder because it involves possibly backup/restore and re-registering the OS with Microsoft), please note that the HDD does NOT look as intimidating as the picture shows. For some reasons, the marketing people decide to almost always show the 'naked' disk - which is the HDD with the enclosure removed. In reality, what you see in this picture is enclosed inside an air-tight, sealed, aluminum capsule and the only things you will be physically interacting are a couple of connectors and a few small screws. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Largest upgrade option for any PS3 and laptops that need 2.5"/9.5mm-height SATA HDDs </p>
+
+
+<h2> review.date </h2>
+  01-27-2010  
+<h2> review.text </h2>
+
+ <p> Ok I got an ASUS netbook and the 250GB drive was to small so I upgraded it to this one.It is a ASUS Eee PC Seashell 1201N-PU17-SL with the Dual core Atom N330 and now 640GB HDD. I partioned the HDD to have a 100GB Windows partition to make use of the fact I use this little beast for work. I also have the rest of the drive partitioned for the Linux partition I use. I also bought a Samsung 640 GB USB ext HDD to give me a combined 1.2TB of storage! I do like the 5400 RPM drive speed because while 7200RPM is faster if you have a lower spindle speed for you drive quite often the drive will last longer, and that's cool!I have not noticed a single issue with the drive, but I have only had it working for about a week so were still to early to give the long hours of use workhorse review, but I am very happy with it so far. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AWESOME LARGE HDD </p>
+
+
+<h2> review.date </h2>
+  01-07-2010  
+<h2> review.text </h2>
+
+ <p> Bought this as a second drive for my HP dv7-2180 Quad Core Laptop. Beware that this unit comes without any hardware, pins, connectors, stabilizer buttons, wires, etc. Nothing but the hard drive. It did not come with any paperwork or installation information. Received, it appeared new and is working just fine. Most value on the internet in the Winter of 2009 for this product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Western Digital 640 GB Scorpio Blue </p>
+
+
+<h2> review.date </h2>
+  12-11-2009  
+<h2> review.text </h2>
+
+ <p> I had upgraded my PS3 40gig to the WD 320gig Scorpio [ WD3200BEVT ] it was hard to beat for about $78.00 something like 2-3 years ago and I have been satisfied with the drive in every way. Ive always wanted a lot more space and eventually I will go as big in drive size as possible. I was looking at the WD500 but it just couldn't offer enough storage over my current WD320 @ 300gigs formatted. The WD640 was only $28.00 more and I'm happy to say its enough of a size increase @ 596gigs formatted to keep me happy for now.I do have and use a few WD 1 Terrabyte USB 2.0 drives but they are far from ideal for my PS3 needs and just serve as a way to move files more so than being used as permanent drives for the PS3. In all honesty they are too slow when reading the File Allocation Table and the XMB doesn't treat them the same functionality wise as it does an internal drive. A lot of media files usually wont play in succession, no folder repeat etc.One note of caution on backing up a PS3, my backup after I slimmed it down came in at about 200gigs which took about 5 hours to create and is currently taking just over 8 hours to restore, streamline as much as possible or be prepared to wait ;) The bulk of mine is game installs and updates I would rather not have to download again. Though I just got the WD640 I have no doubt it should give me a long service life and if not Western Digital has a pretty good RMA program/Warranty.If you are looking for a drive for the PS3 or otherwise I think this is a decent choice overall, for the money the WD500 is a better buy but for only about $30.00 more this is hard to pass up for those that want 500gigs of actual space. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice PS3 upgrade </p>
+
+
+<h2> review.date </h2>
+  04-09-2010  
+<h2> review.text </h2>
+
+ <p> I was hesitant in upgrading my laptop because it would be the first time I have ever done so. I read a lot of reviews on hard drives before choosing this one. I must say that I chose it based on its space rather than the average review. So far I am very glad I chose this one. It arrived in a box that was not too big, not too small, and had what I felt as adequate protection for the shipping process. When I got the drive I unscrewed the hard drive tray on the laptop, slid the old drive out, slid the new drive in, replaced the tray, and screwed it back into the machine. I booted the machine up and it had no issues recognizing the hard drive. I took that opportunity to upgrade 32bit Vista to 32bit Windows 7 and it went flawlessly. I have been using the machine for a week now since the upgrade and have had no issues at all. My laptop gets heavy use with music, video, and some gaming and the drive has worked perfectly. If I have any issues in the future with the drive I can assure that I will update this review with such issues. Until then, I highly recommend this drive for anyone who needs more space on their machines and doesn't want to spend over a hundred dollars on a new hard drive. Best drive for the price, installs easily, and seems to run flawlessly. Also, I have found that the laptop seems to run a little cooler with this drive installed than the factory drive from Dell (and it was 250Gigs at 5400rpm). Very pleased with this drive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Upgraded Dell Inspiron 1525 </p>
+
+
+<h2> review.date </h2>
+  04-22-2010  
+<h2> review.text </h2>
+
+ <p> I was originally looking for an SSD but couldn't quite handle the price.  This drive has better performance than the original drive that came with the MacBook.  Installation was quite simple.  The fasteners for the drive kind of through me because I didn't have the correct hex head screw driver,  but I put some tape on a pair of small needle nose pliers and used those to turn the screws out.  You have to be careful not to grip to hard.  Over all it was pretty easy. Took no more than 10 minutes to install. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good upgrade for MacBook Poly Unibody. </p>
+
+
+<h2> review.date </h2>
+  12-02-2009  
+<h2> review.text </h2>
+
+ <p> Short version: I installed this in my aluminum unibody MacBook. It works fine. I have oodles of free space. It's pretty quiet. At the time, I think it was the largest capacity 9.5mm tall notebook drive available.Long version:I didn't really want to upgrade my MacBook. I had plenty of room on the 500GB hard drive I had purchased just 6 months before, also a Western Digital Scorpio Blue, but something was wrong, and I didn't know what. My applications were stalling out after disk intensive operations. I tried re-installing OS X, rebuilding the Spotlight database, fixing permissions, everything and it still happened. So in desperation, I decided to upgrade my hard drive a little early, going up to this 640GB, even though it was the same brand that might have been failing me. And for whatever reason, it's worked reliably ever since.Remember to de-authorize your iTunes account on the original drive before removing it, and do a final Time Machine backup (assuming you make Time Machine backups) before shutting down.Anyone who remembers the pain of exchanging the hard drive out of a PowerBook G4 or even a white Intel MacBook, can appreciate the ease involved in swapping hard drives from the unibody line of Apple portables. A latch, 5 screws and an SATA cable are all that stand in your way. You will need a small Phillips head screwdriver and a T6 torx screwdriver. It literally takes 3 minutes to swap the drives. Then you can either rebuild from a Time Machine backup  or from the original drive, assuming you have an external hard drive case or a USB to SATA adaptor.This drive had too large a capacity for an external case I bought in 2008 which was rated up to 500GB. I had to put the old drive in the case to retrieve data, and the new drive in the MacBook to format it.Remember that when you format a MacBook's boot drive with Disk Utility to make sure you are using the GUID option for your journaled HFS+ boot partition. That bit me once on an external drive and it took me 3 reformats to figure out what I was missing.  Double and triple check that you are formatting the new drive and not the old drive!!!I chose this drive because it was at the time the highest capacity 9.5mm tall notebook available. There are 12mm tall drives with higher capacity, but those will not fit comfortably in a MacBook. This drive is not going to make you jump around with joy, it stores your data, it's moderately fast for a 5400RPM drive, it is not noisy, and it's comparatively inexpensive. So it's a solid value.And it prevents me from wasting my time looking for things to throw away. Have you ever spent half an hour throwing away old files to free up 20 cents worth of hard drive space? Our time is too valuable for that. Just get a bigger drive; they are cheap.I hope this is my last disk base hard drive in my laptop. Solid state drives are rapidly dropping in price, and raising in capacity, and the speed advantage is game changing. Maybe this time next year, I'll make the move. Still this drive has the capacity to keep me going. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> High Capacity Upgrade for MacBook. Simple Self Install </p>
+
+
+<h2> review.date </h2>
+  02-10-2010  
+<h2> review.text </h2>
+
+ <p> i had to upgrade my hard drive in a non-unibody macbook pro. these can only accept 9.5 mm drives, unlike the new unibodies, which can accept the 12 mm drives. so with the restriction on the thickness, the 640gb was the largest i can install into my laptop.used carbon copy cloner to clone the mac portion, used winclone to clone the boot camp portion, swapped it out, and used it. smooth transition. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> easy upgrade </p>
+
+
+<h2> review.date </h2>
+  12-13-2009  
+<h2> review.text </h2>
+
+ <p> I upgraded my MBP (late 2007) first with 320GB also WD from stock 160GB last year.  Less than a year later, I am craving for more space (took too many videos and pictures and converted all of my CD's into MP4.So I used CCC to clone an exact copy (block by block) (make sure you purchase an universal USB SATA cable).  It took about 8 hours to copy all of my 300GB worth of data from old drive to new drive.It seems a bit slow.  I wish they had made this a 7200RPM drive instead of only 5400.  More space means it takes more time to search for data.But it was very quiet.  Worked without any flaw.It seems more quiet than the old 320GB.Got it when it was on sale at Amazon and what a bargain it was.Highly recommended.If you need to upgrade (more space or just having problems with old drive), and if you have a Mac, absolutely no question about this, get it!!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Always need more storage space </p>
+
+
+<h2> review.date </h2>
+  04-19-2010  
+<h2> review.text </h2>
+
+ <p> I've had good luck with these drives.  I've had two of the WD Scorpio 320's for two years now and they keep on ticking.  I've only had this 640 for three weeks, work great so far.  It's quiet and I'm happy with the access and data transfer times.  You can't go wrong with this version of the WD drives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WD Scorpio the best! </p>
+
+
+<h2> review.date </h2>
+  05-16-2010  
+<h2> review.text </h2>
+
+ <p> Works as advertised....upgraded my original PlayStation 3 80 GB hard drive with this 640 GB hard drive and it works great--now my PlayStation 3 has 8 times storage space so I don't have to worry about running out of space. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worked very well for PS3 hard drive upgrade </p>
+
+
+<h2> review.date </h2>
+  01-02-2010  
+<h2> review.text </h2>
+
+ <p> I've successfully copied my old 120 gig laptop drive to this muchlarger one. It took some effort getting things right (Primary andactive partition designation), but all is well.Delivery was prompt.  Thanks! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Delivery, Good Drive </p>
+
+
+<h2> review.date </h2>
+  04-13-2010  
+<h2> review.text </h2>
+
+ <p> I was able to replace the HD in my 80 Gig BC PS3 (The one that came with MGS4).  I was really impressed with how simple the process was to switch out the drives and I'm glad I spent the extra money on the largest drive I could find on Amazon (as of April 2010).  I've had the drive installed for a few weeks and haven't had any problems so far.  I would definitely buy this same model again to upgrade a friend's PS3. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> PS3 replacement drive </p>
+
+
+<h2> review.date </h2>
+  11-27-2012  
+<h2> review.text </h2>
+
+ <p> Biggest HD that will support the PS3 i had 500GB but this is better and faster a must for ps3 users </p>
+
+
+<h2> review.summary </h2>
+
+ <p> PS3 compatible </p>
+
+
+<h2> review.date </h2>
+  03-09-2010  
+<h2> review.text </h2>
+
+ <p> I bought this for my unibody MacBook Pro since I do a lot of downloading of movies and programs. I like to keep as much with me as possible and my 250gb drive was filling up fast. At first I was looking at a 500gb but ultimately justified the extra cost of the 640gb. Man am I happy. I have more than I'll end up using since I have external drives I use for most of my storage, but I don't have to worry about cleaning this for a few months at a time.I'm running Snow Leopard on my Macbook and I routinely run Onyx to keep my system maintained, however it still stutters a few times a week. It will freeze for 20 or so seconds at a time. I'm not sure exactly what's causing it. I have since bought an SSD which doesn't stutter. I bought a bracket to install this 640gb HDD in my optical drive bay and I am very happy. I left the original Snow Leopard installation intact on the HDD so I can choose whether to boot from the SSD or the HDD (which also has Windows 7 installed via Boot Camp that I can boot from).Overall this is a great choice for any laptop if you need this much space. I have no regrets. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great upgrade if you need the space </p>
+
+
+<h2> review.date </h2>
+  12-27-2009  
+<h2> review.text </h2>
+
+ <p> I bought this to replace the nearly full hard drive on my unibody aluminum macbook.  I was worried that it might not fit because it is a little thicker than the OEM.  This is the first time I have swapped a drive in a computer.  The install was a snap, as was the formatting and OSX install with my Snow Leopard DVD.  The drive is quick and quiet.  I am very happy with the exchange. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent replacement for Unibody Macbook </p>
+
+
+<h2> review.date </h2>
+  07-31-2010  
+<h2> review.text </h2>
+
+ <p> I purchased two of these hard drives. One for a replacement for my laptop and the other to upgrade my PS3. Everything went as smoothly as possibly and the only complaint I have is that the hard drive in my laptop seems to run a little hot. It has never been hot enough to have the laptop issue a warning or shutdown unexpectedly, it is just warm to the touch. I would recommend getting this hard drive if it fits your capacity needs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Good Hard Drive - Does Run A Little Hot </p>
+
+
+<h2> review.date </h2>
+  12-19-2009  
+<h2> review.text </h2>
+
+ <p> Another well behaved drive from WD. I congratulate them on their consistent quality. The drive replaces a loud, power sucking POS drive from Seagate. Thanks Dell for sticking me with an inferior product. You deserve your sales plunge.Update 12-Jan-2010: Drive failed after 57 days. I'M SO DONE WITH UNRELIABLE NOTEBOOK HARD DRIVES. FROM NOW ON, IT'S SSDs ONLY.Update 3-Jun-2010: In a way, I'm lucky I bought a failed drive from WD. It motivated me to equip all my notebooks with SSDs. They are all much, much faster than with a HDD. They're quieter, never need defragmenting, and most important of all -- totally reliable. If you're ok with the risk of a disk crash at a worst case moment, if you don't need fast speed, then there's no need to buy an SSD. You don't have to pay more than 2/GB for an SSD. The price is steadily dropping. Do some research. You won't be disappointed. Once you go SSD, you'll never go back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NO MORE POS NOTEBOOK DRIVES FOR ME </p>
+
+
+<h2> review.date </h2>
+  10-29-2009  
+<h2> review.text </h2>
+
+ <p> Bought this to have an extra external drive and I was not disappointed.  Capacity is great and as usual you can't go wrong with WD quality.  I have used their drives for about 20+ years now and have never been disappointed with their quality or customer service.  Most RMA's I have done thru them took less than a week from the time I submitted until I had the replacement drive in hand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great drive, WD quality as usual </p>
+
+
+<h2> review.date </h2>
+  12-09-2009  
+<h2> review.text </h2>
+
+ <p> I ordered this drive (on Special Sale on Cyber Monday) directly from Amazon.  It was purchased in conjunction with a new Patriot Home Box Office unit.  The Patriot stuff arrived in its factory packaging and seemed to survive the UPS gauntlet just fine.  However, the Western Digital hard drive only had a thin bubble wrap covering and was placed inside a larger box together with two inflatable clear plastic air cushions (one of which was totally deflated and the other partially deflated), thus allowing the hard drive to be bounced around within that inner packing box while enduring the UPS gauntlet.  Amazon should be ashamed of itself for packaging a hard drive in such a careless fashion.I haven't yet had an opportunity to fire up the Box Office unit with that 2.5" hard drive installed, but I won't be too surprised if the damn thing doesn't work, considering the deplorable packaging that was employed by Amazon.  It is most interesting that Amazon touts this hard drive as NOT being enclosed in any type of clamshell packaging, supposedly for the convenience of the buyer.  Well, I sure would have liked to have something more than the flimsy, thin plastic bubble pocket protecting my hard drive - I would have gladly endured opening a plastic clamshell enclosure, since it would be better than nothing - which is what I got - virtually nothing to to protect my hard drive!The moral of this story is:  Buyers Beware - the Amazon Shipping folks don't seem to give much of a damn about how they package your hard drive for surviving the UPS gauntlet! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice Drive - Shipping Conditions from Amazon Were HORRIBLE! </p>
+
+
+<h2> review.date </h2>
+  12-07-2009  
+<h2> review.text </h2>
+
+ <p> Was able to pick this up for less than a hundred buck and that is a great deal for this drive.  Using it in the last Macbook Pro late 2008 aluminum style that doesn't have the easy access to the hard drive.  After installing this drive I found it very responsive and quicker than the stock Hitachi 200GB.  (Did partition the drive into 200GB for the main system and another partition for the rest.).  One of the great things other than the responsiveness is it generates less heat in operation than the 7200 spinning Hitachi.Used a youtube by OWC on the iPhone to help make the switch but if you have a unibody notebook, this is a layup.  The drive is quiet, at times it has a soft whoosh that is barely detectable and not a problem.  Considering the internal fan has come on only once, it's a quieter, cooler operation overall. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Huge notebook bang for the buck </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

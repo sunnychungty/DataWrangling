@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B003EV5T3A <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Truly a Classic </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-13-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Who doesn't love Arabian Nights? Aladdin, Ali Baba... I mean, this is classic stuff right here... right up there with Grimm's Fairy Tales. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A timeless masterpiece translated in its entirety by a master scholar </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-24-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was familiar with the Arabian Nights since childhood yet this unabridged, unexpurgated version has a completely different taste. Burton's translation strives to render the music of the original. Whether he fully succeeds, I am not allowed to say-I am no expert in traditional Arabic literature-surely, though, the final results is mesmerizing. The encounters, the loves, the adventures, the poems keep me riveted to my e-reader.I doubt whether I will ever reach the thousandth and first night-life may be too short for that-but the price makes this book an offer one cannot refuse. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> This was a great read </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-04-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> better reading as am adult than as a child.  Some stories were so different tha what I remembeered as a child. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> One night would probably have sufficied </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-29-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> Individual stories are excellent, however reading them one after the other is rather boring since if you have read one, the others are very similar.  Plan to read one a night for several years. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The best that is currently available on Kindle </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> While there are several problems with the annotations and their accessability -- this IS an Unexpurgated BURTON translation!While the Burton translation may seem to be a bit cruder than translations by Lang and Payne, it is much closer to the original. In the 19th century, Burton's translation was considered by many to be very nearly pornographic. Then again, that's what many said about Omar Khayyam.While this does not include the later translations made by Burton ("The Supplemental Nights to the Thousand Nights and a Night"; six volumes published between 1886 and 1888), it does contain the first 16 volumes. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Finally on Kindle </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I have read parts of it online and was eager to purchase the book, so that I would not have to sit in front of a computer. It is now on my kindle and I can read it at leisure. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good book </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-22-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Love the book, kept hearing about it and decided I needed to read it, and I love it.  Thanks !! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Formatting Issues, but original uncensored text. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-24-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Obviously an OCR scan and full of odd typos.Still giving three stars for the using the original uncensored version of Burton's translation, which is not that easy to locate. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> What a story </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-10-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This complete and Unabridged copy of this book was great reading. It is stories of one man and his adventures. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The Thousand Nights and One Night </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Of all the many translations of The Thousand Nights and One Night this is the best. My arabic is non-existent, but I have read and re-read the first French translation (17th cent.) by Galland, and sampled 3 or 4 English versions over the years. None have the vigor and authenticity of Burton. The variety of epochs from which these stories are collected is vast and varied and mirrors at least 3 periods. Always Burton catches the exact time. Because of his mastery of the original texts, his vocabulary is rich, varied and unrepressed. I can easily recommend these thousands of pages as a lifetime of reading joy, providing excitement, variety and a profound and growing insight into the life of a great culture over the first half millenium of its existence. Five stars is not enough! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B009V3A7NW <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  01-11-2014  
+<h2> review.text </h2>
+
+ <p> Has the length if you need it, and worked perfectly on my Samsung ATIV 9 plus...I will update this post is anything changes, but this is a great buy! Nice blue led that is on the power inverter, matching the laptop and all my other electronics. The packaging is also top-notch! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product all the way around </p>
+
+
+<h2> review.date </h2>
+  02-19-2014  
+<h2> review.text </h2>
+
+ <p> I bought this for my Samsung Ativ book 9 plus since I need two power cord. One at home and another one at office. It works just great. No complaint. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great </p>
+
+
+<h2> review.date </h2>
+  06-13-2014  
+<h2> review.text </h2>
+
+ <p> This power adaptor was so much cheaper than the original Samsung charger, but it works just as good.  I have tried another cheap power adaptor from ebay in the past, but it did not last too long.  However, this one was perfect, and the price was good too. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great power adaptor at great price </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> I bought another variety of adapter, only to find that the plug fell out of the socket all too easily.  Miffed, I purchased this one, instead, and have been completely satisfied with it.  It charges well, fits perfectly, and does exactly what it should. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works perfectly, and the plug fits snugly and securely into my Ultrabook </p>
+
+
+<h2> review.date </h2>
+  05-25-2014  
+<h2> review.text </h2>
+
+ <p> Unlike another Samsung-compatible power adapter I've tried, this one seems more solidly built. I like the blue LED (telling me that power is flowing, just like the standard Samsung adapter), and the right-angle pin keeps things flush against the computer. I have not found it to be loose at all.The long cord and overall size make this an unlikely travel adapter, so I simply use the default NP900 power adapter for travel and leave this one home. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice long cord makes it good for at-home use </p>
+
+
+<h2> review.date </h2>
+  03-22-2013  
+<h2> review.text </h2>
+
+ <p> I have a Samsung Series 9 laptop and wanted a couple of more chargers around the house and at work.They work and cost a lot less than the Samsung OEM charger. That's what you want to know, right? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inexpensive and works </p>
+
+
+<h2> review.date </h2>
+  12-16-2013  
+<h2> review.text </h2>
+
+ <p> This cord is sturdy and I can tell will not fray at the adapter and cord connection like my OEM adapter did from Samsung.  The cord is a great length allowing me to get much further from the wall plug that the OEM.  I recommend this replacement adapter for your Samsung laptop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Replacement Cord for my Laptop! </p>
+
+
+<h2> review.date </h2>
+  04-01-2013  
+<h2> review.text </h2>
+
+ <p> I was traveling and forgot my power cord for my Samsung Series 9 Ultrabook. I bought this power cord using Prime and it arrived super fast. It works great and was a fraction on the cost of the non OEM power cords. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Samsung Series 9 Charger </p>
+
+
+<h2> review.date </h2>
+  04-04-2014  
+<h2> review.text </h2>
+
+ <p> I picked up this to use a second adapter at home. I have a small, light computer and having to lug an adapter between work and home was a bit self defeating. I picked up this adapter and it works great. It charges well and has not given me any problems. I do notice that I have to pay attention when I plug it into my computer. If I am lazy and rush I sometimes will not get the plug in all the way. What I notice is that the adapter still powers the computer but it is not in a charging state. Overall I am very happy with this adapter and would buy it again if needed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Great second adapter </p>
+
+
+<h2> review.date </h2>
+  02-02-2013  
+<h2> review.text </h2>
+
+ <p> Bought this on a whim for my Samsung Series 9 notebook (NP900X3D-A01US) even though it wasn't specifically listed as supported. It works like a charm, though!The power brick is actually smaller than it appears in the pictures, quite small but not &#34;flat&#34; like some. The cord is a nice length, a little longer than the Samsung one that came with the machine. I also like that the end that plugs into the computer isn't a 90-degree elbow plug like the OEM Samsung adapter.Overall, works great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Super slim, lengthy cord for a compact adapter </p>
+
+
+<h2> review.date </h2>
+  03-16-2014  
+<h2> review.text </h2>
+
+ <p> It's so good, I like it very much, it's far better than the original one in my opinion.And there is a blue light on the brick. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> a very good replacement </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

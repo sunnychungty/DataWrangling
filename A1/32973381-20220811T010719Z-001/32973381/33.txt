@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B000WLXO9Q <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Right on jacket </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-24-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I liked the item pricing. This jacket/case is just the right need to keepMy earphones/buds with the iPod and tangle free. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> I don't like the material. </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Perfect condition.Easy installationCompact and small.the price is perfect and reasonable for what you get.The quality of material is not as i expected, it's sticky and u can't put in pocket, i don't know , it's know useful </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> what they don't tell you </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-09-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> The description says, "Access to all iPod classic controls and dock connector." Well, that will be true if the only dock connector you use is the USB cord. If you have a device like the Belkin dock, and want to park your iPod to charge, and use the output to feed some other audio component, that's not going to happen. It WILL NOT fit on the dock with the jacket on it. I can see where this would be a good thing to have, if your iPod only goes from your computer to your pocket, but, for me, it's not so hot.After a couple of weeks, I finally just had to give up using this. I found that, with the jacket on, the iPod wheel sometimes just stops working. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> OK but Proprietary Specific </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-25-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> A real nice little case for what it's worth - I cut out (all the time) the circle for the dial, no matter what product it is. Being at the gym or really wherever it's hard to control the volume "on the fly".... But of course, as you probably are wondering, the cool headphone "accommodation" in the back is for the headphones that came with the iPod (that sideways "insertion" type of approach). Which for me "is for the birds" compared to other "shove in" kinds that work way more better... But I wrap it the best way I can, something is better than nothing - but I use the leather case mostly all the time (really a more protective outcome - but no place to put the headphones - as always)... But I'm sure it's great if your into the regular headphone style.... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> mixed useage </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-15-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> With the iPod classic facing extinction in the next few weeks (at least the rumors and sales results indicate it will be) I picked up a 160GB 6th Generation revision 2 (commonly referred to as 7th gen). There are few options for acquiring a protective cases in 2014 for a product first made in 2009 , so I decided to pick up a pair of these DLO cases.The good: fits the iPod well. Offers some protection from scratches on the body (you will need a separate screen protector). Possible protection if dropped. Scroll wheel  works well, peasant aesthetics.The not-so-good: The cord management is made to work with the original headphones , my newer style phones just don't fit or stay in place. Cord management almost doubles the thickness of the case (would be less of an issue if my headphones would fit). Enough protection to keep iPod from getting scratches thru daily use , but probably too thin to protect from being dropped.Not a bad case , just lacking some functionality for my needs. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wonderful </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-27-2010  
+<h2> REVIEW TEXT </h2>
+
+ <p> I don't have this anymore because I got a new ipod, but I loved this case and miss it alot.  It was great to always have my headphones handy, although it does take a minute to wind up and unwind it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very good case </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-05-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a great iPod case.  It fits really well and it covers everything that is important.  I'm not going to use the cord management but it doesn't get in the way. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Awful case </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The wheel has rubber over it that doesn't really transmit touch very well.  Also the headphone holder is a big hunk of rubber attached to the back and is actually heavier than the rest of the case.  It only works with iPhone headphones which are long gone so not very useful either. Tossed it in the garbage and bought another but the pickings are very slim.  Ended up with the griffin convertible leather case which is working out much better. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice, but troublesome </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-10-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> On January 5th, I purchased a DLO Jam Jacket with Cord Management for the 80 GB iPod classic. As the title suggests, this product is designed specifically for the 80 GB iPod Classic, and therefore may not work as expected for other iPods.The quick review: Overall, this case offers a good deal of protection, and the cord management feature, if you use the standard iPod buds, is rather helpful. However, without any screen protection, minor-to-major issues with the wheel, and minor issues with the cord manager, this model may not be a wise choice.This model also offers, on the back of the case, earbud and cord management. Basically, there are two spots to place your earbuds, spacing on all sides to allow the cords to be wrapped around, and another spot to insert the other end of the cord.In practice, this works very well. However, there's no quick way to easily release the cord once it's been wound. On the other hand, this does mean your cords will stay where you've put them. The earbuds, however, are another story. While they'll stay in well the first couple of times, after a while they start to pop out, especially when you pull them out of an inner coat pocket. However, because of the cord management, this isn't that big of an issue.One thing that may not be readily apparent is that this model doesn't offer any screen protection. While I opened the packaging expecting it, I was sorely mistaken. Depending upon your usage of this case, that may be a major problem. However, the iPod Classic is supposed to have a stronger screen ... In my own usage, which includes sitting on a desk most of the time, to an inside coat pocket for travel, I've noticed some level of spotting, but no scratching.Finally, we have the question of whether the case impacts normal usage. Sadly, I've noticed that this case does impact normal usage, sometimes in a very significant way.The top, for plugging in your phones and placing on hold, and the bottom, for charging and connectivity, are left available and free. The front and back are otherwise completely covered, which means no finger prints. However, the wheel is also covered, which is sadly where functionality is impacted.Although I've only slide the case onto the iPod once, the front just isn't tight enough, which means that when attempting to use the wheel, either to move through menus, or changing the volume, the plastic ends up negating my fingers motion. Unfortunately, this has happened enough that I was strongly tempted to rip off the case and just go without.Overall, I'm fairly happy with the DLO Jam Jacket. The fact that there is no covering over the screen, and that the wheel functionality sometimes suffers are in fact fairly major issues. However, the earbud management feature is quite nice, and combined with the improved strength of the iPod Classic screen, this case isn't a total wash.I give this product 3 of 5 stars, since while the purchase wasn't a total wash, I can't honestly recommend this case above all others, and might indeed be happier with another one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Ipod Case </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-28-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This has been a great iPod case! I used it to product my latest iPod! It's been WONDERFUL! My only complaint about it is once the material gets slightly stretched, the tool button is harder to use and requires heat sensitivity. However, overall... great product! I would recommend this to anyone who needs to protect their investment! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> 4 stars, but nice skin </p>
+
+
+<h2> REVIEW DATE </h2>
+  02-05-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> Alright,This cover is great, the good part is the feature for the cable and earphones management and that it has a cover over the wheel. The material looks and feels durable. When you buy it new it limits a little the wheels sensibility but once you use it for a couple of days it will adjust better, now i dont have any problem with that.I did not give 5 stars for one reason, dont get me wrong, i love the skin, but it does not have a screen cover (of course, since through the screen "whole" is where you get the ipod in) but it should have a feature to protect your screen.Anyways, the skin rocks for me, i like it and i feel for the price it is pretty good! I recommend it. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Just what I needed </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> After looking for an ipod cover I came across this one. At first I was very apprehensiveness but very impressed with the product. Its durable and the silicone is not too thick or too thin. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Just as described </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was looking for a solution to my ipod falling out of the stereo cubby.  This was perfect!  I definitely recommend this item. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> DLO Jam Jacket with Cord Management for the iPod classic </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-02-2009  
+<h2> REVIEW TEXT </h2>
+
+ <p> Perfect for my needs...protection for my iPod, soft, nonslip grip, attractiveness, cord management, and a great value! Highly recommended. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great but be careful about the touch sensitivity </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> This case works perfectly. It is a very good protection for my iPod. However, I had to cut out the middle part along the circle line because for me it was really hard to control the sliding movements with my thumb. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Nice case, gets loose over time. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-03-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Loved case at first, but after some time, it gets loose and not so tight-fit anymore. Headphone holding part works well. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Easy and durable </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-01-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really like my new cover for my Ipod Classic.  It was easy to install and  has protected it from bumps and drops while working out!!  Thank you! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> the ANSWER </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-08-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> It looked cool enough. What a great idea! I am always fumbling with the headphones to my iPod when I have to take them off quickly and respond to someone interrupting me listening to a 24 minute Runaway Jim. "I couldn't hear you. I was listening to the most important thing I have ever heard when you came, saw my headphones on but asked a question anyway, knowing you'd force me to take my headphones off and you would have to repeat that question." And then I am involved in whatever this interloper has me doing, standing around with a thin cord and little earbuds of joy tangled in one hand. What am I supposed to do with this headphone cord?!? Wrap it around my hand and then loop the last bit of cord around the larger loop, tucking the end into a loose knot? NO! NO! NO! I will not do that. I refuse! I need a product to wrap the cord and keep it within 17 millimeters of my MP3 player.And I found this!And it works!It does exactly what they say! You have to start at the right point, but you can wrap the cord and perfectly fit the earbuds right in the rubber slots of the case! It's the ANSWER.Then...The interloper returns. I try to read his lips this time over a full cranked version of "Halleys Comet" form fall '97. I can't. So I angrily yank the cord from my waist so the earbuds POP out of my head simultaneously and disappear to my lap. Little does this jerk know I am diligently, blindly wrapping my headphones cord in a meticulous manner under the table, silently fitting plastic to rubber as the buds slip like fingers to glove on the back of the case. This guy asking about "Emergency evacuation plan" this and "Hazmat regulations" that has no idea that I have a perfectly wrapped iPod headphone cable, attached to it's mothers case like a baby kangaroo in her pouch. No clue.Don't be fooled by these wooks with their flashy colors and weird iPod cases and accessories, trying to sell xerox copies of actual ticket printouts. Get away from that trash right away. Get this thing and you're VIP, backstage and hanging on the bus. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Ipod skin </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-07-2008  
+<h2> REVIEW TEXT </h2>
+
+ <p> You barely know it's there, great product. I really like how the headphones attach to the back, that keeps them out of the way. The case is not hard- so if you drop your Ipod, it doesn't offer much protection. Overall, it's a great product! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Cool, but doubles the thickness. </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-26-2007  
+<h2> REVIEW TEXT </h2>
+
+ <p> The cover for the wheel is cool--something that other protectors I have tried didn't have.  The grip material on the side is nice, it really helps you keep from dropping your iPod.Unfortunately the one downside to this product is that it doubles the thickness of your iPod.The cover I received DOES NOT have the giant white dot displayed in the center of the click wheel, like in the product picture--which is a good thing! I think it looks better without it. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

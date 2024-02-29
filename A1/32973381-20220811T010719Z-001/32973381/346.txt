@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1596382171 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-12-2014  
+<h2> review.text </h2>
+
+ <p> Before I started reading this book I had never heard of John Frame nor had I delved very deeply into Reform Theology.  Frankly when I noticed that the book had 1275 pages I thought &#8220;Good grief, 1275 pages of dull, boring, reading.&#8221; I wondered if I should put it farther back in my &#8220;to-be-reviewed&#8221; list and take some of the shorter ones first.  However, after reading a few pages, I knew I had to read this book now, not later.The author has an easy style of writing and a way of making complicated theological concepts simple enough for anyone to understand.  You might expect a really good novel or adventure story to draw you in after just a few pages &#8211; but a systematic theology?  Well, it did and the pages just flew by.I want to quote some of the author&#8217;s introductory remarks so you can see where he is coming from and what his basic purpose is for writing this systematic theology.&#8220;In Christianity the study of God is a study of God&#8217;s revelation of himself.  Theology must be essentially a study of Scripture.  It should not be defined as an analysis of human religions. consciousness, or feelings.  The theologian states the facts and truths of Scripture for the purpose of edification.  Those truths are stated NOT for their own sake, but to build up people in Christian faith.  In this way, we align the concept of theology with the concepts of teaching and preaching in the New Testament.  To apply Scripture is to use Scripture to meet a human need, to answer a human question, or to make a human decision.  Questions about the test of Scripture, translations, interpretation, ethics, Christian growth &#8211; all these are fair game for theology.  To show (by word or deed) how Scripture resolves all these kinds of questions is to apply it.  So I offer my definition of theology:  theology is the application of Scripture, by persons, to every area of life.  Why, then, do we need theology in addition to Scripture?  The only answer, I believe, is because we need to apply Scripture to life.&#8221;&#8220;I think that theology today has become preoccupied with auxiliary secular disciplines (psychology, sociology, politics, economics, philosophy, literary criticism, and the natural sciences) to the extent of neglecting its primary responsibility:  to apply Scripture itself.  Theological literature today is focused, especially, on history of doctrine and contemporary thought.  Often this literature deals with theological questions by comparing various thinkers from the past and from the present, with a very minimal interaction with Scripture itself.  I cannot help but mention my conviction that this problem is partly the result of our present system for training theologians.  To quality for college or seminary positions, a theologian must earn a Ph.D., ideally from a prestigious liberal university.  But at such schools, there is no training in the kind of systematic theology that I describe here.  Liberal university theologians do not view Scripture as God&#8217;s Word, and so they cannot encourage theology as I have defined it, the application of God&#8217;s infallible Word.  For them, one cannot be a respectable scholar unless he thinks autonomously, that is, rejecting the supreme authority of Scripture.&#8221;I agree with every thing quoted above.  If fact, I agree with most of the book.  However, there are two areas where I totally disagree with the author.  The first area is predestination.  Predestination is a belief that of all the humans who have ever existed, only the &#8220;elect&#8221; will be saved.  The elect is group of people who were chosen before the creation of the world to be saved.  All others will be lost and suffer eternal punishment.  The author gives what he considers Scriptural support for the belief, but I am not convinced.  I think the Bible, in its entirety supports the fact that salvation is offered to all with each having the free will to choose.The other disagreement I have is with his view of the end times.  He believes the amillennial position and I believe the premillennial position.  The author states &#8220;the amillennial position believes that the millennium is right now, the whole period from Jesus&#8217; ascension to his return.  It emphasizes that the resurrection and ascension of Jesus ushered in a new era of world history.  Jesus has now achieved a great victory over Satan, sin, and death and although we don&#8217;t see all the effects of that victory now, it is certainly real.  It is, perhaps, hard for us to imagine that right now Satan is &#8220;bound&#8221; (Rev. 20:2), sealed in a bottomless pit, but it certainly is the case that his power is weakened.&#8221;  In my personal view, Satan is not weakened, if anything he is stronger and more active than ever.  The premillennial position, which I believe, says that Christ comes back before the millennium.Except for these two positions, I do recommend this book.  John Frame believes in a literal interpretation of Scripture and he believes that Scripture should be applied to our lives, as Jesus intended.  If you are looking for a systematic theology that is presented from the Reform viewpoint, this is one you will want to add to your library.I was provided a free copy of this book for review from P & R Publishing.  I was under no obligation to provide a favorable review. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good </p>
+
+
+<h2> review.date </h2>
+  11-18-2013  
+<h2> review.text </h2>
+
+ <p> This is a phenomenally clear and easy-to-read systematic theology.Frame's definition of theology is as follows:Theology is the -application of Scripture, -by persons -to every area of life.This definition frames the work (no pun intended) that follows this beginning definition as the author focused intensely on the Bible, how the various teachings of the Bible apply to people, and how those areas of study reverberate across the full spectrum of human activity.I added the &#34;-&#34; dashes in his definition, but I did so quite deliberately, for you must understand that this book is very, very focused on triads. To those of you who are considering this book and are unfamiliar with Frame, know that the &#34;triperspective&#34; that he reveals in this definition of Theology will show up in every area of his system to follow. Everything comes in threes, and there is a triangle of some sort on almost every page. Most of the time these threes are incredibly helpful, but sometimes they seem like a stretch to make a biblical doctrine fit into a tripartite division.(Point is, you will either appreciate or hate the triangles. I welcomed them as they were very helpful for clarity and remembrance.)From this definition of theology comes a &#34;frame&#34;work (pun intended that time) built on the basic idea of &#34;The Lord.&#34; Everything that follows the first three chapters is built on the notion that God is the Lord and that his followers are part of his Kingdom. This is an explicit rejection of any kind of feminist, liberationist, or liberal theology. Frame is reformed through and through. That being said, he strives to root his arguments in Scripture and avoid historical spats. His purpose is the edification of the Church, not winning theology points.The book is very well organized, moving through epistemology and ontology into theology proper and then into the person and work of the trinity. He ends with a chapter on Ethics (which he calls the Doctrine of the Christian Life) which is shorter than I would have liked to see, but his full Doctrine of the Christian Life (and by full, I mean full) more than makes up for the brevity of that last chapter.Every chapter has questions for group or classroom discussion along with memory verses and further reading. The end of the book has a great line up of all of Frame's triangles (over a hundred in the book) as well as a good glossary and helpful indices.One minor quibble, not worth knocking off a star: you will pay for 20 pages of quotes from Christian authors about how awesome this book is, pages that you will surely skip at the beginning of the book. I cannot understand why these are included. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Systematic Theology that is easy to read and reference </p>
+
+
+<h2> review.date </h2>
+  12-10-2013  
+<h2> review.text </h2>
+
+ <p> Though Dr. Frame has published prolifically throughout his professional career, &#8220;Systematic Theology: An Introduction to Christian Belief&#8221; is his long anticipated single volume systematic theology. His work is notable for being grounded in Reformed orthodoxy while open to fresh reflection upon  key doctrinal formulations and judicious restatement when necessary. Previous reviewers, like DeYoung, have favorably noted Frame&#8217;s clarity, his diligence in unfolding the doctrine of the knowledge of God and the word of God. Due to space considerations, this review will focus on Dr. Frame&#8217;s latest thoughts on key &#8220;flashpoints&#8221; within modern &#8220;conservative&#8221; American Reformed and evangelical circles. These issues include the interpretation of the Genesis account of creation in light of the current science, the endemic issue of the relation between justification and obedience lately rekindled by the &#8220;New Perspective on Paul&#8221; and Norman Shepherd, and theodicy.These controversial issues defy easy resolution; simple &#8220;verse cataloging&#8221; no longer passes for &#8220;systematic theology&#8221;.  Perhaps now more than ever, the systematic theologian must deal with issues of philosophy, hermeneutics, and biblical theology, the study of how theological themes unfold in scripture itself. The call for organizing vast fields of knowledge should create more demand for systematic theology. The opposite, however, has occurred to date, and that shortfall has not gone unnoticed.One endorsement for the book hopes Frame&#8217;s efforts can reverse the trend of &#8220;biblical theology&#8221; having greater prestige than &#8220;systematic theology&#8221; at Reformed seminaries. Oddly enough, the &#8220;imbalance&#8221; deplored has largely transpired thanks to Reformed biblical theologians starting with Geerhardus Vos whose insights into the text made the work of earlier systematicians seem somewhat oblivious to theological concerns of scripture itself. Recognizing the problem, Frame appropriately spends a significant time discussing the &#8220;contexts&#8221; for interpretation and unfolding three key themes from &#8220;biblical theology&#8221;: covenant, kingdom, and family of God. His goal is to lay a foundation for quoting scripture in context rather without the &#8220;proof texting&#8221; that mocks the text of scripture while asserting it for one&#8217;s own ends.On issue of creation and Adam&#8217;s historicity, Frame is a young earth creationist. His theology allows for a covenantal view of Adam&#8217;s historicity in the event exegetical and scientific evidence call for it. He does not work out how such a covenantal/old earth view, though, redefines the implications of death and entropy which would necessarily exist in that scenario - at least in animal life - except for a footnote on page 855.On the issue of the &#8220;New Perspective of Paul and Norman Shepherd&#8221;, Dr. Frame is responding of necessity to heated controversies that threaten to tear his and other Reformed denominations apart. Unfortunately, the discussion in the former case is marred by a failure to quote actual sources and give the topic adequate coverage. In the latter case Frame defends the &#8220;imputation of Adam&#8217;s righteousness&#8221; in a way that N.T. Wright might use, were he forced to accommodate such language. In both cases, Frame does not take the strident view which would excommunicate both Wright and Shepherd; that may occasion some unhappiness among his constituencies.Famous for his &#8220;triperspectival&#8221; approaches, regarding the issue of theodicy, Frame concludes that &#8220;human beings have no right to bring accusations against God&#8221; (normative), &#8220;God will always bring good out of evil&#8221; (situational), and &#8220;God will comfort us so that our hearts are fully assured of the justness and rightness of His actions&#8221; (existential) (p.301).John Frame&#8217;s &#8220;Systematic Theology: An Introduction To Christian Belief&#8221; has much to commend it for the pastor and seminarian.  Its contributions, while always valuable as a summary of current issues can, as noted above, be less precise than one might wish. Some of that is to be expected from a general and introductory text. Dr. Frame is to be commended for the extensive work required to produce this volume, and his willingness to deal honestly with divisive, hot button issues in addition to the standard categories of systematic theology.Disclaimer: This book was received as a free review copy without the obligation of a positive review or for other compensation.This is an abstract of a larger review to be published by Chuck Colson's worldviewchurchdotorg website. Reprinted to accommodate the publisher. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Modern Reformed Statement of Theology reviewing key topics... </p>
+
+
+<h2> review.date </h2>
+  03-09-2014  
+<h2> review.text </h2>
+
+ <p> The contents of the book are excellent. I would have given it a five star except for the physical bulk of the book. For content it gets five stars but I find the book so large it is not totally user friendly simply because of its size. For scholars who have big desks it is not an issue but to have it in your lap, you know it is there. I hope this doesn't sound like I'm majoring in the minors!  Mr. Frame (he mentions he does not have an earned doctorate- which I was not aware  of) writes with conviction, clarity and is totally Biblical. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Frame's best </p>
+
+
+<h2> review.date </h2>
+  01-16-2014  
+<h2> review.text </h2>
+
+ <p> John Frame has been one of my favorite theologians and Christian writers for some time.  His teaching and writing is consistently solid without being unnecessarily heavy.  His books on worship and the doctrine of God are classics and should be read by any serous student of Scripture.  When I saw that frame was writing a systematic theology I was eager to read it.  He does not disappoint.  This is a well written resource that covers all the areas contained in the study of systematic theology well and thoroughly.  A resource for all serious students and followers of God. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Reffreshing </p>
+
+
+<h2> review.date </h2>
+  05-20-2014  
+<h2> review.text </h2>
+
+ <p> I love the work of John Frame.  He is not afraid to say, &#34;I don't know, but in the same breath he makes you realize that we don't need to know all things, because the Lord we worship is in control, with authority, and is present and is working all things together for good for those who love Him and are called according to His purpose.I have tremendous regard for Dr. Douglas Kelly, and his comments are far more valuable than anything this 67 year old layman can contribute so I defer to these words:&#8220;This Systematic Theology is by any measure a crowning achievement in a fruitfultheological career of teaching, preaching, and writing by Professor John Frame. Itis the outpouring of many jars of fragrant and well-aged &#8216;wine on the lees&#8217;: the richvintage that has been matured in a bright Christian mind that has been immersed inmeditation on (and obedience to) the Word of God in the fellowship of the Reformedchurch for more than threescore years and ten.&#8220;Like Frame&#8217;s other works that I have read, this book is written with enthusiasticfaith in God and in the Scriptures that the Holy Spirit inspired, and in fellowship withthe risen Christ. It is written clearly; Frame is never ashamed of his position (traditionalCalvinism), and is humble enough to say about some difficulties, &#8216;I do not know.&#8217; Hiswriting exhibits humility and unwavering submission before both the clear truths andthe mysteries of God. He is always charitable toward those whose position he thinksis wrong and presents it fairly, and yet he does take a stand, which he knows will notsuit everyone. You might not agree with all that he says, but at least you will graspprecisely what he is saying.&#8220;Someone described C. S. Lewis as &#8216;A Mind Awake,&#8217; and that is how I see John Frame.This volume shows how alert he is to moral, philosophical, and societal issues raisedby Christian truth claims over the last three centuries in a secular culture.&#8220;One of the great contributions of Frame&#8217;s theology is that it shows the inescapablenecessity of starting with&#8212;and remaining with&#8212;the presupposition of the truth ofHoly Scripture, for theology and for everything else that we wish to make sense of.Along this line, not only in this book but in others that he has written, I have found veryhelpful his explanation of why a certain circularity of reasoning is always necessarywhen arguing for any ultimate authority (e.g., whether Holy Scripture, human reason,empiricism, or, perhaps, evolutionism). Rationalists have long accused Christians ofcircular reasoning (as concerns the Bible), but what they do not tell you is that they, too,must use the assumption of a final authority themselves, in order to prove their point.&#8220;Frame&#8217;s section on the providence of God is one of the most beautiful that I haveever read. At times I was less than comfortable with his account of the rather directrelationship of God to evil, yet I am not sure that I could treat the subject any better,if as well. But I must keep thinking about it. His discussion of how God brings aboutfree decisions of humans&#8212;which both avoids short-circuiting our responsibility andavoids the false theory of libertarian free will (i.e., that our will is free from the controlof our fallen personality, and is ultimately free from the control of the SovereignGod)&#8212;is one of the best I have seen.&#8220;In sum, Frame&#8217;s Systematic Theology cogently and succinctly presents the mostcrucial thought and practice of the long Christian tradition (especially in its Reformedbranch, which has been concerned above all to be faithful to the entirety of HolyScripture), in terms that can be understood in this twenty-first century, where weare called to live. Frame&#8217;s English is lucid; his learning is great, but he does notoverwhelm you with it. His doctrine is in accordance with the Westminster traditionof the seventeenth century (and behind that, Calvin of the sixteenth century,and Augustine of the fifth), always looking at these Augustinian traditions in lightof God&#8217;s written Word (and under it), and he helps the reader to deal with the problemsof speaking and living out that tradition in an aggressively secular age. Thisvolume is eminently suitable for a seminary or college textbook. It will also giveinspiration to many a preacher (as it has to this one!). I perceive that it was writtenin an atmosphere of quiet joy, and I will be surprised if it does not convey somethingof that joy to those who read it.&#8221;&#8212; Douglas F. Kelly, Richard Jordan Professor of Theology, Reformed TheologicalSeminary, Charlotte </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Theology and Doxology rolled into one </p>
+
+
+<h2> review.date </h2>
+  04-19-2014  
+<h2> review.text </h2>
+
+ <p> I felt challenged in my heart to wrestle with theological questions and reading this book gives me small ideas that I like to explore in my mind. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great rea </p>
+
+
+<h2> review.date </h2>
+  01-31-2014  
+<h2> review.text </h2>
+
+ <p> This giant size volume is just out and has all the serious student needs as well as the instructor who needs to keep his material up to date.  Wonderful price and wonderful volume in a rather different reading style.  GMM </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Another great bargain on a brand new publication! </p>
+
+
+<h2> review.date </h2>
+  11-18-2013  
+<h2> review.text </h2>
+
+ <p> Frame's ST is a cleansing breath of fresh theological air! I've shared this with John before, but I'm always impressed at how much better he gets at streamlining and sharpening his theological ideas to a fine point each time he repeats them. This struck me when DCL was first released. In the opening chapters of the book there's a decent amount of review of concepts from DKG (written in the mid 1980s) but they were clearer and as a result more cogent and powerfully presented. Well, in ST Frame has done it again! I'm also glad that there are so many more visuals in ST. As both a former student and TA of John's I can testify to the great help that comes from charts and visual summaries. As Frame himself would have us recognize, each ST comes from its own perspective. Sometimes these perspectives can hide truths that ought to be seen, but many times they enable the theologian to shed light on the truth they're writing about. Frame's theological acumen, philosophical subtly, and apologetic concerns allow his ST to see things that others miss.If you can only pick up  a single systematic theology and are looking for clarity, cogency, and profundity this is the book for you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Frame's most polished work yet </p>
+
+
+<h2> review.date </h2>
+  11-12-2013  
+<h2> review.text </h2>
+
+ <p> Those familiar with John Frame will find a lot of stuff that they're already used to in this volume. Frame's triperspectivalism is front and center as is his emphasis on God's lordship, with a focus on the so-called lordship attributes of authority, control, and presence (see chapter 1). Frame is one of those authors who has a knack for writing simply without being simplistic.The introductory chapter asks exactly what theology is and then takes the reader through some descriptions of various theologians' approaches to theology while offering some foundational definitions of the various forms of theology (e.g., historical, exegetical, systematic, biblical, practical). Frame unashamedly situates himself within the Reformed stream of Christianity and his treatments of the various topics are in line with the standards of his tradition without being slavishly bound to them.Each chapter (I would assume) is concluded with a number of didactic helps such as  a "Key Terms" list; a number of "Study Questions;" a list of "Memory Verses;" and a list of recommended "Resources for Further Study." Such a format makes this volume good for both home study and classroom use. Having only been able to see a sampling of this volume I can't comment on its overall usefulness or quality, but I can say that I'm confident it will be quite helpful to theological students.Standing at the heart of Frame's work is a reverence for the Scriptures and a desire to see people submit to God's lordship through a competent reading of his word. I can't say whether or not this is the most biblically focused systematic theology on file but I wouldn't be surprised if it was in the running. So I look forward to being able to utilize and review the entire volume in due time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Classic Frame </p>
+
+
+<h2> review.date </h2>
+  04-01-2014  
+<h2> review.text </h2>
+
+ <p> UPDATE 4/25/14: I noticed several don't find the following review helpful. I don't quite understand that. Oh well, maybe that would change if I had over 20 pages worth of endorsements preceding my own comments :)Update 6/2/14: Dr. Paul Helm offers some similar criticisms I provide below in relation to notions like God having two "modes". His discussion centers on K. Scott Oliphint (but notes the similarity of Oliphint's views with Frame's): http://paulhelmsdeep(DOT)blogspot(DOT)com/2014/06/what-motivates-oliphints-proposals.html?_sm_au_=iVVV055QMnsD73qQOne thing I've noticed about online reviews of this book is that folks seem to love or hate Frame's Systematic. Apparently it's either perfection or from the pit of hell. Hopefully this review will offer a balanced look at this very good intro to the Christian faith.For many, Frame's ST will be easy to understand most of the time. It's full of Scriptural references - to Frame's credit (and who would expect otherwise?). It rarely gets bogged down in multiple "conversations" with arcane evaluations of minutia. For these reasons, it really is a good introduction to Christian faith.To my mind, this book suffers from the fact it serves as a collection of Frame's previous works - nothing against those works, but it makes for odd discussions at points in the book. Because Frame has written in response to contemporary problems, there is considerable discussion with those and little to history. I did not expect a historical theology, but it would be difficult for the new student to determine if he's reading a landscape view or a flattened view of subjects. Having said that, Frame does a fantastic job introducing difficult topics in easier to swallow ways. This stems especially from Frame's focus on Lordship and establishes this from creation so that predestination is a forgone conclusion. Frame spends considerable time with application or at least raises topics in such a way that application will be a natural outflow for the student looking to apply his knowledge.Because Frame has dedicated time to various controversies, there's considerable space given to things that may not warrant as much space as he dedicates. For example: Open Theism. This was a flash in the pan between 10-15 years ago. For an introduction to Christian faith, this seems like a strange discussion to carry on with along with the notion of middle knowledge and more. Of course, the problem is that collecting works written in response to different controversies inevitably mars cohesiveness. Frame overcomes some of this by the way he's organized the material - so there's a helpful logic to the arrangement of the material at least.Additionally, Frame makes a number of assertions throughout the work that are unwarrantedly weird, such as God having two "modes" of existence: eternal and temporal. He confesses this sounds like process theism, but dismisses that without discussion. First, this is an intro to the Christian faith...why make an assertion like this? Further, on it's face it's just plain ridiculous. God has two modes of existence? That means two essences. What of the Trinity, and when we speak of the incarnation, which nature of the Person of the Son is united to the human nature? How does the eternal mode interact with the temporal?  Is the temporal aware of the eternal? Does it contain the eternal? How many divine consciousnesses are there?Frame goes on to say that God's temporal omnipresence allows Him perspectives from every vantage point - including our own. Does God "share" our perspective? Perspectives are informed by disposition. One doesn't see from another's vantage point simply by trading locations. If God were to share our perspectives, this would confuse God with man...not just man...everything. This would arguably go further than process theism into pantheism.Further, our dispositions are tarnished by sin, so God cannot "share" our perspective, though He certainly has knowledge of it, indeed, He understands us better than we do. One can appreciate what Frame is trying to do - acknowledge God's nearness to us, and that He's not "trapped" in the eternal unable to penetrate the temporal. Unfortunately, Frame functions from the principle he was out to oppose. If the created order is not closed on God's end, then why would He need a "temporal mode"? The implication, clearly, would be the eternal cannot interact with the temporal! Oh the irony. Even more ironic, Scripture references are lacking when he makes these assertions. One would expect Frame to ante up with Scripture, or at least engage what previous Fathers have said...maybe Calvin, Owen, or someone...In many places, Frame makes mention of God being "absolute Person", echoing Cornelius Van Til...and one can see Van Til's influence throughout, though Frame does a far, far better job incorporating Scripture than Van Til and makes positive contributions to theology; however, this leads to a number of contrivances and idiosyncrasies. I see no value introducing the Christian faith with references like these. This is arcane, even in Reformedom.Frame is conversational, and many will be able to easily follow him most of the time. This is a great strength, along with how he couches and arranges the material. Even though he's conversational, some of the arcane items he raises will simply confuse the new student or open a lot of cans of unsatisfying worms for a student with a broader grasp of issues. If a pastoral systematic was the intention, Frame largely delivers, but I would caution the student who is in need of such pastoral help to be careful while going through certain chapters. I would caution against breaking God down according to attributes as this tends to muddy Who we're trying to understand; and discussion of attributes tends, in this work, toward the creation of additional attributes - perhaps one of the more troubling was speaking of God's tripersonality as an attribute...which was strange because Frame had spent some time nuancing divine simplicity so as to hold to a more biblically-accurate notion while avoiding the weaknesses...one weakness is that divine simplicity, if taken as "strong" simplicity, equates God with His attributes making each Person identical. This reduces God to a monad...so Frame, in saying tripersonality is an attribute, takes on the very weakness we do well to avoid. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very helpful at times... </p>
+
+
+<h2> review.date </h2>
+  12-12-2013  
+<h2> review.text </h2>
+
+ <p> If you're looking for a contemporary confessional Reformed systematic theology book then don't look further. John Frame has written a masterpiece that sets forth a systematic theology through the historic Reformed perspective. This is probably Frame's most significant work of all his writings.There are many beneficial aspects to this monumental work. First, Frame writes in a way that the average lay Christian can understand what he is saying. Unlike some systematic theology works, Frame does not try to write in a way that will confuse the reader. He is straightforward and clear in his presentation without being amateurish. Also, in the early parts of this work, Frame defends a modest Van Tillian approach to prolegomena without using the complicated language used by Van Til. One will find Van Til's presuppositionalism defended with much more clarity and ease.Second, the work is structured using the standard systematic theology structure found in works of previous theologians. Frame starts off with prolegomena and ends with eschatology. Unlike Michael Bird's systematic theology where he inserts the chapter on eschatology in the middle of his work, Frame, rightly I believe, puts eschatology at the end of his work.Third, the work is biblical through and through. Frame relies heavily on Scripture and does not come up with ideas at the top of his head. One of the essential ingredients in any systematic theology is a thorough interaction with the Scriptural text. Any systematic theology that does not appeal to Scripture regularly is a failure, in my opinion. Many modern theologies fail in the fact that they do not interact with Scripture consistently but rely on new ideas to develop a particular doctrine.Fourth, even though Frame's work is a systematic theology that sets forth purposefully the conservative Reformed position, he does interact with alternate positions (and gives reasons why they are unbiblical or incorrect). However, this is still more of a dogmatic systematic theology work (similar to Wayne Grudem's or Robert Reymond's) rather than a comprehensive or historical systematic theology work that gives lots of discussion for various positions (like Erickson's or Alister McGrath's).Fifth, this book is highly practical and pastoral. This is not a technical systematic theology that only wants to inculcate sterile theological knowledge to the readers but a work that can profoundly affect the way Christians live out their faith. One of the strengths of Frame's works is that he always tries to let his readers know that theology is supposed to be very practical at its core. He does not shy away from that perspective in this work.Lastly, I was really glad that Frame interacted with the views of justification set forth by the New Perspective (NPP) and Norman Shepherd. Although I respectfully disagree with Frame's assessment that Shepherd's view is not necessarily outside the boundaries of classic Reformed theology (pp. 974-975), I was relieved to know that Frame takes serious issue with the way NPP scholars (like Stendahl, Sanders, Dunn, and Wright) interpret Paul, the law, and justification (pp. 972-974). He correctly states that justification in Scripture never means "being a member of a covenant community" (as Wright puts it). He reaffirms the historic Protestant position that justification always means being declared righteous before God based on what Christ did on behalf of the elect by his perfect obedience and sacrifice (which the elect receive through faith alone [Rom 4:4-5; Eph 2:8-9]). He rightly rejects the modern but popular view that Paul's problem with the Judaizers had mostly to do with Jewish exclusivism. He nicely refutes the heresy of the NPP position when he states: "For Paul, justification is not a person's covenant membership. It is God's declaration that the person is righteous for the sake of Jesus Christ. Therefore, it is God's imputation to us of Christ's righteousness" (p. 974).  Those ignorant "Christians" and pastors who believe that the NPP is compatible with Reformed or Protestant orthodoxy should read Frame's chapter on justification.Overall, I highly recommend this book. It is a masterpiece and fully attests to Frame's sharpness of mind and clarity of thought. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Reformed Masterpiece </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

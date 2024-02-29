@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B0051CAE1C <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-08-2014  
+<h2> review.text </h2>
+
+ <p> Works like a champ. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Every toolbox needs one of these. </p>
+
+
+<h2> review.date </h2>
+  12-13-2012  
+<h2> review.text </h2>
+
+ <p> Dont buy it. Get the blue lemur one instead cost a decent bit more but works 100 times better. BOOM </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Spotty connection </p>
+
+
+<h2> review.date </h2>
+  07-22-2011  
+<h2> review.text </h2>
+
+ <p> Had to order this to replace a friend's device that I borrowed and lost.  Ordered my first one off Ebay and it was a dud.  Ordered this one, paid less, and it worked right out of the box (actually a zip lock bag).  Used it in conjunction with Torque on my Tablet. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works great. </p>
+
+
+<h2> review.date </h2>
+  04-08-2013  
+<h2> review.text </h2>
+
+ <p> I wasnt able to get it set up for myself or my father to work consistently.  I am sticking with a solid connection to usb </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It ok </p>
+
+
+<h2> review.date </h2>
+  02-22-2013  
+<h2> review.text </h2>
+
+ <p> Works great with my Nexus 7 and Torque Pro app.  Using it in my 2010 Chevy HHR, reads all the info I need, and runs well with the Torque Pro app for Android.  Bluetooth PIN number is 1234 </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Using it with Torque Pro App </p>
+
+
+<h2> review.date </h2>
+  06-03-2014  
+<h2> review.text </h2>
+
+ <p> This works great with the Android Torque App on my Nexus 4 phone.  Haven't had any problems with it at all. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works just fine </p>
+
+
+<h2> review.date </h2>
+  07-03-2014  
+<h2> review.text </h2>
+
+ <p> Works great,fast shipping... So far this ob2 has worked as stated! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ob2 with extension cord is fast. </p>
+
+
+<h2> review.date </h2>
+  06-28-2014  
+<h2> review.text </h2>
+
+ <p> Its a little slow on the Blue Tooth connection. I have a car computer code reader, but its a basic one. The ELM327 will give more detailed info on finding out what is wrong with your vehicle then the basic hand held code reader and pin point the problem a lot better. I only used it one time and that's all it took to fix my vehicle. Next time I get a code I'll use this again, I cant wait... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ELM327 Works Good </p>
+
+
+<h2> review.date </h2>
+  11-14-2013  
+<h2> review.text </h2>
+
+ <p> This ELM 327 specification device works as expected with Torque Pro, and I'm sure other equivalent engine monitoring software. It's biggest drawback is that it doesn't power down so it should be removed whenever the vehicle is off for extended periods so as not to drain the battery.  The only one I know that does power off and is much faster costs ten times as much. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> ELM 327 Bluetooth Scanner </p>
+
+
+<h2> review.date </h2>
+  08-20-2012  
+<h2> review.text </h2>
+
+ <p> ELM327 Bluetooth OBDII OBD2 Diagnostic Scanner Can ELM 327 Scantool Check Engine Light Car Code ReaderThere are a number of units described as "ELM327" differing in labeling and price with widely varying revues. I ordered the one pictured here because the revues said it worked on Fords. I am pleased to report that it worked flawlessly on my '05 Mustang. It paired quickly with Torque on my HTC Incredible and both the scanner and software performed ran without issue. I would recommend  this version of the scanner without reservation. I give the Torque software 5 stars as well but will give a heads up.... be sure you have a fully charged battery or are on the car charger it eats battery charge. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This one works on Fords </p>
+
+
+<h2> review.date </h2>
+  01-03-2013  
+<h2> review.text </h2>
+
+ <p> It connects to my 2000 GMC Yukon and interfaces perfectly. I am using it with a Galaxy Nexus and the Torque app. (the app isn't great). I was able to check and clear codes on the fly and to monitor issues as they occur. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Everything I needed. </p>
+
+
+<h2> review.date </h2>
+  12-26-2012  
+<h2> review.text </h2>
+
+ <p> Works well especially for the price.  Used with both my Motorola Droid Razr and my Xoom.  Could not tell me why an ABS sensor light was on but did read other sensors such as O2 sensor and they could also be reset.  But can't beat it for the price.  I use it with the pro version of Torque. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good tool but cannot report on all sensors </p>
+
+
+<h2> review.date </h2>
+  11-29-2013  
+<h2> review.text </h2>
+
+ <p> Use in tandem with torque on your phone this is amazing and a huge help when a check engine light comes on. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> saved me a bundle on diag costs </p>
+
+
+<h2> review.date </h2>
+  03-26-2013  
+<h2> review.text </h2>
+
+ <p> It's pretty finicky about pairing Bluetooth.Hit or miss really.Also, when removed from the OBDII port, I would have to repair.My friend bought the $12 version that was half the cost of this one and he does not have to re-pair.Seems to work okay, however does not seem to update as often as I would like. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works, but finicky. </p>
+
+
+<h2> review.date </h2>
+  06-30-2014  
+<h2> review.text </h2>
+
+ <p> Use it often, free software avail for Android (I use Torque). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Five Stars </p>
+
+
+<h2> review.date </h2>
+  08-11-2012  
+<h2> review.text </h2>
+
+ <p> Recently, I've been getting a flashing airbag light on the instrument cluster and called up the dealer for some help. They weren't any help at all for my 2012 Mazda5 GT as I was basically asking them to decipher the flashing sequence. I was skeptical as to whether this rather inexpensive OBD-II reader would do the job but figured it would not be such big deal trying to find the code my self. I received the unit in about a week and then downloaded the full version of Torque app for my Android phone as the free version did not have the full capability.When I read the code, it came back as B1994, which was Driver's Side Airbag Circuit have High Resistance. So I checked underneath the driver's seat and sure enough, the black/red cable was chewed up by my new dog. I resoldered the connection and reset the code and problem went away. I feel like a dealer technician now and just save time, and who know, maybe over a hundred dollars in diagnostics fee. Maybe they could even have told me that it was the computer and replace the wire and tell me that it was for something that wasn't under warranty.This is rather inexpensive automotive tool that can! Thank you! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> In a hurry, this is like having a dealer in your pocket! </p>
+
+
+<h2> review.date </h2>
+  12-12-2012  
+<h2> review.text </h2>
+
+ <p> I was nervous that it wouldn't work because of some of the reviews. I purchased this to use with Torque Pro for Android and it connected right away and worked fine. Doesn't pull a lot of data but that could be a limitation with my car.Phone: HTC EVO 4G LTEROM: CyanogenMod 10 (Android 4.1.2) - Had connection troubles so I had to flash back to stockROM: Stock Sense 4.1 (Android 4.0.4) - Connected right away and worked flawlessly with Torque Pro. The application/adapter work together fluidly and without any lag or delay. I was very impressed. I felt like I was looking at the dashboard whenever I peaked over at the display of my phone!Car: 2000 Oldsmobile Alero 2.4L </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It actually works with Torque Pro for Android... </p>
+
+
+<h2> review.date </h2>
+  01-20-2013  
+<h2> review.text </h2>
+
+ <p> It has worked flawlessly in connecting to my SCION XB 2008 to my Nexus 7 tablet with the Torque App. I mainly bought this item to read and erase DTCs from some of the cars I was working on. It also gave other common data readings like RPMs, speed and coolant temps. It however doesn't read more sensitive electrical sensors like ignition systems nor can you can control or shut off spark plugs.I do wish the LED indicator lights were brighter and facing outward toward the vehicle it makes it hard to tell if I plugged it in properly sometimes and to read the status of the connector. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Need bigger brighter LED indicator lights... </p>
+
+
+<h2> review.date </h2>
+  11-20-2013  
+<h2> review.text </h2>
+
+ <p> Overall, this unit works quite well. Syncs up with my SIII quickly over bluetooth and integrates with Torque Pro. I have not had any issues with the scanner. With the Torque I'm able to see my coolant temp, oil temp, trans temp, boost pressure and a host of other gauges on my 2003 Excursion with the dreaded 6.0L. I can see that my oil temps are MUCH higher than my coolant thus meaning I need a new oil cooler. This scanner and Torque probably saved me from blowing a head gasket. For the price, this is a great product. My only issue is that the scanner is very long. If I try to put it into one of my other cars I hit my knee on it constantly and cannot be used. In the Excursion it's not an issue. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good bluetooth scanner, a bit large though. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

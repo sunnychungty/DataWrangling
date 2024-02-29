@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1600596673 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-03-2013  
+<h2> review.text </h2>
+
+ <p> Good instructions.  Easy to follow.I would suggest this  as a startingbook for anyone new to felting.It is full of interesting projects. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Complete and Concise </p>
+
+
+<h2> review.date </h2>
+  01-15-2012  
+<h2> review.text </h2>
+
+ <p> This book, although very nice, wasn't exactly what I thought and the contents repeated a lot of what I already have. I would recommend it to others who are starting in this medium. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Pretty book </p>
+
+
+<h2> review.date </h2>
+  12-12-2011  
+<h2> review.text </h2>
+
+ <p> This book has some lovely pictures of very, very creative elaborate nuno felting. It also includes a good description of the most basic felting. There is nothing in between. It would be nice if there were instruction for one, just one of the more elaborate designs. But no, you just have to guess. The book wasn't all that expensive so I guess I'm not sorry I bought it, but I really wish the author has thought to add just a couple of pages on how to make some of the lovely jackets and scarves pictured. It's and ok book, with a little more it could have been really great. Sigh. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice pictures, instructions so-so </p>
+
+
+<h2> review.date </h2>
+  08-30-2013  
+<h2> review.text </h2>
+
+ <p> Gorgeous to look at and very informative too!  It is very helpful as well as inspiring for a beginning felter. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Yummy </p>
+
+
+<h2> review.date </h2>
+  12-09-2011  
+<h2> review.text </h2>
+
+ <p> From Felt to Fabric is written by Catherine O'Leary, a talented artist from Australia. I was new to this technique of nuno felting which is basically accomplished by felting wool fiber through woven cloth. From Felt to Fabric tells how to make wool and nuno prefelts which can then be used alone or with other fabrics. The author uses this technique to make creative and unique clothing, art, and accessories and the resultant pieces are made largely of organic shapes and textures. She also takes artistic principles like light, shade, color and more to weave together unique pieces of nuno felting into something unique and special. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting techniques! </p>
+
+
+<h2> review.date </h2>
+  08-14-2013  
+<h2> review.text </h2>
+
+ <p> The book is great but over my head. I wanted a beginners guide. This is a beginners guide for Nuno felting assuming you have done needle felting. I wanted it to assume I knew nothing and start with needle felting and take me up to the nuno felting. Oh well I wnt to the library and checked out some books to learn the basics and have this to look forward to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The description assumed you had done some needle felting </p>
+
+
+<h2> review.date </h2>
+  07-22-2012  
+<h2> review.text </h2>
+
+ <p> Excellent.  Good pictures, really idea generating presentation.  Not your usual "how to" but more "what if and what can I do".  The pictures are excellent and generate many ideas to apply in felting fabric for quilts, garments, etc.  Super book! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> From Felt to Fabric: New Techniques in Nuno </p>
+
+
+<h2> review.date </h2>
+  11-07-2011  
+<h2> review.text </h2>
+
+ <p> Nuno felting has had a wide following for many years and this book takes the nuno felting process into a new direction. Catherine O'Leary has produced a beautiful volume - and introduces us to using a variety of fabrics (silks included of course!) on top of felt to create a wide range of fantastic textures, modular units and endless possibilities. I think this book will have wide appeal for all textile artists, felters, clothes mavens, and, most certainly, nuno felters! I love finding a familiar technique used in a fresh, stylish and utterly delightful way!  This is really an excellent book and it should have a place in your permanent textile arts library!From haute couture to utilitarian the possibilities presented in this book are myriad! Pull up a cuppa, relax and Enjoy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fresh, Original and Inspiring! </p>
+
+
+<h2> review.date </h2>
+  12-30-2011  
+<h2> review.text </h2>
+
+ <p> Este libro trae una propuesta diferente trabaja el prefelt y arma unos collages increibles, es algo totalmente nuevo para mi, es recomendable el costo que tiene con los pasos a pasos que trae... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> From Felt to Fabric: New Techniques in Nuno Felting </p>
+
+
+<h2> review.date </h2>
+  06-25-2014  
+<h2> review.text </h2>
+
+ <p> Very nice book full of tons of ideas.  Well written with beautiful photos and limitless possibilities.  Nice, nice book. Love it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautiful book </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

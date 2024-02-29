@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 1878891138 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-02-2013  
+<h2> review.text </h2>
+
+ <p> So much wisdom for those who have ears to hear, eyes to see & discipline to stand in The Mighty I AM Presence of our Creator </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So much wisdom </p>
+
+
+<h2> review.date </h2>
+  09-11-2012  
+<h2> review.text </h2>
+
+ <p> Just holding the book in my hands, I soften.  Go to page 84 and read and reread.  I become still as I even feel the words in my mind.  One morning after I started this book I woke up to, "Know that your heart and mind are one."  If you are looking to go deeper, this is a book you will want to have close. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This may be the last book you "need" to purchase on this soul journey. </p>
+
+
+<h2> review.date </h2>
+  01-06-2013  
+<h2> review.text </h2>
+
+ <p> Wayne Dwyer recommended this title in one is his PBS Seminars, and it found the title enlightening. Recommended reading for those on a spiritual course of life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent Title </p>
+
+
+<h2> review.date </h2>
+  12-02-2013  
+<h2> review.text </h2>
+
+ <p> I quote the beloved author of these discourses:  &#34;. . . When you use the expression:  'I AM the Presence,' in my mind, home, and world,' you are not only commanding the Conquering Presence of this activity through your own consciousness, but you are calling forth the assistance of the I AM, or God Presence into your home and world, of whomever contacts it.  This is so vital for the student to understand.  Do not be discouraged if you do not see immediate manifestation of this harmony which you desire, but go right on feeling the 'conquering I AM Presence.'Do you not see that in this consciousness, there is no other presence to act, except what you are conscious of!  All other activity of the outer which is undesirable, is but a distorted activity and use of this Mighty Energy.  Therefore, when you say: 'I AM the Conquering Presence,' I command this 'I AM Presence' to govern perfectly my mind, home, affairs and world,' you have sent forth the greatest decree possible to be given; and you have but to feel the sustaining power of this in the face of every appearance, until you find Perfection manifest in your mind, home and world.&#34;(in another discourse)  &#34;At all times, turn to your own I AM Presence and demand to know and see clearly the plan that you should follow.&#34;In these discourses, the Ascended Master Saint Germain teaches that God Almighty has individualized Himself for each one of us and hovers above us in another octave throughout our lives, sending down the energy that beats our hearts and guiding our activities through the Universal Christ Presence, (the voice of Conscience, as we have perceived it).  He teaches through these discourses how we can contact our own Mighty I AM Presence and attune with It, whose hands and feet we are in this octave. God gave us this mighty hint through Moses on Mount Siani when He told him that his name was: I AM that I AM, for he was telling us all that every time we say those words (I AM) we are calling forth God Power into however we finish the sentence.  How are you?  I'M _____!  As you say it, so be it!If you are a serious student of the Light, you MUST have this book, and once you've read it, you'll read it over and again and want all the others, for this is the Path of Light that leads you home. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you are a Serious Student of the Light, YOU MUST HAVE THIS BOOK! </p>
+
+
+<h2> review.date </h2>
+  12-29-2004  
+<h2> review.text </h2>
+
+ <p> Once familiar with his work, his energy is easy to recocknise, and will tell you which books are properly his or not..No need to analyse the meaning of the I AM presence for here it is; analysed by Saint Germain, an ascended master.These beings have mastered the lessons of earth, our planet which is a planet of the second ray: love and wisdom.These beings personify the highest light of love and wisdom, which are our lessons to learn down here on earth.It is them who hold the door open to us, they are the guardians and keepers of the pure essences of the several rays emanating from the unified light of God.And so they are the highest teachers to those seeking understanding on several topics and issues. They are truly magnificent, humble, wise, loving, etc .. my deepest respect to them.The I Am presence is simply an essential field of study.For awakening the God within starts here with the understanding of the I AM presence. Understanding the I AM presence is very important.Greetings </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beloved master Saint-Germain </p>
+
+
+<h2> review.date </h2>
+  04-13-2014  
+<h2> review.text </h2>
+
+ <p> This book along with Power of awareness & the Moses code are excellent reads to lift you to new heights by exploring a reaffirming that you have the power to change </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I am is stronger than you think </p>
+
+
+<h2> review.date </h2>
+  02-04-2014  
+<h2> review.text </h2>
+
+ <p> This is a wonderful book containing many profound spiritual truths that will amaze, enlighten and uplift. I really enjoyed this book and the way it explained the place of mankind in the spiritual scheme of things. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Profound Spiritual Truths </p>
+
+
+<h2> review.date </h2>
+  07-03-2013  
+<h2> review.text </h2>
+
+ <p> I learnt of the existence of this work from Wayne Dyer's recent book "Wishes fulfilled". And it has lived up to my expectations.These discourses were channelled in the 1930s by Godfr&eacute; Ray King . According to Wikipedia, Saint Germain was born in 1712. He was an extremely mysterious personage who had various names and was reputed to have lived for several hundred years, and to have supernatural powers. When studying Russian some years ago I read a wonderful short story about Saint Germain, as far as I remember, though I may be mistaken, by the famous and much loved Russian writer, Pushkin.The language in the discourses is extremely old-fashioned and at times  abstruse, though the essence of the teachings shines through clearly. Several of the discourses contain channellings from Jesus Christ.Saint Germain informs us that we can obtain our every wish through use of  I AM statements.We are warned not to use negative I AM statements like "I AM sick", "I AM broke", etc. St. Germain provides us with innumerable examples of powerful I AM statements we can use to obtain what we desire - health, wealth and everything else.One of the most powerful and effective statements of all is Jesus' statement: `I AM' the Resurrection and the Life. If we wish to prevail over any negative condition, we should use this statement.We can obtain or overcome anything by our I AM statements. We just need to be persistent. We should take our attention completely away from the negative condition and focus purely on the I AM statement.For good health: "'I AM' Perfect Health now manifest in every organ of my body." Or: "'I AM' the Perfect Activity of every organ and cell of my body."For financial freedom, say:"'I AM' the wealth - God in Action - now manifest in my life, my world."When there is something we urgently want to achieve, we should use: "'I AM' the Commanding Presence, the exhaustless energy, the Divine Wisdom, causing my desire to be fulfilled."We should often say: "I AM the Presence" with everything we wish to have done. For instance, "'I AM' the Presence there governing and healing the situation."Saint Germain provides us with dozens of powerful, effective I AM statements.The few channellings of Jesus towards the end of the book I found to be interesting and informative. He explains that when he said "I AM" this and that, he did not mean his own personal self but the divinity in him that is in us all. He also explains the power of his statement "'I AM' the Resurrection and the Life."St Germain discloses that we are immediately in the "Great Silence" the moment we say `I AM'. He asserts that when the I AM Power and Presence is set in motion, it can no more fail in its accomplishment than the universe stop its activity. " when (a person) says: `I AM' he is knowingly or unknowingly setting into action within himself the Full Unadulterated Energy of God."I found these discourses to be fascinating and invaluable. They provide us with a powerful tool, the use of the I AM statements, by which we are enabled to create our lives the way we want them. Harrison Klein, whom I have heard speak on the Net many times, also talks at length of the "I AM effect".I highly recommend these discourses to all those who wish to work with themselves in creating a better life. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These discourses provide a valuable tool by which we can create our life the way we want it </p>
+
+
+<h2> review.date </h2>
+  07-04-2012  
+<h2> review.text </h2>
+
+ <p> This is a great book. I believe if everyone read this book they, and the world would be better off. I learned about this book from Dr. Wayne Dryer as and his course on miracles and manifestation. We all have the spark of the divine within, we can begin today, by recognizing that divinity, we can begin to manifest miracles in our lives. This book is not an easy read. This is the type of book where you read a chapter, think about it, discuss it, digest it, then move on to the next. I have only had the book for one week. I am still in the early stages of the book. Have I experenced any miracles? Not yet, but I expect some in the very near future! To your success </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Philosophy, law of attraction, religon, manifestation </p>
+
+
+<h2> review.date </h2>
+  12-20-2012  
+<h2> review.text </h2>
+
+ <p> This book helps me in many ways.  It is very deep and I cannot lay it down because I just have to read a bit more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this book. </p>
+
+
+<h2> review.date </h2>
+  03-21-2013  
+<h2> review.text </h2>
+
+ <p> If you are researching this book, then you should probably already accept that you are more 'aware' than most.  Anyone interested in this type of work is a being who has the ability to be the observer.  As the observer of our own reality, we understand that we are all that is, and all that is--is us.My spiritual journey began when I was seven years old.  One afternoon, while staring into my mother's bedroom mirror, I heard myself question my reality.  I wondered as a seven year old child, "How do I know that everyone sees the color green the way I do?  Am I unique?  Are we all unique? Could it be that each of us was born with our own perceptions?"Believe it or not, those were the types of wondrous thoughts that cascaded through my mind back then, and never stopped.  Thoughts like these still come, and each time they do I am lead to a deeper understanding of my world, and all that exists within it.As a Catholic School Student, I was very much scarred by the way my Christ was depicted.  I was taught to fear God, and to feel shame and guilt because he sent his son Jesus to die for me.  It was so confusing.  If Jesus was God, why didn't he save himself from the cross? I would wonder...Nothing my religion could say could help me understand what good could ever have come from torturing Christ...and quite frankly...the idea that a God would allow such torture of his son scared the heck out of me.As I grew older and the choke hold my religion induced in me as a child began to lessen, I learned to question others perceptions of scripture.  I decided to read the bible on my own, through my eyes.What I discovered filled me with peace and also great forgiveness.  What I had been taught had been misconstrued, not only by a denomination, but also by my child's fear laden mind.Earth is a free will zone.  Man comes from God, or creator--or the cosmos--as an expression of divinity in human form.  Man is given a mind, which he can choose to use, or not.  He can follow the masses like sheep, or he can blaze his own trail.  He can be conditioned like cattle, or tap into his own soul and dwell from that which lives within--or not--of course.The teachings laid out in this book are more than just simple understandings.  They are deep and intriguing.  Many times I had to put the book down just to absorb the glory that had been imparted in simple sentences.I have heeded the advice represented in this book, and have begun living more consciously of my own "I Am" presence.I know that I am who am...I know that all that is--I AM...because I am an extension of all that is...One of my favorite teachings is this..." I am the resurrection and the life"...I now understand what this simple phrase was supposed to impart...when Christ said, " I am the resurrection and the Life" he implied that he is the observer of the life as well as the life...His mind had resurrected and through the power of awareness now had the ability to live and observe life simultaneously.When Christ said this, he also used the "I am"--which means we all have the ability to be born again through mind, by the use of divine free will--and to observe life as well as consciously participate in it as more than just a physical being.Yes--buy this book...and gulp up all its wisdom...You will be so glad you did...Namaste...Lisa A. RomanoThe Road Back to Me: Healing and Recovering From Co-dependency, Addiction, Enabling, and Low Self Esteem. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't Miss Out On This One </p>
+
+
+<h2> review.date </h2>
+  05-23-2014  
+<h2> review.text </h2>
+
+ <p> This is a most powerful book.  This book contains old, old material first presented in 1932.  The information is invaluable if one is interested in living a life of pure, positive input.  Dr. Wayne Dyer says that &#34;I Am&#34; are the two most powerful words ever, and what is said after those two words shapes your destiny.  So who wants to utter &#34;I Am sick&#34;, when one can say &#34;I Am well&#34; and live a life of joy, peace, and health?  One is never too old to learn, I was born in 1932, I love this book and  I read from this book every day. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The I AM Discourses </p>
+
+
+<h2> review.date </h2>
+  06-10-2012  
+<h2> review.text </h2>
+
+ <p> If you are searching for more, this book is fundamental in your voyage! give a chance to it and read it, never you will be the same. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> REcognizing your true self! </p>
+
+
+<h2> review.date </h2>
+  04-28-2005  
+<h2> review.text </h2>
+
+ <p> How much dominion over limitations do we really have?This "I AM Presence" Discourses volume three is one of the most precious,  revelations I have ever come across in a long time. Other books on this level emphasize that God is creator up there, and that we are his creation down here.Yet Master Saint Germain reaches a highest plateau when he declared, "I Am that". There is a big difference between saying I am the image of God; and to say, on the other hand "I Am that Presence; with the possibilities of expressing dominion over limitations.We realize that, in order to force ourselves beyond human limitations, we must think from that powerfully motivated standpoint of the I Am that Presence. Then Instead of feeling a separated, and/or fallen, we come to understand that the spiritual Power always has been, and is in our own hands.According to the author St. Germain demonstrates what he says by having permanent youth, perfect health, materializing all kind of objects, controlling the weather, healing, and lighting a room without electricity, among other natural displays of dominion. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Ten  Stars  Book </p>
+
+
+<h2> review.date </h2>
+  07-01-2012  
+<h2> review.text </h2>
+
+ <p> I got this book on the recommendation of Dr. Wayne Dyer and am so glad I did.  The 33 discourses cut to the essence of living a life unshackled by the trappings of an ordinary, mundane existence characterized by chasing the endless shadows of the ego.  I decided to read one discourse per day and admittedly it took me a few discourses to get used to the tempo of the wording but once I dialed into that, everyday of study was a blessing.  This book has gone a long way in supercharging my journey towards creating an ego free existence. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For those seeking a simple way to live, this is a must read! </p>
+
+
+<h2> review.date </h2>
+  04-26-2006  
+<h2> review.text </h2>
+
+ <p> These titles by the same author:1. HOW TO MAKE YOUR MESSAGE SOUND IMPORTANT BY USING CAPITALIZED WORDS AND LOTS OF ADJECTIVES2. HOW TO WRITE 17 BOOKS THAT ALL SAY THE SAME THING AND GET PEOPLE TO BUY THEM ANYWAY3. HOW TO CREATE YOUR OWN RELIGION BY STEALING AND MIXING A FEW OTHERS4. "YOU'RE NOT ALLOWED TO TRANSLATE MY WORDS INTO OTHER LANGUAGES," SAID JESUS.5. HOW TO WIN DIAMOND SHINING VIOLET FLAME ASCENDED MASTER FRIENDS AND INFLUCENCE BLESSED PRECIOUS VICTORIOUS SUPER-DUPER COSMIC CHRIST PEOPLE.6. IN THE DIAMOND SHINING VIOLET FLAME ASCENDEND MASTER COSMIC CHRIST LOVE FROM THE GREAT GREAT SILENCE KITCHEN WITH ROSIE7. DON'T WALK IN FRONT OF MOVING BULLETS AND OTHER SUPER-SECRET, PROFOUND ADVICE FOR HEALTHY LIVING8. PROOF THAT MY WORDS ARE TRUE--A NOVEL BY ME9. HOW TO MAKE THAT TUMOR GO AWAY BY PRETENDING IT ISN'T THERE10. HOW TO DEFEAT A RAGING BEAR, LION, OR ELEPHANT WITH YOUR BARE HANDS AND OTHER THINGS I'VE NEVER ACTUALLY TRIED MYSELF </p>
+
+
+<h2> review.summary </h2>
+
+ <p> If you liked this book, you will also love... </p>
+
+
+<h2> review.date </h2>
+  12-15-2013  
+<h2> review.text </h2>
+
+ <p> this is the best book of the three &#34;I AM&#34; books I have. It is really good, exciting and interesting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> very, very good </p>
+
+
+<h2> review.date </h2>
+  04-10-2013  
+<h2> review.text </h2>
+
+ <p> It makes me realize what I am saying to myself. How I talk to myself gives others permission to talk to me that way too.  I am more aware. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Every time I say I am what comes after I am affirming. </p>
+
+
+<h2> review.date </h2>
+  12-27-2012  
+<h2> review.text </h2>
+
+ <p> This is a very interesting book.  Reading actual recorded words of Christ is thrilling.  Not words interperted by someone else or guessing what was said thousands of years ago.  Very helpful.  Worthwhile keeping at your bedside. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Discourses vs. the Bible </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

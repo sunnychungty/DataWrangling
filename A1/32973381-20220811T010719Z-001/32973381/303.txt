@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> 148405587X <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Suspenseful </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed reading part two of Heather Allen's Just Breathe trilogy.  It kept me wondering what's coming up next with each character.  I'm can't wait to read part three when it comes out!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another Enjoyable Read </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-21-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed this next installment in the trilogy and can't wait to find out what is going to happen with Ever and Jack and what the outcome of the war between the Lior and Erebus will be! Editing can still use a little work (there are again commas in weird places they shouldn't be), which is the reason for the 4 star rating, but otherwise, this is a great series for young adult readers. :) </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Barely Breathing Review </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-13-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> such an awesome continuation of Just Breathe but ughhhhhh what a horrible cliffhanger! now that lines have been drawn, secrets have come to light and sides have been taken, who will prevail? i can't wait to find out! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good Story, But The First Was Better </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-09-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> As usually happens with follow up books, I preferred the first installment in this series. It was still a really good book and it played the story out very well. It was well-written and engaging, but I couldn't help but feel the ending was a bit hectic, and I would have liked it better if there was less of a cliff hanger and more of a wrap up. That's just my personal preference, of course, and I do have to say that if nothing else the ending makes me desperately want to grab hold of the third (and unfortunately, last) book in this series! I simply have to know how everything pans out for the characters, and I must know what happens after... well, I can't say after what, but those of you have read this story know! All in all, it was a very good read, and I can't wait for the next one. I would highly recommend this book who enjoys a good paranormal romance or a cliff hanger ending! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> barely breathing </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> The story was getting a little too far fetched..was not holding my interest. Would not read the next book.. too OUT ragious </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great book </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-19-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> I loved the entire series, thought it was fabulous.  The storyline is so unique and fun, I absolutely loved reading these books. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love it! </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-27-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm in love with this book. The whole series is Amazing! I couldn't put my phone down untill i read them all. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Book #2 </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Just a continuation of life under water and lying to your parents and living in the air world and the water world </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Wonderful second book to Just Breathe. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-03-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> After reading the first book to the Just Breathe Trilogy, I had to continue the adventure and find out where Ever and her brother James would end up. As they fight for what is right and for who they love keeps me turning the pages to the end. I will be starting the third and final book of the series to see how it will all end.I recommend this book and a must read, especially if you have read the first book, Just Breathe. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> a fun read </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-14-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> If you are looking for a book to read for fun and just escape for a few hours, Barely Breathing is great.  It is entertaining and get the imagination going.  I would recommend this to anyone who wants to read and just relax. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun Fantasy </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-15-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book was surprisingly entertaining, compelling and original in plot. I was able to relate to the characters and the world created by the writer is full and rich. I would recommend this book to anyone who likes Fantasy with a little romance. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Another enthralling part of the tail! </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Heather Allen does it again!I often worry with a trilogy that the story will drag on and I will lose interest, I can definitely attest to the fact that you will not find that the case in this series! I was yet again enthralled with the mermaid world the author created. The different view points enhanced the story and made me fall in love with the characters even more. I can not wait to find out what happens next! If you do not read this series you are missing out! Do yourself a favour and check it out! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Good merpeople story... </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-14-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Would probably rate 3.5 stars...but I always round up when leaving my review on other sites.Ever has learned that Jack has betrayed her and it seems that her decision to live in the sea has been for nothing. Now she has to learn to fight her brother in an impending war that really isn't her battle to win. But since she made the choice to live in the sea and become a mermaid, she has to stick by her decision and help lead her people to victory. But is Ever making the right choice? Is her dreams telling her something bad is going to happen? And will she ever be able to pick up the pieces of her broken heart that Jack destroyed?Ok gonna break it down about what I liked and disliked. Lets go with dislike first. I disliked that the first half of the book had hardly anything going on. There was some training, some bonding, and some new relationships. But that about sums it up. There really wasn't anything paramount that went on. Sure there was some small talk about the upcoming battle and how Ever can't stand even the mention of Jack's name, but really nothing big happens. So altogether the first half of the book was slow, kind of too slow.One other thing I sort of disliked was the fact that the parents were a little too oblivious to what their children are up to. At least they took the initiative, kind of, this time around with James and acted like parents. But they seem a little off to me. I guess that is the mom in me talking.Now, for the things I liked (and loved). I liked Alex but never got that feeling that he was truly meant for Ever. And I hated that I couldn't feel that way. But you can see that they obviously care for one another. He is such a great guy and has so much to offer her. Ever is just going to have to decide whether she wants to live with a broken heart or move on and learn to find love again. And it is not decision she will make lightly. She will tear herself up trying to decide what she wants and what she needs in her life.James. Yes, I absolutely loved that he was such a big addition to the story. At first I wasn't crazy about him, but he grew on me and I enjoyed his scenes and POV. I enjoyed the relationship that him and Ever developed throughout the book and hated it too. Because in the end...there will be a battle and they will be fighting against each other. And it broke my heart to see them getting along so well knowing that the end inevitable.The end is a whopper of cliff hanger. It definitely has you eager for the last book in the series, FOREVER BREATHING. And boy do I look forward to it and to finally see how the series will conclude. BARELY BREATHING was a good book, I just wasn't gaga over it. But I do recommend it to those who have read the first one. You will want to continue on and see how it all develops. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Four Stars </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-02-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I really have enjoyed these 3 books... </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Love. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I love this book as much as i love the first one. This is a great quick read. Highly recomended! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> sequel is a goodie </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-28-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> This book finishes a lot better than the first still sudden but less abrupt still loving the story and can't wait to start part 3 </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great summer read </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-16-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> A great story to die for. Heather Allen has done it again she has left me Barely Breathing lol :p I've read the first book and thought it was great but this one just blew me away. The ending left me wanting more and even though it ending on a  &lt;spoiler>cliffhanger&lt;/spoiler> i loved that it did, sometimes stories have to end that way to make sure your not flung a bunch of information that you don't like or can't handle. I'm super excited for the third book and more from this author &lt;333 !!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Barely Breathing </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-23-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I enjoyed the story line read 2 in the series, obviously kept me going but at the end of the 2nd it was almost as if I came to terms with the book accepting it and not wanting anymore. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A very good YA Mermaid Story </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-08-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I'm a very eclectic reader. I read a wide range of genres. I found this trilogy entertaining and a twist on  the Mermaid culture that's a little different from other stories I've read. The choices that Ever and her brother James make are tough. I liked how they grew from the first book. Their transition encouraged by the unusual situations they find themselves in.I'd recommend all three books of the trilogy because each ends on a hook where you have to buy the next book to find out what happened. The only downside for some readers. Though not for me.Teresa Reasor </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

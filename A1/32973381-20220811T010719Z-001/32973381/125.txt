@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00826WCL4 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  12-17-2012  
+<h2> review.text </h2>
+
+ <p> This item was very slow and performed mediocre compared to a standard sata drive.  what was most distrubing is that it crashed and had to be reloaded 3 times within the same week. Send this back for refund and definately would not buy this model again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Slow Garbage </p>
+
+
+<h2> review.date </h2>
+  06-16-2013  
+<h2> review.text </h2>
+
+ <p> Not very fast at all. And it completely died after 5 months, the bios wont see it as a hard drive. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Died after 5 months </p>
+
+
+<h2> review.date </h2>
+  01-22-2013  
+<h2> review.text </h2>
+
+ <p> I bought this drive in August 2012.  It installed easily and ran fine for a few weeks and then started having booting problems.  Diagnosis showed a number of bad data blocks had developed scattered all over the SSD.  I restored the drive and tried again.  I called Crucial tech Support and they were no help.  On the fourth rebuild in 5 months, I gave up and sent it back.  I do not recommend this drive.  My use was in a constant temp environment with UPS power and with a brand new computer that works fine on a regular HD.  There was something wrong with this drive from the start.  This was my first adventure with SS drives. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Crucial 128GB V4 has been very unreliable. </p>
+
+
+<h2> review.date </h2>
+  12-04-2012  
+<h2> review.text </h2>
+
+ <p> I'm in IT- I replace drives and reinstall operating systems all the time.  I've been a fan of Crucial for awhile, and I still like the M4 drives that I am currently using.  That being said, the V4 is garbage.  I purchased three of these to do some upgrades for clients and every one of them is worthless.  Literally every single PC, Laptop and Netbook I tried each of the drives in ran slower with the V4 in it than with the regular Hard Drive, even after doing secure erase formats and clean installs.Don't believe me?  Google "Crucial V4 slow" and you'll get enough reading material to fill your day.  Lot's of problems with incredibly slow performance out of these drives. I would spend the extra $20 and get the M4, or go with a different brand.  I've had great success with Plextor SSD drives as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Worst SSD ever </p>
+
+
+<h2> review.date </h2>
+  08-25-2013  
+<h2> review.text </h2>
+
+ <p> My brother gave this to my son for his computer. This SSD was at first very nice. Had fast speed, was durable and really did the job. After a while into use, the computer gets an unexpected shutdown which half-fries the SSD. It worked after reseating cables. The 2nd time though, It just died. Had to switch to a slow hard drive to keep the computer alive. Even reseating cables didn't work. Easily fries from nothing. Do NOT buy this SSD! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Crashes and gets fried. </p>
+
+
+<h2> review.date </h2>
+  10-21-2013  
+<h2> review.text </h2>
+
+ <p> I am a loyal user of Crucials products.  This is the only one to disappoint me.  Actually it is the only one that hash't been spectacular.  The issue is the data management.  Start/restart is usually fast.  Programs sometimes load fast.  Most of the time it is about like the 5400 rpm drive it replaced.  It is like it forgets where everything is and has to look. I tried a Mac fusion drive set up and it was much worse than the 5400 drive it replaced. I had to pull it from my work machine and use it in our server.this is all with osx Mountain lion.  Strangely it performs significantly better(still not great) with Snow leopard.Get the Crucial M4 instead, it is one of the best upgrades I have ever made. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Unusually poor performance for Crucial </p>
+
+
+<h2> review.date </h2>
+  01-09-2013  
+<h2> review.text </h2>
+
+ <p> Great Quality drives as stated above. The drive has been working great for a couple mouths now. I've compared it to my OCZ SSD and both have great performance. Love the Crucial and for the price its a great purchase. will be setting the two up in raid later. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Quality </p>
+
+
+<h2> review.date </h2>
+  02-20-2013  
+<h2> review.text </h2>
+
+ <p> ...this is an early review. Some reviewers related fails after a certain amount of time. If that happens to me, I'll update this review. Story: I bought a refurbished Sony VGN-AW120 laptop over four years ago... and it has always started Windows 7 slowly - taking well over two minutes to fully load - but still has been a competent and very nice unit. For the 'heck of it' I decided to try and re-refurbish and hopefully speed it up (as a graphic designer, I need all the application power I can muster... for time away from my home studio.) With a little research I found it could handle a total of 8 gigs of ram (it came with only 4), and could receive pointedly the 3Gb/s Crucial SSD. It was stated that the VGN-AW would not be able to use an M4 @ 6Gb/s to full capacity. Plunking down the cash for the two 4gig memory cards and the 128GB v4... and cloning the HD using a free version of Macrium Reflect (highly recommend! Worked flawlessly!) I'm glad to report that the system boots in a fraction of the time of the HDD it replaced!!! The difference is quite remarkable! It now takes 30 seconds compared to the previous three minutes to fully boot. I think some of the poor reviews are because they were replacing HHDs in higher end, newer systems that do indeed need the m4/6Gb/s SSDs. The VGN-AW has been re-born... not just for boot time, but for Photoshop and all other apps in the system. PLUS the Vantec NexStar TX 2.5-Inch SATA to USB 2.0 External Hard Drive Enclosure I bought thru Amazon worked perfectly and now houses the HDD that was replaced and is great for a back-up drive (In case the Crucial fails) and storage toboot. I had my doubts, but if you want to upgrade an older laptop... do the research first, then take the plunge. It only costs a couple hundred dollars (or so)  ;-) Better than paying for a new machine, IMHO. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So far, most excellent! </p>
+
+
+<h2> review.date </h2>
+  12-11-2012  
+<h2> review.text </h2>
+
+ <p> Purchased this to replace my 250GB Toshiba that had a link speed of 1.5Gb/s. Was fairly easy/straightforward to swap out the drives and just did a clean install of the OS when I installed the new SSD. It's been working without any problems for several days now, is giving me the 3Gb/s link speed which is the maximum supported speed on my Macbook, and has increased the overall speed of the system.I bought this in conjunction with a hard drive caddy (replacement for the disk drive) and a Seagate Momentus 750GB 7,200RPM 16mb Cache hard drive so that I would actually increase my overall hard drive capacity (since I wasn't using the disk drive anyways). Also I do some editing with the system and the render times on a 1.5Gb/s internal drive reading/writing to the same drive were atrocious. Even worse sourcing from an external USB drive or rendering to an external USB drive. Now sourcing from the mechanical drive and rendering to the SSD I get about 1.25 minutes of render time per minute of footage (rendering full scale multicam HD (1920x1080) footage to H.264 directly from FCP). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Replaced my 250GB Toshiba Boot drive in my Mid-2010 Macbook </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> TL;DR: Do not buy this. If you want a Crucial SSD, get the M4, not the V4. It's slightly more money but a world of difference.This SSD is significantly _slower_ than a spinning disk. Based upon the Windows 8 task manager "disk activity" section (and the AS SSD utility), it appears this drive does not have throughput for many operations per second. The data tab shows it peaking for minutes at a time. Minutes! Raw sequential data is very fast, but many threads asking for tiny bits of data and it fails very badly with latency approaching 10 seconds. Seconds! And that's the exact use-case where SSDs are supposed to shine. This drive has a very bad controller in it. Maybe they can fix it later with a firmware update, but right now, it's terrible. Do not buy. You will regret not spending $20 more for something better.I was running this Crucial V4 SSD 256 GB in an i7 laptop and attempted both Windows 8 Pro and Windows 7 Ultimate installs. Both installed fine and reported no issues, even with a chkdsk. But the drive is not fine. It's awful. This is my 4th SSD, all different brands, and I have never had an issue like this. My very first one was a relative slow performer back when SSDs were somewhat new, but nothing like this. I'm a long-time Crucial customer and frankly, they should take this product off the market until it's fixed.I was able to replace my 256 GB V4 with a 256 GB M4 and all my issues are completely gone. The M4 is very fast and responsive like an SSD should be. So I know it wasn't the OS or the hardware the drive was in. It was the drive. To Crucial's credit, they accepted the V4 via RMA and sent me an M4 for a very small fee (price difference).If you don't believe me, read the other reviews here and search the web for things like crucial v4 slow or crucial v4 freezes. The issue is all over Crucial's official forum and others. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Flawed SSD -- get the M4 </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00005NFZQ <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  11-24-2005  
+<h2> review.text </h2>
+
+ <p> This release shows that classic rock bands sometimes do the right thing by reforming . The Who have had a few tries and of course their fans pay for it . That is fine when a show of this caliber is delivered .We now have it for posterity - a well filmed show where the camera work moves with the band , sweeping you along .We can be thankful that John lived long enough to have his bass recorded with modern technology .The guest stars don't add much to this DVD for me but if it means the band plays some of their lesser heard numbers , then that makes it more bearable .The second disc does not add much to the value .I think I've watched it once .The Who fan will enjoy this , together with THE KIDS ARE ALRIGHT .All in all , a worthwhile presentation .Definitely worth your money ! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Should have just been one disc - buy for the music !! </p>
+
+
+<h2> review.date </h2>
+  01-10-2004  
+<h2> review.text </h2>
+
+ <p> This dvd rocks and they sound great. zack starkey the son of ringo star,is great but is no keith moon. the acoustic section with Peat Townsed is awsome he does one song from quad and one for lifehouse. the late john entwistle "the ox" is one of the best bass players. Bryan Adams does Behind blue eys with them and he sounds awsome he can really sing that song. so if you like the who you will like the dvd </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The kids are alright </p>
+
+
+<h2> review.date </h2>
+  07-19-2005  
+<h2> review.text </h2>
+
+ <p> Though they've toned their stage act down considerably since the death of Keith Moon, The Who still know how to put on a great live show. And this 2000 concert at the Royal Albert Hall proves that they still have it."Live At The Royal Albert Hall" has Roger, Pete and John at their best. Add to that Zak Starkey, the best of Keith Moon's replacements, as well as phenomenal keyboardist John "Rabbit" Brundick and it's  just like old times as The Who rock through energetic performances of classic hits like "I Can't Explain", "Pinball Wizard", "Who Are You", "Baba O'Riley", "You Better You Bet", "The Real Me", "Won't Get Fooled Again", "My Generation" and "See Me, Feel Me" with the same vitality they had on "Live At The Leeds". Granted, I could have done without the guest appearances, but this is an otherwise excellent show.The bonus features on disc two are very interesting, especially the documentary. This show was done to benefit teenagers with cancer, showing The Who have matured from the pompous, arrogant rockers into sensitive old men. This dvd is definitely worth owning. The Who still have it after all these years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Forty Years Later, The Who Still Have It </p>
+
+
+<h2> review.date </h2>
+  03-17-2004  
+<h2> review.text </h2>
+
+ <p> During the playing of John's song, "My Wife", the cameras capture a sequence that literally, says it all. The band has just entered an instrumental break. Pete is introduces the line, John tosses his pick to the wind and grabs up great handfuls of bass strings. From there, it's a race. At their best the Who were always like that. They played as if they were trying to run away from the each other but kept landing in the same place. They were evenly matched and "read" each other so well it usually worked. Mistakes happened, but hell, those only showed how many chances they were willing to take. Crowds loved that and it literally, cemented their reputation as the greatest live band ever. When Keith died they were still an excellent band but his part of that chemistry was lost. John (Rabbit) Bundrick was (and still is) fine with it, but Kenney Jones wasn't. It was that simple.Then Zak Starkey came along. When (yet) another tour was announced for the spring of 2000 critics were quick to label it to end up as another zip-less  grab for money. Little did they know. Zak had been with the band for a few years and largely restored the vitality Keith had injected. More important, he gave Entwistle and Townshend someone they could "run" with again. When they stripped the band back down again the old fire came back. In the spring, summer and fall of 2000 they hit north America with a  roar that hadn't been seen from anyone from any genre in decades. New material or no, the most explosive live band in rock was back!Live at the RAH more than illustrates this. That it's a "greatest hits" set (with an "all-star" guest list to boot) put me off for a while. Don't make the same mistake. The catalogue the Who have to offer is a great one. When it's performed this amount of passion by a band like this it never gets old. Roger can't quite hit all the high notes any longer, Pete doesn't jump a often, or as high and John's singing voice, never great, by this time was close to shot. All of this matters little. Roger has enough passion for ten singers. As well, he brings a level of intelligence and understanding to the material that's rare in the industry. And don't forget, he never takes any nights "off". What Pete lost in leaping ability he's gained in musical finesse. This man is playing the guitar the way he did thirty years ago but with all the skill that time and practice have added. Nobody plays like him. Nobody! John was a fabulous player. Ultimately this band may end up missing him even more than they missed Keith. His ability to pick up Townshend's threads and add immediately add to them was the glue which held them together.The importance of John (Rabbit) Bundrick can't be overstated. He's played with the Who since the late 1970's and it shows. It's hard to imagine keyboard player better suited to working with this outfit. He's literally all over everything Pete and John do as fast as Keith ever was. The guest stars, for the most fit in well. Eddie Vedder is a long time friend of Townshend and a fan. To watch him up there you could swear he knows their music as well as they do. Brian Adams looks a little nervous (for about ten seconds) but then cuts loose. His rendition of "Behind Blue Eyes" is classic. Nigel Kennedy comes in and plays the violin part from "Baba". He and Townshend have so much fun it has to be illegal (somehow anyway). Noel Gallagher doesn't leave the impact on "Won't Get Fooled Again" that Eddie Vedder leaves on "I'm One" but he doesn't hurt anything either. The only guest stars who fall a little short are Paul Weller and Kelly Jones. Weller and Townshend just don't mesh all that well. Kelly Jones, unfortunately, leaves you wanting Roger back on the mike to remind everyone what "Substitute" is "supposed" to sound like. The only other problem lies with the neck mounted camera used to spotlight John's bass solo. This was just a bad idea. It was supposed to give a close look. All it does is give wide angle close-ups that make Entwistle seem disembodied from the rest of the concert. It's too bad. The solo was a good one. Thankfully that camera was only used on the one segment.This is nit picking though. The performance is a great one. The camera work is superb and the sound quality is fabulous. Buy it, turn it up and enjoy a great rock band doing their thing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> John to Pete: You Really Think You're Going There Without Me </p>
+
+
+<h2> review.date </h2>
+  11-21-2003  
+<h2> review.text </h2>
+
+ <p> There was a time when rock was rock.Bands had a heavy bluesy feel instead of the grind it out pop that seems so important today. In those music oriented days of the 70's no band worked harder or louder than The Who. Problem was the 80's came along and it all fell apart. Apart from from inroads into punk and what was then called alternative rock was dead.The Who tried to resurrect the spirit of the music with their return in 2000. The band was fresh, new younger guests were added to help preserve Roger Daltry's weakened vocal cords and a new generation was introduced to their music. Abruptly all this ended with John Entwistle's death less than a year later.The Who capped their North American and English tour with a performance for the Teenage Cancer Trust. This performance is the subject of this video.Close your eyes, turn it up and you'll almost be back in the magic years of the Who's greatest music. The concert is 2.5 hours of pure rock and roll adrealin. From its beginning with I can't Explain to the last Chords of See Me, Feel Me this is the real deal. All members were playing their best. The song list featured 23 hits and there is something here for just about everyone. Dick Cruthers shot the concert from the point of view of a fan. There are many quick cuts to allow you to essentially look everywhere at once.Do yourself a favor check out the DVD and relive the magic of rock and roll. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Long Live Rock </p>
+
+
+<h2> review.date </h2>
+  04-15-2002  
+<h2> review.text </h2>
+
+ <p> As I write this review, I have tickets to see The Who in concert and I bought this DVD to whet my appetite. Consider my appetite well whetted!! This concert was recorded on November 27, 2000 and the band is better than ever. I can't wait to see them. What I particularly liked about this DVD is that the footage of both Peter Townshend on the guitar and John Entwistle on bass really provides intricate detail. The camera work is superb and you really get to see how they do what they do. Townshend was a contemporary of Hendrix and Clapton, so he is often underrated. When you see close up, what he does and listen to him, you realize that he belongs in the select group of super guitarists of the Hendrix/Clapton stature. In this DVD, he still exhibits his showmanship with his windmills, jumps, and occasional lapses into course language.Interestingly, Townshend was using Fender Stratocasters in this concert even though historically, he has used both Gibson Les Pauls and SGs. Indeed, Gibson produces an SG model named after Townshend. The Fenders are very different guitars, with single coil pickups rather than humbuckers yet, Townshend produces that same great sound.This DVD is over 2 hours and twenty minutes long. You definitely get your money's worth. there is also a second disc with effects and extras. I disagree with several reviewers who claim that the sound quality is poor. I thought it was fine. In fact. in listening to some of their numbers, such as &quot;Who Are You,&quot; and &quot;Baba O'Riley&quot; if you close your eyes you could almost think you are listening to the studio recording. Other songs are highly improvised such as &quot;The Kids Are Alright,&quot; which is both lengthened and includes changes.The ending is emotional. This concert was a benefit for a charity supporting teenage cancer patients. The concluding song is, predictably enough, &quot;See Me, Feel Me&quot; and the group is joined in this finale by great musicians who had cameo appearances in this concert. At this point, Roger Daltry's voice is beginning to tire (it had been strong through most of the concert) but it doesn't matter. Indeed, his voice becoming slighly coarse at the end just adds to the great effect of a live concert. They are further joined on stage by a group of teens who are beneficiaries of the charity. To see them on stage, happy, singing along, smiling, and jumping excitedly to the music brings a real lump to the throat. This is a great DVD and I highly recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Who still rocks </p>
+
+
+<h2> review.date </h2>
+  11-29-2012  
+<h2> review.text </h2>
+
+ <p> Half of the songs are performed by high paid stand in's like Eddie Vedder and other 90's radio rock hero's that have no business taking mic time away from Roger Daltry who does perform a number of songs.  Aparently there was little money or donations collected from this as the stand in's as drone as they were, were very costly and wanted their money.  Shame. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The setlist in not all performed by the WHO </p>
+
+
+<h2> review.date </h2>
+  12-19-2006  
+<h2> review.text </h2>
+
+ <p> What a treat this was after watching the "Tommy and Quadrophenia Live" DVD.  Don't get me wrong, that DVD was fine, but this one just blew me away.  There are some factors included in this concert that didn't work, but 92% of this concert is incredible.  Let's start with what doesn't work to get it out of the way.  Three of the special guests should not have been there.  I'm referring to Noel Gallagher, Bryan Adams, and Kelly Jones.  Now, I don't really have anything against any of them on their own, but when you put them with the Who, it simply does not fit.  First of all, Noel Gallagher plays on "Won't Get Fooled Again" which is my all time favorite Who song.  He plays what Pete should be playing.  The sound is good but I always know in the back of my mind that Townshend should be the lead guitarist on that song rather than Noel Gallagher.  Next, Bryan Adams can not sing "Behind Blue Eyes."  It's almost illegal for him to sing that song.  Roger should not have allowed Bryan Adams to sing one of his own most beloved songs (especially since he sings it so well on the Who's Next album).  Bryan Adams could have maybe gotten away with "You Better You Bet."  Finally, Kelly Jones should never had been allowed to sing "Substitute."  What a let down it was for such a great song to be ruinned by a guy who not only didn't know the words, but also had to drown out Pete's guitar with his own playing.  Only Roger (or Pete) should be allowed to sing "Substitute" and "Behind Blue Eyes," and only Pete should be allowed to play guitar on "Won't Get Fooled Again."  Thank goodness for the rest of the performances on this DVD.  The best performances are "I Can't Explain," "Anyway, Anyhow, Anywhere," "Pinball Wizard," "Relay," "My Wife," "The Kids Are Alright," "Bargain," "Magic Bus," "Who Are You," "Baba O'Riley," "Drowned," "The Real Me," "5:15," and "My Generation."  Eddie Vedder was smart to pick "I'm One" and "Let's See Action" to sing on since they are not as well known songs and he does a fantastic job on them.  He fits in with the Who.  Paul Weller also does a great job with Townshend on "So Sad About Us" which is also not as well known.  These two guys were smart to pick songs for which they wouldn't upstage anyone in the Who.  "Getting In Tune" and "Mary Anne With The Shaky Hand" should have been included on the DVD (they're both on the CD).  Pete's guitar playing is at its best since Moon was around.  He is very inspired and there are plenty of close ups of the master at work. Pete is simply one of the five best guitarists to ever set foot on the face of the earth and he proves it on this DVD.  John's bass sounds great throughout the DVD.  His solo on "5:15" is amazing but also on "The Real Me," "My Generation," "Pinball Wizard," "Magic Bus," "My Wife," "Who Are You," and many others.  John (rest in peace) is without a doubt the best bass player who ever lived.  I'm so glad that I got a chance to see the Who in concert when he was still alive.  You even get more shots of John on this DVD which is great because the camera was never friendly to him.  Roger is on fire throughout the whole show and Zak Starkey along with John Bundrick play very well too.  Even though this is a post Moon show, it is still one of the best filmed performances of the band.  The camera angles are excellent too as is the sound.  Overall, this is a spectacular DVD with spectacular performances (except for the 3 noted earlier).  However, there should be a reissue of this DVD containing alternate performances of "Won't Get Fooled Again," "Substitute," and "Behind Blue Eyes" without the special guests and containing "Getting In Tune" and "Mary Anne With the Shaky Hand."  Then this DVD would be perfect.  But with all that aside, I would strongly recommend this DVD for any Who fan because 20 out of the 23 performances will blow you away. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Absolutely the BEST post Moon Who DVD (so far) </p>
+
+
+<h2> review.date </h2>
+  11-10-2001  
+<h2> review.text </h2>
+
+ <p> Wow was I surprised how good these guys still sound, sure a few of the greatest tunes had to be altered a bit, so Roger could pass over some of the crazy high notes he used to hit. But over all the sound and quality of this band is still amazing. Pete is back at windmilling and jamming on electric axe, he took some time off in the last few years playing only acoustic, claiming his hands were too tired and bleeding. He even went so far as to have another electric player in concert over the last few years. This time its only pete at his finest! Almost all of the songs you want to hear are included.  I can't say enough how this dvd made me feel I was at the Who in concert over again, I have seen them twice, once in 82 and once in 83. I can honestly say I enjoyed watching this dvd almost as much! The quality of the recording and camera work really was tops! If you like the who at all, you have to see this dvd! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Who still lives long! </p>
+
+
+<h2> review.date </h2>
+  06-09-2003  
+<h2> review.text </h2>
+
+ <p> Crazy true farce: I picked up both "The Who Live At the Isle of Wight 1970" DVD and this one at the same time, and watched them both back-to-back.  Some might say it was a Who overdose, but I tend to disagree.Purists will argue that this particular charity concert shows 3/4 of the actual "Who" in grizzled, past-it form, but then they will be missing out on what amounts to a great-sounding, crisp, concert film for those who missed the band the first time around.No, Zak Starkey is no Keith Moon, but Moon never had a peer to begin with, so it's a pointless comparison--he was, however, Zak's drum teacher for many years, so if nothing else, it's a nice sense of continuity.  But besides all that, he sounds great, and plays tirelessly (something Daltrey, Entwhistle, and Townsend pick up on, and it shows in their performances as well).It's mostly a collection of greatest hits, but if the DVD is missing the craziness of classic live WHO, it's got plenty of panache and style to make up for it.  The second disc is negligible, but is still nice to have as bonus material.  Good stuff. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> We've got Spinal on tap... </p>
+
+
+<h2> review.date </h2>
+  10-04-2001  
+<h2> review.text </h2>
+
+ <p> Great DVD.  Well mixed.  Wish they identified their &quot;guest stars&quot; on-screen, as I didn't readily recognize a few of them.Worth purchasing </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The next best thing to being there </p>
+
+
+<h2> review.date </h2>
+  04-01-2002  
+<h2> review.text </h2>
+
+ <p> Goose bumps !!As a child of the 60's, The Who were grouped into bands like The Kinks or Dave Clark Five. Into the Highschool day's of the 70's, they became part of the soundtrack of a youth ready to crank it up!! Anyone who has ever seen The Who live can tell you. "The recordings do no justice to the live atmosphere that the Who show brings along with it."Althrough the 80' and 90's hearing about Pete never playing live anymore was like "Oh well,bye bye."So I bought this as a nostalgic souvenir. Maybe live in the past for an evening with my buddy Jack Daniels.Set the speakers up next to the screen, cranked it up to 11 !!WOW!! THIS IS ONE HOT DVD !! Roger was hitting those notes! John E. proves one more time why he was alway's one of the most influential bass player's of all time. (Steve Harris of Iron Maiden, has nothing on the dexterity of The Ox, lol. But you can see the influance he had on Steve.) And Pete? Alive and kicking!What a great showman!!The quality of this DVD is so fantastic. Sound, picture is all here.The guest's are alright? But they do tend to limit The Who's potential to bring out the level of energy that the guest's home bands never will generate.To bad Keith Moon couldn't be here to see this. RIP Moonie </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 5 X 5 = 25 STARS </p>
+
+
+<h2> review.date </h2>
+  08-07-2001  
+<h2> review.text </h2>
+
+ <p> Have yet to see the ACTUAL DVD, but I caught the show on Pay-Per-View (and even got to see some of the backstage/rehearsal footage that I assume will be making it onto the discs).  Excellent show!  It never ceases to amaze me how much energy these guys can put into their performance after doing this since what seems like the dawn of man.Many Who standards are naturally present and accounted for:  My Generation (extended, as usual), The Magic Bus (also in an extended version that rivals the truly magnificent Leeds performance), I Can't Explain, You Better You Bet, Who Are You, all the goodies.Several guests abound.  Bryan Adams sings on &quot;Behind Blue Eyes&quot;; Oasis' Noel Gallagher plays git-fiddle on &quot;Won't Get Fooled Again&quot; (and yes, Daltrey can still scream...Robert Plant should be jealous), and Eddie Vedder pops up on both &quot;I'm One&quot; from Quadrophenia, and &quot;Let's See Action&quot;.  A few other guests here and there, but I wouldn't want to spoil the surprises.The only thing preventing this from a five-star rating is the fact that it would be impossible to rate this show as high as some of the peformances from The Who's late-sixties-early-seventies heyday, such as the 1970 Isle of Wight and the Live at Leeds perfomances.  But they do come damn close.On a technical note, I would also like to point out that for once, the cameramen and the editors finally seemed to know what to look at.  I'm anxious to see the multi-angle stuff boasted for the DVD, but the edition I caught on TV was surprisingly devoid of boring camera work, giving great views of band members, crowd response, and allowing us to take in some of the truly hypnotic light show (especially during the into to &quot;Baba O'Riley&quot;). </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Kids Are Still Alright </p>
+
+
+<h2> review.date </h2>
+  11-07-2001  
+<h2> review.text </h2>
+
+ <p> Like all the other reviewers state,these guys take no prisoners during this concert.Shear guts of a performance.Don't even bring up the Boring Stones.The show starts out a little slow, but God does it take off after a couple of songs. They take two of my least favorite Who songs, Magic Bus and Who Are You, and made me absolutely love them.You just won't believe the energy these guys put out.Starkey is not just a fill-in on the drums.To my ears he is much better than Kenny Jones.The DTS encoding for this concert is very hot.Hope you have a good surround system,because you are going to want to play it loud.There is no other way.Hell, just buy it! If you are a 50ish old guy these guys will make you feel proud! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> controlled chaos at its best </p>
+
+
+<h2> review.date </h2>
+  06-09-2006  
+<h2> review.text </h2>
+
+ <p> If this had been an all-Who show, I would have no trouble giving this performance 5 stars.  Pete, Roger and John are on fire at this concert, pouring out lots of energy and power into their songs.  The interaction between band members is great, as are some of the jokes that are passed between them.  It's also great to see and hear John Entwistle on this performance.  His solo during "5:15" is particularly amazing.  The Who really aren't the same without John.  I saw them in 2004, with Pino Palladino on bass.  Though great, it just can't measure up.  Pete's acoustic set was nice too, for variety.  All in all, The Who were in 100% top form at the Albert Hall in 2000.The problem I have with this performance are the special guests, Bryan Adams in particular.  The DVD comes with bonus features which include rehearsal footage, and Pete corrected Mr. Adams twice on the lyrics to "Behind Blue Eyes."  He still got it wrong onstage.  The other special guests were okay, but nothing phenominal.  The Who don't need special guests, they are great just on their own.But this performance was still great, and was also one of the last with John, so for that, it is definitely worth it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Performance Spoiled by Special Guests </p>
+
+
+<h2> review.date </h2>
+  06-22-2002  
+<h2> review.text </h2>
+
+ <p> Let's face it, the Who were great in their heyday. But as singers age, so do their voices. Most cannot hit the notes that made them famous and these guys are no exception. The concert material is great, if you don't expect them to sound like they used to. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good, not Great </p>
+
+
+<h2> review.date </h2>
+  03-11-2008  
+<h2> review.text </h2>
+
+ <p> I was really taken by the Kids' performance on this one. Their voices were a bit raspy but hey, age catches up with us all. That camera take of good ol' Thunder Fingers (RIP) gave a true look at the Ox's unique way to play the hell of a bass. He will always be remembered. I was particularly pleased with Zack's drum performance (he's no Keith, of course... but he's excellent none the less), which brings me to to the fact that Keith wasn't even mentioned or remembered or not even a picture or something to his tribute. Pete's unique guitar playing was excellent as usual, even after all those years. The talent guests gave an excellent performance and adapted very well to the Who songs and were a nice treat. And best of all, it was for all those teenage cancer patients. Truly a remarkably nice gesture. In all, this is a show that will be remembered and I recommend this DVD to all of us Who true fans and to beginners as well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of The Who's best performances... </p>
+
+
+<h2> review.date </h2>
+  12-24-2007  
+<h2> review.text </h2>
+
+ <p> This is great show - Like the one Cream Reunion did there later -I find the levels irratating for some reason - The best part for me is the Special Feathers DVD2 that has the rehearsals on there with guests(Eddie Vedder - Bryan Adams - Pual Weller - Noel Gallagher) it's neat to see them rehearsing - fans never get that angle before since the 1979 rehearsal with Kenny Jones for the first gig with him for the New Who Rainbow Theater gig in London - Ringo's son is at this practice - Roger talks about the charity for sick cancer kids (the Teenage Cancer Trust ) etc.. - and Multi- angle Version of Pinball Wizard Like I said it's not bad but I like other DVD's better like Live Tommy - Quadraphina 3DVD set </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Who in year 2000 </p>
+
+
+<h2> review.date </h2>
+  08-04-2002  
+<h2> review.text </h2>
+
+ <p> Though I purchased this long before John Entwistle passed away, I gotta tell you that one of the highlights is his bass solo about mid-way through the show.The Who still play fast and furious in concert, so much so that the addition of special guest performers almost slows down the proceedings.  While not every song is a definitive version, there is quite enough here to remind you why you are a Who fan.  The late, great Thunderfingers may have provided The Who with its stability, but Pete Townshend and Roger Daltrey are still the main attraction.  And Pete and Roger are up to the task in this performance.  The version of &quot;Magic Bus&quot; makes the song sound fresh and new.With the exception of the Concert For New York City in Fall 2001, this may well be the last live Who concert on video.  That alone should make you consider buying it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Entwistle bass solo! </p>
+
+
+<h2> review.date </h2>
+  06-29-2004  
+<h2> review.text </h2>
+
+ <p> On November 27, 2000, the Who closed their tour with a concert at the Royal Albert Hall.  In my opinion they've never played a better concert.  The looseness of the group makes for a relaxed atmosphere and some really great rock and roll.  There is a lot of improvisational jamming in between songs.  The band acts very free onstage.  For instance, when Roger sings the line, &quot;Can I buy your magic bus&quot; Pete screams out &quot;No!&quot;  All in all a wonderful performance and a great DVD. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very Good </p>
+
+
+<h2> review.date </h2>
+  01-16-2002  
+<h2> review.text </h2>
+
+ <p> The Who deliver in this DVD an excelent performance that reminds us that youth comes from actitude and not from age. In fact, this has been one of the most interesting concert releases of 2001 in terms of performance energy!!Recorded during a benefit concert at the Royal Albert Hall in London the Who is augmented by guest performers like Bryan Adams, Nigel Kennedy, Eddie Veder and others. The truth is that the main attraction on this concert is the Who. Every member performance is in top form and the band goes through many hits songs in an intense and long set. Not bad for a band that has not released any new material in years. Key to note is that the band avoids sounding like the Who covering themselves like other Classic Rock bands that end up giving the audience not so good interpretation of old material. In this case the Who, as a band, is as relevan and intense as 30 years ago.As for the DVD the first disc cover mainly the concert and the second one has the extras with rehersal footage with guest performers and other stuff but nothing really out of the ordinary. Sound quality is excelent and the images are clear. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Still rocking after all these years </p>
+
+
+<h2> review.date </h2>
+  10-27-2001  
+<h2> review.text </h2>
+
+ <p> When I saw The Who perform here in Seattle back in their heyday, they were unquestionably one of the top live rock groups on the scene. By the time they played a benefit for Kampuchia (1979?) and their 1982 &quot;Farewell Tour&quot;, they had devolved into a mere shadow of their former selves, going though the motions, looking tired and uninspired. I remember remarking that the song &quot;My Generation&quot; with the lyrics &quot;Hope I die before I get old&quot; were conspicuously missing from those final tours.Now, all these years later, after reading rave reviews of this Albert Hall 2000 DVD, I bought a copy, and was floored. From Pete Townsend's opening chords of &quot;I Can't Explain&quot; it was as if the Who magically recaptured the power,intensity and stage presence they had thirty years ago. Songs like &quot;Relay&quot; &quot;My Wife&quot; &quot;Magic Bus&quot; &quot;Bargain&quot; &quot;5:15&quot; are played as well as I've ever heard them. In fact, I can't think of another rock band formed in the past 25 years that can touch these guys' energy even though Townsend, Daltrey and Entwistle are pushing 60. The younger members of the band, Zac Starkey on drums and John Bundrick on keyboards fit right in, excellent musicians.I recognize that this was a benefit show, and these often involve special guests. However, the Who is such a great band that the appearance of guests only subtracts from the show in my opinion. One exception is violinist extraordinaire Nigel Kennedy who does a great job on Baba O'Reilley, and on another positive note, at least Phil Collins (the usual benefit guest) wasn't invited.The frosting on the cake is that the show is impeccably filmed (although I agree with another reviewer that the edits every 3 seconds is too much) and the sound is first rate. This is what DVD is all about. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> It's as if the Who have been reborn! </p>
+
+
+<h2> review.date </h2>
+  07-25-2002  
+<h2> review.text </h2>
+
+ <p> Well, this will certainly be the last concert footage of the Who with John Entwistle. The good news is the Who were in great form on this particular night. The set list is inspiring, with along the required crowd pleasers like &quot;Baba O'Reilly&quot;, &quot;Can't Explain&quot;, and &quot;Won't Get Fooled Again&quot; the Who dusted off some great lesser known gems like &quot;Bargain&quot;, &quot;Relay&quot;, and &quot;So Sad About Us&quot;.The sound quality is outstanding, with good seperation between instruments and vocals. The mix is so loud that I actually had to turn down the volume much lower than I usually have it set at when watching similar DVDs. Which is great news, because the Who perform with great fire and energy, with Pete Townsend's ferocious guitar playing especially so.The picture quality is very crisp and sharp, and thankfully in widescreen format. I have a minor quibble regarding some of the fast scene switching, but this is the bane of all concert videos these days. At least it's not as atrociously filmed as the recent 'Elevation 2001 - U2 Live From Boston', which is so inundated with split-second cuts and facial close-ups as to be virtually unwatchable. The director of this video does show lots of full stage shots, and enough close-ups of Pete Townsend playing his guitar to satisfy most guitar aficionados, so I'm not going to complain too much.The second disk has some extras that while not exactly essential, are a nice added bonus, since the price of this 2 DVD set is what most single DVD's cost.This is a great concert DVD for anyone who is a Who fan. I've had my interest in this band rise and fall, especially in their later years, but I got to say they definitely got my respect back with this performance. lr** Jul 25,2002.HIGHLY RECOMMENDED. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WHO'S LAST </p>
+
+
+<h2> review.date </h2>
+  03-09-2002  
+<h2> review.text </h2>
+
+ <p> This video blew me away.  I mean, The Who were once rock'sgreatest live band, as their video/DVD "Live At The Isle OfWight", or their documentary "The Kids Are Alright" will attest.However, ever since Moon's death they have been struggling tofind an adequate replacement and for several years in the 90sTownshend stuck to acoustic playing in order to save hisbattered eardrums; add to this the atrocity that was the BroadwayTommy and I was ready to write off the band entirely.I couldn't have been more wrong: this show, taped in Nov 2000 as the bandmembers were in their late 50s, shows just as much explosive energy and excitement as anything they've ever done--if not more!  Daltrey's voice is as powerful as ever andnever wears out during the 2 1/2 hour performance, Entwistleis as virtuosic as ever (check out the "5.15" solo) and it'sgreat to see Townshend back to his windmills and high leaps onthe electric guitar.  Even better, the group have finally founda drummer who is reminiscent of the late great Moon, and it'snone other than Zak Starkey, Ringo's son.  He is their first drummer since Moon to actually propel the songs forward withan extra kick, and it's clear that he has studied Moon's stylewith meticulous care.  The result is a group that has beenre-energized to sound like they haven't since the mid-70s; it'sas if no time has elapsed at all in the 25 years since theirprime.  Another plus is that they keep the sound lean and meanwith just the four of them plus an excellent keyboardist--noneof the bloated extra musicians and backup singers that mar a lotof other dinosaur groups in their comeback tours (The RollingStones, anyone?).There are some guest artists, but these are mostly great: PaulWeller turns in a fine duet with Townshend on the overlookedclassic "So Sad About Us", Eddie Vedder serves up typicallypassionate performances of "I Am One" and "Let's See Action",Noel Gallagher contributes some fine guitarwork to "Won't GetFooled Again"...and oh yes, Bryan Adams mangles "Behind BlueEyes" and some kid from The Stereophonics (Kelly Jones) triesto tackle "Substitute" but is outstaged by Daltrey's backup.Overall, though, the high points far outweigh the one or twomissteps: "Magic Bus" climaxes with a finale that blows the lidoff of even the Leeds or Wight versions, "The Kids Are Alright"is doubled in length and includes a heartfelt new lyric, "The Relay" grooves and grooves, "You Better You Bet" is tight andpunchy, "The Real Me" and "5.15" are the best performances I'veever heard of these "Quadrophenia" numbers, and so on.  And although the newest song they play is from 1981, their backcatalogue is such that every single song they choose is a five-star masterpiece.  Unlike the flaccid, soulless and overly-choreographed recent tours by Pink Floyd, Fleetwood Mac or TheRolling Stones, there's still plenty of 70s-style improvisation and teenaged raw energy flowing their veins...The Who have outclassed every "dinosaur" band that ever was and kept theirlegacy intact.  Daltrey and Townshend both look in very highspirits throughout, as they take their audience on a tour through their early mod classics, progressive 70s work, maximumR&B; raveups, acoustic ballads and more.  Their music is suchthat the audience was comprised of people of all ages--teenagersand middle-age baby boomers equally shouted the lyrics with passionate abandon.  Considering that the bandmembers are now approaching 60, their seeming drink from the fountain of youthseems like a miracle. Thanks for not only not letting me down,but surpassing even my wildest expectations and trying to outdotheir seemingly untouchable late 60s/early 70s prime...let'sjust forget about that whole Broadway Tommy thing, OK...? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shockingly great--still as explosive as ever </p>
+
+
+<h2> review.date </h2>
+  01-30-2012  
+<h2> review.text </h2>
+
+ <p> Review no. 85. Forgot I even had this 2-DVD from The Who's brilliant November 27, 2000 performance. Total of twenty-three Who classics to take in. Couldn't get enough of the show opener "Can't Explain", the timeless "The Kids Are Alright", the ten-minute foot-stomping "Magic Bus" (with Roger Daltrey on killer harmonica), the awesome "Baba O'Riley" (with guest violinist Nigel Kennedy), "Behind Blue Eyes" (with Bryan Adams), the TRUE '70's FM rock 'n roll classic - played in twelve breath-taking minutes "Won't Get Fooled Again" (with guest Noel Gallagher), "Substitute", "My Generation" and the emotional (with guests Bryan Adams and Eddie Vedder) "See Me, Feel Me". Superb picture and sound quality. This is a DVD that simply won't grow old after the first couple of plays. Myself, I didn't get a whole lot from the rehearsal segments. But, hey I loved the actual concert - needless to say. So highly recommended, it almost hurts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Who - 'Live At The Royal Albert Hall' (Image Entertainment) 2-DVD  - Running Time: 145 minutes </p>
+
+
+<h2> review.date </h2>
+  11-18-2002  
+<h2> review.text </h2>
+
+ <p> THIS HAS GOT TO BE ONE OF THE FINEST CONCERT  DVDS  I HAVE  SEEN AND PURCHASED. THE SOUND AND COLOR ARE TOP NOTCH .ITS THE WHO PREFOMING AT THEIR BEST . THE BAND PLAYS LOUD ,TIGHT AND SOLID IN EVERY SONG , EVEN AFTER ALL THESE YEARS THEY STILL HAVE THE TOUCH .  GUEST APPEARANCES BY SOME OF ROCKS TOP PREFORMERS TOWARDS THE MIDDLE AND END OF THE DVD  ARE EXCELLENT GIVING THIS DVD AN ADDED BONUS AND MUSICAL TREAT FOR ROCK FANS  . ITS THE OLD GUARD AND NEW GUARD ON STAGE TOGETHER . THE NEWER PREFORMERS PAYING HOMAGE TO THE WHO AND THEIR CLASSIC SONGS . I MUST SAY I HAVE SEEN THEM IN CONCERT TWICE, AND THIS DVD IS JUST AS GOOD AS BEING THERE LIVE . HIGHLY RECOMMENDED .LONG LIVE ROCK . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> EXCELLENT DVD A MUST BUY </p>
+
+
+<h2> review.date </h2>
+  08-16-2003  
+<h2> review.text </h2>
+
+ <p> The first thing I noticed about this DVD was the production value. I kind of expected it to be half hearted (as I can't imagine that any Who DVD at this point would be a huge seller) - I was wrong, the production is top notch. The picture and sound is flawless.The song selction is great. It has most of the FM Who standards + some rarely played songs (Relay, So Sad About Us, etc.) that the die hard fans hope for.There are guest appearances that are actually appealing (I would tend to dislike this addition to any show). Highlight of the appearances is Paul Weller (formerly of The Jam) doing an acoustic duet with Pete Townshend.Overall, it is a much more inspired performance compared to the 1982 Toronto show, or the Isle of Wight DVD.Check out John Entwistle's bass solo on 5:15 with the &quot;bass cam&quot; giving you a view down the frets. That is a great example of the care that was taken in the production of this release. The Stones recently added this to a few songs in their recent HBO special (think I know where the inspiration for that one came from). Another highlight is Townshend's acoustic version of Drowned.The special features are pretty good. This is the only DVD I own that has a multi angle feature (finally I was able to get use out of that button on my remote). There is some cool rehearsal footage that you don't want to miss.I have watched this DVD several times. Think anybody that buys it will be doing the same, especially if they have a surround sound system. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great production/sound, not the typical Who song selection </p>
+
+
+<h2> review.date </h2>
+  09-20-2005  
+<h2> review.text </h2>
+
+ <p> As others have mentioned, the video images change every few seconds.  This is not exciting but extremely annoying.  Would have been so much better just to see the band play.The performance seemed "safe and professional," pretty tame.  The guests, other than violin player on 1 track, added nothing and were another distraction.I wouldn't want to watch this dvd again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The WHO for the MTV Generation </p>
+
+
+<h2> review.date </h2>
+  10-15-2003  
+<h2> review.text </h2>
+
+ <p> The Who were the greatest live band ever between 1969-1976? or they still are?  Well, The Who here seems like it.This is truly amazing stuff. The selection of the songs is great too, since includes some rare songs hard to get on video, like &quot;Relay&quot; or &quot;Bargain&quot;, and the versions here are awesome.Keith Moon will be so proud of Zak Starkey (as his dad is for sure). He just has the &quot;Keith Moon&quot; spirit, and that's why The Who are like in the old days in this concert.John Entwistle as always, superb!!.Daltrey's in great shape, with a stronger or deeper voice than in the 80s concerts like &quot;Rocks America&quot; or &quot;Tommy Live - 20 anniversary&quot;.Pete Townshend is very inspired and wild. His acoustic performance for a couple of songs in the middle of the show, is superb too.John &quot;Rabbit&quot; Bundrick is excellent as always and adding the right keyboards for the songs that originally didn't include them.The only thing I don't like about this concert is the guest singers. I would prefer to listen to Roger singing &quot;Substitute&quot;, for example. The only one I enjoy here is Noel Gallagher in &quot;Won't Get Fooled Again&quot;, seems he limits to play the guitar (which adds a lot of power to this particular song) and adds backing vocals to the chorus.Buy this DVD or VHS. The Who were back and this was their testimony. Unfortunally John Entwistle passed away :-( </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Long Live The Who For Godsake !!!!! </p>
+
+
+<h2> review.date </h2>
+  11-06-2001  
+<h2> review.text </h2>
+
+ <p> What keeps me from giving this DVD/Concert an Excellent are:1) The pace on PINBALL WIZARD is so frenetic one supposes the band didn't want to be bothered by it anymore.  2) Guest Bryan Adams commits the unpardonable sin of singing BEHIND BLUE EYES while a way-too-generous Daltrey is on backing vocals and guitar.  3) Townshend embraces too-long song intros throughout, which are only occasionally interesting.  4) As regards the extra features, such as backstage footage and rehearsal glimpses, one wishes there were more of them, but what's there favors the guest artist.  Possibly because THE WHO, coming off a tour, didn't need to rehearse for their own sakes.  But having said all that, that was the dross, and the gold of the performances outweigh it.  With Zak Starkey (Ringo's son) on drums, he's given extensive camera time not alloted to the keyboardist, and he seems to fit right in.  But there are extensive instrumental breaks throughout, including shots from a camera mount on Entwistle's bass.  Amazingly, the power and virtuosity of Daltrey's vocals remain unmatched in rock/pop.  One wonders how he still has vocal chords left after all these years.  A real gem is the brilliance and vitality of BARGAIN and the affectionate teasing between Daltrey and Townshend.  Great clarity on visuals and audio throughout. Only wish the guys felt like doing it more often. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The guys are alright </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

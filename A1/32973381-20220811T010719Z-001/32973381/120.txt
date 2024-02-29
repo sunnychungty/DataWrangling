@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B007B4UKOE <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-24-2013  
+<h2> review.text </h2>
+
+ <p> This was purchased for a large general contractor for use at home shows Etc. to display quick video clips and project photos.The marketing sales director searched all the brick and mortar stores and could not find any thing suited for commercial use (size, features Etc.).  This NIX 18.5 display is perfect all around, great high Res. widescreen photos,  plays videos, offers audio out and one of the best features it has a small remote control that makes it great to skip around the slide show or for presentations.The unit is also very flexible as it comes with a table stand or the ability to be mounted on the wall with a universal mount(separate)it also comes with a micro-USB drive so you are ready to go out of the box with ease of use that is unparallel to other brands so you can get to work and not spending a lot of time configuring the unit.If needed the communication with the manufacturer is excellent and I would highly recommend this purchase.The screen comes packed very well and Amazon puts it in a second padded shipping box, however if for trade shows/Expos protect your investment and buy a slightly larger hard-shell storage/shipping case. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Amazing quality, picture and ease.... </p>
+
+
+<h2> review.date </h2>
+  10-26-2013  
+<h2> review.text </h2>
+
+ <p> Bought a few of these for my advertisement needs. Nice size frame east to start, just plug and play. Great resolution and fast set up. Like that you able to chose and change settings, Motion sensor is also nice tool to have as it saves on electricity usage. Immediate attraction point. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hice frames </p>
+
+
+<h2> review.date </h2>
+  11-22-2013  
+<h2> review.text </h2>
+
+ <p> so far so good - replacing a smaller NIX unit.  that smaller nix unit had very bad viewing angles - this one has SUPERB viewing angles.  Also a great size.  Only issue, is there is alot of glare from lights (smaller nix had same issue).  Wish it had a few more transition effects, but that's a nit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great frame - nice size. </p>
+
+
+<h2> review.date </h2>
+  02-23-2013  
+<h2> review.text </h2>
+
+ <p> Wow.  Utterly disappointed in this product.  It failed 1 day after the Amazon return period expired.  The screen is failing somehow.  It has lines and the picture is distorted in varying ways.I have to start the warranty process with NIX now.  I'll let you know how that goes.DO NO BUY!02252013 UPDATE - I have begun the warranty replacement procedure with NIX.  I will report back on that experience. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Failed in less than 2 months </p>
+
+
+<h2> review.date </h2>
+  01-25-2013  
+<h2> review.text </h2>
+
+ <p> When I first bought my 15&#34; digital frame here at Amazon a few years ago, I was amazed at its versatility. With a descent size memory card, which you can buy for peanuts right here, you can not only view your favorite photos, music, movies, mix the music with the photos (still or slideshow) and more. There also  are so many other features such as brightness, contrast,repeat,shuffle,etc., but the amount of whtever you put on to your card seems endless. I recently bought this 18.5&#34; and as an artist for many years and eventually designed two collections of handbags with my artwork on them, I have put over 1,000 pieces of my artwork and my handbags on display and this beautiful frame actually brings out the fine quality of my art as did the 15&#34; frame. And the price can't be beat. Frames that sell for a small fortune are outstanding, but so is this one. The price for this frame cannot be beat! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My second digital frame from this company! </p>
+
+
+<h2> review.date </h2>
+  12-14-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this item as a christmass gift. It arrived on 12-12-12 I checked it out be for wrapping it and found out it was D.O.A. Enough said. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> What can I say...item arrived D.O.A. </p>
+
+
+<h2> review.date </h2>
+  05-09-2013  
+<h2> review.text </h2>
+
+ <p> I am a marketer and I travel a lot promoting the company's products and it was always cumbersome to travel with my laptop and LCD projector to run a slide show or videos on my brands. I now have less to travel with and it is automatic, setup and leave. My only reason for knocking off one star is that the frame doesn't play all video formats and you will have to do some work to convert it to the format it works with. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just What I Needed </p>
+
+
+<h2> review.date </h2>
+  05-27-2013  
+<h2> review.text </h2>
+
+ <p> This was delivered with 2 days (Amazon Prime) and is very easy to set up. I have a lot of photos in 16x9 format which display perfectly. Any 4x3 format pictures will display with black bars down the side. You can have them fill the screen, but then they look "stretched". If you have mostly 4x3 format, then the 15 inch frame would be better for you. The quality of picture display is excellent and brightness, contrast and color intensity can all be adjusted. Materials of construction and the appearance of the frame is very good too. I found the manual OK but the software is a little difficult to use. It is not very intuitive. This was not helped by the fact that the remote came with an almost flat battery, so some of the buttons did not work. Replacing the battery helped that problem. After a few days use, it seems best to play around with the remote to get used to what each of the settings/buttons does. The capability to have the frame turn off and on automatically is very useful, but read the manual very carefully on this. The "random" slideshow option, doesn't seem very random to me, but its something i can live with.overall a very good product for the price, lets hope it lasts a long time.Update 2/15/2014 I contacted the vendor about the "non-random" slideshow. They responded very quickly and had me download a firmware update that fixed the problem. Now it works great! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Display, So-so software </p>
+
+
+<h2> review.date </h2>
+  06-09-2012  
+<h2> review.text </h2>
+
+ <p> My wife very sweetly bought me this frame for father's day, but wasn't able to get it set up with photos in advance of gifting it to me.  The internal memory on our unit was simply not detected.  Booting up, you're supposed to see three icons - 1) internal memory 2) setup 3) calendar.  We only saw the latter two.  Couldn't detect the memory when plugged into our computer via USB cable, and couldn't copy photos from an attached SD card (no internal memory location available).Nevertheless, the screen is impressively big and bright (albeit with fairly low pixel density), and the photos on the SD card did display properly and looked very nice.  The interface is unbearably slow and clunky, as is the response time to the IR remote that's included.  I'm sure if the unit had not been defective, and we had endured the hassle of loading photos onto it despite the terrible interface, we would have been pleased.  Hence, two stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> DOA - Internal memory not detected </p>
+
+
+<h2> review.date </h2>
+  12-13-2012  
+<h2> review.text </h2>
+
+ <p> We bought this frame to include in a trade-show exhibit. We needed unattended operation with energy saving features, good memory, and flexibility to load and unload photos/videos. Worked beautifully. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Easy and  flexible </p>
+
+
+<h2> review.date </h2>
+  04-16-2013  
+<h2> review.text </h2>
+
+ <p> I'm surprised that more suppliers do not offer large screen photo frames but for whatever reason they are hard to find and, for the most part, unreasonably priced. Not so NIX, their 18.5 inch frame is a great value. It's large, has excellent image quality (from straight on to roughly 40 degrees on each side), and is extremely easy to use. All you have to do is insert a USB thumb drive (don't like the one that came with it; replace it with a SanDisk Cruzer Fit CZ33 32GB micro USB Flash Drive) and adjust the settings (unless you like the defaults). There's no internal memory, btw, but I suspect that's part of why it's reasonably priced and I've got dozens of thumb drives and SD cards lying around so I find it the optimal solution.I have the frame mounted above my fireplace mantelpiece where it really pulls the room together. You can buy a wall mount for that type of application, but it's light enough that I was able to put it on the wall with a couple of screws (but don't mount it too tightly or you'll inadvertently push the buttons on the back which will cause the menu to loop endlessly and interrupt photo playback). Although it plays MPEG-4 .AVI video and MP3 music files, I just use it for JPEG photo. You can easily set the frame to start at a preset time every day or turn it on and off manually. I've only had it for a month, but it's working flawlessly and given other (smaller) frames I've bought from NIX over the years I expect that it will continue to do so for many years to come. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Just what I needed </p>
+
+
+<h2> review.date </h2>
+  10-26-2013  
+<h2> review.text </h2>
+
+ <p> This is the perfect solution for displaying videos, ads, photos, graphics,or information at a business, trade show, or in any other scenario where you want to display information. I am sure that this would also be an awesome photo slide show on the wall in a home. Very sleek and stylish, with great screen quality and clarity. I highly recommend this! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome! </p>
+
+
+<h2> review.date </h2>
+  01-22-2013  
+<h2> review.text </h2>
+
+ <p> The size for the price was really good.  Has many options to view photos, video and the combination of photos with music. This with a birthday gift and when all the phots were put on the USB card(Included) and displayed on the frame, it was really a wonderful surprise. Extremely happy with the unit. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Unit </p>
+
+
+<h2> review.date </h2>
+  12-03-2013  
+<h2> review.text </h2>
+
+ <p> I&#8217;m writing this review about my new Nix X18B 18&#8221; digital photo frame.  I have had a lot of experience with digital picture frames (DPFs).  As I&#8217;m writing this, I&#8217;m looking at the remote controls of four DPFs that have failed over the years, and been replaced.  I&#8217;ve kept the remotes because I often replace a dead DPF by buying an identical new one.  Thus, the old remote will work on the new DPF - and is worth keeping.  I also threw out one more remote that failed.  So in total, I&#8217;ve bought at least five DPFs in the past.  It has been my experience that these things last about two years.  So, I probably have been buying these DPFs for about ten years.  That&#8217;s a long way of saying that I have a lot of experience with the hardware and software of these things.I was very impressed with the Nix DPF.  I looked at all of the parts, plugged everything in without reading the manual, plugged in my SD memory card, and turned it on.  Wow!  The device turned on, concluded that since I had plugged in an SD card filled with pictures (I took it out of my last, dead DPF), I probably wanted to display those pictures - and started displaying my pictures in a slide show.  Very nice!  This is the first DPF I&#8217;ve ever owned that made the radical assumption that I&#8217;d probably want to play all of the pictures on the SD card I inserted.  All of the other DPFs required me to go through a long process to teach them that fact - every morning.So far, I&#8217;ve only used the Nix X18B for one morning, but when I turned it on this morning, it again immediately started displaying my pictures.  Even better, it started displaying a different selection of my pictures then when I turned it on last night - so I don&#8217;t see the same pictures each time I turn it on.  Every other DPF had a &#8220;random&#8221; setting to shuffle my pictures, but they all displayed the same random selection of pictures every morning.  So each would start off by displaying, say, picture 100, 25, 300, 75, and 42 - every morning.  The Nix software doesn&#8217;t seem to do that.  &#8220;Random&#8221; really means &#8220;random&#8221;.  Wow!I did have one minor problem.  Nix gives you a four gig USB flash drive on which to store your pictures.  It didn&#8217;t register on my desktop when I plugged it into into one of the USB sockets in my Macintosh laptop computer.  I was trying to think of what could be wrong when I wondered if the flash drive was inserted upside down.  That turned out to be the problem.  When I reversed the drive and plugged it in again, it showed up - and I was able to copy my two gigs of pictures and video onto it.I had the same problem when I inserted this same USB flash drive into the Nix DPF.  It didn&#8217;t show up on the Nix&#8217;s desktop.  At first, I wondered if it was because the software wasn&#8217;t designed to have both a USB flash drive and an SD memory card inserted into the picture frame.  That wasn&#8217;t the case.  Again, it turned out that I had inserted the flash drive upside down.My complaint is that you should not be able to insert a USB flash drive into a computer - or DPF - upside down.  I&#8217;ve never had another USB drive or USB cable that I could insert upside down.I hang these DPFs onto the wall of my bathroom, and look at the pictures while I&#8217;m shaving each morning and brushing my teeth each night.  Thus, they are mounted about six feet up on the wall.  Many DPFs ago, I drilled holes in the wall, put plastic inserts and screws there, and tried to hang the DPF onto the screws by feel.  That&#8217;s surprisingly hard to do.  If your screws are off by even a fraction of an inch, you will find (as I did) that you can&#8217;t get the damn mounting holes on the frame to align with the screws.  It&#8217;s also very hard to even find the mounting holes on the back of the DPF when everything is out of sight and out of reach behind the thing.  I solved this problem by taking two wall-mounting picture hooks and connecting them with about a foot of picture-hanging wire.  I put the hooks in the mounting holes on the DPF, and hang the wire over the wall-mounted screws.  It allows me to hang one of these DPFs in seconds.  I&#8217;m surprised that a DPF manufacturer doesn&#8217;t include one with the product.Send me an e-mail (Moi@BobLeahy.com), and I&#8217;ll send you a picture of my setup.  It really will make your life a lot easier.I have found that these DPFs last about two years, so don&#8217;t think, &#8220;I won&#8217;t bother.  I&#8217;ll hang the blasted thing up on the wall screws and never have to think about it again.&#8221;  Wrong!  It will take you a lot of work (1) to drill the wall screws EXACTLY the RIGHT distance apart, (2) to try to get the wall screws to line up with the DPF mounting holes - when you can&#8217;t see or feel them, and (3) you&#8217;re probably going to have to do this again in two years. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Impressive Digital Picture Frame! </p>
+
+
+<h2> review.date </h2>
+  12-14-2013  
+<h2> review.text </h2>
+
+ <p> I can't add much to those who extoll the features of this display.  It is reliable, and attractive, although a little pricey.  I added the wall mount, but note it only has provision for two standard VESA-type screws.Best ancillary feature?  The sensor that detects the absence of presence of movement in an area some distance away from the display to turn on or off.  I set mine to stay on for an hour, and if no movement in the kitchen where it is installed is detected, it shuts off.  If anyone comes into the kitchen in range of the display, it immediately wakes up and turns on.  Great power saving feature. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does Everything  Described Well </p>
+
+
+<h2> review.date </h2>
+  01-02-2013  
+<h2> review.text </h2>
+
+ <p> I wanted a larger digital frame so this is the one I bought.  The unit has a VERY limited angle of view.  If you're even slightly off to the side the image is unviewable.  After mounting the frame flat on the wall I thought it was defective:  the image kept switching wildly.  I discovered that the controls are mounted in a slightly raised position on the back of the frame, and if it is flat against the wall they depress causing problems.  The USB connection is far enough back towards the center of the unit that you have to remove it from the wall to change the USB device.  Big pain.  The unit is definitely over-priced for what you get.I now bought a Haier 32&#34; flatscreen tv to use as a dedicated digital frame.  Fantastic product with a great slide-show feature.  The price is not much more than this nix product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Inferior merchandise. </p>
+
+
+<h2> review.date </h2>
+  01-14-2014  
+<h2> review.text </h2>
+
+ <p> I've been printing my wildlife and travel photos on 13&#34; x 19&#34; Epson paper but have run out of wall space. I've looked for the largest digital photo frame and have been pleased with my Opteka 15&#34;. I re-looked at my options last week and found the NIX 18.5 inch frame. It arrived yesterday. The NIX produces a more vibrant image and has a wider viewing angle than the Opteka. Its menu is easier to configure and, after several hours since opening the box, I am quite pleased with it. I would love to see a larger digital photo frame as that would best serve my display needs. For now, I'll use both the Opteka and NIX, vertically one over the other. I did not give the NIX five stars since the &#34;optimal&#34; view stretched my photos a bit too much. I use the &#34;original&#34; view but it does not fill the screen. Perhaps NIX could consider a screen configuration that matches the 'landscape' images produced by high-end digital SLRs. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> NIX 18.5 inch Digital Photo Frame bests my Opteka 15 inch </p>
+
+
+<h2> review.date </h2>
+  09-03-2012  
+<h2> review.text </h2>
+
+ <p> I purchased this product for my wife as a 10th anniversary gift. I was going to load it up with pictures from the previous ten years but I ran out of time. When my wife opened it, she loved it anyway. Here are my thoughts:Pros- The screen size is amazing!!!- Very clean look to the product- Provided table stand is very small but effective- Remote and menu system were easy to set up and use- Provided 4GB USB was plug and play- Time feature reduces hours of use and electricty by programming ON/OFF times- Screen resolution and contrast are greatCons- Packaging looks cheap. Wouldn't be good on a retail shelf but it was great for keeping a gift a secret. No way of telling what it was by looking at the box.- The trim/bezel is about an inch wide. Product would look so much better if the bezel were 1/2 or 1/3" width.Overall, this product is a 5* value and makes a very impressive dsiplay of your photos. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great value! </p>
+
+
+<h2> review.date </h2>
+  12-27-2012  
+<h2> review.text </h2>
+
+ <p> In searching the internet, it seems that digital frames aren't as popular as they were, say, a couple of years ago.Given that, I needed a solution to display many vacation / family pictures without the clutter of multiple frames all over the living room. I wanted the largest frame that would look good AND didn't break the bank.Prior to starting the my search on digital frames, I had only heard of pandigital, sony and viewsonic brand frames. The Nix brand was an unknown product to me. In continued research, I found the posted reviews to be quite acceptable, here on Amazon as well as other vendors. There wasn't anything negative which was of any concern to me.Best way to view pictures on this frame is to re-size your images using several avaiable 3rd party software to 1366 X 766 size. Initially, I used the fotosizer program as recommended by Nix tech support, which by the way was VERY prompt in replying back via email to my questions. In the end I used the windows built in PAINT program to re-size my images.I haven't used the audio features of this frame. Most likely, I won't have a need for that. I re-sized close to 80 images to the correct size and installed on the provided memory stick, which, for some reason wouldn't work on USB 3.0 port on my laptop. No worries, Once I attached it to the USB 2.0 port, all was well.Once the pics were loaded and the slide show was running, it certainly had the WOW factor from all the guests that came over for Christmas dinner. Several guests appear to be potential future customers of this frame. I certainly plan on getting another one for my parents.I don't have a need to wall mount it but from reading other reviews, it appears to have industry standard VESA mounts. The images are quite bright and don't really lose any quality if viewing from an angle.Based on a three week usage, I recommend this product and gave it 5 stars. Time will tell of its longevity.any questions - post'em here, I'll try to reply as quickly as I canupdate: 3/4/2013 - no issues. The digital frame is working perfectly. It runs at least 4 hours on weekdays, and at least 16 hours on the weekends. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent large frame </p>
+
+
+<h2> review.date </h2>
+  01-05-2013  
+<h2> review.text </h2>
+
+ <p> This is not a 4x3 ratio screen like the 15 inch is. It is 16x9It is the same height, but wider, therefore all your photos are either stretched or shown with black bars -- your choice! And portrait mode photos look absolutely silly with black bars on either side the same size as the displayed picture!If you want to view widescreen video, the 16x9 will look fine.I own the 15 inch and love it for photos.I bought this as a larger PHOTO FRAME, not as a TV for videos.Sending it back as not a photo frame at 4x3.Otherwise: this is a great product with great features. The 15 inch for standard camera format photos is great.If you own a business and are looking for a flexible display this will work with some pre planning.If you want to crop your photos to fit 16x9 (landscape - portrait have way too much side black border), this will work.If you want to pop your camera card into it for dsiplaying your photos: not this size, Get the 15 inch.I give it 4 stars because it is a pretty good unit (no longevity data), and will not ding it because it does not fit my needs (and most people), especially when they make a product that does: the 15 inch (picture area for 15 inch photos is same as the 18.5 inch with black side bars)Thanks for reading. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Warning: Good for 16x9 video, stretches native 4x3 photos </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

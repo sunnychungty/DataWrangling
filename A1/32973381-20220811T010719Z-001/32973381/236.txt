@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000FGGWGK <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-26-2006  
+<h2> review.text </h2>
+
+ <p> Didn't like this movie at all. Struck me as two TV comedic stars desperate for a movie. I couldn't even stand this movie enough to finish it. It wasn't funny and both actors seemed out of place and trying too hard for a laugh. And I consider myself a Ray Romano fan, probably why I rented this movie in the first place. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lousy Taste </p>
+
+
+<h2> review.date </h2>
+  01-04-2013  
+<h2> review.text </h2>
+
+ <p> If you think a movie about high-quality beef salesman might be funny, go ahead & get this movie. Reality is that the plot is stupid and lacks any real purpose, the acting is poor.Spoiler alert - they have the audacity to interrupt a promising love scene with Sofia Vergara by telling Joe Montana's character that Sofia used to be a guy.How sick is that! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Waiting for something to happen </p>
+
+
+<h2> review.date </h2>
+  05-21-2014  
+<h2> review.text </h2>
+
+ <p> I really like Kevin James and Ray Ramano but this movie was stupid. Not at all a good movie.  Save your time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hated it </p>
+
+
+<h2> review.date </h2>
+  07-06-2006  
+<h2> review.text </h2>
+
+ <p> This movie is in one word " tedious ". I was goning to go with " unfunny " but I did laugh once.Ray and Kevin are so type cast as Ray and Doug that it's hard not seeing them as those characters. A beard and messed up hair doens't change the fact that we're watching two very well known TV characters.There is so much foul language in this film I was kind of shocked. I'm no prude but it seems it was all done to try and change the nice guy image of Ray and Kevin. That's the only explanation I can imagine for the profanity overload. In my opinion this movie isn't going to help advance either guys career from the small screen to the big screen. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> This isn't the Ray and Doug we've come to know and love. . . </p>
+
+
+<h2> review.date </h2>
+  02-25-2014  
+<h2> review.text </h2>
+
+ <p> It was an okay movie.  I expected it to be alot funnier than it was as we like both of these actors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An okay movie </p>
+
+
+<h2> review.date </h2>
+  07-11-2006  
+<h2> review.text </h2>
+
+ <p> I was interested in this movie because I am a big fan of Everybody Loves Raymond and I wanted to see Ray Romano playing a totally different kind of character. Well, after the appeal of that wore off, all that was left was a bland movie with very little laughs and uninteresting characters in a story that goes nowhere. No wonder this went straight to video. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A total bomb </p>
+
+
+<h2> review.date </h2>
+  04-30-2009  
+<h2> review.text </h2>
+
+ <p> I am big fan of Kevin James movies. I love his works and he is funny guy. I really love to watch him in other movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love it </p>
+
+
+<h2> review.date </h2>
+  06-27-2006  
+<h2> review.text </h2>
+
+ <p> this is goin 2 be good, i think so. it's going to be funnybeacuse these 2 guys have good tv shows, i watch them both alotand i like them. i think it's goin to be nice, not too bad. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> my 2 fav actors in 1 film. a dream.... </p>
+
+
+<h2> review.date </h2>
+  06-17-2009  
+<h2> review.text </h2>
+
+ <p> GRILLEDI remember walking around Wal-Mart one night and they were bringing out all the new releases, I decided to wait around just in case something came out that I would be interested in. I can't remember what all as out at the time but I do remember seeing this as soon as they brought it out of the box. A movie starring not only the great Kevin James but one of his best friends and the guy he broke into the business with Ray Romano starred as well. When I looked on the back I noticed that Michael Rapaport, Juliette Lewis, and Burt Reynolds, you know I bought this.Dave [James] and Maurice [Romano] are meat salesman who go door to door trying to sell all kinds of meat and fridges. When trying to make a sell to some woman she gets a call from her friend who is suicidal, off they go to help out and try to make that sell. Dave needs to buy his daughter a birthday present and Maurice needs to finish school. But on this very hot day thinks don't work out well as they witness a murder and have to go on the run, they don't want to be killed either. The crazy thing is they still want those sales so even in danger they are pushing for sells.Writers Larry Hankin and William Tepper really came with an original story and the meat thing driving the film was really interesting. The script has a very distinct feel to it that is hard to describe but when you see it you will know what I am talking about. Director Jason Ensler really keeps things kinda gritty and realistic and keeps unexpected things happening. The humor of this film is most likely not for every one but for those who get it this is a very fun film.Kevin James is excellent as Dave and once again steals the show from all others with his down to earth but down and out performance. James can really act and he should try his hand at a couple of more dramatic roles, but don't leave the comedy either. Ray Romano is Maurice and he is not the Ray you watch on TV. This character is kinda driven by the opposite sex and has a bit of a mouth on him, at least compared to his TV image. Juliette Lewis as always is wonderful and proves why she is one of the greatest ever, and the same can be said about Michael Rapaport. Burt Reynolds is as much a presence on screen here as he ever was and Sof&iacute;a Vergara's character may surprise you.The humor of this film is either hit or miss depending on your taste but to me it is a very entertaining flick with a weird story. But it is a fun flick and the fact that these guys just want to sell some meat is hilarious to me considering what they go through. This movie is not for everybody but for the ones that will appreciate it is a fun flick. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> KEVIN JAMES STEALS THE SHOW </p>
+
+
+<h2> review.date </h2>
+  07-15-2006  
+<h2> review.text </h2>
+
+ <p> Ray and Kevin play against type rather well in this movie. The movie has a tightly woven, rather implausible plot. The plot isbasically two salesmen in a slump make the ultimate sale to a Jewish mobster. Why Burt Reynolds was casted as a Jewish mobster, I can't say, although he was good. The movie is not laugh-out-loud funny. However, there is a wit to it. The biggest thing it has going for it is the fact that it is short, about 90 minutes. This keeps the movie moving. I don't know if I liked the movie, but it is interesting. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Against Type </p>
+
+
+<h2> review.date </h2>
+  08-19-2012  
+<h2> review.text </h2>
+
+ <p> I picked this movie up about of a dollar bin and thought it would be as bad as most low budget films.  I couldn't have been more wrong. The characters are deep and the humor is understated.  If you are expecting a slap stick laugh tracked sitcom style movie because of the actors you are out of luck.  When actors take themselves into a new role and play a different type of character I love it.  The ending may have been a little predictable but I thought there were enough twists and turns to keep you wanting to see how they got there.Another important aspect of a DVD is the extras not just the movie.  I think this is another place where this shines.  The featurette is pretty cool and you should watch it if you liked the movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A surprisingly good movie </p>
+
+
+<h2> review.date </h2>
+  12-09-2007  
+<h2> review.text </h2>
+
+ <p> Do NOT rent or buy this movie if you are looking for laughs.I rented it and then read reviews. The reviews are extreme to say the least. Let me try to clear the cloud of contrast.Those of you who love movies like Lost in Translation or other character studies may want to look into Grilled. The simple plot is a day in the life of two meat salesmen. Each are motivated to sell by different extenuating needs. The frustration of sales gone wrong adds to the sense of underlying desperation. They finally hit big time, until the bad guys come looking for the buyer and the sellers get sucked into a life and death drama.The movie is quirky more than funny. Kevin James and Ray Romano stretch their acting muscles giving their sit-com muscles a rest. They both do a great job playing almost down and out desperate characters in a situation that could have been written for laughs or played for laughs but instead became a darkly quirky. I'm giving it four stars for originality, acting, writing and creativity.Those of you who are language sensitive -- the F-word flies frequently. Not appropriate for children or young teens if you are concerned about sexual messages sent via film. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't Rent or Buy if You Want Laughs -- But Don't Write it Off if You Like Quirky Black Humor </p>
+
+
+<h2> review.date </h2>
+  09-28-2006  
+<h2> review.text </h2>
+
+ <p> I can't believe two such great actors could produce such a slow, unfunny movie. It had so much potential.It was simply awful. Painfully slow and uneventful. Predictable. I had to fast-forward through much of it - it just went nowhere.I can't find anything nice to say about this movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Painfully slow, awful </p>
+
+
+<h2> review.date </h2>
+  08-04-2006  
+<h2> review.text </h2>
+
+ <p> It pains me to write a negative review about a movie with Kevin James , because I'm a huge fan of his work on 'The King of Queens' and even the movie Hitch, but alas, I can see why this movie never got much in the way of promo, and it's a shame, because James and Ray Romano CLEARLY have great chemistry together in this movie, but the wishy washiness of the script just trumps all the funniness they have together...The premise of the movie was just too prefabricated, and not original or clever at all. It felt like a poorer  adaptation of Chris Farley and David Spade in 'Tommy Boy'! Here's hoping they both get to work together again in something  that matches their higher comedic caliber than what this movie offers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Two funny guys deserving of better fare.... </p>
+
+
+<h2> review.date </h2>
+  05-15-2008  
+<h2> review.text </h2>
+
+ <p> Ray and Tubby play meat salesmen who wind up getting mixed up trying to sell meat to the mob and blah blah blahThe comedy is not strong, it's pretty slow in most parts, and it's not a fast paced movie.Wait for it to be on TV. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Everyone loves the king of ..... wait, not this one they dont </p>
+
+
+<h2> review.date </h2>
+  07-13-2006  
+<h2> review.text </h2>
+
+ <p> Was this supposed to be a comedy in any sense of the word ?After 40 minutes of waiting for some sort of story development that had any meaning, even a mild chuckle or even a grin... we finally EJECTED this DVD and gave up.A zero. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Painfully boring and dull..... ejected after 40 minutes </p>
+
+
+<h2> review.date </h2>
+  08-28-2006  
+<h2> review.text </h2>
+
+ <p> Ray Romano and Kevin James starring in a feature length comedy...Well, that creates anticipation...The pic doesn't really live up to the potential that these two really funny guys can do with the right material. Ofcourse there are laughs here and there, 'cause they both have undeniable talent, but overall it's somewhat of a missed chance and only interesting for real fans of the two...Too bad, I must say.... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Could have been so much more </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

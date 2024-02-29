@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B00000J96I <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  03-01-2005  
+<h2> review.text </h2>
+
+ <p> Buffalo Girls is one of the best made-for-tv movies from the 1990s and it is a pleasure to have this forever on DVD.The film stars Anjelica Huston, Melanie Griffith, Peter Coyote, Sam Elliot, Gabriel Byrne, Liev Schrieber, Jack Palance, and Reba McEntire.  Even if the film hadn't been as well written as it was, the sheer star power of the film would have carried it through.Huston plays Calamity Jane expertly with such emotion and understanding of the character.  Melanie Griffith was my favorite, however, playing ex-madame Dora DuFran, Calamity's best friend.  Her story is an emotional rollercoaster, and Griffith's incredible skills as an actress shine through here.  Sitcom star Reba McEntire plays Annie Oakley, and it's a shame that her role in the film is so small.  In the 3-hour film, she is maybe in it a total of fifteen minutes.  I think Reba is wonderful and it would have been nice to see more of her as Annie.  All in all, a great, involving movie that is a joy to experience.The DVD from Platinum Disc Corporation has no extra features, but luckily presents the movie as it originally aired on TV, in two seperate parts.  The earlier VHS release had the two parts edited together into one long movie and had a scene edited out.  It's nice to have the Buffalo Girls in it's original form.  The picture quality is perfect and the sound is a robust 2-channel stereo track with surround seperation at very appropriate times in the film.For the low price Amazon is offering this 3-hour DVD at, it is ridiculous not to buy it.  Even if you are not a fan of westerns (I certainly am not), it will still keep you entertained! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A wonderful mini-series! </p>
+
+
+<h2> review.date </h2>
+  09-29-2008  
+<h2> review.text </h2>
+
+ <p> I didn't expect to find this so moving!  I initially wanted to watch it for Reba McEntire.  (I'm a fairly new Reba fan and I've been trying to watch and listen to everything of hers I can find.)  Well, she is only in about 15 minutes of the movie, but the performances were all superb and I'm glad I bothered to watch the whole thing. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Lovely movie </p>
+
+
+<h2> review.date </h2>
+  11-15-2002  
+<h2> review.text </h2>
+
+ <p> I really bought the movie because Liev Schreiber was in it.  But it turned out to be sort of fun.  Good for a Friday night at home. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some fun in the wild west... </p>
+
+
+<h2> review.date </h2>
+  12-18-2006  
+<h2> review.text </h2>
+
+ <p> good actors, great story... some good action too... this is great movie to help put together the bits and pieces of the stories you've heard about Wild Bill Hickok, Calamity Jane, and more.  It all may be true history, it may be fictional, it may just be myths mixed with fact, but whatever the case, there's more truth than not in this version of the 1870's </p>
+
+
+<h2> review.summary </h2>
+
+ <p> underated western, great historical script </p>
+
+
+<h2> review.date </h2>
+  08-17-2007  
+<h2> review.text </h2>
+
+ <p> By the end of the week I sometimes need just a "light" "chick" flick.  I decided that I wanted this one in my collection.  It is well worth a large bowl of popcorn and soda.  :o) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Buffalo Girls </p>
+
+
+<h2> review.date </h2>
+  09-12-2007  
+<h2> review.text </h2>
+
+ <p> A good TV film. The main characteristic is typical of TV films or mini-series. It is slightly too slow and it concentrates too much on close up shots of characters or faces, and less on action, vast movements that the TV screen cannot capture. The story itself is based on the life of Bill Hicock and Calamity Jane, and of course Buffalo Bill. You can find them in Cody, South Dakota, with the Buffalo Bill museum, but also the Colt Museum and the Indian village Museum. You can visit the reconstituted western village composed of all cabins and houses recuperated everywhere in the west, and of course the cemetery with the tombs of Bill Hicock and Calamity Jane and a few others. You also have the rodeo ground and the old western saloon where some wild cowboys regularly organize some real true false holdups and gunfights in the street. This film is a commemoration of this period when the wild west turned into the not so wild west and pretty soon the no longer wild west. The film is trying to show this period and these characters from inside their psyches and it is pretty sure not to become over-sentimental. But it provides us with a picture of that wild west that is rather interesting and definitely human. The other side of the traditional western films with the guns, the fights, and the dishonest settlers or exploiters of settlers. And it is good to have that other vision, particularly with the women, and why they came to the west. But also the nostalgia that inhabited the minds of the pioneers, the trappers, the hunters and also, but far behind in this film, the Indians who were seeing a mode of living, a life style disappearing, and themselves along with it. The shortcoming at this level is that it did not explain enough the new world that was coming out of it, that was emerging.Dr Jacques COULARDEAU, University Paris Dauphine, University Paris 1 Pantheon Sorbonne & University Versailles Saint Quentin en Yvelines </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Believe it or not, the Wild West did exist </p>
+
+
+<h2> review.date </h2>
+  10-23-2004  
+<h2> review.text </h2>
+
+ <p> I loved this mini series when it first aired in 95 on CBS but I did not see the first part until the VHS release and was disaponted to see that part 2 had some of first creits taken out and a  part with jane living to go to the boat to go to England, that was a wonderful part and the music was wonderful. The complite seris is here and the piture is much more clear than the VHS. The part where jane leaves for the boat is HERE. I love this seris even though it is not like the book. Melanie Griffith and Anjelica Huston are wonderful. The art work on the disk is beautiful and the case is as well.I love the little girl that playes jane's little girl she is perfect for that part. The parts in the Uk are perfect and the New Mexico parts are perfect. Thank you for such a great seris This is a beautiful movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A wonderful DVD to a great mini series </p>
+
+
+<h2> review.date </h2>
+  12-05-2011  
+<h2> review.text </h2>
+
+ <p> A few readily recognizable names Anjelica Huston ("The Witches," "The Addams Family," "Prizzi's Honor," "Lonesome Dove" ); Melanie Griffith ("Working Girl," "Lolita," "Body Double," "The Milagro Beanfield War"); Gabriel Byrne ("Miller's Crossing," "End of Days," "Ghost Ship," "The Man in the Iron Mask"); Peter Coyote ("Return of the Living Dead: Rave to the Grave," "Return of the Living Dead: Necropolis," "The Hebrew Hammer"); Tracey Walter ("Batman," "The Silence of the Lambs," "Death to Smoochy," "Young Guns II"); Floyd `Red Crow' Westerman ("Dances With Wolves," "Hidalgo," "Comanche Moon," "Northern Exposure"); Jack Palance ("Ebenezer," "City Slickers I & II," "Che!," "Revak the Rebel,"); Charlayne Woodard ("Cindy," "Crackers," "Wiseguy," "Lackawanna Blues"); Reba McEntire (TV series "Reba," "Tremors," "One Night at McCool's," & Country superstar singer and legendary superstar); Sam Elliott ("We Were Soldiers," "Ghost Rider,"  "Gettysburg," "Conagher"); and others, make this one of those pipe-clogging epics that require multiple viewings.  Some people say read the book by Larry McMurtry.  I'd rather read, "The Comedy of Interaction in Human Relationships" by Chester Isaiah Muncie.Big effort by several people (in front of & behind the camera), but it seems awkward now and then as if nobody could agree on what was supposed to happen, so they left it up to the cutting room floor.  May have been too many egotistical divas and prima donnas sitting like a fat kid at the end of a chocolate candy assembly line with their mouth open.  There are historical inaccuracies, and some Hollywood liberties taken here and there, but overall the movie has entertainment value, even beyond the A-list cast. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> worth watching a couple of times </p>
+
+
+<h2> review.date </h2>
+  05-14-2010  
+<h2> review.text </h2>
+
+ <p> I got this aa a companion to another movie I bought.  I'm not regretting it.  A fun movie </p>
+
+
+<h2> review.summary </h2>
+
+ <p> fun movie </p>
+
+
+<h2> review.date </h2>
+  08-27-2003  
+<h2> review.text </h2>
+
+ <p> Angelica Huston rocks in Buffalo Girls, in which she plays Calamity Jane. This movie plays fast and loose with history and fiction, but what good 'true' movie doesn't. A great take on a woman's perspective of the Old West. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ride 'em, cowgirls! </p>
+
+
+<h2> review.date </h2>
+  01-24-2010  
+<h2> review.text </h2>
+
+ <p> I really don't understand all the bad reviews that I've read. I guess people just don't get it. I love this movie, and have watched it over and over again. My husband also loved this movie. Angelica Houston is the best Calamity Jayne I've ever seen. I'm not a big fan of Melanie Griffith, never thought she could act. But she is nice to look at, and plays her part as good as Melanie possible could. I love her costumes. This movie goes through some really fun history of Buffalo Bill Cody, Wild Bill Hickock, Calamity Jayne, and Annie Oakly, played by Reba McIntire. It's fun, it's realistic, and it's entertaining. I love the scenery. The film locations added much to the movie in my opinion. Angelica Houston seems to steal the show in this one. I highly recommend this movie to anyone who enjoys a good western. Dont' expect any shoot 'um up stuff though, that's not what this is about. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Love this sleeper. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

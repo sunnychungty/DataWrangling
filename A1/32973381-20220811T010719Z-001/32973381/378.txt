@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1909411019 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-18-2013  
+<h2> review.text </h2>
+
+ <p> This exciting book has real excitement, danger, and an almost satisfying ending, leaving off with the main characters safe but the story ending is also on a cliffhanger. Great for ages 10 and up </p>
+
+
+<h2> review.summary </h2>
+
+ <p> time traveling adventure fun historical fantasy fiction </p>
+
+
+<h2> review.date </h2>
+  07-22-2013  
+<h2> review.text </h2>
+
+ <p> I think there just aren't enough books written for children involving time travel so well done to this author for creating this exciting series. This is the first book in this adventure series and it will hook you that you will want to read the others. It's a story that takes you on a journey into the past with likable characters and at a good pace - I highly recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A fun and adventure tale into the past </p>
+
+
+<h2> review.date </h2>
+  03-10-2013  
+<h2> review.text </h2>
+
+ <p> A perfect read for that young reader who may shy from reading. Lots of adventure, talking cat, the Legend of Atlantis, likeable characters, and of course, the evil doers! Loved this for its fast pace and tight plot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Quick Entertaining Read </p>
+
+
+<h2> review.date </h2>
+  10-27-2013  
+<h2> review.text </h2>
+
+ <p> This book is excellent. The Shadow of Atlantis, seriously, is a wonderful book and I look forward to reading the remaining books in the Shadows of the Past series. Wendy Leighton-Porter has crafted an adventurous and magical tale that will capture the reader right from the start.  This book acquaints us with the story of  three friends, and a precocious cat as they journey to a new an old world where they make new friends. Yes, they make a few enemies as well and, oh yeah, they happen to save some people while they are at it, too.I am not one to re-summarize a book or give too much away but I will include one of many lines that made me chuckle.&#34;Being rather a fastidious cat he hoped they'd soon be going home to civilisation, where he had his own litter tray fitted with a lid and a door. He was definitely of the opinion that cats need their privacy where certain matters are concerned.&#34;I was reminded of The Magic Tree House series as I read this book. I appreciated and enjoyed that the author took the time to include notes at the end, which explained some of her decisions in writing about Atlantis.I highly recommend this book to boys and girls ages 8 and up. I also will strongly recommend it to my own, ten-year-old daughter. I am positive that she will adore it. Katrina, I believe, may simply fall in love with Max, should she read this enchanting story.No doubt about it, this is a five star book. Thank you for sharing your story with us, Wendy!I look forward to reading the other books in the series. Well done. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> An adventurous and magical tale that will capture the reader right from the start. </p>
+
+
+<h2> review.date </h2>
+  04-28-2013  
+<h2> review.text </h2>
+
+ <p> An intriguing time-travel fantasy in which twins, Joe and Jemima, in their attempt to trace their missing parents, are transported to ancient Atlantis. Their talking cat, Max, proves an invaluable companion when their desire to warn the Atlanteans about the impending doom that threatens their city lands them in big trouble. Kids will love this story, and easily identify with the main characters, including the boy next door, Charlie, and the delightful Varna, daughter of their Atlantean hosts. As for Uncle Richard... well like the rest of us adults, he really ought to believe in the stories of children... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beautifully written and imaginative time-travel tale for young readers </p>
+
+
+<h2> review.date </h2>
+  07-01-2013  
+<h2> review.text </h2>
+
+ <p> Ten-year-old twins Joe and Jemima Lancelot get the shock of their lives when their parents disappear without a trace and with no explanation. The only clues are a mysterious old book that had belonged to their father and a piece of jewellery belonging to their mother ... something she always wore. The only witness to part of their disappearance is Max, their unusually talented Tonkinese cat. Months pass with no further information, and so the twins begin a new life with their Uncle Richard, a professor of archaeology. Although he hasn't any kids of his own and isn't very good at parenting, luckily his wonderful housekeeper, Mrs. Garland, makes the twins feel at home. Uncle Richard said Max (short for Maximus) could stay too, so, apart from deep sadness about their parents, the twins settle into a new routine. Charlie Green, the shy boy next door, soon becomes their best friend.One rainy day, the twins decide to look at their father's old book. In an amazing magical moment, they manage to open the book and, accompanied by Charlie and Max, are transported to the lost city of Atlantis. They befriend a kind family but the disaster facing the city soon becomes their problem. The trouble is, only a few people believe their warnings. Can they escape dangerous enemies, save the city, and get back to their own world before it's too late? And where are their parents?I loved this story. The kids are all clearly defined, and bring their own thoughts and personalities to this well-paced adventure: Joe always daring and often impetuous; Charlie a little hesitant but getting braver; and Jemima, sensitive and perceptive. Max is a unique character all on his own: wise beyond his years, observant, and alert to any hint of danger. He adds a lovely touch of humour with his cryptic comments. Wonderful descriptions bring the past to life and create a sense of otherworldliness mixed with reality. The story of Atlantis is one of those incredible mysteries that people aren't quite sure is true or not. I'm a firm believer and I really enjoyed how much authentic detail the author includes in describing the history and legends of Atlantis and its origins. Greek mythology interweaves nicely with the story and makes for easy and interesting learning for young readers. This book is the start of a series that takes Joe and Jemima on new and exciting adventures into the ancient world. Highly recommended. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Wonderful Adventure </p>
+
+
+<h2> review.date </h2>
+  03-27-2013  
+<h2> review.text </h2>
+
+ <p> Fast paced and exciting. Nice blend of ancient and modern. I'd like a book that took me through time. My six year old grandaughter loved it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Nice one </p>
+
+
+<h2> review.date </h2>
+  07-01-2014  
+<h2> review.text </h2>
+
+ <p> I first came across Wendy Leighton-Porter&#8217;s books for young adults when I read The Shadow of the Volcano, set in Pompeii and one of the Shadow of the Past series.Consequently, I was eager to read the first book of the series, The Shadow of Atlantis to find out how it all came about! It did not disappoint. I am impressed with both the style of writing and also the content. The writer does not talk down to her young readers but is able to engage them on the fantasy journeys where there&#8217;s lots of adventures and a happy ending. Although, alas in The Shadow of Atlantis the parents of the twins and the reason for the series, are still lost in the past but they are alive!So here we have Joe and Jemina, their friend, Charlie and the lovable talking cat, Max transported back in time to the legendary Atlantis where they begin their quest to find their missing parents. The existence of Atlantis has never been proven but perhaps if it did disappear beneath the waves, this might be a sobering lesson for today&#8217;s young readers to ponder upon. After all, the challenges and possible effects of global warming and consequent flooding on a massive scale will be the world these young people inherit.Perhaps it is no accident that the writer commenced her stories in the lost city of Atlantis. It is my opinion that the Shadows of the Past series explore the Ancient World in a delightful and very readable way. History is not dull when you read Wendy Leighton-Porter&#8217;s books. Indeed, her Atlantean family in the Shadow of Atlantis escape to Crete and I am eager to meet up with the children&#8230;and Max, of course, in the next book of the series, The Shadow of the Minotaur. I am sure I won&#8217;t be disappointed. Books for young and the not so young. Long may the series continue! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Engaging and a good read for young and old </p>
+
+
+<h2> review.date </h2>
+  05-19-2013  
+<h2> review.text </h2>
+
+ <p> Shadow of Atlantis is an imaginative tale that will draw children in right from the get go. The characters are deftly and warmly established, and Wendy shows a sure touch in enabling these characters to interact in a fun but believable fashion, each playing their own part in the plot's development. This adventurous book will appeal to boys and girls alike (and even cat-lovers; but no spoilers!) A most promising debut from this up-and-coming children's author. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Atlantis is a Winner! </p>
+
+
+<h2> review.date </h2>
+  10-27-2013  
+<h2> review.text </h2>
+
+ <p> We follow the adventures of two ten-year-old twins, forced to go and stay with their Uncle Richard due to their parents mysterious disappearance. With a gold necklace the only link to their parent's whereabouts, Jemima and Joe are suitably devastated by their by their predicament. Soon after their arrival, they befriend their neighbour Charlie, who is a little on the small side and prone to the taunts of the school bullies. When a strange book and some odd trinkets reveal a portal to a time that no longer exists, the children are excited for an adventure. They soon discover they have stumbled into the ancient mythical city of Atlantis. Their cat Max somehow follows them through, the portal, and the four friends find themselves taken in by a little girl called Varna's family.The friends enjoy learning about this new and exotic place, but unfortunately they have attracted some unwanted attention from the Temple priests, especially since they are not the first visitors to Atlantis. The children realise that Atlantis's is due for some kind of disaster and they do everything they can to convince their new adoptive family that they must leave, or risk perishing. The unwanted attention, lands them in the prison cells at the hands of the sinister priests, but more surprises are in store for the friends. I won't give the ending away, so you will just have to read it yourself. In an exciting turn of events, the children find their way to safety, but not without a new resolve, to do everything in their power to find their missing parents. Thus concludes the first of many great adventures that Jemima, Joe, Charlie and Max embark upon in the Shadows From The Past series.This was a great book, with characters that you could really grow to love immediately. The children are caring and supportive or each other, with just a hint of mischief, which Ms Porter writes so wonderfully. Their desire to help their new adoptive family, reveals things about themselves that they never realised and in turn, gives them new courage and resolve to find their parents. The Priests in the tale were quite sinister and nasty so I would suggest children aged 10+ would most enjoy this tale.  It was even paced with enough high's and low's to keep my attention, and I would highly recommend this lovely series to middle graders and I am excited for the next in the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Endearing and Adventurous </p>
+
+
+<h2> review.date </h2>
+  10-21-2013  
+<h2> review.text </h2>
+
+ <p> This was a fun story. From the very start, I felt connected to the characters, understanding their feelings desires, relationships. The author writes with an ease that made the world building, characters and story flow.The story is clear and precise, balancing the development of the world, the plot and the characters. I never felt a moment if confusion (even with the suspension of belief) or wish for more depth. The author seamlessly blended modern children into an ancient civilization.When they made it to Atlantis, there was a realism I didn't expect. I expected more mysticism and beauty. But instead felt the realism of Atlantis as a place, and I appreciated that.  This is a nice story that combines adventure, mythology, and friendship. It tells the tale of friendship, using each other's talents and skills, and being brave despite rough circumstances... And that adventure can happen when you least expect it.A solid 4 star story! I look forward to the rest of her series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The author seamlessly blended modern children into an ancient civilization </p>
+
+
+<h2> review.date </h2>
+  06-07-2013  
+<h2> review.text </h2>
+
+ <p> it was an ok book. it was a little slower for me to start but i think my son would love it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> its ok </p>
+
+
+<h2> review.date </h2>
+  10-19-2013  
+<h2> review.text </h2>
+
+ <p> This is a fabulous fantasy for middle graders. I thoroughly enjoyed reading The Shadow of Atlantis, it was a lot of fun and very intriguing. Being the first in the series, it set all the wheels in motion and I would love to read the next to find out what the children and Max get up to. I really love the aspect of the talking cat, it makes everything even more interesting. The writing style was great also.Jemima and Joe are ten year old twins that have been orphaned and living with their Uncle. Their parents went missing mysteriously and the only thing left behind at the scene of the crime was a book. Uncle Richard would tell stories about the book and this one particular day, they had permission to have a look at the old tome with their neighbour, Charlie. With Max the unusually big, but knowing cat trailing behind, the three children grabbed the antique to check it out.The book wouldn't open, it was like the book had been glued shut. On closer inspection there appeared to be a little keyhole in the cover. Jemima recognised the size for the necklace that belonged to her Mother and tried the key in the lock. BINGO! The book opened to a page that was beautifully illustrated and had a word written in jewels. The jewelled word was an anagram, they had to read the riddle and answer the question.A strange cloud appears in the room, investigating further they discover it is another world, Atlantis. Do they investigate further? Will they be able to return? What will happen back home while in Atlantis? These are all questions that Jemima and Charlie thought, but Joe being the spontaneous twin, was ready to jump in. With a little coaxing, the children plus Max head back in time....The children are going to try and help the people in Atlantis by telling them of their destruction. Hoping they can at least get some of the people to safety beforehand and allowing them to live happily ever after. Arriving to find some children playing on the beach, they quickly make friends. The hospitality of these people was very heart-warming and the children plus Max were quickly accepted into the household of Varna, the girl they met on the beach.Will the children be accepted within the community of Atlantis? Will the people believe the destruction is coming and run for safety? Can they return home safely? Will they discover anything more about the twin's missing parents?Causing trouble and getting captured, this adventure filled with mystery, fun and excitement will keep you hooked to the pages and wanting more. This fantastic series will certainly be a winner with middle graders, being able to relate to the curiosity and the loyalty of friends. The Shadow of Atlantis is followed by The Shadow of the Minotaur, go ahead and check out the series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WONDERFUL - Full on adventure with mystery and fun! </p>
+
+
+<h2> review.date </h2>
+  11-06-2013  
+<h2> review.text </h2>
+
+ <p> (4.5 stars) Joe and Jemima Lancelot's parents have disappeared without a trace and their uncle, Richard, takes them in, along with their cat, Max. Richard is single and a professor of archaeology at the University of London. He loves them but isn't used to having kids around so they're on their own a lot and they're all adjusting to their new situation. On the first day of summer vacation, their friend Charlie comes over, and they decide to go to the spare room on the top floor where their parents' things are stored to look for a book. It's one of their parents' most prized possessions and as they look at it, they can't figure out why. They become intrigued with it and see a strange word with a rhyme underneath it. They figure out what it means and find themselves in Atlantis. When they realize where they are, they decide they want to try to warn the people they meet about what's going to happen to them before Atlantis disappears. But not everyone is anxious to hear what they have to say.I really enjoyed reading about Joe and Jemima. They're going through a difficult time and want to feel close to their parents which is when they discover the strange book. When they get to Atlantis (along with Charlie and Max, their cat), they meet Varna and Mykos and their parents. There's some confusion as they try to figure out why they are each taking turns at being able to speak and understand the Atlantean language. They figure that out and come across other challenges, like how to get grown-ups to believe what they're trying to warn them about.The children learn more about their cat, Max, who is full of surprises. He plays a big part in their adventure and has quite the personality. I was hooked from the first page and this book held my attention because I wanted to know what would happen to all of them and how they would escape the tough situation they found themselves in. There was enough mystery and loose ends when I turned the final page to keep me wanting to read more.This is a fun journey to an ancient time and place and it's only the beginning. There are currently six books available and there will be a total of 15. This will be a fun series to read with my children and I highly recommend it! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beginning of a fun series! </p>
+
+
+<h2> review.date </h2>
+  10-01-2013  
+<h2> review.text </h2>
+
+ <p> The book opens with Joe and Jemima's beloved cat, Max, watching curiously as some strange event is unfolding in the attic. This event culminates in the twin's parents disappearing.The children go to live with their Uncle Richard and his housekeeper Mrs. Garland. They befriend the next door neighbor boy, Charlie.The trio soon finds the mysterious and old dusty book that belongs to the Lancelot twin's parents.With a little 10 year old ingenuity, they manage to open the book and discover one of its secrets...getting swept back in time to Atlantis! There they meet Varda and are able to speak her language in yet another secret of the book. It turns out, so can Max! Varda takes the trio to meet her parents and family whom they end up staying with.The adventure continues as Joe, Jemima, Charlie and Max along with Varda's help, explore this ancient and mythical city. Of course with every good story they run into some major trouble, especially when they try to warn the city people about impending danger.Will they be able to warn the inhabitants in time? Will the manage to find their way out of trouble and return home? Will they find their parents? That is up to you to find out when you read the book.----------------This chapter book by author, Wendy Leighton-Porter is certainly for the adventure seeking kid. This is her first in a series and really does not disappoint.Even though I am much older than the 8 year old up that would be recommended age group to read this, I found myself engrossed in this book.It had everything the young adventurer wants, fun characters who are relatable, mystery and a little mayhem too.This book is a must read and gets 5 stars!~Naila MoonDisclosure: I received a free copy of this book for my open and honest opinion. The opinions expressed here are 100% my own. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For the adventure seeking kid </p>
+
+
+<h2> review.date </h2>
+  05-29-2013  
+<h2> review.text </h2>
+
+ <p> The Shadow of Atlantis is the first book in a series featuring 10 year-old twins Joe and Jemima, their friend Charlie, and the talking Tonkinese cat, Max. We first meet Joe and Jemima when they go to live with their Uncle Richard after their parents' mysterious disappearance. When their friend Charlie comes over for a visit, they stumble upon their parents' most prized possession in an old wooden chest in the attic: an ancient book titled Shadows From the Past. To unlock its magical powers, the children must first solve a riddle and when they do, they find themselves (and Max) whisked away to the past in the mythical city of Atlantis.Soon, the friends find themselves warmly welcomed by a family in Atlantis, but not everyone is so keen on accepting these mysterious strangers within their midst - - especially when they begin to prophecize about the destruction of their beloved city of Atlantis. Will Joe, Jemima, Charlie (and Max) be able to convince their new-found friends to leave their home before Atlantis is submerged forever?My Thoughts:Wendy Leighton-Porter has written a fantastic series of books (i.e., Shadows From the Past) filled with mystery, suspense, and adventure. If you'll recall, we helped to promote the fourth book in the series, The Shadow of The Pyramid back in March. The Shadow of Atlantis is the first book in a series of 15 planned stories that all involve time-travel to historically relevant eras and/or locations including Atlantis, ancient Greece, ancient Egypt, Arthurian times, among others. In each story, the children travel back and encounter the people of that time (sometimes legendary - King Tut for example) and based on their knowledge of historical events (e.g., the destruction of Atlantis) attempt to change the course of history by helping out new friends.In this first book, the stage is set for the larger plot line that is threaded throughout and underlies all the books in the series; namely, the mystery surrounding the disappearance of Joe and Jemima's parents. In each book, the twins discover that their parents had previously visited the same location. In Shadow of Atlantis, they are referred to as the other strangers who also foretold of the destruction of Atlantis. Thus, the mystery that underlies all the books consists of determining the following: a) What happened to the parents? b) Where are they currently? c) How can they return to the present? Each book brings the children one step closer to solving the mystery.I found the books to be reminiscent of Mary Pope Osborne's Magic Tree House books. In those books, the kids also travel back in time to historically important times and places. Also, they usually had a task to complete or a mystery to solve. One mystery or task was completed within four books (in most cases). The Shadows From the Past series has a similar feel. The children also travel back in time to specific and infamous locations and eras and they also have a mystery to solve, but it will (I think) take the 15 books to finally solve it. I like the way the books are stand-alone as well as tied together. It definitely makes me want to read the next book too!The main characters in the book, twins Joe and Jemima, are very likable and believable. It was easy to immediately connect with them and feel compassion toward them because of the loss of their parents. Add Charlie, the good-natured next-door neighbor and Joe's best friend, along with Max, the wise and beautiful (but perhaps a bit scaredy) talking Tonkinese cat who witnessed the disappearance of Joe and Jemima's parents and I feel like this was a solid collection of main characters that I would want to keep reading about book after book. That being said, I feel like their development could be fleshed out a bit more and perhaps this will occur over time in the next books.I really appreciated how the author incorporated her knowledge of the history of Atlantis and ancient Greece within the story. She did a great job of including little snippets of information which contributed to the educational value of the story. For example, Varna, the little girl that our main characters encounter in Atlantis, acts as a tour guide and describes the lay of the land in the following way:`From up up here there's a fantastic view down over the city,' said Varna with a sweep of her hand. `The palace is built on the "acropolis", which is what we call the highest part of the town. We're surrounded by the sea, but you can also see our fields and vineyards. We're lucky that crops grow easily here and anything we can't produce ourselves we buy from the traders' ships.'Through this short paragraph, we learn the definition of the word "acropolis", we learn about the geography of that part of the world and we gain insight into the way of life for those living in ancient Greece. These types of passages are scattered throughout the book.I do have to comment on the cover image as well as ALL of the covers in the Shadows From the Past series. They are so beautiful and eye-catching! I just love them and I'm immediately drawn to the book because of the covers. So, I don't normally do this, but I do want to give a shout-out to Berni Stevens who designed all of the book covers in the series. Check out her website.My Bottom Line:Shadows of Atlantis is a well-written story with a collection of likable main characters, a solid plot line, snippets of educational facts about a historically important location and event, and, is filled with mystery, magic, and suspense. This book grabbed me at the prologue and had me hooked until the end. I think anyone who loves reading about time-travel, loves learning about cultures from other time periods, and loves a good mystery will easily get hooked into this series. I would also suggest that if you are a cat lover, you will also fall in love with Max. Ages 8+* I was given this book free-of-charge by the author in exchange for my honest opinion. All opinions expressed are my own. * </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Time-travel adventure filled with mystery and intrigue </p>
+
+
+<h2> review.date </h2>
+  11-17-2013  
+<h2> review.text </h2>
+
+ <p> This was an absolutely delightful young adult fantasy novel, and throughout most of the book, all I found myself thinking was how much my daughter would relish this book. But amazingly, I enjoyed it, too. As far as I am concerned, that gives even more credence to my claim that this is a book well worth your time and energy (or at least that of your children).The positives in this book comprise quite a list. The book is clean, adventuresome, intriguing, historical (maybe pseudo), witty, and never scary. It involves time travel, and the cat is the acclaimed hero! Thankfully this appears to be a new series, and the first chance I get, I plan to introduce this book to my daughter.As a side note, this 5-star review is a bit out of the norm for me when it comes to young adult and fantasy novels. And that can only be explained by the author's writing prowess. The story flows well and it easy to read without becoming cheesy. Rarely am I able to recommend a young adult book to all.I was sent a copy of this book in exchange for my honest review. I was not financially compensated, and all opinions are 100 percent mine. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Young Adult Fantasy of Delight </p>
+
+
+<h2> review.date </h2>
+  10-16-2013  
+<h2> review.text </h2>
+
+ <p> The Shadow of Atlantis is a thrilling adventure with hidden clues and a magical book that takes Joe, Jemima, Charlie and their cat, Max on a wild ride to the Lost City of Atlantis. Readers will be captivated by the vivid detail of the lost city and moved by the children's quest to save the people of Atlantis before disaster strikes.Joe and Jemima live with their uncle after their parents vanished under mysterious circumstances. One day while exploring their parents possessions they find an old book. They remember how much their father treasured the book and decide to look inside. The children are unaware that their actions will catapult them into a different time, where they'll uncover information about their parents, try to save lives, and end up fearing for their own. The simple act of opening the book will change their lives forever.The story is well written and brimming with activity. I was hooked from page one and felt myself being instantly drawn in. I was anxious to discover all that awaited the children on their quest and feared for their safety with evil lurking in the shadows.I highly recommend picking up The Shadow of Atlantis as well as the rest of the books in the series. You will not be disappointed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Shadow of Atlantis </p>
+
+
+<h2> review.date </h2>
+  07-09-2013  
+<h2> review.text </h2>
+
+ <p> What do you get when you cross missing parents, a mysterious book, curious children, a talking cat and an ancient possibly mythical setting?  "The Shadow of Atlantis," a fun action-packed time travel novel in Wendy Leighton-Porter's Shadows from the Past series (Mauve Square Publishing, 2012).After the parents of twins Jemima and Joe inexplicably disappear, the two are sent to live with their Uncle Richard in London.  While searching in their uncle's attic, the twins, their giant Tonkinese cat, and new neighborhood friend find themselves transported to a faraway land they discover to be Atlantis.  The modern group makes friends easily in their new old home and discover lost secrets.  They also attract the attention of those with evil intentions, adding to the adventure and suspense.Leighton-Porter delivers a well-written middle grade novel peppering the plot with interesting historical details without bogging down the story.  She creates likeable characters that are not perfect, and she moves the story along at a good pace.  I found the book entertaining as an adult and believe it also has enough magical elements (for instance, the cat) to keep kids reading.  The author manages to make learning about history fun and lets the children in the book solve their own problems.I highly recommend "The Shadow of Atlantis" and look forward to other books in the series including "Shadow of the Pyramids," Shadow of the Trojan Horse," and more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Shadow of Atlantis - Great Discovery </p>
+
+
+<h2> review.date </h2>
+  07-29-2013  
+<h2> review.text </h2>
+
+ <p> I have always been fascinated by the legend of Atlantis and I love this version of it. I read this story to my 7 year old and both she and I loved it. Wendy Leighton-Porter has a true gift of taking a legend and creating a story that keeps you gripped from start to end. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> I love this book! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

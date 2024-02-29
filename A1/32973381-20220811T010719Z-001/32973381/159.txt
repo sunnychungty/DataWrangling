@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 630228371X <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  09-06-2009  
+<h2> review.text </h2>
+
+ <p> I first saw this film on Television and liked it so much I had to order it on DVD. First, let me say that I was not prepared for the story line or the ending at all. I had expected the usual gangster genre faire of violence, sultry molls and cops, only to find this gangster flick with all of these elements and a good deal more. The story starts out with John Sarto (EGR) as a smart and fast-talking gangster boss who gets fed up with his life after his organization takes an especially violent turn.  He quits and decides to spend his time and money pursuing something he had always wanted. Sarto travels the world but eventually comes back intending to resume his place as head of the organization. Instead he finds himself out in the cold by his former associates and their new boss, Humphrey Bogart. Broke and with no one to turn to except his girlfriend and a few former alliances, Sarto sets out to build a new organization from scratch using the brain and brawn that served him so well in the past. Things seem to be going well until he is betrayed and barely escapes with his life. Injured and broke, Sarto finds himself inside a Monastery where some well-meaning Monks have taken him into their care. This is where the real fun begins.  I especially love the scene where he first opens his eyes inside the Monastery. The Monks in the Monastery are portrayed beautifully as men of God who live in humble and meager surroundings, raising flowers to sell at the market place in town in order to help out the needy. The Monks take in Sarto with the intention of simply nursing him back to health but Sarto sees an opportunity to use the Monastery as a hide-out until things cool off in the outside world. The scenes in the Monastery are hilarious as Sarto sets about wheeling and dealing his way into the "Saps" favor, taking full advantage of their good nature and eagerness to accept him on face value. But as his stay progresses, Sarto gets more than he bargained for when he begins to earn the respect and admiration of the Monks while learning a few lessons about life himself. A chance glance at a newspaper unravels his stint as "Brother Orchid" and sets Sarto on yet another path, this time involving his former girlfriend. I won't go any farther except to say that the film had me in tears at the end with a great sentimental scene. My only problem with the film is that, like another poster commented, it takes too long to get to the scenes in the Monastery  which are priceless. EGR gives one of his best and most heart-warming performances. Ann Southern is effective as Sarto's long suffering and faithful girlfriend, with Humphrey Bogart giving a surprisingly uninspiring portrayal of a gangster boss. Ralph Bellamy is on cue as the naive, good-natured and well-mannered wealthy Texan alfalfa farmer, who is always ready for a good brawl. The Monks are played with less character depth than I would have liked but they certainly give acceptable performances, and easily offset Sarto's underhanded and clever persona. I found the film to be very entertaining and poignant. The message of the film hasn't diminished with time.  I highly recommend Brother Orchid for all EGR fans and for anyone looking for an entertaining film. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprisingly Good </p>
+
+
+<h2> review.date </h2>
+  07-18-2011  
+<h2> review.text </h2>
+
+ <p> Brother Orchid is an amusing little comedy starring two of Hollywood's tough guys: Edward G. Robinson and Humphrey Bogart. Robinson is the head of a mob, but decides to retire and leave Bogart in charge. Five years later he comes back and foolishly expects everything to be the way it was; Bogart has other plans and Robinson is out. Conflict ensues, Robinson is almost rubbed out but recovers in a monastery. Some of the slang from the 1940s has disappeared, so some of the dialogue went over my head.Nowadays, if the film was made, you would have gore and guts and disenbowelment and lots of obscenities and pointless sex. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brother Orchid </p>
+
+
+<h2> review.date </h2>
+  12-09-2010  
+<h2> review.text </h2>
+
+ <p> Great movie, Robinson's light "gangsta comedy" is a relief to the hard boiled, realizm of the serious gansgter films of the 30's. Well written, the ususal cast of character acters of films of that era added so much more to the films which they appeared in. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Calibrator </p>
+
+
+<h2> review.date </h2>
+  03-22-2013  
+<h2> review.text </h2>
+
+ <p> "Brother Orchid"Directed by Lloyd Bacon(Warner Brothers, 1940)This is a downright goofy spoof of old-school gangster movies, an offbeat crime-comedy film starring Edward G. Robinson, the king of the '30s gangster flicks, pretty much satirizing himself as Little John Sarto, a tough guy who decides he's had enough of the life of crime and retires as mob boss, leaving the "family" business to his lieutenant, Humphrey Bogart. Sarto is a guy who's always looking for the angles, but when he makes a play for a respectable life as a man of leisure, he finds that street smarts don't help much in high society. Discouraged, he comes back to his old haunts but finds that Bogie is the kingpin now, and he doesn't really feel like giving everything back to his old boss. Conflict ensues.This could have been a serious plot, but it's not: "Brother Orchid" is a deliberate send-up of classic gangster films, which were kind of old hat when the '40s rolled around and new, cooler tough-guy film noir icons were coming to the fore. Bogie was the rising star of the new genre, so in a sense we're seeing a symbolic clash of old and new - made literal when the two duke it out in a very gratifying fight scene in the end. In between, there's a faux-maudlin religious subplot that takes Robinson into the service of the Lord, and takes the film into surprising heights of genre parody. It's not really a "great" film, but it's certainly worth a whirl if you like the old movies it's making fun of, and in particular if you'd get a kick out of seeing an unusual performance (actually rather nuanced) by the often-hammy Edward G. Robinson. Bogie plays it pretty straight, but there are some fun comedic performances by other character actors, including a broadly comedic role by Ralph Bellamy as a dim-witted cowpoke, and a nice turn from Ann Sothern as the ever-faithful gun moll who Robinson loves to walk over.In this DVD edition, the Warner archivists add an odd hodgepodge of extras, strung together to replicate the feel of a 1940s matinee, with a newsreel, cartoons and musical short featuring a big band medley by Henry Busse's orchestra. The swing video is the best thing on here... The two cartoons are both pretty weak, third tier toss-offs from the Looney Toons crew, while the newsreel is a story on a horse race at a California track, but the announcer's voiceover has been left off so, it's mainly silent footage, which is kind of neat in a way, but undercuts the illusion of "a night at the movies". Mostly a curio.  The main feature, though, is an unusual B-movie offering and worth checking out if you're a fan of this era of film. (DJ Joe Sixpack, Slipcue film reviews) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Odd but entertaining </p>
+
+
+<h2> review.date </h2>
+  04-11-2008  
+<h2> review.text </h2>
+
+ <p> "Brother Orchid" is a 1940 Warner Brother's release starring the great Edward G. Robinson. The first half of the film is a rollicking comedy, not unlike predecessors, "The Little Giant" and "A Slight Case of Murder", with Robinson as a gangster who leaves his mob and travels overseas in a bid for "class". It has the merit of the terrific Ann Sothern as his dizzy girlfriend. Sothern works miracles creating a 3 dimensional and delightful character from cardboard. There are many more excellent supporting players including Allen Jenkins as a henchman and Ralph Bellamy typecast as a hick. The film then switches to Robinson hiding from rival gangster Humphrey Bogart in a monk's seminary. The problem, however, is that the switch to the seminary, trying for cute, is simply dreary and completely unconvincing. Robinson does not look comfortable and Donald Crisp, as Brother Superior, head of the seminary, is at his most sanctimonious and irritating. There are a lot of amusing ideas which lead nowhere. Robinson ends the film in the monastory, giving up his past colourful life and makes a short speech about the goodness of man. This was probably a nod to the war whch was then currently raging but is less than convincing.The print of the film is very good. This was a quality Hal Wallis production with excellent lighting and camera work. The DVD has some good extras. There is a dull commentary shared between biographers of Robinson and Bogart. Eric Lax, in particular, is the master of statistics and rattles off how many films each supporting player made etc which becomes very tedious. Warner's Night at the Movies is included. The cartoon is amusing with take offs of many characters of the period including Eddie Cantor, Jack Benny and Bing Crosby. The musical short has some entertaining swing from a long forgotten band and there is a trailer for the film and another more entertaining 1940 release, "It all Came True" which starred the tantalising Anne Sheridan.The package is comprehensive like all these Warner's DVDs and best value if purchased as part of the Warner's Gangsters Collection Volume 3. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Uneasy combination of comedy and drama but good package </p>
+
+
+<h2> review.date </h2>
+  05-23-2010  
+<h2> review.text </h2>
+
+ <p> Even before "Little Caesar" (1931), Edward G. Robinson made quite a name for himself in early gangster films like "The Hole in the Wall" (1929), "Night Ride" (1930) and "Outside the Law" (1930), and on Broadway he was a hit playing Nick Scarsi, a Capone-like gangster in a play entitled "The Racket". With "Little Caesar" he became Warners' biggest star and Robinson would go on to play in 30 gangster films in a career that included 89 feature films (only Bogart exceeded him with 32 out of 79).Brother Orchid is a remake, in a way, of the earlier "Amazing Dr. Clitterhouse" (1938). Both films starred Robinson with Bogart as the bad guy, Donald Crisp as the good guy, and Allan Jenkins for comedy relief.  Both films involved transformation - "Orchid" has the gangster turn into a monk and "Clitterhouse" has the good doctor turn into a gangster.  In a way, both films were a reaction by Robinson to having done too many gangster films, and this was his way of showing his versatility. Robinson was such an important star at Warners that the brothers were happy to accommodate him. Moreover, Warners had many troublesome actors (e.g., Jimmy Cagney, Al Jolson, George Raft, Bette Davis) and Robinson was one of the few big stars who cooperated."Orchid" comes at the end of Robinson's gangster era for Warners. The 1940s would see him expand with films like "The Sea Wolf" (1941), "Double Indemnity" (1944), "The Woman in the Window" (1945), "Scarlet Street" (1946) and "House of Strangers" (1949) and later he would do such notable films as "The Ten Commandments" (1956), "Hole in the Head" (1959), "The Cincinnati Kid" (1965), and "Soylent Green" (1973). He did one last gangster film in 1948, "Key Largo", in which Bogart was now the big star and, for a change, Robinson gets killed by Bogie.For years Bogart played second fiddle to both Robinson ("Bullets or Ballets", "Kid Galahad", "Amazing Dr. Clitterhouse") and Cagney ("The Roaring Twenties", "The Oklahoma Kid", "Angels with Dirty Faces", "Dead End"), but in 1941 Bogart starred in "High Sierra" and "The Maltese Falcon" and from that point onward, Bogart became a big name star, eventually surpassing Cagney and Robinson in 1943 on the tail of his performance in "Casablanca". Here he is still under the radar as the cheap hoodlum.Donald Crisp appeared in more than 150 films from 1908 through 1963. He won Best Supporting Actor for "How Green was My Valley" (1941) and gave memorable performances in films such as "Mutiny on the Bounty" (1935), "The Charge of the Light Brigade" (1936), "Jezebel" (1938), "The Private Lives of Elizabeth and Essex" (1939), "National Velvet" (1944), and "The Long Gray Line" (1955). Crisp plays the head monk.Perky Ann Sothern is best remembered for her Emmy nominated TV shows "The Ann Sothern Show" (1958-61) and "Private Secretary" (1953-7). She was nominated for a Golden Globe as Best Supporting Actress in "The Best Man" (1964) and for an Oscar as Best Supporting Actress in "The Whales of August" (1987). Her career spanned 60 years, making her one of the most durable actresses in history. Sothern is a riot as Robinson's moll.Ralph Bellamy is best remembered for his role as the greedy stock manipulator from Trading Places (1983). He was nominated for an Emmy 3 times over a 30 year period, from 1953 ("United States Steel Hour") to 1983 ("The Winds of War") and was Oscar nominated for "The Awful Truth" (1937). He starred in the "Ellery Queen" mystery films (1940 -1) and gave us memorable performances in "The Professionals" (1966) and "Rosemary's Baby" (1968). I remember him best as Franklin Roosevelt in "Sunrise at Campobello" (1960). Bellamy plains a good old southern boy who falls in love with Sothern. It's quite an unusual role for Bellamy but he pulls it off successfully.Allen Jenkins is the quirky comedy foil who lit up so many films of the 30s and 40s and then went on to a successful career in TV. Along with Jimmy Cagney, Pat O'Brien, and Frank McHugh he was part of the original "Irish Mafia" in Hollywood (Ralph Ballamy, who wasn't Irish, was an honorary member). Some of his memorable roles were in "Dead End" (1937), "Destry Rides Again" (1939), "Tortilla Flats" (1942), "Robin and the 7 Hoods" (1964) and "Front Page" (1974). Jenkins does his usual great job, but he's hardly in the film.Another actor who doesn't get enough work in the film is the great Cecil Kellaway, who is barely in two or three short scenes and says one or two lines. The pudgy and affable Kellaway was nominated twice as Best Supporting Actor - "The Luck of the Irish" (1948) and "Guess Who's Coming to Dinner" (1967) - and appeared in over 100 filmsThe film is directed by Lloyd Bacon who directed more than 100 films between 1922 and 1954. He was part of the Warners production team that cranked out a half dozen films a year, most of them B films. Among his notable films were "The Singing Fool" (1928), "Knute Rockne All American" (1940) and "The Fighting Sullivans" (1944).Although the action is fast paced and there is lots of great dialogue, the film has its problems. As a comedy, it's not that funny. As a gangster movie, it doesn't have much crime or violence. As an inspirational film, it falls a little short. The inability to decide whether or not it's a crime film with a little comedy or a comedy with crime as the background (e.g., "Guys and Dolls") is a crucial flaw."Brother Orchid" was the third foray into the comedy/crime genre by Robinson. As early as 1933 in "The Little Giant" Robinson combined comedy with drama in a plot very similar to "Brother Orchid", with Mary Astor playing the Ann Sothern role. He did it again with John Ford in "The Whole Town's Talking" in 1935. Interestingly enough, the script was written by W. R Burnett who wrote "Little Caesar". Of the 3 films, the 1935 film by John Ford is the better film.Another problem with "Brother Orchid" is that Robinson, as good an actor as he was, gets entirely too much screen time, and some wonderful actors (like Jenkins and Kellaway) get too little time.If you're a Robinson fan this movie will appeal to you. Fans of Ann Sothern and Ralph Bellamy will also enjoy the great performances they put in. But crime and/or comedy fans will want to go elsewhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Robinson as a monk </p>
+
+
+<h2> review.date </h2>
+  04-20-2008  
+<h2> review.text </h2>
+
+ <p> After spending five years in Europe, trying to become "cultured", gangster John Sarto (Edward G. Robinson) returns home to discover that his crime syndicate has been taken over by Jack Buck (Humphrey Bogart) and that his girlfriend has become "friends" with, Clarence P. Fletcher (Ralph Bellamy), an alfalfa farmer who seems keen on marrying her. Realizing just how much Sarto knows about him, Buck decides to get rid of Sarto permanently, but Sarto manages to escape and hides out in a monastery of "Florician" monks as the titular Brother Orchid."Brother Orchid" has managed to hold up reasonably well over time. This is a light hearted film and although not hilariously funny, the jokes still bring a smile to my face in the more cynical 21st century. The biggest problem with this film is its pacing. It just takes too long for Sarto to get to the monastery (about 45 minutes into a 90 minute film) and too little time is spent there once he arrives (not to mention the fact that none of the monks are remotely three-dimensional in their characters). I feel that the writers missed many opportunities when writing this film, many of which were later explored in the similarly-themed "Sister Act". Given the pacing problems, I think that many younger viewers would probably lose interest in this film before Sarto even reaches the monastery.  Nevertheless, my father, who saw this film for the first time as a child, thoroughly enjoyed rewatching it.Overall, "Brother Orchid" is an entertaining movie, and I did like Belamy's character very much, but it's not a cinema classic. Both Robinson and Bogart have made many films that are more deserving of your time than this one. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Light-weight fun but poorly paced </p>
+
+
+<h2> review.date </h2>
+  08-31-2008  
+<h2> review.text </h2>
+
+ <p> Edward G. Robinson is somewhat cast against type in this film. It has been years since I have seen this movie; it's never been one that has received much exposure via television. It's a real treat to see Robinson take a turn at comedy; something he didn't do often but he had the skills to do it. Brother Orchid was released in 1940 & was directed by Lloyd Bacon. It's presented in the full screen format (1.33:1) & is in black & white.Little John Sarto (Edward G. Robinson) has had enough of the rackets after someone in his Protection Agency has knocked someone off. He decides to retire, go to Europe & get some real class. After five years & broke (he's made some incredibly bad investments), he decides to return to New York City & become the head of his Protection Agency again. His former pals welcome him with open arms but it's only a ploy. Jack Buck (Humphrey Bogart, who was still a couple of years away from superstardom) has him thrown out on his ear. Flo Addams (Ann Sothern in a hilarious role) is his long suffering girlfriend. She appeals to Buck that he & Sarto should make up & become partners again. Buck agrees but it's all a set up in order to eliminate Sarto. The hit fails but just barely. Sarto ends up at a monastery becoming Brother Orchid. Brother Superior (Donald Crisp) takes him on as a monk with some funny consequences, everything has an angle & a hustle to Sarto. After hiding in the monastery for a few months Sarto reads that Flo is going to marry a hick cowboy from Montana, Clarence Fletcher (Ralph Bellamy). Fletcher had already been in some scenes earlier in the movie. The scene where he's driving Flo & Sarto to the sanitarium to get Willie the Knife (Allen Jenkins) is a riot, he's doing bird calls while Flo & Sarto are in the backseat talking. Ralph Bellamy made a living out of playing the "other guy" who never gets the girl. I don't know for sure but this might be the only movie where Bellamy DID get the girl! I won't spoil the ending for you but it's really a change of pace for Eddie G.!There are some bonus features on the disc. There's an audio commentary track & several short subjects: A vintage newsreel,"Henry Busse & His Orchestra" (musical short); two cartoons, "Busy Bakers" (color) & "Slap Happy Pappy" (b&w; Porky Pig) & two trailers, one of Brother Orchid & one of It All Came True. The film restoration is excellent as is the audio track. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brother Orchid </p>
+
+
+<h2> review.date </h2>
+  03-04-2013  
+<h2> review.text </h2>
+
+ <p> Edward G. Robinson plays a tong-in-cheek mobster who finds real happiness in his life by serving to help others.  The message is, life is not all about money and power, it's about serving your fellow man! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great old time acting </p>
+
+
+<h2> review.date </h2>
+  06-29-2002  
+<h2> review.text </h2>
+
+ <p> Edward G. Robinson stars as gangster Little John Sarto, a man fed up with the racket who travels across Europe in the hopes of finding class.  When he returns, he finds his gang in the hands of Humphrey Bogart, his girlfriend Ann Sothern newly wealthy, and himself penniless and still without class.  He tries to get back into his old life, but it proves to be harder than expected, and he ends up hiding out in a monastery of all places!  Brother Orchid came at the end of the cycle of gangster films at Warner Brothers.  It's a hard film to classify - it's part gangster film, part comedy, and also a character study of a man's moral awakening.  Surprisingly, these diverse elements come together well in the film.  The plot is unbelievable, but Robinson fits into the role well, bringing a history to the character through all of his other gangster performances, and also bringing his talent for broad comedy that was not seen often enough.  Sothern is terrific as his patient fiancee, while Bogart doesn't register much as the cardboard bad guy.  Allen Jenkins, one of Warner Brothers best character actors, has some funny moments as Robinson's loyal henchman.  Director Lloyd Bacon keeps the film moving right along, and although this fish-out-of-water story may sound too farfetched, its heart is in the right place and it's fun to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fish Out Of Water </p>
+
+
+<h2> review.date </h2>
+  02-22-2011  
+<h2> review.text </h2>
+
+ <p> Warner Bros. Pictures presents "BROTHER ORCHID" (1940) (88 min/B&W;) (Fully Restored/Dolby Digitally Remastered) -- Starring Edward G. Robinson, Ann Sothern, Humphrey Bogart, Donald Crisp, Ralph Bellamy, Allen Jenkins, Charles D. Brown & Cecil KellawayDirected by Lloyd BaconWhile set in a film-noir world, Brother Orchid is an enchanting lesson about how the simple things in life are the best. Robinson plays a gangster chief who quits the mob to undertake a long and financially ruinous Grand Tour of Europe. Returning to the U.S. he is astounded to discover that he can't pick up the reins he once held firmly and that his former under boss, Bogart, wants him out of the way - permanently. Bogart's talent is not very much on display in this movie.Ann Sothern is terrific as Robinson's "fianc&eacute;e," a gang moll waiting long and patiently for the march to the altar. Ralph Bellamy is amusing as a Western rancher who exudes a patience and understanding more often associated with saints than cowboys.  Ann Sothern as Edward G's girlfriend steals the film in whatever scene she's in.As Robinson remarks in the final scene, "I always thought class came with having the right clothes or the right car. But this--this is the REAL class!"Robinson and Bogart made a total of five films together, with Robinson getting top billing in all but 1948's "Key Largo". The others include "Bullets or Ballots" (1936), "Kid Galahad" (1937), and "The Amazing Dr. Clitterhouse" (1938). "Brother Orchid" was the only film in which Ann Sothern appeared with either Bogey or Robinson. For fans of any of these actors, or of classic films of the 1930's and 40's, all of the above films are highly recommended.BIOS:1. Lloyd Bacon [aka: Lloyd Francis Bacon]Date of Birth: 4 December 1889 - San Jose, CaliforniaDate of Death: 15 November 1955 - Burbank, California2. Edward G. Robinson [aka: Emmanuel Goldenberg]Date of Birth: 12 December 1893 - Bucharest, RomaniaDate of Death: 26 January 1973 - Hollywood, California3.  Ann Sothern  [aka: Harriette Arlene Lake]Date of Birth:  22 January 1909 - Valley City, North DakotaDate of Death:  15 March 2001 - Ketchum, Idaho4. Humphrey BogartDate of Birth: 25 December 1899 - New York City, New YorkDate of Death: 14 January 1957 - Los Angeles, CaliforniaMr. Jim's Ratings:Quality of Picture & Sound: 4 StarsPerformance: 5 StarsStory & Screenplay: 5 StarsOverall: 4 Stars [Original Music, Cinematography & Film Editing]Total Time: 88 min on DVD ~ Warner Bros. Pictures ~ (03/25/2008) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "But you can't change a guy overnight. I'm such a mug that was taught to look for angles"...E.G. Robinson </p>
+
+
+<h2> review.date </h2>
+  09-27-2009  
+<h2> review.text </h2>
+
+ <p> In the depression years there was a tendency even in hollywood to show some people involved in gangster activity as nice guys caught up in criminal behavior because of poverty.From a moral standpoint, this is ridiculous. Yet, this relic from the era attempts to show that a gangster can become good and is very effective.One of the best sections of this movie is when Robinson goes to Europe seeking "class" and discovers swindlers more clever than he ever was. He is hoodwinked on deals for the largest diamond in the world that turns out to be a door knob, to an antique bed that turns out to have been made recently in Grand Rapids, Michigan.Returning to America broke, he seeks out his old protective association job only to discover that Bogart won't let him back. He is eventually "taken for a ride" but survives to be rescued by monks in a cloisteral existence inside the walls of a monastery. What luck!He then becomes "Brother Orchid" using his savy as a cheat to fool the brothers in minor jobs here and there. Eventually Bogart's protective association even interferes with the attempts by the brotherhood to sell their flowers. Robinson returns to his former gangster life to clean up the problem because he genuinely cares about the honesty of the brotherhood. In this he is successful and well, all's well that ends well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Insurance for Flower Merchants </p>
+
+
+<h2> review.date </h2>
+  01-27-2002  
+<h2> review.text </h2>
+
+ <p> Edward G. Robinson proves once again that he was first-rate at both drama and comedy, in this delightful film about a gangster boss who is almost rubbed out by rivals, but is nursed back to health by the monks at a nearby monastery.  His fondness for orchids gives him the name of Brother Orchid and he ultimately chooses the right lifestyle, of course.  But there are plenty of amusing complications along the way.  The supporting cast members (Ann Sothern, Humphrey Bogart, Donald Crisp) are all excellent.  Director Lloyd Bacon was undoubtedly one of the best, but least heralded, Hollywood directors of the 30s and 40s. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Delightful comedy; E.G.R. at his best! </p>
+
+
+<h2> review.date </h2>
+  02-22-2012  
+<h2> review.text </h2>
+
+ <p> I have always loved this film.  It is a wonderful story of redemption. There are several films that Robinson made that had nothing to do with being a criminal.  It is in these that I feel his talent shines through in a rainbow of colors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of Edward G. Robinson's Finest Films!!!!! </p>
+
+
+<h2> review.date </h2>
+  08-15-2013  
+<h2> review.text </h2>
+
+ <p> Edward G. Robinson is indelible as the cocky, but ultimately open-to-influence "Little John" Sarto. This role is something of a departure for Robinson. While he's once again a mobster, he's not the gritty, tragic Little Caesar anymore.  Here he's a mobster etched in comic relief, likeable in his scheming self-assurance. Ann Sothern serves as a beautiful foil for his brashness. Her fondness and enthusiasm for him, despite all his derelictions, is infectious.This movie is actually riddled with star power. Humphrey Bogart plays one of his last second-fiddle roles before he became the leading man. Ralph Bellamy limns an interesting character as far from Franklin D. Roosevelt as you can get. He plays a lovable lug of a cattle baron waiting hopefully, helpfully in the wings for Ann Sothern. He's the kind of undemanding, but still vividly masculine guy-friend that many women might wish existed more often in our modern world.Then there are myriad character actors whom we've seen a hundred times, but whose names we usually don't know.  There's a very good commentary on this DVD, given by historians of this era in the cinema. They supply the names and movie bios of these hard-working bit players.They also supply a lot of interesting social history that sheds light on the mores of 1940. For example, the commentators explain how the Review Board insisted that all shots of gangsters now be done with the camera facing them straight on at eye level, rather than from the previous closer-to-the-floor, tilted-up angle which increased the seeming stature of previous gangsters. The Code wanted movies to stop projecting gangsters as heroic, larger-than-life figures. It's enlightening to learn how images and impressions can be changed on the basis of such minute details as a few degrees difference in the angle placement of a camera.This movie doesn't provide belly laughs. But it has a lot of wry humor, such as in the scenes showing Robinson facing a series of financial debacles as he junkets across Europe getting "class." What's more, "Brother Orchid" is good-natured and will cheer you throughout. Where else would you get to see Edward G. Robinson wearing what Humphrey Bogart described as "a mushroom on his head"? </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A Delightful Piece of Monk-ey Business </p>
+
+
+<h2> review.date </h2>
+  05-19-2000  
+<h2> review.text </h2>
+
+ <p> A gangster film with a unique twist, this entertaining yarn has racketeer Edward G. seeking the finer things in life. Thrown out of his old mob, Robinson joins a monastery (!) to plot his next move. Offbeat, funny and improbable, BROTHER ORCHID is practically an outright spoof of thirties gangster flicks with Robinson broadly giving a caricature of himself as the title role (so named because he finds himself adept at raising orchids while hiding out at the secluded monastery; the name stuck after being affectionately named it by the fellow monks). Ann Sothern turns in a delightful performance as Eddie's ever-faithful floozy blonde girlfriend. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> UNUSUAL BLEND </p>
+
+
+<h2> review.date </h2>
+  08-04-2003  
+<h2> review.text </h2>
+
+ <p> &quot;Brother Orchid&quot;, has always been a film I have greatly enjoyed on a number of different levels. It is one of the few attempts by Warner Brothers, who made the Gangster genre their own in the 1930's, to show another side to such a story so here we get a most unusual combination of hard nosed story telling typical of Warners, alongside a sentimental and quite comical story detailing one conman's search for &quot;class&quot; and &quot;style&quot; in his world.&quot;Brother Orchid&quot;, provided Edward G. Robinson with one of his most appealing roles as Little Johnny Sarto a big time racketeer who grows tired of the gangland goings on he has presided over for too long, and tries to quit the scene to pursue his quest for real class and refinement in life. After an abortive trip to Europe Johnny finds his old haunts and collegues are no longer welcoming and soon he finds himself pursued by ruthless thug and former employee Jack Buck (Humphrey Bogart in one of his last bad guy supporting roles before his real stardom kicked in the next year). Supposedly set up with a reconciliation meeting with Jack by his kind hearted girlfriend &quot;Flo&quot; Adams (Ann Sothern in a delightful performance) Johnny finds himself a marked man and narrowly escapes being murdered after Jack's boys take him out into the woods to finish him off. Escaping wounded Johnny finds his way to a secluded Monastery where he is taken in by the kindly monks and brought back to health. Along the way Johnny learns a few things about life and what he regarded as initially an ideal hideout till he could plot his revenge against Jack turns into a life changing experience and the one time hood becomes the placid life appreciating &quot;Brother Orchid&quot;. Despite the chance of reclaiming his turf Johnny sees that Flo really deserves better than what he can offer and steps aside so that she can marry the decent but dull farmer Clarence P. Fletcher who worships the ground Flo walks on. With that done Johnny returns to the monastery where he at last finds the real &quot;class&quot; in life, not in posessions or money but in the company of decent, honest men who have their own class simply by who and what they are not what they can get.A highly improbable story perhaps but done in such an expert way and delivered with such sincerity by the cast that one can't help but believe what is going on. What was originally viewed as merely a &quot;fill in&quot; project for Edward G. Robinson so that he could then move on to the lead role in &quot;Dr. Ehrlich's Magic Bullet&quot; turned into a smashing success and his most successful film for a couple of years. The story really reveals Robinson's great abilities in both comedy and hard edged drama. His transformation from hard boiled racketeer to endearing orchid growing monk is a delight to behold and never once do we doubt the sincerity of his playing. It is very interesting to see Humphrey Bogart performing his small time hood role again which was a character that he had played countless times during his 1930's apprenticeship with Warner Brothers. He is in turn tough and mean and provides most of the dramatic side to this unusual tale. Veteran character actress Ann Sothern is terrific as the typical gangsters moll with the heart of gold and she proves once and for all what a fine actress she could be given a role with some dimension. Her drunk scene when she tries to get Johnny to come to &quot;Fat Dutchy's&quot; Tavern to meet Jack is priceless. Veteran character actor Donald Crisp has a superb role as Brother Superior  who takes the wounded Johnny into his monastery and heals him physically and morally as well. Most of the beautiful sentiment in the story of &quot;Brother Orchid&quot; comes from Donald Crisp's playing of the patient, saintly, but still world wise head of the monastic order who points out the errors of Johnny's views on life and people. A superb actor in many fine films Crisp is in his element in this comical and heart warming tale of one man's redemption.It is really hard to place &quot;Brother Orchid&quot;, is any one film category, part comedy, part redemption tale, part crime saga, it is an odd mixture of many different kinds of films we are used to seeing. I feel it is this odd mix which makes the film so appealing and all the very different types of acting styles and personas also make it a unique viewing experience. To see acting greats like Edward G. Robinson, Humphrey Bogart, Ann Sothern and Donald Crisp in the one film makes me lament the lack of this kind of star power in modern film stories. All had their own set screen personas which they lovingly spoofed in &quot;Brother Orchid&quot;. For an uplifting viewing experience from Warner Brother's golden period of film making you are certain to enjoy Edward G. Robinson is one of his more off beat roles as &quot;Brother Orchid&quot;. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Highly Unusual Blend of Gangster Tale and Sentiment </p>
+
+
+<h2> review.date </h2>
+  02-17-2003  
+<h2> review.text </h2>
+
+ <p> This is the ultimate story of a bad guy gone good and hollywood actually made a great story and film here. The usual 1930's style gangsters Bogie and Robinson give their usual GREAT performaces in the mob roles. Robinson wants to get out and actually ends up becoming a brother &quot;monk or priest&quot;. Great comedy one liners and a overall picture worth owning if you love the classics like i do. this is a great story for the whole family. They dont make movies like this anymore you end with a feel good feeling and motivated when you get the racket of &quot;nice guys&quot; </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Bogie &amp; Edward G- it doesnt get any better </p>
+
+
+<h2> review.date </h2>
+  04-20-2005  
+<h2> review.text </h2>
+
+ <p> Edward G. Robinson is most well-known from his many crime dramas and playing gangsters but among his best roles were comedies where he often parodied his gangster roles and did so with incredible diversity and skill.  He was vastly underrated as a comedic actor and unfortunately many of his films are not on DVD or even VHS.  Brother orchid is and it's one of Robinson's best comedic performances and maybe one of his best performances period!  This film combines so many genres typical of the late 30's and early 40's, with crime drama, film noir, and comedy elements.Robinson is Little John Sarto a mobster who aspires to be a man of sophistication and elegance.  He goes to Europe and takes part in things like polo and art collecting.  While he's away Humphrey Bogart, as jack Buck, takes over running the 'protection' operation and doesn't want to give it up.  Sarto recruits a new gang to try and muscle in on Buck's territory but his girlfriend Flo (Ann Southern) unwittingly sets Sarto up for a hit.  Sarto survives the hit and eventually makes his way to a monastery where he is aided by the monks.  Sarto soon finds himself enjoying the serene peace of the monastery and finds his mobster ways being stripped away by the pious monks who come to accept Sarto as one of their own.  But when Buck tries to run the Monk's flower business under, it's time for him to settle the score.Boy what a really enjoyable movie that his humorous and yet filled with hope and a moral, yet not overbearing message of peace.  The film has an incredible supporting cast including Ann Southern, Ralph Bellamy and the aforementioned Bogart.  Thankfully this one is on VHS and I can only hope someone will gives us a collection of Edward G. Robinson films in the very near future. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> EDWARD G. AND THE MONKS! </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

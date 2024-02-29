@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B006XZ6L0E <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> An enjoyable read </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-12-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Another good short story from this author.  The pirate tales are well-written and unusually descriptive for a story of so few pages.  It seemed to me, however, that the ending was anti-climactic and for me the twist didn't add much to the tale.  Still an enjoyable read though!  My suggestion to this author and others taking advantage of the growing e-book market: issue an anthology of your short stories.  Many of the available short stories are very brief and I think you are potentially limiting your audience by selling individual short stories vs. a compilation of your works. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> A GREAT GHOST STORY </p>
+
+
+<h2> REVIEW DATE </h2>
+  08-18-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> THIS IS A GREAT , SHORT STORY ABOUT A PIRATE TREASURE AND A HARD WORKING MAN WHO WAS A TRYING TO CLEAN UP THE OIL SPILL IN THE GULF. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Treachery on the high seas </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-18-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> A short story of murder, deciet and piracy told by an old salior to a Florida cop on a hot day over a beer. Is it a true story or a story made up? A ghost story perhaps to send chill down the back. If the story isn't true then how does the coin given prove other wise? A grisly tell of treachery on the high sea well worth reading. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great little story </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-13-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This has everything you want in a mystery all squinched down to a handful of pages. Read it waiting for my husband to get out of the shower. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fun, short read </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-11-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> A few formatting errors, nothing major--seems to be a fairly common problem for e-books that don't come from major publishers.  Enjoyed the story, though had to go over first couple paragraphs twice, just couldn't get sense of it on first try; don't know if it was me or the story though.  Only real problem I had (and I wouldn't be surprised if it's just me, a matter of personal taste) was that the police officer's interjected thoughts and short break to get more beer broke the flow of the pirate's story, kept pulling me out of it.  Can understand why it was done, think the story could have been improved if it had been handled a bit differently. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Very, very short. </p>
+
+
+<h2> REVIEW DATE </h2>
+  04-11-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is a very short story (approx 9 pages) and a snippet of the author's next book.  The short story is very well written and entertaining.  However if I would have had to pay $2.99 I would not be very happy. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great short read! </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-11-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> The description sounded good, so I purchased and immediately read The Last Pirate.  It was a great read!  I would have preferred that it be longer, but if you have just a few minutes to sit down with your Kindle this is your go-to book. The descriptions were complete without being florid and the dialogue was concise and entertaining.  Looking forward to reading more by J.W. Summers. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> The kind of story we want a lot more of!! </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> You will read this and have a million and five questions and want to know where to buy the rest of the book but as far as I know, this is it.  A very good short story that begs to be fleshed out into a full novel.  I am a Floridian and the scene that this author sets are true and real.  You can fell the sand, smell the sea breeze and imagine this old guy rowing up onto just about any tiny panhandle dock.  A Tall Seas tale is told at least once a day in every day in every pub and bar in the Sunshine State.  What does not happen or come along every day is a story this good. Five stars to this author.  Great Job!! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> MUCH TOO SHORT </p>
+
+
+<h2> REVIEW DATE </h2>
+  07-22-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> It was a good story.  I knew it was going to be unusual, and the story was well written.  I would have enjoyed a little more to the story, and I hope the author does some more writing along the same line.  Pirates, very interesting! </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> THE Last Pirate </p>
+
+
+<h2> REVIEW DATE </h2>
+  03-11-2014  
+<h2> REVIEW TEXT </h2>
+
+ <p> I chose five stars because it was a good story.  The only thing I find' t like was that it was too short.  I think my brother would like it so I recommended it to him. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

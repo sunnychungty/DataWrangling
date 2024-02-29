@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B000FI8MQ6 <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-20-2007  
+<h2> review.text </h2>
+
+ <p> Roadhouse two is a cute premise, trying to milk the idea of the original movie.DEA agent Sahne Tanner (Jonathan Schaech) is the son of Dalton from the original film. Many times during this film, his character is told sorry about his father's death. that is the only real connection from this film to the other.Will Patton's acting is under used  as Tanner's Uncle  Nate who owns a Louiisana roadhouse  on the river, the Black Pelican. Tanner comes to help his Uncle Nate. Jake (Gary's son) Busey plays Wild Bill, the local drug dealer/gangster who wants the Pelican for his own base of operation and will do anything to get it.The film is filled with action and low on plot. Not really what i call entertainmentSPOILER ALERT (DONT READ UNLESS YOU WANT TO KNOW!)-Busey Character tell Tanner that he killed Dalton, The epic finally battles ensues with the ending we all can see what happened through out the whole movieLets say this, I hope there isnt a ROADHOUSE THREEBennet Pomerantz  AUDIOWORLD </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Watch this for the action, just don't buy it! </p>
+
+
+<h2> review.date </h2>
+  09-16-2006  
+<h2> review.text </h2>
+
+ <p> Roadhouse has become an inarguable cult classic. It was well made, had some decent actors in it, had some good fight sequences, hot women, and was tongue in cheek funny (whether the latter was intended or not.) Roadhouse 2 is a by-the-numbers sequel in almost every sense. It is basically the same as its namesake only not as good. It was a shame that the film-makers were unable to get Patrick "Dalton" Swayze to commit to making the sequel to reprise his role, if nothing else as a mentor to the next generation of world-famous bouncers. In this era of direct to video sequels of older movies in the attempt to create new "franchises" you could do worse than Roadhouse 2. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The Second best movie about Bouncers? </p>
+
+
+<h2> review.date </h2>
+  12-11-2012  
+<h2> review.text </h2>
+
+ <p> This movie is so bad its good.like alot of people . I got pulled in by the name boy was i wroung. This is nothing like the first. The acting is awful . The story sucks . And there aint that many fights to begain with.it get to the point that even thou u want to turn it off u wont. Becouse u wanna to see how cheesey the ending .gonna be. So y did i give it three stars . Couse even thou its bad .itll do to kill time.buy if u must have both movies .if not skip it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So terrible its good </p>
+
+
+<h2> review.date </h2>
+  06-19-2007  
+<h2> review.text </h2>
+
+ <p> Its a B movie, but its a well made B movie that entertains, though not quite as much as the first Road House.  I expected no relation to the first Road House with this sequal, but there is.  Jonathan Schaech plays a DEA agent, who is the son of Patrick Swayze's character from the first Road House.  He takes over running the bar for his Uncle (Will Patton) who is in the hospital after getting the beat down from the movie bad guy, played by Jake Busey.  The same "3 bar rules" are applied from the first movie.  And as things progress, more and more becomes too much in common with the first Road House.  I found that ok though, since most of the charcaters and action provided good entertainment for an hour and half.One thing is for sure, the presence of Swayze is not felt at all in this film from Schaech, who semmed a bit bland.  In fact, the whole movie is toned down from the first.  But thats not to say there still isn't a good deal of action.  Jake Busey, typical B movie actor, actually does a decent job of coming off as a decent villain, though he can seem like an over aged brat at times.  One of the best treats is actor Richard Norton, playing the head boss.  He is obviously showing signs of aging these days, but manages to still get in a good fight scene and pull of the villain role swiftly.As for action, don't expect any crazy bar fights like the first Road House, but there are more one on one fights that are quite fun to watch.  Schaech gets in a good fight with both Richard Norton and Jake Busey, both about the best scenes in the movie.If you enjoyed Road House, this sequal is worth checking out.  The similarities may be dissapointing, but you get more solid action to add to the fuel. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> loses the feel of the original but still good stuff </p>
+
+
+<h2> review.date </h2>
+  12-13-2012  
+<h2> review.text </h2>
+
+ <p> If you liked the first one then you will love the second one. Very good movie and it keeps you wondering what will happen next </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good movie </p>
+
+
+<h2> review.date </h2>
+  07-24-2006  
+<h2> review.text </h2>
+
+ <p> This sequel was certainly better than I thought it would be.  Will Patton, who plays the brother of Dalton (Pat Swalze) from the original film keeps the sequel together with his excellent acting.  The film, however, is just too similiar to the 1st and it kind of loses your interest halfway thru--its so perdictable. The fight scenes are pretty good but any film with Jake Busey in it is just an average B movie---the guy can't act for sure.  This film is worth a look--rent it-don't buy it--stick to the original one with better actors. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Interesting Sequel--just don't buy a copy. </p>
+
+
+<h2> review.date </h2>
+  05-12-2011  
+<h2> review.text </h2>
+
+ <p> Don't expect a grandslam on the likes of the original with the one and only Patrick Swayze(RIP) because it just isn't going to happen in this movie. The characters bleed red, the romance is awkward yet works and the action almost is a blur. Fortunately there's no overplaying the DEA factor in this movie and they stay mostly in the background. You also don't get the typical suicidal loner driven by a need to beat the drug beast, there's no grand conspiracy theories here but revelations built upon revelations. Finally we have a woman who kicks ass as good as the men in this endeavor but this is still a B grade movie and should be viewed as such. That being said everything else works, the protege has every trace of the same steady nature his father has along with the violence(although oddly enough there's an open ended question of the who the mother is), his uncle and g/f have the same spunk of the previous film yet thankfully less of the pacifistic qualms when it comes to getting down and dirty. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Don't Expect A Grandslam </p>
+
+
+<h2> review.date </h2>
+  04-11-2012  
+<h2> review.text </h2>
+
+ <p> You might enjoy this if you have not seen the original.  On its own not to bad a story.  If you compare to the original you will be disappointed.  The quality of the video is also below the original. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not even close to the original </p>
+
+
+<h2> review.date </h2>
+  11-30-2012  
+<h2> review.text </h2>
+
+ <p> Wow!  A sequel to Patrick Swayze's legendary "Road House"!  I didn't know this existed until it fell into my lap.  Expecting nothing I was pleasantly surprised while also realizing that ANY expectations would've been met with a direct-to-video jab to the ribs.  So if you go into this thinking it's good or a decent continuation of the story you will be disappointed.  Let's face it, the original "Road House", as fun as it is, is a cheesy, slightly unconventional B-movie that was released theatrically and actually did well.  This sequel replaces some of the original's fist-fights with more conventional shoot-outs and explosions, while still having a reasonable amount of fist-fights.  I prefer the elder's method.  This is also even dumber and not nearly as cohesive.Shane Tanner (Jonathon Schaech, "The Doom Generation") is a D.E.A. agent, working in New York, when he receives a phone call from a Louisiana deputy saying that his Uncle Nate (Will Patton,  "Remember the Titans") is in intensive-care after he was found with the crap kicked out of him.  Upon arrival, the sheriff's department seeems content to call it random, which Tanner ain't buyin'.  His uncle is the owner of The Black Pelican, a bar located in the bayou that local drug dealer Wild Bill (Jake Busey, "Starship Troopers") has been making lucrative offers on for quite some time.  Seems Nate wouldn't sell and the club's location is geographically convenient for large-scale narcotics transactions.  Shane decides not to close or sell the bar and will have to contend with Bill's goons causing more trouble. Oh, and yes, this is a direct sequel and Shane is supposed to be Dalton's son, though the name discrepancy is never explained.I'll get straight to the fights.  Not bad but I'd place them in the same category as the film itself: don't expect anything and you may be pleasantly surprised.  Fans like me may have a hard time doing that knowing that the stunt coorordinator is J.J. Perry, who that same year, choreographed the awesomeness that is "Undisputed 2".  While these brawls are decent, they're nowhere near as exciting as "U2".  That being said, Wild Bill's thug, Marcus, is played by Larnell Stovall, who choreographed the awesomeness that is "Undisputed 3" and gets his tail kicked about as many times as one dude can in one film!  The presence of veteran fighter Richard Norton, as Bill's superior, should not get one's hopes up, as he only has one fight and lays off the kicks of his earlier years.  The bonus brawl comes from the inevitable girl-on-girl fight.  Beau (Ellen Hollman, "Skateland") as the love-interest against Bill's knife-wielding girlfriend, Nadja (Marisa Quinn, "The Twilight Saga: Breaking Dawn-Part 2"), engage in a pretty good fight and, while far from perfect, is one of the better and more consistent scuffles the film has to offer.  What I found particularly odd is that our hero has very few fights.  Jonathon Schaech shows a bit of fu-prowess while working-out but it's hard to tell if he's doing his own moves or is being doubled.The most interesting thing about this film is how the producers attempt to have characters & scenes imitate characters & scenes from the original.  This archetypal mimicry comes off more as caricature than memento so it's pretty funny.  For instance, the first film had blind guitarist Jeff Healey as the leader of the house band.  This one has blues rocker James Otto, who appears to have no disability, so standing next to him on stage is a dwarf with crutches!  We get no covers of classic bar tunes from The Doors or Cream, either.  Jake Busey seems a bit restrained in his "Brad Wesley" moments and that's too bad.  This is the kind of role Busey could sink his infamous teeth into, like he did in "The Frighteners".  His fights aren't very good either.The Sony DVD has good widescreen picture-quality with no special features.  In English with French or English subtitles.  In the realm of standard DVD-ception, the foxy twins on the cover are actually only in the movie for about two seconds, within the first few minutes.  This is fairly fun but not nearly as much as the original and if your curiosity is still aroused it may be right for you.  Otherwise it should probably be avoided.  Yet I can't help but think I wouldn't mind another one of these.2006.  aka: Road House 2: The Last Call </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Somehow I thought this would be bigger. </p>
+
+
+<h2> review.date </h2>
+  07-17-2006  
+<h2> review.text </h2>
+
+ <p> Being a big fan of the original 'classic' bar brawl movie Roadhouse, I was not expecting much from the sequel. However I was pleasantly suprised. This was a good decent solid action flick with plenty of good music, good fights, good eye candy and above average acting from all concerned. Some nods to the original in this film, largely relating to Daltons son, played well by Johnathon Schaech. Jake Busey carrying the bad guy torch was also fun to watch. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better than I imagined it would be </p>
+
+
+<h2> review.date </h2>
+  12-21-2012  
+<h2> review.text </h2>
+
+ <p> Because it was released directly to DVD, it allowed them to have nudity andlanguage that is really unnecessary.  If you want to see a great movie, I recommendthe original RoadHouse with Patrick Swayze. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not as good as expected. </p>
+
+
+<h2> review.date </h2>
+  04-27-2013  
+<h2> review.text </h2>
+
+ <p> great movie , and great service , dvd was like new , not the same that patrick wasn't in it but still a great movie :) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great </p>
+
+
+<h2> review.date </h2>
+  09-23-2012  
+<h2> review.text </h2>
+
+ <p> I read some of the reviews on here before buying. There weren't many good reviews, but I took a chance any ways. I enjoy this movie. I think it is some what like the first Road House. It's not as good. But I am ok with that. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not bad </p>
+
+
+<h2> review.date </h2>
+  04-15-2008  
+<h2> review.text </h2>
+
+ <p> I usually don't like sequels, especially when they don't include any of the original actors, but this one was well done and the story allows for it to be a sequel without any of the original cast. Great movie. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great sequel </p>
+
+
+<h2> review.date </h2>
+  12-27-2008  
+<h2> review.text </h2>
+
+ <p> This is not a horrible movie. Where it misses is where Roadhouse hit. The origional was so stupid and so goofey that it was actually hilarious in its 'badness'. This movie is just an ok straight to DVD movie.It is worth a watch if you might be a fan of the origional but it is hardly in its (the origionals) class. It is just not stupid enough. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not Bad Enough To Be Good </p>
+
+
+<h2> review.date </h2>
+  07-20-2006  
+<h2> review.text </h2>
+
+ <p> Fans of the original "Road House" may argue the merits of any sequel, but RH 2 is a worthy successor to the Eighties cult favorite. This Son of Swayze chapter moves briskly from New York to Louisiana where Dalton offspring Johnathon Schaech must defend the Black Pelican bar, now his uncle's bayou domain, against takeover by a southern crime syndicate.  The ensuing battle sets the stage for a rowdy mix of fist fights and redneck sideshows in keeping with the first RH.  There's much to cheer in this welcomed summer release including beautiful locations and heroic charisma from the lead.  Two superb actors, Richard Norton as the criminal kingpin and Will Patton as the good uncle, distinguish the project in their supporting roles.  Given the talents of these actors, they are not allowed enough screen time.  Norton's well tailored Victor Cross is the type of villain that audiences relish.  Norton plays him perfectly, as a methodically menacing overlord from Miami.  When Norton, a famed martial artist, and Schaech are unleashed against each other, the movie finally delivers an edgy fight scene.  More room in this "House" should have been reserved for Norton. If the series has another entry, it will be a smart move to encore Nortonand his character as the franchise's bad guy.  Victor Cross is a suitable crocodile to keep those Dalton boys busy! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fun "House" needs more Richard Norton. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

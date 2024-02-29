@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> 1884313477 <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-24-2013  
+<h2> review.text </h2>
+
+ <p> No one should even straddle a motorcycle without expert instruction if their intent is to ride on the street. Automobiles and trucks and road hazards are too dangerous for an untrained rider. The book is a good foundation and a good review. You'll be happier and safer with its training followed by &#34;live&#34; instruction. Once you are a competent rider, nothing short of an airplane will give you the thrills of a good motorcycle. Start here. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good info in book form--live classes are even better </p>
+
+
+<h2> review.date </h2>
+  01-27-2007  
+<h2> review.text </h2>
+
+ <p> Great book for absolute beginers who has never ridden a bike before.Only teaches basic skills and helps you pick out a first bike, gear etc.Also points out what to look for in city trafic, in turns , or passing cars, objects. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good for beginers </p>
+
+
+<h2> review.date </h2>
+  01-28-2013  
+<h2> review.text </h2>
+
+ <p> You can never read too much about motorcycle safety and technique.  This book is a good refresher on what is taught in the MSF training courses for beginners and experienced riders. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Ride better and safer </p>
+
+
+<h2> review.date </h2>
+  12-22-2007  
+<h2> review.text </h2>
+
+ <p> This book is excellent for the novice and I am sure it is a nice refresher for all.  A newbie would be foolish not to take the course and reading the book in advance of the course is extremely helpful. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent for Novice </p>
+
+
+<h2> review.date </h2>
+  09-29-2008  
+<h2> review.text </h2>
+
+ <p> The Motorcycle Safety Foundation does great work in training new riders and aiding experienced riders to maintain their skills.  This book covers the "how to" of safe motorcycle operation and riding.  It goes into much  greater depth than the MSF's Basic Rider Course and the course materials. It well supplements and fleshes out the topics covered in MSF's courses with well written and useful information.  I highly recommend it for every biker. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The title says it all </p>
+
+
+<h2> review.date </h2>
+  09-02-2005  
+<h2> review.text </h2>
+
+ <p> MOTORCYCLING EXCELLENCE is perhaps the best nuts-and-bolts primer on motorcycle riding yet published. It covers the subject thoroughly, a single source for knowledge and wisdom in the basics. It addresses attitude, basic skills, controls, gear, safety inspections, night and group riding, streetb strategies, off-road techniques . . . the gamut of essentials. Plus the basics of training, from the Motorcycle Safety Foundation, official authors of the book.Most people, perhaps 90% of road users, consider motorcycles as 'just other vehicles.' They aren't. Motorcycles are as different from four-and-more wheelers as swimming is from walking, as reading is from watching TV. Learning to operate a motorcycle safely and well is as difficult, but as challenging and rewarding as, say, learning to fly, scuba dive or climb mountains--and survive. Like those other unforgiving pursuits, do it right or risk serious consequences. Motorcycling is an honest trade: incompetence, inattention or bad luck can kill or maim in seconds. That's where this book shines, in identifying and hammering home the essentials.Expert contributors--a 'who's-who' of experience: Nick Ienatsch on picking the right bike, World MotoGP champion on safety gear and bike control, Paul Thede on suspension, AMA 250 champion Rich Oliver on stopping, Erik Buell on bike geometry, Reg Pridmore on the need for smoothness, Keith Code on counter-steering, World MotoGP champion Freddie Spencer on trail braking.Why read this book? Complex, high-risk activities demand study and practice at all experience levels. In an era in which school-student driver training has been discontinued and the road IQ of most car drivers is at flat-worm level, riders are at risk and must defend themselves. Every ride is a learning experience. This book will enhance the first, high-risk 50,000 miles in every rider's life (thus it's an ideal gift for offspring). And the next 250,000 miles for experienced riders.The illustrations and photographs are lavish and excellent. The appendices--MSF training, proper bike inspection, and a glossary--are thorough and well done. There are omissions, though, whence the loss of a review 'star:' e.g. tire compromise between wear and stiction (which is not yet intuitive for many riders), the availability of waterproof linings such as Goretex for gear. The editing, too, lacks polish--too many passages are prolix and rambling instead of being tight and tough. The message gets through, anyway. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> "The more you know the better it gets" (from the frontispiece) </p>
+
+
+<h2> review.date </h2>
+  06-24-2008  
+<h2> review.text </h2>
+
+ <p> Let me start off by saying that this book does not bypass taking the MSF (Motorcycle Safety Foundation) riding class in anyway for a budding motorcycle rider. If you want to ride a motorcycle then the MSF course is a must period. The MSF class teaches you so much while allowing you to practice in a safe and calm riding environment with trained instructors at your side to ask questions and get help from. Not to mention that some insurance companies will give you a policy discount on your monthly insurance payments for taking and passing the MSF course. You also don't have to do the DMV riding test if you pass the MSF course. So in the end the MSF course is more then worth what you paid to take the course for on top of the safety and riding training you get.Outside of the MSF course this book is a good primer to mentally prepare you for the key ideas on how to ride a motorcycle and what forces are at work while riding. Ideas like counter steering, smooth control inputs, avoiding target fixation, and a light over view of potential road hazards you might face and many more other topics are all discussed in this book. It also goes on to talk about other areas some people might not think about such as how to select a proper helmet and what to look for in riding gear. It also talks about the effects of lack of sleep, drugs and alcohol all have on a rider. I would recommend this book to anyone who has signed up for the MSF course but has not taken it or who is just interested in the idea of riding a motorcycle. In the end this is a very good primer book if not a refresher for those who have just finished the MSF course and need to brush up a little on some key concepts. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> One of the best books for those interested in riding a motorcycle. </p>
+
+
+<h2> review.date </h2>
+  03-30-2011  
+<h2> review.text </h2>
+
+ <p> Who better to write a motorcycle skill book than the very foundation itself? After taking the msf classes and feeling like I was near the bottom of the class in skill level (having never been on a motorcycle before), I learned so much from this book!  The classes are so quick and there's so much you need to keep in your head, I'm so thankful that a book like this exists for those of us who need to keep reviewing the basic skills.  This book gave me the confidence to purchase my first motorcycle and I've been riding almost everyday for the last two months.  I know I'm a newbie, but in applying all the skills, I feel like a very safe and confident rider.  There is a lot I need to learn and I'm looking forward to taking more classes by the msf.  I may have been near the bottom of my class, but I'll bet if my instuctors could see me now, they'd be glad they passed me!  This is an excellent follow up to the classes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent follow-up! </p>
+
+
+<h2> review.date </h2>
+  10-08-2010  
+<h2> review.text </h2>
+
+ <p> I've been riding for over a decade now, and I purchased this book to use as a tool to improve my riding.  What I like about this book is that it really does set up the first time rider with all necessary information, from gear to considerations when choosing a motorcycle.  You can almost split the book in half: the first half of the chapters can help the new riders, and the rest of the chapters can be used by all riders.  I think the breakout, use of photos and diagrams and descriptions of motorcycling techniques are presented well.I've taken the basic and experienced rider courses, and it is easy to get pretty good at riding, and not actively think about alot of the principles of riding.  Reading this book doesn't put you back in the MSF classroom, but it's a great means to make you remember those principles and utilize safety in your riding.  I like the concept of 'Motorcycling Excellence' and this book would make a great addition to any motorcyclist's library. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great For All Riders </p>
+
+
+<h2> review.date </h2>
+  01-09-2007  
+<h2> review.text </h2>
+
+ <p> Having taken the State of Ohio's Motorcycle Safety Course, based on an abbreviated version of this book, I was eager to read the entire book.  It was every bit as good as I thought it would be.  Well written, and chocked with excellent background information.  It was the first book in my growing motorcycle library. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Read and Ride </p>
+
+
+<h2> review.date </h2>
+  06-23-2013  
+<h2> review.text </h2>
+
+ <p> I have been riding motorcycles for probably close to 40 years, ouch.!  Mostly motocross and off-road and the occasional street bike. My recent purchase of a large sport / touring bike prompted me to polish up the basics and learn the finer points of riding. I found this book to be just what I needed. The most important feature was counter-steering. Unconsciously I always did this but never really paid attention to what I was doing. You motocrossers will understand counter steering when you are sliding around a corner. Not quite as extreme on a street bike but the same motion.This book has to be required reading for beginners and those that have been gone from the sport for a while. It's an easy read not too technical. It would also probably be a great leg up before taking the MSF course. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good basic information </p>
+
+
+<h2> review.date </h2>
+  06-21-2006  
+<h2> review.text </h2>
+
+ <p> Hey! Want to know how to ride a bike and never been there? This is the book for you. I was one of those that the only thing I knew about motorcycles was they have two wheels. Nothing else. Boy, I was so lost! I am satisfied that I read this book before buying my very first bike.  There are so many things to know about motorcycling, and i think reading this book is the best way to get into it.  The book starts from the beginning (that doesn't sound nice but I can't think of other way to explain it), choosing a bike, controls, etc. and go on to strategies, protective gear, group riding, etc. Really really helpful.  Also, they encourage You to take any of the courses of the MSF, which I am sure it should be nice (i can't take one of those because I don't live in the USA). And remember, what will make you a great rider is a LOT of practice. Happy Ride! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The very best for the beginner </p>
+
+
+<h2> review.date </h2>
+  10-31-2012  
+<h2> review.text </h2>
+
+ <p> This book is the norm for all states that give a road & written test to get a motorcycle license. please read this book over and over it's the bible for riding everything you need to know is in this book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> want to live riding a motorcycle </p>
+
+
+<h2> review.date </h2>
+  08-31-2007  
+<h2> review.text </h2>
+
+ <p> This is a good beginning book for someone starting out motorcycling.  Not the best, but a good book and from a good organization. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good basic coverage </p>
+
+
+<h2> review.date </h2>
+  01-19-2014  
+<h2> review.text </h2>
+
+ <p> I found this book very helpful as I was considering buying a motorcycle and taking the motorcycle safety course.  The book is clear, well-illustrated and very easy to read and understand.  I would recommend it if you are considering buying a motorcycle. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good book for those considering getting a bike. </p>
+
+
+<h2> review.date </h2>
+  01-09-2007  
+<h2> review.text </h2>
+
+ <p> This is a must for any motorcycle rider either beginner or an advanced rider. Great for beginners to understand the principles of riding, great for advanced rider just to remind the basic rules and principles. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Beginer or advanced </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

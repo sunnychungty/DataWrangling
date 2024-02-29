@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B004XYG0V2 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  04-29-2014  
+<h2> review.text </h2>
+
+ <p> I didn't expect it would be a $100 Apple replacement battery and it's not, but it works. I carry it with me when I need extended power and have no available A/C option. I get a few hours out of it. You can tell just by holding it that it's lighter than the original, but it fits well and charges quickly. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works as expected </p>
+
+
+<h2> review.date </h2>
+  09-14-2012  
+<h2> review.text </h2>
+
+ <p> When the battery in my 2007 15" MBP died I opted to pick up one of these since they're inexpensive.  For the first several weeks the Mac was totally confused about how long it would last on the battery, but finally settled down.  It seems like I get about 90-120 minutes of battery, which is much worse than the stock battery, but much better than NO battery. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Kinda works </p>
+
+
+<h2> review.date </h2>
+  01-23-2013  
+<h2> review.text </h2>
+
+ <p> Got this battery for my old Mac book pro. It came on time but it doesn't charge 100%. Now if you look at the price I think it is fair enough. Want a 100%charge? Apple has it for about $130. This is my third battery. Got the second one on apple and it didn't last a year so do your math. As an apple fan I don't think it was worthy to buy that battery on an apple store </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Fair enough </p>
+
+
+<h2> review.date </h2>
+  06-05-2012  
+<h2> review.text </h2>
+
+ <p> This worked just so well, better than I expected even. I wrote a detailed paper on the performance of the battery here ( [...] ) on my skydrive. Some said that the aftermarket batteries are low quality, don't fit, or deteriorate quickly. This is not the case with this gem. It lasted three hours on a single charge! It fit perfectly, not too tight, not too loose. There were some odd things, however.They include:The battery was wrapped very securely. Like three layers of bubble-wrap, foam, an anti-static bag, and foam.It smelled sweet. Like perfume or something. This has gone away.It is plastic. Slightly darker color than the laptop, but only at certain angles. (as if you'll be looking under anyway)The battery indicator lights don't stay on long, but work.The battery button is hard to press.So there's my review! Hope you buy this, and save $105 over apple! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great! </p>
+
+
+<h2> review.date </h2>
+  02-26-2014  
+<h2> review.text </h2>
+
+ <p> Perfect fit, no issues there.  It provides approx 2 hours of use.  It also holds a charge very well when not in use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent quality </p>
+
+
+<h2> review.date </h2>
+  02-06-2012  
+<h2> review.text </h2>
+
+ <p> Works! Feels pretty solid. Have had it two months and it seems ok still. 5 stars would've been awarded for better build quality/color matching to the original. But what can I say? Fraction of the cost for knockoff and works great! Can't complain, really. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Holds Its Charge </p>
+
+
+<h2> review.date </h2>
+  06-15-2013  
+<h2> review.text </h2>
+
+ <p> Fits very well (even if it leaves a small gap between the battery an laptop body)No great battery life (2 hours maybe?) but is enough for a battery that costs 1/6 than the original </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Does what is expected for a inexpensive battery </p>
+
+
+<h2> review.date </h2>
+  04-15-2014  
+<h2> review.text </h2>
+
+ <p> Plugged it in and isntantly started up with about half battery. Time will tell for these batteries as most reviews say it is shortlived. For $20 I am not expecting great capacity but they should at least hold up for a year, in theory. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> so far so good </p>
+
+
+<h2> review.date </h2>
+  11-02-2011  
+<h2> review.text </h2>
+
+ <p> Sad to say this did not work out of the box.  Full charges and then when disconnected from the power source it crashes.  Seems this is a known error based on the cryptic stuff in the box.  It might work after I go through the hassle of contacting tech support or customer service but if you need some assurances it will work out of the box.. might want to look elsewhere. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Didn't work out of the box.. </p>
+
+
+<h2> review.date </h2>
+  04-23-2013  
+<h2> review.text </h2>
+
+ <p> I have had some good experiences with replacement Mac batteries however this was not one of them.  The Mac indicated battery needs service and after 2 full cycles the battery only delivered 30 minutes of power.  The battery status chip did not function properly and the computer just shut down without warning.  Thanks to a great return system from Amazon it was a smooth return. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Some cheap batteries work, others don't, this one doesn't </p>
+
+
+<h2> review.date </h2>
+  06-04-2012  
+<h2> review.text </h2>
+
+ <p> Horrible battery.Seemed decent for about a couple days and then my battery icon said "service battery" so I checked out Coconut Battery and it now showed that my battery can only maintain 21% capacity. This is after almost a week of use. I have done nothing wrong to make this battery fail. I've used it just like normal.I would never purchase this battery again.(On a side note, the color doesn't match my Mac, but it's close. Also, the battery fit perfectly. No issues with the track pad or mouse.)***UPDATE: My laptop has been running for about 10 minutes at 7% battery. Seems it could be a battery/system compatibility issue. Maybe computer doesn't recognize the battery correctly? Not sure.. I'll wait to return until tomorrow and see how long I can run on 7%.***UPDATE: This battery is a piece of garbage. DON'T BUY. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> AWFUL. </p>
+
+
+<h2> review.date </h2>
+  12-24-2012  
+<h2> review.text </h2>
+
+ <p> My battery started going down at a fast rate and decided to buy a battery through Amazon.  Upon replacing the battery, I notice an immediate change in how my Mac worked.  Great product for a great computer.  Love it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  12-05-2011  
+<h2> review.text </h2>
+
+ <p> Good so far and at a great price. Didn't want to spend over 100 bucks on a battery so I decided on this one. It's way too early to see how long it will last but as of now no issues at all. Battery fits pretty flush. Color is almost if not identical. Has the same button and lights as my original battery from Apple. I calibrated the battery as per Apples website, we'll see how long it will last but as of now, I'm happy with it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good so far... </p>
+
+
+<h2> review.date </h2>
+  10-05-2012  
+<h2> review.text </h2>
+
+ <p> Yes a Apple branded battery will give you a longer run time but these batteries are so cheap I think they are the better value. I have been using mine for 4 months now and I get about 3 hours of life out of it. Fit is great, I have no complaints! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Better choice than OEM </p>
+
+
+<h2> review.date </h2>
+  10-04-2012  
+<h2> review.text </h2>
+
+ <p> I received my ATC battery in the mail via USPS after only three days from ordering. Kudos to seller ATC LLC.Here are my stats after its first charge.MacBook Pro 3,1 (late 2007)Charge Information:Charge remaining (mAh): 4893Fully charged: NoCharging: NoFull charge capacity (mAh): 4906Health Information:Cycle count: 1Condition: NormalBattery Installed: YesAmperage (mA): -1432Voltage (mV): 12347I'm letting the battery drain tonight and then will charge it back up to try to condition it. Based on experience, does anybody have suggestions on how many times I should condition/cycle it?Con: -1 star for not fitting flush with the bottom of the MBP. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 4906 mAh before conditioning </p>
+
+
+<h2> review.date </h2>
+  11-10-2013  
+<h2> review.text </h2>
+
+ <p> I have a 2008 15 inch MacBook Pro.  I really need to upgrade, but I am hesitant to spend $1400 or more when the laptop I have mostly works fine.  So when the OEM battery died, I opted to replace the battery and see if I can squeeze a few more months out of  my laptop.  I decided to buy this battery.  I am not a computer genius who can hook up this battery to fancy meters and other devices to test its capabilities.  But I can say that this battery fits just fine and seems to hold a charge as well as the old one did.  In my non-technical opinion, this battery was a cost effective solution for my particular problem.  My only complaint is that when the battery runs all the way down, it takes about five minutes of charging before the laptop powers up again, even when plugged in.  Not sure why that is, but this is why I took off 2 stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine in my 2008 MacBook Pro </p>
+
+
+<h2> review.date </h2>
+  05-25-2013  
+<h2> review.text </h2>
+
+ <p> Really disappointed with this battery. My original macbook battery was only able to hold a charge for about 30 minutes so i decided to pick up this battery. It worked great for about 3 weeks then out of nowhere it stopped working. The computer would show 100% charge but soon as I unplugged the computer it would shut down immediately. I contacted Amazon inquiring about a return and was told the return would have to be done through the manufacturer. Unfortunately there's been no response from the company after multiple emails to them.Waste of money! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Dead after a month </p>
+
+
+<h2> review.date </h2>
+  07-19-2012  
+<h2> review.text </h2>
+
+ <p> I get about 4 hours of time out of this battery which is good enough for me.....  This battery looks exactly like the OEM battery and I would recommend it to anyone trying to save money. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good battery </p>
+
+
+<h2> review.date </h2>
+  08-25-2012  
+<h2> review.text </h2>
+
+ <p> This is not regarding the battery itself, but a "Shipped and Sold By" vendor of this product.  I purchased it when the source vendor was Sunvalleytek.  I received a battery for a Toshiba laptop.  I went through the normal Amazon process to inform the company I received the wrong product.  They then asked for photographs of the battery and shipping label, which I sent.  I then received an email requesting more photos of the label on the box and the invoice and also stating they were out of stock on the item and would I accept a refund?  So I sent them more photos and obviously stated I requested a refund.  They stated that it took time since it was an Amazon shipping problem...huh?  I paid for shipping from them and the shipping label showed it shipped from them, so blame Amazon for their mistake?  In any case after three weeks I did receive a refund.So no complaints about the battery since I have since chosen to purchase it elsewhere, but just a warning about the supplier which it seems has now changed. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Not from Sunvalleytek! </p>
+
+
+<h2> review.date </h2>
+  06-07-2013  
+<h2> review.text </h2>
+
+ <p> It does its job, providing roughly two hours of surfing and browsing time on a charge. I haven't had it long enough to comment on its long-term stamina. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Price is right </p>
+
+
+<h2> review.date </h2>
+  11-08-2012  
+<h2> review.text </h2>
+
+ <p> I was a little worried because the price was so low compared to batteries that I have bought for PC's before.  However, the battery slid right in place with no issues.  I think some people commented on the color not matching exactly, but I think that's just because it's a new finish and the bottom of your laptop has some wear and tear.  It looks great. The old battery would get so hot that I couldn't use it in my lap.  This one is staying nice and cool.  I just got the battery so I'm not sure on life of it. But hey, for $17 it's worth a shot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Seems great so far for the price </p>
+
+
+<h2> review.date </h2>
+  11-29-2012  
+<h2> review.text </h2>
+
+ <p> Arrived as described by others, very well wrapped with slight oily smell. Fit perfectly - did not stick out. Slight color mismatch which seems more related to material than color (aluminum vs plastic?). Charged fine although there were some minor ? notifications that I don't remember. Ran the computer for 3 hours or so. I don't use that computer except as a backup, so can't say as to how well it will hold up cycling. But it replaced an OE battery that blew up for ~$20 and kept the computer usable, so I am happy. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works fine </p>
+
+
+<h2> review.date </h2>
+  04-25-2014  
+<h2> review.text </h2>
+
+ <p> First, the packaging was great. At this price, I expected less. Not a huge deal, but first impressions are important.After unpacking it and trying to install it, the first thing I noticed was that the manufacturing tolerance wasn't as tight as I'd like...or rather the battery fit too tightly in the bay. It took a little effort to get it to lock into the battery compartment, whereas the OEM battery just dropped right in. Also, the OEM battery pops right out when you unlock it, whereas this battery requires a knife or something to pry it out. If it were a big deal, I would get some sand paper and rub down the tight spots...but it's in and its working, and I don't plan on taking it out again until it dies...Once the battery is in however, it looks good. Not quite as nice as the machined aluminum plate that was attached to the OEM battery, but unless you spend a lot of time looking at the bottom of your laptop instead of the keyboard and screen it's really not that big of a deal, IMO. Honestly, unless you were looking for it, you would never even know it wasn't the OEM battery.I've been using this battery for a couple weeks now, and so far the performance has been decent. I have a Macbook Pro A1211. For general web surfing and email, it gives me about 2.5 to 3 hours of run-time. I got the laptop used, with a dead battery, so not sure how long the OEM battery lasted, but considering that this is older technology, I don't really expect much better life than that. I am sure the newer MBPs are much more efficient. This MBP gets pretty hot on the bottom even with very light use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works well, but doesn't fit perfectly </p>
+
+
+<h2> review.date </h2>
+  10-23-2012  
+<h2> review.text </h2>
+
+ <p> This arrived with about 60% charge.  I charged it fully, then discharged fully and charged again - the recommended method of calibrating the battery.  It shows a capacity in System Information of 4883 mAh - only about 87% of the specified 5556 mAh.The fit is okay, but one corner does stick out a little, but less than the height of the rubber feet on the MacbookPro, so it isn't a problem.The green LED indicators of charge are very hard to read because they are recessed and misaligned with the holes, so you cannot see them except from about 45 degrees off of vertical.Case is plastic, so it won't dissipate heat as well as the metal ones.I don't use the computer on battery power very often or for very long, so it works for me as a backup in case the cord gets unplugged.  I haven't had it long enough to see how it will hold up over time. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Works, but not what it claims </p>
+
+
+<h2> review.date </h2>
+  03-21-2013  
+<h2> review.text </h2>
+
+ <p> I have an ANCIENT 2007 MBP.  I've since bought a replacement MBA, but wanted the MBP to be in good working order as a back up and also to save older docs/media that I don't want filling up the hard drive on my MBA.  When I first tried to insert the ATC battery, it seemed to "snap" in OK although it was slightly askew.Since my computer's previous battery had been totally dead and I had trouble restarting my computer, I used this technique I found online to restart the computer/insert the battery: Take charger and battery out, hold power key down for 10 seconds, continue holding power key for another 10 seconds while plugging in charger, then let power key go and hit power button again once. Plug in battery once it's on to keep the computer from slowing down.  This started my computer, but the fans were whirring about a thousand times a minute and the computer didn't recognize the battery at all when I put it in. I assumed I got a bad battery and went to take it out.That's when I got pretty annoyed, because the battery was wedged in there and I really couldn't get it to move. I eventually pried it out with a thin metal nail file and was lucky not to scratch up my computer (although really, it's 6 years old, so I couldn't get too worried about it). I decided to try to re-insert the battery really carefully, making sure it was totally level as I did so. This time, it worked and the computer recognized the battery right away. It is a slightly different color from the body of the MBP and doesn't fit into the slot for it perfectly (see photos) but for the price on a barely used computer, it is fine. Will report back if anything changes, although given that the last OEM Apple battery I bought lasted less than a year, as long as it keeps running I'm not too worried. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Insert carefully! Was ready to return it, but perseverance paid off </p>
+
+
+<h2> review.date </h2>
+  09-14-2013  
+<h2> review.text </h2>
+
+ <p> Its not the best battery replacement for the Macbook pro but for its price i'm not complaining. It works just fine but doesn't last as long as the original. It also runs a bit hot. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Cheap alternative for a laptop battery </p>
+
+
+<h2> review.date </h2>
+  07-08-2012  
+<h2> review.text </h2>
+
+ <p> I've only had the battery for two months at most and only drained it about 9 times and it's only reporting 50% maximum charge.  Even at a low cost this was a bad purchase.  Also just to note but doesn't bother me (it's the run time of the battery that does)... the color is off and it sticks out about 1mm more than it should. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stay away... </p>
+
+
+<h2> review.date </h2>
+  08-07-2013  
+<h2> review.text </h2>
+
+ <p> My 2007 MacBookPro is the longest lasting computer I've ever owned. It just keeps on going. The poor old battery was down to less than an hour of life from a 100% charge so it had become a desktop for all practical purposes. I do sort of want a new computer but for the price of this battery I have  a very functional laptop again.It does take a few cycles to get to the full 4 hours of battery life. My first charge I did the recommended cycle (found on the apple website) and made a conscious effort to use the battery power down to 20% before recharging for the first month. Now I charge and have four hour of wifi internet use per charge. I also use a Bluetooth keyboard and mouse most of the time.Good battery - Great Price </p>
+
+
+<h2> review.summary </h2>
+
+ <p> New Battery for MacBookPro </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

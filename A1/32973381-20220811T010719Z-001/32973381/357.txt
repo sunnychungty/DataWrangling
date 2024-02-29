@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> 1608209121 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  05-29-2014  
+<h2> review.text </h2>
+
+ <p> Good characters, good story -- I'm sold! A sweet coming out story with adventure and drama. Good Summer read Yea! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good summer read! </p>
+
+
+<h2> review.date </h2>
+  02-02-2014  
+<h2> review.text </h2>
+
+ <p> Here is a piece of advice for gay readers: If you see a book with the name Zubro on the cover, buy and read it. You will not be disappointed. Unlike with so many other authors in this genre, you will never feel like the price of the book or the time spent reading were wasted.This book involves a mystery surrounding the apparent suicide of a young presumed-to-be-gay high school student. A closeted gay athlete working on the school paper is assigned to write a story about the death. As he begins to research the life of this boy who had no friends, he begins to discover anomalies in the official story. As he digs deeper, and learns more, danger ensues. Add to that, he is being targeted by the biggest (literally) bully in the school.The plot is well laid out and the characters are multi-dimensional and real, as is the dialog. The tension is palpable and there is nothing pat about the denouement. This is an exciting book that I am glad to have found. One more thing, for those looking for another gay story filled with graphic gay sex, this is not that book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> another excellent book </p>
+
+
+<h2> review.date </h2>
+  04-20-2014  
+<h2> review.text </h2>
+
+ <p> A good story, well written, with a very poignant message.  Who knew high schoolers could be so mature.... A reminder that lgbt  bullying is still alive </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Enjoyed thoroughly </p>
+
+
+<h2> review.date </h2>
+  02-13-2014  
+<h2> review.text </h2>
+
+ <p> After reading &#34;Another Dead Republican&#34; I decided Mark Zubro had entered bitter old age. Hey, I am 81!  I took a chance on SAFE despite the two 5 star reviews, they are not always reliable. I am glad I did and wore out my cataract laden eyes (surgery in 2 weeks) by reading it straight though. It is an exciting read and even the gay formula parts ( homophobic preacher's son, mean jocks, rich spoiled kid, indifferent school officials ) seemed fine to me. Another plus is the story does not take place in Chicago and does not have10 pages of formula sex every Chapter, </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Much better Mark! </p>
+
+
+<h2> review.date </h2>
+  03-26-2014  
+<h2> review.text </h2>
+
+ <p> Coffee Time Romance Reviews Best of Award!Safe is a tragic story, but one which speaks to the heart of so many issues in society today. Mark Zubro offers the reader a small peek into the lives of children who are forced to hide who they are, and the fears of prejudice and alienation which can spawn insanity. I loved the main character Roger as he was honest with himself and others and shunned the fear of alienation. He refused to feel any of the shame others tried to force on him and I absolutely think his parents were the perfect portrayal of what parents who truly love their children face when they are forced to confront a reality they never see coming. Safe is an amazing story of epic proportions which readers will find both moving and life altering.DelaneReviewer for Coffee Time Romance & More </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SAFE~ </p>
+
+
+<h2> review.date </h2>
+  03-01-2014  
+<h2> review.text </h2>
+
+ <p> I liked the first half of the work.  The last half of the work was really difficult to read and/or understand.  The plot was most difficult to comprehend - easy to follow; however, most difficult to understand how this could occur. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> an interesting work </p>
+
+
+<h2> review.date </h2>
+  04-16-2014  
+<h2> review.text </h2>
+
+ <p> Outstanding.  Magnificent story of courage  acceptance and love. Truly reflects the struggle of gay teens to accept themselves and be accepted by others. Looking forward to reading more of Mark Zubro' s work </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Safe </p>
+
+
+<h2> review.date </h2>
+  03-27-2014  
+<h2> review.text </h2>
+
+ <p> this is a book worth reading, Don't let a sluggish start fool you.  the pace quickens and the real story begins.  this is a coming of age story for a closeted gay youth dealing with social ills, tragedy and finding the gumption to live life and handle life.  if you are looking for graphic sex, look elsewhere; if you are looking for graphic life this is a must read .... well done Mark </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Stellar </p>
+
+
+<h2> review.date </h2>
+  04-08-2014  
+<h2> review.text </h2>
+
+ <p> Starts out a little slow, but not for long.  Exciting, interesting characters, plot shifts.  Everything a good mystery story should be.I would like to see a sequel !When you start reading  you don't want to stop. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Keeps you on the edge, good story ! </p>
+
+
+<h2> review.date </h2>
+  03-11-2014  
+<h2> review.text </h2>
+
+ <p> We couls all use a hero to keep us safe. First book by Mark that I read I really enjoy this book. good story line keep you wanting to read more. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> safe?? </p>
+
+
+<h2> review.date </h2>
+  01-19-2014  
+<h2> review.text </h2>
+
+ <p> What a great story. Mark has yet to disappoint. He knows how to keep you on the edge of your seat. Can't wait for his next book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent!!! </p>
+
+
+<h2> review.date </h2>
+  02-21-2014  
+<h2> review.text </h2>
+
+ <p> Safe by Mark Zubro was nothing like I&#8217;d anticipated, and it completely rocked my socks off.  I&#8217;m not usually a fan of the YA genre, because I&#8217;ve found that I just don&#8217;t relate well to the characters.  It&#8217;s not a criticism against the authors who write it; it&#8217;s more a case of my own reading bigotry, if you will.  Safe was chock full of twists and turns, with emotional plot developments that actually brought tears to my eyes at times, and characters that I not only liked, I loved.Roger Cook is a closeted Gay athlete who writes for his school paper.  On the surface he seems happy, well adjusted, liked by many of his peers and classmates.  There&#8217;s a reason for that; he is a happy well adjusted teen male who enjoys moderate popularity - he&#8217;s also Gay. Roger has hesitated to come out to his family and friends because he&#8217;s fearful of the repercussions the revelation could bring.  When word comes that a fellow classmate, Kyle Davis, has apparently committed suicide, Roger takes on the daunting task of writing a column to memorialize his life.  However, the deeper he digs, the more he&#8217;s convinced that the boy didn&#8217;t take his own life.  Roger is determined to honor Kyle the only way he knows how to - by uncovering the truth.I found Roger to be very likable, and while he wasn&#8217;t up front about every aspect of his life, he was confident enough to stand up for what he believed in.  He was a loyal friend, compassionate and dedicated to making sure others knew the value that Kyle held as a person, albeit posthumously.  Kyle, at first glance was the odd duck; not well liked at all, and seemed to have little in common with his classmates.  I was pleasantly surpassed at how his back story unfolded and ached a little at the loneliness he must have felt.  Kyle may have been quiet and unassuming, but he was anything but boring.Safe by Mark Zubro, is a white knuckled, spine chilling look at how hate and intolerance tend to bring out the worst in the small minded, while inspiring others to reach within to find the strength necessary to rise above their circumstances and live with authenticity.  An entertaining tale of suspense that I highly recommend, whether you&#8217;re a fan of the young adult genre or not. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Reviewed by Redz World Reviews </p>
+
+
+<h2> review.date </h2>
+  06-26-2014  
+<h2> review.text </h2>
+
+ <p> "Safe" is a different type of book for Mark Zubro.  It doesn't involve a detective as hero nor the team of a teacher and a baseball pitcher.  Still, high school senior Roger, the hero of this book, plays on the baseball team as well as writes for the school newspaper.  The story centers on Roger's getting involves in investigating the apparent suicide of a gay student at his school and the real danger and fights into which he is thrust.  In the ensuing action he comes out to his family and closest friends and is outed to the school by a villain who, also, works on the newspaper.  In the meantime, he falls in love for the first time.This book is much less charged with the author's enemy types than his more recent books.  Still, he takes aims at the school principal, praises the teachers union representative that he was once, despises presumed homophobes, and puts likely bullies in the worse possible light.  For a former teacher it is sad he doesn't seem to know the difference between "cite" and "site" nor to use a subjective pronoun after a to-be verb.  Still, as a prolific writer little things can slip through.Despite the actual or threatened violence that permeates the book, it is truly enjoyable to read and is well written.  One comes to like the main character and some of his friends and would like to read more about them and the romance started at the end of the book. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> High School Senior Investigates the Death of a Fellow Student and Gets Beat Up for His Efforts </p>
+
+
+<h2> review.date </h2>
+  06-04-2014  
+<h2> review.text </h2>
+
+ <p> Great reading about young gays struggles with high school , bullies and coming out . It tells how different families treat their kids and their struggles </p>
+
+
+<h2> review.summary </h2>
+
+ <p> touching story of gay youth </p>
+
+
+<h2> review.date </h2>
+  02-15-2014  
+<h2> review.text </h2>
+
+ <p> Interesting story and good character development even if the plot is a bit thin in places. More of a gay mystery than romance, though there are elements of romance in the story. Discussions of a sexual nature and descriptions but no long-winded sex scenes. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good High School Story </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

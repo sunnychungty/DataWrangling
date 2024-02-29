@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B004YE8G6I <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Perfect & cheap option for my HTPC </p>
+
+
+<h2> REVIEW DATE </h2>
+  12-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I cut the cord on cable/satellite over a year ago but wanted to pick up local OTA HD channels and build a home theater PC (HTPC) to use as channel guide and DVR. I looked at all the options available for a 1 GB video card with an HDMI connection and was thrilled when I found this option for under $50. It installed quickly and I downloaded the latest drivers and configuration utility from the manufacturer without issues. I could not be more pleased with my choice and bought a second one when I built my next HTPC. Both systems are running Windows 7 and I use Windows Media Center. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great card for the money </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-20-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> I picked up this card, because I wanted an inexpensive HDMI solution for my HTPC. I've been very pleased with its performance so far. It's quiet and powerful enough to drive my TV at full 1920x1080 resolution. The AMD Catalyst software even allowed me to extend the display to get rid of the think black boarder initially around my picture. I really like that it carries video and audio in one simple connection. My only gripe is that when I turn on my TV before waking up PC, occasionally I'll get no sound - but in fairness, that could be more of an issue with my TV than the card. If you're looking for a good half-height PCI-E HDMI card, then I highly recommend this one. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Movies and Blueray </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> This is not a heavy PC gamer card but it is an excellent replacement for inter graded graphics.It is ideal for a HTPC to watch movies on a HD TV , it is good for light weight PC games meaning not that graphic intensive.One DVI connection to PC monitor and the other to a HD TV for a real straight forward setup.HIS Radeon HD 6450 1 GB (64bit) DDR3 DVI (HDCP) HDMI VGA PCIe X16 2.1 Video Card H645H1G </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Mediocre graphics card from AMD </p>
+
+
+<h2> REVIEW DATE </h2>
+  10-03-2011  
+<h2> REVIEW TEXT </h2>
+
+ <p> I was really dissapointed when I installed it on my desktop and updated the driver and my Window 7 score went down - I had higher scores with my old Radeon 4550 graphics card but with no direct X 11 support....I got an Nvidia GT 430 which really boosted my window 7 experience and better graphics performance over all compared to this HIS Radeon HD 6450...I returned this item for refund. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Great Upgrade over integraded graphics </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> Installed this on a aging P4 computer. I needed to watch my TV recordings, from the other room, but the integrated graphics with only 8 MB of video memory could not decode the video.Plugged this in and I'm up and running. Got the latest drivers and now my videos are running smooth. It's all in the hardware acceleration!  Now I can use NextPVR to stream TV across the home with no wires, nice.Not sure how well the gaming is on this, but my processor only scored a 4.1 on WEI. The card shows a 6 for gaming on my really old system. I bet this might do well on a better system, but really, it's not for any serious gaming... maybe SimCity 4 and SC II, but not on the high settings. :)Get this card if you just want video acceleration for a Home theater PC. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> unreliable on Linux </p>
+
+
+<h2> REVIEW DATE </h2>
+  05-05-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> It's good when it works. I don't do any gaming. I just wanted an upgrade from my onboard Intel video so that I could use a DVI connection to my screen, since the onboard only has analog. This Radeon produces a nice picture, but the GPU frequently locks up, writing kernel debug messages to the system log. When it locks up, usually the system can recover so that the display at least works, but the GPU stops accelerating, so the display is extremely slow, until rebooting. Sometimes when the GPU locks up, the system cannot recover, so I have to ssh to the system and reboot it. This GPU lockup problem happens about once a week, on average. Besides the log messages, I can tell when the GPU croaks by observing a significant drop in temperature, according to the GPU's temperature sensor, as read by lm-sensors. It will do this, seemingly randomly, even when nobody is using the computer, it's just idle with the screen asleep. I'm not sure if it's a buggy driver causing the problem (I'm using the free radeon module), or shoddy hardware; I'm inclined to say it's the latter. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Works with Windows 8 </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-17-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> $35 for a 1GB 64bit DDR3 video card? That is a good deal!I run two of these cards in a Windows 8 business machine to support dual monitors. They work great. I don't think they're up to the task of running higher end games. Which is fine. If I wanted a gaming PC, I would expect to spend 10 times as much on a video card.For everything besides gaming, these are great cards. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> HIS Radeon HD 6450 1GB (64 bit) DDR3 DVI (HDCP) HDMI VGA PCIe X16. </p>
+
+
+<h2> REVIEW DATE </h2>
+  01-20-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Nice card. I am a fan of HIS products. Have 2 HIS 5450's that are about 3yrs old, and still run fine. Not a heavy gamer card, very nice video for your simple computers. This card is running on a  5 year old technology, but new, Intel board, DX48BT2.My concerns: Product was not new as posted, slightly used, ok hence the price. Drivers disc was toast as it was scratched. Package it was sent in was a paper mail bag, not even padded. A box with pellets is proper for this type of shipping.A trip to AMD and the current CC package was installed. It worked and is perfect. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Fantastic Video Card, great price </p>
+
+
+<h2> REVIEW DATE </h2>
+  11-17-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Great video card, it's relatively cheap, light weight and small. I bought this to replace my ATI Radeon HD4550 and so far so good. I have played all the latest games on it without any problems. I have edited photos, converted videos, watched high quality movies and done everything I could possibly imagine. There is no need to buy expensive video cards unless you are a die hard PC Gamer or Graphics Buff. This video card will do everything any standard user would want it to do. </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> actually, i'd rate this at 4.5 out of 5. </p>
+
+
+<h2> REVIEW DATE </h2>
+  09-05-2012  
+<h2> REVIEW TEXT </h2>
+
+ <p> very easy to install (of course) & the software (catalyst i believe) works fine.has no fan (fine for me (quieter!), but not so good for heavy gamers)best bang for your buck for 'neflix' & 'dual monitor' users (in my opinion)advice: when installing, be sure to restart the computer over & over again each step of the installation process.also: my system configured to monitor's native resolution automatically after a final restart (after the software & drivers were successfully installed)i am very happy :D </p>
+
+
+<h2> REVIEW SUMMARY </h2>
+
+ <p> Gaming Card </p>
+
+
+<h2> REVIEW DATE </h2>
+  06-30-2013  
+<h2> REVIEW TEXT </h2>
+
+ <p> Purchased this for a friend a while back for  gaming. While it cannot handle heavy graphics, it can probably handle light gaming -- that is, most games on median settings. </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

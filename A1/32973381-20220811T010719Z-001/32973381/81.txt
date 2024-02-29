@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT.ID <h1>
+ <p> B00425I3FS <p>
+
+<h1> product.reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  10-12-2011  
+<h2> review.text </h2>
+
+ <p> Kodak makes a great product, the printable surface goes all of the way to the hub and to the edge of the disc and makes a great photo without a big hole in it on your own DVD for sharing with your friends and they were cheaper than the other brands, this is my 3rd pack of 100 and i plan on staying with Kodak </p>
+
+
+<h2> review.summary </h2>
+
+ <p> great product </p>
+
+
+<h2> review.date </h2>
+  10-11-2013  
+<h2> review.text </h2>
+
+ <p> I've purchased and used all the major brands of hub printable DVD-R. I usually shop by price these days as recordable DVD blank manufacturing is very good these days. Two spindles of these have worked fine with no coasters for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great value in printable DVD-R </p>
+
+
+<h2> review.date </h2>
+  05-17-2013  
+<h2> review.text </h2>
+
+ <p> This is my second stack of these so far no coasters good printable surface. I will order more of these dvd's you will not be disappointed.Have bought several spinals of 100 and 99.9 percent of them have worked out great good value and product. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great product great price. </p>
+
+
+<h2> review.date </h2>
+  10-05-2013  
+<h2> review.text </h2>
+
+ <p> Great blanks.  Have use them before.  Newver result in coasters.  I would recommend these.  They shoud not make you wrirte so much for a simple review </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great dvd-rs </p>
+
+
+<h2> review.date </h2>
+  09-12-2013  
+<h2> review.text </h2>
+
+ <p> I had been spending $27-$30 for Taiyo Yuden, for other ink jet printable discs for work, for years... tried these today, and not a single bad burn, was blown away.This is going to save me tons of money, so I will definitely be buying these again.If you want real savings check out microcenter, you can get 100 windata packs for $14.99 each, and even with shipping you save money over amazon prime. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> For Amazon it's a good deal... but... </p>
+
+
+<h2> review.date </h2>
+  09-26-2012  
+<h2> review.text </h2>
+
+ <p> Good Kodak quality, and the absolutely best price period. Go search the internet and try to find a 100 pack at this price. So far, used about 10, no duds. I will purchase again. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Best CD deal period </p>
+
+
+<h2> review.date </h2>
+  10-27-2013  
+<h2> review.text </h2>
+
+ <p> Do not buy this.  5 out of the fist 6 disc's would not write.....  I have NEVER experienced such bad results....  Seeking a refund...... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> SUCKS!!! </p>
+
+
+<h2> review.date </h2>
+  07-25-2013  
+<h2> review.text </h2>
+
+ <p> Item is exactly as described. Great for inkjet duplicators and rightly priced! Order my second batch right now.What more can I say?~Michael </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Buying it again! </p>
+
+
+<h2> review.date </h2>
+  04-21-2014  
+<h2> review.text </h2>
+
+ <p> Good price, good media. Recommended. These have a white &#34;markable&#34; back surface, suitable for any number of types of use. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Burnt about 10 now, only 1 coaster... </p>
+
+
+<h2> review.date </h2>
+  08-09-2012  
+<h2> review.text </h2>
+
+ <p> Using the DVD+R's for just about everything including in our disk duplicator.  On our 3rd package and still doing GREAT.  I recommend these for ALL general use recording.  They also print very well. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OVER 200 with NO COASTERS </p>
+
+
+<h2> review.date </h2>
+  07-26-2013  
+<h2> review.text </h2>
+
+ <p> As a upstart photographer I find these great for presentation disks to my customers. I use a couple of the pics I shot for artwork and the Canon printer I use loves the white matte finish. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect for my new printer. </p>
+
+
+<h2> review.date </h2>
+  06-12-2013  
+<h2> review.text </h2>
+
+ <p> I purchased these and they are great. I found I have an old dvd player that needs the negative and these work nice. I like the idea of putting on my own label instead of using a marker. I think these are one of the best on the market. I have purchased the negative and positive ones and have not had one issue. I have gone through nearly 1000 and they are my favorite brand. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> kodak dvd -r  white inkjet printable dvds </p>
+
+
+<h2> review.date </h2>
+  09-23-2013  
+<h2> review.text </h2>
+
+ <p> So far all of the disks have been good.Usually one or two are defective and I end up using them for coasters. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> So far ,so good </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> Product ID <h1>
+ <p> B00101XVH2 <p>
+
+<h1> REVIEWS <h1>
+
+
+
+
+<h2> review.date </h2>
+  07-27-2009  
+<h2> review.text </h2>
+
+ <p> This  headphones have a magnificent sound but they are really unconfortable to wear, al least for me. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Good Sound, really uncomfortable </p>
+
+
+<h2> review.date </h2>
+  09-10-2011  
+<h2> review.text </h2>
+
+ <p> On a classic jazz recording like Desxter Gordon's Ballades has a tendency to suppress the bass lines -  similar issues on violin  - perhaps these are best suited to rock  - Also some harshness on crescendos on classical - still deciding if a product defect is the key. All listening on a top headphone amp. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Hard to pin down </p>
+
+
+<h2> review.date </h2>
+  05-23-2014  
+<h2> review.text </h2>
+
+ <p> Let me start off by saying that I am not an audiophile. I was just looking for a step up from my apple earphones; and wow was this a leap. I have had these headphones about a year and have had plenty of time to listen to them. The HFI-780's are a world away from what I was used to. These headphones seemed to have breathed new life into my music. I listen to mostly techno/house/electronic/trance and some pop. Let me say that these headpones are great for techno/electronic/trance/ect. The headphones are a very energetic and can be a bit aggressive. I have heard others describe them as a &#34;fun&#34; pair to listen to and I would definitely agree. However, they have never fatigued my ears, ever after listening for a couple hours. The only comfort issues I have run into have been 1) they clamp very tightly(a little uncomfortable) when you first get them, but this has gotten better and no longer bothers me. and 2) if you use them for an extended period of time, they feel a little humid. But taking them off for a minute fixes this and allows my ears to breath.Overall:Treble- good, clean, crisp, and sparklyMidrange-good, no complaintsBass-Tight, controlled, yet plenty of bass. It can be made a looser and a lot more pronounced easily by playing with the eq settings or an external amp.I would highly recommend these headphones and Definitely by an amp with it. They can be driven without one no problem, but it just sounds better with an amp. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Non audiophile after a year </p>
+
+
+<h2> review.date </h2>
+  01-19-2011  
+<h2> review.text </h2>
+
+ <p> I bought Ultrasone HFI-780 with low expectations, i just wanted headphones that are safe to listen to. Sound quality is average i think, slightly better than my v-moda vibes. but the problem i had is that it was painful to listen to them, it would hurt inside of my ears when i listened to these headphones. something made it painful inside of the ears and due to headphones design, it was also uncomfortable to wear them. You really would have to a small head to wear them comfortably. As for looks, i think they are average. I ended up returning them to amazon because I was not able to use them. with all of my years of shopping at Amazon, this is my first return. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> first product i returned to amazon </p>
+
+
+<h2> review.date </h2>
+  05-31-2009  
+<h2> review.text </h2>
+
+ <p> When you first wonder what you are missing by listening to you music with those ear buds that came with your iPod, you can find yourself on a rewarding (and expensive)journey. I knew that the iPod earbuds were seriously lacking, many songs had muddled bass and highs.My journey to find the perfect headphones started with theAudio-Technica Airtight Dynamic Monitor Stereo Headphones, an improvement over my iPod buds but very uncomfortable. My next leap was theAudio Technica ATH-A700 Closed-Back Dynamic Headphones With Double Air Dampingand they are really a wonderful headset. The are a closed headset, and I wanted to hear an open one so I got the much touted for rock listening, Grado SR80 Headphones which for awhile became my favorites. I am using all these cans with my Toshiba laptop and iTunes, mostly high vbr mp3s. For my iPod I am using both theSennheiser PX 100 Collapsible HeadphonesandYuin Pk2 Earphonesboth of which blow iBuds out of the water.But once you start down this path, you seem to always want more. I had read many reviews on headfi.org and one had stated that the HFI-780 had good bass and were probably the best cans under $350, a pretty bold statement. I decided to take the plunge and they now are my favorites. I use them with myToshiba Satellite X205-S9349 17-inch Laptop (Intel Core 2 Duo Processor T7100, 2 GB RAM, 240 GB Hard DRive, HD SuperMulti DVD Drive, Vista Premium),Audio Advantage Micro USB Sound Card, and a portable headphone amp (Little Micro Dot +) and this setup has the most full, crip sound I have yet to hear from any source. The lows are more defined and substantial then the Grados. The surround gives music more of a feeling that the music is being played live all around you, and you can pick out where instruments are being played.When you upgrade to a headphone this good, there are some things you need to realize. First, there is a break-in period. Some like to use "pink noise" over a period of time. But no matter what you do, your headphones will sound different over time, usually for the better. You may also need to experiment with your setup. I initially was just playing out of the laptop jack, using the on board sound card. The Ultrasone's did not sound good with that setup, bass was not well defined, there was a hiss in the background and the music was not full. Using the Turtle Audio to process the sound removes the processing from the EM interference within the laptop that can cause distortion. The amp added fullness, I have the computer's volume to the max and adjust it with the amp's volume switch. Next, higher end headphones can amplify bad music sources. mp3s can have a whooshing noise in the background because mp3's are a compromise between file size and quality, so try and use higher vbr mp3's. And once you really hear what you are missing in your music, you know that these headphones really are worth the cost.EDIT: For those that do not like the pleather pads, the velour pads for theBeyerdynamic DT 250 - Headphones ( ear-cup )which can be found online will fit it nicely. There is a metal band under the plastic cover on top that can be bent for those complaining of a too snug a fit.EDIT 4/2011  Just under 2 years and they are still going strong. Clarity, strong base, large sound stage, these cans just seem to sound better and better. Amazon carries theBeyerdynamic EDT 200 Velour Padded Earcushions for DT250, DT280, Sony MDR7506 and V6 Headphones (Pair)now and they are cheaper then anywhere else since they are Prime eligible. I don't think Ultrasone makes this model anymore so grab a pair while you can! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> My Best "Cans"! </p>
+
+
+<h2> review.date </h2>
+  10-19-2010  
+<h2> review.text </h2>
+
+ <p> This is the second pair of ultrasones that I bought on Amazon. The other pair is an HFI-550. ALso a very good durable pair of phones.It's a beautiful broad sound. I'm listening to Morrisette Unplugged right now. You can hear everything crystal clear. The Bass in the background is amazing. Never heard it sound so good before on my other none-ultrasone headphones. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> WONDERFUL PHONES </p>
+
+
+<h2> review.date </h2>
+  12-22-2013  
+<h2> review.text </h2>
+
+ <p> Very smooth and detailed sound without massively thumping bass or dentist drill midrange peaks. The sound is incredibly detailed with very tight bass control. These really shine with modern, well produced content, and play very loudly.With a good source and well recorded content it sounds like you are actually there. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Brilliant. </p>
+
+
+<h2> review.date </h2>
+  07-07-2008  
+<h2> review.text </h2>
+
+ <p> When I got these headphones, I didnt expect them to be this much of a improvement over my current headphones. But I was wrong, when I put these on my head I was shocked. I heard things I never heard, not even with the AD700 I had before these.The headphones band was tight for a while then it loosing up, also the headphones went thru the stage of burning in and still are. They sound even better now then they did when I bought them. They sound great while combine with the OPA627AU opamps that I using with my Auzen Prelude.I wished I got these sooner. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great headphones </p>
+
+
+<h2> review.date </h2>
+  05-28-2012  
+<h2> review.text </h2>
+
+ <p> These are the first headphones I've purchased...LOVE them.I did a lot of research and decided on these after reading these suit electronic music well.Couldn't agree more, I feel like these are ideal for EDM/house... they don't sound too great with other music like rock or anything lyric based but for my style of music, I couldn't be happier. Great bass and sounds perfect with electro. Love the comfort too, fit perfect for me.Only question now is if I need a headphone amp or not, I run it out of an HP laptop with the beats audio so I think it gets enough power as is. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> First headphones I've purchased...LOVE them. </p>
+
+
+<h2> review.date </h2>
+  10-13-2012  
+<h2> review.text </h2>
+
+ <p> The sound quality is distant and the highs are extremely emphasized on these cans, but they're too darn good looking to send back. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> 1 word: Sexy. </p>
+
+
+<h2> review.date </h2>
+  10-27-2011  
+<h2> review.text </h2>
+
+ <p> I am not an audiophile. However, I am quite a fan of heaphones/earphones and I own a good few of them. I discovered the Ultrasone brand back in 2006 (700-DVD) and I was blown away by the terrific Audio CD demo.Since then, I have increased my collection quite greatly. I stayed quite in love with Ultrasone products and I have now the 700-DVD, the HFI-15G and now the HFI-780S (since about 6 months now). I also own the ATH-900, the AKG Q-701 (the Quincy Jones signature), Grado SR-60i, Sony MDR-V6 and one Beyerdynamics.All of this to serve as means of comparison.The 780-S are in the price range of the ATH-900 and in competition with it because the AKG are open headphones and should not be compared.I had quite a hard time determining which one was my favorite Headphone between the two because, although they are in a similar price range and both closed, they sound different.The Ultrasone has a very pronounced bass feel, a strong "in your face" medium and highs that can get a bit sibilant. Where they fail in my opinion is in the comfort.The ATH-900 have less bass (but not lacking), more recessed mediums and fine highs. Where they shine in my opinion is in the soundstage. They are also very comfortable and can be kept for a long time without tiring.At the end, I use the ATH more often because of the comfort and the great soundstage.On a sidenote, I have tried replacing the pads on the Ultrasone but it changed the quality of the sound and make them feel even more sibilant. On top of it, the discomfort does not really comes from the earpads but on the heavy pressure the headband is exerting on my skull.Let's recapitulate:Pros:- Overall very good sound.- Very good bass.- Give a very energetic rendition of the recordings. Very good for rap/ Rock etc...- Easy to drive- Very good for games and movies.Cons:- Extremely uncomfortable. Hard to keep for more than 30mn at a time in a standing position. Laying down relieves some of the pressure exerted on the skull.- A bit sibilant.A final note:The Sony MDR-V6 may have been my revelation for this year. The cost is about one third of the Ultrasone but not the performance. These headphones may have been a bit forgotten since they came out last century but they are very solid performers all around. They are also extremely comfortable. I may not put them at the exact level of the Ultrasone or ATH but the Sony are not that far. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good sound, very uncomfortable </p>
+
+
+<h2> review.date </h2>
+  12-30-2011  
+<h2> review.text </h2>
+
+ <p> -----TL;DR version =PROS = Deep yet controlled bass; clear mids and highs; wide soundstage; "fun" to listen to; low-impedance (easy to drive); deep earcups don't cause ear fatigue; short cord (1m) for easy portability.CONS = "Sparkly" treble might be too harsh for extended listening; clamping force might be too much for some people.-----Now for the long version...This review might be a bit lengthy, so bear with me. I take product reviews quite seriously, and as a reviewer myself, I try to make sure that I am as informative as possible, and to be completely familiar with an item before reviewing it. Anyway, today I'll be reviewing the HFI-780, and for the past year and a half, the HFI-780 has been one of the few things in my house that I use on a daily basis. When I'm in front of the computer, the HFI-780 is almost always on my head.First off, I'm going to give a brief background of the headphones I've previously owned, and how I ended up with the HFI-780's. My very first set of headphones were theSony MDR7506 Professional Large Diaphragm Headphone, which I bought over 5 years ago. They are still some of the best studio headphones on the market. Though personally, I found the sound signature to be a bit too flat/neutral for my liking. I wanted something that was fun. So then 3 years ago, I jumped ship to open-back headphones and bought myself aSennheiser HD595 Dynamic High Grade Performance Premiere Headphones. The HD595 is still one of my most favorite cans, and quite justifiably, due to its very open and airy sound, as if I'm listening to speakers or listening to a live concert. In the headphone community, open-back headphones are arguably the best-sounding type of headphones, since they do not restrict airflow, thereby making them very natural-sounding. Now, one of the downsides to having open-back headphones is sound leakage. Being designed the way they are, sound that is being made around you can easily be heard, and similarly, the music you're listening to can also be heard by those around you. The second drawback to open-back headphones is that the bass response is usually not as resonant as those on IEMs (in-ear monitors), or closed-back cans. This lack of bass can usually be corrected by playing with the EQ, having a dedicated amp/DAC, and/or buying more expensive headphones like theSennheiser HD 650 Headphones.So, after owning the HD595 for awhile, the 2 drawbacks I described pushed me yet again to search for the "perfect" set of headphones. This then led me back into the realm of closed-back headphones, and I started doing some extensive research on forums like Head-Fi, and various other sites. After whittling down my choices, I ended up deciding between the Audio Technica ATH-M50, Berydynamic DT-770, Shure SRH840 and Ultrasone HFI580/HFI680/HFI780. I auditioned quite a few of them at local music stores, and borrowed the others from friends. Here are some of the criteria by which I made my final decision to purchase the HFI-780's:*Clear-sounding treble & midrange*Accurate/deep bass (yet not overpowering)*Wide soundstage*As open/airy sounding as possible (quite difficult with closed-back headphones)*Able to be driven easily on a regular PC sound card or average PMP (low impedance)*Can be comfortably worn for long periods at a time*Versatile in all generes of music, and also be good for watching movies.Below, I'll cover 3 main points of the HFI-780's which I feel need to be addressed:1) Comfort/Build quality:The HFI-780 is built very well, and although being made of mainly plastic throughout, the plastic is of high quality. There's no creaking, no rattling -- as expected from the Germany-based company. Having worn this headphone extensively, I must say that after breaking them in, the clamping force, as some have criticized the HFI-780 for, is not bad at all. If you are used to headphones that lightly rest on your head (like the HD595), the HFI-780 might feel very different and uncomfortable at first, but the clamping force is definitely not a "jaw of death" like some people make it out to be. Also, part of the reason for the relatively tight fit might be because these headphones are meant to seal off sound from the outside, so without the headphones clamping down, the muffs wouldn't form a tight seal around your ears. I'd also like to mention that the earpads on the HFI-780 are "pleather" (AKA fake leather). They are quite comfortable, but definitely not as comfortable as velour or real leather pads. In terms of durability, the pads have held up very well for me in the past year and a half. They have become less soft than they were originally, but is still comfortable to wear. Though, I can see that the pleather material is starting to show some wrinkles and very very slight cracks, so it might start peeling after another year or so of wear.Another thing that I want to mention about the comfort is that the HFI-780's are relatively roomy inside the earcups, and don't press against the ears while wearing them. One of the things I hated about some other headphones were the shallow earcups. With shallow earcups, after only about an hour of listening, the edges of my ears would become sore from the constant contact between my ear and the drivers inside of the headphones. If you've ever listened to supra-aural headphones (on-top-of-ears), like Grados, you'll know what I mean. Thankfully, this is not the case for the HFI-780's. The 780's are truly circum-aural headphones (around-the-ear). Though, as everyone has differently shaped ears, your mileage may vary.Also, there are 2 production versions of the HFI-780, the only difference being the length of the attached cord: 1 meter (new version) and 3 meters (old version). The 3-meter version has been phased out by Ultrasone, so nearly all of the major retailers now only carry the 1-meter version. I purchased my 780's directly from Amazon, and it is in fact the 1m version. For me, having a 1m cord is leaps and bounds more convenient than having a standard 3m cord, since on a daily basis, who really needs a 10-foot long cord? A shorter cord basically means that your chair won't be constantly rolling over the cord, and you'll be able to take the 780's on-the-go without having to tie up all of the excess cordage. Though, should you ever need the extra length, the 780 also comes with a 3m extension cord (making 4m total length).2) Sound quality:Sound quality is quite subjective, and is generally pretty difficult to describe precisely to others. But as this is a review, I'll try my best to give a clear description of the sound quality on the HFI-780's, without going into too much audiophile mumbo-jumbo. While open-back headphones like the HD595 would be like sitting 4 rows back at a LA Philharmonic performance in a concert hall, the HFI-780 is akin to standing in the front row of a Goo Goo Dolls concert at the Red Rocks Ampitheatre.In other words, the HFI-780 is a very exciting pair of headphones to listen to.A major reason for that is due to the very punchy and resonant bass. The bass response on these is very quick and clean -- nowhere even close to being muddy. When a song calls for bass, the 780's deliver it with precision and punch, then proceeds to decay perfectly, without lingering for a second too long. For those of you who are used to having 2x 24-inch subs blaring from the back of your car, these may not be the right headphones for you, but I assure you, if you like a reasonable amount of bass in your music, the 780's will deliver without a doubt.Moving onto the midrange, the HFI-780 particularly shines in this department. Some would say that the 780's have a sort of "U" shape to its frequency curve (recessed midrange), and running alongside some other headphones (like Grado 225i/325is) that may be a fair comparison, but the midrange on the 780 is definitely not lacking. With songs that contain mainly vocals, the 780 relays with exceptional clarity. Even in songs where cymbals are crashing, drums are booming, and a million other things are going on, the vocals (midrange) never seem to get lost, and when the occasion calls for it, the midrange is as pronounced as it should be.One criticism that I will agree with on some other reviews is that the 780's do sound a bit sibilant (harsh) and bright on the treble side. Right out of the box, the 780's seemed very shrill - an almost metallic sound. Though after the lengthy 180 or so hours of burn-in time, I picked the 780's up and I immediately noticed that the treble (highs) were toned down quite nicely, and the sound was much more balanced and pleasing to listen to. Though, comparing it against other headphones I have, I think one distinguishing factor of the 780 is that the treble still maintains a slightly metallic sparkle to it, which some may like and some may not. This will potentially make prolonged listening sessions more fatiguing for some people, but I haven't had this problem in my many hours of listening to the 780.I also listen to quite a wide variety of music. You name it, and I probably listen to it -- from rock to pop, classical to techno, jazz to alternative, and country to R&B.; I don't listen to much metal, but I'm sure if it came down to it, the HFI-780 wouldn't bat an eye.Not only do they sound awesome with music, the 780's are also my multimedia headphones of choice. They are an absolute blast to listen to while watching movies. The lively nature of the 780 really lends itself to the excitement that movies want to portray. The HFI-780 comes with a 3 meter extension cord, and a 3.5mm-to-1/4 stereo adapter, so you can easily use the 780 with your home theater system.One thing that I want to address is the soundstage and openness of the HFI-780. Although not being an open-back headphone, the HFI-780 is surprisingly airy and open-sounding. Ultrasone states that part of the reason for this openness is due to the incorporated "S-Logic Plus" technology, and whether or not that is true, I do notice a much more spacious sound signature on the HFI-780's compared to other closed-back headphones. Many closed-back headphones that you can find on the market today (e.g. Audio Technica ATH-M50) may sound nice, but also sound very cramped, almost as if you were stuck in a small room, or even worse, sound as if the music is coming from within your own head. For me, and many others, headphones that resemble live performances are the best kinds of headphones, and the HFI-780 is one of them. Most would immediately jump to the open-back headphone market to obtain the open sound, but as I mentioned earlier, regular open-back headphones have: 1) sound leakage, and 2) anemic bass (without investing in extra equipment or a more expensive set of open-back cans). So, I would say if you want closed-back headphones that have open-back characteristics (wide, open soundstage), then the HFI-780 is as close as you can get.One thing to note is that the HFI-780 really comes to life after a proper burn-in period of 100+ hours. And even after those initial 100 hours, up to about 400 hours, the HFI-780's continue to settle in and round out the sound signature. So, right out of the box, you might feel underwhelmed. and you're welcome to take a quick listen. But thereafter, I would suggest that you plug the 780's into an audio source, crank the volume up slightly past comfortable listening levels, and leave the 780 in a pile of clothes for a few days. The effectiveness of a burn-in period is sometimes debated in the audiophile community, but out of all of the headphones I've listened to and people I've talked to, the burn-in process really does make a noticeable difference in the sound signature. The same principle applies to breaking in new shoes to make them more flexible/comfortable.3) Price:With the sound and build quality you're getting with the 780's, the current price on Amazon is an absolute steal. The 780 stands head and shoulders above its competition (of which there aren't many), like the Audio Technica ATH-M50, Beyerdynamic DT-770, and Shure SRH840.-----All in all, the HFI-780 has a very energetic and dynamic sound signature -- one that certainly cannot be forgotten once you've listened to them.Some of you may be deciding between the different HFI models from Ultrasone, so I'll give you a brief survey of the differences. The HFI-580's are more recessed in the mids than the HFI-780's, but have a bigger bass response. To me, the HFI-780's already have more than enough bass, so the 580's wouldn't make much sense in my case. The HFI-680's, on the other hand, is smack dab in the middle of the 580 and 780 in terms of frequency response. The 680 is more neutral (flat) sounding than both the 580 and 780, so might sound a bit boring in comparison. Having tried all three of them, the Ultrasones are all very good headphones, and I don't think you can go wrong with any of them.Though, having had the most experience with HFI-780's, I would highly recommend the HFI-780's to anyone who wants a really nice pair of headphones on a budget, as I believe the HFI-780's would still be worth the cost even if it were selling for $200+Anyway, I hope this review helped. Good luck choosing! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A closed-back headphone with open-back characteristics... </p>
+
+
+<h2> review.date </h2>
+  12-11-2012  
+<h2> review.text </h2>
+
+ <p> These were the best pair of cans I ever heard.  However, the hfi 580 sound near as good for 40 less.  I love the short cable and line extender that comes with this set though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Awesome sound. </p>
+
+
+<h2> review.date </h2>
+  03-08-2013  
+<h2> review.text </h2>
+
+ <p> Let's start with the design.  These are sturdy-looking headphones, but will not win any design awards.  I would say these give off an "audio geek" vibe, as opposed to some other headphones in the price range.  I don't have a problem with that, but the design is not for everyone.  I'm not a huge fan of the shiny silver, but it's not a deal-breaker for me.I am a huge fan of how these fold flat and I can slip them in my relatively thin laptop briefcase.  Big win there.  And because they aren't built with exotic materials, I'm not at all concerned that they might take a small beating while cramped in with my electronics.  They do come with a travel bag, if that's a concern.  I'm also a big fan of the length of the attached cable, as it's only a couple feet long.  This is perfect for most of my applications (iPhone, laptop listening), and for those where this length is too short I just add on the included extension cord, which adds on several more feet of cable.Comfort-wise, these are among the best I've tried.  The earpads are larger than Sennheiser's Momentum, and sit around my ears entirely, so there is no pressure against my ears at all.  The pads have a soft material, pleather-like.  I have worn these for hours and have not had any comfort issues at all.  I've also not experienced the sweaty ears I usually do with closed sets, so that's a huge plus as well.  I have a very large head, and the clamping pressure is great for me.  No complaints there.Now on to the sound.  If I had to describe the sound characteristics of these in one word, it would be: "Clear".  These sound crystal-clear in all areas.  The bass is clear, the mids are clear, and the highs are clear.  Everything is also tight, there is no muddiness or sloppiness to be found anywhere.  Coming from the Momentum, these have a little less bass presence and energy, and much more treble presence.  The sound is super balanced and beautiful.  I have an easier time hearing little details in these.  I've also noticed specifically that I have an easier time hearing brass instruments poke through busy songs.  Specifically, "We Are The Reasons" by We Came As Romans has some brass instruments at about 1:16 into the song, and they are easier to hear on these than any other set I tried out before.  It's pretty awesome.I have been enjoying hard rock *much* more on these than any sets I've heard previously, but they are not limited to sounding good in that genre.  Because of their balanced sound and lively characteristics, they really do sound more like "live" music than the other sets I've listened to at price-points up to $350.  These really do sound like listening to an impeccably-balanced live concert, and that's really about the best praise I can give a set of headphones."Bleed" by Cold is a song I used to separate good-sounding and great-sounding headphones in the past, and it sounds best on these.  Previously Harman/Kardon's CL had this honor, but it sounds a little more natural on these.  There was a little too much warmth on the H/K set, and these have just a bit more clarity and the bass never starts creeping up into the mids.Damien Rice's album "O" sounds phenomenal across-the-board on these.  There are a ton of little details in a lot of the songs, and I have no trouble picking them up on these.  Beyond that though, everything just sounds natural and beautiful.  Clarity is beauty, here.Listening to Dredg's "The Canyon Behind Her"...oh man, goosebumps.  The end of this track has always been a favorite moment of music for me, and it sounds sublime on these.  It ends with an all-male choral section, and it's gorgeous.  You owe it to yourself to listen to this if you haven't yet.  All I can say is that every individual note here is perfectly rendered and sounds perfectly balanced with the others.Moving on to orchestral/symphonic pieces (if video game music counts as such), listening to the "Echoes of War" album featuring music from Blizzard Entertainment's series.  Brass instruments sound incredible on these - they have an exactly appropriate amount of bite to them, just like I remember in my trumpet days.  I love the sound of trombones, and when a set of speakers or headphones does it right it's awesome.  These do that.  But not at the expense of everything else.  I can actually hear the tuba notes!  And not just "some brassy-sounding bass note".But it isn't just the brass instruments that are highlighted, strings sound great as well.  I love when I can actually hear the bow moving across the strings.  The soundtrack to "The Assassination of Jesse James By The Coward Robert Ford" is amazing.  "Song For Bob", I've never heard the upright bass sound this clear.  Granted this song sounds good on any decent set of cans, but it sounds "real" on these.  There is a difference.I could go on listing music that sounds phenomenal on these, but the bottom line is that *any* music sounds incredible on these to my ears.Everything.  Sounds.  Incredible.  To me.  I can see how some might be looking for a more relaxed presentation, and some might be looking for more bass presence and depth, but in either of those cases you're making a sacrifice in one area or another.  I seriously feel like I'm making no sacrifices with these, and would change *nothing* about the sound signature given the choice.  And they're comfortable!  And closed!!  And freaking portable!!!!!  All win.  I cannot say enough how pleased I am with these. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Like listening to an impeccably-balanced live concert </p>
+
+
+<h2> review.date </h2>
+  12-05-2012  
+<h2> review.text </h2>
+
+ <p> I bought these after glowing reviews of this right here on amazon. I have to disagree.1. Sound is great for movies like it is advertised for. The bass has a low thud and not fat, which is great for door slams, engine rumbles and explosions. Like everyone says it is sibilant, it has a treble-y hiss sound. But this is good for sounds effects, glass shattering, etc.2. For music the sibilance is noticeable. Sssss sounds on vocals. The feeling my hearing will hurt with the sharp treble exposure. I tried tweaking the treble on an eq, but then I couldn't get the rest of the sounds balanced, the vocals would have an a.m. radio sound midrange when I turned down the trebles, then turning down mids just messed things up more.3. I have the 580 now, but didn't compare side by side with the 780's. The 580 sound is great without any eq mods. Maybe the bass is a little bit fat for my tastes, but most people would like this. It also doesn't have quite the low thud that I got on the 780, but this may be my imagination.For some reason I got a little seashell over ears sound with the 780's but not with the 580. This might be b/c the 580's bass is fuller, filling that space (total guess).4. The foam thing at the top gets uncomfortable, feels hard. But since these go around your ear, I have no ear pain and can wear at work all day. The Klipsch image ones was on-ear and incredibly uncomfortable.Also, it blocks out high sounds like waterfalls but not only muffles talking ok. My senheiser cx20's blocked noise better, though talking was blocked better it was still audible. Cx20's sound was pretty great too but I was getting wax pushed in over time (sorry)I recommend 580 for closed. However, if you dont need noise isolation my beyerdynamic dt 990 beat any closed headphone by a mile.Note: Yes i burned  all my headphones by playing overnight for about a week. Some say 150 hours burn for 780 but that is ridiculous, not worth it if that is truly required </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great for movies. Vs 580 </p>
+
+
+<h2> review.date </h2>
+  05-20-2013  
+<h2> review.text </h2>
+
+ <p> Dollar for dollar, these are the best I have tried. They have a long cord and are really comfortable on the ears. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Headphones </p>
+
+
+<h2> review.date </h2>
+  07-27-2012  
+<h2> review.text </h2>
+
+ <p> I needed a pair of closed back, over-ear, Audiophile grade cans when I am at the library, because my Grado's hooked-up to a headphone amp broadcast my iPod playlist to everyone around me.after intense research ( with limited on-ear testing)...the big box stores and airports only have the Monster Dre Beats on display, or Bose noise-canceling, not brands like Ultrasone, Beyerdynamic, and Sennhiser, so most of the time you are hunched over the iPad, or laptop reading review after review, which is daunting due to the fact that critics love giving reviews of 1,000+ cans...does the normal mid to high-end consumer need to know how crisp the new $5,000 planar headphones sound on their professional equipment.  remember most of those reviews are done using a 1,000 DAC connected to a audiosource nowhere near my iPod touch.Sound, so far:I have been breaking these in for the past 18 hours, essentially as soon as they got out of the box.  occasionally I will listen to an Eagles Remastered track, or Mettalica FLAC file of Enter Sandman and these sound great.S-Logic Feedback:I now know what Ultrasone means about their surround sound technology.  Put simply, it makes your closed-back cans littely sound like open-back cans.  it is rather cool thing to hear ( or perceive).Comfort:Nice.  the ear ups remind me of how Bose feel...big, airy feel, but within a smal design.  The metal dampening outer shell give them a look of rock solid construction, superior feel when doning them, and rigidity during wear, plus they just look cool.Cord:yes, I am surprised too that I am commenting on the cord.  why, it's the perfect length for a portable device or DAC plugged into your laptop.  it also comes with an extension, just in case.  nothing more annoying than getting a pair of earbud, headphones, etc and having a 19 foot cord to negotiate with.Current score:based on features, design, build, and sound (so far) I give the 780's a 5 star rating for my initial impression. this is the highest initial score I have ever given to headphones, including my Grado SR80's. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> These hit the spot - Best all around in it's price point </p>
+
+
+<h2> review.date </h2>
+  07-16-2011  
+<h2> review.text </h2>
+
+ <p> I love my Grados (80i) and have owned or listened to most of the other major IE and OE manufacturers: Shure, Westone, AKG, Senns, Denon, etc. Aside from my Pro 900s (Ultrasone), these are the best I have heard. Without trying to speak audiophile jargon, I will tell you they have bass, they reveal details that other expensive headphones might not, and they perform across all frequencies. Doing a real-time swap with the 80is really makes me wonder why I think the Grados sound so good--which I do, when I'm not swapping them out with Ultrasones.I bought these because I was so impressed with the 900s and wanted something portable, even though they are billed as a video game and dvd headphone. Not sure why they didn't just say an everything headphone because that's what they are, but in any event don't think they are not musical. They are. Very.Portable, durable, finish is extremely nice. I have no complaints.The 900s are definitely better, but they are also heavier, much more expensive, and much larger. Read, not as portable. If you don't want to drop the money for 900s, you are not going to lose a whole lot in sound quality (especially compared to other brands) by buying these. If you want a good home-portable one-two punch and can afford both, life is good.Broken in and tested on HiFiMan EF-2A with matched Mullard tubes and FiioE7E9 combo. Sound especially good with the tubes, but sound great with the Fiio as well--which I use as my portable/office amp. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Detail </p>
+
+
+<h2> review.date </h2>
+  06-15-2013  
+<h2> review.text </h2>
+
+ <p> Good quality, comfort, and sound.  Much better than my senheiser HD-280s in all three of these categories.  The ear cups are plenty big to fully surround your ear without touching it, and i would not want them to be any larger like the ultrasone pro series. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> A good value </p>
+
+
+<h2> review.date </h2>
+  05-29-2010  
+<h2> review.text </h2>
+
+ <p> Coming from owning a great deal of headphones (grado sr60, 80, 225, alessandro ms1, ms2. sennheiser hd 595, 580, px100, px200, yuin pk2, ok2, koss ksc35, portapro, ultimate ears ue5, livewires T1) my experience of headphones have been the lower line of open cans or in ear monitors. So when I picked up the ultrasone hfi-780, I did not have that high of expectations, even though they cost more - they are still closed. It has been a long debate in the audiophile community about what type of headphone offers the best sound, but the general consensus is that open headphones offer just quality and clarity that you cannot get with the closed kind. With the closed you get some kind of "tin can" effect as they say..and that means exactly what you think.What is in the box: Headphone, velvet carrying bag, 8ft extension. I bought mine from another source used (for about $130 - so consider other sources before buying new). At any rate, there may be other things that are included that I am not listing.Construction: In audiophile communities, there have been polls to ask which is the best looking pair of headphones. The hfi-780 is a big winner a lot of the times. The headband is solid plastic, and has padding to make it comfortable. The Cups swivel to go flat, so it is an easy pack, and for DJ's out there, the cups flip around for you to monitor your sources on the fly at gigs. The cups appear to be metal - but no - they are plastic. Just shiney nice looking plastic. Definitely one of the nicer looking cans out there. The cable is a nice length for me since I use these sitting at a computer...just enough (around 3ft) I love not having excess cable. Even though they are shorter, they come with an 8ft extension. Great compromise in my eyes.Sound Quality: Putting on the hfi-780, I was instantly surprised of the force of the sound coming to my ears. Great bass. The soundstage is a bit lacking - I feel like the band is coming from just one spot, instead of surrounding me. Highs are a little lacking, mids are very present, lows are very present.  Clarity is surprising. There is limited muddyness coming from these headphones, which is a good thing since these are closed. Compared to the grado sound - I like my grados more because of the "rock" factor but these are between the grados and the senns for my tastes. I could never get used to the senns because they were so laid back. I would say that these  ultrasons are the middle ground.Comfort: This is where i have a problem. If you have a bigger head - good luck. These things will clamp on your head. I can't use these for more than an hour at a time which is okay to me, since I use these primarily for music production. The pleather headphone pads are alright but I had an extra pair of beyerdynamic velour pads for the DT250, and they fit perfectly to add on comfort. Velour > fake pleather.Final thoughts: These are solid headphones with the above caveats. They look good, sound good...but comfort might be an issue. I would recommend these to anyone though. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Surprising clarity and bass for a closed headphone </p>
+
+
+<h2> review.date </h2>
+  05-24-2012  
+<h2> review.text </h2>
+
+ <p> I finally gave in and spent $500 on some Senheiser 650s for practice drumming through a high quality headphone amp.  I probably would not have bought them if I had tried the Ultrasone HFI-780 S-Logic Surround Sound Professional Headphones first.  These are fantastically clear, beautiful cans. I do detect the difference in total harmonic distortion: these buzz a little at the bass end when I push them hard with an mp3 player as input.  But if your music is clean and clear, these will bring it all to you - and for $350 less than the Senheisers.  I love them so much I want to keep both pairs, but this pair goes to work to shut out office noise (and will be reimbursed).  I am still tempted to buy a pair to keep at home just because they are so good.  ONE CAVEAT: you don't get the exquisite velour cups of the Senheisers with these - they are plastic, so long drumming sessions would tend to get messy, and even quiet listening, these will heat up inside. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very very high quality sound for their price </p>
+
+
+<h2> review.date </h2>
+  12-08-2012  
+<h2> review.text </h2>
+
+ <p> For someone who enjoys the sound, I recommend it without any restrictions. For both, films, and music, especially if you like rock and jazz ... </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent!!!!! </p>
+
+
+<h2> review.date </h2>
+  04-15-2008  
+<h2> review.text </h2>
+
+ <p> I tried many pairs of headphones, read reviews and these are OUTSTANDING, what live surround sound they have and that is just off a computer and ipod touch around the house of course.I won't be wearing these larger cans out and about. Connecting them to my sound system gave me near the same sound as my 7 channel system puts out and of course on that level you can adjust bass and treble and so on.  Even with the pod and computer the sound was simply grand to me.Shop around as I got mine recently for $204, tax and shipping included. I did check out some others of Sennheiser and Denon, both excellent but double the price and these just have a live sound and let me hear everything.These are closed headphones and you actually get to listen without outside noises or outside noise at a min.  These are NOT noise cancelling though but they will give you sound like you have never heard from headphones.  I was used to the $20 pair of ear buds so this is 200 steps up!  Again go to real audio stores and try out several pairs as hearing to all is very different.  Music, movies and gaming types all play a role in how things are projected or heard by each individual. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Would Give them 6 stars or more </p>
+
+
+<h2> review.date </h2>
+  04-30-2009  
+<h2> review.text </h2>
+
+ <p> Ultrasone's headphones sound open and natural like open-air headphones yet have all the punch of over-the-ear cans. I just wish their headbands were more comfortable and more robust. All six pairs in our studio have broken wire covers after two years. They still work and still sound great, thus, 5-stars. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Sound At Any Price </p>
+
+
+<h2> review.date </h2>
+  09-21-2013  
+<h2> review.text </h2>
+
+ <p> good comfort can get a little painful if ears do not fit inside headphone cup. Headphone cup not recessed so ears can hit inside of headphone causing pain. excellent for movies voices easily heard. Good to very good for games. Music above average. No it is not as good as my open ended for music. i have lots of headphone sets and i am using this quite often. smaller set and portable. durable built well very good styling. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> outsanding for movies very good for games music is good </p>
+
+
+<h2> review.date </h2>
+  01-14-2009  
+<h2> review.text </h2>
+
+ <p> I bought these about 2 weeks ago and was immediately stunned by the sound quality right out of the box. There is something very pleasing about the sound. As these head phones begin to " burn in" the bass muddies a bit and the balance of the tone gets out of whack. Then the true creaminess of the sound begins to emerge. It took about 40 hours to break them in and will likely take more time to really get the best from these. Most of the time crap like 3D surround sound is just hype. I say believe the hype. This is not movie surround sound but it does give a good sense of spaciousness especially when paired with an audiophile headphone amp like the Rudistor NX-02 (now -03) or the Grado RA 1. These are low impedance closed back headphones. This means it seals out the ambient noise and prevents leakage. I wear these in my bed while falling asleep and they are very comfortable and durable. This is the sweet spot in their line up. You can pay up for the proline but it's unlikely the sound will noticeably improve. I will try their open backed phones some time this year but I'm not looking forward to the suggested 300 hr burn in period. These are great for movies, music, and TV as well. The bass reproduction is simply MEAN. It's deep, well defined and gets better the more you use them. 40 hrs. before you can begin to understand what I mean. Sweet sound meets the sweet spot. Oops there it is. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> The sweet spot </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>

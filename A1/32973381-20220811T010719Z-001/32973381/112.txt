@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Declared Vars To Go Here -->
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Metadata -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link rel="icon" href="mysource_files/favicon.ico">
+
+    <!-- Page Name and Site Name -->
+    <title>A1-Task1</title>
+
+    <!-- CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="mysource_files/style.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <header class="header clearfix" style="background-color: #ffffff">
+
+        <!-- Main Menu -->
+        <nav>
+          <ul class="nav nav-pills pull-right">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+
+        <!-- Site Name -->
+        <h1 class="h3 text-muted">Site Name</h1>
+
+        <!-- Breadcrumbs -->
+        <ol class="breadcrumb">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Level 1</a></li>
+          <li class="active">Level 2</li>
+        </ol>
+
+      </header>
+
+      <div class="page-heading">
+
+        <!-- Page Heading -->
+        <h1>Page Heading</h1>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-sm-3">
+
+          <!-- Sub Navigation -->
+          <ul class="nav nav-pills nav-stacked">
+            <li><a href="#">Level 2</a></li>
+            <li class="active"><a href="#">Level 2</a>
+              <ul>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+                <li><a href="#">Level 3</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Level 2</a></li>
+          </ul>
+
+        </div>
+
+        <div class="col-sm-6">
+
+          <div class="page-contents">
+
+            <!-- Design Body -->
+            <h2>Sub Heading</h2>
+            <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+            <h4>Sub Heading</h4>
+            <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+            <h4>Sub Heading</h4>
+            <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+
+          </div>
+		  
+		  <div class="page-contents">
+
+            <!-- Design Body -->
+			<h1> product id </h1>
+<h1> PRODUCT_ID <h1>
+ <p> B005EQSA9S <p>
+
+<h1> product_reviews <h1>
+
+
+
+
+<h2> review.date </h2>
+  02-13-2012  
+<h2> review.text </h2>
+
+ <p> I dont like the programing. For example, I can't change the name of the title of songs from the device and other functions like this. It has to be done using your computer. Not cool!  Other than this, I like it.UPDATE!!!After using this device for about 6 weeks.... it was working fine the night before and the next morning it wont even turn on!  I've tried charging it by USB and the wall and it just wont turn on. I didn't EVER drop it so I'm not sure what's up with it.I like Sony products. Amazon is sending me a new one and I'm sending the defective one back to them.  I had a lot of music on it which I have saved on an external hard drive so no real big loss except I have to return home to Colorado from Hawaii tomorrow and I will be without tunes which sucks!Being a really good customer for over 4 years with Amazon proves to be well worth it. This is ONLY the 3rd product out of spending around $8,000.00 US dollars in over 4 years that I've had to return and Amazon took care of me with the type of business ethics that's hard to find in local stores. This is why I try to buy everything through Amazon, plus it's cheaper and I'm mobility impaired.5 Stars for Amazon but 3 Stars for the device. I hope its just a fluke. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> OK But AMAZON rocks! </p>
+
+
+<h2> review.date </h2>
+  08-07-2012  
+<h2> review.text </h2>
+
+ <p> Another Great Sony product. Easy to use, and it sounds great.I use it at the gym while working out; the FM radio even worksinside the building. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Excellent </p>
+
+
+<h2> review.date </h2>
+  01-14-2013  
+<h2> review.text </h2>
+
+ <p> My daughter had lost or misplaced her Walkman (that I had bought for her), so I had to download many of the song that I had in my music database, and this Walkman is easy to deal with. The download is easy, the music is crisp and small enough to put in her pockets or her small pocketbook. If necessary, I will always order this again!! </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Walkman!! </p>
+
+
+<h2> review.date </h2>
+  02-13-2013  
+<h2> review.text </h2>
+
+ <p> Does all I ever wanted and sounds great. Good size, easy access to menus that are used on a daily basis. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Really nice unit. Does all I ever wanted and sounds great. </p>
+
+
+<h2> review.date </h2>
+  02-18-2013  
+<h2> review.text </h2>
+
+ <p> I bought this when my iPod began to run out of battery power in only a few hours.  The Walkman was perfect in all aspects.  I love the simple controls and sync to my Windows Media Player.  It took a few steps and lots of patience to make it work from my iPod settings, though once you get the hang of it, it's easy... Just a little time consuming.  Plan a few hours depending on your collection to dedicate to this project.  Hey, have a drink and play the Hawaiian music online while you enjoy setting this up.This device will NOT play Audible books on tape items.  Not yet, according to Audible.  They said it will be soon.  I can live with that.  I can read while listening to my Jazz on this Sony Walkman.  It works great with my Bose Q3 headphones.  Just perfect.  When I lay down at night and look at simple magazines before sleep, I play my Sony on Bose Q3 and I'm taken away to a concert hall.Enjoy. :-) </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Great Walkman &more </p>
+
+
+<h2> review.date </h2>
+  12-14-2012  
+<h2> review.text </h2>
+
+ <p> Very good. I gave my wife one and has been happy shooting. He has served as the offer. I recommend it. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Very good. </p>
+
+
+<h2> review.date </h2>
+  03-25-2014  
+<h2> review.text </h2>
+
+ <p> Nice mp3 player, good sound, easy to use. Not very comfortable hold switch. And I don't like interface when I connect to computer </p>
+
+
+<h2> review.summary </h2>
+
+ <p> good </p>
+
+
+<h2> review.date </h2>
+  09-30-2012  
+<h2> review.text </h2>
+
+ <p> it may be the first mp3 player "I" buy ,for me , but i have listened to music in meny different players including phones of all kind and  i must say that this walkman sounds very very nice , it has this awesome equalizer with 5+1 bars , with one dedicated to Clear Bass and it works perfecly i can listen to high bass in so many different music styles and headphones , withought distorting any frequency of sound at all , the earbuds that come with it is impresssive they have a good bass and also have an very good overall sound quality  .the walkman is very resistant , i though i might have lost it when i dropped them like from 5 feet to a concrete floor , but not a scratch i was very impressed and then it fell again and did not want to turn on and i pushe the button in the back to reset it and it started normaly , but now i want a cover for it since it did scrathc the second time , but did not break . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> i love it </p>
+
+
+<h2> review.date </h2>
+  06-28-2012  
+<h2> review.text </h2>
+
+ <p> This is a great little unit. Sony Music Unlimited integration is a plus - really enjoyable synching various channels to the Walkman player. The sound reproduction is excellent, as I would expect from Sony. The WM port is welcome, since I use a digital preout and a heaphone preamp. What I would love is Sony importing some of their accessories into the US. Overall, I have loved Sony's digital walkmen, and this has been the best thus far.Why an MP3 - well . . . with 50 hours of playback time, one doesn't have to wory about charging etc. Also, the playback is significantly better than any cell phone.Anyway, an excellent MP3 player. Kudos to Sony's Walkman team - now if the rest of the company got behind them . . . </p>
+
+
+<h2> review.summary </h2>
+
+ <p> Perfect, Music Unlimited integration a plus </p>
+
+
+<h2> review.date </h2>
+  04-02-2012  
+<h2> review.text </h2>
+
+ <p> i bought this walkman primarily for listening to podcasts. After doing a lot of research on cellphones, i concluded that almost all phones have crippled music players, and can't do podcasts. This is true for feature-phones, android phones, as it is for iDevices.For most people listening to music, if you have a well-organized music library, that is not too big, with good id3 tags, then you can browse by artist or album and that is adequate. But if you want to choose among albums for an artist, or browse classical albums, or hide all audio books from your music choices? Forget it. Most players model themselves after iPod's library, which worked fine back when 5GB was a lot of space on an iPod - these days, with 50,000 songs, it makes it impossible to find the music you want. any wonder people just choose 'shuffle'Another problem is podcasts. Music players, even those apps you have to pay for, don't support Podcasts. Podcasts are different from music in many ways. Usually delete them immediately after listening and then you download more) - Tracks are longer (30 to 60 minutes) you never 'shuffle' tracks but listen to episodes chronologically, make more use of forward/reverse, bookmarking, etc. No phone-based player can handle these requirements.I also found that while devices have relatively large screens, they dedicate 90% of it to album art, and show you tiny truncated tags. After staring at the album art for 1 minute you're done with that, and you might want to see the track title or album, particularly with a podcast. Most players user-interface is not configurable on how it divides its screen between album art, and the various tags. For podcasts, album art might be missing, and you really want to see info in the tags which might be very long.I concluded that i would not choose my next phone based on its music player, because none of them are any good, even considering the high prices, big bright screens, DESIGN was so *universally poor* that no phone could cut it. It seems that Designers don't listen to what people want. Designs start at Apple. Steve Jobs famously claimed that Apple will tell consumers what they want, even if they don't know they want it yet. Call it despotic design. Then, ALL the other manufacturers follow apple's lead. What you end up with is an iTunes/iStore-centric view of media consumption across the board.So i decided to seek a dedicated MP3 player, and carry it around with my phone. I looked at iRiver, SanDisk, Sansa, iCrap and others, and the WINNER was Sony Walkman.The Walkman has the usual music player you've come to expect, and has a good (but not great) podcast player, separate from its music player. The screen displays album art, but makes it pretty easy to see the full text of track titles (with automatic side-scrolling of longer titles) allows easy deletion of podcasts, has fast and slow forward/reverse and the audio is good. Synchronizing is easy. You can use iTunes or MediaPlayer with MTP (media transfer protocol) or just mount it as a USB drive and copy the files and folders directly. I use GoodSync, which will automatically delete the tracks you deleted on the device, and upload all the new tracks.The downside?* it won't automatically advance to the next podcast track. When it gets to the end, it stops. if you press "next" it just restarts from the beginning of current track. For short 4-minute podcasts from The Economist Magazine, it is a hassle to manually select the next track.* Doesn't allow sorting by title or file-name or date, so if your podcast titles didn't start with or contain the date, you might not listen to them in order.* Doesn't map its USB storage as a mass-storage device in windows by default, although there is a way to make it do this, by explicitly installing the MSC driver.Improvements?* browse by folder. Since podcasts usually don't have sensible title/album tags, it would be easier to browse by folders into which they were downloaded.* an option to advance the podcast to the next track automatically* ability program a button to jump forward/back 30 sec or a minute would help with podcasts* firmware updates could fix all these issues easily enough.Overall, this walkman is a good choice, although i admit i wouldn't even need to buy it if phones these days had a decent podcast player. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> beats any cellphone or iDevice </p>
+
+
+<h2> review.date </h2>
+  09-07-2013  
+<h2> review.text </h2>
+
+ <p> I love this MP3 from Sony it has everything I was looking for. I use it on my motorcycle and my four wheeler, I hook it up to a amp with speakers. </p>
+
+
+<h2> review.summary </h2>
+
+ <p> MP3 </p>
+
+</div>
+
+        </div>
+
+      </div>
+
+
+    </div> <!-- /container -->
+
+  </body>
+</html>
